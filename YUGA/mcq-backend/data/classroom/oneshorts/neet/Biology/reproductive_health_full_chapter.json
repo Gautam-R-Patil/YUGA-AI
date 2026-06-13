@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "12",
+    "chapter": "Reproductive Health",
+    "chapter_number": "26",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:36:25.771436",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise the concept of Reproductive Health, a core topic in NEET biology.\n\nReproductive health refers to the total well-being in all aspects of reproduction, including physical, emotional, behavioral, and social health. It's essential for producing healthy individuals and societies.\n\nSimple Explanation:\n- Reproductive health means complete physical, emotional, social health\u2014not just the absence of disease or disorders.\n- Important methods for maintaining reproductive health include family planning, use of contraceptives, and awareness about STDs. \n- National programs aim to educate citizens about reproductive health, reduce maternal and infant mortality rates, and promote safe reproductive practices.\n\nKey Idea: The concept of reproductive health encompasses family planning, avoidance of sexually transmitted diseases (STDs), and awareness of sexual and reproductive rights.\n\nNEET Question Pattern:\n- Questions often include contraceptive methods, focusing on their types and mechanisms.\n- Other frequent topics include symptoms and prevention strategies for STDs.\n- Queries might also focus on government initiatives and their impact on community health.\n\nTypes of Contraceptives:\n1. Natural Methods: Avoiding sex during the fertile period.\n2. Barrier Methods: Using condoms and diaphragms.\n3. Hormonal Methods: Pills, patches, and injectables that modify hormonal levels.\n4. Intrauterine Devices (IUDs): Devices inserted into the uterus, such as Copper T.\n5. Surgical Methods: Permanent solutions like vasectomy and tubectomy.\n\nNational Programs & Initiatives:\n- The Government of India has launched several programs, such as the RCH (Reproductive and Child Health) program, to improve these health standards and spread awareness.\n- Special attention is given to reducing infant mortality and maternal mortality rates.\n- Key goals include accessible healthcare, safe maternal and infant care, and the reduction of STDs.\n\nQuick Revision Points:\n1. Reproductive health includes physical, emotional, and social well-being.\n2. Family planning and contraceptives are crucial for managing reproduction.\n3. Awareness and prevention are vital against STDs.\n4. National programs play a significant role in educating and improving reproductive health.\n5. NEET focuses on contraceptive types, mechanisms, and health program impacts.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Reproductive Health",
+    "Family Planning",
+    "Contraceptives",
+    "Sexually Transmitted Diseases (STDs)",
+    "National Programs",
+    "Reproductive and Child Health (RCH)",
+    "Infant Mortality Rate",
+    "Maternal Mortality Rate",
+    "Barrier Methods",
+    "Hormonal Methods",
+    "Intrauterine Devices (IUD)",
+    "Vasectomy",
+    "Tubectomy"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Reproductive Health",
+      "definition": "Complete physical, emotional, social well-being in all aspects of reproduction."
+    },
+    {
+      "term": "Family Planning",
+      "definition": "Efforts made to plan and regulate the timing and number of children."
+    },
+    {
+      "term": "Contraceptives",
+      "definition": "Devices or drugs used to prevent pregnancy."
+    },
+    {
+      "term": "Sexually Transmitted Diseases (STDs)",
+      "definition": "Infections transmitted through sexual contact."
+    },
+    {
+      "term": "National Programs",
+      "definition": "Government initiatives aimed at improving health standards."
+    },
+    {
+      "term": "Reproductive and Child Health (RCH)",
+      "definition": "Program focused on improving maternal and child health and family planning."
+    },
+    {
+      "term": "Infant Mortality Rate",
+      "definition": "The number of infant deaths for every 1,000 live births."
+    },
+    {
+      "term": "Maternal Mortality Rate",
+      "definition": "The number of maternal deaths per 100,000 live births."
+    },
+    {
+      "term": "Barrier Methods",
+      "definition": "Contraceptives that prevent sperm from reaching the egg, e.g., condoms."
+    },
+    {
+      "term": "Hormonal Methods",
+      "definition": "Contraceptives that alter hormonal balance to prevent pregnancy."
+    },
+    {
+      "term": "Intrauterine Devices (IUD)",
+      "definition": "Devices placed inside the uterus to prevent pregnancy."
+    },
+    {
+      "term": "Vasectomy",
+      "definition": "Surgical procedure for male sterilization or permanent contraception."
+    },
+    {
+      "term": "Tubectomy",
+      "definition": "Surgical procedure for female sterilization or permanent contraception."
+    }
+  ]
+}

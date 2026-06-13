@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Moving Charges and Magnetism",
+    "chapter_number": 4,
+    "topic": "Magnetism and Matter",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:08:34.024185",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will explore the fascinating world of magnetism and matter. Let's start with magnetic properties of materials. There are three main types: diamagnetic, paramagnetic, and ferromagnetic. \n\nDiamagnetic materials are weakly repelled by magnets. They do not have their own magnetic field. Examples include copper and bismuth. \n\nParamagnetic materials are weakly attracted to magnets. They have unpaired electrons that cause this attraction. Examples are aluminum and platinum. \n\nFerromagnetic materials are strongly attracted to magnets. They can become permanent magnets themselves. Iron, cobalt, and nickel are common examples. \n\nNext, let's talk about hysteresis. Hysteresis is when a material keeps its magnetism even after the magnetizing force is removed. The hysteresis loop shows this behavior. It is a graph of magnetization versus magnetic field strength. \n\nNow, consider a bar magnet. It creates a magnetic field around it. Magnetic field lines show the direction of this field. They go from the north pole to the south pole of the magnet. \n\nEarth is like a giant magnet. Its magnetic field protects us from solar winds. A compass works because of Earth's magnetism. \n\nLet's discuss the magnetic dipole moment of a revolving electron. An electron moving in a circle acts like a tiny magnet. Its magnetic dipole moment is due to its charge and motion. \n\nMagnetic susceptibility tells us how much a material will become magnetized in an external magnetic field. Permeability is how easily a magnetic field can pass through a material. \n\nUnits and dimensions are important. The unit of magnetic field is Tesla (T). Magnetic flux is measured in Weber (Wb). \n\nA magnetization curve shows how a material becomes magnetized. It is important in understanding magnetic properties. \n\nMagnetic domains are tiny regions in a material where the magnetic moments are aligned. In ferromagnetic materials, these domains align with an external field, making the material a strong magnet. \n\nCurie's law states that the magnetism of a material changes with temperature. As temperature rises, magnetism decreases. \n\nRemember these key points: Diamagnetic materials are repelled by magnets. Paramagnetic materials are weakly attracted. Ferromagnetic materials are strongly attracted and can become permanent magnets. Hysteresis shows how materials retain magnetism. Earth's magnetism affects compasses. \n\nIn conclusion, understanding magnetism helps us in many fields, from electronics to navigation. Keep these concepts in mind for your NEET exams!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Magnetic Properties",
+    "Hysteresis",
+    "Magnetic Field",
+    "Earth's Magnetism",
+    "Magnetic Dipole Moment"
+  ],
+  "formulas": [
+    {
+      "formula": "M = χH",
+      "description": "Magnetization (M) is the product of magnetic susceptibility (χ) and magnetic field (H)"
+    },
+    {
+      "formula": "F = qvB sin θ",
+      "description": "Force (F) on a charge (q) moving with velocity (v) in a magnetic field (B) at angle θ"
+    },
+    {
+      "formula": "B = μH",
+      "description": "Magnetic field (B) is the product of permeability (μ) and magnetic field strength (H)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Diamagnetic",
+      "definition": "Materials that are weakly repelled by a magnetic field"
+    },
+    {
+      "term": "Paramagnetic",
+      "definition": "Materials that are weakly attracted to a magnetic field"
+    },
+    {
+      "term": "Ferromagnetic",
+      "definition": "Materials that are strongly attracted to a magnetic field and can become permanent magnets"
+    },
+    {
+      "term": "Hysteresis",
+      "definition": "The lag between changes in magnetization of a material and the external magnetic field"
+    },
+    {
+      "term": "Magnetic Susceptibility",
+      "definition": "A measure of how much a material will become magnetized in an external magnetic field"
+    }
+  ]
+}

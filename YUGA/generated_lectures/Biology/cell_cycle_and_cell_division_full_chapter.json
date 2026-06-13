@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Cell Cycle and Cell Division",
+    "chapter_number": "10",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:30:48.170146",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: the cell cycle and cell division. \n\n**1. Concept Overview:**\n- The cell cycle is the series of events that takes place in a cell leading to its division and duplication.\n- It consists of two main phases: Interphase and the M phase (mitotic phase).\n\n**2. Cell Cycle Stages:**\n- **Interphase:** It's a phase of growth and DNA replication and includes three stages: \n  - **G1 Phase (Gap 1):** Cell grows in size and synthesizes mRNA and proteins.\n  - **S Phase (Synthesis):** DNA replication occurs, doubling the DNA content.\n  - **G2 Phase (Gap 2):** Cell continues to grow and prepares for mitosis.\n\n- **M Phase (Mitotic Phase):** This involves both mitosis and cytokinesis.\n  - **Mitosis:** Divided into prophase, metaphase, anaphase, and telophase, it involves the division of the cell's nucleus.\n  - **Cytokinesis:** Division of the cytoplasm, leading to two daughter cells.\n\n**3. Types of Cell Division:**\n- **Mitosis:** Leads to the formation of two genetically identical diploid daughter cells, essential for growth and repair.\n- **Meiosis:** Reductional division that results in four genetically distinct haploid gametes, crucial for sexual reproduction.\n\n**4. Key Formula / Idea:**\n- Chromosome number remains the same in mitosis but is halved in meiosis.\n\n**5. NEET Question Pattern:**\n- Questions often test understanding of phases of the cell cycle, differences between mitosis and meiosis, and importance of processes like DNA replication.\n\n**Quick Revision Points:**\n1. The cell cycle has Interphase (G1, S, G2) and M phase.\n2. Mitosis results in two identical cells; Meiosis in four distinct gametes.\n3. Key events like DNA replication occur in the S phase.\n4. Mitosis includes prophase, metaphase, anaphase, telophase.\n5. NEET focuses on concepts and differences in cell division types.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "moderate",
+  "images": [],
+  "keywords": [
+    "Cell Cycle",
+    "Interphase",
+    "Mitosis",
+    "Meiosis",
+    "Chromosome",
+    "DNA Replication",
+    "Cytokinesis",
+    "G1 Phase",
+    "S Phase",
+    "G2 Phase"
+  ],
+  "formulas": [
+    "Chromosome number remains the same in mitosis but is halved in meiosis."
+  ],
+  "definitions": [
+    {
+      "term": "Cell Cycle",
+      "definition": "A series of phases that cells go through for growth and division, including Interphase and M phase."
+    },
+    {
+      "term": "Interphase",
+      "definition": "The phase where a cell grows, replicates its DNA, and prepares for division."
+    },
+    {
+      "term": "Mitosis",
+      "definition": "A type of cell division resulting in two identical daughter cells, essential for growth and repair."
+    },
+    {
+      "term": "Meiosis",
+      "definition": "A type of cell division that produces four genetically distinct gametes with half the chromosome number of the parent cell."
+    },
+    {
+      "term": "Chromosome",
+      "definition": "A structure made of DNA and proteins, containing genetic information."
+    },
+    {
+      "term": "DNA Replication",
+      "definition": "The process by which a cell duplicates its DNA, occurring during the S phase of Interphase."
+    },
+    {
+      "term": "Cytokinesis",
+      "definition": "The division of the cell cytoplasm resulting in two daughter cells."
+    },
+    {
+      "term": "G1 Phase",
+      "definition": "The first stage of Interphase where the cell grows and synthesizes proteins."
+    },
+    {
+      "term": "S Phase",
+      "definition": "The phase of Interphase where DNA is replicated."
+    },
+    {
+      "term": "G2 Phase",
+      "definition": "The final stage of Interphase where the cell prepares for mitosis."
+    }
+  ]
+}

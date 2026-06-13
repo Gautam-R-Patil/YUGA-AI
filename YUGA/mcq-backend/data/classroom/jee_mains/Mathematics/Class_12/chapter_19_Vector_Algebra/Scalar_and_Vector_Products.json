@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Vector Algebra",
+    "chapter_number": 19,
+    "topic": "Scalar and Vector Products",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:01:28.186161",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about scalar and vector products in vector algebra. This topic is important for JEE Main. It helps solve many physics and math problems. Let's start with the dot product, also known as the scalar product. The dot product of two vectors, say A and B, is a number. It is calculated as A dot B = |A| |B| cos θ, where θ is the angle between A and B. If the vectors are perpendicular, the dot product is zero because cos 90° = 0. You can also find the dot product using components: A dot B = AₓBₓ + AᵧBᵧ + A𝓏B𝓏. This is useful when vectors are given in component form.\n\nNow, let's discuss the properties of the dot product. First, it is commutative, meaning A dot B = B dot A. Second, it distributes over vector addition: A dot (B + C) = A dot B + A dot C. These properties help simplify problems.\n\nNext, we have the cross product or vector product. The cross product of two vectors A and B is a vector. It is given by A cross B = |A| |B| sin θ n̂, where θ is the angle between A and B, and n̂ is a unit vector perpendicular to both A and B. The direction of n̂ is given by the right-hand rule. If the vectors are parallel, the cross product is zero because sin 0° = 0.\n\nThe cross product has its own properties. It is not commutative; A cross B = -B cross A. It also distributes over vector addition: A cross (B + C) = A cross B + A cross C. These properties are useful in solving problems.\n\nLet's understand the geometric interpretation. The dot product gives the projection of one vector on another. The cross product gives the area of the parallelogram formed by two vectors.\n\nIn physics, these products have applications. The dot product is used in work done by a force. The cross product is used in torque and angular momentum.\n\nNow, let's look at the scalar triple product. It is given by A dot (B cross C). It represents the volume of the parallelepiped formed by vectors A, B, and C. If the volume is zero, the vectors are coplanar.\n\nThe vector triple product is A cross (B cross C). It is not as common in JEE Main, but it's good to know.\n\nLet's solve a simple example. Find the dot product of A = 2i + 3j and B = 4i - j. A dot B = (2)(4) + (3)(-1) = 8 - 3 = 5.\n\nNow, a common JEE Main mistake: When finding the cross product, students often forget the right-hand rule. Always remember the direction is important.\n\nKey takeaways: 1. Dot product is a scalar, cross product is a vector. 2. Use properties to simplify calculations. 3. Remember geometric meanings for better understanding.\n\nTo recap, we learned about dot and cross products, their properties, and applications. Practice these concepts to do well in JEE Main. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Dot Product",
+    "Cross Product",
+    "Scalar Triple Product",
+    "Vector Triple Product",
+    "Right-Hand Rule"
+  ],
+  "formulas": [
+    {
+      "formula": "A · B = |A| |B| cos θ",
+      "description": "Used to find the dot product of two vectors when the angle is known"
+    },
+    {
+      "formula": "A · B = AₓBₓ + AᵧBᵧ + A𝓏B𝓏",
+      "description": "Used to find the dot product using vector components"
+    },
+    {
+      "formula": "A × B = |A| |B| sin θ n̂",
+      "description": "Used to find the cross product, giving a vector perpendicular to A and B"
+    },
+    {
+      "formula": "A · (B × C)",
+      "description": "Scalar triple product, used to find the volume of a parallelepiped"
+    },
+    {
+      "formula": "A × (B × C)",
+      "description": "Vector triple product, used in more advanced problems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Dot Product",
+      "definition": "A scalar product of two vectors, giving a number"
+    },
+    {
+      "term": "Cross Product",
+      "definition": "A vector product of two vectors, giving a vector"
+    },
+    {
+      "term": "Scalar Triple Product",
+      "definition": "A product of three vectors, giving a scalar"
+    },
+    {
+      "term": "Vector Triple Product",
+      "definition": "A product involving three vectors, giving a vector"
+    },
+    {
+      "term": "Right-Hand Rule",
+      "definition": "A method to find the direction of the cross product"
+    }
+  ]
+}

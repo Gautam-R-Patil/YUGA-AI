@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electrostatics",
+    "chapter_number": 11,
+    "topic": "Capacitance",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:55:38.538453",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Capacitance in Electrostatics. This is an important topic for JEE Main. Let's start with the basic definition. \n\nCapacitance is the ability of a system to store electric charge. We measure it in Farads (F). One Farad is a big unit, so we often use microfarads (μF) or picofarads (pF). \n\nNow, let's talk about a parallel plate capacitor. This is a simple capacitor with two plates. The formula for its capacitance is C = ε₀ × (A/d). Here, C is the capacitance, ε₀ is the permittivity of free space, A is the area of one plate, and d is the distance between the plates. \n\nAdding a dielectric material between the plates changes the capacitance. A dielectric is an insulating material. It increases the capacitance by a factor called the dielectric constant (k). The new formula is C = k × ε₀ × (A/d). \n\nLet's see how energy is stored in a capacitor. The energy (U) stored is given by the formula U = 1/2 × C × V². Here, V is the voltage across the capacitor. \n\nCapacitors can be connected in series or parallel. In series, the total capacitance (Cₛ) is given by 1/Cₛ = 1/C₁ + 1/C₂ + ... + 1/Cn. In parallel, the total capacitance (Cₚ) is Cₚ = C₁ + C₂ + ... + Cn. \n\nLet's do a quick check. If you have two capacitors in series, their total capacitance is less than the smallest one. If they are in parallel, the total is more than the largest one. \n\nA common mistake in JEE Main is confusing series and parallel formulas. Remember, in series, capacitance decreases. In parallel, it increases. \n\nKey takeaways: Capacitance is about storing charge. Dielectrics increase capacitance. Know the formulas for series and parallel connections. \n\nIn summary, understand the basic definitions and formulas. Practice problems to avoid mistakes. This will help you in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Capacitance",
+    "Dielectric",
+    "Parallel Plate Capacitor",
+    "Series",
+    "Parallel"
+  ],
+  "formulas": [
+    {
+      "formula": "C = ε₀ × (A/d)",
+      "description": "Used to calculate capacitance of a parallel plate capacitor without dielectric"
+    },
+    {
+      "formula": "C = k × ε₀ × (A/d)",
+      "description": "Used when a dielectric is present between the plates"
+    },
+    {
+      "formula": "U = 1/2 × C × V²",
+      "description": "Calculates energy stored in a capacitor"
+    },
+    {
+      "formula": "1/Cₛ = 1/C₁ + 1/C₂ + ... + 1/Cn",
+      "description": "Used for capacitors in series"
+    },
+    {
+      "formula": "Cₚ = C₁ + C₂ + ... + Cn",
+      "description": "Used for capacitors in parallel"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Capacitance",
+      "definition": "Ability of a system to store electric charge"
+    },
+    {
+      "term": "Dielectric",
+      "definition": "An insulating material that increases capacitance"
+    }
+  ]
+}

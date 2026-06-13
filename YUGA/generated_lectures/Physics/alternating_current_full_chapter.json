@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Alternating Current",
+    "chapter_number": "22",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:15:23.597997",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts\u2014Alternating Current (AC). Alternating Current is a type of electrical current that periodically reverses direction, unlike Direct Current (DC) which flows in a single direction. In an AC circuit, voltage also varies sinusoidally over time.\n\n1. **AC Circuit Basics**: AC is characterized by its frequency, usually 50 Hz in India, and its sinusoidal nature. The standard representation is $i(t) = I_{0} \\sin(\\omega t + \\phi)$, where $I_0$ is the peak current, $\\omega$ is angular frequency, and $\\phi$ is the phase angle.\n\n2. **Peak and RMS Values**: The Peak Value is the maximum value of current or voltage in one cycle of AC. The Root Mean Square (RMS) value is more useful for power calculations and is given by $I_{RMS} = \\frac{I_{0}}{\\sqrt{2}}$ and $V_{RMS} = \\frac{V_{0}}{\\sqrt{2}}$.\n\n3. **Impedance and Phase Angle**: For a series RLC circuit, impedance $Z = \\sqrt{R^2 + (\\omega L - \\frac{1}{\\omega C})^2}$ and the phase angle $\\phi$ indicates the phase difference between current and voltage. $\\tan \\phi = \\frac{\\omega L - \\frac{1}{\\omega C}}{R}$.\n\n4. **Power in AC Circuits**: The average power $P$ in an AC circuit is given by $P = V_{RMS}I_{RMS}\\cos(\\phi)$. Here, $\\cos(\\phi)$ is the power factor which indicates efficiency.\n\n5. **Resonance in AC Circuits**: Occurs when the inductive and capacitive reactances are equal, $\\omega L = \\frac{1}{\\omega C}$, making $Z = R$. At resonance, the circuit has a maximum current.\n\n**NEET Question Pattern**: Questions often test peak vs. RMS values, impedance calculations in RLC circuits, and resonance conditions. Familiarize yourself with the formula derivations, they are key in solving problems.\n\n**Quick Revision Points**:\n- AC is sinusoidal and reverses direction.\n- RMS values are used for power calculations.\n- Impedance $Z = \\sqrt{R^2 + (\\omega L - \\frac{1}{\\omega C})^2}$ in RLC circuits.\n- Average power $P = V_{RMS}I_{RMS}\\cos(\\phi)$.\n- Resonance occurs when $\\omega L = \\frac{1}{\\omega C}$.",
+  "duration_minutes": "8",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Alternating Current",
+    "Peak Value",
+    "RMS Value",
+    "Impedance",
+    "Resonance",
+    "Phase Angle",
+    "Power Factor",
+    "RLC Circuit",
+    "Frequency",
+    "Reactance"
+  ],
+  "formulas": [
+    "i(t) = I_{0} \\sin(\\omega t + \\phi)",
+    "I_{RMS} = \\frac{I_{0}}{\\sqrt{2}}",
+    "V_{RMS} = \\frac{V_{0}}{\\sqrt{2}}",
+    "Z = \\sqrt{R^2 + (\\omega L - \\frac{1}{\\omega C})^2}",
+    "P = V_{RMS}I_{RMS}\\cos(\\phi)",
+    "\\tan \\phi = \\frac{\\omega L - \\frac{1}{\\omega C}}{R}"
+  ],
+  "definitions": [
+    {
+      "term": "Alternating Current",
+      "definition": "An electric current that reverses direction periodically, typically displayed as a sinusoidal wave."
+    },
+    {
+      "term": "Peak Value",
+      "definition": "The maximum value of current or voltage in one cycle of AC."
+    },
+    {
+      "term": "RMS Value",
+      "definition": "Root Mean Square value; it is the effective value of AC used for calculating power."
+    },
+    {
+      "term": "Impedance",
+      "definition": "The total opposition that a circuit presents to the flow of AC, composed of resistance and reactance."
+    },
+    {
+      "term": "Resonance",
+      "definition": "A condition in AC circuits where inductive and capacitive reactances are equal, causing maximum current."
+    },
+    {
+      "term": "Phase Angle",
+      "definition": "The angle difference between the peak of voltage and current waveforms in an AC circuit."
+    },
+    {
+      "term": "Power Factor",
+      "definition": "The cosine of the phase angle, representing the ratio of real power used to do work and the apparent power."
+    },
+    {
+      "term": "RLC Circuit",
+      "definition": "A circuit consisting of a resistor (R), inductor (L), and capacitor (C) driven by an AC source."
+    },
+    {
+      "term": "Frequency",
+      "definition": "Number of cycles per second in an AC waveform, measured in Hertz (Hz)."
+    },
+    {
+      "term": "Reactance",
+      "definition": "The opposition offered by inductors and capacitors to the change of current flow in an AC circuit."
+    }
+  ]
+}

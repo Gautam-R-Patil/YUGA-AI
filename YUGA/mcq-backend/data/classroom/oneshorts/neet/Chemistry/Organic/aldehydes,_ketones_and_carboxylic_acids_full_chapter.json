@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "chapter_number": "26",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:26:03.092745",
+    "model_used": "gpt-4o",
+    "category": "Organic"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts - Aldehydes, Ketones, and Carboxylic Acids. These compounds contain carbonyl groups, crucial for various reactions. Aldehydes contain the carbonyl group (C=O) bonded to at least one hydrogen, while ketones have it between two alkyl groups. Carboxylic acids, on the other hand, have a carbonyl group adjacent to a hydroxyl group (-OH).\n\n### Key Reactions and Properties\n1. Aldehydes and Ketones Uses: These are widely used in perfumes and as precursors in organic synthesis.\n2. Reactivity: Aldehydes are more reactive than ketones due to less steric hindrance and carbonyl polarization. \n3. Nucleophilic Addition Reactions: A characteristic reaction involving the addition of a nucleophile to the carbonyl group.\n4. Oxidation and Reduction: Aldehydes can be easily oxidized to carboxylic acids and reduced to alcohols.\n5. Carboxylic Acids: Known for acidity due to resonance stabilization of the carboxylate ion formed after losing a proton.\n\n### Important Reactions\n- Tollens\u2019 Test: Identifies aldehydes via a silver mirror.\n- Fehling\u2019s Test: Another test for aldehydes resulting in a brick-red precipitate.\n- Grignard Reaction: Converts carbonyl compounds to alcohols upon reaction with Grignard reagents.\n\n### Important Compounds\n- Formaldehyde (HCHO): Simplest aldehyde, used in plastics and resins.\n- Acetone (CH3COCH3): A common solvent and simplest ketone.\n\n### NEET Question Pattern\nNEET often includes questions about the reactivity order, mechanism-based questions (nucleophilic addition), and test-based identification (Tollens' and Fehling\u2019s tests). Pay special attention to reaction conditions and products.\n\n### Quick Revision Points\n1. Recognize aldehydes, ketones, and carboxylic acids by their functional groups.\n2. Important tests: Tollens', Fehling's, and Nucleophilic Addition.\n3. Acidity in carboxylic acids due to resonance.\n4. Uses of aldehydes and ketones in synthesis.\n5. Reduction and oxidation transformations of aldehydes and ketones.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Aldehydes",
+    "Ketones",
+    "Carboxylic acids",
+    "Carbonyl group",
+    "Nucleophilic addition",
+    "Tollens\u2019 test",
+    "Fehling\u2019s test",
+    "Grignard reaction",
+    "Formaldehyde",
+    "Acetone"
+  ],
+  "formulas": [
+    "Aldehydes: \\( RCHO \\)",
+    "Ketones: \\( RCOR' \\)",
+    "Carboxylic Acids: \\( RCOOH \\)",
+    "Tollens\u2019 Test: \\( RCHO + 2[Ag(NH_3)_2]^+ + 3OH^- \\rightarrow RCOO^- + 2Ag + 4NH_3 + 2H_2O \\)",
+    "Fehling\u2019s Test: \\( RCHO + 2Cu^{2+} + 5OH^- \\rightarrow RCOO^- + Cu_2O + 3H_2O \\)"
+  ],
+  "definitions": [
+    {
+      "term": "Aldehydes",
+      "definition": "Organic compounds with a carbonyl group attached to one hydrogen atom and one alkyl or aryl group."
+    },
+    {
+      "term": "Ketones",
+      "definition": "Organic compounds with a carbonyl group bonded to two alkyl or aryl groups."
+    },
+    {
+      "term": "Carboxylic acids",
+      "definition": "Organic acids containing a hydroxyl group attached to a carbonyl carbon, represented as \\( RCOOH \\)."
+    },
+    {
+      "term": "Carbonyl group",
+      "definition": "A functional group composed of a carbon atom double-bonded to an oxygen atom (C=O)."
+    },
+    {
+      "term": "Nucleophilic addition",
+      "definition": "A reaction where a nucleophile forms a bond with an electron-deficient site on a carbon atom of a carbonyl group."
+    },
+    {
+      "term": "Tollens\u2019 test",
+      "definition": "A chemical test to detect aldehydes, resulting in a silver mirror inside the test tube."
+    },
+    {
+      "term": "Fehling\u2019s test",
+      "definition": "A test used to detect aldehydes, resulting in a red precipitate of cuprous oxide."
+    },
+    {
+      "term": "Grignard reaction",
+      "definition": "An important chain-forming reaction that involves organomagnesium compounds to convert carbonyl groups to alcohol."
+    },
+    {
+      "term": "Formaldehyde",
+      "definition": "The simplest aldehyde, used in manufacturing plastics and resins."
+    },
+    {
+      "term": "Acetone",
+      "definition": "The simplest ketone, commonly used as a solvent."
+    }
+  ]
+}

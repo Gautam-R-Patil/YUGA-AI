@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Basic Organic Chemistry",
+    "chapter_number": 21,
+    "topic": "Hybridization",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:23:42.423538",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about hybridization in organic chemistry. This is a key topic for JEE Main. Hybridization helps us understand the shape and structure of molecules. Let's start with the basics. \n\nFirst, what is hybridization? Hybridization is when atomic orbitals mix to form new orbitals. These new orbitals are called hybrid orbitals. They help in forming bonds in molecules. \n\nNow, let's talk about the types of hybridization: sp, sp2, and sp3. \n\n1. **sp Hybridization**: In sp hybridization, one s orbital mixes with one p orbital. This forms two sp hybrid orbitals. The geometry is linear, and the bond angle is 180 degrees. For example, in ethyne (C2H2), carbon uses sp hybridization. This gives the molecule a straight shape. \n\n2. **sp2 Hybridization**: In sp2 hybridization, one s orbital mixes with two p orbitals. This forms three sp2 hybrid orbitals. The geometry is trigonal planar, and the bond angle is 120 degrees. Ethene (C2H4) is an example. Here, carbon uses sp2 hybridization, giving the molecule a flat shape. \n\n3. **sp3 Hybridization**: In sp3 hybridization, one s orbital mixes with three p orbitals. This forms four sp3 hybrid orbitals. The geometry is tetrahedral, and the bond angle is 109.5 degrees. Methane (CH4) is a common example. Carbon uses sp3 hybridization, giving the molecule a 3D shape. \n\nLet's now understand sigma and pi bonds. A sigma bond (σ) is a single bond formed by the direct overlap of orbitals. A pi bond (π) is formed by the side-to-side overlap of orbitals. In ethene, there is one sigma bond and one pi bond between carbon atoms. In ethyne, there is one sigma bond and two pi bonds. \n\n**JEE Main Mistake Note**: Students often confuse sigma and pi bonds. Remember, sigma bonds are stronger and form first. \n\nNext, let's discuss hybridization in nitrogen and oxygen. In ammonia (NH3), nitrogen uses sp3 hybridization. The shape is pyramidal. In water (H2O), oxygen uses sp3 hybridization. The shape is bent. \n\n**Key Takeaways**:\n- Hybridization affects molecular shape and bond angles.\n- sp is linear, sp2 is trigonal planar, and sp3 is tetrahedral.\n- Sigma bonds are single bonds; pi bonds are additional bonds.\n\n**Common JEE Main Trap**: Do not mix up the bond angles. Remember, 180° for sp, 120° for sp2, and 109.5° for sp3.\n\nIn conclusion, understanding hybridization helps us predict molecular shapes and bond types. Practice with examples like methane, ethene, and ethyne. This will help you in solving JEE Main questions effectively.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Hybridization",
+    "Sigma Bond",
+    "Pi Bond",
+    "Molecular Shape",
+    "Bond Angle"
+  ],
+  "formulas": [
+    {
+      "formula": "Bond angle for sp = 180°",
+      "description": "Used to determine the geometry of molecules with sp hybridization"
+    },
+    {
+      "formula": "Bond angle for sp2 = 120°",
+      "description": "Used to determine the geometry of molecules with sp2 hybridization"
+    },
+    {
+      "formula": "Bond angle for sp3 = 109.5°",
+      "description": "Used to determine the geometry of molecules with sp3 hybridization"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hybridization",
+      "definition": "Mixing of atomic orbitals to form new hybrid orbitals for bonding"
+    },
+    {
+      "term": "Sigma Bond",
+      "definition": "A single covalent bond formed by the direct overlap of orbitals"
+    },
+    {
+      "term": "Pi Bond",
+      "definition": "A covalent bond formed by the side-to-side overlap of orbitals"
+    }
+  ]
+}

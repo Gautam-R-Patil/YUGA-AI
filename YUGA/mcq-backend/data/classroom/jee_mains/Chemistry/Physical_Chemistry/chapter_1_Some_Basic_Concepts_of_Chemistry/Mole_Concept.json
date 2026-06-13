@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "chapter_number": 1,
+    "topic": "Mole Concept",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:03:22.989645",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Mole Concept in chemistry. This is a very important topic for JEE Main. Let's start with the basics. \n\nFirst, what is a mole? A mole is a special unit in chemistry. It helps us count atoms and molecules. One mole is equal to Avogadro's number, which is 6.022 x 10^23. This is a huge number because atoms and molecules are very small. \n\nLet's talk about Avogadro's number. It is named after Amedeo Avogadro, a scientist. Avogadro's number tells us how many particles are in one mole. These particles can be atoms, molecules, or ions. \n\nNow, what is molar mass? Molar mass is the mass of one mole of a substance. We measure it in grams per mole (g/mol). For example, the molar mass of water (H2O) is 18 g/mol. This means one mole of water weighs 18 grams. \n\nLet's do a simple calculation. If you have 36 grams of water, how many moles do you have? Use the formula: Moles = Mass / Molar Mass. So, Moles = 36 g / 18 g/mol = 2 moles. \n\nNext, let's learn about mole-volume calculations. At standard temperature and pressure (STP), one mole of any gas occupies 22.4 liters. This is called molar volume. If you have 44.8 liters of oxygen gas at STP, how many moles do you have? Use the formula: Moles = Volume / Molar Volume. So, Moles = 44.8 L / 22.4 L/mol = 2 moles. \n\nNow for mole-particle calculations. If you have 1 mole of carbon atoms, you have 6.022 x 10^23 carbon atoms. If you have 2 moles, you have 2 x 6.022 x 10^23 atoms. \n\nLet's move to empirical and molecular formulas. The empirical formula shows the simplest ratio of elements in a compound. The molecular formula shows the actual number of atoms in a molecule. For example, the empirical formula of glucose is CH2O, and the molecular formula is C6H12O6. \n\nA common JEE Main mistake is confusing these formulas. Remember, empirical is the simplest form. \n\nNow, let's discuss the limiting reagent concept. In a chemical reaction, the limiting reagent is the substance that runs out first. It limits the amount of product formed. To find it, compare the moles of each reactant. \n\nFinally, let's talk about percentage composition. This tells us the percentage of each element in a compound. Use the formula: Percentage = (Mass of element in 1 mole / Molar mass of compound) x 100%. \n\nLet's summarize. We learned about moles, Avogadro's number, molar mass, and calculations involving moles. We also covered empirical and molecular formulas, limiting reagents, and percentage composition. Remember these key concepts and formulas for JEE Main. \n\nThank you for listening! Practice these calculations, and you'll do great in your exam.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Mole",
+    "Avogadro's Number",
+    "Molar Mass",
+    "Empirical Formula",
+    "Limiting Reagent"
+  ],
+  "formulas": [
+    {
+      "formula": "Moles = Mass / Molar Mass",
+      "description": "Used to calculate moles from a given mass in JEE Main questions"
+    },
+    {
+      "formula": "Moles = Volume / Molar Volume",
+      "description": "Used to find moles of a gas at STP in JEE Main problems"
+    },
+    {
+      "formula": "Percentage = (Mass of element / Molar mass of compound) x 100%",
+      "description": "Used to calculate the percentage composition of elements in a compound"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Mole",
+      "definition": "A unit in chemistry to count particles, equal to Avogadro's number"
+    },
+    {
+      "term": "Avogadro's Number",
+      "definition": "The number of particles in one mole, 6.022 x 10^23"
+    },
+    {
+      "term": "Molar Mass",
+      "definition": "The mass of one mole of a substance, measured in grams per mole"
+    },
+    {
+      "term": "Empirical Formula",
+      "definition": "The simplest ratio of elements in a compound"
+    },
+    {
+      "term": "Limiting Reagent",
+      "definition": "The reactant that is used up first in a chemical reaction"
+    }
+  ]
+}

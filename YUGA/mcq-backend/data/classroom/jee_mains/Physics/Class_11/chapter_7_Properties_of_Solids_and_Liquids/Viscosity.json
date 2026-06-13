@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Properties of Solids and Liquids",
+    "chapter_number": 7,
+    "topic": "Viscosity",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:51:16.261179",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about viscosity. Viscosity is a property of fluids. It tells us how thick or sticky a fluid is. For example, honey is more viscous than water. \n\nLet's start with the definition. Viscosity is the measure of a fluid's resistance to flow. It is like friction in liquids. The unit of viscosity in the SI system is Pascal-second (Pa·s). \n\nNow, let's talk about the coefficient of viscosity. It is a constant for a given fluid at a specific temperature. The coefficient of viscosity tells us how easily a fluid flows. A higher coefficient means the fluid is thicker. \n\nNext, we have Newton’s law of viscosity. It states that the force needed to move a layer of fluid is proportional to the area and the velocity gradient. The formula is F = ηA(du/dy), where F is the force, η is the coefficient of viscosity, A is the area, and du/dy is the velocity gradient. This is important in JEE Main problems. \n\nLet's discuss laminar and turbulent flow. Laminar flow is smooth and orderly. It happens when a fluid flows in parallel layers. Turbulent flow is chaotic and irregular. It happens at high speeds or with obstacles. In JEE Main, you may need to identify the type of flow in a problem. \n\nWe also have Poiseuille’s equation. It is used to calculate the flow rate of a fluid through a pipe. The formula is Q = (πr^4∆P)/(8ηL), where Q is the flow rate, r is the radius of the pipe, ∆P is the pressure difference, η is the viscosity, and L is the length of the pipe. This equation is useful for solving problems in JEE Main. \n\nNext, let's learn about Stokes’ law. It describes the force of friction on a small sphere moving through a viscous fluid. The formula is F = 6πηrv, where F is the force, η is the viscosity, r is the radius of the sphere, and v is the velocity. This law helps in calculating forces in fluid dynamics problems. \n\nViscosity is important in many applications. It is used in designing machines and vehicles. Engineers need to know how fluids will flow in engines and pipes. \n\nTemperature affects viscosity. As temperature increases, viscosity decreases. This is because molecules move faster and slide past each other easily. Remember this when solving temperature-related problems in JEE Main. \n\nLet's look at some common mistakes. In JEE Main, students often mix up laminar and turbulent flow. Remember, laminar is smooth, and turbulent is chaotic. Also, make sure to use the correct units for viscosity. \n\nKey takeaways: Viscosity measures how thick a fluid is. Newton’s law, Poiseuille’s equation, and Stokes’ law are important. Know how temperature affects viscosity. \n\nIn summary, viscosity is a key concept in fluid dynamics. It helps us understand how fluids move. Make sure to practice problems using the formulas we discussed. \n\nThat's all for today. Keep practicing, and you will do well in JEE Main!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Viscosity",
+    "Laminar Flow",
+    "Turbulent Flow",
+    "Poiseuille’s Equation",
+    "Stokes’ Law"
+  ],
+  "formulas": [
+    {
+      "formula": "F = ηA(du/dy)",
+      "description": "Newton’s law of viscosity, used to calculate force needed for fluid movement"
+    },
+    {
+      "formula": "Q = (πr^4∆P)/(8ηL)",
+      "description": "Poiseuille’s equation for flow rate through a pipe"
+    },
+    {
+      "formula": "F = 6πηrv",
+      "description": "Stokes’ law for force on a sphere in a viscous fluid"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Viscosity",
+      "definition": "The measure of a fluid's resistance to flow"
+    },
+    {
+      "term": "Coefficient of Viscosity",
+      "definition": "A constant that indicates how easily a fluid flows at a specific temperature"
+    }
+  ]
+}

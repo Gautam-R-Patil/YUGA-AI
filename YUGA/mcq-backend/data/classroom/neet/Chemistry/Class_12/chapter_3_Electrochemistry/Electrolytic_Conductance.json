@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_12",
+    "chapter": "Electrochemistry",
+    "chapter_number": 3,
+    "topic": "Electrolytic Conductance",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:15:59.281048",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about Electrolytic Conductance. This is an important topic in electrochemistry. Let's start by understanding what conductance and conductivity mean. \n\nConductance is the ability of a substance to allow the flow of electric current. It is like how easy it is for electricity to pass through. We measure it in Siemens (S). Conductivity, on the other hand, is a measure of how well a material conducts electricity. It depends on the material's nature and is measured in Siemens per meter (S/m). \n\nNow, let's talk about Molar Conductivity. Molar Conductivity is the conductance of a solution containing one mole of electrolyte. It changes with concentration. When you dilute a solution, molar conductivity increases. This is because ions have more space to move. \n\nNext, we have Kohlrausch's Law. This law states that the limiting molar conductivity of an electrolyte can be found by adding the contributions of its ions. In simple words, each ion helps in conductance, and we add their effects. \n\nFactors like temperature and concentration affect conductivity. Higher temperature increases ion movement, so conductivity increases. More concentration means more ions, but they may crowd and lower conductivity. \n\nLet's look at a key formula: the cell constant (G*). It is calculated using G* = l/A, where l is the distance between electrodes, and A is the area of electrodes. \n\nAn important experiment is measuring conductance using a Wheatstone bridge. This device helps find unknown resistances by balancing the bridge circuit. \n\nRemember these key points: Conductance and conductivity are related but not the same. Molar conductivity increases with dilution. Kohlrausch's Law helps find conductance using ions. Temperature and concentration affect conductivity. \n\nTo summarize, electrolytic conductance is about how well solutions conduct electricity. Understanding these concepts is crucial for NEET exams. Keep practicing problems, and you'll do great!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Conductance",
+    "Conductivity",
+    "Molar Conductivity",
+    "Kohlrausch's Law",
+    "Cell Constant"
+  ],
+  "formulas": [
+    {
+      "formula": "G* = l/A",
+      "description": "Cell constant formula where l is distance between electrodes and A is area of electrodes"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Conductance",
+      "definition": "The ability of a substance to allow the flow of electric current, measured in Siemens (S)."
+    },
+    {
+      "term": "Conductivity",
+      "definition": "A measure of how well a material conducts electricity, measured in Siemens per meter (S/m)."
+    },
+    {
+      "term": "Molar Conductivity",
+      "definition": "Conductance of a solution containing one mole of electrolyte, varies with concentration."
+    },
+    {
+      "term": "Kohlrausch's Law",
+      "definition": "The limiting molar conductivity of an electrolyte is the sum of the contributions of its ions."
+    }
+  ]
+}

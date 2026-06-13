@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Waves",
+    "chapter_number": 15,
+    "topic": "Principle of Superposition of Waves",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:05:20.846351",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Principle of Superposition of Waves. This is an important topic in physics and often comes in NEET exams. Let's start with what this principle means. \n\nThe Principle of Superposition says that when two or more waves meet, the total wave is the sum of the individual waves. Imagine waves on a pond. When two waves meet, they add up. This is like adding numbers. If one wave is 3 units high and another is 2 units high, the total wave is 5 units high. \n\nNow, let's see where we find superposition in physics. One common place is sound waves. When two sound waves meet, they create a new sound. This is why two musical instruments playing together sound different from one alone.\n\nIn engineering, superposition helps in designing buildings. Engineers use it to understand how different forces act together on a structure. For example, when wind and weight act on a bridge, engineers calculate the total effect using superposition.\n\nLet's solve a problem using superposition. Imagine two waves on a string. One wave is y1(x,t) = A sin(kx - ωt) and the other is y2(x,t) = B sin(kx - ωt). The total wave is y(x,t) = y1(x,t) + y2(x,t). This means the total wave is (A + B) sin(kx - ωt).\n\nA common mistake is thinking waves cancel each other completely. They only cancel if they are equal and opposite. Otherwise, they add up.\n\nWe can also show superposition with graphs. When two waves meet, we draw them on the same graph. The total wave is the sum of the heights at each point.\n\nTo remember, the key points are: 1) Waves add up when they meet. 2) This is used in sound and engineering. 3) Superposition helps solve complex problems.\n\nIn summary, the Principle of Superposition is simple. It tells us how waves behave when they meet. This helps us in many areas of science and engineering. Always remember, waves add up, and this principle helps us understand the world better.",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Superposition Principle",
+    "Sound Waves",
+    "Wave Interference",
+    "Engineering Applications",
+    "Graphical Representation"
+  ],
+  "formulas": [
+    {
+      "formula": "y(x,t) = y1(x,t) + y2(x,t)",
+      "description": "The formula for the resultant wave when two waves y1 and y2 meet."
+    },
+    {
+      "formula": "y(x,t) = (A + B) sin(kx - ωt)",
+      "description": "The resultant wave when two sine waves with amplitudes A and B interfere."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Superposition Principle",
+      "definition": "When two or more waves meet, the total wave is the sum of the individual waves."
+    },
+    {
+      "term": "Wave Interference",
+      "definition": "The process of two or more waves meeting and combining to form a new wave."
+    }
+  ]
+}

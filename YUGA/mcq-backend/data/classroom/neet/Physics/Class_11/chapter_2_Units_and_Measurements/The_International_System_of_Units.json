@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Units and Measurements",
+    "chapter_number": 2,
+    "topic": "The International System of Units",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:47:51.296200",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will learn about the International System of Units, or SI units. These are the standard units used in science all over the world. They help us measure things accurately.\n\nLet's start with base units. There are seven base units in SI. The first one is the meter. We use meters to measure length. For example, the height of a tree can be measured in meters.\n\nNext is the kilogram. We use kilograms to measure mass. For example, the weight of a watermelon is measured in kilograms.\n\nThe third base unit is the second. We use seconds to measure time. For instance, how long it takes to run a race is measured in seconds.\n\nThen, we have the ampere. It measures electric current. Think of it like the flow of water in a pipe, but instead, it is electricity.\n\nThe fifth base unit is the kelvin. It measures temperature. It is like Celsius but starts from absolute zero.\n\nNext is the mole. It measures the amount of substance. It is used in chemistry to count atoms or molecules.\n\nFinally, we have the candela. It measures luminous intensity or brightness of light. Think of it as how bright a bulb is.\n\nNow, let's talk about derived units. Derived units come from base units. For example, speed is a derived unit. We measure speed in meters per second (m/s). Another example is force, measured in newtons (N).\n\nCommon mistake: Students often confuse base units with derived units. Remember, base units are the starting point.\n\nSI prefixes help us express very large or very small numbers. For example, 'kilo' means 1000 times. So, 1 kilometer is 1000 meters. 'Milli' means one-thousandth. So, 1 millimeter is 0.001 meters.\n\nCommon mistake: Be careful with prefixes. 'Mega' is not the same as 'milli'.\n\nLet's move to dimensional analysis. It helps us check if equations make sense. It uses dimensions like length [L], mass [M], and time [T]. For example, in the formula for speed, speed = distance/time, the dimensions are [L]/[T].\n\nDimensional analysis is useful in NEET exams. It helps find mistakes in calculations.\n\nFinally, why are standard units important? They allow scientists to share and compare results easily. Without standard units, measurements could be confusing.\n\nKey points to remember: Base units are the foundation. Derived units are combinations of base units. SI prefixes help with large and small numbers. Dimensional analysis checks equations.\n\nIn summary, understanding SI units helps us measure and communicate in science. It is essential for NEET and beyond. Keep practicing, and you'll master it!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Base Units",
+    "Derived Units",
+    "SI Prefixes",
+    "Dimensional Analysis",
+    "Standard Units"
+  ],
+  "formulas": [
+    {
+      "formula": "Speed = Distance / Time",
+      "description": "Formula to calculate speed using distance and time"
+    },
+    {
+      "formula": "Force = Mass x Acceleration",
+      "description": "Newton's second law of motion"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Meter",
+      "definition": "The base unit of length in the SI system"
+    },
+    {
+      "term": "Kilogram",
+      "definition": "The base unit of mass in the SI system"
+    },
+    {
+      "term": "Second",
+      "definition": "The base unit of time in the SI system"
+    },
+    {
+      "term": "Ampere",
+      "definition": "The base unit of electric current in the SI system"
+    },
+    {
+      "term": "Kelvin",
+      "definition": "The base unit of temperature in the SI system"
+    },
+    {
+      "term": "Mole",
+      "definition": "The base unit of the amount of substance in the SI system"
+    },
+    {
+      "term": "Candela",
+      "definition": "The base unit of luminous intensity in the SI system"
+    }
+  ]
+}

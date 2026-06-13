@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "System of Particles and Rotational Motion",
+    "chapter_number": 7,
+    "topic": "Torque",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:54:32.874381",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about a very important concept in physics called Torque. Torque is a force that makes things rotate. Imagine you are opening a door. You push the door at its edge, and it swings open. This rotation is because of torque.\n\nLet's start with the definition. Torque is the measure of the force that can cause an object to rotate about an axis. The axis is like an invisible line that the object spins around. The formula to calculate torque is very simple. Torque (τ) = Force (F) × Distance (d) from the axis. Here, the distance is the length from the axis to where the force is applied.\n\nNow, let's talk about the relation between torque and angular acceleration. Angular acceleration is how quickly something spins faster or slower. If you apply more torque, the object will spin faster. This is similar to how more force makes a car speed up. The formula for this is τ = I × α. Here, I is the moment of inertia, which tells us how hard it is to change the rotation of an object, and α is the angular acceleration.\n\nLet's see some examples of torque in action. Think about a seesaw. If you and your friend sit on opposite sides, you create torque. If you sit farther from the center, you create more torque and the seesaw tilts. Another example is using a wrench to tighten a bolt. The longer the wrench, the more torque you can apply with the same force.\n\nIn engineering, torque is very important. Engineers use torque to design machines like cars and bikes. The engines in these machines create torque to make the wheels turn. Without torque, these machines would not move.\n\nNow, let's solve a simple problem. If you apply a force of 10 N at a distance of 2 meters from the axis, what is the torque? Using the formula τ = F × d, we get τ = 10 N × 2 m = 20 Nm. So, the torque is 20 Newton-meters.\n\nRemember, torque depends on both the force and the distance. A common mistake is to forget the distance. Always check how far the force is applied from the axis.\n\nTo sum up, torque is what makes things rotate. It is calculated using the force and the distance from the axis. Torque is linked to angular acceleration, and it is used in many machines. Keep practicing problems to get better.\n\nThat's all for today. Keep exploring, and see you in the next class!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Torque",
+    "Angular acceleration",
+    "Moment of inertia",
+    "Newton-meter",
+    "Axis"
+  ],
+  "formulas": [
+    {
+      "formula": "τ = F × d",
+      "description": "Torque is the product of force and the distance from the axis"
+    },
+    {
+      "formula": "τ = I × α",
+      "description": "Torque is the product of moment of inertia and angular acceleration"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Torque",
+      "definition": "A measure of how much a force causes an object to rotate"
+    },
+    {
+      "term": "Angular acceleration",
+      "definition": "The rate of change of angular velocity"
+    },
+    {
+      "term": "Moment of inertia",
+      "definition": "A property that measures how hard it is to change the rotation of an object"
+    }
+  ]
+}

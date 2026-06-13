@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Mathematical Reasoning",
+    "chapter_number": 11,
+    "topic": "Mathematical Induction",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:54:39.241953",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about Mathematical Induction. This is a powerful method used in mathematics to prove statements. You might have seen patterns or sequences before. Induction helps us prove these patterns are true for all numbers. Let's start with the Principle of Mathematical Induction. It has two main parts: the base case and the inductive step. \n\nFirst, the base case. We check if the statement is true for the first number, usually 1. For example, if we want to prove that a pattern works for all natural numbers, we start by checking it for 1. \n\nNext is the inductive step. Here, we assume the statement is true for a number k. Then, we must show it is also true for k+1. If both these steps work, the statement is true for all natural numbers. \n\nLet's look at a simple example. Suppose we want to prove that the sum of the first n odd numbers is n^2. First, check the base case: for n=1, the sum is 1, and 1^2 is also 1. So, it works. For the inductive step, assume the sum of the first k odd numbers is k^2. We need to show the sum of the first k+1 odd numbers is (k+1)^2. The sum for k+1 is k^2 plus the next odd number, which is 2k+1. This simplifies to (k+1)^2, proving our statement. \n\nNow, let's talk about Strong Induction. It is similar but a bit different. Instead of assuming the statement is true for just k, we assume it is true for all numbers up to k. This is useful when the next step depends on more than just the previous one. \n\nApplications of induction include proving inequalities and divisibility. For example, we can prove that 2^n is greater than n^2 for n greater than 4 using induction. \n\nInduction is also used in sequences and series. For instance, proving the formula for the sum of an arithmetic series. \n\nBe careful with common pitfalls in induction proofs. One mistake is not proving the base case correctly. Another is assuming what you need to prove in the inductive step. \n\nSometimes, we need Induction with Multiple Base Cases. This happens when the statement does not hold for the first few numbers. \n\nInduction is also useful in combinatorics and number theory. For example, proving properties of binomial coefficients or divisibility rules. \n\nIn JEE Main, be careful with calculations. Ensure each step logically follows from the previous one. A common mistake is skipping steps in the inductive proof. \n\nTo summarize, Mathematical Induction is a step-by-step method to prove statements for all natural numbers. Remember the base case and the inductive step. Practice with different types of problems to master this technique.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Mathematical Induction",
+    "Base Case",
+    "Inductive Step",
+    "Strong Induction",
+    "Sequences"
+  ],
+  "formulas": [
+    {
+      "formula": "S_n = n^2",
+      "description": "Used to prove the sum of the first n odd numbers is n squared"
+    },
+    {
+      "formula": "S_n = n/2 * (first term + last term)",
+      "description": "Formula for the sum of an arithmetic series, used in induction proofs"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Mathematical Induction",
+      "definition": "A method to prove statements are true for all natural numbers"
+    },
+    {
+      "term": "Base Case",
+      "definition": "The initial step where we check if a statement is true for the first number"
+    },
+    {
+      "term": "Inductive Step",
+      "definition": "The step where we assume a statement is true for a number k and prove it for k+1"
+    }
+  ]
+}

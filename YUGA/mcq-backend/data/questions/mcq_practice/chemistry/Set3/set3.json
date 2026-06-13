@@ -1,0 +1,346 @@
+[
+    {
+        "id": 20,
+        "question_number": "121",
+        "text": "The correct statement regarding electrophile is:",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Electrophiles",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Electrophile is a negatively charged species and can form a bond by accepting a pair of electrons from another electrophile",
+            "Electrophile can be either neutral or positively charged species and can form a bond accepting a pair of electrons from a nucleophile",
+            "Electrophiles are generally neutral species and can form a bond by accepting a pair of electrons from a nucleophile",
+            "Electrophile is a negatively charged species and can form a bond by accepting a pair of electrons from a nucleophile"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 105,
+        "correct_answer": "Electrophile can be either neutral or positively charged species and can form a bond accepting a pair of electrons from a nucleophile",
+        "basic_answer": "Solution: [An electrophile is an electron-deficient species that acts as a Lewis acid by accepting an electron pair to form a covalent bond. They can be positively charged ions, such as $H^+$, or neutral molecules with vacant orbitals, such as $BF_3$. Electrophiles react by accepting an electron pair from a nucleophile (an electron-rich species). Thus, the correct statement is that they can be neutral or positively charged and accept electrons from a nucleophile.]",
+        "explanation": "### Core Concept\nAn electrophile (literally \"electron-lover\") is a chemical species that is electron-deficient. In a chemical reaction, it acts as a Lewis acid by accepting an electron pair from an electron-rich species (a nucleophile) to form a new covalent bond.\n\n### Solution \n\nElectrophiles come in two main forms:\n1. Positively Charged: Examples include H⁺, Cl⁺, CH₃⁺, or NO₂⁺.\n2. Neutral: Examples include Lewis acids with incomplete octets like $BF_3$, $AlCl_3$, or molecules with polarizable multiple bonds like $CO_2$.\nBecause they lack electrons, they naturally seek out and react with nucleophiles, which provide the necessary electron pair.\n\n### Why This Answer\nOption C is the only complete and accurate definition. It correctly identifies the charge states (neutral or positive) and the fundamental action (accepting an electron pair from a nucleophile).\n\n### Common Mistakes\n* Confusing charge: Thinking electrophiles must be positive because they \"love\" negative electrons. Neutral species like $BF_3$ are very common electrophiles.\n* Mixing terms: Swapping the definitions of electrophiles and nucleophiles.",
+        "keywords": {
+            "0": "neutral charge",
+            "E": "electrophile",
+            "N": "nucleophile",
+            "+": "positive charge",
+            "e-": "electron"
+        }
+    },
+    {
+        "id": 21,
+        "question_number": "123",
+        "text": "Which of the following reactions is appropriate for converting acetamide to methanamine?",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Amines",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Hoffmann hypobromamide reaction",
+            "Stephens reaction",
+            "Gabriels phthalimide synthesis",
+            "Carbylamine reaction"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 107,
+        "correct_answer": "Hoffmann hypobromamide reaction",
+        "basic_answer": "Given: [Reactant: Acetamide ($CH_3CONH_2$), Product: Methanamine ($CH_3NH_2$)]\n\nSolution: [The conversion of acetamide (2 carbons) to methanamine (1 carbon) involves a decrease in the number of carbon atoms. This specific transformation is achieved through the **Hoffmann Bromamide Degradation** (or hypobromamide reaction). In this reaction, a primary amide reacts with bromine in an aqueous or ethanolic solution of sodium hydroxide to yield a primary amine with one less carbon atom than the starting amide. Thus, the Hoffmann reaction is the appropriate choice.]",
+        "explanation": "### Core Concept\nThe Hoffmann Bromamide Degradation (or hypobromamide reaction) is a method used to prepare primary amines from primary amides. The key feature of this reaction is that the resulting amine contains one carbon atom less than the parent amide.\n\n### Solution \n\nThe reaction for converting acetamide ($CH_3CONH_2$) to methanamine ($CH_3NH_2$) is:\nCH₃CONH₂ + Br₂ + 4NaOH → CH₃NH₂ + Na₂CO₃ + 2NaBr + 2H₂O\nIn this process, the carbonyl carbon is lost as a carbonate (CO₃²⁻), effectively \"degrading\" the chain length.\n\n### Why This Answer\nAcetamide has 2 carbons, and methanamine has 1 carbon. Since there is a reduction in the number of carbon atoms, the Hoffmann reaction is the specific and appropriate choice. Other options like Stephens reaction (nitrile to aldehyde) or Carbylamine reaction (test for primary amines) do not fit this conversion.\n\n### Common Mistakes\n* Mismatching carbon counts: Forgetting that Hoffmann degradation reduces the carbon chain length. If you wanted to keep the same number of carbons, you would use a reduction reaction with $LiAlH_4$.\n* Confusing with Gabriel Synthesis: Gabriel Phthalimide synthesis is for preparing primary amines from alkyl halides, not amides.",
+        "keywords": {
+            "CH3CONH2": "Acetamide",
+            "CH3NH2": "Methanamine",
+            "Br": "Bromine",
+            "Base": "Strong base",
+            "CO2": "Carbon dioxide"
+        }
+    },
+    {
+        "id": 22,
+        "question_number": "129",
+        "text": "Maximum number of electrons in a subshell of an atom is determined by the following",
+        "subject": "Chemistry",
+        "sub_topic": "Atomic Structure",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 15,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "4l+2",
+            "2l+1",
+            "4l-2",
+            "2n²"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 431,
+        "correct_answer": "4l+2",
+        "basic_answer": "Solution: [The number of orbitals in a subshell is defined by the formula $(2l + 1)$, where $l$ is the azimuthal quantum number. Since each orbital can hold a maximum of 2 electrons according to the Pauli Exclusion Principle, the maximum number of electrons in a subshell is $2(2l + 1) = 4l + 2$.]",
+        "explanation": "### Core Concept\nThe distribution of electrons in an atom is governed by quantum numbers. The azimuthal quantum number ($l$) defines the shape and type of the subshell (s, p, d, f).\n\n### Solution \n\n1. The number of orbitals in a subshell is given by $(2l + 1)$.\n2. According to the Pauli Exclusion Principle, each orbital can accommodate a maximum of 2 electrons with opposite spins.\n3. Therefore, the maximum number of electrons in a subshell is: $2 \times (2l + 1) = 4l + 2$.\n\n### Why This Answer\nFor example:\n* For an s subshell ($l=0$): $4(0) + 2 = 2$ electrons.\n* For a p subshell ($l=1$): $4(1) + 2 = 6$ electrons.\n* For a d subshell ($l=2$): $4(2) + 2 = 10$ electrons.\nThis formula universally calculates the capacity for any $l$ value.\n\n### Common Mistakes\n* Confusing subshell vs shell: $2n^2$ determines the max electrons in a shell (principal quantum number $n$), whereas $4l+2$ is for a subshell.\n* Orbital count vs Electron count: Selecting $2l+1$, which only tells you the number of orbitals, not the total electrons.",
+        "keywords": {
+            "l": "azimuthal quantum number"
+        }
+    },
+    {
+        "id": 23,
+        "question_number": "129",
+        "text": "Among the given compounds, the most susceptible to nucleophilic attack at the carbonyl group is",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Carbonyl Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "CH₃COOCH₃",
+            "CH₃CONH₂",
+            "CH₃COOCOCH₃",
+            "CH₃COCl"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 260,
+        "correct_answer": "CH₃COCl",
+        "basic_answer": "Given: [Carbonyl compounds: methyl acetate (CH₃COOCH₃), acetamide (CH₃CONH₂), acetic anhydride (CH₃COOCOCH₃), and acetyl chloride (CH₃COCl)]\n\nSolution: [The susceptibility of a carbonyl group to nucleophilic attack depends on the partial positive charge ($\u03b4^+$) of the carbonyl carbon and the leaving group's ability. In acetyl chloride (CH₃COCl), the highly electronegative chlorine atom exerts a strong inductive effect (-I effect), making the carbonyl carbon very electron-deficient. Additionally, $Cl^-$ is an exceptionally stable, weak base, making it a superior leaving group. Thus, acetyl chloride is the most reactive toward nucleophilic attack.]",
+        "explanation": "### Core Concept\nThe reactivity of carboxylic acid derivatives ($R-CO-L$) towards nucleophilic attack depends on two main factors: the leaving group ability of $L$ and the magnitude of the partial positive charge ($\\delta^+$) on the carbonyl carbon.\n\n### Solution \n\nThe order of reactivity for nucleophilic acyl substitution is:\nAcyl Halide > Acid Anhydride > Ester > Amide\n1. Leaving Group: $Cl^-$ is a very weak base and an excellent leaving group.\n2. Electronic Effects: Chlorine is highly electronegative and exerts a strong $-I$ effect, which increases the electrophilic character (positive charge) of the carbonyl carbon.\n\n### Why This Answer\nIn $CH_3COCl$, the $Cl$ atom makes the carbonyl carbon extremely electrophilic and is very easy to displace. In contrast, groups like $-NH_2$ (amides) or $-OR$ (esters) are poor leaving groups and engage in resonance that reduces the positive charge on the carbon.\n\n### Common Mistakes\n* Overlooking resonance: Not realizing that in amides ($CH_3CONH_2$), the lone pair on Nitrogen is donated to the carbonyl, making it the *least* reactive.\n* Misjudging basicity: Thinking a stronger base makes a better leaving group; it is actually the opposite.",
+        "keywords": {
+            "CH³": "Methyl group",
+            "CO": "Carbonyl group",
+            "Cl": "Chlorine",
+            "O": "Oxygen"
+        }
+    },
+    {
+        "id": 24,
+        "question_number": "130",
+        "text": "For an elementary reaction 2A + B → C + D, which one of the following rate laws is correct?",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Kinetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 15,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "rate= k[A]²[B]",
+            "rate= k[A][B]",
+            "rate= k[A]²[B]²",
+            "rate= k[A][B]²"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 261,
+        "correct_answer": "rate= k[A]²[B]",
+        "basic_answer": "Given: [Elementary reaction: 2A + B → C + D]\n\nSolution: [For an elementary reaction, the reaction occurs in a single step, and its order with respect to each reactant is equal to its stoichiometric coefficient. In the equation 2A + B → C + D, the coefficient for A is 2 and for B is 1. Therefore, the rate law is derived directly as rate = k[A]²[B]¹.]",
+        "explanation": "### Core Concept\nIn chemical kinetics, an elementary reaction is a reaction that occurs in a single step with no intermediates. For these specific types of reactions, the order of the reaction with respect to each reactant is equal to its stoichiometric coefficient in the balanced equation.\n\n### Solution \n\nFor the given elementary reaction: 2A + B → C + D\n* Stoichiometric coefficient of A is two.\n* Stoichiometric coefficient of B is one.\nSince it is elementary, we can write the rate law directly: Rate = k[A]²[B]¹.\n\n### Why This Answer\nThis direct relationship between stoichiometry and rate order only holds true for elementary steps. Because the question explicitly defines the reaction as elementary, we must use the coefficients as exponents.\n\n### Common Mistakes\n* Generalizing for all reactions: Assuming you can always write the rate law from the balanced equation. This is a \"Hard Fail\" for complex reactions, where the rate law must be determined experimentally.\n* Ignoring the \"elementary\" keyword: Missing the crucial constraint that allows this simplification.",
+        "keywords": {}
+    },
+    {
+        "id": 25,
+        "question_number": "130",
+        "text": "Lithium metal crystallises in a body centred cubic crystal. If the length of the side of the unit cell of lithium is 351 pm, the atomic radius of the lithium will be",
+        "subject": "Chemistry",
+        "sub_topic": "Solid State",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 15,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "240.8 pm",
+            "151.8 pm",
+            "75.5 pm",
+            "300.5 pm"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 432,
+        "correct_answer": "151.8 pm",
+        "basic_answer": "Given: [Crystal system: Body-Centred Cubic (BCC), Edge length a = 351 pm]\n\nSolution: [In a BCC lattice, the atoms touch each other along the body diagonal of the unit cell. The relationship between the edge length (a) and the atomic radius (r) is derived from the body diagonal formula:\n\n √3 a = 4 r. \n\nRearranging for radius, we get r = √3⁄4 a. \n\nSubstituting the given values: r = (1.732 × 351)⁄4 ≈ 151.98 pm. This approximates to 151.8 pm.]",
+        "explanation": "### Core Concept\nIn the Body-Centred Cubic (BCC) unit cell, atoms touch each other along the body diagonal of the cube. Understanding the geometric relationship between the edge length (a) and the atomic radius (r) is essential for solving crystal structure problems.\n\n### Solution \n\n1. In BCC, the body diagonal length = 4r (it passes through one full atom in the center and two half-atoms at the corners).\n2. Mathematically, the body diagonal of a cube with side a is $\\sqrt{3}a$.\n3. Equating them: $4r = \\sqrt{3}a \\implies r = \\frac{\\sqrt{3}}{4}a$.\n4. Calculation: $r = \\frac{\\sqrt{3}}{4} \\times 351 \\text{ pm} \\approx \\frac{1.732 \\times 351}{4} \\approx 151.98 \\text{ pm}$.\n\n### Why This Answer\nThe value $151.98 \\text{ pm}$ is closest to Option B ($151.8 \\text{ pm}$). This small discrepancy is often due to rounding differences in the value of $\\sqrt{3}$.\n\n### Common Mistakes\n* Using the wrong geometry: Confusing BCC with FCC ($\\sqrt{2}a = 4r$) or Simple Cubic ($a = 2r$).\n* Diagonal Confusion: Calculating for the face diagonal ($\\sqrt{2}a$) instead of the body diagonal ($\\sqrt{3}a$).",
+        "keywords": {
+            "r": "atomic radius",
+            "a": "length of side of the unit cell",
+            "pm": "picometers"
+        }
+    },
+    {
+        "id": 26,
+        "question_number": "129",
+        "text": "Extraction of gold and silver involves leaching with CN-. Silver is later recovered by:",
+        "subject": "Chemistry",
+        "sub_topic": "Metallurgy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 16,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Distillation",
+            "Zone refining",
+            "Displacement with Zn",
+            "Liquation"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 16,
+            "type": "MCQ"
+        },
+        "original_id": 112,
+        "correct_answer": "Displacement with Zn",
+        "basic_answer": "Given: [Process: Extraction of gold and silver via leaching with CN⁻. Objective: Identify the recovery method for Silver from the complex solution.] \n\nSolution: [Silver is initially dissolved using a dilute cyanide solution to form a soluble complex. To recover the metal, Zinc (Zn) is added because it is more reactive (electropositive) than silver. Zinc displaces the silver from the complex, causing it to precipitate as a solid. The chemical equation is: 2[Ag(CN)₂]⁻ + Zn → [Zn(CN)₄]²⁻ + 2Ag]",
+        "explanation": "### Core Concept\nThe extraction of noble metals like gold and silver often uses Hydrometallurgy. This involves leaching (dissolving the metal into a soluble complex) followed by displacement using a more reactive metal.\n\n### Solution \n\n1. Leaching: Silver is treated with sodium cyanide (NaCN) in the presence of air to form a soluble complex: [Ag(CN)₂]⁻.\n2. Recovery: Zinc (Zn) is a more reactive/electropositive metal than silver. When added to the solution, it displaces the silver from the complex:\n   2[Ag(CN)₂]⁻ + Zn → [Zn(CN)₄]²⁻ + 2Ag↓\n\n### Why This Answer\nThis displacement reaction (or cementation) is the standard industrial method for recovering silver from a cyanide leach solution. Zinc acts as the reducing agent, forcing the silver to precipitate out as a solid metal.\n\n### Common Mistakes\n* Confusing refining methods: Selecting \"Zone refining\" (used for semiconductors) or \"Liquation\" (used for metals with low melting points like Tin).\n* Forgetting Reactivity: Not realizing that the recovery depends on the position of metals in the electrochemical series.",
+        "keywords": {
+            "CN-": "cyanide ion",
+            "Zn": "zinc",
+            "Ag": "silver",
+            "Au": "gold"
+        }
+    },
+    {
+        "id": 27,
+        "question_number": "132",
+        "text": "The existence of two different coloured complexes with the composition of [Co(NH₃)₄Cl₂]⁺ is due to",
+        "subject": "Chemistry",
+        "sub_topic": "Coordination Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 15,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "linkage isomerism",
+            "geometrical isomerism",
+            "coordination isomerism",
+            "ionisation isomerism"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 262,
+        "correct_answer": "geometrical isomerism",
+        "basic_answer": "Given: [Coordination complex with the formula [Co(NH₃)₄Cl₂]⁺\n\nSolution: [This is an octahedral complex of the type [MA₄B₂]. The presence of two different colored forms is a classic indication of geometrical isomerism. In the cis isomer, the two chloride ligands are located adjacent to each other at a $90^\\circ$ angle, typically appearing violet. In the trans isomer, the chloride ligands are located opposite each other at a $180^\\circ$ angle, typically appearing green. These distinct spatial arrangements affect the crystal field splitting energy ($\\Delta_o$), resulting in the absorption of different wavelengths of light.]",
+        "explanation": "### Core Concept\nIn octahedral coordination complexes of the type [MA₄B₂], the ligands can be arranged differently in space relative to each other, leading to geometrical isomerism.\n\n### Solution \n\nFor the complex [Co(NH₃)₄Cl₂]⁺, two arrangements are possible:\n1. Cis-isomer: The two chloride ligands are adjacent to each other ($90^\\circ$). This isomer is typically violet in color.\n2. Trans-isomer: The two chloride ligands are opposite to each other ($180^\\circ$). This isomer is typically green in color.\n\n### Why This Answer\nThe difference in color arises because the different spatial arrangements lead to different electronic interactions and light absorption patterns. This is the definition of geometrical isomerism (Cis/Trans).\n\n### Common Mistakes\n* Linkage confusion: Thinking it is linkage isomerism, which requires ambidentate ligands (like $NO_2$ or $SCN$) that can bind through different atoms.\n* Ionization error: Ionization isomerism involves swapping a ligand inside the bracket with an ion outside, which isn't possible given this specific chemical formula.",
+        "keywords": {
+            "Co": "Cobalt",
+            "NH³": "Ammonia",
+            "Cl": "Chloride"
+        }
+    },
+    {
+        "id": 28,
+        "question_number": "135",
+        "text": "Property of the alkaline earth metals that increases with their atomic number",
+        "subject": "Chemistry",
+        "sub_topic": "Periodic Table",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 15,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Solubility of their hydroxides in water",
+            "Solubility of their sulphates in water",
+            "Ionization Energy",
+            "Electro-negativity"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 264,
+        "correct_answer": "Solubility of their hydroxides in water",
+        "basic_answer": "Given: [Target Group: Alkaline earth metals (Group 2). Task: Identify the property that increases as the atomic number (Z) increases down the group.]\n\nSolution: [As the atomic number increases down Group 2, the size of the metal cation (M²⁺) increases. For hydroxides (M(OH)₂), the lattice energy decreases much more rapidly than the hydration energy as we move down the group. Since the decrease in lattice enthalpy outweighs the decrease in hydration enthalpy, the net energy balance favors dissolution, meaning the solubility of hydroxides increases from Be(OH)₂ to Ba(OH)₂.]",
+        "explanation": "### Core Concept\nThe solubility of ionic compounds in water depends on the balance between Lattice Enthalpy (energy holding the solid together) and Hydration Enthalpy (energy released when ions dissolve). For Group 2 compounds, these trends change significantly down the group.\n\n### Solution \n\n1. As we go down the group (increasing atomic number), the size of the cation increases.\n2. For Hydroxides (OH⁻): The lattice energy decreases much faster than the hydration energy because the OH⁻ ion is relatively small. This makes it easier for the crystal to break apart, thus solubility increases.\n3. For Sulphates (SO₄²⁻): The hydration energy decreases much faster than the lattice energy because the SO₄²⁻ ion is very large. This makes it harder for them to dissolve, thus solubility decreases.\n\n### Why This Answer\nBoth Ionization Energy and Electronegativity decrease as atomic number increases due to larger size and shielding. Therefore, the only property that increases down the group among the choices is the solubility of hydroxides.\n\n### Common Mistakes\n* Swapping Trends: Mixing up the solubility trends of hydroxides (increases down) and sulphates (decreases down).\n* Size Logic: Thinking that a larger atom always makes something less soluble.",
+        "keywords": {
+            "OH-": "hydroxide ion",
+            "Ba(OH)2": "barium hydroxide",
+            "Sr(OH)2": "strontium hydroxide",
+            "Ca(OH)2": "calcium hydroxide",
+            "Mg(OH)2": "magnesium hydroxide",
+            "Be(OH)2": "beryllium hydroxide"
+        }
+    },
+    {
+        "id": 29,
+        "question_number": "136",
+        "text": "The correct order of the decreasing ionic radii among the following isoelectronic species is",
+        "subject": "Chemistry",
+        "sub_topic": "Periodic Table",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 15,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Ca²⁺ > K⁺ > S²⁻ > Cl⁻",
+            "Cl⁻ > S²⁻ > Ca²⁺ > K⁺",
+            "S²⁻ > Cl⁻ > K⁺ > Ca²⁺",
+            "K⁺ > Ca²⁺ > Cl⁻ > S²⁻"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 265,
+        "correct_answer": "S²⁻ > Cl⁻ > K⁺ > Ca²⁺",
+        "basic_answer": "Given: [Isoelectronic species: Ca²⁺, K⁺, S²⁻, and $Cl^-$.]\n\nSolution: [Isoelectronic species have the same number of electrons. In this group, all species have 18 electrons. The ionic radius is determined by the nuclear charge ($Z$): the more protons in the nucleus, the more strongly the electrons are pulled inward, resulting in a smaller radius. Sulfur has the fewest protons ($16$), followed by Chlorine ($17$), Potassium ($19$), and Calcium ($20$). Therefore, the radius decreases as the atomic number increases: S²⁻ > Cl^- > K^+ > Ca²⁺.]",
+        "explanation": "### Core Concept\nIsoelectronic species are atoms or ions that have the same number of electrons. For these species, the ionic radius depends entirely on the effective nuclear charge ($Z_{eff}$), which is the attraction from the protons in the nucleus.\n\n### Solution \n\nAll species listed (S²⁻, Cl⁻, K⁺, Ca²⁺) have 18 electrons (Argon configuration).\nCompare the atomic numbers (number of protons):\n* S²⁻: Z=16$ (Fewest protons, weakest pull, Largest radius)\n* $Cl^-: Z=17$\n* K⁺: Z=19$\n* Ca²⁺: Z=20$ (Most protons, strongest pull, Smallest radius)\n\n### Why This Answer\nAs the positive charge in the nucleus increases, the electrons are pulled closer to the center, decreasing the size of the electron cloud. Thus, the radius decreases as the atomic number increases.\nDecreasing order: S²⁻ > Cl⁻ > K⁺ > Ca²⁺.\n\n### Common Mistakes\n* Direct proportionality error: Thinking that because Calcium is a larger atom in its neutral state, its ion must be larger too. In ions, the charge is the dominant factor.\n* Ignoring the negative charge: Not realizing that anions (S²⁻) are much larger than their parent atoms because of increased electron-electron repulsion.",
+        "keywords": {
+            "S²⁻": "Sulfide ion",
+            "Cl⁻": "Chloride ion",
+            "K⁺": "Potassium ion",
+            "Ca²⁺": "Calcium ion"
+        }
+    }
+]

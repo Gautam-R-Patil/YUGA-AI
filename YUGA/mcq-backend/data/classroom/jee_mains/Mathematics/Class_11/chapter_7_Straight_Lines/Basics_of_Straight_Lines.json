@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Straight Lines",
+    "chapter_number": 7,
+    "topic": "Basics of Straight Lines",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:50:08.553802",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about straight lines. This is a very important topic in mathematics, especially for JEE Main. Let's start with the basics.\n\nFirst, what is a straight line? A straight line is the shortest distance between two points. It extends in both directions without end. Think of it as a path that does not curve.\n\nNow, let's talk about the slope of a line. The slope tells us how steep a line is. It is the ratio of the vertical change to the horizontal change between two points on the line. If a line goes up from left to right, it has a positive slope. If it goes down, it has a negative slope.\n\nThe formula for slope (m) is: m = (y2 - y1) / (x2 - x1). Here, (x1, y1) and (x2, y2) are two points on the line. This formula is very important for solving JEE Main problems.\n\nNow, let's look at different forms of equations of a straight line. The first one is the slope-intercept form. It is written as y = mx + c. Here, m is the slope and c is the y-intercept. The y-intercept is where the line crosses the y-axis.\n\nAnother form is the point-slope form: y - y1 = m(x - x1). This is useful when you know the slope and one point on the line.\n\nWe also have the general form of a line: Ax + By + C = 0. Here, A, B, and C are constants. You can convert this form to the slope-intercept form to find the slope and y-intercept.\n\nLet's solve a simple example. Find the slope of a line passing through points (2, 3) and (4, 7). Using the slope formula: m = (7 - 3) / (4 - 2) = 4 / 2 = 2. So, the slope is 2.\n\nRemember, a common mistake is mixing up the x and y values in the slope formula. Always subtract y-values in the numerator and x-values in the denominator.\n\nKey takeaways: Know the slope formula, understand different line equations, and practice converting between forms. These are crucial for JEE Main.\n\nIn summary, straight lines are simple once you know the formulas and how to use them. Practice is key to mastering this topic. Keep practicing, and you'll do great in your exams!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Straight Line",
+    "Slope",
+    "Equation",
+    "Y-intercept",
+    "Point-slope"
+  ],
+  "formulas": [
+    {
+      "formula": "m = (y2 - y1) / (x2 - x1)",
+      "description": "Used to find the slope of a line given two points on the line"
+    },
+    {
+      "formula": "y = mx + c",
+      "description": "Slope-intercept form of a line, useful for finding the slope and y-intercept"
+    },
+    {
+      "formula": "y - y1 = m(x - x1)",
+      "description": "Point-slope form, used when slope and one point on the line are known"
+    },
+    {
+      "formula": "Ax + By + C = 0",
+      "description": "General form of a line, can be converted to other forms"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Straight Line",
+      "definition": "The shortest distance between two points, extending in both directions without end"
+    },
+    {
+      "term": "Slope",
+      "definition": "The measure of how steep a line is, calculated as the ratio of vertical change to horizontal change"
+    },
+    {
+      "term": "Y-intercept",
+      "definition": "The point where the line crosses the y-axis"
+    }
+  ]
+}

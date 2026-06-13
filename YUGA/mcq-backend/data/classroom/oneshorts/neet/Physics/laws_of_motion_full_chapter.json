@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Laws of Motion",
+    "chapter_number": "5",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:10:03.351164",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important topics in NEET Physics: Newton's Laws of Motion.\n\n1. Newton's First Law (Law of Inertia): This law states that an object will remain at rest, or move at a constant velocity unless acted upon by a net external force. Essentially, it highlights the concept of inertia, which is the tendency of objects to resist changes in their state of motion. \n\n2. Newton's Second Law (F=ma): This law provides the relationship between force, mass, and acceleration. It states that the force acting on an object is equal to the mass of that object times its acceleration. The formula \\( F = ma \\) is crucial for solving many NEET problems related to this topic.\n\n3. Newton's Third Law (Action and Reaction): This law states that for every action, there is an equal and opposite reaction. This can be easily observed in activities such as walking \u2013 as you push the ground backwards, the ground pushes you forward with equal force.\n\n4. Applications of Newton's Laws: \n   - Free Body Diagrams (FBD): Visual representations of forces acting on an object. One must carefully identify and isolate the object from its environment to analyze the forces.\n   - Equilibrium of Forces: When multiple forces act on an object in such a way that the resultant force (net force) is zero, the object is said to be in equilibrium.\n   - Role of Friction: Friction opposes the relative motion and must be accounted for when calculating net forces.\n\nNEET Question Pattern: NEET frequently asks students to apply these laws to solve problems involving inclined planes, pulleys, elevators, or systems in equilibrium. Often, questions revolve around computing the resultant force or acceleration and require understanding of force components, especially in multi-force systems.\n\nQuick Revision Points:\n- Newton's First Law explains inertia \u2013 objects resist changes in motion without external force.\n- Newton's Second Law: Remember the formula \\( F = ma \\).\n- Newton's Third Law: Action equals reaction.\n- Practice free body diagrams for better force analysis.\n- Understand behavior of objects in equilibrium and the impact of friction.\n\nWith practice, applying these laws will become intuitive, essential for tackling physics problems in the NEET exam.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Newton's Laws of Motion",
+    "Inertia",
+    "Force",
+    "Acceleration",
+    "Free Body Diagram",
+    "Equilibrium",
+    "Friction",
+    "Action and Reaction",
+    "Mass",
+    "Net External Force"
+  ],
+  "formulas": [
+    "F = ma"
+  ],
+  "definitions": [
+    {
+      "term": "Newton's Laws of Motion",
+      "definition": "Three fundamental laws laid down by Sir Isaac Newton that describe the motion of objects: Inertia, relation of force to acceleration, and action-reaction pair."
+    },
+    {
+      "term": "Inertia",
+      "definition": "The resistance of any physical object to any change in its velocity, including changes to speed or direction of motion."
+    },
+    {
+      "term": "Force",
+      "definition": "An interaction that, when unopposed, will change the motion of an object. Measured in Newtons (N)."
+    },
+    {
+      "term": "Acceleration",
+      "definition": "The rate of change of velocity of an object with respect to time. It is a vector quantity."
+    },
+    {
+      "term": "Free Body Diagram",
+      "definition": "A graphical representation used to visualize the forces acting on a single object."
+    },
+    {
+      "term": "Equilibrium",
+      "definition": "The condition in which all acting influences are balanced, resulting in a stable condition."
+    },
+    {
+      "term": "Friction",
+      "definition": "The force resisting the relative motion of surfaces sliding against each other."
+    },
+    {
+      "term": "Action and Reaction",
+      "definition": "For every action, there is an equal and opposite reaction, characterized by Newton's third law."
+    },
+    {
+      "term": "Mass",
+      "definition": "The amount of matter in an object, which is a measure of its inertia."
+    },
+    {
+      "term": "Net External Force",
+      "definition": "The sum of all the external forces acting on an object."
+    }
+  ]
+}

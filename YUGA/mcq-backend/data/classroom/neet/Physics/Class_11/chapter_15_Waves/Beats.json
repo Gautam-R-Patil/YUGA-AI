@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Waves",
+    "chapter_number": 15,
+    "topic": "Beats",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:06:00.135311",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about an interesting topic in physics called 'Beats'. Have you ever noticed two musical instruments playing together? Sometimes, you hear a pulsing sound. This is called a beat. Let's learn more about it. \n\nFirst, let's define what a beat is. A beat is a sound that we hear when two sound waves with slightly different frequencies meet. The sound seems to get louder and softer. This change in loudness is called a beat. \n\nNow, let's see how beats happen. Imagine two sound waves. One wave has a frequency of 100 Hz, and the other has a frequency of 102 Hz. When these waves meet, they create beats. You will hear two beats per second. This is because the difference in their frequencies is 2 Hz. \n\nBeats are common in sound waves. For example, when a piano and a guitar play together, you might hear beats. This happens if the guitar string is not perfectly tuned to the piano note. The beats help musicians tune their instruments. If they hear beats, they know the instruments are out of tune.\n\nBeats are not just interesting. They are also useful. Engineers use beats to test machines. They listen for beats to check if a machine part is vibrating correctly. If they hear beats, it might mean something is wrong.\n\nLet's solve a simple problem. If one sound wave has a frequency of 256 Hz and another has a frequency of 260 Hz, how many beats will you hear per second? The answer is 4 beats per second. This is because the frequency difference is 4 Hz. \n\nNow, let's talk about how beats look on a graph. Imagine two waves on a graph. When they meet, the graph shows a pattern of high and low points. These points show the beats. The high points are when the sound is loudest. The low points are when the sound is softest.\n\nRemember, beats only happen when the frequency difference is small. If the difference is too big, you won't hear beats. Instead, you'll hear two separate sounds.\n\nIn summary, beats are changes in sound loudness when two waves meet. They are useful in music and engineering. Remember the key points: Beats happen due to frequency differences, and they help in tuning and testing.\n\nCommon mistake: Sometimes students think beats happen only with musical instruments. But remember, beats can happen with any sound waves of different frequencies.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Beats",
+    "Frequency",
+    "Sound waves",
+    "Engineering applications",
+    "Graphical representation"
+  ],
+  "formulas": [
+    {
+      "formula": "Number of beats per second = |f1 - f2|",
+      "description": "The number of beats per second is the absolute difference between the two frequencies"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Beats",
+      "definition": "A variation in sound intensity due to interference of two waves with slightly different frequencies"
+    },
+    {
+      "term": "Frequency",
+      "definition": "The number of times a wave repeats in one second"
+    }
+  ]
+}

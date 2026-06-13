@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermodynamics",
+    "chapter_number": 12,
+    "topic": "Reversible and Irreversible Processes",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:01:36.904866",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about reversible and irreversible processes in thermodynamics. These concepts are important for the NEET exam. Let's start with reversible processes. A reversible process is a change that can go back to the way it was. Imagine a car moving up a hill slowly. If it stops and rolls back down, it goes back to the start. In thermodynamics, reversible means the system can return to its original state without leaving any trace. For example, melting ice is reversible. If you freeze the water again, it becomes ice. But remember, this is an ideal process. In real life, it's hard to find perfect reversible processes.\n\nNow, let's talk about irreversible processes. These are changes that cannot go back to the start by themselves. Imagine mixing milk into coffee. You cannot easily separate them again. In thermodynamics, irreversible processes happen naturally and leave a trace. Burning paper is irreversible. Once burned, it cannot become paper again. Most natural processes are irreversible. Heat flowing from hot to cold is another example.\n\nWhy do we care about these processes? Reversible processes help us understand how to make machines more efficient. They show us the best way energy can be used. Irreversible processes help us understand real-world changes. They show us how energy is lost as heat or friction.\n\nLet's solve a simple problem. If a gas expands slowly in a cylinder, it is a reversible process. If the gas expands quickly, it is irreversible. Quick check: If a process can go back to the start without help, it is reversible. If not, it's irreversible.\n\nNow, let's look at graphs. In a reversible process, the graph is smooth and continuous. For irreversible processes, the graph has jumps or breaks. These graphs help us see the difference between the two types of processes.\n\nKey points to remember: Reversible processes are ideal and rare in nature. Irreversible processes are common and happen naturally. Reversible processes help us understand efficiency. Irreversible processes show energy loss.\n\nIn summary, reversible and irreversible processes are key concepts in thermodynamics. They help us understand energy use and efficiency. Remember these concepts for your NEET exam. Keep practicing, and you'll do great!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Reversible process",
+    "Irreversible process",
+    "Thermodynamics",
+    "Efficiency",
+    "Energy loss"
+  ],
+  "formulas": [
+    {
+      "formula": "∆S = 0 for reversible processes",
+      "description": "Change in entropy is zero for reversible processes"
+    },
+    {
+      "formula": "∆S > 0 for irreversible processes",
+      "description": "Change in entropy is greater than zero for irreversible processes"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Reversible process",
+      "definition": "A process that can return to its original state without leaving any trace"
+    },
+    {
+      "term": "Irreversible process",
+      "definition": "A process that cannot return to its original state on its own"
+    },
+    {
+      "term": "Thermodynamics",
+      "definition": "The study of heat and energy flow"
+    }
+  ]
+}

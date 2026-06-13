@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermodynamics",
+    "chapter_number": 12,
+    "topic": "Second Law of Thermodynamics",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:01:20.576895",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Second Law of Thermodynamics. This is an important topic in physics and NEET exams. Let's start with the main idea. The second law tells us about energy and its flow. It says that energy moves from a hot object to a cold one. This happens naturally. We cannot reverse it without extra work.\n\nNow, let's talk about entropy. Entropy is a measure of disorder or randomness. When energy spreads out, entropy increases. Think of a messy room. The more scattered the items, the higher the entropy. In any natural process, the total entropy always increases. This means things become more disordered over time.\n\nA common example of the second law is when ice melts in a warm room. Heat from the room moves to the ice, making it melt. The room's entropy increases as the ice melts. Another example is a car engine. It uses fuel to move the car. Not all fuel energy turns into motion. Some energy is lost as heat, increasing entropy.\n\nThe second law is also important in engineering. It helps design engines and refrigerators. Engineers use it to make machines more efficient. They try to reduce energy loss as heat. This makes machines work better and saves fuel.\n\nLet's solve a simple problem. If you have a cup of hot coffee, it cools down over time. Why? Because heat moves to the cooler air. The coffee loses energy, and entropy increases. Remember, energy cannot flow from cold to hot without work.\n\nKey points to remember: Energy flows from hot to cold. Entropy measures disorder. In any process, entropy increases. This is the natural direction of energy flow. A common mistake is thinking energy can move from cold to hot naturally. It cannot.\n\nIn summary, the second law of thermodynamics tells us about the natural flow of energy. It introduces entropy, which always increases in a natural process. This law helps us understand and design better machines. Make sure to remember these concepts for your exams. They are frequently asked in NEET.\n\nThank you for listening. Keep practicing and remember these key ideas!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Second Law of Thermodynamics",
+    "Entropy",
+    "Energy Flow",
+    "Heat",
+    "Disorder"
+  ],
+  "formulas": [
+    {
+      "formula": "∆S = Q/T",
+      "description": "Change in entropy (∆S) is equal to the heat added (Q) divided by the temperature (T)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Second Law of Thermodynamics",
+      "definition": "Energy moves from a hot object to a cold one naturally, increasing entropy."
+    },
+    {
+      "term": "Entropy",
+      "definition": "A measure of disorder or randomness in a system."
+    }
+  ]
+}

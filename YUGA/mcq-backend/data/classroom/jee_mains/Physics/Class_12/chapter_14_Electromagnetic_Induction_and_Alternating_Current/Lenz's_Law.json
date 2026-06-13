@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electromagnetic Induction and Alternating Current",
+    "chapter_number": 14,
+    "topic": "Lenz's Law",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:58:16.316665",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Lenz's Law. This topic is part of the chapter on Electromagnetic Induction and Alternating Current. You might remember that electromagnetic induction is the process of generating electric current using a magnetic field. Let's dive into Lenz's Law.\n\nFirst, let's understand the statement of Lenz's Law. Lenz's Law states that the direction of the induced current is such that it opposes the change in magnetic flux that produces it. In simple words, if you try to change the magnetic field in a loop, the induced current will try to stop that change.\n\nWhy is this important? Lenz's Law helps in conserving energy. It ensures that energy is not created from nothing. If the induced current did not oppose the change, it would mean creating energy for free, which is not possible.\n\nNow, let's see how Lenz's Law relates to Faraday's Law. Faraday's Law tells us how much voltage is induced in a loop. The formula is E = -dΦ/dt, where E is the induced electromotive force (emf), and dΦ/dt is the rate of change of magnetic flux. The negative sign in Faraday's Law is because of Lenz's Law. It shows that the induced emf opposes the change in flux.\n\nLet's talk about the direction of the induced current. Use the right-hand rule. Point your thumb in the direction of the magnetic field. Curl your fingers. The direction your fingers curl is the direction of the induced current.\n\nA common application of Lenz's Law is electromagnetic braking. In trains or roller coasters, when they need to stop quickly, a magnetic field is applied. The induced current opposes the motion, helping to slow down the vehicle. This is a safe and efficient way to brake.\n\nLet's try a simple example. Imagine a loop of wire in a magnetic field. If the magnetic field increases, the induced current will flow in a direction that creates a magnetic field opposing the increase. If the field decreases, the induced current will try to increase it.\n\nNow, let's look at a JEE Main type problem. Suppose you have a loop with a changing magnetic field. The field changes from 0.2 T to 0.5 T in 2 seconds. The area of the loop is 0.1 m². What is the induced emf? Use Faraday's Law: E = -dΦ/dt. Here, dΦ = (0.5 - 0.2) x 0.1 = 0.03 Wb. So, E = -0.03/2 = -0.015 V. The negative sign shows the direction of the emf opposes the change.\n\nJEE Main mistake note: Always remember the negative sign in Faraday's Law. It is easy to forget, but it is crucial for the direction.\n\nKey takeaways: Lenz's Law ensures the conservation of energy. It tells the direction of induced current. It is closely related to Faraday's Law. Electromagnetic braking is a practical application.\n\nIn summary, Lenz's Law is about opposing changes in magnetic flux. It keeps energy balanced. Always use the right-hand rule to find the direction of the induced current. Practice problems to get comfortable with these concepts.\n\nThat's it for today's lesson. Keep practicing, and you'll do great in JEE Main!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Lenz's Law",
+    "Faraday's Law",
+    "Induced Current",
+    "Magnetic Flux",
+    "Electromagnetic Braking"
+  ],
+  "formulas": [
+    {
+      "formula": "E = -dΦ/dt",
+      "description": "Used to calculate the induced emf when the magnetic flux changes over time"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Lenz's Law",
+      "definition": "The direction of induced current opposes the change in magnetic flux that produces it."
+    },
+    {
+      "term": "Electromagnetic Induction",
+      "definition": "The process of generating electric current using a magnetic field."
+    }
+  ]
+}

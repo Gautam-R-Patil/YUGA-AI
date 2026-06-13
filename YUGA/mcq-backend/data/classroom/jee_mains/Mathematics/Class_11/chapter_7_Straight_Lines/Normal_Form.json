@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Straight Lines",
+    "chapter_number": 7,
+    "topic": "Normal Form",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:50:59.594981",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Normal Form of a straight line. This is an important topic in JEE Main Mathematics. Let's start with the equation. The Normal Form of a straight line is given by: x cos θ + y sin θ = p. Here, θ is an angle, and p is a distance. Let's understand these terms better. \n\nThe angle θ is the angle between the positive x-axis and the normal to the line. The normal is a line that is perpendicular to our main line. The distance p is the shortest distance from the origin to the line. This distance is always positive. \n\nNow, why is this form useful? In JEE Main, questions often ask for the shortest distance from a point to a line. The Normal Form helps us find this distance easily. \n\nLet's see how to use this equation. If you know θ and p, you can write the equation of the line directly. For example, if θ is 45 degrees and p is 5, the line is x cos 45° + y sin 45° = 5. \n\nA common mistake is to mix up θ and p. Remember, θ is an angle, and p is a distance. Also, cos θ and sin θ should always be between -1 and 1. If you get values outside this range, check your calculations. \n\nLet's do a quick example. Find the equation of the line with θ = 30° and p = 10. First, find cos 30° = √3/2 and sin 30° = 1/2. Then, plug these into the equation: x(√3/2) + y(1/2) = 10. This is your line equation. \n\nIn JEE Main, they might ask you to find θ or p from a given line equation. To do this, compare the given equation with x cos θ + y sin θ = p. Match the coefficients to find cos θ, sin θ, and p. \n\nAnother JEE Main trap is forgetting to convert angles to radians when needed. Always check if the question asks for radians or degrees. \n\nKey takeaways: The Normal Form is x cos θ + y sin θ = p. θ is the angle with the x-axis, and p is the distance to the origin. Use this form for problems involving distances from a point to a line. \n\nIn summary, the Normal Form helps simplify many geometry problems. Practice using this form, and remember these tips for JEE Main. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Normal Form",
+    "Angle θ",
+    "Distance p",
+    "Straight Line",
+    "JEE Main"
+  ],
+  "formulas": [
+    {
+      "formula": "x cos θ + y sin θ = p",
+      "description": "Used to find the equation of a line in Normal Form, especially when angle and distance are given."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Normal Form",
+      "definition": "An equation of a line in the form x cos θ + y sin θ = p, where θ is the angle with the x-axis and p is the distance from the origin."
+    },
+    {
+      "term": "Angle θ",
+      "definition": "The angle between the positive x-axis and the normal to the line."
+    },
+    {
+      "term": "Distance p",
+      "definition": "The shortest distance from the origin to the line, always positive."
+    }
+  ]
+}

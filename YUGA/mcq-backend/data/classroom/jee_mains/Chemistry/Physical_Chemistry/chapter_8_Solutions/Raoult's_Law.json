@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Solutions",
+    "chapter_number": 8,
+    "topic": "Raoult's Law",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:09:00.790677",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Raoult's Law. This is an important topic in the chapter on Solutions in Physical Chemistry. Let's start with the definition of Raoult's Law. Raoult's Law states that the vapor pressure of a solution is directly proportional to the mole fraction of the solvent. In simple words, if you have a solution, the pressure of its vapor depends on how much solvent is there compared to the whole solution. \n\nNow, let's talk about the formula. The formula for Raoult's Law is P_solution = X_solvent * P_pure_solvent. Here, P_solution is the vapor pressure of the solution, X_solvent is the mole fraction of the solvent, and P_pure_solvent is the vapor pressure of the pure solvent. This formula helps us calculate how the vapor pressure changes when we mix substances. \n\nLet's discuss what happens in ideal and non-ideal solutions. An ideal solution strictly follows Raoult's Law. This means the interactions between molecules of different substances are similar to those in pure substances. But, in non-ideal solutions, these interactions are different. Non-ideal solutions do not follow Raoult's Law perfectly. \n\nA key concept related to Raoult's Law is vapor pressure lowering. When a non-volatile solute is added to a solvent, the vapor pressure of the solution is lower than that of the pure solvent. This is because the solute molecules take up space at the surface, reducing the number of solvent molecules that can escape into the vapor phase. \n\nRaoult's Law is very useful in distillation, a process to separate mixtures. In distillation, we use the fact that different substances have different vapor pressures. By heating the solution, the component with a higher vapor pressure evaporates first. \n\nSometimes, solutions show deviations from Raoult's Law. If the actual vapor pressure is higher than expected, it is a positive deviation. If it is lower, it is a negative deviation. Positive deviations occur when the interactions between different molecules are weaker than those in pure substances. Negative deviations happen when interactions are stronger. \n\nLet's look at a graphical representation of Raoult's Law. Imagine a graph with vapor pressure on the y-axis and mole fraction on the x-axis. For an ideal solution, the line is straight, showing a direct relationship. For non-ideal solutions, the line curves up or down, showing deviations. \n\nHere is an example of Raoult's Law application. Imagine you have a solution of water and sugar. If you know the vapor pressure of pure water and the mole fraction of water in the solution, you can find the vapor pressure of the solution using Raoult's Law. \n\nBe careful of common misconceptions. One mistake is thinking Raoult's Law applies to all solutions. Remember, it only applies to ideal solutions. Another trap is confusing mole fraction with mass fraction. Always use mole fraction in Raoult's Law. \n\nTo summarize, Raoult's Law helps us understand how vapor pressure changes in solutions. We learned about ideal and non-ideal solutions, vapor pressure lowering, and applications in distillation. Remember to use the formula P_solution = X_solvent * P_pure_solvent correctly. Watch out for deviations and common mistakes. \n\nThat's all for today. Keep practicing problems to get better at using Raoult's Law in exams. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Raoult's Law",
+    "Ideal Solution",
+    "Non-Ideal Solution",
+    "Vapor Pressure",
+    "Distillation"
+  ],
+  "formulas": [
+    {
+      "formula": "P_solution = X_solvent * P_pure_solvent",
+      "description": "This formula is used to calculate the vapor pressure of a solution in JEE Main questions."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Raoult's Law",
+      "definition": "The vapor pressure of a solution is directly proportional to the mole fraction of the solvent."
+    },
+    {
+      "term": "Ideal Solution",
+      "definition": "A solution that follows Raoult's Law perfectly, with similar interactions between different and same molecules."
+    },
+    {
+      "term": "Non-Ideal Solution",
+      "definition": "A solution that does not follow Raoult's Law due to different interactions between molecules."
+    }
+  ]
+}

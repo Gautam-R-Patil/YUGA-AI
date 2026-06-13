@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Reproductive Health",
+    "chapter_number": 4,
+    "topic": "Sexually Transmitted Diseases",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:40:24.597844",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about sexually transmitted diseases, or STDs. STDs are infections you can get by having sexual contact. They can affect anyone, and it's important to know about them for your health. Let's start with some common STDs.\n\nFirst, we have Gonorrhea. It is caused by bacteria. Symptoms include pain while urinating and unusual discharge from the genitals. Syphilis is another STD. It starts with sores and can cause serious health problems if not treated.\n\nChlamydia is also common. It often has no symptoms, but it can cause pain and lead to infertility. Trichomoniasis is caused by a tiny parasite. It can cause itching and discomfort.\n\nHepatitis B affects the liver. It can lead to liver damage. Finally, HIV/AIDS is a very serious STD. HIV attacks the immune system. Without treatment, it can lead to AIDS. AIDS is the last stage of HIV infection and is life-threatening.\n\nNow, let's talk about symptoms and treatment. Symptoms can be different for each STD. Some people may not have any symptoms. But if you notice anything unusual, see a doctor. Most bacterial STDs can be treated with antibiotics. For viral STDs like HIV, doctors use antiretroviral therapy. This helps control the virus.\n\nPrevention is very important. Using condoms can help prevent STDs. Regular check-ups and testing are also helpful. If you are sexually active, talk to your partner about STDs.\n\nSTDs can impact reproductive health. They can cause infertility or problems during pregnancy. So, it's important to take them seriously. Let's remember some key terms. A pathogen is a germ that causes disease. The incubation period is the time between getting infected and showing symptoms. Antiretroviral therapy is medicine for HIV.\n\nA quick note on a common mistake: Many people think you can tell if someone has an STD just by looking. This is not true. Many STDs have no symptoms, so testing is important.\n\nFinally, let's summarize. We learned about common STDs, their symptoms, and treatments. We talked about prevention and how STDs can affect reproductive health. Remember to stay informed and take care of your health.\n\nThank you for listening, and feel free to ask any questions!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Sexually Transmitted Diseases",
+    "Gonorrhea",
+    "HIV/AIDS",
+    "Antiretroviral Therapy",
+    "Reproductive Health"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Pathogen",
+      "definition": "A germ that causes disease."
+    },
+    {
+      "term": "Incubation period",
+      "definition": "The time between getting infected and showing symptoms."
+    },
+    {
+      "term": "Antiretroviral therapy",
+      "definition": "Medicine used to control HIV."
+    }
+  ]
+}

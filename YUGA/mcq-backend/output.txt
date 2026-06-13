@@ -1,0 +1,56 @@
+TTS Pronunciation Test (Unicode Sample):
+
+Original: speed = d/t
+Result:   speed equals d by t
+
+Original: speed = d/t₁
+Result:   speed equals d by t one
+
+Original: acceleration = (v-u)/t
+Result:   acceleration equals v, u divided by t
+
+Original: The hit speed is 50 m/s
+Result:   The hit speed is fifty meters per second
+
+Original: g = 10 m/s²
+Result:   g equals ten meters per second squared
+
+Original: density is 1000 kg/m³
+Result:   density is one thousand kilograms per cubic meter
+
+Original: pressure is 1.013 * 10⁵ Pa
+Result:   pressure is one point zero one three ten to the power of five pascals
+
+Original: 1/2 * m * v²
+Result:   one divided by two m v squared
+
+Original: distance/time
+Result:   distance by time
+
+Original: The unit is J/K
+Result:   The unit is joules per kelvin
+
+Original: sin θ/cos θ
+Result:   sin theta by cos theta
+
+Original: C = Q/V
+Result:   C equals Q by V
+
+Original: ms⁻²
+Result:   meters per second squared
+
+Original: Force/Area
+Result:   Force by Area
+
+Original: kg/m³
+Result:   kilograms per cubic meter
+
+Original: a-b => b-1
+Result:   a, b implies b negative one
+
+Original: a-b -> b-1
+Result:   a, b implies b negative one
+
+Original: P ⇒ Q
+Result:   P implies Q
+

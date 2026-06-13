@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Principles of Inheritance and Variation",
+    "chapter_number": 5,
+    "topic": "Mendelian Inheritance",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:40:46.039804",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Mendelian Inheritance. This topic is very important for NEET. Let's start with Gregor Mendel. He was a scientist who studied how traits pass from parents to children. He used pea plants for his experiments.\n\nFirst, let's talk about Mendel's laws. The first law is the Law of Segregation. It says that each parent has two alleles for a trait. An allele is a version of a gene. During reproduction, these alleles separate. Each parent gives one allele to the offspring. For example, if a pea plant has two alleles for flower color, one purple (P) and one white (p), it can pass either P or p to the next generation.\n\nNext is the Law of Independent Assortment. This law says that alleles for different traits separate independently. For example, the color of a pea plant's flower does not affect the height of the plant.\n\nNow, let's discuss Monohybrid and Dihybrid crosses. A Monohybrid cross looks at one trait. For example, crossing a tall plant with a short plant. A Dihybrid cross looks at two traits. For example, crossing a plant with yellow, round seeds with a plant with green, wrinkled seeds.\n\nWe also have Test crosses and Back crosses. A Test cross helps us know the genotype of an organism. We cross it with a homozygous recessive organism. A Back cross is when we cross an offspring with one of its parents.\n\nLet's move to Incomplete Dominance and Co-dominance. Incomplete Dominance is when neither allele is completely dominant. The result is a blend. For example, red and white flowers make pink flowers. Co-dominance is when both alleles show up equally. For example, in cows, a red and white coat can appear together.\n\nMultiple alleles are more than two alleles for a trait. A good example is ABO blood groups. Here, alleles A and B are co-dominant, and O is recessive.\n\nPolygenic inheritance involves many genes for one trait. Skin color is a good example. Many genes together decide the color.\n\nPleiotropy is when one gene affects many traits. A good example is the sickle cell gene. It affects blood cells and can cause anemia.\n\nNow, let's define some key terms. Allele: a version of a gene. Genotype: the genetic makeup of an organism. Phenotype: the physical appearance of an organism. Homozygous: having two same alleles for a trait. Heterozygous: having two different alleles for a trait.\n\nRemember, Mendel's experiments were very important. They help us understand genetics. Many NEET questions come from this chapter. So, study these concepts well.\n\nIn summary, Mendel's laws explain how traits pass from parents to children. We learned about different crosses, dominance, and important terms. Keep practicing with examples and diagrams. This will help you in your exams.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Mendelian Inheritance",
+    "Law of Segregation",
+    "Law of Independent Assortment",
+    "Monohybrid Cross",
+    "Dihybrid Cross"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Allele",
+      "definition": "A version of a gene."
+    },
+    {
+      "term": "Genotype",
+      "definition": "The genetic makeup of an organism."
+    },
+    {
+      "term": "Phenotype",
+      "definition": "The physical appearance of an organism."
+    },
+    {
+      "term": "Homozygous",
+      "definition": "Having two same alleles for a trait."
+    },
+    {
+      "term": "Heterozygous",
+      "definition": "Having two different alleles for a trait."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Conic Sections",
+    "chapter_number": 8,
+    "topic": "Ellipse",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:51:53.068012",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about the ellipse. An ellipse is a special shape you see in many places. It looks like a stretched circle. Let's start with its definition. An ellipse is a set of points. These points are such that the sum of distances from two fixed points is constant. These two fixed points are called the foci. Now, let's look at the standard form of an ellipse. The equation is (x^2/a^2) + (y^2/b^2) = 1. Here, 'a' and 'b' are the lengths of the semi-major and semi-minor axes. The semi-major axis is the longest diameter, and the semi-minor is the shortest. If a > b, the ellipse is wider along the x-axis. If b > a, it is taller along the y-axis. \n\nLet's understand the equation more. In the equation, (x^2/a^2) + (y^2/b^2) = 1, 'a' and 'b' are very important. They tell us the size of the ellipse. If 'a' is larger, the ellipse stretches more along the x-axis. If 'b' is larger, it stretches more along the y-axis. In JEE Main, you often need to find 'a' and 'b' from given values. Remember, the larger value is always 'a' if the ellipse is horizontal. \n\nNow, let's talk about the foci and eccentricity. The foci are two special points inside the ellipse. The distance between these points and the center helps us understand the shape. The eccentricity 'e' is a measure of how much the ellipse is stretched. It is given by the formula e = √(1 - b^2/a^2). If e is close to 0, the ellipse looks like a circle. If e is close to 1, it is very stretched. In JEE Main, questions often ask you to calculate 'e'. Remember, if you know 'a' and 'b', you can find 'e'. \n\nLet's do a quick example. If a = 5 and b = 3, what is the eccentricity? Use the formula e = √(1 - b^2/a^2). First, calculate b^2/a^2 = 3^2/5^2 = 9/25. Then, 1 - 9/25 = 16/25. Finally, e = √(16/25) = 0.8. So, the eccentricity is 0.8. \n\nA common mistake in JEE Main is mixing up 'a' and 'b'. Always check which is larger. Another mistake is incorrect calculation of eccentricity. Always square 'b' and 'a' first, then subtract. \n\nIn summary, remember these key points: An ellipse is a stretched circle. The standard form is (x^2/a^2) + (y^2/b^2) = 1. The foci are special points inside. Eccentricity tells us how stretched the ellipse is. Practice these steps and you will do well in JEE Main. \n\nThat's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Ellipse",
+    "Foci",
+    "Eccentricity",
+    "Semi-major Axis",
+    "Equation"
+  ],
+  "formulas": [
+    {
+      "formula": "(x^2/a^2) + (y^2/b^2) = 1",
+      "description": "Standard form of the ellipse equation used to find properties like foci and axes"
+    },
+    {
+      "formula": "e = √(1 - b^2/a^2)",
+      "description": "Formula for eccentricity, used to determine how stretched the ellipse is"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ellipse",
+      "definition": "A set of points where the sum of distances from two fixed points is constant"
+    },
+    {
+      "term": "Foci",
+      "definition": "Two fixed points inside an ellipse used to define its shape"
+    },
+    {
+      "term": "Eccentricity",
+      "definition": "A measure of how much an ellipse is stretched, calculated using a and b"
+    }
+  ]
+}

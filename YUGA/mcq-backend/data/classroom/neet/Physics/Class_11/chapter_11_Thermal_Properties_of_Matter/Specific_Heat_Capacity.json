@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermal Properties of Matter",
+    "chapter_number": 11,
+    "topic": "Specific Heat Capacity",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:59:32.009528",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about a very important concept in physics called Specific Heat Capacity. This topic is important for your NEET exams, so let's understand it well. \n\nFirst, let's define Specific Heat Capacity. It is the amount of heat needed to raise the temperature of 1 kilogram of a substance by 1 degree Celsius. This means different materials need different amounts of heat to change their temperature. \n\nThe formula to calculate Specific Heat Capacity is: c = Q / (m * ∆T). Here, 'c' is the specific heat capacity, 'Q' is the heat added, 'm' is the mass of the substance, and '∆T' is the change in temperature. \n\nLet's look at some examples. Water has a high specific heat capacity. It means water needs a lot of heat to change its temperature. This is why oceans and lakes stay cool even in summer. On the other hand, metals like iron have a low specific heat capacity. They heat up quickly. \n\nSpecific Heat Capacity is very useful in engineering. For example, in designing engines, engineers choose materials with the right specific heat capacity to manage heat well. \n\nLet's solve a simple problem. Suppose you have 2 kg of a metal and you add 2000 Joules of heat. If the temperature rises by 5 degrees Celsius, what is the specific heat capacity? Using the formula c = Q / (m * ∆T), we find c = 2000 / (2 * 5) = 200 J/kg°C. \n\nA common mistake is confusing heat and temperature. Remember, adding heat can change temperature, but they are not the same. \n\nWe can also show Specific Heat Capacity on a graph. The graph shows temperature change on the x-axis and heat added on the y-axis. The slope of the line gives the specific heat capacity. \n\nKey points to remember: Specific Heat Capacity is about how much heat a material needs to change its temperature. Use the formula c = Q / (m * ∆T) to calculate it. Different materials have different specific heat capacities, which affects their use in real life. \n\nIn conclusion, understanding Specific Heat Capacity helps us in many fields, especially in making machines and understanding nature. Keep practicing problems to get better at this concept. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Specific Heat Capacity",
+    "Temperature",
+    "Heat",
+    "Materials",
+    "Engineering"
+  ],
+  "formulas": [
+    {
+      "formula": "c = Q / (m * ∆T)",
+      "description": "This formula calculates the specific heat capacity where 'c' is the specific heat capacity, 'Q' is the heat added, 'm' is the mass, and '∆T' is the change in temperature."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Specific Heat Capacity",
+      "definition": "The amount of heat needed to raise the temperature of 1 kilogram of a substance by 1 degree Celsius."
+    }
+  ]
+}

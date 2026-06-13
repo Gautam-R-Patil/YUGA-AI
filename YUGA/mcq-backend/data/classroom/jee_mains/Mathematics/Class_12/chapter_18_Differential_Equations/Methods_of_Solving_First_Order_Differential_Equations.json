@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Differential Equations",
+    "chapter_number": 18,
+    "topic": "Methods of Solving First Order Differential Equations",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:00:50.218402",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about solving first order differential equations. These are equations that involve derivatives of a function. Let's start with some basic methods. \n\nFirst, we have the Separation of Variables method. This is used when you can write the equation as a product of two functions, one in terms of x and the other in terms of y. For example, dy/dx = g(x) * h(y). Here, we separate the variables: dy/h(y) = g(x) dx. Then, we integrate both sides. \n\nNext, we have the Integrating Factor Method. This is useful for linear differential equations of the form dy/dx + P(x)y = Q(x). The integrating factor is e^(∫P(x)dx). Multiply the whole equation by this factor to simplify it. Then, integrate to find the solution. \n\nNow, let's talk about Exact Differential Equations. These are equations where M(x, y)dx + N(x, y)dy = 0. To check if it's exact, ensure ∂M/∂y = ∂N/∂x. If it is exact, integrate M with respect to x and N with respect to y to find the solution. \n\nLinear Differential Equations are of the form dy/dx + Py = Q. The solution is found using the integrating factor method. Remember, the integrating factor is e^(∫Pdx). After multiplying, integrate to solve for y. \n\nBernoulli's Equation has the form dy/dx + P(x)y = Q(x)y^n. When n ≠ 1, it's non-linear. To solve, divide by y^n and then substitute v = y^(1-n). This reduces it to a linear equation. \n\nHomogeneous Equations have the form dy/dx = f(y/x). Use the substitution y = vx, where v is a function of x. This simplifies the equation, making it easier to solve. \n\nReduction to Separable Form is used when the equation doesn't look separable at first. Try substitutions to make it separable. For example, if dy/dx = (x + y)/(x - y), use u = x - y. \n\nLastly, let's understand the Graphical Interpretation of Solutions. Graphs help visualize solutions. For example, a slope field shows how solutions curve through a plane. This aids in understanding the behavior of solutions. \n\nRemember, common mistakes in JEE Main include not checking if an equation is exact or forgetting to multiply by the integrating factor. Always double-check these steps. \n\nKey takeaways: Understand each method, practice integration, and remember common traps. \n\nIn summary, mastering these methods will help you solve differential equations in JEE Main effectively. Practice is key. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Differential Equations",
+    "Separation of Variables",
+    "Integrating Factor",
+    "Exact Equations",
+    "Bernoulli's Equation"
+  ],
+  "formulas": [
+    {
+      "formula": "dy/dx = g(x) * h(y)",
+      "description": "Used when variables can be separated. Integrate both sides after separation."
+    },
+    {
+      "formula": "e^(∫P(x)dx)",
+      "description": "Integrating factor for linear differential equations. Used to simplify the equation."
+    },
+    {
+      "formula": "dy/dx + P(x)y = Q(x)",
+      "description": "Standard form of linear differential equations. Use integrating factor for solution."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Differential Equation",
+      "definition": "An equation involving derivatives of a function."
+    },
+    {
+      "term": "Integrating Factor",
+      "definition": "A function used to simplify linear differential equations, making them easier to solve."
+    }
+  ]
+}

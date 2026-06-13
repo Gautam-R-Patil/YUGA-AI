@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Motion in a Plane",
+    "chapter_number": 4,
+    "topic": "Uniform Circular Motion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:51:04.558700",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will learn about uniform circular motion. This is an important topic in physics and is often asked in NEET exams.\n\nFirst, let's understand what circular motion is. Circular motion is when an object moves in a circle. Imagine a car going around a roundabout. The car is in circular motion. Now, if the car moves at a constant speed, it is in uniform circular motion.\n\nIn uniform circular motion, the speed is constant, but the direction changes. This is because the car is always turning. When direction changes, velocity changes too. Remember, velocity is speed with direction. So, even if speed is the same, changing direction means changing velocity.\n\nNow, let's talk about centripetal acceleration. Acceleration is a change in velocity. In circular motion, acceleration points towards the center of the circle. This is called centripetal acceleration. 'Centripetal' means 'center-seeking'.\n\nWe also have centripetal force. This force keeps the object moving in a circle. It also points towards the center. Without this force, the object would fly off in a straight line. For example, think of a stone tied to a string. When you swing it, your hand pulls the stone towards the center. This pull is the centripetal force.\n\nNow, let's look at some examples of uniform circular motion. The hands of a clock move in a circle. A satellite orbiting Earth is also in circular motion. These are examples where objects move in a circle at a constant speed.\n\nCircular motion is not just in physics books. It is everywhere in daily life. When you ride a merry-go-round, you experience circular motion. The wheels of a bicycle also show circular motion.\n\nLet's solve a simple problem. If a car moves in a circle with a radius of 50 meters at a speed of 10 meters per second, what is the centripetal acceleration? Use the formula for centripetal acceleration: a = v^2/r. Here, v is speed and r is radius. So, a = (10)^2/50 = 2 m/s^2.\n\nCommon mistake: Do not confuse speed with velocity. Speed is how fast you go. Velocity is speed with direction. Also, remember that even if speed is constant, velocity can change because direction changes.\n\nKey points to remember: In uniform circular motion, speed is constant, but velocity changes. Centripetal acceleration and force always point to the center. These concepts are important for NEET.\n\nIn summary, uniform circular motion is when an object moves in a circle at a constant speed. Centripetal force and acceleration keep the object in circular motion. We see this motion in clocks, satellites, and even in daily life.\n\nI hope this was clear and helpful. Keep practicing, and you will do great in your exams!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Uniform Circular Motion",
+    "Centripetal Force",
+    "Centripetal Acceleration",
+    "Velocity",
+    "Speed"
+  ],
+  "formulas": [
+    {
+      "formula": "a = v^2/r",
+      "description": "Centripetal acceleration formula where 'a' is acceleration, 'v' is speed, and 'r' is radius"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Uniform Circular Motion",
+      "definition": "Motion in a circle at a constant speed"
+    },
+    {
+      "term": "Centripetal Force",
+      "definition": "Force that keeps an object moving in a circle, directed towards the center"
+    },
+    {
+      "term": "Centripetal Acceleration",
+      "definition": "Acceleration of an object moving in a circle, directed towards the center"
+    }
+  ]
+}

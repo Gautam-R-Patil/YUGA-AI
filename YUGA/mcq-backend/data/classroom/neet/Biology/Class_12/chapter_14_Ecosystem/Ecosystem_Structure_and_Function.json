@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Ecosystem",
+    "chapter_number": 14,
+    "topic": "Ecosystem Structure and Function",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:45:17.849236",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about ecosystems. An ecosystem is a community of living things and their environment. It has two main parts: biotic and abiotic components. \n\nLet's start with biotic components. These are the living parts of an ecosystem. They include plants, animals, and microorganisms. For example, trees, deer, and bacteria are all biotic components. \n\nNow, let's look at abiotic components. These are the non-living parts. They include sunlight, water, air, and soil. Without these, living things cannot survive. \n\nNext, we talk about energy flow in the ecosystem. Energy moves through food chains and food webs. A food chain is a simple path of energy. For example, grass gets energy from the sun. A rabbit eats the grass. Then, a fox eats the rabbit. \n\nA food web is more complex. It shows many food chains linked together. This is more like real life. In exams, remember: energy flows from the sun to producers and then to consumers. \n\nWe also have ecological pyramids. These show the amount of energy, biomass, or number of organisms at each level. There are three types: number, biomass, and energy pyramids. \n\nA pyramid of numbers shows the number of organisms at each level. For example, there are many grass plants, fewer rabbits, and even fewer foxes. \n\nA pyramid of biomass shows the total mass of organisms. Biomass is the weight of living things. \n\nA pyramid of energy shows energy flow. Energy decreases as you move up. This is because energy is lost as heat. \n\nAnother important concept is productivity. Productivity is the rate of production of biomass. Primary productivity is the energy made by plants. Secondary productivity is the energy made by animals. \n\nRemember these key terms: \n- Trophic level: A step in a food chain. \n- Biomass: The mass of living things. \n- Productivity: The rate of biomass production. \n\nCommon mistake: Do not confuse biomass with number of organisms. They are different! \n\nTo sum up, ecosystems have biotic and abiotic parts. Energy flows through food chains and webs. Ecological pyramids show different things. Productivity is important for understanding energy use. \n\nThat's it for today! Keep these points in mind for your exams.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Ecosystem",
+    "Biotic components",
+    "Abiotic components",
+    "Energy flow",
+    "Ecological pyramids"
+  ],
+  "formulas": [
+    {
+      "formula": "Energy loss = Initial energy - Energy used",
+      "description": "This formula helps to calculate energy lost at each trophic level."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ecosystem",
+      "definition": "A community of living things and their environment."
+    },
+    {
+      "term": "Biotic components",
+      "definition": "Living parts of an ecosystem like plants and animals."
+    },
+    {
+      "term": "Abiotic components",
+      "definition": "Non-living parts of an ecosystem like sunlight and water."
+    },
+    {
+      "term": "Trophic level",
+      "definition": "A step in a food chain or food web."
+    },
+    {
+      "term": "Biomass",
+      "definition": "The mass of living organisms in a given area."
+    },
+    {
+      "term": "Productivity",
+      "definition": "The rate of production of new biomass."
+    }
+  ]
+}

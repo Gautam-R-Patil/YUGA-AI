@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "12",
+    "chapter": "Reproduction in Organisms",
+    "chapter_number": "23",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:35:31.463130",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts: Reproduction in Organisms.\n\nReproduction is the biological process by which new individual organisms are produced. It is essential for the continuation of a species. There are two main types: asexual and sexual reproduction.\n\n**Asexual Reproduction:**\n- Involves a single parent and no fusion of gametes.\n- Offspring are genetically identical to the parent.\n- Common methods include binary fission (e.g., Amoeba), budding (e.g., Hydra), fragmentation (e.g., Spirogyra), and spore formation (e.g., fungi).\n\n**Sexual Reproduction:**\n- Involves two parents and fusion of male and female gametes (sperms and ova).\n- Offspring have genetic variation, enhancing adaptability.\n- Life cycle involves formation of gametes (gametogenesis), fertilization to form zygote, development into embryo, and growth into adults.\n\n**Key Formula / Idea:**\n- Gametes are haploid and formed by meiosis.\n- Fertilization restores diploidy.\n- Zygote is the first cell of a new organism.\n\n**NEET Question Pattern:**\n- Questions often test on types and examples of asexual reproduction.\n- Gametogenesis process (Spermatogenesis and Oogenesis) is crucial.\n- Questions on advantages and disadvantages of each type.\n\nQuick Revision:\n1. Reproduction ensures species survival.\n2. Asexual reproduction: one parent, no gametes, cloning.\n3. Sexual reproduction: two parents, gametes, genetic diversity.\n4. Gametogenesis and fertilization are core processes.\n5. Expect questions on types and examples, process of gametogenesis, and significance of each reproduction type.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Reproduction",
+    "Asexual Reproduction",
+    "Sexual Reproduction",
+    "Binary Fission",
+    "Budding",
+    "Gametogenesis",
+    "Meiosis",
+    "Fertilization",
+    "Zygote",
+    "Embryo"
+  ],
+  "formulas": [
+    "Gametes are formed by \\textit{meiosis}.",
+    "Fertilization: sperm (haploid) + egg (haploid) = zygote (diploid)."
+  ],
+  "definitions": [
+    {
+      "term": "Reproduction",
+      "definition": "Biological process by which new organisms are produced, ensuring species continuation."
+    },
+    {
+      "term": "Asexual Reproduction",
+      "definition": "Mode of reproduction with a single parent, without gamete fusion, producing identical offspring."
+    },
+    {
+      "term": "Sexual Reproduction",
+      "definition": "Mode of reproduction involving two parents and fusion of gametes, resulting in genetically diverse offspring."
+    },
+    {
+      "term": "Binary Fission",
+      "definition": "A type of asexual reproduction where a single organism divides into two equal parts."
+    },
+    {
+      "term": "Budding",
+      "definition": "A form of asexual reproduction where a new organism grows out of the body of the parent."
+    },
+    {
+      "term": "Gametogenesis",
+      "definition": "Process by which gametes (sperm and eggs) are produced in reproductive organs."
+    },
+    {
+      "term": "Meiosis",
+      "definition": "Cell division process that reduces the chromosome number by half, creating four haploid cells."
+    },
+    {
+      "term": "Fertilization",
+      "definition": "Fusion of male and female gametes to form a zygote."
+    },
+    {
+      "term": "Zygote",
+      "definition": "The cell formed by the fusion of two gametes; a fertilized ovum."
+    },
+    {
+      "term": "Embryo",
+      "definition": "Early stage of development in multicellular organisms after fertilization."
+    }
+  ]
+}

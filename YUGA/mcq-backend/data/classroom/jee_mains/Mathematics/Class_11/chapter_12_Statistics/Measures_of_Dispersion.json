@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Statistics",
+    "chapter_number": 12,
+    "topic": "Measures of Dispersion",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:55:31.671494",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about measures of dispersion in statistics. These measures help us understand how data spreads or varies. Let's start with the Range.\n\nThe Range is the simplest measure of dispersion. It is the difference between the highest and lowest values in a data set. For example, if the highest score in a test is 95 and the lowest is 55, then the range is 95 minus 55, which is 40.\n\nNext, we have Variance. Variance tells us how much the numbers in a data set differ from the mean. To find the variance, first, calculate the mean. Then, subtract the mean from each number, square the result, and find the average of these squared differences. This is the variance. The formula is: Variance (σ^2) = Σ(x - μ)^2 / N, where x is each value, μ is the mean, and N is the number of values.\n\nStandard Deviation is the square root of the variance. It is denoted by σ. Standard deviation shows how much the data varies from the mean. If the standard deviation is small, the data points are close to the mean. A large standard deviation means the data points are spread out.\n\nMean Deviation, also known as average deviation, is the average of absolute differences between each data point and the mean. The formula is: Mean Deviation = Σ|x - μ| / N. It gives a clear idea of how data points differ from the mean.\n\nQuartiles divide data into four equal parts. The first quartile (Q1) is the median of the lower half of the data. The second quartile (Q2) is the median, and the third quartile (Q3) is the median of the upper half. The Interquartile Range (IQR) is Q3 minus Q1. It shows the range of the middle 50% of data.\n\nThe Coefficient of Variation (CV) is the ratio of the standard deviation to the mean, expressed as a percentage. It is useful for comparing the degree of variation from one data series to another. The formula is: CV = (σ / μ) × 100.\n\nProperties of Variance are important. If you add a constant to each data point, the variance does not change. But if you multiply each data point by a constant, the variance is multiplied by the square of that constant.\n\nDispersion helps in comparing data sets. For example, if two classes have the same average score but different standard deviations, the class with the smaller standard deviation has scores closer to the average, indicating more consistency.\n\nScaling affects dispersion. If you scale data by multiplying by a constant, the range, variance, and standard deviation change. However, the coefficient of variation remains the same.\n\nCommon mistakes in JEE Main include confusing variance with standard deviation. Remember, variance is squared units, while standard deviation is in the same units as the data.\n\nKey takeaways: Understand each measure and its formula. Practice problems to avoid mistakes. Use dispersion to compare data sets effectively.\n\nIn summary, measures of dispersion are crucial in statistics. They help us understand data variability and make informed decisions. Practice these concepts to excel in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Range",
+    "Variance",
+    "Standard Deviation",
+    "Quartiles",
+    "Coefficient of Variation"
+  ],
+  "formulas": [
+    {
+      "formula": "Range = Max value - Min value",
+      "description": "Used to find the spread of data in a data set"
+    },
+    {
+      "formula": "Variance (σ^2) = Σ(x - μ)^2 / N",
+      "description": "Calculates how much data points deviate from the mean"
+    },
+    {
+      "formula": "Standard Deviation (σ) = √Variance",
+      "description": "Measures the average distance of each data point from the mean"
+    },
+    {
+      "formula": "Mean Deviation = Σ|x - μ| / N",
+      "description": "Gives the average of absolute differences between data points and the mean"
+    },
+    {
+      "formula": "CV = (σ / μ) × 100",
+      "description": "Compares the degree of variation between different data sets"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Range",
+      "definition": "The difference between the highest and lowest values in a data set"
+    },
+    {
+      "term": "Variance",
+      "definition": "A measure of how much values in a data set differ from the mean"
+    },
+    {
+      "term": "Standard Deviation",
+      "definition": "A measure that indicates the amount of variation or dispersion in a data set"
+    },
+    {
+      "term": "Quartiles",
+      "definition": "Values that divide a data set into four equal parts"
+    },
+    {
+      "term": "Coefficient of Variation",
+      "definition": "A normalized measure of dispersion of a probability distribution"
+    }
+  ]
+}

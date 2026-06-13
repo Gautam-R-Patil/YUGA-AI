@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Biodiversity and Conservation",
+    "chapter_number": 15,
+    "topic": "Conservation of Biodiversity",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:46:05.780479",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about biodiversity conservation. This means how we can save different types of plants and animals. Biodiversity is very important. It keeps our planet healthy. \n\nLet's start with two main methods to conserve biodiversity: in-situ and ex-situ conservation. In-situ conservation means protecting animals and plants in their natural home. For example, a tiger in a forest. Ex-situ conservation means protecting them outside their natural home. Like a tiger in a zoo.\n\nNow, let's look at protected areas. These are special places where animals and plants are safe. We have national parks, wildlife sanctuaries, and biosphere reserves. National parks are areas where animals can live freely. People cannot hunt or cut trees here. Wildlife sanctuaries are similar, but some human activities are allowed. Biosphere reserves are big areas that include national parks and sanctuaries. They have three zones: core, buffer, and transition. The core zone is the most protected. \n\nLet's talk about some important projects. Project Tiger and Project Elephant are two big projects in India. Project Tiger started to protect tigers from becoming extinct. Project Elephant helps elephants in India. These projects are very important for biodiversity.\n\nNow, let's define some key terms. In-situ conservation is protecting species in their natural habitat. Ex-situ conservation is protecting species outside their natural habitat. The Red Data Book is a book that lists endangered species. Endangered species are animals and plants that are in danger of disappearing forever.\n\nLet's look at an important diagram. A biosphere reserve has three zones. The core zone is in the middle. It is very protected. The buffer zone surrounds the core. Some activities are allowed here. The transition zone is the outer part. People live and work here.\n\nOne common mistake is confusing in-situ and ex-situ conservation. Remember, in-situ is in nature. Ex-situ is outside nature. \n\nTo summarize, conserving biodiversity is crucial. We use in-situ and ex-situ methods. We have protected areas like national parks. Projects like Project Tiger help save animals. Remember these key points for your exams.\n\nThank you for listening. Keep these ideas in mind for NEET exams. Good luck!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Biodiversity",
+    "In-situ Conservation",
+    "Ex-situ Conservation",
+    "National Parks",
+    "Red Data Book"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "In-situ Conservation",
+      "definition": "Protecting species in their natural habitat."
+    },
+    {
+      "term": "Ex-situ Conservation",
+      "definition": "Protecting species outside their natural habitat."
+    },
+    {
+      "term": "Red Data Book",
+      "definition": "A book listing endangered species."
+    }
+  ]
+}

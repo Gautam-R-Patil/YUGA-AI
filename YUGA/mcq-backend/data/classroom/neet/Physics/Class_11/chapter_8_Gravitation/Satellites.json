@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Gravitation",
+    "chapter_number": 8,
+    "topic": "Satellites",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:56:01.612785",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about satellites. Satellites are objects that orbit, or move around, a planet. Earth has many satellites, both natural and man-made. The Moon is a natural satellite of Earth. But today, we will focus on man-made satellites.\n\nFirst, let's discuss orbital velocity. Orbital velocity is the speed a satellite needs to stay in orbit. If a satellite goes too slow, it will fall back to Earth. If it goes too fast, it might fly away into space. The formula for orbital velocity is v = √(GM/R), where 'v' is the velocity, 'G' is the gravitational constant, 'M' is the mass of the planet, and 'R' is the distance from the center of the planet to the satellite.\n\nNext, we have the time period of a satellite. This is the time it takes for a satellite to complete one orbit around the Earth. The formula is T = 2π√(R^3/GM). Here, 'T' is the time period, 'R' is the distance from the center of the Earth to the satellite, and 'G' and 'M' are the same as before.\n\nNow, let's talk about two types of satellites: geostationary and polar satellites. Geostationary satellites stay above the same spot on Earth all the time. They move at the same speed as the Earth's rotation. This makes them perfect for TV and weather satellites. Polar satellites, on the other hand, move over the North and South Poles. They can see the whole Earth over time, making them great for mapping and spying.\n\nSatellites have many applications. They help with communication, like phone calls and internet. They also help us study weather, map the Earth, and even explore space. GPS systems in our phones use satellites to find our location.\n\nLet's solve a simple problem. If a satellite is 700 km above Earth, what is its orbital velocity? We use the formula v = √(GM/R). Remember, R is Earth’s radius plus 700 km. Calculate carefully!\n\nCommon mistake: Students often forget to add Earth's radius to the satellite's height when using formulas.\n\nKey points to remember: Orbital velocity keeps a satellite in orbit. Geostationary satellites stay over one spot. Polar satellites see the entire Earth. Satellites are important for communication and weather.\n\nIn summary, satellites are vital tools in our modern world. They help us communicate, observe, and learn more about our planet. Understanding their motion and uses is important for NEET.\n\nThank you for listening! Keep practicing, and you will do great in your exams.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Orbital Velocity",
+    "Geostationary Satellite",
+    "Polar Satellite",
+    "Satellite Applications",
+    "Time Period"
+  ],
+  "formulas": [
+    {
+      "formula": "v = √(GM/R)",
+      "description": "Orbital velocity of a satellite, where v is velocity, G is gravitational constant, M is mass of Earth, R is distance from Earth's center"
+    },
+    {
+      "formula": "T = 2π√(R^3/GM)",
+      "description": "Time period of a satellite, where T is time period, R is distance from Earth's center, G is gravitational constant, M is mass of Earth"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Orbital Velocity",
+      "definition": "The speed needed for a satellite to stay in orbit around a planet."
+    },
+    {
+      "term": "Geostationary Satellite",
+      "definition": "A satellite that stays above the same spot on Earth by orbiting at the same speed as Earth's rotation."
+    },
+    {
+      "term": "Polar Satellite",
+      "definition": "A satellite that orbits over the Earth's poles, allowing it to see the entire Earth over time."
+    }
+  ]
+}

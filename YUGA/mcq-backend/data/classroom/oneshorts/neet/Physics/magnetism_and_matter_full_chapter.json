@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Magnetism and Matter",
+    "chapter_number": "20",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:14:36.971927",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts: \"Magnetism and Matter.\" This chapter combines the fundamental ideas of magnetism with how matter responds to magnetic fields.\n\n1. Magnetism Basics\nMagnetism arises from moving charges or intrinsic magnetic moments of elementary particles. The Earth itself acts like a giant bar magnet.\n\n2. Magnetic Field and Its Characteristics\nA magnetic field surrounds a magnet where its force can be felt. It is denoted by \\( \\mathbf{B} \\), and its unit is Tesla (T).\n\nKey Formula: Magnetic field due to a long straight current-carrying wire is \\( B = \\frac{\\mu_0 I}{2\\pi r} \\).\n\n3. Earth\u2019s Magnetism\nThe Earth has a magnetic field resembling that of a bar magnet tilted at an angle to the rotational axis. The geographic and magnetic poles differ; the angle between these directions is called the magnetic declination.\n\n4. Magnetic Properties of Materials\nMaterials are categorized based on their response to magnetic fields: diamagnetic, paramagnetic, and ferromagnetic.\n- Diamagnetic: Slightly repelled by a magnetic field (e.g., copper).\n- Paramagnetic: Weak attraction toward magnetic fields (e.g., aluminum).\n- Ferromagnetic: Strong attraction; they retain magnetism (e.g., iron).\n\n5. Hysteresis\nHysteresis is the lag between changes in the magnetic field and the resultant magnetization of the material. The hysteresis loop illustrates this property, important in designing magnetic circuits.\n\n6. Magnetic Susceptibility and Permeability\nMagnetic susceptibility indicates the degree of magnetization of a material in relation to the applied magnetic field, \\( \\chi \\). Permeability, \\( \\mu \\), reflects how much the material supports the formation of a magnetic field.\n\nKey Formula: \\( B = \\mu (H + M) \\).\n\nNEET Question Patterns:\n- Conceptual questions on Earth's magnetism and angles of dip/declination.\n- Calculations involving magnetic fields around conductors.\n- Identifying magnetic properties of materials.\n\nQuick Revision Points:\n1. Understand the basic properties and sources of magnetic fields.\n2. Differentiate between diamagnetic, paramagnetic, and ferromagnetic materials.\n3. Learn the Earth's magnetic field characteristics including declination and dip.\n4. Remember key formulas for magnetic fields and material properties.\n5. Analyze hysteresis and its implications in magnetic storage devices.",
+  "duration_minutes": "12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Magnetism",
+    "Magnetic Field",
+    "Tesla",
+    "Earth's Magnetism",
+    "Hysteresis",
+    "Magnetic Susceptibility",
+    "Magnetic Permeability",
+    "Diamagnetic",
+    "Paramagnetic",
+    "Ferromagnetic"
+  ],
+  "formulas": [
+    "B = \\frac{\\mu_0 I}{2\\pi r}",
+    "B = \\mu (H + M)"
+  ],
+  "definitions": [
+    {
+      "term": "Magnetism",
+      "definition": "The physical phenomenon produced by the motion of electric charge, resulting in attractive and repulsive forces between objects."
+    },
+    {
+      "term": "Magnetic Field",
+      "definition": "A region around a magnetic material or a moving electric charge within which the force of magnetism acts."
+    },
+    {
+      "term": "Tesla",
+      "definition": "The unit of magnetic flux density in the International System of Units (SI)."
+    },
+    {
+      "term": "Earth's Magnetism",
+      "definition": "The magnetic field that extends from Earth's interior out into space, where it meets the solar wind."
+    },
+    {
+      "term": "Hysteresis",
+      "definition": "A retardation of effect when the forces acting upon a body are changed, often illustrated by the hysteresis loop."
+    },
+    {
+      "term": "Magnetic Susceptibility",
+      "definition": "A dimensionless proportionality constant that indicates the degree of magnetization of a material in response to an applied magnetic field."
+    },
+    {
+      "term": "Magnetic Permeability",
+      "definition": "A measure of the ability of a material to support the formation of a magnetic field within itself."
+    },
+    {
+      "term": "Diamagnetic",
+      "definition": "Materials that are repelled by a magnetic field and have a negative magnetic susceptibility."
+    },
+    {
+      "term": "Paramagnetic",
+      "definition": "Materials that are attracted by a magnetic field and have a small, positive magnetic susceptibility."
+    },
+    {
+      "term": "Ferromagnetic",
+      "definition": "Materials that are strongly attracted by a magnetic field and can retain their magnetic properties after the external field is removed."
+    }
+  ]
+}

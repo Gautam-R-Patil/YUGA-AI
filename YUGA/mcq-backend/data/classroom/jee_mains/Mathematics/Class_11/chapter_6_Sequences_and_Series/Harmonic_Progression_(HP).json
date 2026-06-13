@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Sequences and Series",
+    "chapter_number": 6,
+    "topic": "Harmonic Progression (HP)",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:49:41.075538",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Harmonic Progression, or HP. This is an important topic in sequences and series. You may have seen Arithmetic Progression, or AP, before. HP is related to AP, and we will see how.\n\nFirst, let's define Harmonic Progression. A sequence is in HP if the reciprocals of its terms form an Arithmetic Progression. This means, if you take 1 over each term of the sequence, those numbers should form an AP.\n\nFor example, consider the sequence 1, 1/2, 1/3, 1/4. The reciprocals are 1, 2, 3, 4. These numbers are in AP because each term increases by 1. So, the original sequence is in HP.\n\nNow, let's discuss some properties of HP. In an HP, the nth term can be found using the formula: Tn = 1/(a + (n-1)d), where a is the first term of the AP formed by the reciprocals, and d is the common difference of that AP.\n\nA quick check: If you have a sequence 1, 1/3, 1/5, 1/7, check the reciprocals: 1, 3, 5, 7. These are in AP with a common difference of 2. So, the original sequence is in HP.\n\nLet's relate HP to AP. If you have an AP with terms a, a+d, a+2d, ..., then the corresponding HP will be 1/a, 1/(a+d), 1/(a+2d), .... This is useful because you can solve HP problems using AP methods.\n\nNow, let's see some applications of HP. HP is often used in problems involving resistances in parallel in physics. If you know how to solve AP problems, you can solve HP problems too by converting them.\n\nLet's solve a simple JEE Main-style problem. Find the 4th term of an HP where the first term is 1 and the second term is 1/3. First, find the reciprocals: 1 and 3. These are in AP, so the common difference is 2. The AP is 1, 3, 5, 7. The 4th term is 7. So, the 4th term of the HP is 1/7.\n\nCommon mistakes include forgetting to take reciprocals or mixing up AP and HP. Always check if you are working with reciprocals.\n\nIn conclusion, remember that HP is about reciprocals forming an AP. Use the formula Tn = 1/(a + (n-1)d) to find terms. Practice converting between AP and HP to solve problems easily.\n\nThat's all for today. Keep practicing, and you'll master HP in no time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Harmonic Progression",
+    "Arithmetic Progression",
+    "Reciprocals",
+    "Common Difference",
+    "Terms"
+  ],
+  "formulas": [
+    {
+      "formula": "Tn = 1/(a + (n-1)d)",
+      "description": "Used to find the nth term of a Harmonic Progression"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Harmonic Progression",
+      "definition": "A sequence where the reciprocals of its terms form an Arithmetic Progression"
+    }
+  ]
+}

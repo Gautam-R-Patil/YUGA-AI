@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Amines",
+    "chapter_number": 26,
+    "topic": "Reactions of Amines",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:29:01.221732",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the reactions of amines. Amines are organic compounds that contain nitrogen. They are important in many chemical reactions. Let's start with acylation reactions. Acylation is when an acyl group replaces a hydrogen atom in amines. An acyl group is a part of a molecule that has a carbon atom double-bonded to oxygen. This reaction makes amides. For example, when an amine reacts with acyl chloride, it forms an amide and hydrochloric acid. Remember, acylation is useful in making medicines. \n\nNext, we have the carbylamine reaction. This reaction is specific to primary amines. When a primary amine reacts with chloroform and a base, it forms isocyanide. Isocyanide has a strong, unpleasant smell. This is a test to check for primary amines. If you get a bad smell, then you have a primary amine. \n\nNow, let's talk about the Hinsberg test. This test helps us distinguish between primary, secondary, and tertiary amines. We use benzenesulfonyl chloride. Primary amines form a soluble product. Secondary amines form an insoluble product. Tertiary amines do not react. So, if the product dissolves in a base, it's a primary amine. If it doesn't, it's secondary. No reaction means tertiary. \n\nDiazotization is next. This reaction involves primary aromatic amines. It forms diazonium salts when reacted with nitrous acid. Diazonium salts are important in making dyes. They can also be used in coupling reactions. \n\nCoupling reactions involve diazonium salts. They react with phenols or aromatic amines to form azo compounds. Azo compounds are colorful and used in dyes. For example, if you have a diazonium salt and react it with phenol, you get an azo dye. \n\nFinally, we have electrophilic substitution. Amines can undergo this reaction because they have lone pairs of electrons. These electrons can attack an electrophile. An electrophile is a part of a molecule that wants electrons. For example, aniline, an aromatic amine, can react with bromine to form bromoaniline. \n\nA common mistake in JEE Main is confusing the reactions of different types of amines. Remember, primary amines react differently than secondary or tertiary ones. Also, remember the specific conditions needed for each reaction. \n\nKey takeaways: Acylation forms amides, carbylamine test detects primary amines, Hinsberg test distinguishes amines, diazotization forms diazonium salts, coupling reactions make azo dyes, and electrophilic substitution involves electron pairs. \n\nIn summary, amines are versatile and react in many ways. These reactions are important in making dyes, medicines, and more. Make sure to practice these reactions and understand the conditions for each. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Amines",
+    "Acylation",
+    "Carbylamine",
+    "Hinsberg Test",
+    "Diazotization",
+    "Coupling Reaction"
+  ],
+  "formulas": [
+    {
+      "formula": "RNH2 + R'COCl → R'CONHR + HCl",
+      "description": "This formula shows the acylation reaction where an amine reacts with acyl chloride to form an amide."
+    },
+    {
+      "formula": "RNH2 + CHCl3 + 3KOH → RNC + 3KCl + 3H2O",
+      "description": "This formula shows the carbylamine reaction for primary amines forming isocyanide."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Amines",
+      "definition": "Organic compounds that contain nitrogen atoms bonded to carbon."
+    },
+    {
+      "term": "Acylation",
+      "definition": "A reaction where an acyl group replaces a hydrogen atom in a molecule."
+    },
+    {
+      "term": "Diazotization",
+      "definition": "A reaction that converts primary aromatic amines into diazonium salts using nitrous acid."
+    }
+  ]
+}

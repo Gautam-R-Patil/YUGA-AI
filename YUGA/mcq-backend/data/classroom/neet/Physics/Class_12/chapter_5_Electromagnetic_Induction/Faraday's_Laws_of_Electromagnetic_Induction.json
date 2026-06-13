@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electromagnetic Induction",
+    "chapter_number": 5,
+    "topic": "Faraday's Laws of Electromagnetic Induction",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:08:57.595383",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, everyone! Today, we will learn about Faraday's Laws of Electromagnetic Induction. This is an important topic for NEET. Let's start with Faraday's first law. It tells us that when a magnetic field changes around a conductor, an electric current is produced in the conductor. This current is called induced current, and the voltage that causes it is called induced EMF (Electromotive Force). Imagine you have a coil of wire and a bar magnet. If you move the magnet towards the coil, an EMF is induced. If you move it away, again an EMF is induced, but in the opposite direction. \n\nNext, Faraday's second law. It says the amount of induced EMF is equal to the rate of change of magnetic flux. Magnetic flux, or Φ, is the number of magnetic field lines passing through a coil. The formula is EMF = -dΦ/dt. The negative sign shows Lenz's Law, which we will discuss next. \n\nLenz's Law is important. It tells us the direction of induced EMF. It states that the induced EMF will always oppose the change in magnetic flux. This is like a safety feature. It prevents sudden changes in current. If you push a magnet towards a coil, the coil will create its own magnetic field to push back. \n\nNow, let's talk about motional EMF. This happens when a conductor moves in a magnetic field. The formula is ε = Bvl, where B is the magnetic field, v is the velocity of the conductor, and l is the length of the conductor. For example, if a metal rod moves through a magnetic field, an EMF is induced. \n\nInduced EMF can also happen in a rotating coil. When a coil rotates in a magnetic field, the flux changes, and EMF is induced. This is how generators work. \n\nNext is self-induction. This is when a coil induces EMF in itself. The formula is L = NΦ/I, where L is inductance, N is the number of turns, Φ is the magnetic flux, and I is the current. \n\nMutual induction is when one coil induces EMF in another nearby coil. The formula is M = N₂Φ₁/I₁. This is used in transformers. \n\nEnergy stored in an inductor is also important. The formula is U = 1/2 LI². Inductors store energy in a magnetic field. \n\nLet's talk about units and dimensions. Inductance is measured in henrys (H). The dimension is [ML²T⁻²I⁻²]. \n\nGraphically, induced EMF can be shown with a sine wave. This is because the EMF changes as the magnetic flux changes. \n\nFinally, let's discuss an important experiment. You can demonstrate electromagnetic induction by moving a magnet through a coil connected to a galvanometer. The needle moves, showing current flow. \n\nRemember these key concepts: flux linkage, which is the product of the number of turns and magnetic flux, and back EMF, which opposes the applied voltage in a circuit. \n\nIn summary, electromagnetic induction is the process of generating EMF by changing magnetic fields. Faraday's Laws help us understand this process. Lenz's Law tells us the direction of induced EMF. These concepts are crucial for understanding how generators and transformers work. \n\nThat's all for today. Make sure to practice these concepts with examples. They are very important for NEET exams. Thank you!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Faraday's Laws",
+    "Induced EMF",
+    "Lenz's Law",
+    "Motional EMF",
+    "Self-induction"
+  ],
+  "formulas": [
+    {
+      "formula": "EMF = -dΦ/dt",
+      "description": "Induced EMF is equal to the rate of change of magnetic flux."
+    },
+    {
+      "formula": "ε = Bvl",
+      "description": "Motional EMF is the product of magnetic field, velocity, and length of conductor."
+    },
+    {
+      "formula": "L = NΦ/I",
+      "description": "Self-inductance is the ratio of the product of number of turns and magnetic flux to current."
+    },
+    {
+      "formula": "M = N₂Φ₁/I₁",
+      "description": "Mutual inductance is the ratio of the product of turns in the second coil and magnetic flux in first coil to current in the first coil."
+    },
+    {
+      "formula": "U = 1/2 LI²",
+      "description": "Energy stored in an inductor is half the product of inductance and square of current."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Induced EMF",
+      "definition": "Voltage generated in a conductor due to changing magnetic field."
+    },
+    {
+      "term": "Magnetic Flux",
+      "definition": "The number of magnetic field lines passing through a surface."
+    },
+    {
+      "term": "Inductance",
+      "definition": "Property of a conductor by which a change in current induces an EMF."
+    },
+    {
+      "term": "Flux Linkage",
+      "definition": "The product of the number of turns in a coil and the magnetic flux."
+    },
+    {
+      "term": "Back EMF",
+      "definition": "EMF that opposes the change in current in a circuit."
+    }
+  ]
+}

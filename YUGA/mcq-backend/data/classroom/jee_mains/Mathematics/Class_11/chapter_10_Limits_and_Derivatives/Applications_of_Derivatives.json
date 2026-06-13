@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Limits and Derivatives",
+    "chapter_number": 10,
+    "topic": "Applications of Derivatives",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:54:08.206250",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about applications of derivatives. This is an important topic in calculus, and it is often tested in the JEE Main exam. Let's start with the basics.\n\nFirst, we have tangent and normal lines. A tangent line touches a curve at one point. It shows the direction of the curve at that point. The slope of the tangent line is the derivative of the function at that point. For example, if y = x^2, the derivative is dy/dx = 2x. At x = 1, the slope is 2.\n\nA normal line is perpendicular to the tangent line. If the slope of the tangent is m, then the slope of the normal is -1/m. For example, if the tangent slope is 2, the normal slope is -1/2.\n\nNext, let's discuss increasing and decreasing functions. A function is increasing if its derivative is positive. It is decreasing if the derivative is negative. For example, if f(x) = x^3, the derivative f'(x) = 3x^2. Since 3x^2 is always positive for all x, f(x) is always increasing.\n\nNow, maxima and minima. These are points where a function reaches its highest or lowest value. To find them, we set the derivative to zero, f'(x) = 0, and solve for x. Then, we use the second derivative test. If f''(x) > 0, it is a minimum. If f''(x) < 0, it is a maximum.\n\nConcavity and points of inflection are next. A curve is concave up if its second derivative is positive, f''(x) > 0. It is concave down if f''(x) < 0. A point of inflection is where the concavity changes. We find it by setting f''(x) = 0.\n\nOptimization problems use derivatives to find the best solution, like the maximum area or minimum cost. We write an equation for what we want to optimize, take the derivative, and solve for the critical points.\n\nRelated rates involve finding how fast something changes. We use derivatives and chain rule here. For example, if a balloon is inflating, we can find how fast the radius changes if we know how fast the volume changes.\n\nMotion along a line uses derivatives to find velocity and acceleration. If s(t) is position, then v(t) = ds/dt is velocity, and a(t) = dv/dt is acceleration.\n\nGraph sketching with derivatives helps us understand the shape of a graph. We find critical points, increasing/decreasing intervals, and concavity to sketch the graph.\n\nNewton's method is a way to find roots of equations. We start with an initial guess and use the formula x₁ = x₀ - f(x₀)/f'(x₀) to get closer to the root.\n\nFinally, applications in economics and biology. Derivatives help find profit maximization in economics and growth rates in biology.\n\nRemember, common mistakes in JEE Main include wrong signs in derivatives and wrong second derivative tests. Always check your calculations.\n\nIn summary, derivatives help us find slopes, optimize functions, and solve real-world problems. Practice these concepts and use the formulas wisely. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Tangent",
+    "Normal",
+    "Maxima",
+    "Minima",
+    "Concavity",
+    "Optimization"
+  ],
+  "formulas": [
+    {
+      "formula": "dy/dx = f'(x)",
+      "description": "Used to find the slope of the tangent line at a point"
+    },
+    {
+      "formula": "Slope of normal = -1/m",
+      "description": "Used to find the slope of the normal line when the tangent slope is m"
+    },
+    {
+      "formula": "f''(x) > 0 or f''(x) < 0",
+      "description": "Used for determining concavity and finding maxima or minima"
+    },
+    {
+      "formula": "x₁ = x₀ - f(x₀)/f'(x₀)",
+      "description": "Newton's method formula for finding roots of equations"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Derivative",
+      "definition": "A measure of how a function changes as its input changes"
+    },
+    {
+      "term": "Tangent Line",
+      "definition": "A line that touches a curve at one point and shows its direction"
+    },
+    {
+      "term": "Normal Line",
+      "definition": "A line perpendicular to the tangent line at a point on a curve"
+    },
+    {
+      "term": "Point of Inflection",
+      "definition": "A point where the curve changes its concavity"
+    }
+  ]
+}

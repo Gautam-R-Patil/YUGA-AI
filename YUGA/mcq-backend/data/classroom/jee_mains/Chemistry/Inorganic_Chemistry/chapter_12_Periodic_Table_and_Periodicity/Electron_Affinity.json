@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Periodic Table and Periodicity",
+    "chapter_number": 12,
+    "topic": "Electron Affinity",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:12:13.181399",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Electron Affinity. This is a key topic in the Periodic Table chapter. You might remember that atoms have electrons. Electron Affinity is about how much an atom wants to gain an electron. \n\nLet's start with the definition. Electron Affinity is the energy change when an atom gains an electron. If energy is released, the value is negative. This means the atom likes gaining electrons. \n\nNow, why is it important? Knowing Electron Affinity helps us predict how atoms will react. For example, atoms with high Electron Affinity often form negative ions. \n\nNext, let's look at trends. Across a period, Electron Affinity usually increases. This is because atoms get smaller and want electrons more. Down a group, Electron Affinity usually decreases. Atoms get bigger and hold electrons less tightly. \n\nBut there are factors affecting Electron Affinity. One factor is atomic size. Smaller atoms have higher Electron Affinity. Another factor is nuclear charge. More charge means more attraction for electrons. \n\nLet's compare this with Ionization Energy. Ionization Energy is the energy needed to remove an electron. Electron Affinity is about gaining an electron. Both are about energy changes, but in opposite directions. \n\nThere are exceptions to these trends. For example, noble gases have low Electron Affinity. They do not want more electrons. Another exception is the nitrogen group. It has lower Electron Affinity than expected. \n\nFor JEE Main, remember the graphical representation. Electron Affinity trends can be shown in a graph. The graph usually rises across periods and falls down groups. \n\nApplications are important too. Electron Affinity helps predict chemical behavior. For instance, elements with high Electron Affinity are often good oxidizing agents. \n\nElectron Affinity is also related to Electronegativity. Electronegativity is the ability of an atom to attract electrons in a bond. Both involve attraction for electrons. \n\nA common JEE Main mistake is confusing Electron Affinity with Ionization Energy. Remember, one is about gaining electrons, the other about losing. \n\nKey takeaways: Electron Affinity is energy change when gaining an electron. It increases across periods and decreases down groups. Some exceptions exist, like noble gases. \n\nIn summary, understanding Electron Affinity helps predict how atoms will react. It is a key concept in chemistry. Thank you for listening, and keep practicing!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electron Affinity",
+    "Periodic Trends",
+    "Ionization Energy",
+    "Noble Gases",
+    "Electronegativity"
+  ],
+  "formulas": [
+    {
+      "formula": "∆E = E(final) - E(initial)",
+      "description": "Used to calculate the energy change when an electron is added to an atom"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electron Affinity",
+      "definition": "The energy change when an atom gains an electron."
+    },
+    {
+      "term": "Ionization Energy",
+      "definition": "The energy needed to remove an electron from an atom."
+    },
+    {
+      "term": "Electronegativity",
+      "definition": "The ability of an atom to attract electrons in a bond."
+    }
+  ]
+}

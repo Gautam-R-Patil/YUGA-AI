@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "chapter_number": 2,
+    "topic": "Complex Numbers",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:46:23.736080",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Complex Numbers. These are special numbers that have two parts: a real part and an imaginary part. You might have seen real numbers before, like 3 or -5. But complex numbers look like this: a + bi. Here, 'a' is the real part, and 'bi' is the imaginary part. The letter 'i' stands for the square root of -1. Let's start with the basics. \n\nFirst, let's talk about the Representation of Complex Numbers. We write them as a + bi. For example, 2 + 3i is a complex number. The real part is 2, and the imaginary part is 3i. \n\nNow, let's see the Algebra of Complex Numbers. We can add, subtract, multiply, and divide them. When adding, just add the real parts and the imaginary parts separately. For example, (2 + 3i) + (1 + 4i) = (2+1) + (3i+4i) = 3 + 7i. Subtraction is similar: (2 + 3i) - (1 + 4i) = (2-1) + (3i-4i) = 1 - i.\n\nMultiplication involves using the distributive property. For example, (2 + 3i)(1 + 4i) = 2*1 + 2*4i + 3i*1 + 3i*4i = 2 + 8i + 3i + 12i^2. Remember, i^2 = -1, so it becomes 2 + 11i - 12 = -10 + 11i.\n\nDivision is a bit tricky. We multiply the numerator and the denominator by the conjugate of the denominator. The Conjugate of a complex number a + bi is a - bi. For example, to divide (2 + 3i) by (1 + 4i), multiply both by the conjugate of the denominator: (2 + 3i)(1 - 4i) / (1 + 4i)(1 - 4i). This simplifies to (-10 + 11i) / 17.\n\nNext, let's talk about Conjugate and Modulus. The Conjugate is simple. If you have a complex number a + bi, the conjugate is a - bi. The Modulus is the distance from the origin in the Argand Plane. It is √(a^2 + b^2). For example, if we have 3 + 4i, the modulus is √(3^2 + 4^2) = √25 = 5.\n\nThe Argand Plane is a way to show complex numbers on a graph. The x-axis is for the real part, and the y-axis is for the imaginary part. If you have 3 + 4i, plot the point at (3, 4).\n\nNow, the Polar Form of Complex Numbers is another way to write them. Instead of a + bi, we use r(cos θ + i sin θ). Here, r is the modulus, and θ is the angle. You can find θ using tan θ = b/a.\n\nEuler's Formula is a key concept. It says e^(iθ) = cos θ + i sin θ. This helps convert between polar and exponential forms.\n\nDe Moivre's Theorem is useful for powers of complex numbers. It states (cos θ + i sin θ)^n = cos(nθ) + i sin(nθ). This is great for finding roots and powers.\n\nLet's do a quick example. Find (1 + i)^4. First, convert to polar: r = √2, θ = π/4. Using De Moivre's: (√2)^4(cos(4*π/4) + i sin(4*π/4)) = 4(cos π + i sin π) = -4.\n\nCommon mistakes in JEE Main include forgetting i^2 = -1, and mixing up the real and imaginary parts. Always check your calculations.\n\nKey takeaways: Complex numbers are a mix of real and imaginary parts. Use the conjugate for division. Remember Euler's Formula and De Moivre's Theorem for powers and roots.\n\nIn summary, complex numbers are important in JEE Main. Practice these concepts and formulas. They will help you solve many problems. Thank you, and happy studying!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Complex Numbers",
+    "Conjugate",
+    "Modulus",
+    "Polar Form",
+    "Argand Plane"
+  ],
+  "formulas": [
+    {
+      "formula": "a + bi",
+      "description": "Standard form of a complex number, where a is the real part and bi is the imaginary part"
+    },
+    {
+      "formula": "i^2 = -1",
+      "description": "Fundamental property of the imaginary unit i, used in simplifying expressions"
+    },
+    {
+      "formula": "√(a^2 + b^2)",
+      "description": "Modulus of a complex number, representing its distance from the origin in the Argand Plane"
+    },
+    {
+      "formula": "r(cos θ + i sin θ)",
+      "description": "Polar form of a complex number, used for multiplication and finding powers"
+    },
+    {
+      "formula": "e^(iθ) = cos θ + i sin θ",
+      "description": "Euler's Formula, connecting complex exponentials with trigonometric functions"
+    },
+    {
+      "formula": "(cos θ + i sin θ)^n = cos(nθ) + i sin(nθ)",
+      "description": "De Moivre's Theorem, useful for calculating powers and roots of complex numbers"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Complex Number",
+      "definition": "A number that has both a real part and an imaginary part, written as a + bi"
+    },
+    {
+      "term": "Conjugate",
+      "definition": "The conjugate of a complex number a + bi is a - bi"
+    },
+    {
+      "term": "Modulus",
+      "definition": "The modulus of a complex number a + bi is √(a^2 + b^2), representing its distance from the origin"
+    },
+    {
+      "term": "Argand Plane",
+      "definition": "A plane used to represent complex numbers, with the x-axis for the real part and the y-axis for the imaginary part"
+    },
+    {
+      "term": "Polar Form",
+      "definition": "A way to express complex numbers as r(cos θ + i sin θ), where r is the modulus and θ is the angle"
+    }
+  ]
+}

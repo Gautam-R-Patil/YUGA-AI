@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Applications of Integrals",
+    "chapter_number": 17,
+    "topic": "Area between Two Curves",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:00:02.589745",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the area between two curves. This is an important topic in the chapter 'Applications of Integrals'. You will often find questions on this in JEE Main. Let's begin by understanding how to find the area between two curves.\n\nFirst, we need to find the points where the two curves meet. These are called points of intersection. To find them, we solve the equations of the curves together. For example, if we have y = x^2 and y = 2x + 3, we set x^2 = 2x + 3 and solve for x. This gives us the x-values where the curves intersect.\n\nOnce we have the points of intersection, we can set up integrals to find the area. The area between two curves y = f(x) and y = g(x) from x = a to x = b is given by the integral: ∫ from a to b of (f(x) - g(x)) dx. Here, f(x) is the upper curve and g(x) is the lower curve.\n\nThere are two main methods to calculate this area: the vertical strip method and the horizontal strip method. In the vertical strip method, we integrate with respect to x. In the horizontal strip method, we integrate with respect to y. We use the horizontal method when the curves are better expressed as x = f(y) and x = g(y).\n\nSometimes, curves have symmetry. This means one part of the curve is a mirror image of another. If a curve is symmetric, we can simplify our calculations. For example, if a curve is symmetric about the y-axis, we can find the area for one side and double it.\n\nLet's look at a worked example. Find the area between y = x^2 and y = 4. First, find the points of intersection by solving x^2 = 4. We get x = -2 and x = 2. Now, set up the integral: ∫ from -2 to 2 of (4 - x^2) dx. Solve this to find the area.\n\nJEE Main mistake note: Always make sure you know which curve is on top. If you mix them up, your answer will be negative or wrong.\n\nAnother common mistake is forgetting to check the limits of integration. Always use the points of intersection as limits unless the question says otherwise.\n\nTo summarize, remember these key steps: 1) Find points of intersection. 2) Decide which method to use, vertical or horizontal. 3) Set up the integral correctly. 4) Solve carefully, checking your limits.\n\nThat's all for today. Practice these steps with different problems, and you'll be ready for JEE Main questions on this topic.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Intersection",
+    "Integral",
+    "Symmetry",
+    "Vertical Strip",
+    "Horizontal Strip"
+  ],
+  "formulas": [
+    {
+      "formula": "∫ from a to b of (f(x) - g(x)) dx",
+      "description": "Used to find the area between two curves y = f(x) and y = g(x) from x = a to x = b"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Point of Intersection",
+      "definition": "The point where two curves meet or cross each other"
+    },
+    {
+      "term": "Integral",
+      "definition": "A mathematical tool used to calculate areas and other quantities"
+    }
+  ]
+}

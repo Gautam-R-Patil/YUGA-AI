@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Coordination Compounds",
+    "chapter_number": 18,
+    "topic": "Isomerism in Coordination Compounds",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:20:15.212881",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about isomerism in coordination compounds. This is an important topic in JEE Main Chemistry. Let's start with the basics. Isomerism means compounds have the same formula but different structures or arrangements. First, we have Structural Isomerism. It occurs when the structure of the compound is different. There are types like Linkage, Coordination, and Ionization isomerism. \n\nLinkage Isomerism happens when the ligand can attach to the central metal in different ways. For example, NO2 can attach as NO2 or ONO. Coordination Isomerism occurs when the composition of complex ions changes. For example, [Cr(NH3)6][Co(CN)6] and [Co(NH3)6][Cr(CN)6] are coordination isomers.\n\nIonization Isomerism happens when the counter ion in the compound changes places with a ligand. For example, [Co(NH3)5Br]SO4 and [Co(NH3)5SO4]Br are ionization isomers. Remember, in JEE Main, questions often ask you to identify these isomers.\n\nNext, we have Stereoisomerism. This occurs when compounds have the same bonds but different spatial arrangements. There are two types: Geometrical and Optical isomerism. Geometrical Isomerism is found in square planar and octahedral complexes. For example, in [Pt(NH3)2Cl2], the NH3 groups can be next to each other (cis) or opposite (trans). This is a common JEE Main question.\n\nOptical Isomerism occurs when compounds can rotate plane-polarized light. These compounds are called chiral. For example, [Co(en)3]3+ has optical isomers. They are like mirror images that cannot be superimposed. Be careful in JEE Main, sometimes optical isomers are tricky to spot.\n\nLet's look at some examples. Consider [Cr(NH3)4Cl2]Br. It can have geometrical isomers. If Cl atoms are next to each other, it is a cis isomer. If they are opposite, it is a trans isomer. Another example is [Co(NH3)5(NO2)]Cl2. It can show linkage isomerism as [Co(NH3)5(ONO)]Cl2.\n\nNow, let's talk about common mistakes. In JEE Main, students often confuse linkage and coordination isomers. Remember, linkage is about how the ligand attaches. Coordination is about how ions are arranged. Also, don't forget to check for optical isomers in chiral compounds.\n\nHere are key takeaways. Understand the types of isomerism: structural and stereoisomerism. Practice identifying isomers in different compounds. Pay attention to geometrical and optical isomers, as they are often tested. \n\nTo summarize, isomerism in coordination compounds is a fascinating topic. It shows how the same formula can have different properties. Practice identifying different isomers, and you'll do great in JEE Main!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Isomerism",
+    "Coordination Compounds",
+    "Geometrical Isomerism",
+    "Optical Isomerism",
+    "Linkage Isomerism"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Isomerism",
+      "definition": "Compounds with the same formula but different structures or arrangements."
+    },
+    {
+      "term": "Structural Isomerism",
+      "definition": "Occurs when the structure of the compound is different."
+    },
+    {
+      "term": "Stereoisomerism",
+      "definition": "Occurs when compounds have the same bonds but different spatial arrangements."
+    },
+    {
+      "term": "Geometrical Isomerism",
+      "definition": "Found in square planar and octahedral complexes, like cis and trans forms."
+    },
+    {
+      "term": "Optical Isomerism",
+      "definition": "Occurs when compounds can rotate plane-polarized light, showing chirality."
+    }
+  ]
+}

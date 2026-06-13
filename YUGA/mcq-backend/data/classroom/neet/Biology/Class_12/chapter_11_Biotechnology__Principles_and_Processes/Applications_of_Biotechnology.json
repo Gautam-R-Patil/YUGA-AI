@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Biotechnology: Principles and Processes",
+    "chapter_number": 11,
+    "topic": "Applications of Biotechnology",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:44:13.851914",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will explore the exciting world of biotechnology. This field helps us solve many problems in agriculture and medicine. Let's start with agriculture. Have you heard of Bt cotton? Bt cotton is a type of cotton plant. It is made using biotechnology to resist pests. Pests are small insects that harm crops. Bt cotton has a special gene from a bacterium. This gene helps the plant kill the pests. So, farmers get more cotton with less damage. \n\nNow, let's talk about pest-resistant plants. These plants are made to resist insects and diseases. Scientists change the genes of these plants. This makes them strong against pests. If pests can't eat the plants, farmers get more crops. This helps feed more people.\n\nMoving on to medicine. Biotechnology is also used to make medicines. One important example is insulin production. Insulin is a hormone. It helps control blood sugar levels. People with diabetes need insulin. Scientists use bacteria to make insulin. They put the human insulin gene into bacteria. These bacteria produce insulin, which is then used as medicine.\n\nGene therapy is another application in medicine. It is a way to treat genetic diseases. In gene therapy, scientists change genes in a person's cells. This can fix problems in the genes. For example, if a person has a faulty gene causing disease, gene therapy can help.\n\nNow, let's talk about transgenic animals. These are animals with changed genes. Scientists add new genes to them. These animals can produce more milk or grow faster. They help us study diseases and test new medicines.\n\nBiotechnology also brings ethical issues. Ethical issues are questions about what is right or wrong. Some people worry about changing genes. They ask if it is safe and fair. For example, should we change the genes of animals? Is it okay to eat genetically modified food? These questions are important to discuss.\n\nLet’s define some key terms. A transgenic organism has genes from another species. A bioreactor is a tank used to grow organisms. Gene cloning is making many copies of a gene. These terms are important for understanding biotechnology.\n\nNow, let's look at a diagram. Imagine a picture showing how Bt cotton works. It shows the Bt gene in the cotton plant. The gene makes a protein. This protein kills the pests. The diagram helps us see how the process works.\n\nRemember, biotechnology has many advantages. It helps produce more food and medicine. But, we must also think about ethical concerns. We should use biotechnology carefully.\n\nIn summary, biotechnology is very useful in agriculture and medicine. It helps us grow more food and make important medicines. But, we must consider the ethical issues too. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Bt Cotton",
+    "Pest-resistant Plants",
+    "Insulin Production",
+    "Gene Therapy",
+    "Transgenic Animals"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Transgenic",
+      "definition": "An organism with genes from another species."
+    },
+    {
+      "term": "Bioreactor",
+      "definition": "A tank used to grow organisms for biotechnology."
+    },
+    {
+      "term": "Gene Cloning",
+      "definition": "Making many copies of a gene."
+    }
+  ]
+}

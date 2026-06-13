@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electromagnetic Waves",
+    "chapter_number": 15,
+    "topic": "Applications of Electromagnetic Waves",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:59:27.021672",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the applications of electromagnetic waves. These waves are very important in our daily life and in many technologies. Let's explore how they are used in different areas.\n\nFirst, let's talk about communication technologies. Electromagnetic waves help us send and receive information. For example, radio waves are used in radio and TV broadcasts. They travel through air and carry signals to our devices. The formula to find the frequency of a wave is: frequency (f) = speed of light (c) / wavelength (λ). This is important in JEE Main to solve problems about wave properties.\n\nNext, we have medical imaging. X-rays are a type of electromagnetic wave. Doctors use them to see inside our bodies. X-rays can pass through skin and muscles but are blocked by bones. This helps doctors find broken bones or other problems.\n\nNow, let's look at remote sensing. This is a way to gather information about the Earth from a distance. Satellites use electromagnetic waves to take pictures of the Earth. These images help us study weather, forests, and oceans. Remote sensing is important for environmental studies and agriculture.\n\nMicrowave ovens use microwaves, a type of electromagnetic wave, to heat food. Microwaves make water molecules in food move faster. This movement creates heat, which cooks the food. Remember, the formula to calculate energy is: energy (E) = power (P) x time (t). This can help you solve problems about energy use in microwaves.\n\nInfrared cameras are another application. They use infrared waves to see heat. These cameras can see in the dark because they detect heat instead of light. Infrared waves are also used in remote controls and night-vision devices.\n\nFinally, ultraviolet sterilization uses ultraviolet (UV) light to kill germs. Hospitals and water treatment plants use UV light to keep things clean and safe. UV light can destroy bacteria and viruses, making it a powerful tool for sterilization.\n\nNow, let's discuss some common mistakes in JEE Main. Students often mix up frequency and wavelength. Remember, frequency is how many waves pass a point in one second, and wavelength is the distance between two waves. Also, be careful with units. Always check if you need to convert units in a problem.\n\nIn summary, electromagnetic waves are used in many important technologies. They help us communicate, see inside our bodies, study the Earth, cook food, see in the dark, and kill germs. Remember the key formulas and concepts we've discussed today. This will help you in your JEE Main exam.\n\nThank you for listening. Keep practicing and reviewing these concepts. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electromagnetic Waves",
+    "Communication Technologies",
+    "Medical Imaging",
+    "Remote Sensing",
+    "Microwave Ovens",
+    "Ultraviolet Sterilization"
+  ],
+  "formulas": [
+    {
+      "formula": "f = c / λ",
+      "description": "Used to calculate the frequency of a wave, where c is the speed of light and λ is the wavelength"
+    },
+    {
+      "formula": "E = P x t",
+      "description": "Used to calculate energy consumption, where P is power and t is time"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electromagnetic Wave",
+      "definition": "A wave of electric and magnetic fields that travels through space"
+    },
+    {
+      "term": "Frequency",
+      "definition": "The number of waves that pass a point in one second"
+    },
+    {
+      "term": "Wavelength",
+      "definition": "The distance between two consecutive points of a wave"
+    }
+  ]
+}

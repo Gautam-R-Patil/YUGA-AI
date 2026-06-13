@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Motion in a Straight Line",
+    "chapter_number": 3,
+    "topic": "Acceleration",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:49:31.224716",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we're going to learn about acceleration. Acceleration is a key concept in physics, especially when studying motion. Let's start by understanding what acceleration means. \n\nAcceleration is the rate at which the speed of an object changes. If a car speeds up, it accelerates. If a car slows down, it also accelerates, but in the opposite direction. So, acceleration can be positive or negative. \n\nNow, let's talk about uniform and non-uniform acceleration. Uniform acceleration means the speed of an object changes by the same amount every second. For example, if a car increases its speed by 5 km/h every second, it has uniform acceleration. Non-uniform acceleration means the change in speed is not the same every second. Imagine a car speeding up quickly, then slowly, and then quickly again. That's non-uniform acceleration. \n\nNext, we have some important equations for uniformly accelerated motion. These equations help us calculate different things like speed, distance, and time. The first equation is: v = u + at. Here, 'v' is the final speed, 'u' is the initial speed, 'a' is acceleration, and 't' is time. The second equation is: s = ut + 0.5at^2. 's' is the distance covered. The third equation is: v^2 = u^2 + 2as. These equations are very useful in solving problems. \n\nLet's look at how acceleration is shown on a graph. On a speed-time graph, if the line is straight and sloping upwards, it shows uniform acceleration. If the line is curved, it shows non-uniform acceleration. \n\nNow, let's think about some examples of acceleration in daily life. When you ride a bicycle and pedal faster, you accelerate. When you press the gas pedal in a car, the car accelerates. Even when you throw a ball up in the air, it accelerates due to gravity. \n\nA common mistake students make is thinking acceleration only happens when something speeds up. Remember, slowing down is also acceleration, just in the opposite direction. \n\nTo sum up, acceleration is a change in speed. It can be uniform or non-uniform. We have key equations to calculate it, and we can see it in graphs. Understanding acceleration helps us understand motion better. \n\nThat's all for today. Keep practicing these concepts, and you'll do great in your exams!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Acceleration",
+    "Uniform acceleration",
+    "Non-uniform acceleration",
+    "Equations of motion",
+    "Speed-time graph"
+  ],
+  "formulas": [
+    {
+      "formula": "v = u + at",
+      "description": "Final speed equals initial speed plus acceleration times time"
+    },
+    {
+      "formula": "s = ut + 0.5at^2",
+      "description": "Distance equals initial speed times time plus half of acceleration times time squared"
+    },
+    {
+      "formula": "v^2 = u^2 + 2as",
+      "description": "Final speed squared equals initial speed squared plus two times acceleration times distance"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Acceleration",
+      "definition": "The rate at which the speed of an object changes"
+    },
+    {
+      "term": "Uniform acceleration",
+      "definition": "When speed changes by the same amount every second"
+    },
+    {
+      "term": "Non-uniform acceleration",
+      "definition": "When speed changes by different amounts over time"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "chapter_number": 9,
+    "topic": "Animal Husbandry",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:42:57.597963",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Animal Husbandry. This topic is important for NEET exams. Let's start with Dairy Farm Management. This is about taking care of cows and buffaloes. We want them to give more milk. The time when they give milk is called the Lactation Period. We must feed them well and keep them clean. If cows are healthy, they give good milk.\n\nNext, let's talk about Poultry Farm Management. This is about raising chickens for eggs and meat. We must keep the chicken houses clean. We also need to give them good food. Healthy chickens grow fast and lay more eggs.\n\nNow, let's discuss Animal Breeding. Breeding means making more animals. There are three types: Inbreeding, Outbreeding, and Cross-breeding. Inbreeding is when we breed animals from the same family. This is good for keeping traits the same. But, it can cause problems if used too much. Outbreeding is breeding animals from different families. It helps make stronger animals. Cross-breeding is mixing two different breeds. This can make animals better. They may grow faster or be healthier. This is called Heterosis or Hybrid Vigor.\n\nLet's move to Bee-keeping or Apiculture. This is about raising bees for honey. We keep bees in boxes called hives. Bees live in groups called Broods. They need flowers to make honey. We must check the hives often. This helps keep bees healthy.\n\nNow, we will learn about Fisheries and Aquaculture. This is about raising fish for food. We keep fish in ponds or tanks. We must give them good food and keep their water clean. This helps fish grow well.\n\nRemember, Cross-breeding is often tested in NEET. It helps improve animal traits. For example, a cross-bred cow might give more milk.\n\nLet's summarize. Animal Husbandry involves Dairy and Poultry Management, Breeding, Bee-keeping, and Fisheries. These help us get more food and better products. Remember to keep animals healthy for the best results.\n\nCommon mistake: Some think inbreeding always gives good results. But it can cause problems if done too much. Always check the health of animals.\n\nThat's it for today. Keep these points in mind for your NEET exam. Thank you!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Dairy Farm Management",
+    "Poultry Farm Management",
+    "Animal Breeding",
+    "Bee-keeping",
+    "Fisheries"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Lactation Period",
+      "definition": "Time when a cow or buffalo gives milk."
+    },
+    {
+      "term": "Heterosis",
+      "definition": "When cross-bred animals show better traits, like growing faster."
+    },
+    {
+      "term": "Brood",
+      "definition": "A group of bees living together in a hive."
+    }
+  ]
+}

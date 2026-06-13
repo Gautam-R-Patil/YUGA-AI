@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Electrochemistry",
+    "chapter_number": 9,
+    "topic": "Galvanic Cells",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:09:25.671610",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about Galvanic Cells in Electrochemistry. These cells convert chemical energy into electrical energy. First, let's understand how they are built and work.\n\nA Galvanic Cell has two electrodes. An electrode is a metal strip that conducts electricity. One electrode is called the anode, and the other is the cathode. The anode is where oxidation happens. Oxidation means losing electrons. The cathode is where reduction happens. Reduction means gaining electrons.\n\nThese electrodes are placed in solutions called electrolytes. Each electrode has its own electrolyte. The anode and cathode are connected by a wire. This wire allows electrons to flow from the anode to the cathode. There is also a salt bridge. A salt bridge is a tube filled with a salt solution. It helps balance the charge in the cell.\n\nNow, let's talk about Electrode Potentials. Electrode Potential is the ability of an electrode to lose or gain electrons. It is measured in volts. We use the Standard Hydrogen Electrode (SHE) as a reference. The SHE has a potential of 0 volts.\n\nThe Cell Potential, also called EMF (Electromotive Force), is the difference between the cathode and anode potentials. The formula is: E_cell = E_cathode - E_anode. This formula is important for JEE Main questions.\n\nCell Notation is a way to represent a Galvanic Cell. It shows the anode and cathode and their electrolytes. For example, Zn | Zn^2+ || Cu^2+ | Cu. Here, Zn is the anode, and Cu is the cathode.\n\nA common JEE Main mistake is mixing up the anode and cathode. Remember, the anode is where oxidation happens, and the cathode is where reduction happens.\n\nLet's solve a simple problem. If the potential of the cathode is 0.34 V and the anode is -0.76 V, what is the EMF? Using the formula: E_cell = E_cathode - E_anode = 0.34 - (-0.76) = 1.10 V.\n\nGalvanic Cells have many applications. They are used in batteries like the ones in remote controls and cars. Understanding how they work helps us in real life and exams.\n\nTypes of electrodes include metal-metal ion electrodes, gas electrodes, and redox electrodes. Each type has a different use and potential.\n\nIn summary, remember the key points: how a Galvanic Cell is built, the role of the salt bridge, and how to calculate EMF. Practice using the EMF formula to avoid mistakes in exams.\n\nThank you for listening! Make sure to review these concepts and practice problems to do well in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Galvanic Cell",
+    "Electrode Potential",
+    "Cell Potential",
+    "Standard Hydrogen Electrode",
+    "Salt Bridge"
+  ],
+  "formulas": [
+    {
+      "formula": "E_cell = E_cathode - E_anode",
+      "description": "Used to calculate the cell potential or EMF in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electrode",
+      "definition": "A metal strip that conducts electricity in a cell"
+    },
+    {
+      "term": "Oxidation",
+      "definition": "The process of losing electrons"
+    },
+    {
+      "term": "Reduction",
+      "definition": "The process of gaining electrons"
+    },
+    {
+      "term": "Salt Bridge",
+      "definition": "A tube filled with a salt solution that balances charge in a cell"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Current Electricity",
+    "chapter_number": "18",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:14:01.148668",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most crucial NEET concepts: Current Electricity. This chapter focuses on the flow of electric charge and the laws governing it. We'll start with Ohm's Law, which is fundamental to understanding circuits.\n\nOhm's Law states that the current (I) flowing through a conductor between two points is directly proportional to the voltage (V) across the two points, provided the temperature remains constant. The relationship is expressed by the formula V = IR, where R is the resistance of the conductor.\n\nKey concepts in this chapter include resistivity and conductivity, both of which describe how well a material conducts electricity. Resistivity (\u03c1) is the resistance per unit length and cross-sectional area, with the formula R = \u03c1L/A.\n\nAnother important topic is the series and parallel combination of resistors, which impact the total resistance in a circuit. For resistors in series, the total resistance is the sum of individual resistances (R_total = R1 + R2 + ... + Rn), whereas for resistors in parallel, 1/R_total = 1/R1 + 1/R2 + ... + 1/Rn.\n\nNEET often tests your understanding of Ohm's Law in problem-solving questions, using combinations of resistors, calculating total current, or determining power dissipated using P = VI, P = I^2 R, or P = V^2 / R.\n\nAlways remember to cross-check unit consistency in these calculations to avoid common mistakes.\n\nQuick Revision Points:\n1. Ohm's Law: V = IR\n2. Resistivity: R = \u03c1L/A\n3. Series resistors: R_total = R1 + R2 + ... + Rn\n4. Parallel resistors: 1/R_total = 1/R1 + 1/R2 + ...\n5. Power in circuits: P = VI, P = I^2 R, P = V^2 / R\n\nThese core concepts form the pillars of Current Electricity, and mastering them is critical for NEET exams. Always practice solving circuit-related problems to build confidence and accuracy.",
+  "duration_minutes": "12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Current Electricity",
+    "Ohm's Law",
+    "Resistivity",
+    "Conductivity",
+    "Series Circuit",
+    "Parallel Circuit",
+    "Electric Power",
+    "Electric Current",
+    "Voltage",
+    "Resistance"
+  ],
+  "formulas": [
+    "V = IR",
+    "R = \\frac{\\rho L}{A}",
+    "R_{\\text{total}} = R_1 + R_2 + \\ldots + R_n",
+    "\\frac{1}{R_{\\text{total}}} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\ldots + \\frac{1}{R_n}",
+    "P = VI",
+    "P = I^2 R",
+    "P = \\frac{V^2}{R}"
+  ],
+  "definitions": [
+    {
+      "term": "Current Electricity",
+      "definition": "The flow of electric charge in a conductor, typically measured in Amperes."
+    },
+    {
+      "term": "Ohm's Law",
+      "definition": "States that the current through a conductor between two points is directly proportional to the voltage across the two points."
+    },
+    {
+      "term": "Resistivity",
+      "definition": "A material's opposition to the flow of electric current; a higher resistivity means a material does not conduct electric current well."
+    },
+    {
+      "term": "Conductivity",
+      "definition": "A measure of a material's ability to allow the flow of electric current."
+    },
+    {
+      "term": "Series Circuit",
+      "definition": "A circuit in which components are connected end-to-end, so the current has a single path to follow."
+    },
+    {
+      "term": "Parallel Circuit",
+      "definition": "A circuit in which all components are connected across each other, so the voltage is the same across each component."
+    },
+    {
+      "term": "Electric Power",
+      "definition": "The rate at which electric energy is transferred by an electric circuit, usually measured in Watts."
+    },
+    {
+      "term": "Electric Current",
+      "definition": "The flow of electric charge carriers, typically electrons."
+    },
+    {
+      "term": "Voltage",
+      "definition": "The electric potential difference between two points, or the push that sends charges through a conducting loop."
+    },
+    {
+      "term": "Resistance",
+      "definition": "A measure of how much a material opposes the flow of electric current."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Ecosystem",
+    "chapter_number": 14,
+    "topic": "Nutrient Cycling",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:45:31.326922",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about nutrient cycling in an ecosystem. This is an important topic for NEET. Nutrient cycling means how nutrients move through the environment. Let's start with biogeochemical cycles. These cycles include carbon, nitrogen, and phosphorus cycles. \n\nFirst, let's talk about the carbon cycle. Carbon is everywhere. It is in the air as carbon dioxide (CO2). Plants use CO2 to make food. This process is called photosynthesis. Animals eat plants and get carbon. When plants and animals die, decomposers break them down. This returns carbon to the soil and air. \n\nNext, the nitrogen cycle. Nitrogen is important for plants and animals. But, plants cannot use nitrogen from the air directly. It needs to be fixed. Nitrogen fixation is when bacteria in the soil change nitrogen gas into a form plants can use. Then, nitrification happens. This is when bacteria convert ammonia into nitrates. Plants absorb these nitrates. Denitrification is the opposite. It changes nitrates back into nitrogen gas. \n\nThe phosphorus cycle is simpler. Phosphorus is found in rocks. When rocks break down, phosphorus goes into the soil. Plants absorb it from the soil. Animals get phosphorus by eating plants. When plants and animals die, decomposers return phosphorus to the soil. \n\nDecomposers play a key role in nutrient cycling. They break down dead plants and animals. This releases nutrients back into the soil. Without decomposers, nutrients would not return to the soil. \n\nNow, let's discuss human impact. Humans change nutrient cycles by burning fossil fuels. This adds extra carbon to the air. Using too much fertilizer adds extra nitrogen and phosphorus to the soil. This can harm the environment. \n\nRemember these key terms: Nitrogen fixation is when nitrogen gas changes into a form plants can use. Nitrification is when ammonia changes into nitrates. Denitrification is when nitrates change back into nitrogen gas. \n\nA common mistake is thinking plants can use nitrogen gas directly. They cannot. They need nitrogen in a different form. \n\nIn conclusion, nutrient cycling is vital for life. It keeps ecosystems balanced. For NEET, remember the role of decomposers and human impact. Also, understand the key terms and cycles. \n\nThank you for listening. Keep these points in mind as you study.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Nutrient Cycling",
+    "Biogeochemical Cycles",
+    "Carbon Cycle",
+    "Nitrogen Cycle",
+    "Phosphorus Cycle"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Nitrogen Fixation",
+      "definition": "The process of changing nitrogen gas into a form plants can use."
+    },
+    {
+      "term": "Nitrification",
+      "definition": "The process of converting ammonia into nitrates."
+    },
+    {
+      "term": "Denitrification",
+      "definition": "The process of converting nitrates back into nitrogen gas."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Permutations and Combinations",
+    "chapter_number": 4,
+    "topic": "Combinations",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:47:39.971939",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about combinations in mathematics. Combinations are a way to select items from a group. Unlike permutations, the order does not matter in combinations. This is important for JEE Main as it helps solve selection problems.\n\nFirst, let's define a combination. A combination is a selection of items where the order does not matter. For example, if we have three fruits: an apple, a banana, and an orange, choosing an apple and a banana is the same as choosing a banana and an apple. Both selections are counted as one combination.\n\nNow, let's learn how to calculate combinations. The formula for combinations is: \n\nC(n, r) = n! / [r! * (n - r)!]\n\nHere, 'n' is the total number of items, 'r' is the number of items to choose, and '!' means factorial, which is the product of all positive integers up to that number.\n\nLet's take a simple example. If you have 5 books and want to choose 2, how many ways can you do this? Use the formula: C(5, 2) = 5! / [2! * (5 - 2)!] = 10. So, there are 10 ways to choose 2 books from 5.\n\nNext, let's talk about combinations with repetition. This means you can choose the same item more than once. The formula is:\n\nC(n + r - 1, r) = (n + r - 1)! / [r! * (n - 1)!]\n\nThis is useful when you have items that can be repeated, like choosing flavors of ice cream. If you have 3 flavors and can choose 2 scoops, you can repeat flavors.\n\nIn JEE Main, combinations are often used in selection problems. For example, choosing a team from a group of students. Remember, order does not matter here.\n\nLet's discuss combinations with restrictions. Sometimes, you cannot choose certain items together. For example, if you must choose 2 fruits but cannot choose both apple and banana, you must subtract the restricted combinations from the total.\n\nThe Binomial Theorem is also related to combinations. It helps expand expressions like (a + b)^n. The coefficients in the expansion are combinations. For example, in (a + b)^2, the expansion is a^2 + 2ab + b^2. The coefficient 2 is C(2, 1).\n\nNow, let's see some common mistakes. Students often confuse permutations and combinations. Remember, order matters in permutations, not in combinations. Also, be careful with factorial calculations. Missing a factorial can lead to wrong answers.\n\nKey takeaways: Use combinations when order does not matter. Remember the formulas and practice with examples. Check your work for factorial errors.\n\nIn summary, combinations are a key part of JEE Main math. They help solve selection problems and connect with the Binomial Theorem. Keep practicing, and you will do well!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Combination",
+    "Selection",
+    "Factorial",
+    "Repetition",
+    "Binomial Theorem"
+  ],
+  "formulas": [
+    {
+      "formula": "C(n, r) = n! / [r! * (n - r)!]",
+      "description": "Used to calculate the number of ways to choose 'r' items from 'n' items without considering order."
+    },
+    {
+      "formula": "C(n + r - 1, r) = (n + r - 1)! / [r! * (n - 1)!]",
+      "description": "Used when items can be repeated in combinations."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Combination",
+      "definition": "A selection of items where the order does not matter."
+    },
+    {
+      "term": "Factorial",
+      "definition": "The product of all positive integers up to a given number."
+    }
+  ]
+}

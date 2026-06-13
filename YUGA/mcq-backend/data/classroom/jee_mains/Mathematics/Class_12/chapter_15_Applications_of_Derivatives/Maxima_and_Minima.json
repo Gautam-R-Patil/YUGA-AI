@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Applications of Derivatives",
+    "chapter_number": 15,
+    "topic": "Maxima and Minima",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:58:24.458948",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Maxima and Minima. This is a part of Applications of Derivatives. You have learned about derivatives before. Derivatives help us understand how things change. In this lesson, we will see how derivatives can find maximum and minimum values of functions. \n\nLet's start with the First Derivative Test. To find maxima or minima, we first find the derivative of the function. This is called the first derivative. We set this derivative equal to zero. The points we find are called critical points. At these points, the function might have a maximum or a minimum value.\n\nNext, we use the First Derivative Test. We check the sign of the derivative before and after the critical point. If the derivative changes from positive to negative, the function has a local maximum at that point. If it changes from negative to positive, the function has a local minimum.\n\nNow, let's talk about the Second Derivative Test. After finding the critical points, we find the second derivative. If the second derivative is positive at a critical point, the function has a local minimum there. If it's negative, the function has a local maximum.\n\nA common mistake in JEE Main is forgetting to check the second derivative. Always remember to check it for confirmation.\n\nFinding Absolute Maxima and Minima is slightly different. We look at the endpoints of the interval and the critical points. We calculate the function's value at these points. The highest value is the absolute maximum, and the lowest is the absolute minimum.\n\nLet's look at an example. Consider the function f(x) = x^2 - 4x + 3. First, find the first derivative: f'(x) = 2x - 4. Set it to zero: 2x - 4 = 0, so x = 2. Next, find the second derivative: f''(x) = 2. Since f''(x) is positive, the function has a local minimum at x = 2.\n\nNow, let's apply this to word problems. These problems often involve finding maximum profit or minimum cost. Read the problem carefully. Identify the function to be optimized. Use the steps we learned to find the solution.\n\nOptimization problems are very important in JEE Main. Practice these problems to get better.\n\nRemember, common traps include missing critical points or calculating derivatives incorrectly. Always double-check your work.\n\nKey takeaways: Use the first and second derivative tests to find maxima and minima. Practice word problems for optimization. Check your calculations to avoid mistakes.\n\nIn summary, derivatives are powerful tools. They help us find important points on a graph. Practice these concepts to do well in your exams.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "First Derivative",
+    "Second Derivative",
+    "Maxima",
+    "Minima",
+    "Optimization"
+  ],
+  "formulas": [
+    {
+      "formula": "f'(x) = 0",
+      "description": "Used to find critical points where the function might have maxima or minima"
+    },
+    {
+      "formula": "f''(x) > 0",
+      "description": "Indicates a local minimum at the critical point"
+    },
+    {
+      "formula": "f''(x) < 0",
+      "description": "Indicates a local maximum at the critical point"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Local Maximum",
+      "definition": "The highest point in a small interval around a point"
+    },
+    {
+      "term": "Local Minimum",
+      "definition": "The lowest point in a small interval around a point"
+    },
+    {
+      "term": "Critical Point",
+      "definition": "A point where the first derivative is zero or undefined"
+    }
+  ]
+}

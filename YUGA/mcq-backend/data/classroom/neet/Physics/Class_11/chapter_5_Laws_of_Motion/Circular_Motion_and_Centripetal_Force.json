@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Laws of Motion",
+    "chapter_number": 5,
+    "topic": "Circular Motion and Centripetal Force",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:52:22.503440",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about circular motion and centripetal force. These are important topics in physics. They also often appear in NEET exams. Let's start with the basics. \n\nCircular motion is when an object moves in a circle. Imagine a stone tied to a string, and you swing it around. The stone moves in a circular path. But why does it not fly away? This is where centripetal force comes in. \n\nCentripetal force is the force that keeps an object moving in a circle. It pulls the object toward the center of the circle. Without this force, the object would move in a straight line. This is because of inertia, which is the tendency of an object to keep moving in the same direction. \n\nNow, let's look at some examples. When a car turns on a curved road, centripetal force keeps it on the path. The friction between the tires and the road provides this force. In nature, the planets orbiting the sun are another example. The gravitational force acts as the centripetal force here. \n\nNext, we will learn how to calculate centripetal force. The formula is F = m * v^2 / r. Here, F is the centripetal force, m is the mass of the object, v is the speed of the object, and r is the radius of the circle. \n\nLet's do a quick check. If the mass of an object is 2 kg, its speed is 3 m/s, and the radius is 1 m, what is the centripetal force? Using the formula, F = 2 * 3^2 / 1 = 18 N. So, the centripetal force is 18 newtons. \n\nA common mistake is to confuse centripetal force with centrifugal force. Remember, centripetal force pulls toward the center. Centrifugal force is not a real force; it is just the feeling of being pushed outward. \n\nCentripetal force has many applications. In roller coasters, it keeps the cars on the track. In washing machines, it helps to remove water from clothes. \n\nTo summarize, centripetal force is essential for circular motion. It keeps objects moving in a circle. Always use the formula F = m * v^2 / r to find the force. Remember the examples and avoid common mistakes. \n\nThat's all for today. Keep practicing these concepts. They are important for NEET and understanding physics better. Thank you!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Circular motion",
+    "Centripetal force",
+    "Inertia",
+    "Gravitational force",
+    "Friction"
+  ],
+  "formulas": [
+    {
+      "formula": "F = m * v^2 / r",
+      "description": "Centripetal force formula where F is force, m is mass, v is speed, and r is radius"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Centripetal force",
+      "definition": "The force that keeps an object moving in a circular path, directed toward the center of the circle."
+    },
+    {
+      "term": "Circular motion",
+      "definition": "The movement of an object along the circumference of a circle or rotation along a circular path."
+    },
+    {
+      "term": "Inertia",
+      "definition": "The tendency of an object to resist changes in its state of motion."
+    }
+  ]
+}

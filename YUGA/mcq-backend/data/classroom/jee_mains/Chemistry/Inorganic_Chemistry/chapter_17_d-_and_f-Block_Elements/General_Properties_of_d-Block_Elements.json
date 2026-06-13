@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "d- and f-Block Elements",
+    "chapter_number": 17,
+    "topic": "General Properties of d-Block Elements",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:18:58.275463",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the general properties of d-block elements. These elements are found in the middle of the periodic table. They are also called transition elements. Let's start with their electronic configuration. \n\nThe electronic configuration shows how electrons are arranged in an atom. For d-block elements, electrons fill the d-orbitals. The general configuration is (n-1)d^1–10 ns^0–2. This means the d-orbital can have 1 to 10 electrons, and the s-orbital can have 0 to 2 electrons. \n\nNext, let's talk about oxidation states. Oxidation state is the charge of an atom if all bonds were ionic. d-block elements have variable oxidation states. This is because they can lose different numbers of d and s electrons. For example, iron (Fe) can have +2 or +3 oxidation states. \n\nNow, let's look at atomic and ionic radii. The atomic radius is the size of an atom. As we move across the d-block, the atomic size decreases slightly. This is due to increased nuclear charge, which pulls electrons closer. However, the change is not as much as in s- or p-block elements. \n\nNext, let's discuss magnetic properties. d-block elements can be paramagnetic or diamagnetic. Paramagnetic means they have unpaired electrons and are attracted to magnets. Diamagnetic means all electrons are paired and are weakly repelled by magnets. For example, manganese (Mn) is paramagnetic because it has unpaired electrons. \n\nColor is another interesting property. Many d-block compounds are colored. This is due to d-d transitions where electrons jump between d-orbitals. For example, copper(II) sulfate is blue due to such transitions. \n\nLet's move on to catalytic properties. Catalysts speed up chemical reactions without being used up. Many d-block elements are good catalysts. For example, iron is used in the Haber process to make ammonia. \n\nd-block elements also form complex compounds. A complex compound has a central metal atom bonded to molecules or ions called ligands. These compounds have important uses in medicine and industry. \n\nNow, let's talk about alloy formation. An alloy is a mixture of metals. d-block elements form strong and hard alloys. For example, steel is an alloy of iron and carbon. \n\nVariable oxidation states are a key feature of d-block elements. This means they can form compounds with different charges. This is useful in redox reactions where oxidation and reduction occur. \n\nFinally, let's discuss metallic character and conductivity. d-block elements are metals. They are good conductors of heat and electricity. This is because of their free-moving electrons. \n\nBefore we end, let's highlight common JEE Main mistakes. Students often forget the order of filling orbitals. Remember, 4s fills before 3d. Also, don't confuse atomic radius trends with other blocks. \n\nIn summary, d-block elements have unique properties like variable oxidation states, magnetic properties, and catalytic abilities. They are important in many industrial processes. \n\nKeep these key points in mind for your JEE Main exam. Practice problems to understand these concepts better. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electronic Configuration",
+    "Oxidation States",
+    "Atomic Radius",
+    "Magnetic Properties",
+    "Complex Compounds"
+  ],
+  "formulas": [
+    {
+      "formula": "(n-1)d^1–10 ns^0–2",
+      "description": "This is the general electronic configuration for d-block elements"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electronic Configuration",
+      "definition": "The arrangement of electrons in the orbitals of an atom"
+    },
+    {
+      "term": "Oxidation State",
+      "definition": "The charge of an atom if all its bonds were ionic"
+    },
+    {
+      "term": "Paramagnetic",
+      "definition": "Having unpaired electrons and being attracted to a magnetic field"
+    },
+    {
+      "term": "Complex Compound",
+      "definition": "A compound with a central metal atom bonded to ligands"
+    }
+  ]
+}

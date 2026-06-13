@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Properties of Solids and Liquids",
+    "chapter_number": 7,
+    "topic": "Surface Tension",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:51:27.733096",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about a special property of liquids called Surface Tension. This is an important topic in the chapter on Properties of Solids and Liquids. Let's start with the definition. Surface Tension is the force that acts on the surface of a liquid. It makes the surface behave like a stretched elastic sheet. The unit of Surface Tension is Newton per meter (N/m). Now, let's talk about why this happens. According to the molecular theory, molecules at the surface of a liquid are attracted more strongly to each other than to the air above. This creates Surface Tension. Imagine a group of friends holding hands tightly. They form a strong circle. This is similar to how molecules at the surface stick together. Next, let's discuss Surface Energy. Surface Energy is the energy needed to increase the surface area of a liquid. It is directly related to Surface Tension. Higher Surface Tension means more Surface Energy is needed. Now, let's move on to Capillarity. Capillarity is the ability of a liquid to flow in narrow spaces without external forces. For example, when you dip a thin tube in water, the water rises in the tube. This happens because of Surface Tension. The angle of contact is also important. It is the angle between the surface of the liquid and the wall of the container. If the angle is small, the liquid wets the surface. If it is large, the liquid does not wet the surface. Surface Tension has many applications. It helps detergents clean clothes by breaking the surface tension of water. It also helps inks spread evenly on paper. Temperature affects Surface Tension too. As temperature increases, Surface Tension decreases. This is because molecules move faster and are less attracted to each other. Surface Tension also affects small organisms. For example, some insects can walk on water because of Surface Tension. Now, let's look at a formula. The formula for Surface Tension (T) is T = F/L, where F is the force and L is the length. This formula helps us calculate the Surface Tension when we know the force and the length. Let's do a quick example. If a force of 0.5 N acts on a length of 0.1 m, the Surface Tension is T = 0.5/0.1 = 5 N/m. In JEE Main, a common mistake is forgetting to convert units. Always check your units. A quick tip: remember that Surface Tension decreases with heat. Let's summarize. Surface Tension is the force on a liquid's surface. It is caused by molecular attraction. It is measured in N/m. It affects capillarity, detergents, and small organisms. Always remember the formula T = F/L. That's all for today. Keep practicing and see you next time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Surface Tension",
+    "Molecular Theory",
+    "Surface Energy",
+    "Capillarity",
+    "Angle of Contact"
+  ],
+  "formulas": [
+    {
+      "formula": "T = F/L",
+      "description": "Used to calculate Surface Tension when force and length are known"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Surface Tension",
+      "definition": "The force that acts on the surface of a liquid, making it behave like a stretched elastic sheet"
+    },
+    {
+      "term": "Capillarity",
+      "definition": "The ability of a liquid to flow in narrow spaces without external forces"
+    },
+    {
+      "term": "Angle of Contact",
+      "definition": "The angle between the surface of the liquid and the wall of the container"
+    }
+  ]
+}

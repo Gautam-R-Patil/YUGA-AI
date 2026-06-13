@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Work, Energy and Power",
+    "chapter_number": 4,
+    "topic": "Work and Energy",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:48:19.315951",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Work and Energy. These are important topics in physics and often appear in JEE Main exams. Let's start with the definition of work. Work is done when a force moves an object over a distance. It is calculated as the product of force and distance. The formula is W = F × d, where W is work, F is force, and d is distance.\n\nNow, let's talk about work done by constant and variable forces. When the force is constant, the formula W = F × d is used directly. But when the force changes, we use calculus to find work. For JEE Main, focus on constant forces.\n\nNext, we have kinetic energy. Kinetic energy is the energy of motion. It is given by the formula KE = 1/2 × m × v^2, where m is mass and v is velocity. If an object is moving, it has kinetic energy. Remember, if velocity doubles, kinetic energy becomes four times.\n\nLet's move to potential energy. There are two types: gravitational and elastic. Gravitational potential energy is due to height above the ground. The formula is PE = m × g × h, where m is mass, g is gravity (9.8 m/s^2), and h is height. Elastic potential energy is stored in stretched or compressed springs. The formula is PE = 1/2 × k × x^2, where k is spring constant and x is displacement.\n\nNow, the work-energy theorem. It states that the work done on an object is equal to the change in its kinetic energy. The formula is W = ∆KE = KE_final - KE_initial. This helps solve problems where forces change an object's speed.\n\nLet's discuss conservative and non-conservative forces. Conservative forces, like gravity, do not depend on path. Non-conservative forces, like friction, depend on the path taken. Energy diagrams show how energy changes in a system. They help visualize potential and kinetic energy changes.\n\nFinally, applications of the work-energy principle. It helps solve problems where forces change an object's speed or height. Remember, always check units and signs. Common mistakes include forgetting to square velocity or using wrong units.\n\nKey takeaways: Understand the formulas and when to use them. Practice problems to avoid common mistakes. Work and energy are linked, and mastering these concepts is crucial for JEE Main.\n\nIn summary, work and energy are fundamental concepts. Knowing how to calculate work, kinetic and potential energy, and applying the work-energy theorem will help you in JEE Main. Practice regularly and focus on understanding the concepts.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Work",
+    "Energy",
+    "Kinetic Energy",
+    "Potential Energy",
+    "Work-Energy Theorem"
+  ],
+  "formulas": [
+    {
+      "formula": "W = F × d",
+      "description": "Used to calculate work done by a constant force over a distance"
+    },
+    {
+      "formula": "KE = 1/2 × m × v^2",
+      "description": "Used to calculate the kinetic energy of a moving object"
+    },
+    {
+      "formula": "PE = m × g × h",
+      "description": "Used to calculate gravitational potential energy based on height"
+    },
+    {
+      "formula": "PE = 1/2 × k × x^2",
+      "description": "Used to calculate elastic potential energy in springs"
+    },
+    {
+      "formula": "W = ∆KE = KE_final - KE_initial",
+      "description": "Work-energy theorem relating work done to change in kinetic energy"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Work",
+      "definition": "The product of force and distance when a force moves an object"
+    },
+    {
+      "term": "Kinetic Energy",
+      "definition": "Energy that a body possesses due to its motion"
+    },
+    {
+      "term": "Potential Energy",
+      "definition": "Energy stored in an object due to its position or arrangement"
+    },
+    {
+      "term": "Conservative Force",
+      "definition": "A force that does not depend on the path taken, like gravity"
+    },
+    {
+      "term": "Non-Conservative Force",
+      "definition": "A force that depends on the path taken, like friction"
+    }
+  ]
+}

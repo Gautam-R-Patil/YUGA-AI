@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "System of Particles and Rotational Motion",
+    "chapter_number": "7",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:10:39.654984",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts from the chapter on System of Particles and Rotational Motion.\n\n1. Introduction to Rotational Motion: When an object turns about an axis, it is said to be in rotational motion. Unlike linear motion, every point of the object has a different trajectory.\n\n2. Center of Mass: It is the point at which the entire mass of the object can be considered to be concentrated for translational motion. \n   - Center of Mass Formula: \\( \\vec{R} = \\frac{\\sum m_i \\vec{r_i}}{\\sum m_i} \\)\n\n3. Torque (Moment of Force): Torque is the rotational equivalent of force. It determines the tendency of a force to rotate an object about an axis.\n   - Torque Formula: \\( \\tau = r \\times F \\)\n\n4. Angular Momentum: A measure of the quantity of rotation of an object, which is the product of its moment of inertia and its angular velocity.\n   - Angular Momentum Formula: \\( L = I \\omega \\)\n\n5. Moment of Inertia: It is the rotational analog of mass in linear motion. It depends on the mass distribution relative to the axis of rotation.\n   - Moment of Inertia for a Point Mass: \\( I = mr^2 \\)\n\n6. Conservation of Angular Momentum: When no external torque acts on a system, the total angular momentum remains constant. This principle is crucial in problems involving changing rotational states.\n   - Formula: \\( L_i = L_f \\) (Initial angular momentum = Final angular momentum)\n\n7. Rotational Kinetic Energy: This is the energy due to the rotation of an object and is part of its total kinetic energy.\n   - Rotational Kinetic Energy Formula: \\( KE_{rot} = \\frac{1}{2} I \\omega^2 \\)\n\nNEET Question Pattern: NEET questions often focus on calculating the moment of inertia for basic shapes, using the conservation of angular momentum, and relations between torque and angular velocity. Be familiar with substituting given values into formulas and understanding the geometric arrangement of problems.\n\nQuick Revision Points:\n- Understand and apply the formula for the center of mass.\n- Remember torque as a vector quantity: greater distance means greater effect.\n- Know how to calculate angular momentum and apply conservation principles.\n- Moment of inertia depends on mass distribution.\n- Use formulas for rotational kinetic energy to solve energy-based questions.\n\nWith these points, you should feel more confident tackling rotation-related questions on the NEET exam. Good luck!",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Rotational Motion",
+    "Center of Mass",
+    "Torque",
+    "Angular Momentum",
+    "Moment of Inertia",
+    "Conservation of Angular Momentum",
+    "Rotational Kinetic Energy",
+    "Axis of Rotation",
+    "Force",
+    "Velocity"
+  ],
+  "formulas": [
+    "\\vec{R} = \\frac{\\sum m_i \\vec{r_i}}{\\sum m_i}",
+    "\\tau = r \\times F",
+    "L = I \\omega",
+    "I = mr^2",
+    "KE_{rot} = \\frac{1}{2} I \\omega^2"
+  ],
+  "definitions": [
+    {
+      "term": "Rotational Motion",
+      "definition": "Movement of an object about an axis of rotation."
+    },
+    {
+      "term": "Center of Mass",
+      "definition": "The point where the total mass of a system is considered to be concentrated."
+    },
+    {
+      "term": "Torque",
+      "definition": "A measure of the force that can cause an object to rotate about an axis."
+    },
+    {
+      "term": "Angular Momentum",
+      "definition": "The rotational analog of linear momentum, represented as a product of moment of inertia and angular velocity."
+    },
+    {
+      "term": "Moment of Inertia",
+      "definition": "A measure of an object's resistance to changes in its rotation rate."
+    },
+    {
+      "term": "Conservation of Angular Momentum",
+      "definition": "A principle stating that if no external torque acts on a system, its total angular momentum remains constant."
+    },
+    {
+      "term": "Rotational Kinetic Energy",
+      "definition": "The energy due to the rotation of an object, given by half the product of the moment of inertia and the square of its angular velocity."
+    },
+    {
+      "term": "Axis of Rotation",
+      "definition": "The line about which an object rotates."
+    },
+    {
+      "term": "Force",
+      "definition": "An interaction that causes change in an object's motion or shape."
+    },
+    {
+      "term": "Velocity",
+      "definition": "The rate of change of an object's position with respect to time."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_12",
+    "chapter": "Electrochemistry",
+    "chapter_number": 3,
+    "topic": "Electrochemical Cells",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:15:45.096323",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about electrochemical cells. These cells are important for NEET exams. Let's start with Galvanic Cells. A Galvanic Cell is a device that converts chemical energy into electrical energy. It does this through a chemical reaction. Imagine a battery. It uses a chemical reaction to produce electricity. In a Galvanic Cell, there are two electrodes. An electrode is a conductor through which electricity enters or leaves. One is called the anode, and the other is the cathode. The anode is where oxidation happens. Oxidation means losing electrons. The cathode is where reduction happens. Reduction means gaining electrons. A salt bridge connects the two solutions. It helps maintain the charge balance. Daniel was a scientist who made the first Galvanic Cell. This cell is also called a Daniel Cell. \n\nNow, let's talk about Electrolytic Cells. An Electrolytic Cell uses electrical energy to drive a chemical reaction. Think of it as the opposite of a Galvanic Cell. It needs electricity to work. A common example is electroplating. Electroplating is when a metal layer is added to another object. For example, silver plating on a spoon. This is done using an Electrolytic Cell.\n\nNext, we have the Standard Electrode Potential. This is the voltage measured under standard conditions. Standard conditions mean 1 M concentration, 1 atm pressure, and 25°C temperature. It tells us how easily a substance can be reduced. A positive potential means it's easy to gain electrons. A negative potential means it's hard to gain electrons. \n\nLet's move on to the Nernst Equation. This equation helps calculate the cell potential under non-standard conditions. The formula is: E = E° - (RT/nF) * ln(Q). Here, E is the cell potential, E° is the standard cell potential, R is the gas constant, T is temperature, n is the number of electrons, F is Faraday's constant, and Q is the reaction quotient. \n\nCell Potential is the measure of the voltage between two electrodes. It depends on the concentration of solutions and temperature. A common mistake is thinking the cell potential is always constant. It changes with conditions.\n\nIn summary, remember: Galvanic Cells convert chemical energy to electrical energy. Electrolytic Cells do the opposite. Standard Electrode Potential helps us understand how easily reactions occur. The Nernst Equation is useful for non-standard conditions. Always check the conditions before calculating cell potential.\n\nI hope this makes electrochemical cells clearer for you. Remember these key points for your NEET exams. Good luck!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Galvanic Cells",
+    "Electrolytic Cells",
+    "Standard Electrode Potential",
+    "Nernst Equation",
+    "Cell Potential"
+  ],
+  "formulas": [
+    {
+      "formula": "E = E° - (RT/nF) * ln(Q)",
+      "description": "Nernst Equation for calculating cell potential under non-standard conditions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Anode",
+      "definition": "The electrode where oxidation occurs in a cell"
+    },
+    {
+      "term": "Cathode",
+      "definition": "The electrode where reduction occurs in a cell"
+    },
+    {
+      "term": "Salt Bridge",
+      "definition": "A device used in a Galvanic Cell to maintain electrical neutrality"
+    },
+    {
+      "term": "Standard Electrode Potential",
+      "definition": "The voltage measured under standard conditions for a half-cell"
+    }
+  ]
+}

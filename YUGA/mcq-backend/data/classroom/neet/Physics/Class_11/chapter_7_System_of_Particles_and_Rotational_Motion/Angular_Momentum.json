@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "System of Particles and Rotational Motion",
+    "chapter_number": 7,
+    "topic": "Angular Momentum",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:54:16.523194",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about angular momentum. This is an important topic in physics and often appears in NEET exams.\n\nFirst, what is angular momentum? Angular momentum is a measure of how much rotation an object has. It is similar to linear momentum but for rotating objects. We calculate angular momentum using the formula L = r × p, where L is angular momentum, r is the distance from the axis of rotation, and p is the linear momentum.\n\nLet's break this down. Linear momentum (p) is the product of mass (m) and velocity (v). So, p = m × v. Angular momentum depends on how far the object is from the axis and its speed.\n\nNow, let's talk about the conservation of angular momentum. This is an important principle. It means that if no external force acts on a system, the total angular momentum stays the same. For example, think of a figure skater spinning. When they pull their arms in, they spin faster. This is because their angular momentum is conserved.\n\nA common mistake is to confuse linear and angular momentum. Remember, linear momentum is straight-line motion, while angular momentum is rotation.\n\nLet's see some examples. A spinning top is a great example of angular momentum. Even when it wobbles, its angular momentum keeps it spinning. Another example is the Earth. It spins on its axis and orbits the Sun, both involving angular momentum.\n\nIn engineering, angular momentum is crucial. Gyroscopes use angular momentum to keep planes and ships stable. Engineers design these systems to maintain balance and direction.\n\nNow, let's solve a simple problem. Suppose a wheel of mass 5 kg and radius 2 m is spinning at 3 m/s. What is its angular momentum? First, find the linear momentum: p = m × v = 5 kg × 3 m/s = 15 kg·m/s. Now, use the formula L = r × p = 2 m × 15 kg·m/s = 30 kg·m²/s.\n\nKey points to remember: Angular momentum involves rotation, not straight-line motion. It is conserved in closed systems with no external forces. Always check units when calculating.\n\nIn summary, angular momentum is a vital concept in physics. It helps us understand how objects rotate and stay in motion. Remember the formula and practice solving problems. This will help you in NEET exams.\n\nThank you for listening. Keep practicing and you'll master angular momentum!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Angular Momentum",
+    "Linear Momentum",
+    "Conservation of Angular Momentum",
+    "Spinning Top",
+    "Gyroscope"
+  ],
+  "formulas": [
+    {
+      "formula": "L = r × p",
+      "description": "Angular momentum (L) is the product of the distance from the axis (r) and linear momentum (p)"
+    },
+    {
+      "formula": "p = m × v",
+      "description": "Linear momentum (p) is the product of mass (m) and velocity (v)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Angular Momentum",
+      "definition": "A measure of the amount of rotation an object has, considering its mass, shape, and speed."
+    },
+    {
+      "term": "Conservation of Angular Momentum",
+      "definition": "The principle that the total angular momentum of a closed system remains constant if no external forces act on it."
+    },
+    {
+      "term": "Linear Momentum",
+      "definition": "The product of an object's mass and velocity, representing straight-line motion."
+    }
+  ]
+}

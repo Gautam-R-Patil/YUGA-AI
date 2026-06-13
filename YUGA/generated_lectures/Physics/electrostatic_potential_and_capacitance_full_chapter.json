@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "chapter_number": "17",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:13:44.209647",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: Electrostatic Potential and Capacitance.\n\n**Electrostatic Potential**: This concept revolves around the potential energy per unit charge at a point in a static electric field. If you move a charge in an electric field, work is done on the charge, which relates to the potential.\n\n- **Key Formula**: $V = \\frac{W}{q}$ where V is the potential (volt), W is work done (joules), and q is the charge (coulombs).\n\n- **Work Done in Moving a Charge**: Using the formula $W = q(V_2 - V_1)$, which depicts work done in moving a charge q between two points having potential differences $V_1$ and $V_2$.\n\n**Electric Potential Due to a Point Charge**: Here, the potential at a distance r from a point charge Q is: \n\n- **Key Formula**: $V = \\frac{kQ}{r}$ where k is Coulomb's constant.\n\n**Equipotential Surfaces**: These are imaginary surfaces where the potential remains constant. No work is done when moving a charge along an equipotential surface.\n\n**Capacitance**: It measures a system's ability to store charge per unit potential difference. It\u2019s a critical concept in understanding energy storage in electric fields.\n\n- **Capacitance of a Capacitor**: For a parallel plate capacitor, $C = \\frac{\\varepsilon_0A}{d}$ where $\\varepsilon_0$ is the permittivity, A is the area of the plates, and d is the separation distance.\n\n**Energy Stored in a Capacitor**: A key topic is understanding how capacitors store energy. The energy (U) stored is given by:\n\n- **Key Formula**: $U = \\frac{1}{2}CV^2$\n\n**Common NEET Question Patterns**: \n1. Direct application of formulas: Calculating potential, capacitance, or energy stored.\n2. Conceptual questions on equipotential surfaces or comparison of work done.\n3. Problems on mixed systems of capacitors (series and parallel combinations).\n\n**Quick Revision Points**:\n1. Electrostatic potential is the work done per unit charge.\n2. Key formula for potential due to a point charge: $V = \\frac{kQ}{r}$.\n3. Equipotential surfaces have the same potential everywhere.\n4. Capacitance formula for parallel plates: $C = \\frac{\\varepsilon_0A}{d}$.\n5. Energy in capacitors is given by $U = \\frac{1}{2}CV^2$.\n\nFeel confident converting the theory into numerical problem-solving, especially using these formulas correctly in various contexts.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Electrostatic Potential",
+    "Equipotential Surface",
+    "Capacitance",
+    "Parallel Plate Capacitor",
+    "Electric Field",
+    "Potential due to Point Charge",
+    "Energy Stored in Capacitor",
+    "Coulomb's Constant",
+    "Permittivity",
+    "Potential Difference"
+  ],
+  "formulas": [
+    "$V = \\frac{W}{q}$",
+    "$W = q(V_2 - V_1)$",
+    "$V = \\frac{kQ}{r}$",
+    "$C = \\frac{\\varepsilon_0A}{d}$",
+    "$U = \\frac{1}{2}CV^2$"
+  ],
+  "definitions": [
+    {
+      "term": "Electrostatic Potential",
+      "definition": "The work done in bringing a unit positive charge from infinity to a point in the electric field."
+    },
+    {
+      "term": "Equipotential Surface",
+      "definition": "An imaginary surface in the field of a conductor on which the potential is the same at every point."
+    },
+    {
+      "term": "Capacitance",
+      "definition": "The ability of a system to store electric charge."
+    },
+    {
+      "term": "Parallel Plate Capacitor",
+      "definition": "A capacitor consisting of two conductive plates separated by an insulating material or dielectric."
+    },
+    {
+      "term": "Electric Field",
+      "definition": "A field around charged particles that exerts force on other charged particles."
+    },
+    {
+      "term": "Potential due to Point Charge",
+      "definition": "The electric potential created by a point charge at a specific distance away."
+    },
+    {
+      "term": "Energy Stored in Capacitor",
+      "definition": "The potential energy stored in the electric field of a charged capacitor."
+    },
+    {
+      "term": "Coulomb's Constant",
+      "definition": "A proportionality constant in electrostatics equations, denoted by k."
+    },
+    {
+      "term": "Permittivity",
+      "definition": "A measure of resistance offered against the formation of an electric field."
+    },
+    {
+      "term": "Potential Difference",
+      "definition": "The difference in electric potential between two points in a field."
+    }
+  ]
+}

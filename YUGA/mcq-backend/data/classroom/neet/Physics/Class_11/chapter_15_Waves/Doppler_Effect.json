@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Waves",
+    "chapter_number": 15,
+    "topic": "Doppler Effect",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:06:16.833795",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Doppler Effect. This is an important concept in physics and often appears in NEET exams.\n\nLet's start with the definition. The Doppler Effect is a change in the frequency of a wave. This happens when the source of the wave or the observer is moving. Imagine you're standing by the road. A car passes by, honking its horn. You hear the horn's pitch change. It is higher when the car comes towards you and lower when it moves away. This is the Doppler Effect.\n\nNow, let's talk about the Doppler Effect in sound. When a sound source moves towards you, the sound waves get compressed. So, you hear a higher pitch. When it moves away, the waves stretch out. So, you hear a lower pitch. Remember, pitch is how high or low a sound is.\n\nA common mistake is thinking the Doppler Effect changes the loudness. It doesn't. It only changes the pitch or frequency.\n\nNext, let's see the Doppler Effect in light. Light from stars can show the Doppler Effect too. When a star moves towards us, its light shifts to blue. We call this a blue shift. When it moves away, the light shifts to red, called a red shift.\n\nThe Doppler Effect has many applications in engineering. For example, radar guns use it to measure the speed of cars. They send out waves and measure how they change when they bounce back.\n\nLet's solve a simple problem. If a train moves towards you at 30 m/s and the sound speed is 340 m/s, how does the frequency change? Use the formula: f' = f (v + vo) / (v + vs). Here, f' is the new frequency, f is the original frequency, v is the sound speed, vo is the observer's speed (0 if stationary), and vs is the source speed.\n\nFor our train, vo is 0, vs is 30 m/s, and v is 340 m/s. If the original frequency is 500 Hz, then f' = 500 (340 + 0) / (340 - 30) = 500 * 340 / 310 ≈ 548 Hz. So, the frequency increases.\n\nGraphically, the Doppler Effect can be shown with wavefronts. When the source moves, the wavefronts bunch up in front and spread out behind.\n\nKey points to remember: The Doppler Effect changes frequency, not loudness. It is seen in both sound and light. It has practical uses like radar.\n\nIn summary, the Doppler Effect is a change in wave frequency due to motion. It is crucial in many fields and important for NEET exams. Practice solving problems and remember the key formula.\n\nThank you for listening! Keep practicing and good luck with your studies.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Doppler Effect",
+    "Frequency",
+    "Sound Waves",
+    "Light Waves",
+    "Radar"
+  ],
+  "formulas": [
+    {
+      "formula": "f' = f (v + vo) / (v + vs)",
+      "description": "This formula calculates the observed frequency (f') when the source or observer is moving. v is the speed of sound, vo is the observer's speed, and vs is the source's speed."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Doppler Effect",
+      "definition": "A change in wave frequency when the source or observer is moving."
+    },
+    {
+      "term": "Frequency",
+      "definition": "The number of waves that pass a point in one second."
+    },
+    {
+      "term": "Pitch",
+      "definition": "How high or low a sound is perceived."
+    },
+    {
+      "term": "Blue Shift",
+      "definition": "Light waves shift to blue when a star moves towards us."
+    },
+    {
+      "term": "Red Shift",
+      "definition": "Light waves shift to red when a star moves away from us."
+    }
+  ]
+}

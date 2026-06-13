@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Chemical Kinetics",
+    "chapter_number": 10,
+    "topic": "Half-life of Reactions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:10:48.196468",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the half-life of chemical reactions. This is an important topic in Chemical Kinetics. Let's start by understanding what half-life means. \n\n**Definition and Significance of Half-life**\nHalf-life is the time taken for half of the reactant to be used up in a reaction. It helps us know how fast a reaction is. For example, if a reaction has a half-life of 10 minutes, it means every 10 minutes, half of the reactant is gone. \n\n**Half-life for Different Order Reactions**\n1. **Zero Order Reactions**: The half-life (t1/2) formula is t1/2 = [A]0 / 2k. Here, [A]0 is the initial concentration and k is the rate constant. In zero order, half-life depends on the initial concentration. \n2. **First Order Reactions**: The half-life formula is t1/2 = 0.693 / k. In first order, half-life does not depend on concentration. It is constant. \n3. **Second Order Reactions**: The half-life formula is t1/2 = 1 / (k[A]0). Here, half-life depends on the initial concentration. \n\n**Relation Between Half-life and Rate Constant**\nThe rate constant (k) tells us how fast the reaction happens. For first order reactions, as k increases, half-life decreases. This means the reaction is faster. \n\n**Graphical Representation of Half-life**\nGraphs can show how concentration changes over time. In a first order reaction, the graph of ln[A] vs. time is a straight line. The slope of this line helps us find the rate constant. \n\n**Applications of Half-life in Kinetics**\nHalf-life helps in many fields. For example, in medicine, it tells how long a drug stays in the body. In industry, it helps in designing reactors. \n\n**Effect of Temperature on Half-life**\nTemperature affects the rate constant. As temperature increases, rate constant increases, and half-life decreases. This is because reactions happen faster at higher temperatures. \n\n**Half-life in Radioactive Decay**\nRadioactive decay is a first order reaction. The half-life tells us how long it takes for half of the radioactive material to decay. \n\n**Experimental Determination of Half-life**\nTo find half-life experimentally, measure concentration at different times. Use the appropriate formula based on the order of reaction. \n\n**Common Mistakes and Exam Traps**\n- Remember to use the correct formula for the order of reaction. \n- Do not confuse zero order with first order formulas. \n- Check units of rate constant. They change with the order of reaction. \n\n**Key Takeaways for Quick Revision**\n- Know the formulas for zero, first, and second order reactions. \n- Understand how temperature affects half-life. \n- Practice problems to avoid common mistakes. \n\n**Summary**\nHalf-life is crucial in understanding reaction rates. It varies with the order of reaction and temperature. Practice using the formulas and graphs to solve problems. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Half-life",
+    "Rate Constant",
+    "Reaction Order",
+    "Temperature",
+    "Radioactive Decay"
+  ],
+  "formulas": [
+    {
+      "formula": "t1/2 = [A]0 / 2k",
+      "description": "Used for zero order reactions to calculate half-life"
+    },
+    {
+      "formula": "t1/2 = 0.693 / k",
+      "description": "Used for first order reactions to calculate half-life"
+    },
+    {
+      "formula": "t1/2 = 1 / (k[A]0)",
+      "description": "Used for second order reactions to calculate half-life"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Half-life",
+      "definition": "The time taken for half of the reactant to be used up in a reaction"
+    },
+    {
+      "term": "Rate Constant",
+      "definition": "A number that tells us how fast a reaction happens"
+    }
+  ]
+}

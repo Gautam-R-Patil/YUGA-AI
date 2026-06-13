@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Matrices and Determinants",
+    "chapter_number": 13,
+    "topic": "Operations on Matrices",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:56:20.547357",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about operations on matrices. This topic is important for JEE Main. Let's start by understanding what a matrix is. A matrix is a rectangular array of numbers. These numbers are called elements. Matrices are used to solve many problems in mathematics. \n\nFirst, let's talk about addition and subtraction of matrices. We can add or subtract matrices only if they have the same size. This means the number of rows and columns must be the same. To add matrices, we add their corresponding elements. For example, if we have two matrices A and B, then A + B = C, where each element c_ij = a_ij + b_ij. The same rule applies for subtraction.\n\nNow, let's quickly check. If A is a 2x2 matrix and B is a 2x2 matrix, can we add them? Yes, because they have the same size.\n\nNext, we have scalar multiplication. This is when we multiply a matrix by a single number, called a scalar. To do this, multiply every element of the matrix by the scalar. For example, if k is a scalar and A is a matrix, then kA is the matrix where each element is k times the corresponding element of A.\n\nLet's move on to matrix multiplication. This is a bit different. We can multiply two matrices only if the number of columns in the first matrix is the same as the number of rows in the second matrix. The result is a new matrix. To find each element of this new matrix, we take the dot product of the rows of the first matrix and the columns of the second matrix.\n\nRemember, matrix multiplication is not commutative. This means A x B is not the same as B x A. Always check the order of matrices in multiplication.\n\nLet's talk about some properties of matrix operations. Matrix addition is commutative and associative. This means A + B = B + A and (A + B) + C = A + (B + C). For multiplication, we have the associative law: (A x B) x C = A x (B x C). We also have the distributive law: A x (B + C) = A x B + A x C.\n\nA common mistake in JEE Main is mixing up these properties. Always remember the correct order and rules.\n\nNow, let's discuss finding powers of matrices. If A is a square matrix, we can find A^2, A^3, and so on. To find A^2, multiply A by itself. For A^3, multiply A^2 by A.\n\nIn summary, remember these key points: \n- Add or subtract matrices of the same size. \n- Use scalar multiplication to multiply a matrix by a number. \n- Multiply matrices by checking the size compatibility. \n- Matrix multiplication is not commutative. \n- Use associative and distributive laws correctly.\n\nThat's all for today! Practice these operations well. They are very useful in solving JEE Main problems. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Matrix",
+    "Scalar",
+    "Multiplication",
+    "Addition",
+    "Properties"
+  ],
+  "formulas": [
+    {
+      "formula": "C = A + B",
+      "description": "Used when adding two matrices of the same size."
+    },
+    {
+      "formula": "kA",
+      "description": "Used for scalar multiplication, where k is a scalar and A is a matrix."
+    },
+    {
+      "formula": "C = A x B",
+      "description": "Used for matrix multiplication when the number of columns in A equals the number of rows in B."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Matrix",
+      "definition": "A matrix is a rectangular array of numbers arranged in rows and columns."
+    },
+    {
+      "term": "Scalar",
+      "definition": "A scalar is a single number used to multiply a matrix."
+    },
+    {
+      "term": "Dot Product",
+      "definition": "The sum of the products of corresponding elements of two sequences of numbers."
+    }
+  ]
+}

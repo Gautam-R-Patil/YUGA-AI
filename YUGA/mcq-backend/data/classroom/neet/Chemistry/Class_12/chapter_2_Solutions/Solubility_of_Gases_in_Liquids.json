@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_12",
+    "chapter": "Solutions",
+    "chapter_number": 2,
+    "topic": "Solubility of Gases in Liquids",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:15:22.954627",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the solubility of gases in liquids. This topic is important for your NEET exam. Let's start with Henry's Law. Henry's Law tells us how much gas can dissolve in a liquid. It depends on the pressure of the gas above the liquid. The law states: 'At constant temperature, the amount of gas dissolved in a liquid is directly proportional to the pressure of the gas above the liquid.' This means if you increase the pressure, more gas will dissolve. \n\nThe formula for Henry's Law is: C = kP. Here, C is the concentration of the gas in the liquid. k is the Henry's Law constant, and P is the partial pressure of the gas. Partial pressure means the pressure of just one gas in a mixture. \n\nNow, let's talk about the factors affecting solubility. The first factor is temperature. If you increase the temperature, the solubility of a gas usually decreases. This is because gas particles move faster and escape from the liquid. The second factor is pressure. As we said before, increasing pressure increases solubility. \n\nLet's see some applications of Henry's Law. First, think about carbonated beverages like soda. These drinks are fizzy because carbon dioxide (CO2) is dissolved in them under high pressure. When you open the bottle, the pressure decreases, and CO2 escapes, making bubbles. Another example is scuba diving. Divers breathe compressed air. As they go deeper, the pressure increases, and more nitrogen dissolves in their blood. If they come up too fast, nitrogen can form bubbles, causing a dangerous condition called 'the bends'. \n\nA key concept here is the solubility coefficient. It tells us how easily a gas dissolves in a liquid. Different gases have different solubility coefficients. For example, CO2 is more soluble in water than oxygen. \n\nRemember these key points: Henry's Law relates gas solubility to pressure. Temperature and pressure affect how much gas dissolves. Carbonated drinks and scuba diving are real-world examples. \n\nA common mistake is thinking that increasing temperature always increases solubility. This is true for solids, but not for gases. \n\nIn summary, understanding how gases dissolve in liquids is important. It helps us in everyday life and in exams like NEET. Keep practicing, and you will do great!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Henry's Law",
+    "Solubility",
+    "Partial Pressure",
+    "Temperature",
+    "Carbonated Beverages"
+  ],
+  "formulas": [
+    {
+      "formula": "C = kP",
+      "description": "C is the concentration of gas, k is Henry's Law constant, P is partial pressure"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Henry's Law",
+      "definition": "The law that states the amount of gas dissolved in a liquid is proportional to the pressure of the gas above it."
+    },
+    {
+      "term": "Partial Pressure",
+      "definition": "The pressure of a single gas in a mixture of gases."
+    },
+    {
+      "term": "Solubility Coefficient",
+      "definition": "A measure of how easily a gas dissolves in a liquid."
+    }
+  ]
+}

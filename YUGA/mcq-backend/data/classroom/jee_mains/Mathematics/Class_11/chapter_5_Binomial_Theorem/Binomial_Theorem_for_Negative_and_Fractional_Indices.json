@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Binomial Theorem",
+    "chapter_number": 5,
+    "topic": "Binomial Theorem for Negative and Fractional Indices",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:48:40.076860",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Binomial Theorem for negative and fractional indices. This is an important topic for the JEE Main exam. Let's start by understanding the basics.\n\nFirst, let's recall what a binomial is. A binomial is an expression with two terms, like (1 + x). The Binomial Theorem helps us expand expressions of the form (1 + x)^n. For positive integers n, we use the formula: (1 + x)^n = 1 + nx + n(n-1)x^2/2! + ... + x^n. But what if n is negative or a fraction?\n\n### Expansion for Negative Indices\n\nWhen n is negative, the series becomes infinite. We use this formula: (1 + x)^-n = 1 - nx + n(n+1)x^2/2! - n(n+1)(n+2)x^3/3! + ... This series continues forever. It is useful when |x| < 1. This means the value of x should be between -1 and 1.\n\n**Example 1:** Expand (1 + x)^-2 up to 3 terms.\n- Using the formula, we get: 1 - 2x + 3x^2.\n\n**Quick Check:** If x = 0.1, then (1 + 0.1)^-2 is approximately 1 - 0.2 + 0.03 = 0.83.\n\n### Expansion for Fractional Indices\n\nNow, let's look at fractional indices. The formula is similar: (1 + x)^n = 1 + nx + n(n-1)x^2/2! + n(n-1)(n-2)x^3/3! + ... This also continues forever. Again, it works when |x| < 1.\n\n**Example 2:** Expand (1 + x)^(1/2) up to 3 terms.\n- Using the formula, we get: 1 + (1/2)x - (1/8)x^2.\n\n**Quick Check:** If x = 0.1, then (1 + 0.1)^(1/2) is approximately 1 + 0.05 - 0.00125 = 1.04875.\n\n### Convergence of Series\n\nConvergence means the series gets closer to a certain value. For both negative and fractional indices, the series converges when |x| < 1. If x is outside this range, the series does not converge. This is important in solving problems.\n\n### Common Mistakes in JEE Main\n\n- **Mistake 1:** Forgetting that |x| must be less than 1. Always check this condition.\n- **Mistake 2:** Not expanding enough terms. Sometimes, you need more terms for accuracy.\n- **Mistake 3:** Mixing up positive and negative indices. Remember the signs change for negative indices.\n\n### Key Takeaways\n\n- Use the correct formula based on the index.\n- Check the convergence condition |x| < 1.\n- Practice expanding up to 2 or 3 terms for quick calculations.\n\n### Summary\n\nThe Binomial Theorem for negative and fractional indices helps us expand expressions like (1 + x)^n when n is not a positive integer. Remember the formulas and convergence conditions to solve JEE Main problems efficiently.\n\nThat's all for today. Practice these expansions, and you will do well in your exams!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Binomial Theorem",
+    "Negative Indices",
+    "Fractional Indices",
+    "Convergence",
+    "Series"
+  ],
+  "formulas": [
+    {
+      "formula": "(1 + x)^-n = 1 - nx + n(n+1)x^2/2! - ...",
+      "description": "Used for expanding binomials with negative indices when |x| < 1"
+    },
+    {
+      "formula": "(1 + x)^n = 1 + nx + n(n-1)x^2/2! + ...",
+      "description": "Used for expanding binomials with fractional indices when |x| < 1"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Binomial",
+      "definition": "An expression with two terms, like (1 + x)"
+    },
+    {
+      "term": "Convergence",
+      "definition": "When a series approaches a specific value as more terms are added"
+    }
+  ]
+}

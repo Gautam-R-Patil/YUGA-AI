@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations",
+    "chapter_number": 14,
+    "topic": "Resonance",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:04:27.399102",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about an interesting topic in physics called resonance. Let's start by understanding what resonance is. Resonance happens when an object vibrates at its natural frequency because of another vibrating object nearby. This makes the first object vibrate more strongly. Think of it like two swings moving together. If you push one swing at the right time, both swings move higher.\n\nNow, let's see some examples of resonance in physics. Imagine a singer breaking a glass with their voice. This happens because the singer's voice matches the glass's natural frequency. Another example is when you push someone on a swing at the right time. The swing goes higher and higher.\n\nResonance has many applications in engineering. For example, in bridges and buildings, engineers must ensure that the natural frequency does not match with other vibrations, like wind or traffic. If it does, the structure could vibrate too much and get damaged. In music, resonance is used to make instruments sound better. The body of a guitar, for example, resonates to amplify the sound.\n\nLet's solve a simple problem on resonance. Suppose a swing has a natural frequency of 0.5 Hz. If you push the swing at 0.5 Hz, then the swing will move higher. This is resonance. Remember, for resonance to occur, the frequency of the external force must match the natural frequency.\n\nNow, let's talk about the graphical representation of resonance. On a graph, resonance is shown as a peak. The x-axis is the frequency of the external force, and the y-axis is the amplitude of vibration. At resonance, the amplitude is highest. This peak is called the resonance peak.\n\nHere are some key points to remember: Resonance occurs when the frequency of an external force matches the natural frequency. It can make vibrations stronger. It is useful in many fields like engineering and music.\n\nIn conclusion, resonance is a powerful concept in physics. It helps us understand how vibrations work and how we can use them. Remember to watch out for common mistakes like confusing frequency with amplitude. Keep practicing problems, and you will master this topic.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Resonance",
+    "Natural frequency",
+    "Amplitude",
+    "Vibration",
+    "Frequency"
+  ],
+  "formulas": [
+    {
+      "formula": "f = 1/T",
+      "description": "Frequency (f) is the inverse of the period (T). It shows how often something happens in one second."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Resonance",
+      "definition": "Resonance is when an object vibrates strongly because another object nearby is vibrating at the same frequency."
+    },
+    {
+      "term": "Natural frequency",
+      "definition": "The natural frequency is the frequency at which an object naturally wants to vibrate."
+    },
+    {
+      "term": "Amplitude",
+      "definition": "Amplitude is the height of the wave or vibration. It shows how strong the vibration is."
+    }
+  ]
+}

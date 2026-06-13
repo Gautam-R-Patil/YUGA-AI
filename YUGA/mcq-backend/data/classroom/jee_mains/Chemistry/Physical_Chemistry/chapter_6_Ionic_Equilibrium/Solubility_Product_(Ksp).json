@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Ionic Equilibrium",
+    "chapter_number": 6,
+    "topic": "Solubility Product (Ksp)",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:07:49.545027",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about the Solubility Product, or Ksp. This is an important topic in Ionic Equilibrium. It helps us understand how salts dissolve in water. Let's start with the definition. Solubility Product, Ksp, is the product of the concentrations of the ions of a salt, each raised to the power of its coefficient in the balanced equation. It applies to sparingly soluble salts. These salts do not dissolve completely in water.\n\nNow, let's see how to express Ksp. For a salt like AB, which dissolves as A^+ and B^-, the Ksp is [A^+][B^-]. Here, [A^+] is the concentration of ion A^+, and [B^-] is the concentration of ion B^-. If the salt is A2B3, it dissolves to give 2A^3+ and 3B^2-. The Ksp will be [A^3+]^2[B^2-]^3.\n\nNext, we discuss factors affecting solubility. Temperature is a key factor. Generally, solubility increases with temperature. But there are exceptions. Pressure affects gases more than solids. The presence of other ions can change solubility too.\n\nLet's learn how to calculate solubility from Ksp. Suppose Ksp of AB is 4 x 10^-10. AB dissolves to give A^+ and B^-. Let solubility be s. So, [A^+] = s and [B^-] = s. Ksp = s x s = s^2. Solving s^2 = 4 x 10^-10, we get s = 2 x 10^-5 M. This is the solubility of AB.\n\nNow, the common ion effect. It reduces solubility. If you add a common ion, like A^+ from another source, the solubility of AB decreases. This is because the product [A^+][B^-] must equal Ksp. More A^+ means less B^- can form.\n\nKsp is useful in qualitative analysis. It helps us predict precipitation. If the ion product is greater than Ksp, a precipitate forms. For example, if [A^+][B^-] > Ksp, AB will precipitate.\n\nGraphical representation of solubility can be simple. A graph of solubility vs temperature shows how solubility changes. It usually slopes upwards, showing increased solubility with temperature.\n\nLet's look at examples of sparingly soluble salts. Calcium sulfate (CaSO4), silver chloride (AgCl), and lead sulfate (PbSO4) are common examples. These salts have low solubility in water.\n\nCommon JEE Main mistake: Students often forget to square the concentration in Ksp calculations. Always check the balanced equation.\n\nKey takeaways: Ksp is the product of ion concentrations. Solubility can be calculated from Ksp. The common ion effect decreases solubility. Ksp helps predict precipitation.\n\nIn summary, understanding Ksp is crucial for solving problems in ionic equilibrium. Practice calculating solubility and predicting precipitation for JEE Main success.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Solubility Product",
+    "Ksp",
+    "Common Ion Effect",
+    "Precipitation",
+    "Sparingly Soluble Salts"
+  ],
+  "formulas": [
+    {
+      "formula": "Ksp = [A^+]^m[B^-]^n",
+      "description": "Used to calculate the solubility product for a salt AB that dissociates into m A^+ ions and n B^- ions"
+    },
+    {
+      "formula": "s = √Ksp",
+      "description": "Used to find solubility when Ksp is given and the salt dissociates into equal ions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Solubility Product (Ksp)",
+      "definition": "The product of the concentrations of ions of a sparingly soluble salt, each raised to the power of its coefficient in the balanced equation"
+    },
+    {
+      "term": "Common Ion Effect",
+      "definition": "The decrease in solubility of a salt when a common ion is added to the solution"
+    },
+    {
+      "term": "Precipitation",
+      "definition": "The formation of a solid in a solution when the ion product exceeds the solubility product"
+    }
+  ]
+}

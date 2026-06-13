@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "p-Block Elements (Groups 13–18)",
+    "chapter_number": 16,
+    "topic": "Group 13 Elements: Boron Family",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:17:02.452443",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Group 13 elements. These elements are also called the Boron family. Let's start with their electronic configuration. Group 13 elements have three electrons in their outer shell. This is written as ns^2 np^1. For example, Boron has the configuration 1s^2 2s^2 2p^1. Now, let's talk about oxidation states. These elements usually show +3 oxidation state. But, sometimes, they show +1 state due to the inert pair effect. This effect means the s-electrons do not take part in bonding. \n\nNext, let's look at atomic and ionic radii. As we move down the group, the size of atoms and ions increases. This happens because new electron shells are added. \n\nNow, let's talk about some important Boron compounds. First is Borax. Borax is a white powder. It is used in making glass and detergents. Next is Boric acid. It is a weak acid and used as an antiseptic. Lastly, Diborane is a gas and is used in rocket fuel. \n\nLet's discuss Aluminum. It is a light metal. It is used in making cans, foils, and airplanes. Aluminum is reactive with acids and bases. It forms AlCl3 when reacting with chlorine. AlCl3 is used in making other chemicals. \n\nBoron shows anomalous behavior. This means it behaves differently from other Group 13 elements. Boron is a non-metal, while others are metals. \n\nIn JEE Main, remember the trends and properties of these elements. Also, know the formulas for their compounds. Be careful with the inert pair effect. It can be a tricky concept in exams. \n\nLet's summarize. Group 13 elements have three outer electrons. They show +3 and sometimes +1 oxidation states. Boron behaves differently from other elements. Aluminum is important for its properties and uses. Remember these points for your JEE Main exam. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Boron",
+    "Aluminum",
+    "Oxidation states",
+    "Inert pair effect",
+    "Atomic radii"
+  ],
+  "formulas": [
+    {
+      "formula": "ns^2 np^1",
+      "description": "Electronic configuration of Group 13 elements, important for understanding their chemical behavior"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Inert pair effect",
+      "definition": "The tendency of s-electrons to remain non-bonding in heavier elements"
+    },
+    {
+      "term": "Oxidation state",
+      "definition": "The charge of an atom if all bonds were ionic"
+    },
+    {
+      "term": "Anomalous behavior",
+      "definition": "Behavior that is different from what is expected based on trends"
+    }
+  ]
+}

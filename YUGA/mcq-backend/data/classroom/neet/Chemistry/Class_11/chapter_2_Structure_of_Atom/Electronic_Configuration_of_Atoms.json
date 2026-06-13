@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Structure of Atom",
+    "chapter_number": 2,
+    "topic": "Electronic Configuration of Atoms",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:12:18.290308",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the electronic configuration of atoms. This is a very important topic for NEET. Let's start by understanding what electronic configuration means. Electronic configuration shows how electrons are arranged in an atom. Electrons are tiny particles that orbit the nucleus of an atom. Now, let's talk about three important rules: the Aufbau principle, Pauli exclusion principle, and Hund's rule. \n\nThe Aufbau principle tells us how electrons fill orbitals. Orbitals are regions around the nucleus where electrons are likely to be found. Electrons fill orbitals starting from the lowest energy level. For example, the 1s orbital fills before the 2s orbital. \n\nNext, we have the Pauli exclusion principle. This principle says that no two electrons in an atom can have the same set of four quantum numbers. In simple words, each orbital can hold a maximum of two electrons, and they must have opposite spins. \n\nHund's rule is about filling orbitals of the same energy level. It states that electrons will fill each orbital singly before pairing up. Imagine you have three seats and three people. Each person will sit in a separate seat before anyone shares a seat. \n\nLet's look at orbital diagrams and notation. Orbital diagrams use arrows to show electron spins. For example, for helium, you draw two arrows in the 1s orbital, one up and one down. Notation is a shorthand way to write electronic configurations. For helium, it is written as 1s^2. \n\nNow, let's discuss exceptions in electronic configuration. Some elements do not follow the usual order. For example, chromium and copper have unique configurations. Chromium's configuration is [Ar] 3d^5 4s^1, not [Ar] 3d^4 4s^2. Copper's is [Ar] 3d^10 4s^1, not [Ar] 3d^9 4s^2. These exceptions occur to make atoms more stable. \n\nLet's practice with examples. The electronic configuration for oxygen (atomic number 8) is 1s^2 2s^2 2p^4. For calcium (atomic number 20), it is 1s^2 2s^2 2p^6 3s^2 3p^6 4s^2. \n\nRemember these key points: Electrons fill from lower to higher energy levels. Orbitals can hold a maximum of two electrons with opposite spins. Electrons fill each orbital singly before pairing up. \n\nIn summary, understanding the electronic configuration helps us know how electrons are arranged in atoms. This is important for understanding chemical reactions. Keep practicing with different elements. This will help you in the NEET exam. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Electronic Configuration",
+    "Aufbau Principle",
+    "Pauli Exclusion Principle",
+    "Hund's Rule",
+    "Orbital Diagrams"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Electronic Configuration",
+      "definition": "The arrangement of electrons in an atom's orbitals."
+    },
+    {
+      "term": "Aufbau Principle",
+      "definition": "Electrons fill orbitals starting from the lowest energy level."
+    },
+    {
+      "term": "Pauli Exclusion Principle",
+      "definition": "No two electrons in an atom can have the same set of four quantum numbers."
+    },
+    {
+      "term": "Hund's Rule",
+      "definition": "Electrons fill each orbital singly before pairing up."
+    },
+    {
+      "term": "Orbital",
+      "definition": "A region around the nucleus where an electron is likely to be found."
+    }
+  ]
+}

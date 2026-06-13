@@ -1,0 +1,327 @@
+[
+    {
+        "id": 60,
+        "question_number": "140",
+        "text": "Identify the wrong statement among the following.",
+        "subject": "Chemistry",
+        "sub_topic": "Periodic Table",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Amongst isoelectronic species, smaller the positive charge on the cation, smaller is the ionic radius",
+            "Amongst isoelectronic species, greater the negative charge on the anion, larger is ionic radius",
+            "Atomic radius of the elements increases as one move down the first group of the Periodic Table",
+            "Atomic radius of the elements decreases as one move across from left to right in the 2nd period of the Periodic Table"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5620,
+        "correct_answer": "Amongst isoelectronic species, smaller the positive charge on the cation, smaller is the ionic radius",
+        "basic_answer": "Given: [Statements about periodic trends and isoelectronic species.] \n\nSolution: [In isoelectronic species (those with the same number of electrons), the radius is inversely proportional to the nuclear charge. For cations, a larger positive charge means more protons pulling the same number of electrons, leading to a smaller radius. Conversely, a smaller positive charge means a weaker pull and a LARGER radius. Thus, the first statement is incorrect.]",
+        "explanation": "### CORE CONCEPT\nPeriodic trends are governed by the balance between the number of electron shells and the Effective Nuclear Charge ($Z_{eff}$). \n1.  General Trends: Atomic radius increases down a group (due to new shells) and decreases across a period (due to increasing nuclear charge pulling the same shell closer).\n2.  Isoelectronic Species: These are ions/atoms with the same number of electrons. Since the electron count is constant, the size depends solely on the number of protons ($Z$). More protons ($Z$) = Stronger pull = Smaller radius.\n\n\n\nDETAILED ANALYSIS OF STATEMENTS\nWe evaluate each option to find the scientifically inaccurate one:\n\n1.  Statement A (Cations): \"Smaller the positive charge, smaller is the radius.\" \n    * Analysis: Consider $Mg^{2+}$ and $Na^+$. Both have 10 electrons. $Mg^{2+}$ has 12 protons, while $Na^+$ has 11. Because $Na^+$ has a smaller positive charge (fewer protons), it has a weaker pull on the electrons, making it larger than $Mg^{2+}$. \n    * Verdict: This statement is False.\n\n2.  Statement B (Anions): \"Greater the negative charge, larger is the radius.\"\n    * Analysis: Consider $O^{2-}$ and $F^-$. Both have 10 electrons. $O^{2-}$ has 8 protons, and $F^-$ has 9. The $O^{2-}$ ion has a greater negative charge and fewer protons to pull the electrons, plus increased electron-electron repulsion. This makes $O^{2-}$ larger.\n    * Verdict: This statement is True.\n\n3.  Statement C (Groups): \"Radius increases down the first group.\"\n    * Analysis: As we move from $Li$ to $Cs$, new principal energy levels (shells) are added. This significantly increases the distance between the nucleus and valence electrons.\n    * Verdict: This statement is True.\n\n4.  Statement D (Periods): \"Radius decreases across the 2nd period.\"\n    * Analysis: From $Li$ to $F$, protons are added to the nucleus while electrons are added to the same shell. The increased nuclear charge pulls the electron cloud tighter.\n    * Verdict: This statement is True.\n\n\n\n### WHY THIS ANSWER IS CORRECT\nStatement A is the only one that contradicts the established rules of electrostatics in atoms. For an isoelectronic series, the radius follows the order: Anion with high charge > Anion with low charge > Cation with low charge > Cation with high charge. Therefore, a smaller positive charge results in a larger radius, not a smaller one. This matches Option A.\n\n### COMMON MISTAKES\n* Confusing Protons and Electrons: Always count the protons when dealing with isoelectronic species. The electrons are a distraction because they are the same for everyone in the group.\n* Mixing up 'Smaller' and 'Larger': It's easy to misread the comparative terms. In your head, always use a real-world example like $Na^+$ vs $Mg^{2+}$ to verify the logic.\n* Ignoring Shells: Don't apply isoelectronic rules to elements in different periods that are not isoelectronic. Shell number always trumps nuclear charge for size.",
+        "keywords": {
+            "Z": "atomic number",
+            "e": "electrons",
+            "N": "Nucleus charge",
+            "radius": "ionic radius"
+        }
+    },
+    {
+        "id": 61,
+        "question_number": "111",
+        "text": "The van’t Hoff factor, i, for a compound that undergoes dissociation and association in a solvent, is respectively",
+        "subject": "Chemistry",
+        "sub_topic": "Colligative Properties",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "less than one and less than one",
+            "greater than one and less than one",
+            "greater than one and greater than one",
+            "less than one and greater than one"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 5745,
+        "correct_answer": "greater than one and less than one",
+        "basic_answer": "Given: [Processes: Dissociation and Association of a solute in a solvent.]\n\nSolution: [The van't Hoff factor ($i$) is the ratio of the actual number of particles in solution to the number of formula units dissolved. 1. During dissociation (e.g., $NaCl \\rightarrow Na^+ + Cl^-$), one unit breaks into multiple particles, so the total particle count increases, making $i > 1$. 2. During association (e.g., dimerization of acetic acid in benzene), multiple units join to form a single particle, so the total particle count decreases, making $i < 1$. Thus, the values are respectively greater than one and less than one.]",
+        "explanation": "### CORE CONCEPT\nThe van’t Hoff factor ($i$) is a measure of the effect of a solute on colligative properties (like osmotic pressure or freezing point depression). It accounts for the fact that some solutes do not remain as single units when dissolved. It is mathematically defined as:\n$$i = \\frac{\\text{Observed colligative property}}{\\text{Calculated (theoretical) colligative property}} = \\frac{\\text{Total number of particles after association/dissociation}}{\\text{Number of formula units initially dissolved}}$$\nSince colligative properties depend solely on the number of solute particles, any change in the particle count via chemical processes directly shifts the value of $i$ away from unity (1.0).\n\n\n\nDETAILED ANALYSIS\nWe examine the two scenarios mentioned in the question:\n\n1.  Dissociation: \n    * Mechanism: An electrolyte breaks apart into ions. For example, when $MgCl_2$ dissolves, one formula unit produces three ions ($Mg^{2+} + 2Cl^-$).\n    * Effect: The number of particles in the solution is more than what was originally added. \n    * Value of $i$: Since the numerator (actual particles) is larger than the denominator (initial units), $i$ is greater than 1 ($i > 1$).\n\n2.  Association: \n    * Mechanism: Solute molecules cluster together to form a larger aggregate, such as a dimer or trimer. A classic example is acetic acid in benzene, where two molecules form one dimer via hydrogen bonding.\n    * Effect: The number of particles in the solution is less than what was originally added.\n    * Value of $i$: Since the actual particle count has decreased, the numerator is smaller than the denominator, making $i$ less than 1 ($i < 1$).\n\n\n\n### WHY THIS ANSWER IS CORRECT\nThe question asks for the behavior in dissociation and association respectively. \n* Dissociation $\\rightarrow$ Particle count increases $\\rightarrow$ $i > 1$ (Greater than one).\n* Association $\\rightarrow$ Particle count decreases $\\rightarrow$ $i < 1$ (Less than one).\nThis sequence corresponds to Option B. For a non-electrolyte that neither dissociates nor associates (like glucose), $i$ would be exactly 1.\n\n### COMMON MISTAKES\n* Sequence Confusion: Students often know the rules but mix up the order. Always double-check if the question asks for 'dissociation' or 'association' first.\n* Molecular Mass Relation: Remember that $i$ is also related to molar mass: $i = \\text{Normal Molar Mass} / \\text{Abnormal Molar Mass}$. In association, the 'observed' molar mass is higher, making $i < 1$. In dissociation, the 'observed' molar mass is lower, making $i > 1$.\n* Assuming Complete Reaction: While $i$ is usually greater than 1 for salts, the exact value depends on the degree of dissociation ($\\alpha$). However, unless the solute is a non-electrolyte, the qualitative trend ($>1$ or $<1$) remains a reliable constant.",
+        "keywords": {
+            "i": "van't Hoff factor"
+        }
+    },
+    {
+        "id": 62,
+        "question_number": "108",
+        "text": "Which one of the following statements is not true regarding (+) lactose?",
+        "subject": "Chemistry",
+        "sub_topic": "Carbohydrates",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "(+) lactose is a -glycoside and a molecule of D(+) galactose",
+            "(+) lactose is a reducing sugar and does not exhibit mutarotation",
+            "(+) lactose, contains 8-0 H groups C12H22O11",
+            "On hydrolysis (+) lactose gives equal amount of D(+) glucose and D(+) galactose"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 5746,
+        "correct_answer": "(+) lactose is a reducing sugar and does not exhibit mutarotation",
+        "basic_answer": "Given: [Statements about the properties of (+) Lactose.]\n\nSolution: [Lactose is a disaccharide that acts as a reducing sugar because it has a free hemiacetal group on the glucose unit. Any sugar with a free hemiacetal or hemiketal group in equilibrium with an open-chain form will exhibit mutarotation. Therefore, the statement that lactose is a reducing sugar but *does not* exhibit mutarotation is contradictory and false.]",
+        "explanation": "### CORE CONCEPT\nLactose, commonly known as milk sugar, is a disaccharide found in mammalian milk. To understand its chemical properties, we must look at its structure: it is composed of D-galactose and D-glucose units linked by a $\\beta$-1,4-glycosidic bond. \n\nA sugar's ability to act as a reducing sugar and its ability to undergo mutarotation (the change in specific rotation of a solution until an equilibrium between $\\alpha$ and $\\beta$ anomers is reached) are inextricably linked. Both properties require the presence of a free hemiacetal group at the anomeric carbon, which allows the cyclic ring to open into a linear aldehyde form.\n\n\n\nDETAILED ANALYSIS OF STATEMENTS\nWe evaluate each option to identify the \"not true\" (false) statement:\n\n1.  Statement A & D (Composition & Hydrolysis): Lactose is indeed a $\\beta$-glycoside. The glycosidic linkage occurs between $C_1$ of $\\beta$-D-galactose and $C_4$ of D-glucose. Hydrolysis of this bond yields equal amounts of these two monosaccharides. \n    * Verdict: These statements are True.\n\n2.  Statement C (Formula & Structure): The molecular formula for disaccharides like lactose, sucrose, and maltose is $C_{12}H_{22}O_{11}$ ($2 \\times C_6H_{12}O_6 - H_2O$). A detailed count of the hydroxyl groups in the structure reveals exactly 8 free -OH groups. \n    * Verdict: This statement is True.\n\n3.  Statement B (Reducing Nature & Mutarotation): \n    * In lactose, the anomeric carbon ($C_1$) of the galactose unit is tied up in the glycosidic bond. However, the anomeric carbon ($C_1$) of the glucose unit is free. \n    * Because this $C_1$ is a hemiacetal, it can open to an aldehyde form. This makes lactose a reducing sugar (it reduces Tollen's and Fehling's reagents).\n    * Because it can open and close the ring at the glucose unit, it exists in $\\alpha$ and $\\beta$ forms that equilibrate in solution. This process is mutarotation.\n    * Verdict: The claim that it \"does not exhibit mutarotation\" is False.\n\n\n\n### WHY THIS ANSWER IS CORRECT\nIn carbohydrate chemistry, a reducing sugar always exhibits mutarotation because the same structural feature (the free anomeric hemiacetal) is responsible for both behaviors. Since lactose is a well-known reducing sugar, it must undergo mutarotation. Option B presents a scientific contradiction, making it the wrong statement. \n\n### COMMON MISTAKES\n* Confusing Lactose with Sucrose: Sucrose is a non-reducing sugar because both anomeric carbons are involved in the glycosidic bond. Sucrose does not undergo mutarotation. Students often mix up these two common disaccharides.\n* Linkage Misidentification: Forgetting which unit has the free anomeric carbon. In lactose, galactose is the 'donor' (fixed) and glucose is the 'acceptor' (has the free $C_1$).\n* Mutarotation Definition: Thinking mutarotation is just 'rotation of light.' It is specifically the *change* in rotation over time as anomers reach equilibrium.",
+        "keywords": {}
+    },
+    {
+        "id": 63,
+        "question_number": "109",
+        "text": "The d-electron configurations of Cr₂+, Mn₂+, Fe₂+, and Co₂+ are d4, d5, d6, and d7 respectively. Which one of the following will exhibit minimum paramagnetic behavior?",
+        "subject": "Chemistry",
+        "sub_topic": "Transition Elements",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "[Fe(H₂O)₆]²⁺",
+            "[Co(H₂O)₆]²⁺",
+            "[Cr(H₂O)₆]²⁺",
+            "[Mn(H₂O)₆]²⁺"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 5747,
+        "correct_answer": "[Co(H₂O)₆]²⁺",
+        "basic_answer": "Given: [d-electron configurations: Cr²⁺ (d⁴), Mn²⁺ (d⁵), Fe²⁺ (d⁶), and Co²⁺ (d⁷). Ligand: H₂O.]\n\nSolution: [Paramagnetic behavior is directly proportional to the number of unpaired electrons (n). Since H₂O is a weak-field ligand, these octahedral complexes will be high-spin. Counting unpaired electrons for each: Cr²⁺ (d⁴) has 4, Mn²⁺ (d⁵) has 5, Fe²⁺ (d⁶) has 4, and Co²⁺ (d⁷) has 3. Because Co²⁺ has the lowest number of unpaired electrons, it exhibits the minimum paramagnetic behavior.]",
+        "explanation": "### CORE CONCEPT\nParamagnetism in transition metal complexes arises from the presence of unpaired electrons. According to the Crystal Field Theory (CFT), when ligands approach a central metal ion in an octahedral geometry, the five degenerate $d$-orbitals split into two sets: the lower-energy t₂g set (3 orbitals) and the higher-energy $e_g$ set (2 orbitals). \n\nThe distribution of electrons between these sets depends on the Crystal Field Splitting Energy ($\\Delta_o$). Since $H_2O$ is a weak-field ligand (located low on the spectrochemical series), the pairing energy ($P$) is greater than $\\Delta_o$. This results in high-spin complexes, where electrons occupy all five $d$-orbitals singly (following Hund's Rule) before any pairing occurs.\n\n\n\nDETAILED ANALYSIS\nWe calculate the number of unpaired electrons ($n$) for each ion in a high-spin octahedral field:\n\n1.  [Cr(H₂O)₆]²⁺ (d⁴): \n    Electrons fill as t₂g³ e_g¹. All 4 electrons are unpaired. (n = 4)\n2.  [Mn(H₂O)₆]²⁺ (d⁵): \n    Electrons fill as t₂g³ e_g². All 5 electrons are unpaired. (n = 5)\n3.  [Fe(H₂O)₆]²⁺ (d⁶): \n    Electrons fill as t₂g⁴ e_g². One orbital in t₂g is paired, leaving 4 unpaired. (n = 4)\n4.  [Co(H₂O)₆]²⁺ (d⁷): \n    Electrons fill as t₂g⁵ e_g². Two orbitals in t₂g are paired, leaving 3 unpaired. (n = 3)\n\n\n\n### WHY THIS ANSWER IS CORRECT\nThe magnitude of paramagnetic behavior is measured by the magnetic moment ($\\mu$), calculated using the spin-only formula: \n$$\\mu = \\sqrt{n(n+2)} \\text{ BM}$$\nSince the magnetic moment is directly dependent on the number of unpaired electrons ($n$), the complex with the minimum value of $n$ will show the minimum paramagnetism. \nCo²⁺ (n = 3) → μ ≈ 3.87 BM.\nCr²⁺ and Fe²⁺ (n = 4) → μ ≈ 4.90 BM.\nMn²⁺ (n = 5) → μ ≈ 5.92 BM.\n\nThus, [Co(H₂O)₆]²⁺ (Option B) exhibits the least paramagnetic character.\n\n### COMMON MISTAKES\n* Strong-Field Assumption: If you mistakenly treated $H_2O$ as a strong-field ligand, you would get different unpaired electron counts (e.g., $d^6$ would have $n=0$ and be diamagnetic). Always check the spectrochemical series first.\n* Ionization Errors: Forgetting to remove $s$-electrons first when determining the $d$-count. (e.g., Neutral $Fe$ is $3d^6 4s^2$, so $Fe^{2+}$ is $3d^6$). Fortunately, the $d$-counts were provided in this prompt.\n* Confusing 'Minimum' with 'Zero': Students sometimes look for a diamagnetic complex (0 unpaired electrons). Since none are diamagnetic here, you must find the one with the smallest non-zero count.",
+        "keywords": {}
+    },
+    {
+        "id": 64,
+        "question_number": "114",
+        "text": "Which one of the following is employed as an antihistamine?",
+        "subject": "Chemistry",
+        "sub_topic": "Pharmaceutical Chemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Diphenylhydramine",
+            "Norethindrone",
+            "Omeprazole",
+            "Chloramphenicol"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 5748,
+        "correct_answer": "Diphenylhydramine",
+        "basic_answer": "Given: [Four pharmaceutical compounds: Diphenylhydramine, Norethindrone, Omeprazole, and Chloramphenicol.]\n\nSolution: [Antihistamines are drugs used to treat allergic symptoms by blocking histamine receptors. Diphenylhydramine (commonly known by the brand name Benadryl) is a classic H1-receptor antagonist used to treat allergies, hay fever, and the common cold. The other drugs listed serve entirely different therapeutic roles: Norethindrone is a synthetic hormone, Omeprazole treats acidity, and Chloramphenicol is an antibiotic.]",
+        "explanation": "### CORE CONCEPT\nAntihistamines are a class of drugs that inhibit the physiological effects of histamine, a chemical mediator released by mast cells during an allergic reaction. Histamine binds to specific receptors (predominantly $H_1$ receptors in the respiratory tract and skin) causing symptoms like itching, inflammation, sneezing, and watery eyes. Antihistamines act as competitive antagonists at these receptor sites, effectively blocking the \"allergic signal.\"\n\n\n\nDETAILED ANALYSIS OF THE OPTIONS\nTo solve this, we must categorize each drug by its primary therapeutic class:\n\n1.  Diphenylhydramine: This is a first-generation antihistamine. It is a potent $H_1$ antagonist used to relieve symptoms of allergy and the common cold. Because it crosses the blood-brain barrier, it also has sedative effects and is sometimes used as a sleep aid. This is the correct choice.\n    \n\n2.  Norethindrone: This is a synthetic form of progestin (a hormone). It is used primarily in oral contraceptives (birth control pills) and for treating hormonal imbalances or endometriosis.\n\n3.  Omeprazole: This belongs to the class of Proton Pump Inhibitors (PPIs). It is used to reduce the amount of acid produced in the stomach, treating conditions like gastric ulcers, GERD, and heartburn.\n\n4.  Chloramphenicol: This is a broad-spectrum antibiotic. It works by inhibiting bacterial protein synthesis. It is typically reserved for serious infections due to potential side effects.\n\n### WHY THIS ANSWER IS CORRECT\nBy identifying the specific pharmaceutical application of each molecule, we find that Diphenylhydramine (Option A) is the only compound specifically engineered to block histamine activity. Its structure allows it to bind to histamine receptors, providing relief from allergic triggers.\n\n### COMMON MISTAKES\n* Confusing Drug Classes: Students often mix up antihistamines with antibiotics or analgesics. A helpful tip is to group common suffixes (though not universal, many older antihistamines end in '-amine' or '-zine').\n* Brand vs. Generic Name: Many know Diphenylhydramine only as *Benadryl*. In chemistry exams, you are expected to know the generic IUPAC-derived names.\n* Function vs. Side Effect: Some might mistakenly associate Diphenylhydramine only with sleep (its side effect) and forget its primary chemical classification as an antihistamine.",
+        "keywords": {}
+    },
+    {
+        "id": 65,
+        "question_number": "115",
+        "text": "Which of the following elements is present as the impurity to the maximum extent in the pig Iron?",
+        "subject": "Chemistry",
+        "sub_topic": "Metallurgy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Carbon",
+            "Silicon",
+            "Phosphorus",
+            "Manganese"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 5749,
+        "correct_answer": "Carbon",
+        "basic_answer": "Given: [Intermediate product: Pig iron. Task: Identify the impurity present in the highest percentage.]\n\nSolution: [Pig iron is the product obtained from a blast furnace during the smelting of iron ore. It contains several impurities, but carbon is the most abundant, typically comprising 3% to 4% of the total weight. Other impurities like Silicon, Manganese, and Phosphorus are present in significantly smaller amounts (usually less than 2%). Therefore, Carbon is the impurity present to the maximum extent.]",
+        "explanation": "### CORE CONCEPT\nIn metallurgy, Pig Iron is the immediate product obtained after smelting iron ore (usually hematite, $Fe_2O_3$) with coke and limestone in a Blast Furnace. Because the iron is in direct contact with the carbon-rich coke at extremely high temperatures, it dissolves a significant amount of carbon and other elements from the ore and flux. These 'impurities' are actually what distinguish the different stages of iron (Pig iron vs. Cast iron vs. Wrought iron). \n\n\n\nDETAILED COMPOSITION ANALYSIS\nTo solve this, we must compare the typical weight percentages of the impurities found in pig iron:\n\n1.  Carbon ($C$): This is the dominant impurity. Pig iron typically contains 3% to 4% Carbon. This high carbon content makes pig iron very hard and brittle, meaning it cannot be hammered into shapes (it would shatter) and must be cast or further refined.\n2.  Silicon ($Si$): Usually present in ranges of 1% to 2%. It comes from the reduction of silica ($SiO_2$) in the furnace.\n3.  Manganese ($Mn$): Typically found in concentrations of 0.5% to 1.0%.\n4.  Phosphorus ($P$) and Sulfur ($S$): These are usually present in very small amounts, often 0.03% to 0.1%, as they are generally undesirable for the mechanical properties of the final steel.\n\n### WHY THIS ANSWER IS CORRECT\nAmong the choices provided, Carbon represents the largest fraction of non-iron material in the alloy. While silicon and manganese are present, their percentages are roughly half (or less) of the carbon concentration. Consequently, Carbon is the impurity present to the maximum extent. This matches Option A.\n\n\n\n### COMMON MISTAKES\n* Confusing Pig Iron with Cast Iron: While they are similar, pig iron is the raw product directly from the furnace, whereas cast iron is made by remelting pig iron with scrap. Cast iron usually has a slightly lower (but still high) carbon content (2–3%).\n* Underestimating Carbon's Solubility: Students often assume that since we want 'Iron,' the other elements must be trace amounts. In pig iron, however, carbon is a major alloying component due to its high solubility in molten iron.\n* Mixing up the 'Purest' form: Remember the hierarchy: Wrought Iron (purest, <0.5% carbon) < Steel (0.1–1.5% carbon) < Pig/Cast Iron (highest carbon).",
+        "keywords": {
+            "C": "Carbon",
+            "Si": "Silicon",
+            "P": "Phosphorus",
+            "Mn": "Manganese"
+        }
+    },
+    {
+        "id": 66,
+        "question_number": "116",
+        "text": "Of the following complex ions, which is diamagnetic in nature?",
+        "subject": "Chemistry",
+        "sub_topic": "Coordination Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 13,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "[Ni(CN)₄]²⁻",
+            "[CuCl₄]²⁻",
+            "[CoF₆]³⁻",
+            "[NiCl₄]²⁻"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 5750,
+        "correct_answer": "[Ni(CN)₄]²⁻",
+        "basic_answer": "Given: [Complex ions: [Ni(CN)₄]²⁻, [CuCl₄]²⁻, [CoF₆]³⁻, and [NiCl₄]²⁻.]\n\nSolution: [A diamagnetic complex has zero unpaired electrons. In [Ni(CN)₄]²⁻, Ni²⁺ has a d⁸ configuration. Since CN⁻ is a strong-field ligand, it causes the pairing of electrons, leading to a square planar geometry ($dsp^2$ hybridization). With all 8 electrons paired in four $d$-orbitals, the complex is diamagnetic. The other complexes involve weak-field ligands or electronic configurations that result in unpaired electrons.]",
+        "explanation": "### CORE CONCEPT\nMagnetic properties of coordination compounds are determined by the presence or absence of unpaired electrons. \n* Diamagnetic: All electrons are paired (total spin $S = 0$). These substances are weakly repelled by a magnetic field.\n* Paramagnetic: Contains one or more unpaired electrons. These substances are attracted by a magnetic field.\n\nThe number of unpaired electrons depends on the metal's oxidation state, its $d$-electron configuration, and the Crystal Field Splitting Energy ($\\Delta$) provided by the ligands. According to the Spectrochemical Series, ligands like CN⁻ provide strong fields (high splitting), while $Cl^-$ and $F^-$ provide weak fields (low splitting).\n\n\n\nDETAILED ANALYSIS OF THE OPTIONS\n\n1.  [Ni(CN)₄]²⁻: \n    * $Ni$ is in the $+2$ oxidation state (d⁸ configuration).\n    * CN⁻ is a strong-field ligand. \n    * For a d⁸ ion with a strong field, the splitting energy is high enough to favor a square planar geometry over tetrahedral. The electrons pair up in the lower four $d$-orbitals (dₓz, dᵧz, d_z², dₓᵧ), leaving the d₍x²−y²₎ orbital empty.\n    * Unpaired electrons ($n$) = 0\n\nResult: Diamagnetic.\n    2- square planar complex]\n\n2.  $[NiCl_4]^{2-}$:\n    * $Ni$ is $+2$ (d⁸).\n    * $Cl^-$ is a weak-field ligand.\n    * In a tetrahedral geometry with weak field, the electrons follow Hund's rule. Two electrons remain unpaired in the $t_2$ set.\n    * Unpaired electrons ($n$) = 2\n\nResult: Paramagnetic.\n\n3.  $[CoF_6]^{3-}$:\n    * $Co$ is $+3$ ($d^6$ configuration).\n    * $F^-$ is a weak-field ligand.\n    * This forms a high-spin octahedral complex (t₂g⁴ e_g²).\n    * Unpaired electrons ($n$) = 4\n\nResult: Paramagnetic.\n\n4.  [CuCl₄]²⁻:\n    * $Cu$ is $+2$ ($d^9$ configuration).\n    * Any $d^9$ system must have at least one unpaired electron regardless of the ligand field.\n    * Unpaired electrons ($n$) = 1\n\nResult: Paramagnetic.\n\n### WHY THIS ANSWER IS CORRECT\nAmong the given options, [Ni(CN)₄]²⁻ is the only complex where the ligand field is strong enough to force the pairing of all available $d$-electrons. The resulting square planar arrangement with zero unpaired electrons is the textbook definition of a diamagnetic coordination complex. This matches Option A.\n\n### COMMON MISTAKES\n* Ignoring Geometry: Students often assume Ni²⁺ (d⁸) is always paramagnetic with $n=2$. This is true for tetrahedral or octahedral environments, but square planar complexes (induced by strong ligands) are usually diamagnetic.\n* Spectrochemical Series Errors: Misclassifying a ligand's strength. Remember: $CN^- > en > NH_3 > H_2O > F^- > Cl^- > Br^- > I^-$.\n* Oxidation State Calculation: Incorrectly identifying the charge on the metal ion leads to the wrong $d$-count. Always check: (Metal Charge) + (Ligand Charge $\\times$ No. of Ligands) = Total Complex Charge.",
+        "keywords": {
+            "Ni": "Nickel",
+            "CN": "Cyanide",
+            "d": "d-orbital",
+            "−": "negative charge",
+            "d8": "d-orbital configuration with 8 electrons"
+        }
+    },
+    {
+        "id": 67,
+        "question_number": "117",
+        "text": "The electrode potentials for Cu₂+ (aq) + e− → Cu+ (aq) and Cu+ (aq) + e− → Cu(s) are +0.15 V and +0.50 V respectively. The value of Cu₂+/Cu will be",
+        "subject": "Chemistry",
+        "sub_topic": "Electrochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "0.325 V",
+            "0.650 V",
+            "0.150V",
+            "0.500 V"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 5751,
+        "correct_answer": "0.325 V",
+        "basic_answer": "Given: [$E^\\circ_1 (Cu^{2+} \\rightarrow Cu^+) = 0.15$ V and $E^\\circ_2 (Cu^+ \\rightarrow Cu) = 0.50$ V.] \n\nSolution: [Electrode potentials ($E^\\circ$) are intensive properties and cannot be added directly. However, Gibbs free energy ($\\Delta G^\\circ$) is an extensive property and is additive. Using $\\Delta G^\\circ = -nFE^\\circ$: \n1. For $Cu^{2+} + e^- \\rightarrow Cu^+$, $\\Delta G^\\circ_1 = -1 \\times F \\times 0.15$\n2. For $Cu^+ + e^- \\rightarrow Cu$, $\\Delta G^\\circ_2 = -1 \\times F \\times 0.50$\n3. For the overall reaction $Cu^{2+} + 2e^- \\rightarrow Cu$, $\\Delta G^\\circ_{total} = \\Delta G^\\circ_1 + \\Delta G^\\circ_2$\n$-2FE^\\circ_{total} = -F(0.15 + 0.50)$\n$E^\\circ_{total} = \\frac{0.65}{2} = 0.325$ V.]",
+        "explanation": "### CORE CONCEPT\nIn electrochemistry, it is a fundamental rule that Standard Electrode Potentials ($E^\\circ$) are not additive. They are intensive properties, meaning they do not depend on the amount of substance. To find the potential of a combined redox couple, we must convert the potentials into Standard Gibbs Free Energy ($\\Delta G^\\circ$), which is an extensive property and *is* additive. \n\nThe relationship is defined by the equation:\n$$\\Delta G^\\circ = -nFE^\\circ$$\nWhere:\n* $n$ = number of moles of electrons transferred.\n* $F$ = Faraday's constant ($96485$ C/mol).\n* $E^\\circ$ = Standard electrode potential.\n\n\n\nDETAILED SOLUTION\nWe are looking for the potential of the reaction: $Cu^{2+} (aq) + 2e^- \\rightarrow Cu(s)$. We break this down into the two given steps:\n\nStep 1: $Cu^{2+} (aq) + e^- \\rightarrow Cu^+ (aq)$ \n* $n_1 = 1$, $E^\\circ_1 = +0.15$ V\n* $\\Delta G^\\circ_1 = -n_1FE^\\circ_1 = -(1)F(0.15) = -0.15F$\n\nStep 2: $Cu^+ (aq) + e^- \\rightarrow Cu(s)$ \n* $n_2 = 1$, $E^\\circ_2 = +0.50$ V\n* $\\Delta G^\\circ_2 = -n_2FE^\\circ_2 = -(1)F(0.50) = -0.50F$\n\nOverall Reaction: $Cu^{2+} (aq) + 2e^- \\rightarrow Cu(s)$\n* $n_{net} = 2$, $E^\\circ_{net} = ?$\n* $\\Delta G^\\circ_{net} = \\Delta G^\\circ_1 + \\Delta G^\\circ_2$\n* $-2FE^\\circ_{net} = -0.15F + (-0.50F)$\n* $-2FE^\\circ_{net} = -0.65F$\n\nDividing both sides by $-2F$:\n$$E^\\circ_{net} = \\frac{-0.65F}{-2F} = +0.325 \\text{ V}$$\n\n### WHY THIS ANSWER IS CORRECT\nThe value $0.325$ V (Option A) is the mathematically derived potential based on the thermodynamic stability of the intermediate $Cu^+$ ion provided in the prompt. While the standard $Cu^{2+}/Cu$ potential found in most reference tables (like NCERT) is $+0.34$ V, this problem requires using the specific values provided for the stepwise reduction. \n\n### COMMON MISTAKES\n* Direct Addition: Adding $0.15 + 0.50 = 0.65$ V. This is the most common error. Remember: $E^\\circ$ values only add directly if you are calculating a cell potential ($E_{cell} = E_{cathode} - E_{anode}$), not when combining half-reactions into a new half-reaction.\n* Ignoring 'n': Simply averaging the voltages $\\frac{0.15 + 0.50}{2}$ only works here because $n=1$ for both sub-steps. If one step involved $2$ electrons and the other $1$, a simple average would fail. Always use the $\\Delta G^\\circ$ method ($n_1E^\\circ_1 + n_2E^\\circ_2 = n_{net}E^\\circ_{net}$) to be safe.\n* Sign Errors: Forgetting that $\\Delta G$ and $E$ have opposite signs. A spontaneous reaction has a positive $E^\\circ$ and a negative $\\Delta G^\\circ$.",
+        "keywords": {
+            "Cu₂+": "Copper(II) ion",
+            "Cu+": "Copper(I) ion",
+            "V": "Volts"
+        }
+    },
+    {
+        "id": 68,
+        "question_number": "118",
+        "text": "Actinoids exhibit more number of oxidation states than lanthanoids. It is because of",
+        "subject": "Chemistry",
+        "sub_topic": "Inorganic Chemistry - Actinoids",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 13,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "the greater metallic character of the lanthanoids than that of the corresponding actinoids",
+            "more energy difference between 5f and 6d orbitals than that between 4f and 5d orbitals",
+            "the lesser energy difference between 5f and 6d orbitals than that between 4f and 5d orbitals",
+            "more active nature of the actinoids"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 5752,
+        "correct_answer": "the lesser energy difference between 5f and 6d orbitals than that between 4f and 5d orbitals",
+        "basic_answer": "Given: [Observation: Actinoids show a wider variety of oxidation states (up to +7) compared to Lanthanoids (primarily +3).]\n\nSolution: [Oxidation states depend on how many electrons can participate in bond formation. In Lanthanoids, the energy gap between the $4f$ and $5d$ subshells is relatively large, restricting participation. In Actinoids, the $5f, 6d,$ and $7s$ orbitals are much closer in energy. This small energy gap allows more electrons from the $5f$ subshell to be utilized in chemical bonding, leading to a greater range of oxidation states.]",
+        "explanation": "### CORE CONCEPT\nThe chemistry of the $f$-block elements (Lanthanoids and Actinoids) is dominated by the filling of their respective $f$-orbitals. However, their chemical behavior, especially their oxidation states, differs significantly. While Lanthanoids predominantly show a stable $+3$ oxidation state (with occasional $+2$ or $+4$), Actinoids exhibit a much broader range, reaching up to $+7$ in elements like Neptunium and Plutonium. This flexibility is determined by the effective nuclear charge and the resulting energy gaps between valence subshells.\n\n\n\nDETAILED ANALYSIS\n\n1.  Orbital Energies in Lanthanoids ($4f$ series):\n    * In the Lanthanoids, the $4f$ orbitals are buried deep within the atom and are shielded by the $5s$ and $5p$ electrons. \n    * There is a large energy gap between the $4f$ and the $5d$ orbitals. \n    * Consequently, only the $6s$ and occasionally one $5d$ or $4f$ electron can participate in bonding. This limits most Lanthanoids to the $+3$ state.\n\n2.  Orbital Energies in Actinoids ($5f$ series):\n    * In the Actinoids, the $5f$ orbitals are not as deeply buried as the $4f$ orbitals; they extend further from the nucleus.\n    * Crucially, the energy difference between the $5f, 6d,$ and $7s$ levels is very small. \n    * Because these subshells are so close in energy, electrons from all three can participate in bond formation under different chemical environments. \n    \n\n\n### WHY THIS ANSWER IS CORRECT\nThe ability to exhibit multiple oxidation states is a direct result of the availability of electrons for bonding. Because the $5f$ and $6d$ orbitals have a lesser energy difference than the $4f$ and $5d$ orbitals, actinoid atoms can 'promote' electrons across these levels more easily. This allows for the formation of a wider variety of ions (e.g., $U^{3+}, U^{4+}, UO_2^+, UO_2^{2+}$). This matches Option C.\n\n### COMMON MISTAKES\n* Confusing 'Greater' and 'Lesser' Energy Gaps: A common error is picking Option B. Remember: *Less* energy gap = *More* orbital mixing = *More* oxidation states.\n* Attributing to Radioactivity: Students often think the complex chemistry of Actinoids is due to their radioactive nature or 'activity.' While they are radioactive, their oxidation states are a purely electronic phenomenon.\n* Metallic Character: While Actinoids are metals, metallic character (the ease of losing electrons) generally increases down a group, but it doesn't explain the specific *multiplicity* of oxidation states in the same way orbital energy gaps do.",
+        "keywords": {
+            "f": "f orbital",
+            "d": "d orbital"
+        }
+    },
+    {
+        "id": 69,
+        "question_number": "119",
+        "text": "Which one of the following statements for the order of a reaction is incorrect?",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Kinetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Order is not influenced by stoichiometric coefficient of the reactants",
+            "Order of reaction is sum of power to the concentration terms of reactants to express the rate of reaction",
+            "Order of reaction is always the whole number",
+            "Order can be determined by experiments only"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 5753,
+        "correct_answer": "Order of reaction is always the whole number",
+        "basic_answer": "Given: [Statements regarding the 'Order of Reaction' in chemical kinetics.]\n\nSolution: [The order of a reaction is an experimentally determined quantity that represents the sum of the exponents of the concentration terms in the rate law. Unlike molecularity, which is always a positive whole number, the reaction order can be zero, a whole number, or even a fraction. Therefore, the statement that it is 'always a whole number' is incorrect.]",
+        "explanation": "### CORE CONCEPT\nThe Order of a Reaction is a fundamental concept in chemical kinetics that describes how the rate of a chemical reaction depends on the concentration of its reactants. If we consider a general reaction $aA + bB \\rightarrow cC$, the rate law is expressed as:\nRate = k[A]ˣ[B]ʸ\nHere, $x$ and $y$ are the orders with respect to reactants $A$ and $B$, and the overall order of the reaction is the sum ($x + y$). \n\n\n\nDETAILED ANALYSIS OF STATEMENTS\nTo identify the incorrect statement, we must evaluate the properties of the reaction order:\n\n1.  Statement A: \"Order is not influenced by stoichiometric coefficients...\"\n    * Fact: In many (complex) reactions, the order ($x, y$) does not match the coefficients ($a, b$). The order depends on the reaction mechanism and the slowest step (Rate Determining Step). \n    * Verdict: This is generally True.\n\n2.  Statement B: \"Order of reaction is the sum of powers...\"\n    * Fact: This is the formal definition of the order of reaction as derived from the rate law equation.\n    * Verdict: This is True.\n\n3.  Statement C: \"Order of reaction is always the whole number\"\n    * Fact: This is a common misconception. While molecularity must be a whole number (you cannot have half a molecule colliding), the order is purely experimental. Many reactions have fractional orders (e.g., the decomposition of acetaldehyde has an order of 1.5) or even zero order.\n    * Verdict: This is False.\n\n4.  Statement D: \"Order can be determined by experiments only\"\n    * Fact: Unlike molecularity, which can be seen from a balanced elementary equation, the order cannot be predicted just by looking at a balanced complex equation. It requires laboratory data (like the method of initial rates).\n    * Verdict: This is True.\n\n[Image comparing Molecularity vs Order of Reaction table]\n\n### WHY THIS ANSWER IS CORRECT\nThe requirement that an order must be a whole number is only applicable to the molecularity of an elementary step. Because the \"order\" is an empirical (experimental) value, it is not constrained to integers. Therefore, saying it is *always* a whole number is a factual error. This matches Option C.\n\n### COMMON MISTAKES\n* Confusing Order with Molecularity: This is the most frequent error. Molecularity is theoretical and integer-based; Order is experimental and can be fractional/zero.\n* Assuming Stoichiometry Equals Order: Only for elementary reactions does the coefficient equal the order. For complex reactions, this is a \"Hard Fail\" assumption.\n* Misinterpreting Zero Order: A zero-order reaction means the rate is independent of the reactant concentration. This is a valid \"order\" even though it implies no power-dependency.",
+        "keywords": {}
+    }
+]

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Coordination Compounds",
+    "chapter_number": 18,
+    "topic": "Applications of Coordination Compounds",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:20:47.595762",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today we will learn about the applications of coordination compounds. These compounds are very important in chemistry and have many uses. Let's start with biological systems. \n\nFirst, we have Hemoglobin. It is a coordination compound in our blood. Hemoglobin helps carry oxygen from our lungs to other parts of the body. Without hemoglobin, our cells would not get the oxygen they need. Another important compound is Chlorophyll. It is found in plants and helps in photosynthesis. Chlorophyll absorbs light and converts it into energy. This energy helps plants make food. \n\nNow, let's talk about medicinal uses. Cisplatin is a coordination compound used in medicine. It is used in chemotherapy to treat cancer. Cisplatin works by stopping cancer cells from growing. It is very effective but can have side effects. \n\nIn industry, coordination compounds are used as catalysts. A catalyst speeds up a chemical reaction without being used up. For example, they are used in the production of plastics and in refining oil. This makes processes faster and cheaper. \n\nIn analytical chemistry, we use complexometric titrations. This method helps find the concentration of metal ions in a solution. We use a special dye that changes color when it binds with the metal ions. This change tells us how much metal is in the solution. \n\nCoordination compounds also help in the extraction of metals. They bind with metal ions and make them easier to separate from ores. This is used in mining to get metals like copper and nickel. \n\nIn photography, silver halides are used. These compounds change when exposed to light. This change creates an image on photographic film. Even though digital photography is common now, silver halides are still used in some places. \n\nColorimetric analysis is another application. It is a method to measure the concentration of a substance by its color. Coordination compounds often have bright colors, making them useful in this method. \n\nFinally, in environmental chemistry, coordination compounds help remove pollutants. They bind with harmful metals and make them less toxic. This is important for cleaning water and soil. \n\nLet's go over some common mistakes. In JEE Main, students often forget the role of catalysts. Remember, they speed up reactions but are not used up. Also, be careful with the color change in titrations. It is easy to miss the endpoint if you are not watching closely. \n\nHere are some key takeaways. Coordination compounds are used in many fields. They are important in biology, medicine, industry, and the environment. Remember the examples we discussed. \n\nTo sum up, coordination compounds have many applications. They help in biological systems, medicine, industry, and more. Knowing these uses will help you in JEE Main. Keep practicing and stay curious!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Hemoglobin",
+    "Chlorophyll",
+    "Cisplatin",
+    "Catalyst",
+    "Titration"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Coordination Compound",
+      "definition": "A compound consisting of a central metal atom bonded to surrounding molecules or ions."
+    },
+    {
+      "term": "Catalyst",
+      "definition": "A substance that speeds up a chemical reaction without being consumed."
+    },
+    {
+      "term": "Complexometric Titration",
+      "definition": "A method to determine the concentration of metal ions in a solution using a color change."
+    }
+  ]
+}

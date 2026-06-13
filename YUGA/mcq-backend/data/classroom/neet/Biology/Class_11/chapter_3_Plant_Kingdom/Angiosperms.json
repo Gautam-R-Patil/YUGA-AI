@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Plant Kingdom",
+    "chapter_number": 3,
+    "topic": "Angiosperms",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:35:03.985071",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, everyone! Today, we will learn about angiosperms. Angiosperms are flowering plants. They are very common in our world. You see them every day. Think of roses, mango trees, or even grass. These are all angiosperms. \n\nOne key feature of angiosperms is that they have flowers. Flowers help in reproduction. They make seeds. These seeds are inside fruits. This is different from other plants like gymnosperms, which have naked seeds. \n\nLet's talk about two main types of angiosperms: monocots and dicots. Monocots have one seed leaf. An example is grass. Dicots have two seed leaves. Roses are dicots. \n\nNow, how do angiosperms reproduce? It starts with flowers. Flowers have parts like stamens and pistils. The stamen makes pollen. The pistil receives pollen. This process is called pollination. After pollination, seeds form inside the fruit. \n\nAngiosperms play a big role in ecosystems. They are primary producers. This means they make food for other living things. They also support biodiversity. Many animals depend on them for food and shelter. \n\nAngiosperms are important for us too. They give us food like rice and wheat. We also get medicines and fibers from them. Cotton is a fiber from angiosperms. \n\nLet's remember some key points. Angiosperms have flowers and seeds inside fruits. They can be monocots or dicots. They are important for ecosystems and humans. \n\nA common mistake is to think all plants with seeds are angiosperms. Remember, gymnosperms have seeds too, but they are not in fruits. \n\nIn summary, angiosperms are vital to life on Earth. They provide food, medicines, and more. Understanding them helps us appreciate the plant kingdom better. \n\nThank you for listening! Keep exploring the world of plants.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Angiosperms",
+    "Monocots",
+    "Dicots",
+    "Pollination",
+    "Ecosystems"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Angiosperms",
+      "definition": "Plants that have flowers and produce seeds enclosed within a fruit."
+    },
+    {
+      "term": "Monocots",
+      "definition": "Angiosperms with one seed leaf."
+    },
+    {
+      "term": "Dicots",
+      "definition": "Angiosperms with two seed leaves."
+    },
+    {
+      "term": "Pollination",
+      "definition": "The transfer of pollen from the stamen to the pistil of a flower."
+    },
+    {
+      "term": "Primary producers",
+      "definition": "Organisms that produce food for other organisms, usually through photosynthesis."
+    }
+  ]
+}

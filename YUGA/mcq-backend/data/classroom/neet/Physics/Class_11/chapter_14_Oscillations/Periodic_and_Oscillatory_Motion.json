@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations",
+    "chapter_number": 14,
+    "topic": "Periodic and Oscillatory Motion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:03:23.135922",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about periodic and oscillatory motion. These are important topics in physics and often appear in NEET exams. Let's start with periodic motion. Periodic motion is a motion that repeats itself after a fixed time. A simple example is the ticking of a clock. Each tick happens after the same interval of time. Another example is the Earth's rotation. It rotates around its axis every 24 hours. Now, let's talk about oscillatory motion. Oscillatory motion is a type of periodic motion. It involves moving back and forth around a central point. Think of a swing in a park. It moves forward and backward repeatedly. This is oscillatory motion. A pendulum in a clock is another good example. It swings left and right around a point. These motions are important in many devices. For example, in watches and musical instruments. Now, let's look at some applications. In medicine, oscillatory motion helps in heart rate monitors. In engineering, it helps design bridges to withstand vibrations. Let's solve a simple problem. If a pendulum takes 2 seconds to swing back and forth, what is its period? The period is the time for one complete cycle. So here, the period is 2 seconds. A common mistake is confusing period with frequency. Frequency is how many cycles happen in one second. Remember, frequency and period are related. Frequency = 1/Period. Now, let's talk about graphs. We can show oscillatory motion with a graph. The graph shows time on the x-axis and position on the y-axis. It looks like a wave, going up and down. This wave is called a sine wave. If you see a straight line, it means no oscillation. Key points to remember: Periodic motion repeats after a fixed time. Oscillatory motion is a type of periodic motion. It's back and forth around a point. Frequency is the number of cycles per second. Period is the time for one cycle. In summary, periodic and oscillatory motions are all around us. They are in clocks, swings, and even in our hearts. Understanding them helps us in many fields, like medicine and engineering. Keep practicing problems and remember these key points. They will help you in your NEET exams. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Periodic Motion",
+    "Oscillatory Motion",
+    "Frequency",
+    "Period",
+    "Sine Wave"
+  ],
+  "formulas": [
+    {
+      "formula": "Frequency = 1/Period",
+      "description": "Frequency is the number of cycles per second, and Period is the time for one complete cycle."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Periodic Motion",
+      "definition": "Motion that repeats itself after a fixed time."
+    },
+    {
+      "term": "Oscillatory Motion",
+      "definition": "A type of periodic motion that involves moving back and forth around a central point."
+    },
+    {
+      "term": "Frequency",
+      "definition": "The number of cycles that occur in one second."
+    },
+    {
+      "term": "Period",
+      "definition": "The time taken for one complete cycle of motion."
+    }
+  ]
+}

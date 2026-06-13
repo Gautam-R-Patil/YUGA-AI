@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Hydrocarbons",
+    "chapter_number": "23",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:24:56.772619",
+    "model_used": "gpt-4o",
+    "category": "Organic"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: hydrocarbons, which are fundamental in organic chemistry. Hydrocarbons are compounds made of only carbon and hydrogen atoms. They're classified into three main types: alkanes, alkenes, and alkynes. \n\n1. **Alkanes (CnH2n+2):** Also known as paraffins, these are saturated hydrocarbons with single bonds between carbon atoms. They are the simplest form of hydrocarbons. Methane (CH4) is the simplest alkane.\n\n2. **Alkenes (CnH2n):** These are unsaturated hydrocarbons containing at least one carbon-carbon double bond. Ethylene (C2H4) is the simplest alkene. They are more reactive than alkanes due to the presence of the double bond.\n\n3. **Alkynes (CnH2n-2):** These are also unsaturated hydrocarbons with one or more carbon-carbon triple bonds. Acetylene (C2H2) is the simplest alkyne.\n\nKey Formula: The general formulas for alkanes, alkenes, and alkynes help in identifying and differentiating them from others.\n\nNEET Question Pattern: Questions often involve identifying structures, reactions of different hydrocarbons, and comparing their properties.\n\nQuick Revision Points:\n- Hydrocarbons are divided into alkanes, alkenes, and alkynes.\n- Alkanes are saturated; alkenes and alkynes are unsaturated.\n- Know the general formulas: Alkanes (CnH2n+2), Alkenes (CnH2n), Alkynes (CnH2n-2).\n- Reactions are centered around substitution (alkanes) and addition (alkenes and alkynes).\n\nUnderstanding hydrocarbons is crucial for solving many organic chemistry problems in NEET exams, focusing on structure, classification, and reactivity.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Hydrocarbons",
+    "Alkanes",
+    "Alkenes",
+    "Alkynes",
+    "Saturated hydrocarbons",
+    "Unsaturated hydrocarbons",
+    "Double bond",
+    "Triple bond",
+    "Substitution reaction",
+    "Addition reaction"
+  ],
+  "formulas": [
+    "CnH2n+2\\, \\text{(Alkanes)}",
+    "CnH2n\\, \\text{(Alkenes)}",
+    "CnH2n-2\\, \\text{(Alkynes)}"
+  ],
+  "definitions": [
+    {
+      "term": "Hydrocarbons",
+      "definition": "Compounds primarily made up of carbon and hydrogen atoms."
+    },
+    {
+      "term": "Alkanes",
+      "definition": "Saturated hydrocarbons containing only single bonds between carbon atoms."
+    },
+    {
+      "term": "Alkenes",
+      "definition": "Unsaturated hydrocarbons with at least one carbon-carbon double bond."
+    },
+    {
+      "term": "Alkynes",
+      "definition": "Unsaturated hydrocarbons with at least one carbon-carbon triple bond."
+    },
+    {
+      "term": "Saturated hydrocarbons",
+      "definition": "Hydrocarbons with single bonds only, not allowing any further addition of atoms."
+    },
+    {
+      "term": "Unsaturated hydrocarbons",
+      "definition": "Hydrocarbons that contain double or triple bonds, allowing addition reactions."
+    },
+    {
+      "term": "Double bond",
+      "definition": "A chemical bond where two pairs of electrons are shared between two atoms."
+    },
+    {
+      "term": "Triple bond",
+      "definition": "A chemical bond where three pairs of electrons are shared between two atoms."
+    },
+    {
+      "term": "Substitution reaction",
+      "definition": "A chemical reaction in which one atom or group of atoms is replaced by another atom or group."
+    },
+    {
+      "term": "Addition reaction",
+      "definition": "A chemical reaction where atoms are added to a double or triple bond."
+    }
+  ]
+}

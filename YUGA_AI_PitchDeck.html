@@ -1,0 +1,1198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>YUGA AI — Pitch Deck | IQOO Hackathon PS1 LEARNFLOW</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+  *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+  :root {
+    --bg-primary: #06060f;
+    --bg-card: rgba(255,255,255,0.03);
+    --bg-card-hover: rgba(255,255,255,0.06);
+    --text-primary: #f0f0f5;
+    --text-secondary: #8b8ba3;
+    --text-muted: #5a5a72;
+    --accent-1: #7c3aed;
+    --accent-2: #06b6d4;
+    --accent-3: #f59e0b;
+    --accent-4: #10b981;
+    --accent-5: #ef4444;
+    --gradient-1: linear-gradient(135deg, #7c3aed 0%, #06b6d4 100%);
+    --gradient-2: linear-gradient(135deg, #06b6d4 0%, #10b981 100%);
+    --gradient-3: linear-gradient(135deg, #f59e0b 0%, #ef4444 100%);
+    --gradient-hero: linear-gradient(160deg, #0a0a1a 0%, #12062e 40%, #0a1628 70%, #06060f 100%);
+    --border-subtle: rgba(255,255,255,0.06);
+    --glow-purple: 0 0 60px rgba(124,58,237,0.15);
+    --glow-cyan: 0 0 60px rgba(6,182,212,0.15);
+  }
+
+  html { font-size: 16px; }
+  body { font-family: 'Inter', sans-serif; background: var(--bg-primary); color: var(--text-primary); }
+
+  /* ── SLIDE SYSTEM ── */
+  .slide {
+    width: 100vw;
+    min-height: 100vh;
+    padding: 60px 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    page-break-after: always;
+    break-after: page;
+  }
+
+  .slide::before {
+    content: '';
+    position: absolute;
+    top: -200px; right: -200px;
+    width: 600px; height: 600px;
+    background: radial-gradient(circle, rgba(124,58,237,0.08) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .slide::after {
+    content: '';
+    position: absolute;
+    bottom: -200px; left: -200px;
+    width: 500px; height: 500px;
+    background: radial-gradient(circle, rgba(6,182,212,0.06) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  /* ── SLIDE FOOTER ── */
+  .slide-footer {
+    position: absolute;
+    bottom: 24px; left: 80px; right: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    letter-spacing: 0.05em;
+    border-top: 1px solid var(--border-subtle);
+    padding-top: 12px;
+  }
+
+  .slide-footer .logo-text {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 0.8rem;
+    background: var(--gradient-1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  /* ── TYPOGRAPHY ── */
+  .headline {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 800;
+    font-size: 3.2rem;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+  }
+
+  .headline-gradient {
+    background: var(--gradient-1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .subtitle {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    max-width: 700px;
+    margin-top: 16px;
+  }
+
+  .section-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--accent-2);
+    margin-bottom: 12px;
+  }
+
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    margin-bottom: 32px;
+  }
+
+  /* ── CARDS ── */
+  .card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 16px;
+    padding: 28px;
+    backdrop-filter: blur(10px);
+  }
+
+  .card-glow-purple { box-shadow: var(--glow-purple); border-color: rgba(124,58,237,0.15); }
+  .card-glow-cyan { box-shadow: var(--glow-cyan); border-color: rgba(6,182,212,0.15); }
+
+  /* ── GRID LAYOUTS ── */
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+  .grid-3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 24px; }
+  .grid-4 { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; gap: 20px; }
+  .grid-5 { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; gap: 16px; }
+
+  /* ── STAT BLOCKS ── */
+  .stat { text-align: center; }
+  .stat-number {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 800;
+    font-size: 2.8rem;
+    line-height: 1;
+    margin-bottom: 6px;
+  }
+  .stat-label {
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    line-height: 1.3;
+  }
+
+  .stat-number.purple { color: var(--accent-1); }
+  .stat-number.cyan { color: var(--accent-2); }
+  .stat-number.amber { color: var(--accent-3); }
+  .stat-number.green { color: var(--accent-4); }
+  .stat-number.red { color: var(--accent-5); }
+
+  /* ── FLOW ARROWS ── */
+  .flow-container { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .flow-step {
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 12px;
+    padding: 14px 20px;
+    font-size: 0.85rem;
+    font-weight: 500;
+    flex: 1;
+    text-align: center;
+    min-width: 140px;
+  }
+  .flow-arrow {
+    color: var(--accent-2);
+    font-size: 1.2rem;
+    font-weight: 700;
+    flex-shrink: 0;
+  }
+
+  /* ── COMPARISON TABLE ── */
+  .comparison-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 0.85rem;
+  }
+
+  .comparison-table th {
+    background: rgba(124,58,237,0.1);
+    border: 1px solid rgba(124,58,237,0.15);
+    padding: 12px 16px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 0.8rem;
+  }
+
+  .comparison-table th:first-child {
+    text-align: left;
+    border-radius: 10px 0 0 0;
+  }
+
+  .comparison-table th:last-child {
+    border-radius: 0 10px 0 0;
+    background: rgba(6,182,212,0.15);
+    border-color: rgba(6,182,212,0.2);
+    color: var(--accent-2);
+  }
+
+  .comparison-table td {
+    border: 1px solid var(--border-subtle);
+    padding: 10px 16px;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .comparison-table td:first-child {
+    text-align: left;
+    font-weight: 500;
+    color: var(--text-secondary);
+  }
+
+  .comparison-table td:last-child {
+    background: rgba(6,182,212,0.04);
+    border-color: rgba(6,182,212,0.1);
+  }
+
+  .comparison-table tr:last-child td:first-child { border-radius: 0 0 0 10px; }
+  .comparison-table tr:last-child td:last-child { border-radius: 0 0 10px 0; }
+
+  .check { color: var(--accent-4); font-weight: 700; font-size: 1.1rem; }
+  .cross { color: var(--accent-5); font-weight: 700; font-size: 1.1rem; }
+  .partial { color: var(--accent-3); font-size: 0.75rem; }
+
+  /* ── TECH TABLE ── */
+  .tech-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 0.82rem;
+  }
+
+  .tech-table th {
+    background: rgba(124,58,237,0.08);
+    border: 1px solid var(--border-subtle);
+    padding: 10px 16px;
+    text-align: left;
+    font-weight: 600;
+    color: var(--accent-2);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .tech-table td {
+    border: 1px solid var(--border-subtle);
+    padding: 10px 16px;
+  }
+
+  .tech-table td:first-child {
+    font-weight: 600;
+    color: var(--accent-1);
+    white-space: nowrap;
+    width: 160px;
+  }
+
+  .tech-table tr:nth-child(even) td {
+    background: rgba(255,255,255,0.01);
+  }
+
+  /* ── ARCHITECTURE ── */
+  .arch-layer {
+    border: 1px solid var(--border-subtle);
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 12px;
+    position: relative;
+  }
+
+  .arch-layer-title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    font-weight: 500;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .arch-layer-title .dot {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .arch-items {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .arch-item {
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 8px;
+    padding: 8px 14px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+  }
+
+  .arch-connector {
+    text-align: center;
+    color: var(--accent-2);
+    font-size: 1.2rem;
+    margin: 4px 0;
+    opacity: 0.6;
+  }
+
+  /* ── TAGS ── */
+  .tag {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 100px;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+  }
+  .tag-purple { background: rgba(124,58,237,0.15); color: #a78bfa; border: 1px solid rgba(124,58,237,0.2); }
+  .tag-cyan { background: rgba(6,182,212,0.15); color: #67e8f9; border: 1px solid rgba(6,182,212,0.2); }
+  .tag-amber { background: rgba(245,158,11,0.15); color: #fbbf24; border: 1px solid rgba(245,158,11,0.2); }
+  .tag-green { background: rgba(16,185,129,0.15); color: #6ee7b7; border: 1px solid rgba(16,185,129,0.2); }
+
+  /* ── ROADMAP ── */
+  .roadmap { display: flex; gap: 20px; }
+  .roadmap-item {
+    flex: 1;
+    position: relative;
+    padding-left: 20px;
+  }
+  .roadmap-item::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 8px;
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    border: 2px solid var(--accent-2);
+    background: var(--bg-primary);
+  }
+  .roadmap-item::after {
+    content: '';
+    position: absolute;
+    left: 4px; top: 22px; bottom: 0;
+    width: 2px;
+    background: rgba(6,182,212,0.2);
+  }
+  .roadmap-item:last-child::after { display: none; }
+  .roadmap-item .phase {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--accent-2);
+    letter-spacing: 0.1em;
+    margin-bottom: 6px;
+  }
+  .roadmap-item h4 { font-size: 0.95rem; margin-bottom: 6px; font-weight: 600; }
+  .roadmap-item p { font-size: 0.78rem; color: var(--text-secondary); line-height: 1.4; }
+
+  /* ── FEATURE LIST ── */
+  .feature-item {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 20px;
+    align-items: flex-start;
+  }
+  .feature-icon {
+    width: 44px; height: 44px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.3rem;
+    flex-shrink: 0;
+  }
+  .feature-text h4 { font-size: 0.95rem; margin-bottom: 4px; font-weight: 600; }
+  .feature-text p { font-size: 0.8rem; color: var(--text-secondary); line-height: 1.45; }
+
+  /* ── METRIC CARD ── */
+  .metric-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 14px;
+    padding: 20px;
+    text-align: center;
+  }
+  .metric-card .emoji { font-size: 1.6rem; margin-bottom: 8px; }
+  .metric-card h4 { font-size: 0.85rem; margin-bottom: 6px; font-weight: 600; }
+  .metric-card p { font-size: 0.72rem; color: var(--text-secondary); line-height: 1.4; }
+
+  /* ── PRINT STYLES ── */
+  @media print {
+    @page {
+      size: landscape;
+      margin: 0;
+    }
+
+    body { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+
+    .slide {
+      width: 100%;
+      height: 100vh;
+      min-height: 100vh;
+      padding: 40px 60px;
+      page-break-after: always;
+      break-after: page;
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
+
+    .slide:last-child {
+      page-break-after: auto;
+      break-after: auto;
+    }
+  }
+
+  /* ── SPECIAL ELEMENTS ── */
+  .divider {
+    width: 60px; height: 3px;
+    background: var(--gradient-1);
+    border-radius: 2px;
+    margin: 16px 0;
+  }
+
+  .quote {
+    font-size: 1.4rem;
+    font-style: italic;
+    color: var(--text-secondary);
+    border-left: 3px solid var(--accent-1);
+    padding-left: 20px;
+    margin: 24px 0;
+    line-height: 1.5;
+  }
+
+  .highlight-box {
+    background: linear-gradient(135deg, rgba(124,58,237,0.08) 0%, rgba(6,182,212,0.08) 100%);
+    border: 1px solid rgba(124,58,237,0.15);
+    border-radius: 12px;
+    padding: 20px 24px;
+    margin-top: 24px;
+  }
+
+  .highlight-box p {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: var(--text-primary);
+  }
+
+  .small-text { font-size: 0.75rem; color: var(--text-muted); }
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════════ SLIDE 1: TITLE ═══════════════════════════ -->
+<div class="slide" style="background: var(--gradient-hero); justify-content: center; align-items: center; text-align: center;">
+  <div style="position: relative; z-index: 1;">
+    <div class="section-label" style="margin-bottom: 20px;">IQOO HACKATHON · PS1 LEARNFLOW</div>
+    <h1 class="headline" style="font-size: 4rem; margin-bottom: 8px;">
+      <span class="headline-gradient">YUGA AI</span>
+    </h1>
+    <p style="font-size: 1.6rem; font-weight: 300; color: var(--text-secondary); margin-bottom: 32px; letter-spacing: 0.02em;">
+      The AI Teacher That <span style="color: var(--accent-2); font-weight: 600;">Talks Back</span>
+    </p>
+    <div class="divider" style="margin: 0 auto 28px;"></div>
+    <p style="font-size: 1.05rem; color: var(--text-muted); max-width: 600px; margin: 0 auto; line-height: 1.6;">
+      Turn any content into an interactive, voice-first AI teacher that explains, listens, adapts, tests, and predicts exam outcomes.
+    </p>
+    <div style="margin-top: 36px; display: flex; gap: 12px; justify-content: center;">
+      <span class="tag tag-purple">Voice-First Learning</span>
+      <span class="tag tag-cyan">Neuroadaptive AI</span>
+      <span class="tag tag-amber">NEET / JEE</span>
+      <span class="tag tag-green">Multilingual</span>
+    </div>
+  </div>
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>PS1 LEARNFLOW · Turn any content into an interactive AI teacher</span>
+    <span>01 / 10</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════ SLIDE 2: THE PROBLEM ═══════════════════════════ -->
+<div class="slide">
+  <div class="section-label">THE CRISIS</div>
+  <h2 class="section-title">Education is <span style="color: var(--accent-5);">Broken</span> at Scale</h2>
+
+  <div class="grid-4" style="margin-bottom: 32px;">
+    <div class="card card-glow-purple" style="text-align: center;">
+      <div class="stat-number red" style="font-size: 2.4rem;">280M</div>
+      <div class="stat-label">Indian students preparing for competitive exams</div>
+    </div>
+    <div class="card" style="text-align: center;">
+      <div class="stat-number amber" style="font-size: 2.4rem;">₹2-5L</div>
+      <div class="stat-label">Annual coaching cost<br>Unaffordable for 90%</div>
+    </div>
+    <div class="card" style="text-align: center;">
+      <div class="stat-number red" style="font-size: 2.4rem;">85%</div>
+      <div class="stat-label">Video lecture drop-off<br>Passive, one-way content</div>
+    </div>
+    <div class="card" style="text-align: center;">
+      <div class="stat-number purple" style="font-size: 2.4rem;">0</div>
+      <div class="stat-label">Solutions that listen, adapt,<br>test & predict at scale</div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div>
+      <h3 style="font-size: 1.1rem; margin-bottom: 12px; color: var(--accent-5);">Why existing solutions fail:</h3>
+      <div class="feature-item" style="margin-bottom: 12px;">
+        <span style="color: var(--accent-5); font-size: 1.1rem;">✕</span>
+        <div class="feature-text">
+          <p><strong>Byju's / Unacademy:</strong> Pre-recorded videos — passive, non-adaptive, can't answer doubts</p>
+        </div>
+      </div>
+      <div class="feature-item" style="margin-bottom: 12px;">
+        <span style="color: var(--accent-5); font-size: 1.1rem;">✕</span>
+        <div class="feature-text">
+          <p><strong>Khan Academy:</strong> Great content, zero personalization, no mastery tracking</p>
+        </div>
+      </div>
+      <div class="feature-item" style="margin-bottom: 12px;">
+        <span style="color: var(--accent-5); font-size: 1.1rem;">✕</span>
+        <div class="feature-text">
+          <p><strong>ChatGPT:</strong> Answers questions but doesn't teach curriculum, track progress, or speak</p>
+        </div>
+      </div>
+    </div>
+    <div class="highlight-box" style="display: flex; align-items: center;">
+      <p style="font-size: 1.15rem; line-height: 1.6;">
+        <strong style="color: var(--accent-2);">The core problem:</strong><br>
+        Content exists everywhere. <strong>Teaching doesn't scale.</strong><br><br>
+        Students don't need more content. They need a <em>teacher</em> — one that's available 24/7, speaks their language, knows their weaknesses, and adapts in real time.<br><br>
+        <span style="color: var(--accent-1); font-weight: 600;">That teacher is YUGA.</span>
+      </p>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>The Crisis · Why education doesn't scale</span>
+    <span>02 / 10</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════ SLIDE 3: WHAT IS YUGA ═══════════════════════════ -->
+<div class="slide">
+  <div class="section-label">THE SOLUTION</div>
+  <h2 class="section-title">YUGA: <span class="headline-gradient">Any Content → AI Teacher → Adaptive Learning</span></h2>
+
+  <div style="margin-bottom: 32px;">
+    <div class="flow-container">
+      <div class="flow-step" style="border-color: rgba(124,58,237,0.3);">
+        <div style="font-size: 1.3rem; margin-bottom: 4px;">📸</div>
+        <strong>Upload</strong><br>
+        <span style="font-size: 0.75rem; color: var(--text-secondary);">Photo / PDF / Text</span>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step" style="border-color: rgba(6,182,212,0.3);">
+        <div style="font-size: 1.3rem; margin-bottom: 4px;">🧠</div>
+        <strong>YUGA Teaches</strong><br>
+        <span style="font-size: 0.75rem; color: var(--text-secondary);">3D Avatar speaks the lecture</span>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step" style="border-color: rgba(245,158,11,0.3);">
+        <div style="font-size: 1.3rem; margin-bottom: 4px;">🗣️</div>
+        <strong>Student Asks</strong><br>
+        <span style="font-size: 0.75rem; color: var(--text-secondary);">Voice doubts → YUGA responds</span>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step" style="border-color: rgba(16,185,129,0.3);">
+        <div style="font-size: 1.3rem; margin-bottom: 4px;">📝</div>
+        <strong>AI Tests</strong><br>
+        <span style="font-size: 0.75rem; color: var(--text-secondary);">Personalized MCQs</span>
+      </div>
+      <div class="flow-arrow">→</div>
+      <div class="flow-step" style="border-color: rgba(124,58,237,0.3);">
+        <div style="font-size: 1.3rem; margin-bottom: 4px;">📊</div>
+        <strong>Predicts Score</strong><br>
+        <span style="font-size: 0.75rem; color: var(--text-secondary);">Exam prediction + weak areas</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div>
+      <div class="feature-item">
+        <div class="feature-icon" style="background: rgba(124,58,237,0.15);">🎙️</div>
+        <div class="feature-text">
+          <h4>Realistic Avatar & Voice</h4>
+          <p>A lip-syncing 3D avatar teaches lessons face-to-face. Students talk to YUGA and YUGA talks back — just like a real tutor. Available 24/7.</p>
+        </div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon" style="background: rgba(6,182,212,0.15);">🔄</div>
+        <div class="feature-text">
+          <h4>Neuroadaptive Loop</h4>
+          <p>SM-2 spaced repetition + mastery tracking creates a closed feedback loop that adapts difficulty, topics, and timing.</p>
+        </div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon" style="background: rgba(245,158,11,0.15);">🌐</div>
+        <div class="feature-text">
+          <h4>Multilingual by Design</h4>
+          <p>Meta NLLB translation pipeline enables teaching in Hindi, English, and regional languages from the same engine.</p>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div class="feature-item">
+        <div class="feature-icon" style="background: rgba(16,185,129,0.15);">📷</div>
+        <div class="feature-text">
+          <h4>Content-Agnostic Input</h4>
+          <p>Snap a photo of any textbook, upload a PDF, or browse structured NCERT syllabus. YUGA teaches whatever you give it.</p>
+        </div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon" style="background: rgba(239,68,68,0.15);">⚡</div>
+        <div class="feature-text">
+          <h4>AI-Generated Assessments</h4>
+          <p>Every test is freshly generated by LLMs, calibrated to individual mastery level. Never the same question bank twice.</p>
+        </div>
+      </div>
+      <div class="feature-item">
+        <div class="feature-icon" style="background: rgba(124,58,237,0.15);">🎯</div>
+        <div class="feature-text">
+          <h4>Exam Score Prediction</h4>
+          <p>Weighted predictive model tells students their estimated NEET/JEE score with confidence levels before the real exam.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>The Solution · What YUGA does</span>
+    <span>03 / 10</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════ SLIDE 4: ARCHITECTURE ═══════════════════════════ -->
+<div class="slide">
+  <div class="section-label">SYSTEM DESIGN</div>
+  <h2 class="section-title" style="margin-bottom: 24px;">5-Layer <span class="headline-gradient">Neuroadaptive Architecture</span></h2>
+
+  <div class="arch-layer" style="border-color: rgba(124,58,237,0.2); background: rgba(124,58,237,0.03);">
+    <div class="arch-layer-title">
+      <span class="dot" style="background: var(--accent-1);"></span>
+      <span style="color: var(--accent-1);">Layer 1 · Content Ingestion</span>
+    </div>
+    <div class="arch-items">
+      <div class="arch-item">📷 Google Cloud Vision OCR</div>
+      <div class="arch-item">📄 PDF / Text Upload</div>
+      <div class="arch-item">📚 NCERT Curriculum Engine</div>
+      <div class="arch-item" style="border-color: rgba(124,58,237,0.2); color: var(--accent-1);">→ RAG Pipeline (Index + Structure)</div>
+    </div>
+  </div>
+
+  <div class="arch-connector">▼</div>
+
+  <div class="arch-layer" style="border-color: rgba(6,182,212,0.2); background: rgba(6,182,212,0.03);">
+    <div class="arch-layer-title">
+      <span class="dot" style="background: var(--accent-2);"></span>
+      <span style="color: var(--accent-2);">Layer 2 · AI Reasoning Engine</span>
+    </div>
+    <div class="arch-items">
+      <div class="arch-item">🧠 LLaMA 3.3 70B (Groq) — Primary</div>
+      <div class="arch-item">💬 GPT-4o (OpenAI) — Voice/Doubt</div>
+      <div class="arch-item">📖 GPT-5.4 — Lecture Generation</div>
+      <div class="arch-item" style="border-color: rgba(6,182,212,0.2); color: var(--accent-2);">→ Personalization Context Engine</div>
+    </div>
+  </div>
+
+  <div class="arch-connector">▼</div>
+
+  <div class="arch-layer" style="border-color: rgba(245,158,11,0.2); background: rgba(245,158,11,0.03);">
+    <div class="arch-layer-title">
+      <span class="dot" style="background: var(--accent-3);"></span>
+      <span style="color: var(--accent-3);">Layer 3 · Voice Interaction</span>
+    </div>
+    <div class="arch-items">
+      <div class="arch-item">🎤 Google Cloud Speech-to-Text</div>
+      <div class="arch-item">🔊 Qwen3-TTS-12Hz-1.7B (Natural Voice)</div>
+      <div class="arch-item">🔄 Google TTS (Fallback)</div>
+      <div class="arch-item">🌐 Meta NLLB (Multilingual Translation)</div>
+    </div>
+  </div>
+
+  <div class="arch-connector">▼</div>
+
+  <div class="grid-2" style="gap: 12px;">
+    <div class="arch-layer" style="border-color: rgba(16,185,129,0.2); background: rgba(16,185,129,0.03); margin-bottom: 0;">
+      <div class="arch-layer-title">
+        <span class="dot" style="background: var(--accent-4);"></span>
+        <span style="color: var(--accent-4);">Layer 4 · Neuroadaptive Assessment</span>
+      </div>
+      <div class="arch-items">
+        <div class="arch-item">📊 SM-2 Spaced Repetition</div>
+        <div class="arch-item">🎯 Mastery Calculator</div>
+        <div class="arch-item">⚡ Adaptive Difficulty Engine</div>
+        <div class="arch-item">🤖 AI Question Generator</div>
+      </div>
+    </div>
+    <div class="arch-layer" style="border-color: rgba(239,68,68,0.2); background: rgba(239,68,68,0.03); margin-bottom: 0;">
+      <div class="arch-layer-title">
+        <span class="dot" style="background: var(--accent-5);"></span>
+        <span style="color: var(--accent-5);">Layer 5 · Predictive Analytics</span>
+      </div>
+      <div class="arch-items">
+        <div class="arch-item">📈 Weighted Score Predictor</div>
+        <div class="arch-item">🗺️ Study Path Generator</div>
+        <div class="arch-item">🔍 Weak Area Detector</div>
+        <div class="arch-item">📋 Recommendation Engine</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>System Architecture · 5-Layer Neuroadaptive Design</span>
+    <span>04 / 10</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════ SLIDE 5: TECH STACK ═══════════════════════════ -->
+<div class="slide">
+  <div class="section-label">ENGINEERING</div>
+  <h2 class="section-title">Production-Grade <span class="headline-gradient">Tech Stack</span></h2>
+
+  <div class="grid-2" style="gap: 32px;">
+    <div>
+      <table class="tech-table">
+        <thead>
+          <tr><th style="width: 160px;">Layer</th><th>Technology</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>Frontend</td><td>React 18 + TypeScript + Vite 5 + Tailwind CSS + Framer Motion</td></tr>
+          <tr><td>Backend</td><td>Node.js + Express 5 + MongoDB (Mongoose)</td></tr>
+          <tr><td>AI / LLM</td><td>LLaMA 3.3 70B (Groq), GPT-4o (OpenAI), GPT-5.4 (Lecture Gen)</td></tr>
+          <tr><td>Voice — STT</td><td>Google Cloud Speech-to-Text</td></tr>
+          <tr><td>Voice & Avatar</td><td>Qwen3-TTS + Realistic 3D Video Lip-Sync + Google TTS Fallback</td></tr>
+          <tr><td>Vision / OCR</td><td>Google Cloud Vision API</td></tr>
+          <tr><td>Translation</td><td>Meta NLLB (No Language Left Behind)</td></tr>
+          <tr><td>Algorithms</td><td>SM-2 Spaced Repetition, Custom Mastery Calculator, Adaptive Difficulty Adjuster</td></tr>
+          <tr><td>Analytics</td><td>Custom Recommendation Engine + Exam Score Predictor + Recharts</td></tr>
+          <tr><td>Security</td><td>JWT Auth, Google OAuth2, Helmet, Rate Limiting (300 req/15m)</td></tr>
+          <tr><td>Math Render</td><td>KaTeX (scientific formulas), React-Markdown, Remark-Math</td></tr>
+          <tr><td>Deployment</td><td>Azure Static Web Apps + Cloud Backend</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div>
+      <h3 style="font-size: 1rem; margin-bottom: 16px; color: var(--accent-2);">Why This Stack?</h3>
+
+      <div class="card" style="margin-bottom: 12px;">
+        <h4 style="font-size: 0.85rem; margin-bottom: 6px;">🧠 Multi-Model AI Strategy</h4>
+        <p style="font-size: 0.78rem; color: var(--text-secondary); line-height: 1.4;">Not a single-API wrapper. We use Groq (LLaMA 3.3 70B) for fast MCQ reasoning, OpenAI GPT-4o for voice-doubt resolution, and GPT-5.4 for structured lecture generation — each model optimized for its task with automatic failover.</p>
+      </div>
+
+      <div class="card" style="margin-bottom: 12px;">
+        <h4 style="font-size: 0.85rem; margin-bottom: 6px;">🔊 Realistic Avatar + Custom TTS</h4>
+        <p style="font-size: 0.78rem; color: var(--text-secondary); line-height: 1.4;">Lip-syncing 3D video avatar paired with Qwen3-TTS using custom voice instructions ("warm Indian-English tutor") — not generic robot voice. Scientific term pronunciation handled via custom keyword mapping engine.</p>
+      </div>
+
+      <div class="card" style="margin-bottom: 12px;">
+        <h4 style="font-size: 0.85rem; margin-bottom: 6px;">📊 Custom Algorithms, Not Libraries</h4>
+        <p style="font-size: 0.78rem; color: var(--text-secondary); line-height: 1.4;">Hand-built SM-2 spaced repetition, mastery calculator (weighted: accuracy × recency × difficulty), difficulty adjuster, and recommendation engine. These aren't off-the-shelf — they're purpose-built for exam prep.</p>
+      </div>
+
+      <div class="card">
+        <h4 style="font-size: 0.85rem; margin-bottom: 6px;">⚡ Performance Architecture</h4>
+        <p style="font-size: 0.78rem; color: var(--text-secondary); line-height: 1.4;">Response caching (TTL: 1hr, 100-entry LRU), retry with exponential backoff, compression middleware, 60s timeout with AbortController, and rate limiting — production-ready from day one.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>Tech Stack · Production-grade engineering</span>
+    <span>05 / 10</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════ SLIDE 6: VOICE-FIRST DEEP DIVE ═══════════════════════════ -->
+<div class="slide">
+  <div class="section-label">CORE INNOVATION</div>
+  <h2 class="section-title">Voice-First: <span class="headline-gradient">Learning That Talks Back</span></h2>
+
+  <div class="grid-2" style="gap: 32px;">
+    <div>
+      <h3 style="font-size: 1.05rem; margin-bottom: 20px;">The Complete Voice Pipeline</h3>
+      
+      <div style="margin-bottom: 16px;">
+        <div class="card" style="margin-bottom: 8px; border-left: 3px solid var(--accent-1);">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <span style="font-size: 0.75rem; color: var(--accent-1); font-weight: 700; font-family: 'JetBrains Mono', monospace;">STEP 1</span>
+            <span style="font-weight: 600; font-size: 0.9rem;">Student Speaks a Doubt</span>
+          </div>
+          <p style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 4px;">Audio → WebM → Base64 → Google Cloud STT → Text transcription in native language</p>
+        </div>
+        <div style="text-align: center; color: var(--accent-2); font-size: 0.8rem;">▼</div>
+        <div class="card" style="margin-bottom: 8px; border-left: 3px solid var(--accent-2);">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <span style="font-size: 0.75rem; color: var(--accent-2); font-weight: 700; font-family: 'JetBrains Mono', monospace;">STEP 2</span>
+            <span style="font-weight: 600; font-size: 0.9rem;">Translation (if non-English)</span>
+          </div>
+          <p style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 4px;">Meta NLLB translates Hindi/regional input → English for LLM reasoning</p>
+        </div>
+        <div style="text-align: center; color: var(--accent-2); font-size: 0.8rem;">▼</div>
+        <div class="card" style="margin-bottom: 8px; border-left: 3px solid var(--accent-3);">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <span style="font-size: 0.75rem; color: var(--accent-3); font-weight: 700; font-family: 'JetBrains Mono', monospace;">STEP 3</span>
+            <span style="font-weight: 600; font-size: 0.9rem;">AI Reasoning + Context</span>
+          </div>
+          <p style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 4px;">GPT-4o processes with conversation history + keyword context + student profile (mastery, score, weak areas)</p>
+        </div>
+        <div style="text-align: center; color: var(--accent-2); font-size: 0.8rem;">▼</div>
+        <div class="card" style="margin-bottom: 8px; border-left: 3px solid var(--accent-4);">
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <span style="font-size: 0.75rem; color: var(--accent-4); font-weight: 700; font-family: 'JetBrains Mono', monospace;">STEP 4</span>
+            <span style="font-weight: 600; font-size: 0.9rem;">Voice Synthesis & Avatar Sync</span>
+          </div>
+          <p style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 4px;">Cleaned speech text → Qwen3-TTS → Natural audio response perfectly synced with the 3D realistic video avatar</p>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <h3 style="font-size: 1.05rem; margin-bottom: 20px;">What Makes Our Voice Different</h3>
+
+      <div class="card card-glow-cyan" style="margin-bottom: 16px; padding: 20px;">
+        <h4 style="font-size: 0.9rem; margin-bottom: 10px; color: var(--accent-2);">🎯 Scientific Keyword Engine</h4>
+        <p style="font-size: 0.8rem; color: var(--text-secondary); line-height: 1.5;">
+          Every question set carries a keyword map (e.g., "K.E." → "Kinetic Energy", "H₂O" → "H two O"). 
+          Ambiguous single-letter abbreviations are auto-filtered to prevent incorrect TTS pronunciation. 
+          Multi-character abbreviations are expanded for natural speech.
+        </p>
+      </div>
+
+      <div class="card" style="margin-bottom: 16px; padding: 20px;">
+        <h4 style="font-size: 0.9rem; margin-bottom: 10px; color: var(--accent-3);">🧩 Context-Aware Responses</h4>
+        <p style="font-size: 0.8rem; color: var(--text-secondary); line-height: 1.5;">
+          YUGA doesn't just answer the question — it knows the student's mastery score, the specific question they're on, 
+          the set's keyword vocabulary, and their conversation history. Every response is contextually grounded.
+        </p>
+      </div>
+
+      <div class="card" style="padding: 20px;">
+        <h4 style="font-size: 0.9rem; margin-bottom: 10px; color: var(--accent-4);">🔒 Scope Enforcement</h4>
+        <p style="font-size: 0.8rem; color: var(--text-secondary); line-height: 1.5;">
+          Unlike ChatGPT, YUGA enforces strict academic scope. Off-topic queries get a polite redirect: 
+          <em>"I'm here to help with this specific topic. Let's stay focused on your learning!"</em>
+          — keeping students on track, not distracted.
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>Core Innovation · Voice-First Teaching Pipeline</span>
+    <span>06 / 10</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════ SLIDE 7: NOVELTY COMPARISON ═══════════════════════════ -->
+<div class="slide">
+  <div class="section-label">NOVELTY</div>
+  <h2 class="section-title">Why <span class="headline-gradient">Nothing Else Comes Close</span></h2>
+
+  <table class="comparison-table" style="margin-bottom: 28px;">
+    <thead>
+      <tr>
+        <th>Capability</th>
+        <th>ChatGPT</th>
+        <th>Byju's</th>
+        <th>Khan Academy</th>
+        <th>Duolingo</th>
+        <th style="min-width: 120px;">YUGA AI ✦</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Realistic Video Avatar Teaching</td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="check">✔</span></td>
+      </tr>
+      <tr>
+        <td>Voice Doubt Resolution (speak doubts)</td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="check">✔</span></td>
+      </tr>
+      <tr>
+        <td>Any Content → Teaching (OCR/PDF)</td>
+        <td><span class="partial">Partial</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="check">✔</span></td>
+      </tr>
+      <tr>
+        <td>Adaptive Difficulty (SM-2 Algorithm)</td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="partial">Partial</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="check">✔</span></td>
+        <td><span class="check">✔</span></td>
+      </tr>
+      <tr>
+        <td>AI-Generated Fresh Tests</td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="check">✔</span></td>
+      </tr>
+      <tr>
+        <td>Exam Score Prediction</td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="check">✔</span></td>
+      </tr>
+      <tr>
+        <td>Multilingual Voice (NLLB Pipeline)</td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="partial">Limited</span></td>
+        <td><span class="check">✔</span></td>
+      </tr>
+      <tr>
+        <td>Full Closed Loop (Teach→Test→Predict)</td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="cross">✕</span></td>
+        <td><span class="check">✔</span></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="highlight-box">
+    <p style="text-align: center; font-size: 1.1rem;">
+      <strong style="color: var(--accent-2);">The fundamental difference:</strong> Every existing platform is a <em>content delivery system</em>.<br>
+      YUGA is a <strong style="color: var(--accent-1);">teaching system</strong> — it closes the loop from content ingestion to voice teaching to adaptive testing to exam prediction. <br>
+      <span style="color: var(--text-muted); font-size: 0.85rem;">This full neuroadaptive loop exists in no other product on the market.</span>
+    </p>
+  </div>
+
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>Novelty · Competitive Differentiation</span>
+    <span>07 / 10</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════ SLIDE 8: IMPACT ═══════════════════════════ -->
+<div class="slide">
+  <div class="section-label">IMPACT</div>
+  <h2 class="section-title">Democratizing Education for <span class="headline-gradient">280 Million Students</span></h2>
+
+  <div class="grid-4" style="margin-bottom: 32px;">
+    <div class="metric-card">
+      <div class="emoji">💰</div>
+      <h4>₹0 Cost</h4>
+      <p>AI teacher that replaces ₹2-5L/year coaching — free and accessible to every student, regardless of income</p>
+    </div>
+    <div class="metric-card">
+      <div class="emoji">📱</div>
+      <h4>Phone-First</h4>
+      <p>Responsive React PWA that runs on ₹8,000 smartphones — no laptop needed, no app download required</p>
+    </div>
+    <div class="metric-card">
+      <div class="emoji">🌐</div>
+      <h4>Multilingual</h4>
+      <p>Hindi, English, and regional languages via NLLB — breaking the English-only barrier in quality education</p>
+    </div>
+    <div class="metric-card">
+      <div class="emoji">🕐</div>
+      <h4>24/7 Access</h4>
+      <p>Available at 2AM before an exam, during holidays, in rural areas — no schedule dependency, no waiting</p>
+    </div>
+  </div>
+
+  <div class="grid-2" style="gap: 32px;">
+    <div>
+      <h3 style="font-size: 1.05rem; margin-bottom: 16px;">Impact Multipliers</h3>
+      <div class="card" style="margin-bottom: 12px;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <div>
+            <h4 style="font-size: 0.9rem;">Engagement</h4>
+            <p style="font-size: 0.78rem; color: var(--text-secondary);">Voice-first interaction = 3x engagement vs text-only chatbots</p>
+          </div>
+          <div class="stat-number cyan" style="font-size: 1.8rem;">3x</div>
+        </div>
+      </div>
+      <div class="card" style="margin-bottom: 12px;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <div>
+            <h4 style="font-size: 0.9rem;">Retention</h4>
+            <p style="font-size: 0.78rem; color: var(--text-secondary);">Spaced repetition scientifically proven to improve long-term recall</p>
+          </div>
+          <div class="stat-number green" style="font-size: 1.8rem;">+90%</div>
+        </div>
+      </div>
+      <div class="card">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <div>
+            <h4 style="font-size: 0.9rem;">Exam Readiness</h4>
+            <p style="font-size: 0.78rem; color: var(--text-secondary);">Predictive scoring gives students actionable focus areas before exam day</p>
+          </div>
+          <div class="stat-number purple" style="font-size: 1.8rem;">↑</div>
+        </div>
+      </div>
+    </div>
+
+    <div>
+      <h3 style="font-size: 1.05rem; margin-bottom: 16px;">Who Benefits</h3>
+      <div class="card" style="margin-bottom: 12px; border-left: 3px solid var(--accent-4);">
+        <h4 style="font-size: 0.85rem;">🏘️ Tier 2/3 City Students</h4>
+        <p style="font-size: 0.78rem; color: var(--text-secondary);">No Kota/Delhi coaching needed. YUGA brings the teacher to them, in their language.</p>
+      </div>
+      <div class="card" style="margin-bottom: 12px; border-left: 3px solid var(--accent-3);">
+        <h4 style="font-size: 0.85rem;">📖 First-Generation Learners</h4>
+        <p style="font-size: 0.78rem; color: var(--text-secondary);">Parents can't help with NEET prep. YUGA becomes the always-available tutor they never had.</p>
+      </div>
+      <div class="card" style="border-left: 3px solid var(--accent-1);">
+        <h4 style="font-size: 0.85rem;">🔄 Repeating Students</h4>
+        <p style="font-size: 0.78rem; color: var(--text-secondary);">Students attempting NEET/JEE for the 2nd-3rd time need targeted, adaptive practice — not another full course.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>Impact · Education equity at scale</span>
+    <span>08 / 10</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════ SLIDE 9: SHORTLISTING METRICS ═══════════════════════════ -->
+<div class="slide">
+  <div class="section-label">EVALUATION ALIGNMENT</div>
+  <h2 class="section-title">How YUGA Scores on <span class="headline-gradient">Every Metric</span></h2>
+
+  <div class="grid-5" style="margin-bottom: 28px;">
+    <div class="card card-glow-purple" style="text-align: center; padding: 24px 16px;">
+      <div style="font-size: 1.8rem; margin-bottom: 8px;">💎</div>
+      <h4 style="font-size: 0.85rem; margin-bottom: 8px; color: var(--accent-1);">1. Novelty</h4>
+      <p style="font-size: 0.72rem; color: var(--text-secondary); line-height: 1.4;">
+        First voice-first neuroadaptive AI teacher. No product combines voice teaching + SM-2 spaced repetition + AI test generation + exam prediction in a single platform.
+      </p>
+    </div>
+    <div class="card" style="text-align: center; padding: 24px 16px;">
+      <div style="font-size: 1.8rem; margin-bottom: 8px;">🎯</div>
+      <h4 style="font-size: 0.85rem; margin-bottom: 8px; color: var(--accent-2);">2. PS Choice & Depth</h4>
+      <p style="font-size: 0.72rem; color: var(--text-secondary); line-height: 1.4;">
+        Directly addresses PS1: "Turn any content into an interactive AI teacher. Learning that talks back." — not a partial implementation but the full vision, realized.
+      </p>
+    </div>
+    <div class="card" style="text-align: center; padding: 24px 16px;">
+      <div style="font-size: 1.8rem; margin-bottom: 8px;">🔧</div>
+      <h4 style="font-size: 0.85rem; margin-bottom: 8px; color: var(--accent-3);">3. Idea & Solutions</h4>
+      <p style="font-size: 0.72rem; color: var(--text-secondary); line-height: 1.4;">
+        Working codebase. 5-layer architecture: OCR ingestion → RAG → voice teaching → doubt resolution → adaptive testing → predictive analytics. Built, not just ideated.
+      </p>
+    </div>
+    <div class="card" style="text-align: center; padding: 24px 16px;">
+      <div style="font-size: 1.8rem; margin-bottom: 8px;">🌍</div>
+      <h4 style="font-size: 0.85rem; margin-bottom: 8px; color: var(--accent-4);">4. Impact</h4>
+      <p style="font-size: 0.72rem; color: var(--text-secondary); line-height: 1.4;">
+        280M students, ₹0 cost, multilingual, phone-first. Solves India's largest education equity gap — quality teaching access regardless of geography or income.
+      </p>
+    </div>
+    <div class="card" style="text-align: center; padding: 24px 16px;">
+      <div style="font-size: 1.8rem; margin-bottom: 8px;">⚙️</div>
+      <h4 style="font-size: 0.85rem; margin-bottom: 8px; color: var(--accent-5);">5. Tech Stack</h4>
+      <p style="font-size: 0.72rem; color: var(--text-secondary); line-height: 1.4;">
+        Multi-model AI (LLaMA+GPT-4o+GPT-5.4+Qwen3-TTS), custom algorithms (SM-2, mastery calc), production-grade backend (Express 5, MongoDB, Helmet, rate limiting).
+      </p>
+    </div>
+  </div>
+
+  <div class="highlight-box" style="margin-top: 0;">
+    <div class="grid-2" style="gap: 24px;">
+      <div>
+        <h4 style="font-size: 0.95rem; margin-bottom: 10px;">🏆 What sets us apart from other applicants:</h4>
+        <ul style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.8; list-style: none; padding: 0;">
+          <li>✦ <strong style="color: var(--text-primary);">Working product</strong> — not a pitch deck, not a Figma mockup, but deployed code with real users</li>
+          <li>✦ <strong style="color: var(--text-primary);">Custom algorithms</strong> — SM-2 spaced repetition, mastery calculator, recommendation engine — hand-built</li>
+          <li>✦ <strong style="color: var(--text-primary);">Multi-model AI orchestration</strong> — 3 LLMs, 2 TTS engines, OCR, translation — not a single-API wrapper</li>
+          <li>✦ <strong style="color: var(--text-primary);">Voice-first architecture</strong> — the entire platform is designed around spoken interaction</li>
+        </ul>
+      </div>
+      <div>
+        <h4 style="font-size: 0.95rem; margin-bottom: 10px;">📐 Architecture Depth:</h4>
+        <ul style="font-size: 0.82rem; color: var(--text-secondary); line-height: 1.8; list-style: none; padding: 0;">
+          <li>✦ <strong style="color: var(--text-primary);">15+ backend modules</strong> — auth, courses, AI, assessment, analytics, gamification, SRS, push notifications</li>
+          <li>✦ <strong style="color: var(--text-primary);">4 custom algorithms</strong> — spaced repetition, mastery calc, difficulty adjuster, recommendation engine</li>
+          <li>✦ <strong style="color: var(--text-primary);">RAG pipeline</strong> — PDF extraction → structured indexing → searchable knowledge base</li>
+          <li>✦ <strong style="color: var(--text-primary);">Predictive scoring model</strong> — weighted multi-factor exam score prediction with confidence levels</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>Evaluation Alignment · All 5 metrics addressed</span>
+    <span>09 / 10</span>
+  </div>
+</div>
+
+<!-- ═══════════════════════════ SLIDE 10: ROADMAP & CLOSING ═══════════════════════════ -->
+<div class="slide" style="background: var(--gradient-hero);">
+  <div class="section-label">VISION</div>
+  <h2 class="section-title">The <span class="headline-gradient">Roadmap</span></h2>
+
+  <div class="roadmap" style="margin-bottom: 40px;">
+    <div class="roadmap-item">
+      <div class="phase">HACKATHON MVP</div>
+      <h4>Core Engine + AI Avatar</h4>
+      <p>Lip-syncing 3D AI video avatar, voice teaching, adaptive MCQ practice, doubt resolution, OCR intake, NEET/JEE curriculum</p>
+      <span class="tag tag-green" style="margin-top: 8px; font-size: 0.6rem;">BUILT ✔</span>
+    </div>
+    <div class="roadmap-item">
+      <div class="phase">V2 · Q3 2026</div>
+      <h4>Social Learning</h4>
+      <p>Real-time collaborative study rooms, peer doubt resolution, parent progress dashboard, gamification streaks</p>
+    </div>
+    <div class="roadmap-item">
+      <div class="phase">V3 · Q1 2027</div>
+      <h4>AR/VR Immersive Classrooms</h4>
+      <p>Full AR lab simulations for Chemistry/Biology practicals, immersive 3D anatomical models with real-time AI guidance</p>
+    </div>
+    <div class="roadmap-item">
+      <div class="phase">V4 · 2027+</div>
+      <h4>Global Expansion</h4>
+      <p>Expand beyond NEET/JEE to UPSC, CAT, Board Exams, K-12 globally. Enterprise B2B for schools and coaching centers.</p>
+    </div>
+  </div>
+
+  <div style="text-align: center; margin-top: 20px;">
+    <div class="divider" style="margin: 0 auto 24px; width: 80px;"></div>
+    <h2 class="headline" style="font-size: 2.4rem; margin-bottom: 12px;">
+      Content exists. <span class="headline-gradient">Teaching doesn't scale.</span>
+    </h2>
+    <p style="font-size: 1.15rem; color: var(--text-secondary); max-width: 640px; margin: 0 auto 28px; line-height: 1.6;">
+      YUGA AI makes teaching infinite — a realistic, voice-first, neuroadaptive AI avatar teacher for every student, in every language, at zero cost. This is not an improvement. This is a revolution.
+    </p>
+
+    <div style="display: flex; gap: 16px; justify-content: center; align-items: center; margin-top: 24px;">
+      <span style="font-family: 'Space Grotesk', sans-serif; font-weight: 800; font-size: 2rem; background: var(--gradient-1); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">YUGA AI</span>
+      <span style="color: var(--text-muted); font-size: 1rem;">|</span>
+      <span style="color: var(--text-secondary); font-size: 0.95rem;">The AI Teacher That Talks Back</span>
+    </div>
+  </div>
+
+  <div class="slide-footer">
+    <span class="logo-text">YUGA AI</span>
+    <span>PS1 LEARNFLOW · IQOO Hackathon 2026</span>
+    <span>10 / 10</span>
+  </div>
+</div>
+
+</body>
+</html>

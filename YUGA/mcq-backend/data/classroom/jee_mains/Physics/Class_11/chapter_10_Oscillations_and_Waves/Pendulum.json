@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations and Waves",
+    "chapter_number": 10,
+    "topic": "Pendulum",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:53:59.368177",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about pendulums. A pendulum is a weight hung from a fixed point. It swings back and forth. We see pendulums in clocks, playground swings, and more. Let's start with the simple pendulum.\n\nA simple pendulum has a small weight, called a bob, at the end of a string. The string is fixed at the other end. The time it takes to swing back and forth once is called the time period. The formula for the time period T is T = 2π√(L/g). Here, L is the length of the string, and g is the acceleration due to gravity, about 9.8 m/s² on Earth.\n\nThe longer the string, the longer the time period. If you increase L, T increases. If you decrease L, T decreases. Gravity also affects T. On the Moon, g is less than on Earth, so a pendulum swings slower there.\n\nNow, let's talk about how the pendulum moves. When you pull the bob to one side and let it go, it swings. This is called oscillation. The motion is regular and repeats itself. We can derive this motion using physics. But for JEE Main, remember the key points: the pendulum swings due to gravity, and its path is an arc.\n\nPendulums are great for keeping time. Old clocks used pendulums because they swing at a regular pace. The time period helps us know how long each swing takes.\n\nLet's solve a simple problem. If a pendulum has a length of 1 meter, what is its time period? Use the formula T = 2π√(L/g). Here, L = 1 meter, and g = 9.8 m/s². Plug these values into the formula. T = 2π√(1/9.8). Calculate this, and you get about 2 seconds.\n\nBe careful with units in JEE Main. Use meters for length and seconds for time. A common mistake is forgetting to square root when calculating T.\n\nNow, let's look at a physical pendulum. It is different from a simple pendulum. In a physical pendulum, the whole object swings. It is not just a point mass at the end of a string. Think of a swinging door as a physical pendulum.\n\nWe can also represent pendulum motion with graphs. The graph shows displacement over time. It looks like a wave. This helps us understand how the pendulum moves.\n\nFinally, let's talk about damping. Damping is when the pendulum slows down over time. This happens because of air resistance or friction. Energy is lost, and the swings get smaller. In JEE Main, remember that damping affects the time period and amplitude.\n\nTo sum up, pendulums are important in physics and everyday life. The time period depends on length and gravity. Use the formula T = 2π√(L/g) to solve problems. Watch out for common mistakes, like wrong units or missing steps. Pendulums help us understand motion, energy, and time.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Pendulum",
+    "Time period",
+    "Gravity",
+    "Oscillation",
+    "Damping"
+  ],
+  "formulas": [
+    {
+      "formula": "T = 2π√(L/g)",
+      "description": "Used to calculate the time period of a simple pendulum; L is length, g is gravity"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Simple Pendulum",
+      "definition": "A weight hung from a fixed point that swings back and forth"
+    },
+    {
+      "term": "Time Period",
+      "definition": "The time it takes for one complete swing of the pendulum"
+    },
+    {
+      "term": "Oscillation",
+      "definition": "The back and forth motion of the pendulum"
+    },
+    {
+      "term": "Damping",
+      "definition": "The gradual loss of amplitude in a pendulum due to energy loss"
+    }
+  ]
+}

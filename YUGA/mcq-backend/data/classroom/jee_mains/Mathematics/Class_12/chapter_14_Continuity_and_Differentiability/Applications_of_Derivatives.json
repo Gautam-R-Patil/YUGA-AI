@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Continuity and Differentiability",
+    "chapter_number": 14,
+    "topic": "Applications of Derivatives",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:57:54.242063",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about applications of derivatives. This topic is very important for JEE Main. Let's start with tangents and normals to curves. \n\nA tangent is a line that touches the curve at one point. It shows the direction of the curve at that point. The slope of the tangent is the derivative of the curve at that point. For a curve y = f(x), the slope of the tangent at x = a is f'(a). \n\nA normal is a line perpendicular to the tangent. If the slope of the tangent is m, the slope of the normal is -1/m. Remember, perpendicular lines have slopes that are negative reciprocals. \n\nNow, let's discuss increasing and decreasing functions. A function is increasing if its derivative is positive. It is decreasing if its derivative is negative. If f'(x) > 0 for all x in an interval, the function is increasing there. If f'(x) < 0, it is decreasing. \n\nNext, we have maxima and minima. These are the highest and lowest points on a curve, respectively. To find them, we use the first derivative test. If f'(x) changes from positive to negative at a point, it's a maximum. If it changes from negative to positive, it's a minimum. \n\nLet's move on to concavity and points of inflection. A curve is concave up if its second derivative is positive. It's concave down if the second derivative is negative. A point of inflection is where the curve changes concavity. \n\nNow, let's talk about Rolle's Theorem. It says if a function is continuous on [a, b], differentiable on (a, b), and f(a) = f(b), then there is at least one c in (a, b) where f'(c) = 0. This means the function has a horizontal tangent at some point. \n\nLastly, the Mean Value Theorem. It states that if a function is continuous on [a, b] and differentiable on (a, b), there is at least one c in (a, b) such that f'(c) = (f(b) - f(a)) / (b - a). This means the slope of the tangent at c is equal to the average slope over [a, b]. \n\nNow, let's see some common mistakes. Students often forget to check if the function is continuous and differentiable before applying these theorems. Also, don't forget to find the derivative correctly. \n\nTo summarize, derivatives help us find tangents, normals, increasing and decreasing functions, maxima and minima, and much more. Practice these concepts well for JEE Main. \n\nThat's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Tangent",
+    "Normal",
+    "Increasing",
+    "Decreasing",
+    "Maxima",
+    "Minima",
+    "Concavity",
+    "Inflection",
+    "Rolle's Theorem",
+    "Mean Value Theorem"
+  ],
+  "formulas": [
+    {
+      "formula": "f'(a)",
+      "description": "Slope of the tangent to the curve y = f(x) at x = a"
+    },
+    {
+      "formula": "-1/m",
+      "description": "Slope of the normal to the curve if the tangent slope is m"
+    },
+    {
+      "formula": "f'(c) = 0",
+      "description": "Condition in Rolle's Theorem for a horizontal tangent"
+    },
+    {
+      "formula": "f'(c) = (f(b) - f(a)) / (b - a)",
+      "description": "Mean Value Theorem formula for average slope"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Tangent",
+      "definition": "A line that touches a curve at one point without crossing it"
+    },
+    {
+      "term": "Normal",
+      "definition": "A line perpendicular to the tangent of a curve at a point"
+    },
+    {
+      "term": "Increasing Function",
+      "definition": "A function where the value rises as the input increases"
+    },
+    {
+      "term": "Decreasing Function",
+      "definition": "A function where the value falls as the input increases"
+    },
+    {
+      "term": "Maxima",
+      "definition": "The highest point on a curve in a given interval"
+    },
+    {
+      "term": "Minima",
+      "definition": "The lowest point on a curve in a given interval"
+    },
+    {
+      "term": "Concavity",
+      "definition": "The direction in which a curve bends"
+    },
+    {
+      "term": "Point of Inflection",
+      "definition": "A point where a curve changes concavity"
+    }
+  ]
+}

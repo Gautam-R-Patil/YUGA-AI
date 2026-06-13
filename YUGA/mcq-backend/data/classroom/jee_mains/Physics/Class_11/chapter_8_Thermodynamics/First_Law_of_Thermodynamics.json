@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermodynamics",
+    "chapter_number": 8,
+    "topic": "First Law of Thermodynamics",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:52:09.077677",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the First Law of Thermodynamics. This is a key topic in thermodynamics and is important for JEE Main. Let's start with the definition. The First Law of Thermodynamics states that energy cannot be created or destroyed. It can only change from one form to another. \n\nNow, let's understand what internal energy is. Internal energy is the total energy inside a system. It includes all the energy due to the motion of particles and the forces between them. When we add heat to a system, the internal energy increases. If we remove heat, the internal energy decreases. \n\nNext, let's talk about work done by or on the system. When a system expands, it does work on the surroundings. When it is compressed, work is done on the system. The formula for work done is W = P∆V, where P is pressure and ∆V is the change in volume. Remember, if the system does work, W is positive. If work is done on the system, W is negative. \n\nWe also need to understand heat. Heat is the energy transferred due to temperature difference. When heat is added to a system, it can change the internal energy or do work. The First Law of Thermodynamics can be written as ∆U = Q - W, where ∆U is the change in internal energy, Q is heat added to the system, and W is work done by the system. \n\nLet's look at applications in heat engines. A heat engine converts heat into work. It takes heat from a hot source, does work, and releases some heat to a cold sink. The First Law helps us calculate the efficiency of heat engines. Efficiency is given by η = (W/Q1) x 100%, where Q1 is the heat taken from the hot source. \n\nEnergy conservation is a key point here. The First Law shows that total energy is conserved. It just changes form. This is important in solving JEE Main problems. Always check energy conservation. \n\nLet's see a practical example. Consider a gas in a cylinder with a piston. If we heat the gas, it expands and pushes the piston. This is work done by the gas. We can calculate this using the formula W = P∆V. \n\nNow, let's discuss limitations. The First Law does not tell us the direction of energy transfer. It also does not explain how fast the process happens. These are covered in the Second Law of Thermodynamics. \n\nIn JEE Main, remember these points. Use the formula ∆U = Q - W carefully. Always check the sign of work and heat. A common mistake is mixing up signs. If heat is added, Q is positive. If heat is removed, Q is negative. \n\nLet's summarize. The First Law of Thermodynamics is about energy conservation. It involves internal energy, work, and heat. We use the formula ∆U = Q - W to solve problems. Always check for sign errors. \n\nThat's all for today. Keep practicing, and you will do well in JEE Main. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "First Law of Thermodynamics",
+    "Internal Energy",
+    "Work",
+    "Heat",
+    "Energy Conservation"
+  ],
+  "formulas": [
+    {
+      "formula": "∆U = Q - W",
+      "description": "Used to calculate the change in internal energy of a system when heat is added or removed and work is done."
+    },
+    {
+      "formula": "W = P∆V",
+      "description": "Used to calculate the work done by or on the system when there is a change in volume at constant pressure."
+    },
+    {
+      "formula": "η = (W/Q1) x 100%",
+      "description": "Used to calculate the efficiency of a heat engine, where W is work done and Q1 is heat absorbed from the hot source."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Internal Energy",
+      "definition": "The total energy inside a system, including energy due to motion and forces between particles."
+    },
+    {
+      "term": "Heat",
+      "definition": "Energy transferred due to a temperature difference between a system and its surroundings."
+    },
+    {
+      "term": "Work",
+      "definition": "Energy transferred when a force moves an object or changes the volume of a system."
+    }
+  ]
+}

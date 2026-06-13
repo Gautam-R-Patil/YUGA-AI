@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Atoms and Nuclei",
+    "chapter_number": 18,
+    "topic": "Nuclear Reactions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:02:15.811410",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about nuclear reactions. This topic is important for JEE Main. We will cover fission, fusion, nuclear binding energy, mass defect, chain reactions, and applications in energy production. Let's start with nuclear fission. Fission is when a heavy nucleus splits into two smaller nuclei. This process releases a lot of energy. For example, when uranium-235 splits, it produces barium and krypton. Fission is used in nuclear power plants to produce electricity. \n\nNext, we have nuclear fusion. Fusion is when two light nuclei join to form a heavier nucleus. This process also releases energy. Fusion happens in the sun, where hydrogen nuclei combine to form helium. Fusion releases more energy than fission but is harder to control on Earth. \n\nNow, let's talk about nuclear binding energy. Binding energy is the energy needed to hold a nucleus together. It is also the energy released when a nucleus is formed from protons and neutrons. The formula for binding energy is E = mc^2, where E is energy, m is mass, and c is the speed of light. In JEE Main, you may need to calculate binding energy using this formula. \n\nAnother important concept is mass defect. Mass defect is the difference between the mass of a nucleus and the sum of the masses of its protons and neutrons. This mass is converted into binding energy. Remember, a larger mass defect means more binding energy. \n\nChain reactions are next. A chain reaction happens when the products of a reaction cause more reactions. In fission, neutrons released can cause more uranium nuclei to split. This can lead to a continuous release of energy. Chain reactions are controlled in nuclear reactors to produce energy safely. \n\nFinally, let's discuss applications in energy production. Nuclear energy is a powerful source of electricity. It is clean and does not produce air pollution. However, it must be handled carefully to avoid accidents. \n\nNow, let's look at some common mistakes in JEE Main. \n\n1. Confusing fission and fusion. Remember, fission splits a nucleus, fusion joins nuclei. \n2. Forgetting to convert units in binding energy calculations. Always check units. \n3. Misplacing the speed of light in E = mc^2. Remember, c is a constant. \n\nKey takeaways: Fission and fusion release energy. Binding energy holds the nucleus together. Mass defect relates to binding energy. Chain reactions can be controlled for energy production. \n\nIn summary, nuclear reactions are crucial for energy. Understanding these concepts will help you in JEE Main. Focus on formulas and practice problems to avoid mistakes. Thank you for listening, and happy studying!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Fission",
+    "Fusion",
+    "Binding Energy",
+    "Mass Defect",
+    "Chain Reaction"
+  ],
+  "formulas": [
+    {
+      "formula": "E = mc^2",
+      "description": "Used to calculate binding energy. E is energy, m is mass defect, c is speed of light."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Fission",
+      "definition": "The process of a heavy nucleus splitting into two smaller nuclei, releasing energy."
+    },
+    {
+      "term": "Fusion",
+      "definition": "The process where two light nuclei combine to form a heavier nucleus, releasing energy."
+    },
+    {
+      "term": "Binding Energy",
+      "definition": "The energy needed to hold a nucleus together or released when a nucleus is formed."
+    },
+    {
+      "term": "Mass Defect",
+      "definition": "The difference between the mass of a nucleus and the sum of the masses of its protons and neutrons."
+    },
+    {
+      "term": "Chain Reaction",
+      "definition": "A series of reactions where the products of one reaction cause more reactions."
+    }
+  ]
+}

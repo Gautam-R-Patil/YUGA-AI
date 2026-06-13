@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Waves",
+    "chapter_number": "15",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:13:06.759556",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts - Waves. Waves are disturbances that transfer energy from one point to another in a medium or vacuum. This chapter mainly deals with different types of waves, their properties, and behaviors.\n\nTypes of Waves:\nWaves can primarily be categorized into two types:\n1. Mechanical Waves: Require a medium to propagate, e.g., sound waves.\n2. Electromagnetic Waves: Do not require a medium and can travel in a vacuum, e.g., light waves.\n\nMechanical waves are further divided into Transverse and Longitudinal waves based on their direction of vibration in relation to their propagation direction.\n\nKey Properties of Waves:\n1. Wavelength ($\\lambda$): Distance between two successive points in phase.\n2. Frequency ($f$): Number of oscillations passing a point per unit time.\n3. Period ($T$): Time taken for one complete oscillation. It\u2019s the inverse of frequency: $T = \\frac{1}{f}$.\n4. Amplitude ($A$): Maximum displacement from the mean position.\n5. Velocity ($v$): Speed at which wave crests move. For a wave on a string, $v = \\sqrt{\\frac{T_{ension}}{\\mu}}$, where $\\mu$ is the linear mass density.\n\nWave Equation: The general equation of a wave traveling along a medium is expressed as: \n$$ y(x, t) = A \\sin(kx - \\omega t + \\phi) $$\nwhere $k = \\frac{2\\pi}{\\lambda}$ is the wave number and $\\omega = 2\\pi f$ is the angular frequency.\n\nSuperposition Principle:\nThis states that the resultant displacement at any point due to a number of waves is the algebraic sum of displacements due to individual waves. This principle is crucial in understanding interference and standing waves.\n\nResonance and Beats:\n- Resonance occurs when the frequency of a force matches the natural frequency of the system, leading to large amplitude oscillations.\n- Beats are produced by the interference of two waves of nearly equal frequencies and are heard as a throbbing sound.\n\nQuestions in NEET:\n- Questions often involve calculating wave speed using $v = f \\lambda$.\n- Problems based on the superposition of waves, such as interference and standing waves.\n- You may also encounter questions on wave characteristics, altering parameters, and their effect on wave behavior.\n\nQuick Revision Points:\n1. Mechanical vs. Electromagnetic Waves: Medium requirement.\n2. Transverse vs. Longitudinal: Direction of vibration.\n3. Formula for wave speed and harmonic waves.\n4. Key properties: $\n5. Resonance and Beats definition and characteristics.\n6. Practice wave equation applications and interference problems regularly.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Mechanical Waves",
+    "Electromagnetic Waves",
+    "Transverse Waves",
+    "Longitudinal Waves",
+    "Wavelength",
+    "Frequency",
+    "Velocity",
+    "Superposition Principle",
+    "Interference",
+    "Resonance",
+    "Beats"
+  ],
+  "formulas": [
+    "$v = f \\lambda$",
+    "$T = \\frac{1}{f}$",
+    "$v = \\sqrt{\\frac{T_{ension}}{\\mu}}$",
+    "$y(x, t) = A \\sin(kx - \\omega t + \\phi)$",
+    "$k = \\frac{2\\pi}{\\lambda}$",
+    "$\\omega = 2\\pi f$"
+  ],
+  "definitions": [
+    {
+      "term": "Mechanical Waves",
+      "definition": "Waves that require a medium for their propagation, e.g., sound waves."
+    },
+    {
+      "term": "Electromagnetic Waves",
+      "definition": "Waves that do not require a medium and can travel through a vacuum, e.g., light waves."
+    },
+    {
+      "term": "Transverse Waves",
+      "definition": "Waves in which particles of the medium move perpendicular to the direction of wave propagation."
+    },
+    {
+      "term": "Longitudinal Waves",
+      "definition": "Waves in which particles of the medium move parallel to the direction of wave propagation."
+    },
+    {
+      "term": "Wavelength",
+      "definition": "The distance between consecutive points in phase on a wave, such as crest to crest."
+    },
+    {
+      "term": "Frequency",
+      "definition": "The number of complete oscillations that pass a point in one second."
+    },
+    {
+      "term": "Velocity",
+      "definition": "The speed at which the wave propagates through a medium."
+    },
+    {
+      "term": "Superposition Principle",
+      "definition": "The principle stating that the resultant wave at any point is the sum of all individual waves present at that point."
+    },
+    {
+      "term": "Interference",
+      "definition": "The phenomenon where two or more waves meet, resulting in a new wave pattern."
+    },
+    {
+      "term": "Resonance",
+      "definition": "The phenomenon where an object vibrates at its natural frequency due to periodic force."
+    },
+    {
+      "term": "Beats",
+      "definition": "The periodic variation in amplitude at a point due to the superposition of two waves of slightly different frequencies."
+    }
+  ]
+}

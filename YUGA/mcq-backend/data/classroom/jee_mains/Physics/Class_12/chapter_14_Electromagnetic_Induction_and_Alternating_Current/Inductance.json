@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electromagnetic Induction and Alternating Current",
+    "chapter_number": 14,
+    "topic": "Inductance",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:58:32.426374",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about inductance in the chapter of Electromagnetic Induction and Alternating Current. This is an important topic for JEE Main. Let's start with self-inductance. Self-inductance is a property of a coil. It means the coil can induce voltage in itself when the current changes. Think of it like a coil talking to itself. If the current changes, the coil reacts by making its own voltage. The formula for self-inductance is L = NΦ/I, where L is inductance, N is the number of turns, Φ is the magnetic flux, and I is the current. \n\nNow, let's move to mutual inductance. Mutual inductance is when two coils are near each other. If the current in one coil changes, it induces voltage in the other coil. Imagine two friends, Coil A and Coil B. If Coil A changes its current, Coil B feels it and makes its own voltage. The formula for mutual inductance is M = N₂Φ₂/I₁, where M is mutual inductance, N₂ is the number of turns in the second coil, Φ₂ is the magnetic flux in the second coil, and I₁ is the current in the first coil. \n\nNext, let's talk about the energy stored in an inductor. An inductor stores energy in its magnetic field. The energy (E) stored is given by E = 1/2 LI². Here, L is inductance and I is the current. This formula is useful in problems where you need to find the energy stored. \n\nLet's discuss inductors in series and parallel. When inductors are in series, the total inductance (L_total) is the sum of all inductances: L_total = L₁ + L₂ + L₃ + .... For inductors in parallel, the total inductance is found using 1/L_total = 1/L₁ + 1/L₂ + 1/L₃ + .... Remember, series adds up directly, but parallel needs the reciprocal method. \n\nNow, we will learn about RL circuits. RL circuits have a resistor (R) and an inductor (L). When the circuit is connected to a battery, the current does not rise instantly. It takes time. This time is called the time constant. The time constant (τ) is given by τ = L/R. This tells us how fast the current reaches its maximum value. \n\nLet's solve an example problem. Suppose we have an inductor of 2 henry and a resistor of 4 ohms. Find the time constant. Using the formula τ = L/R, we get τ = 2/4 = 0.5 seconds. This means it takes 0.5 seconds for the current to reach about 63% of its maximum value. \n\nBe careful with units in JEE Main. Always check if inductance is in henry and resistance is in ohms. Common mistakes include mixing up series and parallel formulas. Remember, in series, add directly. In parallel, use the reciprocal method. \n\nIn summary, we learned about self-inductance, mutual inductance, energy in an inductor, inductors in series and parallel, and RL circuits. Remember the key formulas and apply them carefully in problems. Practice is important. \n\nThat's all for today. Keep practicing these concepts for JEE Main. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Self-inductance",
+    "Mutual inductance",
+    "Energy",
+    "Inductors",
+    "RL circuits"
+  ],
+  "formulas": [
+    {
+      "formula": "L = NΦ/I",
+      "description": "Used to calculate self-inductance of a coil"
+    },
+    {
+      "formula": "M = N₂Φ₂/I₁",
+      "description": "Used to calculate mutual inductance between two coils"
+    },
+    {
+      "formula": "E = 1/2 LI²",
+      "description": "Used to find the energy stored in an inductor"
+    },
+    {
+      "formula": "L_total = L₁ + L₂ + ...",
+      "description": "Used for inductors in series"
+    },
+    {
+      "formula": "1/L_total = 1/L₁ + 1/L₂ + ...",
+      "description": "Used for inductors in parallel"
+    },
+    {
+      "formula": "τ = L/R",
+      "description": "Time constant in RL circuits"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Self-inductance",
+      "definition": "Property of a coil to induce voltage in itself when the current changes"
+    },
+    {
+      "term": "Mutual inductance",
+      "definition": "When a change in current in one coil induces voltage in another coil"
+    },
+    {
+      "term": "Inductor",
+      "definition": "A coil that stores energy in a magnetic field"
+    },
+    {
+      "term": "RL circuit",
+      "definition": "A circuit with a resistor and an inductor"
+    },
+    {
+      "term": "Time constant",
+      "definition": "Time taken for current to reach about 63% of its maximum value in an RL circuit"
+    }
+  ]
+}

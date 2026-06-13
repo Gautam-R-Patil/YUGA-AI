@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Kinematics",
+    "chapter_number": 2,
+    "topic": "Motion in One Dimension",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:47:13.254702",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will study Motion in One Dimension. This is a part of Kinematics. Let's start with some basic ideas. \n\nFirst, understand the Concept of Position. Position is where an object is located. Imagine standing at a bus stop. Your position is the bus stop. \n\nNext, we have Path Length. It is the total distance an object travels. If you walk around a park and return to the start, the path length is the total distance you walked.\n\nDisplacement is different. It is the shortest distance from start to end point. If you start and end at the same place, displacement is zero. \n\nNow, let's talk about Average Velocity and Speed. Average Velocity is total displacement divided by total time. Average Speed is total path length divided by total time. \n\nFor example, if you travel 100 meters north in 50 seconds, the average speed is 2 m/s. If you return to the start, the average velocity is 0 because displacement is zero. \n\nNext is Instantaneous Velocity and Speed. Instantaneous Velocity is velocity at a specific moment. Imagine reading the speedometer in a car. Instantaneous Speed is the speed at that moment. \n\nAcceleration is the change in velocity over time. It shows how fast velocity changes. If a car speeds up, it has positive acceleration. If it slows down, it has negative acceleration. \n\nThere are three Equations of Motion with constant acceleration. First, v = u + at. Second, s = ut + 0.5at^2. Third, v^2 = u^2 + 2as. Here, 'v' is final velocity, 'u' is initial velocity, 'a' is acceleration, 't' is time, and 's' is displacement. \n\nUse these equations when acceleration is constant. For example, if a car starts from rest and accelerates at 2 m/s² for 5 seconds, use v = u + at to find final velocity. Here, u = 0, a = 2, t = 5. So, v = 0 + 2*5 = 10 m/s. \n\nGraphical Representation of Motion helps us understand it better. A Distance-Time graph shows how distance changes with time. A Velocity-Time graph shows velocity changes.\n\nIn Free Fall under Gravity, objects fall with acceleration due to gravity, 'g'. Near Earth, g is about 9.8 m/s². If you drop a ball, it accelerates at this rate. \n\nFinally, understand Uniform and Non-Uniform Motion. In Uniform Motion, velocity is constant. In Non-Uniform Motion, velocity changes.\n\nCommon JEE Main mistake: Mixing up displacement with path length. Remember, displacement is the shortest path. \n\nKey takeaways: Know the formulas. Practice using them. Understand the graphs. \n\nIn summary, Motion in One Dimension is about how objects move in a straight line. Practice these concepts to do well in JEE Main. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Position",
+    "Displacement",
+    "Velocity",
+    "Acceleration",
+    "Free Fall"
+  ],
+  "formulas": [
+    {
+      "formula": "v = u + at",
+      "description": "Used to find final velocity when initial velocity, acceleration, and time are known"
+    },
+    {
+      "formula": "s = ut + 0.5at^2",
+      "description": "Used to find displacement when initial velocity, acceleration, and time are known"
+    },
+    {
+      "formula": "v^2 = u^2 + 2as",
+      "description": "Used to find final velocity when initial velocity, acceleration, and displacement are known"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Position",
+      "definition": "The location of an object at a particular point in time"
+    },
+    {
+      "term": "Path Length",
+      "definition": "The total distance covered by an object"
+    },
+    {
+      "term": "Displacement",
+      "definition": "The shortest distance from the initial to the final position"
+    },
+    {
+      "term": "Velocity",
+      "definition": "The speed of an object in a particular direction"
+    },
+    {
+      "term": "Acceleration",
+      "definition": "The rate of change of velocity with time"
+    }
+  ]
+}

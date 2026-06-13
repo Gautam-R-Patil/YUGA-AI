@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Electromagnetic Waves",
+    "chapter_number": "23",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:15:37.410420",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET topics: Electromagnetic Waves. These are waves that are synchronized oscillations of electric and magnetic fields perpendicular to each other and to the direction of wave propagation.\n\nElectromagnetic waves include radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays. They all travel at the speed of light in a vacuum, which is approximately $3 \times 10^8$ m/s.\n\nKey Formula: The speed of electromagnetic waves, $c$, is given by:\n\\[ c = \\frac{1}{\\sqrt{\\mu_0 \\varepsilon_0}} \\]\nwhere $\\mu_0$ is the permeability and $\\varepsilon_0$ is the permittivity of free space.\n\nNEET typically asks questions about the classification and properties of different types of electromagnetic waves and the mathematical relationships governing their speed.\n\nSome quick revision points:\n1. Electromagnetic waves are transverse waves.\n2. They do not require a medium to travel.\n3. Speed in vacuum: $c = 3 \\times 10^8$ m/s.\n4. Frequency and wavelength relationship: $c = \\nu \\lambda$.\n5. Applications vary, e.g., radio waves for communication, X-rays for medical imaging.\n\nRemember, NEET loves to test your understanding of these basics and how different EM spectrum members have specific characteristics.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Intermediate",
+  "images": [],
+  "keywords": [
+    "Electromagnetic waves",
+    "Speed of light",
+    "Transverse waves",
+    "Permittivity",
+    "Permeability",
+    "Frequency",
+    "Wavelength",
+    "Microwaves",
+    "Gamma rays",
+    "Radio waves"
+  ],
+  "formulas": [
+    "c = \\frac{1}{\\sqrt{\\mu_0 \\varepsilon_0}}",
+    "c = \\nu \\lambda"
+  ],
+  "definitions": [
+    {
+      "term": "Electromagnetic waves",
+      "definition": "Waves of electric and magnetic fields that propagate through space at the speed of light."
+    },
+    {
+      "term": "Speed of light",
+      "definition": "The constant speed at which electromagnetic waves travel in a vacuum, approximately $3 \\times 10^8$ m/s."
+    },
+    {
+      "term": "Transverse waves",
+      "definition": "Waves in which particles of the medium move in a direction perpendicular to the direction of the wave."
+    },
+    {
+      "term": "Permittivity",
+      "definition": "A measure of resistance that is encountered when forming an electric field in a medium."
+    },
+    {
+      "term": "Permeability",
+      "definition": "A measure of how easily a magnetic field can be established in a material."
+    },
+    {
+      "term": "Frequency",
+      "definition": "The number of occurrences of a repeating event per unit time in a wave."
+    },
+    {
+      "term": "Wavelength",
+      "definition": "The distance over which the wave's shape repeats in a wave."
+    },
+    {
+      "term": "Microwaves",
+      "definition": "A type of electromagnetic wave used in cooking and communication."
+    },
+    {
+      "term": "Gamma rays",
+      "definition": "High-energy electromagnetic waves emitted by radioactive materials."
+    },
+    {
+      "term": "Radio waves",
+      "definition": "Electromagnetic waves used for long-distance communication."
+    }
+  ]
+}

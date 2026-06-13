@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapter_number": 5,
+    "topic": "Reaction Quotient (Q)",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:06:54.124446",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Reaction Quotient, or Q. This is an important topic in Chemical Equilibrium. You might remember that equilibrium is when a reaction happens at the same rate in both directions. Let's dive into the details of Q.\n\nFirst, let's define the Reaction Quotient. It is a number that tells us the ratio of the concentrations of products to reactants at any point in time. We calculate it using the same formula as the equilibrium constant, K, but for any given moment, not just at equilibrium.\n\nThe formula for Q is: Q = [C]^c [D]^d / [A]^a [B]^b. Here, [C] and [D] are the concentrations of products, and [A] and [B] are the concentrations of reactants. The letters a, b, c, and d are the coefficients from the balanced chemical equation.\n\nNow, let's compare Q and K. K is the equilibrium constant, which is only at equilibrium. Q can be at any time. If Q = K, the system is at equilibrium. If Q < K, the reaction will move forward to make more products. If Q > K, the reaction will go backward to make more reactants.\n\nLet's see how we can predict the direction of a reaction using Q. If Q is less than K, it means there are more reactants than products. The reaction will move forward to reach equilibrium. If Q is more than K, it means there are more products than reactants. The reaction will move backward.\n\nIn dynamic equilibrium, even though reactions continue, the concentrations of reactants and products stay the same. Q helps us understand this balance. For example, in the Haber process for making ammonia, if we know Q, we can adjust conditions to get more ammonia.\n\nLet's talk about common errors in Q calculation. A common mistake is not using the balanced equation. Always check the coefficients. Another error is using incorrect units. Remember, concentrations should be in mol/L.\n\nQ also plays a role in Le Chatelier's principle. This principle says that if a system at equilibrium is disturbed, it will adjust to minimize the disturbance. By calculating Q, we can predict how changes in concentration, pressure, or temperature will affect the system.\n\nLet's look at an example. Consider the reaction N2 + 3H2 ⇌ 2NH3. If [N2] = 1 M, [H2] = 3 M, and [NH3] = 0.5 M, calculate Q. Using the formula, Q = [NH3]^2 / ([N2][H2]^3) = (0.5)^2 / (1 * 3^3) = 0.25 / 27 = 0.0093.\n\nIn JEE Main, a common trap is forgetting to square or cube the concentrations. Always use the correct powers from the balanced equation.\n\nKey takeaways: Q is the ratio of product and reactant concentrations at any time. Compare Q with K to predict reaction direction. Remember to use balanced equations and correct units.\n\nIn summary, understanding Q helps us control reactions and predict changes. Practice calculating Q with different reactions to get comfortable with this concept. Keep these points in mind, and you'll do well in your exams!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Reaction Quotient",
+    "Equilibrium Constant",
+    "Dynamic Equilibrium",
+    "Le Chatelier's Principle",
+    "Balanced Equation"
+  ],
+  "formulas": [
+    {
+      "formula": "Q = [C]^c [D]^d / [A]^a [B]^b",
+      "description": "Used to calculate the Reaction Quotient at any point in a reaction, not just at equilibrium"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Reaction Quotient",
+      "definition": "A number that shows the ratio of product and reactant concentrations at any time in a reaction"
+    },
+    {
+      "term": "Equilibrium Constant",
+      "definition": "A number that shows the ratio of product and reactant concentrations at equilibrium"
+    }
+  ]
+}

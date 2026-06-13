@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermal Properties of Matter",
+    "chapter_number": 11,
+    "topic": "Change of State",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:00:05.354973",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we're going to learn about the change of state in matter. This is an important topic for your NEET exams. Let's start with what 'change of state' means. When a substance changes from one state to another, like from solid to liquid, it is called a change of state. \n\nFirst, let's talk about latent heat. Latent heat is the heat energy needed to change the state of a substance without changing its temperature. For example, when ice melts to water, it absorbs heat but stays at 0 degrees Celsius. This heat is called latent heat. \n\nThere are two main types of latent heat. The first is latent heat of fusion. This is the heat needed to change a solid into a liquid. The second is latent heat of vaporization. This is the heat needed to change a liquid into a gas. \n\nNow, let's look at some examples. When you boil water, it changes from liquid to gas. This is a change of state. Another example is when water freezes into ice. It changes from liquid to solid. \n\nChange of state has many applications in engineering. For example, refrigerators use the change of state to keep food cold. The liquid inside the fridge absorbs heat and turns into gas. This cools the inside of the fridge. \n\nNow, let's solve a simple problem. If you have 1 kg of ice at 0 degrees Celsius, how much heat is needed to turn it into water at the same temperature? You use the formula Q = mL. Here, Q is the heat energy, m is the mass, and L is the latent heat of fusion. For ice, L is 334,000 J/kg. So, Q = 1 kg * 334,000 J/kg = 334,000 J.\n\nLet's talk about phase transitions. A phase transition is when a substance changes from one state to another, like from liquid to gas. We can show this change on a graph. The graph is called a phase diagram. It shows temperature on one axis and heat on the other. \n\nRemember, common mistakes include thinking temperature changes during a phase change. It does not. Also, don't forget to use the right latent heat value for calculations.\n\nIn summary, understanding change of state is important. Remember the key points: latent heat, types of latent heat, and phase diagrams. These concepts often appear in NEET exams. Keep practicing problems to get better.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Latent heat",
+    "Phase transitions",
+    "Change of state",
+    "Latent heat of fusion",
+    "Latent heat of vaporization"
+  ],
+  "formulas": [
+    {
+      "formula": "Q = mL",
+      "description": "Q is the heat energy, m is the mass, and L is the latent heat"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Latent heat",
+      "definition": "Heat energy needed to change the state of a substance without changing its temperature"
+    },
+    {
+      "term": "Phase transition",
+      "definition": "When a substance changes from one state to another, like from liquid to gas"
+    }
+  ]
+}

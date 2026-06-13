@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Strategies for Enhancement in Food Production",
+    "chapter_number": 9,
+    "topic": "Plant Breeding",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:43:13.592451",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about plant breeding. This is a way to improve crops. It helps us grow more food and better food. Let's start with the steps in plant breeding.\n\nFirst, we collect variability. This means we gather different types of plants. We call this collection germplasm. Germplasm is like a library of plant genes. It helps us find plants with good traits.\n\nNext, we evaluate and select the best plants. We look for plants that grow well and resist diseases. If a plant is strong and healthy, we select it for breeding.\n\nThen, we use cross-hybridization. This means we mix two different plants. We hope to get a new plant with the best traits of both. This new plant is called a hybrid. Hybrids often have hybrid vigor. This means they grow better than their parents.\n\nAfter that, we test these new plants. We see if they grow well in different places. If they do well, we release them for farmers to use.\n\nNow, let's talk about the Green Revolution. This was a time when new plant varieties were made. These plants gave more food. It helped many people get enough to eat.\n\nAnother method is tissue culture. This is a way to grow plants from small pieces. We can even grow plants from a single cell. This is called micropropagation. It helps make many plants quickly.\n\nWe also have single cell protein, or SCP. This is protein made by tiny organisms. It's a new way to get protein. Biofortification is another method. It means making plants more nutritious.\n\nRemember these key terms: Germplasm is the collection of plant genes. Hybrid vigor means a hybrid grows better than its parents. Somaclones are plants made through tissue culture.\n\nA common mistake is thinking all hybrids are better. This is not always true. We must test them first.\n\nTo wrap up, plant breeding is very important. It helps us grow better crops. This is crucial for feeding the world.\n\nThank you for listening! Keep these points in mind as you study.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Plant Breeding",
+    "Germplasm",
+    "Hybrid Vigor",
+    "Tissue Culture",
+    "Green Revolution"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Germplasm",
+      "definition": "A collection of genetic resources for plants."
+    },
+    {
+      "term": "Hybrid Vigor",
+      "definition": "The improved or increased function of any biological quality in a hybrid offspring."
+    },
+    {
+      "term": "Somaclones",
+      "definition": "Plants that are genetically identical to the parent plant, produced through tissue culture."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electrostatics",
+    "chapter_number": 11,
+    "topic": "Electric Field",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:54:58.582111",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the electric field. This is a key topic in electrostatics. You already know about electric charges. Now, let's see how they create electric fields.\n\nFirst, let's define the electric field. An electric field is a space around a charge where another charge feels a force. The unit of electric field is newton per coulomb (N/C).\n\nNow, let's talk about the electric field due to a point charge. A point charge is a charge that is very small, like a dot. The formula for the electric field (E) due to a point charge (Q) is:\n\nE = k * |Q| / r^2\n\nHere, 'k' is a constant, called the Coulomb's constant. It is 8.99 x 10^9 N m^2/C^2. 'r' is the distance from the charge. This formula tells us how strong the electric field is at a distance 'r'.\n\nNext, let's discuss electric field lines. They are imaginary lines that show the direction of the electric field. The lines start from positive charges and end at negative charges. The closer the lines, the stronger the field.\n\nNow, let's learn about an electric dipole. An electric dipole is two equal but opposite charges separated by a distance. The electric field of a dipole is different from a single charge. It has two main parts: axial and equatorial.\n\nThe axial line is the line that passes through both charges. The formula for the electric field on the axial line is:\n\nE_axial = (2k * p) / r^3\n\n'p' is the dipole moment, which is the product of charge (q) and the distance (d) between charges. So, p = q * d.\n\nThe equatorial line is the line that is perpendicular to the axial line and passes through the center of the dipole. The formula for the electric field on the equatorial line is:\n\nE_equatorial = (-k * p) / r^3\n\nNotice the negative sign. It shows the direction is opposite to the dipole moment.\n\nOne important concept is the superposition principle. It helps us find the total electric field when there are many charges. The principle says that the total electric field is the vector sum of fields due to individual charges.\n\nLet's do a quick example. Suppose we have two charges, Q1 and Q2, at different points. We find the electric field due to Q1 and Q2 separately, then add them. Remember, electric fields are vectors. So, make sure to add them with direction.\n\nCommon JEE Main mistake: Students often forget that electric fields are vectors. They must add them using direction.\n\nKey takeaways: Remember the formulas for point charge and dipole fields. Practice using the superposition principle with vector addition.\n\nIn summary, we learned about electric fields, their formulas, and how to add them. Practice these concepts with problems to prepare for JEE Main. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electric Field",
+    "Point Charge",
+    "Electric Dipole",
+    "Superposition Principle",
+    "Electric Field Lines"
+  ],
+  "formulas": [
+    {
+      "formula": "E = k * |Q| / r^2",
+      "description": "This formula is used to calculate the electric field due to a point charge at a distance 'r'."
+    },
+    {
+      "formula": "E_axial = (2k * p) / r^3",
+      "description": "This formula is used to find the electric field on the axial line of a dipole."
+    },
+    {
+      "formula": "E_equatorial = (-k * p) / r^3",
+      "description": "This formula is used to find the electric field on the equatorial line of a dipole."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electric Field",
+      "definition": "A region around a charge where another charge experiences a force."
+    },
+    {
+      "term": "Point Charge",
+      "definition": "A very small charge that can be considered as a single point."
+    },
+    {
+      "term": "Electric Dipole",
+      "definition": "Two equal but opposite charges separated by a small distance."
+    }
+  ]
+}

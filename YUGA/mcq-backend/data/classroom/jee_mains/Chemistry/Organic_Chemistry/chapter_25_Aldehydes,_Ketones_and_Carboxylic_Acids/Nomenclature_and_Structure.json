@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "chapter_number": 25,
+    "topic": "Nomenclature and Structure",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:27:35.662775",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about aldehydes, ketones, and carboxylic acids. These are important in organic chemistry and often appear in JEE Main. Let's start with IUPAC naming conventions. IUPAC stands for International Union of Pure and Applied Chemistry. It helps us name organic compounds in a standard way. \n\nFirst, let's talk about aldehydes. They have a carbonyl group (C=O) at the end of a carbon chain. In IUPAC naming, aldehydes use the suffix '-al'. For example, CH₃CHO is called ethanal. Now, let's see ketones. Ketones also have a carbonyl group, but it is in the middle of the carbon chain. They use the suffix '-one'. An example is CH₃COCH₃, known as propanone. \n\nCommon names are also used. For aldehydes, formaldehyde is the common name for methanal. For ketones, acetone is the common name for propanone. Remember, common names are not used in IUPAC. \n\nNext, we identify functional groups. A functional group is a specific group of atoms responsible for a compound's properties. Aldehydes have the -CHO group. Ketones have the C=O group between carbon atoms. Carboxylic acids have the -COOH group. Knowing these helps in naming and reactions. \n\nLet's discuss the structure and hybridization of the carbonyl group. The carbon in the C=O group is sp² hybridized. This means it forms three sigma bonds and one pi bond. The carbonyl group is planar, which affects how it reacts. \n\nResonance structures are another key point. Resonance occurs when a molecule can be represented by two or more structures. In carbonyl compounds, electrons can move, creating resonance. This affects stability and reactivity. \n\nNow, let's compare boiling points. Aldehydes and ketones have higher boiling points than alkanes. This is due to the polar C=O group. However, carboxylic acids have even higher boiling points. This is because they can form hydrogen bonds. \n\nLet's do a quick check. If a compound has a -CHO group, it's an aldehyde. If it has a C=O group between carbons, it's a ketone. If it has -COOH, it's a carboxylic acid. \n\nJEE Main mistake alert! Students often confuse aldehydes and ketones. Remember, the position of the C=O group is key. Aldehydes are at the end, ketones are in the middle. \n\nKey takeaways: Know the IUPAC names, identify functional groups, understand hybridization and resonance, and compare boiling points. This will help you in JEE Main questions. \n\nIn summary, aldehydes, ketones, and carboxylic acids have unique structures and properties. Understanding these will help you in exams and in chemistry. Keep practicing naming and identifying these compounds. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Aldehydes",
+    "Ketones",
+    "Carboxylic Acids",
+    "IUPAC Naming",
+    "Functional Group"
+  ],
+  "formulas": [
+    {
+      "formula": "C=O",
+      "description": "The carbonyl group found in both aldehydes and ketones"
+    },
+    {
+      "formula": "R-CHO",
+      "description": "General formula for aldehydes, where R is an alkyl group"
+    },
+    {
+      "formula": "R-CO-R'",
+      "description": "General formula for ketones, where R and R' are alkyl groups"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "IUPAC Naming",
+      "definition": "A system for naming organic compounds in a standard way"
+    },
+    {
+      "term": "Carbonyl Group",
+      "definition": "A functional group with a carbon double-bonded to oxygen (C=O)"
+    },
+    {
+      "term": "Functional Group",
+      "definition": "A specific group of atoms in a molecule responsible for its chemical reactions"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Biological Classification",
+    "chapter_number": 2,
+    "topic": "Five Kingdom Classification",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:31:41.640807",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Five Kingdom Classification. This is an important topic in biology. It helps us understand how living things are grouped. \n\nLet's start with R.H. Whittaker's Five Kingdom Classification. Whittaker was a scientist. In 1969, he introduced a system to classify all living organisms. He divided them into five groups, or kingdoms. These are Monera, Protista, Fungi, Plantae, and Animalia. \n\nFirst, let's talk about Monera. Organisms in this kingdom are very simple. They are unicellular, meaning they have only one cell. They do not have a nucleus. This means their genetic material is not inside a membrane. Bacteria are a common example of Monera. They can live in many places, even in extreme conditions. \n\nNext is Protista. Protists are also unicellular, but they have a nucleus. This means their genetic material is inside a membrane. Some protists can make their own food, like algae. Others, like amoeba, cannot. They eat other small organisms. \n\nNow, let's look at Fungi. Fungi can be unicellular or multicellular. They do not make their own food. Instead, they absorb nutrients from their surroundings. Mushrooms and yeast are examples of fungi. Remember, fungi do not have chlorophyll, so they cannot perform photosynthesis. \n\nThe fourth kingdom is Plantae. Plants are multicellular and have a nucleus. They make their own food through photosynthesis. This process uses sunlight to convert carbon dioxide and water into food. Trees, flowers, and grasses are all part of this kingdom. \n\nFinally, we have Animalia. Animals are multicellular and have a nucleus. They cannot make their own food. Instead, they eat plants or other animals. Humans, birds, and fish are examples of animals. \n\nTo classify these organisms, scientists look at different criteria. They consider cell structure, mode of nutrition, and reproduction. Cell structure includes whether an organism has a nucleus or not. Mode of nutrition is how an organism gets its food. Reproduction is how organisms produce offspring. \n\nClassification is very important in biology. It helps us organize and understand the diversity of life. By knowing which group an organism belongs to, we can learn more about its characteristics and behavior. \n\nHere are some key points to remember: Monera are unicellular without a nucleus. Protista are unicellular with a nucleus. Fungi absorb nutrients. Plantae perform photosynthesis. Animalia consume other organisms. \n\nA common mistake is thinking all unicellular organisms are the same. Remember, Monera do not have a nucleus, but Protista do. \n\nIn summary, the Five Kingdom Classification helps us group organisms based on their characteristics. This system makes it easier to study and understand living things. \n\nThank you for listening! I hope this makes the Five Kingdom Classification clear for you.",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Five Kingdoms",
+    "Monera",
+    "Protista",
+    "Fungi",
+    "Plantae",
+    "Animalia"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Unicellular",
+      "definition": "Having only one cell."
+    },
+    {
+      "term": "Nucleus",
+      "definition": "The part of a cell that contains genetic material."
+    },
+    {
+      "term": "Photosynthesis",
+      "definition": "The process by which plants make food using sunlight."
+    },
+    {
+      "term": "Multicellular",
+      "definition": "Having more than one cell."
+    }
+  ]
+}

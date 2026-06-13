@@ -1,0 +1,325 @@
+[
+    {
+        "id": 10,
+        "question_number": "2",
+        "text": "Select the mismatch:",
+        "subject": "Biology",
+        "sub_topic": "Microbiology",
+        "question_type": "Match-Column",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Rhodospirillum - Mycorrhiza",
+            "Anabaena - Nitrogen fixer",
+            "Rhizobium - Alfalfa",
+            "Frankia - Alnus"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "Match-Column"
+        },
+        "original_id": 10,
+        "correct_answer": "Rhodospirillum - Mycorrhiza",
+        "explanation": "### Core Concept\nBiological nitrogen fixation involves symbiotic and free-living organisms. Symbiosis refers to a close interaction between two different organisms, while Mycorrhiza specifically refers to a symbiotic association between a fungus and the roots of a higher plant.\n\n### Solution\nLet's evaluate each pair:\n* Anabaena - Nitrogen fixer: Correct. *Anabaena* is a cyanobacterium that fixes nitrogen, often found in symbiotic association with the water fern *Azolla*.\n* Rhizobium - Alfalfa: Correct. *Rhizobium* forms symbiotic root nodules in leguminous plants like Alfalfa (*Medicago sativa*).\n* Frankia - Alnus: Correct. *Frankia* is a nitrogen-fixing actinomycete that forms nodules on the roots of non-leguminous plants like *Alnus* (Alder).\n* Rhodospirillum - Mycorrhiza: Mismatch. *Rhodospirillum* is a free-living, anaerobic, nitrogen-fixing purple non-sulfur bacterium. It does not form Mycorrhizal associations; those are formed by fungi (like *Glomus*).\n\n### Why This Answer\nThe pair Rhodospirillum - Mycorrhiza is the mismatch because Rhodospirillum is a bacterium, whereas mycorrhiza is a fungal-root association. \n\n### Common Mistakes\n* Confusing Bacteria and Fungi: Assuming any nitrogen-fixing microbe can form a mycorrhiza. Only specific fungi form mycorrhizae.\n* Free-living vs Symbiotic: Forgetting that Rhodospirillum is primarily a free-living bacterium, whereas *Rhizobium* and *Frankia* are well-known for their symbiotic nodule-forming capabilities.",
+        "basic_answer": "Rhodospirillum is a genus of purple non-sulfur bacteria that is not typically associated with mycorrhiza, which are symbiotic relationships between fungi and plant roots. \n\nThus, this is the mismatch.",
+        "keywords": {}
+    },
+    {
+        "id": 11,
+        "question_number": "120",
+        "text": "Formation of interfascicular cambium from fully developed parenchyma cells is an example for",
+        "subject": "Botany",
+        "sub_topic": "Plant Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (28)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Rediffrentiation",
+            "Dediffrentiation",
+            "Maturation",
+            "Diffrentiation"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (28).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 3166,
+        "correct_answer": "Dediffrentiation",
+        "explanation": "### Core Concept\nIn plant growth, cells undergo specific developmental changes:\n1.  Differentiation: Meristematic cells mature into specialized cells (e.g., parenchyma).\n2.  Dedifferentiation: Specialized, mature cells regain the ability to divide (become meristematic again).\n3.  Redifferentiation: Dedifferentiated cells (meristems) mature again into specialized tissues.\n\n### Solution\nDuring secondary growth in dicot stems, the fully developed parenchyma cells of the medullary rays (located between vascular bundles) regain their power of division. This process transforms them into the interfascicular cambium, which is a secondary meristem.\n\n\n\n### Why This Answer\nThe process is Dedifferentiation because it involves mature, non-dividing cells (parenchyma) reverting to a meristematic state (cambium) to facilitate growth.\n\n### Common Mistakes\n* Confusing with Redifferentiation: Redifferentiation occurs *after* dedifferentiation, when the new cambium cells mature into secondary xylem or phloem. \n* Assuming Primary Growth: Interfascicular cambium is part of secondary growth; primary growth involves differentiation directly from apical meristems.",
+        "basic_answer": "Formation of interfascicular cambium from fully developed parenchyma cells occurs through dedifferentiation, which involves mature cells reverting to a less specialized state to form meristematic tissue. \n\nHence dedifferentiation is the process here.",
+        "keywords": {}
+    },
+    {
+        "id": 12,
+        "question_number": "4",
+        "text": "Capacitation occurs in:",
+        "subject": "Biology",
+        "sub_topic": "Reproductive Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Epididymis",
+            "Vas deference",
+            "Female reproductive tract",
+            "Rete testis"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 12,
+        "correct_answer": "Female reproductive tract",
+        "explanation": "### Core Concept\nSpermatozoa produced in the testes are morphologically complete but physiologically immature. They require further processing to become capable of penetrating and fertilizing the ovum. This final maturation process is called capacitation.\n\n### Solution\nCapacitation involves biochemical and physiological changes, such as the removal of cholesterol and glycoproteins from the sperm's head membrane. This process occurs only after the sperm have been deposited into the female reproductive tract. It typically takes 5–7 hours in humans.\n\n\n\n### Why This Answer\nThe female reproductive tract provides the specific secretions and environment (uterine and fallopian tube fluids) required to trigger these changes. The other options (Epididymis, Vas deferens, Rete testis) are parts of the male reproductive system where sperm mature in other ways but do not undergo capacitation.\n\n### Common Mistakes\n* Confusing with Decapacitation: Sperm are kept in an inhibited (decapacitated) state in the male tract to prevent premature enzyme release; the \"activation\" (capacitation) only happens in the female.\n* Confusing with Epididymal Maturation: While sperm gain motility in the epididymis, they do not gain the *ability to fertilize* until capacitation.",
+        "basic_answer": "Capacitation is a process that sperm undergo in the female reproductive tract, which prepares them for fertilization. This involves biochemical changes that alter the sperm membrane, enabling the acrosome reaction. \n\nTherefore, capacitation occurs in the female reproductive tract.",
+        "keywords": {}
+    },
+    {
+        "id": 13,
+        "question_number": "5",
+        "text": "Asymptote in a logistic growth curve is obtained when:",
+        "subject": "Biology",
+        "sub_topic": "Ecology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "K=N",
+            "K>N",
+            "K<N",
+            "The value of 'r' approaches zero"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 13,
+        "correct_answer": "K=N",
+        "explanation": "### Core Concept\nPopulation growth in a resource-limited environment follows the Logistic Growth model (Verhulst-Pearl Logistic Growth), represented by the equation:\n$$dN/dt = rN[(K - N) / K]$$\nWhere N is population size, r is intrinsic rate of increase, and K is carrying capacity.\n\n### Solution\nThe term $(K - N) / K$ represents environmental resistance. \n* When N = K, the term $(K - N)$ becomes zero.\n* This makes the entire growth rate ($dN/dt$) zero.\n* At this point, the population size stabilizes, and the S-shaped (sigmoid) curve levels off into a horizontal line called an asymptote.\n\n\n\n### Why This Answer\nThe condition K = N signifies that the population has reached the maximum number of individuals the environment can support, resulting in the stabilization of the growth curve.\n\n### Common Mistakes\n* Confusing with Exponential Growth: Exponential growth (J-shaped) has no asymptote because resources are assumed to be unlimited (no 'K').\n* Interpreting 'r' as Zero: The *rate of increase* (dN/dt) becomes zero, but 'r' (the intrinsic capability) is a constant for the species.",
+        "basic_answer": "Logistic growth describes how a population grows in an environment with limited resources, approaching a maximum carrying capacity (K). When the population size (N) equals the carrying capacity (K), the growth rate becomes zero, leading to an asymptote in the growth curve. \n\nHence the answer is A.",
+        "keywords": {
+            "K": "carrying capacity",
+            "N": "population size",
+            "r": "intrinsic growth rate"
+        }
+    },
+    {
+        "id": 14,
+        "question_number": "6",
+        "text": "The DNA fragments separated on an agarose gel can be visualized after staining with:",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Acetocarmine",
+            "Aniline blue",
+            "Ethidium bromide",
+            "Bromophenol blue"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 14,
+        "correct_answer": "Ethidium bromide",
+        "explanation": "### Core Concept\nDNA is a clear, colorless molecule in solution. To see it after separating it by size using Agarose Gel Electrophoresis, we need a specific dye that can bind to DNA and emit visible light under specific conditions.\n\n### Solution\nEthidium bromide (EtBr) is an intercalating agent. It slides between the base pairs of the DNA double helix. When the stained gel is exposed to Ultraviolet (UV) light, the Ethidium bromide fluoresces, appearing as bright orange/yellow bands.\n\n\n\n### Why This Answer\nEthidium bromide is the standard dye for nucleic acid visualization. \n* *Acetocarmine* is used for staining chromosomes/nuclei in squashes.\n* *Aniline blue* is used for fungal staining or callose.\n* *Bromophenol blue* is a tracking dye used to monitor the progress of the electrophoresis, but it does not stain the DNA itself.\n\n### Common Mistakes\n* Visible vs UV Light: Thinking you can see the DNA immediately in normal room light. You must use a UV transilluminator.\n* Confusing Tracking Dye with Staining Dye: Assuming Bromophenol blue is what makes the DNA visible. It only tracks the run; Ethidium bromide visualizes the fragments.",
+        "basic_answer": "Ethidium bromide is a nucleic acid stain commonly used in molecular biology. It intercalates between base pairs in DNA and fluoresces under UV light, allowing visualization of DNA fragments on an agarose gel. \n\nTherefore, Ethidium bromide is used for staining DNA.",
+        "keywords": {
+            "EtBr": "Ethidium bromide",
+            "DNA": "Deoxyribonucleic acid",
+            "UV": "Ultraviolet light"
+        }
+    },
+    {
+        "id": 15,
+        "question_number": "7",
+        "text": "Artificial selection to obtain cows yielding higher milk output represents:",
+        "subject": "Biology",
+        "sub_topic": "Evolution",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Directional as it pushes the mean of the character in one direction",
+            "Disruptive as it splits the population into two, one yielding output and the other lower output",
+            "Stabilizing followed by disruptive as it stabilizes the population to produce higher yielding cows",
+            "Stabilizing selection as it stabilizes this character in the population"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 15,
+        "correct_answer": "Directional as it pushes the mean of the character in one direction",
+        "explanation": "### Core Concept\nNatural (or artificial) selection can change the distribution of phenotypes in a population in three main ways:\n1.  Stabilizing: Favors the average (mean) trait; narrows the curve.\n2.  Directional: Favors one extreme trait; shifts the entire curve in that direction.\n3.  Disruptive: Favors both extremes; splits the curve into two peaks.\n\n### Solution\nIn cattle breeding, humans specifically select for individuals that produce the *most* milk (an extreme trait). Over generations, the average milk production of the entire herd increases. This is a classic shift of the population mean toward one extreme.\n\n\n\n### Why This Answer\nThe process is Directional selection because the \"mean\" of the character (milk output) is being pushed continuously toward higher values, rather than being kept at an average or split into two groups.\n\n### Common Mistakes\n* Confusing Stabilizing with Directional: Thinking that \"improving\" the breed means stabilizing it. Stabilizing selection actually *prevents* change from the current average.\n* Disruptive Misinterpretation: Thinking that having some high-yield cows and some low-yield cows is disruptive. Disruptive selection occurs only if the intermediate (average) cows are eliminated, which doesn't happen in planned breeding.",
+        "basic_answer": "Artificial selection aims to enhance specific traits in a population. In the case of cows, selecting for higher milk yield pushes the average trait value in one direction, representing directional selection.",
+        "keywords": {}
+    },
+    {
+        "id": 16,
+        "question_number": "8",
+        "text": "The vascular cambium normally gives rise to:",
+        "subject": "Botany",
+        "sub_topic": "Plant Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Primary Phloem",
+            "Secondary xylem",
+            "Periderm",
+            "Phelloderm"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 16,
+        "correct_answer": "Secondary xylem",
+        "explanation": "### Core Concept\nSecondary growth in dicot stems and roots is driven by lateral meristems. The vascular cambium is the lateral meristem responsible for increasing the diameter of the plant by adding new vascular tissues.\n\n### Solution\nThe vascular cambium is a ring of meristematic cells. When its cells divide:\n* Cells produced toward the inside of the ring differentiate into secondary xylem (which eventually forms wood).\n* Cells produced toward the outside of the ring differentiate into secondary phloem.\n\n\n\n### Why This Answer\nSecondary xylem is the correct answer as it is the primary tissue produced by the vascular cambium toward the interior. \n* *Primary phloem* comes from the procambium during primary growth.\n* *Periderm* and *Phelloderm* are produced by a different lateral meristem called the cork cambium (phellogen).\n\n### Common Mistakes\n* Confusing Vascular and Cork Cambium: Remembering that the vascular cambium makes the \"pipes\" (xylem/phloem), while the cork cambium makes the \"bark\" (periderm/phelloderm).\n* Primary vs Secondary: Assuming cambium produces primary tissues. All cambial activity results in *secondary* tissues.",
+        "basic_answer": "The vascular cambium is a type of lateral meristem responsible for the production of secondary xylem and secondary phloem. It produces new layers of cells, contributing to the increase in thickness of plants. \n\nHence, the vascular cambium gives rise to secondary xylem.",
+        "keywords": {
+            "VC": "vascular cambium",
+            "SX": "secondary xylem",
+            "SP": "secondary phloem"
+        }
+    },
+    {
+        "id": 17,
+        "question_number": "1",
+        "text": "Thalassemia and sickle cell anaemia are caused due to a problem in globin molecule synthesis. Select the correct statement.",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Both are due to a quantitative defect in globin chain synthesis",
+            "Thalassemia is due to less synthesis of globin molecules",
+            "Sickle cell anemia is due to a quantitative problem of globin molecules",
+            "Both are due to a qualitative defect in globin chain synthesis"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 17,
+        "correct_answer": "Thalassemia is due to less synthesis of globin molecules",
+        "explanation": "### Core Concept\nHemoglobin is made of four globin chains. Disorders in these chains fall into two categories:\n1.  Quantitative defect: The correct chains are made, but in insufficient amounts.\n2.  Qualitative defect: The correct amount is made, but the structure/quality of the chain is abnormal.\n\n### Solution\n* Thalassemia: A quantitative problem. Mutations lead to a reduced rate of synthesis of either alpha or beta globin chains. This results in fewer hemoglobin molecules being formed.\n* Sickle Cell Anaemia: A qualitative problem. A point mutation at the 6th position of the beta-globin chain (Glutamic acid to Valine) creates an abnormal hemoglobin (HbS). The *amount* of hemoglobin is normal, but its *quality* is defective.\n\n\n\n### Why This Answer\nThe statement \"Thalassemia is due to less synthesis of globin molecules\" accurately describes it as a quantitative defect. \n\n### Common Mistakes\n* Swapping the Terms: Thinking Sickle Cell is quantitative because it's so common, or Thalassemia is qualitative because of the name. Remember: Thalassemia = Tally (count/quantity).\n* Assuming both are the same: While both cause anemia, their molecular cause is fundamentally different (missing parts vs broken parts).",
+        "basic_answer": "Thalassemia is a quantitative defect in globin chain synthesis where the amount of \u03b1 or \u03b2 globin produced is reduced. Sickle cell anaemia, in contrast, is a qualitative defect caused by a point mutation that changes the structure of the \u03b2-globin chain. Among the options, only the statement that thalassemia is due to less synthesis of globin molecules correctly captures this distinction.",
+        "keywords": {}
+    },
+    {
+        "id": 18,
+        "question_number": "2",
+        "text": "Root hairs develop from the region of:",
+        "subject": "Botany",
+        "sub_topic": "Plant Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Elongation",
+            "Root cap",
+            "Meristematic activity",
+            "Maturation"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 18,
+        "correct_answer": "Maturation",
+        "explanation": "### Core Concept\nA typical root tip is divided into four distinct zones or regions:\n1.  Root Cap: Protects the tip.\n2.  Meristematic Zone: Region of active cell division.\n3.  Elongation Zone: Region where cells grow in length, pushing the root deeper.\n4.  Maturation Zone (Differentiation Zone): Region where cells take on their final form and function.\n\n### Solution\nRoot hairs are delicate, thread-like, unicellular extensions of the epidermal cells. These epidermal cells only differentiate and produce these extensions once they have stopped growing and reached the Region of Maturation.\n\n\n\n### Why This Answer\nMaturation is the correct zone because root hairs are specialized structures that only appear once the epidermal cells have fully differentiated. \n\n### Common Mistakes\n* Confusing with Elongation: Thinking root hairs help the root grow longer. Actually, if root hairs were in the elongation zone, they would be sheared off as the root pushed through the soil.\n* Meristematic Activity: Assuming all \"new\" structures come from the meristem. The meristem only makes the *cells*; the *specialized parts* (like hairs) appear during maturation.",
+        "basic_answer": "Root hairs arise from the zone of maturation (differentiation) of the root, where epidermal cells differentiate into root hair cells. They do not originate from the meristematic (actively dividing) region. \n\nTherefore, the correct answer is the maturation region.",
+        "keywords": {
+            "RH": "Root Hairs",
+            "MR": "Meristematic Region"
+        }
+    },
+    {
+        "id": 19,
+        "question_number": "3",
+        "text": "The genotypes of a husband and Wife are I A I B and I A i. Among the blood types of their children, how many different genotypes and phenotypes are possible?",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "3 genotypes; 4 phenotypes",
+            "4 genotypes; 3 phenotypes",
+            "4 genotypes; 4 phenotypes",
+            "3 genotypes; 3 phenotypes"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 19,
+        "correct_answer": "4 genotypes; 3 phenotypes",
+        "explanation": "### Core Concept\nABO blood grouping is an example of multiple alleles and codominance. \n* Alleles $I^A$ and $I^B$ are dominant over $i$.\n* $I^A$ and $I^B$ are codominant (both expressed as AB).\n\n### Solution\nLet's perform the cross: $I^A I^B$ (Husband) \u00d7 $I^A i$ (Wife).\nUsing a Punnett Square:\n\n| Gametes | $I^A$ | $i$ |\n| :--- | :--- | :--- |\n| $I^A$ | $I^A I^A$ (Type A) | $I^A i$ (Type A) |\n| $I^B$ | $I^A I^B$ (Type AB) | $I^B i$ (Type B) |\n\n\n\nCounting the Results:\n* Genotypes: $I^A I^A, I^A i, I^A I^B, I^B i$ (\u2192 4 different genotypes).\n* Phenotypes: Type A (from both $I^A I^A$ and $I^A i$), Type AB, Type B (\u2192 3 different phenotypes).\n\n### Why This Answer\nThe cross results in four distinct genetic combinations, but because of dominance, two of those combinations result in the same physical blood type (Type A), leaving only three observable phenotypes.\n\n### Common Mistakes\n* Counting Genotypes as Phenotypes: Forgetting that $I^A I^A$ and $I^A i$ both look like \"Type A\" to a blood test.\n* Missing Codominance: Forgetting that $I^A$ and $I^B$ together make a unique phenotype (AB).",
+        "basic_answer": "For parents with genotypes I^A I^B and I^A i, the possible offspring genotypes are: I^A I^A, I^A i, I^A I^B and I^B i \u2013 a total of 4 distinct genotypes. Their phenotypes are: A (from I^A I^A and I^A i), AB (from I^A I^B) and B (from I^B i) \u2013 only 3 distinct blood groups. No genotype produces O, so there are 4 genotypes but only 3 phenotypes.",
+        "keywords": {
+            "I A": "Type A allele",
+            "I B": "Type B allele",
+            "i": "O allele",
+            "AB": "Type AB blood",
+            "A": "Type A blood",
+            "B": "Type B blood",
+            "O": "Type O blood"
+        }
+    }
+]

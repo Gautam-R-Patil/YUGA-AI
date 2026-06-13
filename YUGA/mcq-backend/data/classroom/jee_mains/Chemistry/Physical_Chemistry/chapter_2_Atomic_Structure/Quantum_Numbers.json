@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Atomic Structure",
+    "chapter_number": 2,
+    "topic": "Quantum Numbers",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:04:06.974572",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Quantum Numbers in Chemistry. Quantum numbers help us understand the arrangement of electrons in an atom. Let's start with the Principal Quantum Number, denoted as 'n'. It tells us the size and energy level of an electron shell. For example, if n is 1, it means the electron is in the first shell. Higher n means the electron is further from the nucleus and has more energy.\n\nNext is the Azimuthal Quantum Number, represented by 'l'. It tells us the shape of the orbital. The value of l depends on n. If n is 1, l can only be 0. If n is 2, l can be 0 or 1. Each value of l corresponds to an orbital shape: s, p, d, or f.\n\nThe Magnetic Quantum Number, denoted as 'm', tells us the orientation of the orbital in space. The value of m depends on l. If l is 1, m can be -1, 0, or 1. This means the orbital can have different orientations.\n\nThe last is the Spin Quantum Number, 's'. It tells us the direction of the electron's spin. It can be +1/2 or -1/2. This is important because it affects how electrons pair up in an orbital.\n\nNow, let's talk about some important principles. The Pauli Exclusion Principle states that no two electrons in an atom can have the same set of four quantum numbers. This means each electron is unique.\n\nThe Aufbau Principle helps us understand how electrons fill up orbitals. Electrons fill the lowest energy orbitals first. For example, the 1s orbital fills before the 2s orbital.\n\nHund's Rule is about electron distribution in orbitals. It states that electrons will fill empty orbitals before pairing up. This minimizes electron repulsion and stabilizes the atom.\n\nOrbitals have different shapes. The s orbital is spherical, while p orbitals are dumbbell-shaped. Understanding these shapes helps us visualize where electrons are likely to be.\n\nNodes are regions in an orbital where the probability of finding an electron is zero. For example, the 2s orbital has one node.\n\nLet's summarize the key points. Quantum numbers describe electron arrangements. Principal, Azimuthal, Magnetic, and Spin are the four types. Remember the Pauli Exclusion Principle, Aufbau Principle, and Hund's Rule. These help predict electron behavior.\n\nIn JEE Main, be careful with quantum number values. A common mistake is confusing the order of filling orbitals. Remember, 4s fills before 3d. Practice problems to get familiar with these concepts.\n\nThat's all for today. Review these concepts and practice questions for better understanding. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Quantum Numbers",
+    "Principal Quantum Number",
+    "Azimuthal Quantum Number",
+    "Magnetic Quantum Number",
+    "Spin Quantum Number"
+  ],
+  "formulas": [
+    {
+      "formula": "n = 1, 2, 3, ...",
+      "description": "Principal quantum number indicating the shell level"
+    },
+    {
+      "formula": "l = 0, 1, ..., n-1",
+      "description": "Azimuthal quantum number determining the shape of the orbital"
+    },
+    {
+      "formula": "m = -l, ..., 0, ..., +l",
+      "description": "Magnetic quantum number showing the orientation of the orbital"
+    },
+    {
+      "formula": "s = +1/2 or -1/2",
+      "description": "Spin quantum number indicating the direction of electron spin"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Quantum Number",
+      "definition": "Numbers that describe the position and energy of an electron in an atom"
+    },
+    {
+      "term": "Pauli Exclusion Principle",
+      "definition": "No two electrons can have the same set of four quantum numbers"
+    },
+    {
+      "term": "Aufbau Principle",
+      "definition": "Electrons fill the lowest energy orbitals first"
+    },
+    {
+      "term": "Hund's Rule",
+      "definition": "Electrons will fill empty orbitals before pairing up"
+    }
+  ]
+}

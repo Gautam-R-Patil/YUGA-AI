@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Hydrogen",
+    "chapter_number": 14,
+    "topic": "Position of Hydrogen in the Periodic Table",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:14:51.506132",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the position of hydrogen in the periodic table. Hydrogen is a unique element. It is the first element, with atomic number 1. Let's explore its special place in the periodic table.\\n\\nHydrogen is unique because it can fit in two groups: the alkali metals and the halogens. Alkali metals are in Group 1. They have one electron in their outer shell. Hydrogen also has one electron, just like alkali metals. But, hydrogen is not a metal.\\n\\nNow, let's compare hydrogen with alkali metals. Alkali metals, like lithium and sodium, are metals. They are shiny and conduct electricity. Hydrogen is a non-metal. It is a gas at room temperature. But, like alkali metals, hydrogen can lose its one electron to form a positive ion, H⁺.\\n\\nNext, let's see how hydrogen is like halogens. Halogens are in Group 17. They need one electron to complete their outer shell. Hydrogen can also gain one electron to form a negative ion, H⁻. This is similar to halogens like fluorine.\\n\\nHydrogen has a dual nature. It can behave like both alkali metals and halogens. This dual nature makes hydrogen very special. It can form both positive and negative ions.\\n\\nLet's talk about hydrogen's isotopes. Isotopes are atoms of the same element with different numbers of neutrons. Hydrogen has three isotopes: protium, deuterium, and tritium. Protium has no neutrons, deuterium has one neutron, and tritium has two neutrons.\\n\\nIn JEE Main, you may need to predict chemical behavior using hydrogen. Remember, hydrogen can form compounds with both metals and non-metals. This helps in predicting reactions.\\n\\nHydrogen also follows periodic trends. It is similar to alkali metals in reactivity. But, it is non-metallic like halogens. In the universe, hydrogen is very important. It is the most abundant element. Stars, like our sun, are mostly made of hydrogen.\\n\\nNow, let's look at some common mistakes in JEE Main. Students often confuse hydrogen's position. Remember, hydrogen is not strictly an alkali metal or a halogen. It is unique.\\n\\nFor quick revision, remember these key points: Hydrogen is unique. It can act like alkali metals and halogens. It has three isotopes. It is the most abundant element in the universe.\\n\\nIn conclusion, hydrogen's position in the periodic table is special. It helps us understand its chemical behavior. Keep these points in mind for your exams. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Hydrogen",
+    "Alkali Metals",
+    "Halogens",
+    "Isotopes",
+    "Periodic Trends"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Isotopes",
+      "definition": "Atoms of the same element with different numbers of neutrons."
+    }
+  ]
+}

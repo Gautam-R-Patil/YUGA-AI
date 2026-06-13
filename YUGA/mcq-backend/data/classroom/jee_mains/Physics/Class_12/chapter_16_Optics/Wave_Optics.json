@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Optics",
+    "chapter_number": 16,
+    "topic": "Wave Optics",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:00:18.059950",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about wave optics. This is an important topic in physics. It helps us understand how light behaves. We will cover Huygens' principle, coherent sources, Young's double-slit experiment, fringe width, and diffraction grating.\n\nLet's start with Huygens' principle. This principle says that every point on a wavefront acts as a source of tiny wavelets. These wavelets spread out in all directions at the same speed as the wave. The new wavefront is the surface that touches all these wavelets. This helps us understand how waves move and bend around objects.\n\nNext, we talk about coherent sources. Coherent sources are light sources that have a constant phase difference. They also have the same frequency. This means the waves from these sources stay in step with each other. Coherent sources are important for interference, where waves add up to make bright or dark spots.\n\nNow, let's look at Young's double-slit experiment. This experiment shows interference of light. We use two slits as coherent sources. Light passes through these slits and creates a pattern of bright and dark bands on a screen. These bands are called fringes. The formula for the position of these fringes is x = (nλD)/d, where n is the fringe number, λ is the wavelength, D is the distance to the screen, and d is the distance between slits.\n\nFringe width is the distance between two bright or two dark fringes. The formula for fringe width is β = (λD)/d. This tells us how far apart the fringes are. In JEE Main, remember that increasing the distance between slits (d) makes fringes closer.\n\nNow, let's talk about diffraction grating. A diffraction grating has many slits close together. It spreads light into a spectrum. The formula for diffraction grating is d sin θ = nλ, where d is the distance between slits, θ is the angle, and n is the order of the spectrum. This formula helps find angles where bright spots appear.\n\nLet's do a quick example. If light with wavelength 600 nm hits a grating with 5000 lines/cm, find the angle for the first-order bright spot. First, convert lines/cm to meters: 5000 lines/cm = 500000 lines/m, so d = 1/500000 m. Use d sin θ = nλ with n = 1. We get sin θ = (1 x 600 x 10^-9)/(1/500000). Calculate θ using a calculator.\n\nJEE Main mistake note: Always check units. Convert nm to meters and lines/cm to lines/m.\n\nKey takeaways: Huygens' principle explains wave movement. Coherent sources have constant phase difference. Young's experiment shows interference. Fringe width depends on wavelength and slit distance. Diffraction grating spreads light into a spectrum.\n\nIn summary, wave optics helps us understand light's wave nature. Remember these concepts and formulas for JEE Main. Practice problems to get better. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Huygens' Principle",
+    "Coherent Sources",
+    "Young's Double-Slit Experiment",
+    "Fringe Width",
+    "Diffraction Grating"
+  ],
+  "formulas": [
+    {
+      "formula": "x = (nλD)/d",
+      "description": "Used to find the position of fringes in Young's double-slit experiment"
+    },
+    {
+      "formula": "β = (λD)/d",
+      "description": "Calculates the fringe width in Young's double-slit experiment"
+    },
+    {
+      "formula": "d sin θ = nλ",
+      "description": "Used in diffraction grating to find angles of bright spots"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Huygens' Principle",
+      "definition": "Every point on a wavefront is a source of tiny wavelets that spread out in all directions."
+    },
+    {
+      "term": "Coherent Sources",
+      "definition": "Light sources that have a constant phase difference and the same frequency."
+    },
+    {
+      "term": "Fringe Width",
+      "definition": "The distance between two bright or two dark fringes in an interference pattern."
+    }
+  ]
+}

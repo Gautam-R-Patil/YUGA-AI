@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Continuity and Differentiability",
+    "chapter_number": 14,
+    "topic": "Derivatives",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:57:40.573520",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about derivatives. This is an important topic in calculus, especially for JEE Main. Let's start by understanding what a derivative is. \n\n**Definition of Derivative** \nA derivative tells us how a function changes as its input changes. Simply put, it shows the rate of change. If you have a function y = f(x), the derivative is written as f'(x) or dy/dx. \n\n**Derivative as a Rate of Change** \nThink of a car moving on a road. The speedometer shows how fast the car is moving at any time. This speed is like a derivative. It shows how fast the distance is changing with time. So, if you know the speed, you know the rate of change of distance. \n\n**Derivative of Standard Functions** \nLet's look at some basic functions and their derivatives. \n1. Derivative of x^n is nx^(n-1). For example, if y = x^2, then dy/dx = 2x.\n2. Derivative of sin x is cos x.\n3. Derivative of cos x is -sin x.\n4. Derivative of e^x is e^x.\n5. Derivative of ln x (natural log) is 1/x. \n\n**Rules of Differentiation** \nThere are some rules to make differentiation easier:\n- **Sum Rule**: If y = u + v, then dy/dx = du/dx + dv/dx.\n- **Product Rule**: If y = uv, then dy/dx = u(dv/dx) + v(du/dx).\n- **Quotient Rule**: If y = u/v, then dy/dx = [v(du/dx) - u(dv/dx)] / v^2.\n- **Chain Rule**: If y = f(g(x)), then dy/dx = f'(g(x)) * g'(x). \n\n**Higher Order Derivatives** \nSometimes, we need the second or third derivative. The second derivative is written as d^2y/dx^2. It tells us about the curvature of the graph. \n\n**Implicit Differentiation** \nSometimes, y is not alone on one side of the equation. For example, in x^2 + y^2 = 1, we use implicit differentiation. Differentiate both sides with respect to x. Remember to apply the chain rule when you differentiate y. \n\n**Logarithmic Differentiation** \nThis method is useful when you have complicated products or powers. Take the natural log of both sides, then differentiate. It simplifies the differentiation process. \n\n**Common Mistakes and Exam Traps** \n- Forgetting to apply the chain rule.\n- Mixing up product and quotient rules.\n- Not simplifying expressions before differentiating.\n- Missing negative signs in derivatives of trigonometric functions.\n\n**Key Takeaways** \n- Derivatives measure the rate of change.\n- Use rules of differentiation to simplify problems.\n- Practice makes perfect. Solve many problems to get comfortable.\n\n**Summary** \nToday, we learned what derivatives are and how they help us understand change. We explored standard derivatives and differentiation rules. Remember to practice these concepts for JEE Main success. \n\nThank you for listening. Keep practicing, and you will do great in your exams!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Derivative",
+    "Rate of Change",
+    "Differentiation",
+    "Implicit Differentiation",
+    "Logarithmic Differentiation"
+  ],
+  "formulas": [
+    {
+      "formula": "f'(x) = nx^(n-1)",
+      "description": "Used for finding the derivative of x^n, a standard function"
+    },
+    {
+      "formula": "dy/dx = u(dv/dx) + v(du/dx)",
+      "description": "Product rule for differentiating products of two functions"
+    },
+    {
+      "formula": "dy/dx = [v(du/dx) - u(dv/dx)] / v^2",
+      "description": "Quotient rule for differentiating quotients of two functions"
+    },
+    {
+      "formula": "dy/dx = f'(g(x)) * g'(x)",
+      "description": "Chain rule for differentiating composite functions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Derivative",
+      "definition": "A measure of how a function changes as its input changes"
+    },
+    {
+      "term": "Implicit Differentiation",
+      "definition": "A method to find the derivative when y is not isolated"
+    },
+    {
+      "term": "Logarithmic Differentiation",
+      "definition": "A technique using logarithms to simplify differentiation"
+    }
+  ]
+}

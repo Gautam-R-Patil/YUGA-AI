@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Structure of Atom",
+    "chapter_number": 2,
+    "topic": "Discovery of Subatomic Particles",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:11:32.561043",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about the discovery of subatomic particles. These particles are smaller than an atom. Let's start with the electron.\n\nThe electron was discovered by J.J. Thomson in 1897. He used the cathode ray experiment. In this experiment, he passed electricity through a gas in a tube. A green glow appeared on the tube's wall. This glow was caused by particles. Thomson called these particles 'electrons'. Electrons are very light and have a negative charge.\n\nNext, let's talk about the proton. The proton was discovered by Eugen Goldstein. He used the canal ray experiment. In his setup, he noticed rays traveling in the opposite direction of electrons. These rays were called canal rays. They were made of positive particles, later named protons. Protons are heavier than electrons and have a positive charge.\n\nNow, we move to the neutron. The neutron was discovered by James Chadwick in 1932. Neutrons are neutral, which means they have no charge. Chadwick found that neutrons are present in the nucleus of an atom. Neutrons are slightly heavier than protons.\n\nLet's summarize the properties of these subatomic particles. Electrons have a negative charge and are very light. Protons have a positive charge and are heavier than electrons. Neutrons have no charge and are slightly heavier than protons.\n\nA common mistake is thinking that electrons, protons, and neutrons all have the same mass. Remember, electrons are much lighter. Also, protons and neutrons are found in the nucleus, while electrons orbit around the nucleus.\n\nKey points to remember: Electrons are negative and light. Protons are positive and heavier. Neutrons are neutral and slightly heavier than protons.\n\nIn conclusion, understanding these particles helps us understand the structure of an atom. This knowledge is important for NEET exams. Make sure you remember the differences between these particles. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Electron",
+    "Proton",
+    "Neutron",
+    "Cathode ray",
+    "Canal ray"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Electron",
+      "definition": "A subatomic particle with a negative charge and very small mass."
+    },
+    {
+      "term": "Proton",
+      "definition": "A subatomic particle with a positive charge and a larger mass than an electron."
+    },
+    {
+      "term": "Neutron",
+      "definition": "A subatomic particle with no charge and a mass slightly larger than a proton."
+    }
+  ]
+}

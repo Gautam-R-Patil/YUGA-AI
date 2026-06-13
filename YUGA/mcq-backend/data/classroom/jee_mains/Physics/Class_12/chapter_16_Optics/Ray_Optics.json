@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Optics",
+    "chapter_number": 16,
+    "topic": "Ray Optics",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:59:40.608177",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will learn about Ray Optics. This is a part of optics that deals with light as rays. We will cover some important topics: reflection, refraction, laws of reflection and refraction, total internal reflection, and optical fibers. Let's start with reflection of light. Reflection happens when light hits a surface and bounces back. This is why you can see yourself in a mirror. The angle at which light hits the surface is called the angle of incidence. The angle at which it bounces off is called the angle of reflection. According to the law of reflection, these two angles are equal. A quick check: If light hits a mirror at 30 degrees, it reflects at 30 degrees. Now, let's talk about refraction. Refraction is the bending of light when it passes from one medium to another, like from air to water. This bending happens because light travels at different speeds in different media. The angle of incidence and the angle of refraction are related by Snell's Law. Snell's Law is written as n1 * sin(θ1) = n2 * sin(θ2), where n1 and n2 are the refractive indices of the two media, and θ1 and θ2 are the angles of incidence and refraction. Remember: Refractive index is a measure of how much a medium can bend light. A common mistake in JEE Main is to mix up the angles. Always check which angle is with respect to the normal. Now, let's understand total internal reflection. This happens when light tries to move from a denser medium to a rarer medium, like from water to air, and the angle of incidence is greater than a certain angle called the critical angle. At this angle, light is completely reflected inside the denser medium. Optical fibers use this principle. They are thin strands of glass or plastic that carry light over long distances. They keep light inside by total internal reflection. This is how internet data travels through cables. In JEE Main, questions often ask about angles and critical conditions. Always remember to identify the medium and angles correctly. Let's look at some examples. Example 1: A light ray hits a mirror at 45 degrees. What is the angle of reflection? The answer is 45 degrees because of the law of reflection. Example 2: Light moves from air (n=1) to glass (n=1.5) at 30 degrees. What is the angle of refraction? Use Snell's Law: 1 * sin(30) = 1.5 * sin(θ2). Solve to find θ2. Key takeaways: Remember the laws of reflection and refraction. Know the formulas and how to apply them. In exams, always double-check your angles and media. In summary, ray optics helps us understand how light behaves. It is important for many technologies, like cameras and optical fibers. Practice these concepts and formulas to do well in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Reflection",
+    "Refraction",
+    "Snell's Law",
+    "Total Internal Reflection",
+    "Optical Fibers"
+  ],
+  "formulas": [
+    {
+      "formula": "θ1 = θ2",
+      "description": "Law of reflection: angle of incidence equals angle of reflection"
+    },
+    {
+      "formula": "n1 * sin(θ1) = n2 * sin(θ2)",
+      "description": "Snell's Law: relates angles of incidence and refraction with refractive indices"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Reflection",
+      "definition": "The bouncing back of light when it hits a surface"
+    },
+    {
+      "term": "Refraction",
+      "definition": "The bending of light when it passes from one medium to another"
+    },
+    {
+      "term": "Total Internal Reflection",
+      "definition": "Complete reflection of light within a denser medium when angle of incidence is greater than critical angle"
+    },
+    {
+      "term": "Optical Fiber",
+      "definition": "Thin strands that carry light using total internal reflection"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Matrices and Determinants",
+    "chapter_number": 13,
+    "topic": "Applications of Determinants",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:56:57.575421",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the applications of determinants. This is an important topic for JEE Main. Let's start with solving a system of linear equations. When we have two or three equations, we can use determinants to find the solution.\n\nFirst, let's understand Cramer's Rule. This rule helps us solve linear equations using determinants. If we have two equations like ax + by = c and dx + ey = f, we can find x and y using determinants. We calculate the determinant of the coefficients, which is D = ae - bd. If D is not zero, we can find x and y. The formulas are: x = (ce - bf) / D and y = (af - cd) / D.\n\nA quick check: If D is zero, Cramer's Rule cannot be used. We need to check if the equations are consistent or inconsistent. Consistent means they have a solution; inconsistent means no solution.\n\nNow, let's talk about the geometric interpretation of determinants. The determinant of a matrix can tell us about the area of a shape. For example, if we have three points (x1, y1), (x2, y2), and (x3, y3), we can find the area of the triangle formed by these points. The formula is Area = 1/2 | x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2) |.\n\nThis formula is useful in JEE Main. If the area is zero, it means the points are collinear. Collinear means they lie on a straight line. This can be a common trap in exams. Always check if the area is zero to see if points are collinear.\n\nLet's see a quick example. Suppose we have points (1, 2), (3, 4), and (5, 6). Using the area formula, we get Area = 1/2 | 1(4 - 6) + 3(6 - 2) + 5(2 - 4) | = 0. This means the points are collinear.\n\nKey takeaways for JEE Main: 1) Use Cramer's Rule when D is not zero. 2) Use the area formula to check for collinearity. 3) Always check your calculations for mistakes.\n\nIn summary, determinants help us solve equations and find areas. They are powerful tools in geometry and algebra. Practice these concepts and use the formulas correctly in exams. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Determinants",
+    "Cramer's Rule",
+    "Collinearity",
+    "Linear Equations",
+    "Area of Triangle"
+  ],
+  "formulas": [
+    {
+      "formula": "D = ae - bd",
+      "description": "Determinant of a 2x2 matrix, used to check if Cramer's Rule can be applied"
+    },
+    {
+      "formula": "x = (ce - bf) / D",
+      "description": "Formula to find x using Cramer's Rule when solving linear equations"
+    },
+    {
+      "formula": "y = (af - cd) / D",
+      "description": "Formula to find y using Cramer's Rule when solving linear equations"
+    },
+    {
+      "formula": "Area = 1/2 | x1(y2 - y3) + x2(y3 - y1) + x3(y1 - y2) |",
+      "description": "Formula to find the area of a triangle using determinants"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Determinant",
+      "definition": "A number that can be calculated from a square matrix, used to solve equations and find areas"
+    },
+    {
+      "term": "Collinear",
+      "definition": "When three or more points lie on a single straight line"
+    }
+  ]
+}

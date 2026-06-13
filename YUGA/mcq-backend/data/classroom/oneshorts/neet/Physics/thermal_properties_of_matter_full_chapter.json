@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Thermal Properties of Matter",
+    "chapter_number": "11",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:11:52.721148",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise the major NEET concepts of Thermal Properties of Matter.\n\n1. Temperature and Heat: Temperature is a measure of the average kinetic energy of particles in a substance. Heat is the transfer of thermal energy due to temperature difference.\n   - Key Formula: $Q = mc\\Delta T$ (where $Q$ is heat energy, $m$ is mass, $c$ is specific heat, and $\\Delta T$ is the change in temperature).\n\n2. Specific Heat Capacity: It is the amount of heat required to raise the temperature of 1 kg of a substance by 1 K.\n   - Key Concept: High specific heat capacity means the substance heats up and cools down slowly.\n   - NEET often asks about calculations involving specific heat.\n\n3. Latent Heat: The heat required to change the state of a substance without changing its temperature.\n   - Types of Latent Heat: Latent heat of fusion (solid to liquid) and latent heat of vaporization (liquid to gas).\n   - Key Formula: $Q = mL$ (where $L$ is latent heat).\n\n4. Thermal Expansion: Change in dimensions of a material with temperature.\n   - Linear Expansion: $\\Delta L = \\alpha L_0 \\Delta T$\n   - Area and Volume Expansion: Use corresponding formulas, keeping principles of dimensionality in mind.\n   - NEET questions may involve calculating the expansion of materials.\n\n5. Calorimetry: Study of heat transfer during chemical reactions or physical changes.\n   - Principle: Heat lost by hot body = Heat gained by cold body.\n   - Typical question involves mixing substances and finding final equilibrium temperature.\n   \n6. Modes of Heat Transfer: Conduction, convection, and radiation.\n   - Conduction: Heat transfer through a medium. Governed by Fourier's Law: $\\dot{Q} = -kA(\\frac{dT}{dx})$\n   - Convection: Heat transfer by movement of fluids.\n   - Radiation: Emission of heat as electromagnetic waves. Governed by Stefan-Boltzmann Law: $P = \\sigma A e T^4$\n   - Questions often involve the efficiency of different modes of transfer.\n\nQuick Revision:\n- Understand the difference between heat and temperature.\n- Use $Q = mc\\Delta T$ for specific heat problems.\n- $Q = mL$ for phase change problems.\n- Apply thermal expansion formulas for material dimension changes.\n- Consider heat transfer modes for energy efficiency topics.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Temperature",
+    "Heat",
+    "Specific Heat Capacity",
+    "Latent Heat",
+    "Thermal Expansion",
+    "Calorimetry",
+    "Conduction",
+    "Convection",
+    "Radiation"
+  ],
+  "formulas": [
+    "Q = mc\\Delta T",
+    "Q = mL",
+    "\\Delta L = \\alpha L_0 \\Delta T",
+    "\\dot{Q} = -kA(\\frac{dT}{dx})",
+    "P = \\sigma A e T^4"
+  ],
+  "definitions": [
+    {
+      "term": "Temperature",
+      "definition": "A measure of the average kinetic energy of particles in a substance."
+    },
+    {
+      "term": "Heat",
+      "definition": "The transfer of thermal energy due to a temperature difference."
+    },
+    {
+      "term": "Specific Heat Capacity",
+      "definition": "The amount of heat required to raise the temperature of 1 kg of a substance by 1 K."
+    },
+    {
+      "term": "Latent Heat",
+      "definition": "The heat required to change the state of a substance without changing its temperature."
+    },
+    {
+      "term": "Thermal Expansion",
+      "definition": "Change in the dimensions of a material with a change in temperature."
+    },
+    {
+      "term": "Calorimetry",
+      "definition": "The measurement of heat transfer during chemical reactions or physical changes."
+    },
+    {
+      "term": "Conduction",
+      "definition": "Heat transfer through a material without the physical movement of the material itself."
+    },
+    {
+      "term": "Convection",
+      "definition": "Heat transfer by the physical movement of fluid from a hotter region to a cooler region."
+    },
+    {
+      "term": "Radiation",
+      "definition": "The transfer of heat through electromagnetic waves."
+    }
+  ]
+}

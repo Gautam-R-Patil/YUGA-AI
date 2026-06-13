@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Periodic Table and Periodicity",
+    "chapter_number": 12,
+    "topic": "Reactivity Trends",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:13:09.123644",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about reactivity trends in the periodic table. This is an important topic for JEE Main. Let’s start by understanding what reactivity means. Reactivity tells us how easily an element can form compounds. \n\nFirst, let's talk about metals. Metals like to lose electrons. This means they react more easily when they can give away electrons. For example, sodium (Na) loses an electron to form Na+. This makes sodium very reactive. As we move down a group in the periodic table, metals become more reactive. Why? Because the outer electrons are farther from the nucleus. This makes it easier for them to leave. \n\nNow, let's look at non-metals. Non-metals like to gain electrons. For example, chlorine (Cl) gains an electron to form Cl-. As we move across a period, non-metals become more reactive. This is because they have more protons in the nucleus. This pulls electrons closer, making it easier to gain them. \n\nNext, let's discuss trends. Across a period, metals become less reactive, while non-metals become more reactive. Down a group, metals become more reactive, and non-metals become less reactive. Remember, these are general trends. \n\nSeveral factors affect reactivity. One is ionization energy. This is the energy needed to remove an electron. If ionization energy is low, metals are more reactive. Another factor is electronegativity. This is the ability to attract electrons. If electronegativity is high, non-metals are more reactive. \n\nLet's look at some exceptions. For example, noble gases are usually not reactive. This is because they have full outer electron shells. Also, some elements like fluorine are very reactive despite being small. \n\nGraphical representation can help us. Imagine a graph where the x-axis is the element number, and the y-axis is reactivity. You will see a zig-zag pattern. This shows how reactivity changes across periods and down groups. \n\nReactivity helps us predict chemical reactions. For example, if you mix sodium with water, it reacts quickly. But if you mix gold with water, nothing happens. This is because sodium is more reactive than gold. \n\nReactivity is also related to oxidation states. Oxidation states show how many electrons an element gains or loses. For example, in NaCl, sodium has an oxidation state of +1, and chlorine has -1. \n\nLet's do a quick example. If you have a question about which element is more reactive, look at its position in the periodic table. If it is a metal, check if it is lower in the group. If it is a non-metal, check if it is more to the right in the period. \n\nBe careful of common mistakes. A JEE Main mistake is thinking that all elements in a group have the same reactivity. Remember, trends can vary. \n\nKey takeaways: Metals lose electrons, non-metals gain them. Reactivity increases down a group for metals, and across a period for non-metals. Check ionization energy and electronegativity to understand reactivity. \n\nIn summary, knowing reactivity trends helps in predicting chemical reactions. It is important for JEE Main. Practice identifying trends and exceptions. This will help you in exams. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Reactivity",
+    "Metals",
+    "Non-metals",
+    "Ionization energy",
+    "Electronegativity"
+  ],
+  "formulas": [
+    {
+      "formula": "Reactivity ∝ 1/Ionization Energy",
+      "description": "Used to predict how easily a metal will lose electrons in JEE Main questions"
+    },
+    {
+      "formula": "Reactivity ∝ Electronegativity",
+      "description": "Used to predict how easily a non-metal will gain electrons in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Reactivity",
+      "definition": "The tendency of an element to engage in chemical reactions"
+    },
+    {
+      "term": "Ionization Energy",
+      "definition": "The energy required to remove an electron from an atom"
+    },
+    {
+      "term": "Electronegativity",
+      "definition": "The ability of an atom to attract electrons towards itself"
+    }
+  ]
+}

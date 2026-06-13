@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Straight Lines",
+    "chapter_number": 7,
+    "topic": "Point-Slope Form",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:50:36.493810",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Point-Slope Form of a straight line. This is a very useful concept in coordinate geometry.\n\nLet's start with the basic idea. A straight line can be defined using a point on the line and the slope of the line. The slope tells us how steep the line is.\n\nThe formula for the Point-Slope Form is: y - y1 = m(x - x1). Here, (x1, y1) is a point on the line, and m is the slope.\n\nLet's break this down. The point (x1, y1) is any point on the line. The slope m is a number that shows the tilt of the line. If m is positive, the line goes up. If m is negative, the line goes down.\n\nNow, how do we use this formula? Suppose you know a point on the line, like (2, 3), and the slope is 4. You can find the equation of the line. Just plug these values into the formula: y - 3 = 4(x - 2).\n\nLet's solve this. First, distribute the 4: y - 3 = 4x - 8. Then, add 3 to both sides: y = 4x - 5. Now, you have the equation of the line.\n\nQuick check: If x = 2, then y should be 3. Substitute x = 2 into y = 4x - 5. You get y = 4(2) - 5 = 8 - 5 = 3. It matches!\n\nA common mistake in exams is to mix up the signs. Remember, y - y1 and x - x1. Keep the signs correct.\n\nNow, let's talk about applications. This formula helps us find the equation of a line quickly. It is very useful in JEE Main problems. You might need to find the line's equation given a point and slope.\n\nLet's do another example. Find the line's equation with point (5, -1) and slope -2. Plug into the formula: y + 1 = -2(x - 5). Simplify it: y + 1 = -2x + 10. So, y = -2x + 9.\n\nCheck again: If x = 5, then y should be -1. Substitute x = 5: y = -2(5) + 9 = -10 + 9 = -1. It matches!\n\nIn JEE Main, watch out for tricky points. The slope might be given as a fraction. If m = 3/2, handle it carefully.\n\nKey takeaways: Use the formula y - y1 = m(x - x1) to find the line's equation. Double-check your signs. Practice with different points and slopes.\n\nIn summary, the Point-Slope Form is a quick way to write a line's equation. It uses a point and a slope. Remember the formula and practice with examples.\n\nThat's all for today. Keep practicing, and you will master this concept!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Point-Slope Form",
+    "Slope",
+    "Equation",
+    "Line",
+    "Coordinate Geometry"
+  ],
+  "formulas": [
+    {
+      "formula": "y - y1 = m(x - x1)",
+      "description": "Used to find the equation of a line when a point and the slope are known. Common in JEE Main problems."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Slope",
+      "definition": "The measure of the steepness or tilt of a line. Positive slope means the line goes up, negative means it goes down."
+    },
+    {
+      "term": "Point-Slope Form",
+      "definition": "An equation format for a line using a point on the line and the slope."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations and Waves",
+    "chapter_number": 10,
+    "topic": "Sound Waves",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:54:27.682142",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about sound waves. Sound waves are vibrations that travel through the air or other media. They help us hear sounds. Let's begin with the nature and propagation of sound. \n\nSound is a type of mechanical wave. This means it needs a medium to travel. The medium can be solid, liquid, or gas. Sound cannot travel in a vacuum. This is because there are no particles to carry the vibrations. \n\nNow, let's talk about the speed of sound. The speed of sound depends on the medium. In air, the speed of sound is about 343 meters per second. In water, it is faster, around 1500 meters per second. In solids, it is even faster. This is because particles are closer together in solids. \n\nNext, we will discuss intensity and loudness. Intensity is the power of the sound wave per unit area. It is measured in watts per square meter. Loudness is how we perceive the intensity. It depends on the sensitivity of our ears. \n\nLet's move to the Doppler effect. The Doppler effect occurs when a sound source moves relative to an observer. If the source moves towards you, the sound is higher in pitch. If it moves away, the sound is lower. This is important in radar and astronomy. \n\nBeats occur when two sound waves of slightly different frequencies interfere. You can hear a pulsing sound. Beats are used in tuning musical instruments. The beat frequency is the difference between the two frequencies. \n\nNow, let's solve a simple numerical problem. If a car moves towards a stationary observer at 20 m/s and the speed of sound is 340 m/s, what is the frequency heard by the observer if the car's horn is 500 Hz? \n\nWe use the Doppler effect formula: f' = f(v + vo)/(v + vs). Here, f' is the frequency heard, f is the source frequency, v is the speed of sound, vo is the observer's speed, and vs is the source speed. \n\nSubstitute the values: f' = 500(340 + 0)/(340 - 20) = 500(340/320) = 531.25 Hz. So, the observer hears a frequency of 531.25 Hz. \n\nCommon JEE Main mistake: Forgetting to add or subtract the speeds correctly in the Doppler formula. \n\nLet's talk about acoustic resonance. Resonance occurs when a sound wave matches the natural frequency of an object, causing it to vibrate strongly. This is why a singer can break a glass by singing at the right pitch. \n\nFor graphical representation, we can use graphs to show sound properties like frequency and amplitude. A higher frequency means more waves in the same space. A higher amplitude means louder sound. \n\nIn summary, sound waves are important in many areas of science and technology. Remember the key formulas and concepts we discussed today. Practice solving problems to prepare well for the JEE Main exam. \n\nThank you for listening. Keep practicing and stay curious!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Sound Waves",
+    "Speed of Sound",
+    "Doppler Effect",
+    "Intensity",
+    "Resonance"
+  ],
+  "formulas": [
+    {
+      "formula": "f' = f(v + vo)/(v + vs)",
+      "description": "Doppler effect formula for frequency heard by observer; used when source or observer is moving"
+    },
+    {
+      "formula": "I = P/A",
+      "description": "Intensity formula; used to calculate the power per unit area of a sound wave"
+    },
+    {
+      "formula": "v = √(B/ρ)",
+      "description": "Speed of sound formula; used to calculate speed in a medium where B is bulk modulus and ρ is density"
+    },
+    {
+      "formula": "f_beat = |f1 - f2|",
+      "description": "Beat frequency formula; used to find the frequency of beats from two close frequencies"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Sound Waves",
+      "definition": "Vibrations that travel through air or another medium that can be heard"
+    },
+    {
+      "term": "Intensity",
+      "definition": "The power of a sound wave per unit area, measured in watts per square meter"
+    },
+    {
+      "term": "Doppler Effect",
+      "definition": "Change in frequency or wavelength of a wave in relation to an observer moving relative to the wave source"
+    },
+    {
+      "term": "Resonance",
+      "definition": "The increase in amplitude that occurs when a periodic force is applied at a natural frequency of the object"
+    }
+  ]
+}

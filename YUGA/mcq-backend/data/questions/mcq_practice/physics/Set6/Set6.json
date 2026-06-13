@@ -1,0 +1,364 @@
+[
+    {
+        "id": 50,
+        "question_number": "40",
+        "text": "The radius of innermost orbit of a hydrogen atom is 0.53 Å. What is the radius of the third allowed orbit of a hydrogen atom?",
+        "subject": "Physics",
+        "sub_topic": "Atomic Physics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (35)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "4.77 Å",
+            "0.53 Å",
+            "1.06 Å",
+            "1.59 Å"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (35).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 4010,
+        "correct_answer": "4.77 Å",
+        "basic_answer": "Given: \n[Radius of innermost orbit r₁ = 0.53 Å]\n\nSolution: \n[Radius of nth orbit in hydrogen atom rₙ = n² × r₁. \n\nFor n = 3, \n\nrₙ = 3² × 0.53 Å \n\n= 9 × 0.53 Å \n\n= 4.77 Å]",
+        "explanation": "### **CORE CONCEPT**\nThe fundamental principle at play here is derived from Bohr’s Model of the Hydrogen Atom. In 1913, Niels Bohr proposed that electrons move in specific, quantized circular orbits around the nucleus without radiating energy. One of his key postulates was the quantization of angular momentum, which states that the angular momentum of an electron is an integral multiple of $h/2\\pi$. By balancing the centripetal force required for circular motion (provided by the electrostatic attraction between the proton and electron) and applying this quantization rule, Bohr derived a formula for the radius of these allowed orbits. The radius of the $n^{th}$ orbit is expressed as rₙ = (ε₀ n² h²) ⁄ (π m e² Z). For a Hydrogen atom, the atomic number Z is 1 \n\nThis formula clearly shows that the radius is not linearly proportional to the orbit number but rather to the square of the principal quantum number ($n$). The first orbit ($n=1$), known as the Bohr radius (a₀), is the smallest and most stable configuration, which is given as 0.53 Å in this problem. As the electron moves to higher energy levels (higher $n$), the orbits become significantly more distant from the nucleus in a non-linear fashion.\n\n### **SOLUTION**\nTo find the radius of any specific orbit in a hydrogen atom, we utilize the derived relationship: rₙ = n² × a₀ (where a₀ is the radius of the innermost orbit). \n1. **Identify the constant:** The innermost orbit (n=1) has a radius r₁ = 0.53$ Å. \n2. **Identify the target orbit:** The question asks for the 'third allowed orbit,' which corresponds to a principal quantum number of n = 3\n\n3. **Apply the formula:** r₃ = 3² × 0.53 Å. \n4. **Execute the calculation:** 3² is 9. Therefore, r₃ = 9 × 0.53 = 4.77 Å. \nThis calculation reveals that the third orbit is nine times larger than the first orbit, showcasing the rapid expansion of the electron cloud as energy levels increase.\n\n### **WHY THIS ANSWER**\nThe answer 4.77 Å is the only result that adheres to the square-law relationship of Bohr’s quantization. Because the radius increases with the square of the orbit number ($n^2$), the jump from the first to the third orbit results in a nine-fold increase in distance. If we were looking at the second orbit, the radius would be $4 \\times 0.53 = 2.12$ Å. Since 4.77 Å is the precise mathematical product of 9 and the base Bohr radius, it aligns perfectly with Option A.\n\n### **COMMON MISTAKES**\nA very frequent error among students is assuming a linear relationship, where they simply multiply the base radius by the orbit number (e.g., $3 \\times 0.53 = 1.59$ Å). This leads them to pick Option D. Another mistake is miscounting the orbit number, perhaps thinking the 'third' orbit means $n=2$ if they start counting from the first excited state, though 'innermost' clearly establishes $n=1$ as the baseline. Some students also forget to square the $n$ value or perform the multiplication incorrectly. It is essential to remember that in the quantum world of the Bohr atom, radii grow as $1, 4, 9, 16...$ times the base radius.",
+        "keywords": {
+            "r": "radius",
+            "n": "principal quantum number",
+            "Å": "Angstrom"
+        }
+    },
+    {
+        "id": 51,
+        "question_number": "41",
+        "text": "The resistance of platinum wire at 0°C is 2 Ω and at 80°C is 6.8 Ω. The temperature coefficient of resistance of the wire is:",
+        "subject": "Physics",
+        "sub_topic": "Electricity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (35)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "3 × 10 −1 °C⁻¹",
+            "3 × 10 −4 °C⁻¹",
+            "3 × 10 −3 °C⁻¹",
+            "3 × 10 −2 °C⁻¹"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (35).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 4011,
+        "correct_answer": "3 × 10 −2 °C⁻¹",
+        "basic_answer": "Given: \n[Resistance at 0°C, R₀ = 2 Ω;\n\n Resistance at 80°C, R₈₀ = 6.8 Ω;\n\n Temperature change ΔT = 80°C - 0°C = 80°C]\n\nSolution: \n[The formula for temperature coefficient of resistance (α) is \n\nα = (R₈₀ - R₀) / (R₀ × ΔT). \n\nα = (6.8 Ω - 2 Ω) / (2 Ω × 80°C) \n\n= 4.8 Ω / 160 Ω°C \n\n= 0.03 °C⁻¹ \n\n= 3 × 10⁻² °C⁻¹]",
+        "explanation": "### **CORE CONCEPT**\nThe electrical resistance of a conductor is not a fixed value but varies with temperature. For most metallic conductors like platinum, the resistance increases as the temperature rises. This happens because higher temperatures cause the ions in the metal lattice to vibrate more vigorously. These vibrations increase the frequency of collisions between the moving electrons (the current carriers) and the lattice ions, thereby impeding the flow of charge. Over a moderate temperature range, this relationship is approximately linear and is described by the equation Rₜ = R₀ (1 + α ΔT), where Rₜ is the resistance at temperature $T$, $R_0$ is the resistance at a reference temperature (usually $0^\\circ$C), and $\\Delta T$ is the temperature difference. The constant $\\alpha$ is known as the 'temperature coefficient of resistance.' It represents the fractional change in resistance per degree change in temperature. A positive value of $\\alpha$ indicates that resistance increases with temperature, which is a hallmark of metals (conductors), whereas negative values are found in semiconductors.\n\n### **SOLUTION**\nTo find the temperature coefficient ($\\alpha$), we follow these steps: \n1. **Identify parameters:** Initial resistance ($R_0$) at 0 °C is 2 Ω. Final resistance (Rₜ) at 80 °C is 6.8 Ω. The temperature change (ΔT) is 80 − 0 = 80 °C. \n2. **Use the linear variation formula:** Rₜ = R₀ + R₀ α ΔT. \n3. **Isolate alpha:** α = (Rₜ − R₀) ⁄ (R₀ × ΔT). \n4. **Substitute the values:** $\\alpha = \\frac{6.8 - 2}{2 \\times 80}$. \n5. **Perform the arithmetic:** The change in resistance is 4.8 Ω. The product of initial resistance and temperature change is 160 Ω·°C. \n6. **Final calculation:** $\\alpha = \\frac{4.8}{160} = 0.03$. In scientific notation, this is expressed as $3 \\times 10^{-2} \\text{ }^\\circ\\text{C}^{-1}$.\n\n### **WHY THIS ANSWER**\nThe calculated value of 0.03 represents the specific rate at which the platinum wire's resistance changes for every degree Celsius. Platinum is frequently used in resistance thermometers (RTDs) precisely because its $\\alpha$ is well-defined and stable. The mathematical result perfectly matches Option D, proving that for every degree the temperature rises, the resistance increases by 3% of its original value at $0^\\circ$C.\n\n### **COMMON MISTAKES**\nA common error is forgetting to include the initial resistance ($R_0$) in the denominator, simply calculating $\\Delta R / \\Delta T$, which would yield $4.8 / 80 = 0.06$. Another mistake is using the final resistance (Rₜ) in the denominator instead of the initial resistance ($R_0$). Students also sometimes struggle with the scientific notation, confusing $10^{-2}$ with $10^{-3}$ or $10^{-4}$. It is vital to ensure that the units cancel out correctly so that the unit for $\\alpha$ is $^\\circ\\text{C}^{-1}$. Lastly, if the temperatures were given in Kelvin, the change $\\Delta T$ remains the same, but one must always use the resistance at the specified reference point (usually $0^\\circ$C or $273$ K).",
+        "keywords": {
+            "R₀": "Resistance at 0°C",
+            "R₈₀": "Resistance at 80°C",
+            "α": "Temperature coefficient of resistance",
+            "Ω": "Ohms",
+            "°C": "degrees Celsius"
+        }
+    },
+    {
+        "id": 52,
+        "question_number": "20",
+        "text": "The spectral series which corresponds to the electronic transition from the levels n₂ = 5, 6, … to the level n₁ = 4 is:",
+        "subject": "Physics",
+        "sub_topic": "Atomic Physics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (38)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Pfund series",
+            "Brackett series",
+            "Lyman series",
+            "Balmer series"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (38).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 4226,
+        "correct_answer": "Brackett series",
+        "basic_answer": "Given: \n[n₁ = 4, n₂ = 5, 6, ... (levels involved in the transition)]\n\nSolution: \n[Spectral series in hydrogen are named by the final energy level: \n\nLyman (n₁=1),\n\n Balmer (n₁=2),\n\n Paschen (n₁=3),\n\n Brackett (n₁=4),\n\n Pfund (n₁=5).\n\n Transitions ending at n₁ = 4 from higher levels (n₂ = 5, 6, ..) define the Brackett series]",
+        "explanation": "### **CORE CONCEPT**\nThe Hydrogen emission spectrum consists of several groups of spectral lines, each corresponding to electrons falling from higher orbits ($n_2$) to a specific common lower orbit ($n_1$). Because the energy levels in a hydrogen atom are quantized ($\\approx -13.6/n^2$ eV), the energy of the emitted photon ($E = E_{high} - E_{low}$) is also quantized. This results in discrete lines of specific wavelengths rather than a continuous spectrum. These groups of lines are named after the scientists who discovered them. The classification is entirely determined by the value of $n_1$: \n- **Lyman Series:** Transitions to $n_1 = 1$. These are high-energy transitions occurring in the ultraviolet region. \n- **Balmer Series:** Transitions to $n_1 = 2$. These are the only lines in the visible region (H-alpha, H-beta, etc.). \n- **Paschen Series:** Transitions to $n_1 = 3$. These occur in the near-infrared region. \n- **Brackett Series:** Transitions to $n_1 = 4$. These occur in the infrared region. \n- **Pfund Series:** Transitions to $n_1 = 5$. These are far-infrared transitions. \nUnderstanding this hierarchy is essential for interpreting atomic energy level diagrams and identifying chemical elements through spectroscopy.\n\n### **SOLUTION**\nTo identify the correct series for this question, we only need to look at the 'destination' of the electron. \n1. **Analyze the given values:** The question states that electrons are falling from $n_2 = 5, 6...$ to a specific ground state $n_1 = 4$. \n2. **Match with the standard series names:** \n   - $n_1 = 1 \\rightarrow$ Lyman \n   - $n_1 = 2 \\rightarrow$ Balmer \n   - $n_1 = 3 \\rightarrow$ Paschen \n   - **$n_1 = 4 \\rightarrow$ Brackett** \n   - $n_1 = 5 \\rightarrow$ Pfund \nSince the destination level is the 4th orbit, the series is uniquely identified as the Brackett series.\n\n### **WHY THIS ANSWER**\nThe naming convention for hydrogen spectral series is a rigid definition in physics. The Brackett series specifically encompasses all transitions where an electron originates from any shell $n > 4$ and drops into the $n=4$ shell. This releases a photon with energy $13.6 \\times (1/4^2 - 1/n^2)$ eV. Because the question explicitly provides $n_1 = 4$, no other series name is applicable. This corresponds to Option B.\n\n### **COMMON MISTAKES**\nA common mistake is confusing the names, particularly the order of Paschen, Brackett, and Pfund. Students often mix up $n=3, 4, 5$. Another error is focusing on the starting level ($n_2$) instead of the ending level ($n_1$); for example, seeing $n_2 = 5$ and choosing the Pfund series by mistake. Remember that the Pfund series *starts* from $n=6, 7...$ and *ends* at $n=5$. Some also forget that the Lyman series is UV and Balmer is visible, which helps in remembering their low $n$ values. It is helpful to use a mnemonic like 'Lazy Boys Pick Big Pumpkins' (Lyman, Balmer, Paschen, Brackett, Pfund) to keep the $n=1$ to $n=5$ order straight.",
+        "keywords": {
+            "n₁": "lower energy level",
+            "n₂": "higher energy level",
+            "B": "Brackett series",
+            "P": "Pfund series",
+            "L": "Lyman series",
+            "M": "Balmer series"
+        }
+    },
+    {
+        "id": 53,
+        "question_number": "150",
+        "text": "The magnetic susceptibility is negative for",
+        "subject": "Physics",
+        "sub_topic": "Magnetism",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 15,
+        "source_pdf": "PAPAER (4)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Paramagnetic material only",
+            "Ferromagnetic material only",
+            "Paramagnetic and ferromagnetic materials",
+            "Diamagnetic material only"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (4).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 4532,
+        "correct_answer": "Diamagnetic material only",
+        "basic_answer": "Given: \n[[no specific numerical values, qualitative]\nSolution: \n[Magnetic susceptibility (χ) is a measure of how much a material will become magnetized in an applied magnetic field. Negative magnetic susceptibility indicates that a material is repelled by a magnetic field.\n Diamagnetic materials have negative susceptibility. They do not retain magnetization when the magnetic field is removed and are characterized by a negative value of susceptibility. Paramagnetic and ferromagnetic materials have positive susceptibility and tend to be attracted to magnetic fields]\noptions\nMagnetic susceptibility (χ) is a measure of how much a material will become magnetized in an applied magnetic field. Negative magnetic susceptibility indicates that a material is repelled by a magnetic field.\n Diamagnetic materials have negative susceptibility. They do not retain magnetization when the magnetic field is removed and are characterized by a negative value of susceptibility. Paramagnetic and ferromagnetic materials have positive susceptibility and tend to be attracted to magnetic fields. Hence Option D is the correct answer.",
+        "explanation": "### **CORE CONCEPT**\nMagnetic susceptibility ($\\chi$) is a dimensionless proportionality constant that indicates the degree of magnetization of a material in response to an applied magnetic field. It is defined as $\\chi$ = M / H, where $M$ is the magnetization (magnetic moment per unit volume) and $H$ is the magnetic field intensity. The behavior of $\\chi$ allows us to classify all matter into three main categories. **Diamagnetic materials** are those in which an external field induces a magnetic moment in the direction *opposite* to the field. This is a result of Lenz’s Law acting on electron orbits, and it leads to a weak repulsive force. Because the induced $M$ is opposite to $H$, the value of $\\chi$ is negative. **Paramagnetic materials** have permanent atomic dipoles that align *with* the field, leading to a weak attraction; thus, their $\\chi$ is small but positive. **Ferromagnetic materials** have domains that align strongly with the field, leading to very large positive values of $\\chi$. The sign of susceptibility is a fundamental indicator of whether a material will be attracted to or repelled by a magnetic pole.\n\n### **SOLUTION**\nTo solve this, we evaluate the characteristic susceptibility values for each type of magnetic material: \n1. **Diamagnetic Substances:** When exposed to a field, they develop a 'back-EMF' like response in their electron orbits. $M$ is in the direction $-H$. Therefore, χ = −M⁄H = negative. Typical values are very small, around −10⁻⁵\n\n2. **Paramagnetic Substances:** They have unpaired electrons that act like tiny magnets. These align with $H$. Therefore, χ = +M⁄H = positive (small). \n3. **Ferromagnetic Substances:** They have strong internal coupling (exchange interaction) that aligns dipoles. $M$ is very large and in the direction of H. Therefore, χ = positive (very large). \nOnly the diamagnetic group produces a negative ratio.\n\n### **WHY THIS ANSWER**\nThe answer 'Diamagnetic material only' is correct because negative susceptibility is the defining physical signature of diamagnetism. It is the only state of matter where the internal magnetic field produced by the material actually opposes the external field that created it. This opposition is what causes diamagnetic materials (like water, wood, or bismuth) to be repelled by both the north and south poles of a magnet. Since paramagnetic and ferromagnetic materials are always attracted (positive $\\chi$), they cannot be the correct choice.\n\n### **COMMON MISTAKES**\nA common mistake is confusing susceptibility ($\\chi$) with permeability ($\\mu$). While $\\chi$ is negative for diamagnets, the relative permeability ($\\mu_r$) is just slightly less than 1 ($\\mu_r = 1 + \\chi$). Another error is thinking that because 'North repels North,' all magnets have negative susceptibility; however, $\\chi$ refers to the material's *response* to an external field, not its own permanent field. Students also sometimes mix up paramagnetism and diamagnetism, thinking that 'para' sounds like 'pair' and therefore must have paired electrons (the opposite is true; 'dia' usually involves paired electrons). Finally, some might pick the 'paramagnetic and ferromagnetic' option because they share a positive sign, but the question specifically asks for the *negative* case.",
+        "keywords": {
+            "χ": "magnetic susceptibility",
+            "D": "diamagnetic materials",
+            "P": "paramagnetic materials",
+            "F": "ferromagnetic materials"
+        }
+    },
+    {
+        "id": 54,
+        "question_number": "1",
+        "text": "A bullet of mass hits a stationary block of mass elastically. The transfer of energy is the maximum, when:",
+        "subject": "Physics",
+        "sub_topic": "Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (36)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "M = m",
+            "M = 2m",
+            "M ≪ m",
+            "M ≫ m"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (36).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 4067,
+        "correct_answer": "M = m",
+        "basic_answer": "Given: \n[mass of bullet (m), mass of block (M)]\nSolution: \n[For elastic collision with target at rest, fraction of kinetic energy transferred \n\n= 4mM/(m+M)².\n\n This is maximized when\n\n \nM = m. \n\nTaking derivative and setting to zero, or by inspection, maximum occurs at \nM = m, \n\ngiving transfer fraction = 1 (100% transfer)]",
+        "explanation": "### **CORE CONCEPT**\nThis problem deals with the dynamics of one-dimensional elastic collisions. In an elastic collision, both linear momentum and total kinetic energy are conserved. When a moving mass $m$ (the bullet) strikes a stationary mass $M$ (the block), the equations for the final velocities v₁ and v₂ can be derived from these conservation laws. The efficiency of energy transfer from the projectile to the target depends heavily on the ratio of their masses. Energy transfer is defined as the kinetic energy gained by the target block. If the bullet is much lighter than the block ($m \\ll M$), it simply bounces back with nearly its original speed, transferring very little energy. If the bullet is much heavier than the block ($m \\gg M$), it continues forward with nearly its original speed, and the block is knocked away, but again, only a small fraction of the bullet's massive energy is transferred. The 'sweet spot' for maximum transfer occurs when the masses are perfectly matched.\n\n### **SOLUTION**\nTo mathematically prove the condition for maximum energy transfer, we look at the kinetic energy gained by the block ($K_M$):\n1. **Final velocity of target (v₂):** For an elastic collision with $u_2 = 0$, v₂ = \\frac{2m}{m+M}u$. \n2. **Energy of target:** Kᴹ = ½ M v₂² = ½ M (2m ⁄ (m + M) u)² = (2 m² M u²) ⁄ (m + M)²\n\n3. **Fraction of energy transferred (f): f = Kᴹ ⁄ Kₘ = (4 m M) ⁄ (m + M)²\n\n4. **Maximization:** To find where $f$ is maximum, we can take the derivative with respect to $m$ or $M$ and set it to zero, or use the Arithmetic Mean-Geometric Mean (AM-GM) inequality. The term 4 m M ⁄ (m + M)² can be rewritten as $\\frac{4}{(m/M + M/m + 2)}$. The denominator is minimized when $m/M = M/m$, which leads to $m^2 = M^2$, or **$m = M$**.**At $m=M$:** $f = 4m^2 / (2m)^2 = 4m^2 / 4m^2 = 1$. This means 100% of the energy is transferred.\n\n### **WHY THIS ANSWER**\nThe condition $M = m$ is the only one that results in total energy transfer. In this specific scenario, after the collision, the bullet (moving mass) comes to a dead stop, and the block (stationary mass) moves away with the exact initial velocity of the bullet. This is a classic demonstration often seen with billiard balls or a Newton's Cradle. Since Option A describes this mass equality, it is the correct answer.\n\n### **COMMON MISTAKES**\nStudents often think that a much heavier mass ($M \\gg m$) will 'absorb' more energy because it is bigger. However, a very heavy block barely moves when hit by a small bullet, meaning its kinetic energy ($1/2 M v^2$) remains low because $v$ is nearly zero. Conversely, some think a very heavy bullet ($m \\gg M$) transfers more because it has more energy to give, but it actually keeps most of that energy for itself as it plows through. Another mistake is confusing elastic collisions with inelastic ones; in a perfectly inelastic collision ($e=0$), the masses stick together and energy transfer is calculated differently, but even then, the maximum *loss* of energy occurs at $M=m$. Always remember: for any exchange of physical properties like momentum or energy, matching the 'impedance' (mass) of the two objects maximizes the result.",
+        "keywords": {
+            "m": "mass of bullet",
+            "M": "mass of block",
+            "J": "Joules",
+            "kg": "kilograms"
+        }
+    },
+    {
+        "id": 55,
+        "question_number": "2",
+        "text": "The ground state energy of a hydrogen atom is The energy needed to ionize the hydrogen atom from its second excited state will be:",
+        "subject": "Physics",
+        "sub_topic": "Atomic Physics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (36)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "−13.6 eV",
+            "13.6 eV",
+            "6.8 eV",
+            "1.51 eV"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (36).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 4068,
+        "correct_answer": "1.51 eV",
+        "basic_answer": "Given: \n[Ground state energy E₁ = -13.6 eV,\n\n Second excited state n = 3]\n\nSolution: \n[Energy of nth level: Eₙ = -13.6/n² eV;\n\n Ionization energy = 0 - Eₙ.\n\n Second excited state is n = 3 (first excited is n=2, second excited is n=3). \n\nE₃ = -13.6/9 \n\n= -1.51 eV.\n\n Ionization energy = 0 - (-1.51) = 1.51 eV]",
+        "explanation": "### **CORE CONCEPT**\nThe energy of an electron in a hydrogen atom is quantized and depends on the principal quantum number ($n$). Bohr's formula for these energy levels is Eₙ = −13.6 Z² ⁄ n² eV. For Hydrogen, $Z=1$, so $E_n = -13.6 / n^2$ eV. The negative sign indicates that the electron is 'bound' to the nucleus; energy must be added to the system to set the electron free. **Ionization Energy** is defined as the minimum amount of energy required to remove an electron from a specific energy level to an infinite distance from the nucleus (where its potential energy is zero). A critical part of these problems is correctly identifying the 'n' value based on the terminology: \n- **Ground State:** $n=1$. \n- **First Excited State:** $n=2$. \n- **Second Excited State:** $n=3$. \nAs the electron moves to higher excited states, it becomes less tightly bound (its energy becomes less negative), meaning less energy is required to ionize it compared to the ground state.\n\n### **SOLUTION**\nTo calculate the ionization energy from the second excited state, follow these steps: \n1. **Identify the n-value:** The second excited state is $n = 3$. \n2. **Calculate the energy of that state ($E_3$):** Using the formula $E_n = -13.6 / n^2$: \n   E₃ = −13.6 ⁄ 3² = −13.6 ⁄ 9 ≈ −1.511 eV\n3. **Determine Ionization Energy ($\\Delta E$):** The goal is to reach $E_{\\infty} = 0$. \n   $$\\Delta E = E_{final} - E_{initial} = 0 - (-1.51) = 1.51 \\text{ eV}.$$\nThis is the energy a photon must provide to kick the electron out of the atom starting from the $n=3$ level.\n\n### **WHY THIS ANSWER**\nThe value 1.51 eV is the correct energy difference between the $n=3$ orbit and the free state ($n=\\infty$). It represents a significantly smaller 'debt' to the nucleus than the 13.6 eV required from the ground state. Since the electron is already in an excited state, it is 'halfway' out of the atom's grip. Option D correctly identifies this specific energy requirement.\n\n### **COMMON MISTAKES**\nA very common trap is misidentifying the 'second excited state' as $n=2$. If you use $n=2$, you calculate $13.6 / 4 = 3.4$ eV. Another common error is picking the negative version of the energy ($-1.51$ eV). Ionization energy, by definition, is work done *on* the system to break a bond, so it must always be a positive value. Some students might also try to use the Rydberg constant in its $1.097 \\times 10^7$ m$^{-1}$ form, which makes the calculation much more difficult; always stick to the eV form for atomic energy level problems. Finally, ensure you don't confuse ionization energy with 'excitation energy' (which is the energy to move between two bound states, like $n=1$ to $n=3$).",
+        "keywords": {
+            "E": "energy",
+            "eV": "electronvolts",
+            "n": "principal quantum number",
+            "J": "Joules"
+        }
+    },
+    {
+        "id": 56,
+        "question_number": "3",
+        "text": "The escape velocity of a body on the earth's surface is If the same body is projected upward with a velocity the velocity of this body at an infinite distance from the centre of the earth will be:",
+        "subject": "Physics",
+        "sub_topic": "Gravitation",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (36)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "11.2 km/s",
+            "22.4 km/s",
+            "zero",
+            "11.2√2 km/s"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (36).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 4069,
+        "correct_answer": "zero",
+        "basic_answer": "Given: \n[Escape velocity vₑ = 11.2 km/s\n\nbody projected with velocity vₑ]\n\nSolution: \n[Escape velocity is defined such that when a body is launched at this velocity, it reaches infinity with zero velocity. By energy conservation: \n\n(1/2)mvₑ² - GMm/R = 0 at infinity.\n\n Total energy at surface = 0, so kinetic energy at infinity = 0, meaning velocity at infinity = 0.]",
+        "explanation": "### **CORE CONCEPT**\nEscape velocity ($vₑ$) is a fundamental concept in gravitation defined as the minimum speed an object must possess to break free from the gravitational attraction of a massive body (like Earth) without any further propulsion. The calculation is rooted in the **Principle of Conservation of Mechanical Energy**. For an object at the Earth's surface, it has negative Gravitational Potential Energy ($U = -GMm/R$) and positive Kinetic Energy ($K = 1/2 mv^2$). Total Energy $E = K + U$. For an object to 'escape' to infinity, it must have enough kinetic energy to reach a point where potential energy is zero. If the object is launched with *exactly* the escape velocity, its total mechanical energy is exactly zero ($E = 0$). This means as it travels further away, its kinetic energy is perfectly converted into potential energy, until it reaches an infinite distance where both kinetic and potential energy vanish.\n\n### **SOLUTION**\nWe use the energy conservation equation between the surface and infinity:\n1. **At the surface:** $E_{surface} = \\frac{1}{2} m u^2 - \\frac{GMm}{R}$. \n2. **The launch condition:** We are told $u = vₑ$. From the formula vₑ = √(2 G M / R), with ½ m vₑ² = G M m ⁄ R. \n3. **Net energy at launch:** Substituting this back: $E_{surface} = \\frac{GMm}{R} - \\frac{GMm}{R} = 0$. \n4. **At infinity:** $E_{\\infty} = \\frac{1}{2} m v_{\\infty}^2 + U_{\\infty}$. Since $U_{\\infty} = 0$ by definition, $E_{\\infty} = \\frac{1}{2} m v_{\\infty}^2$. \n5. **Applying conservation:** $E_{surface} = E_{\\infty} \\implies 0 = \\frac{1}{2} m v_{\\infty}^2$. \n6. **Result:** Therefore, $v_{\\infty}$ must be **zero**. \n\n### **WHY THIS ANSWER**\nThe value 'zero' is correct because escape velocity is the 'threshold' velocity. If you throw a ball slower than 11.2 km/s, it falls back. If you throw it faster, it reaches infinity with some leftover speed (interstellar velocity). But if you throw it at exactly 11.2 km/s, it uses every last bit of its energy to climb out of Earth's gravity well, arriving at the finish line (infinity) with no speed left. This is the definition of the Series Limit in gravitational potential problems and corresponds to Option C.\n\n### **COMMON MISTAKES**\nA major mistake is thinking that 'velocity is constant' once you leave the atmosphere, which would lead to the answer 11.2 km/s. Gravity acts over an infinite range, so the object is decelerating every second of its journey. Another mistake is confusing escape velocity with orbital velocity ($v_o = vₑ / \\sqrt{2}$), which would lead to wrong factors like $\\sqrt{2}$. Some students also misunderstand the math of infinity, thinking that because the distance is infinite, the velocity should be infinite or 'undefined.' Always remember the energy balance: if you start with zero total energy, you must end with zero total energy. leftover speed only exists if u > vₑ, calculated as v_{leftover} = √(u² − vₑ²).",
+        "keywords": {
+            "v": "velocity",
+            "km/s": "kilometers per second",
+            "m": "mass",
+            "J": "Joules",
+            "g": "acceleration due to gravity"
+        }
+    },
+    {
+        "id": 57,
+        "question_number": "12",
+        "text": "A uniform wire of diameter carries a current of 100 mA when the mean drift velocity of electrons in the wire is v. For a wire of diameter of the same material to carry a current of 200 mA, the mean drift velocity of electrons in the wire is:",
+        "subject": "Physics",
+        "sub_topic": "Current Electricity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (38)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "4v",
+            "8v",
+            "v",
+            "2v"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (38).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 4223,
+        "correct_answer": "2v",
+        "basic_answer": "Given: \n[Current 1: I₁ = 100 mA\n\ndrift velocity 1: v₁ = v,\n\n Current 2: I₂ = 200 mA, same material and diameter]\n\nSolution: \n[**I = $nAev_{d}$**, \n\nwhere I is current, n is charge carrier density, A is cross-sectional area, e is electron charge, \n\n$v_{d}$ is drift velocity. \n\nFor same material and diameter, n, A, e are constant. \n\nSince I ∝ $v_{d}$ when n, A, e are constant: \n\nI₂/I₁ = v₂/v₁ → 200/100 \n\n= v₂/v → v₂ = 2v]",
+        "explanation": "### **CORE CONCEPT**\nCurrent in a conductor is a macroscopic manifestation of the microscopic motion of charge carriers (electrons). Although individual electrons move at very high thermal speeds in random directions, they acquire a very slow net velocity in the direction of the electric field, known as the **Drift Velocity** ($v_d$). The fundamental relation connecting these two scales is $I = nAev_d$. In this equation: \n- **$I$** is the electric current. \n- **$n$** is the free electron density (number of electrons per unit volume), which is a property of the material. \n- **$A$** is the cross-sectional area of the wire ($A = \\pi r^2$). \n- **$e$** is the elementary charge ($1.6 \\times 10^{-19}$ C). \n- **$v_d$** is the drift velocity. \nFrom this formula, we can see that if the wire's geometry (area) and material (electron density) are held constant, the current is directly proportional to the drift velocity ($I \\propto v_d$). This means that to push more current through the same 'pipe' (wire), the electrons must simply move faster on average.\n\n### **SOLUTION**\n1. **Analyze the constants:** The problem specifies the wire is of the 'same material' and 'same diameter.' This means $n$ (electron density) and $A$ (area) are identical in both cases. The charge $e$ is a universal constant. \n2. **Establish the proportionality:** Since I = (n e A) · v_d, and the term in parentheses is constant, we have I₁ ⁄ v₁ = I₂ ⁄ v₂ \n\n3. **Input given values:** \n   - I₁ = 100 mA \n   - v₁ = v \n   - I₂ = 200 mA \n4. **Solve for the new velocity (v₂):** \n   100 ⁄ v = 200 ⁄ v₂\n   v₂ = (200 × v) ⁄ 100 = 2v\nThis doubling of the current requires a doubling of the speed at which the electrons drift through the lattice.\n\n### **WHY THIS ANSWER**\nThe answer $2v$ is the only one that maintains the linear relationship between current and flow speed. Since the physical path for the electrons (the wire) has not changed in size or composition, the only way to double the amount of charge passing through a cross-section per second is to double the speed of that charge. This is analogous to water flowing in a pipe: if the pipe size is constant, doubling the flow rate requires doubling the water's speed. This matches Option D.\n\n### **COMMON MISTAKES**\nA common mistake occurs when students misread the question and assume the diameter changed. If the diameter were also doubled, the area would increase by 4 times, and the resulting drift velocity would be $v/2$ (since I = n A e v_d ⇒ 2 = 1 · 4 · 1 · v_d). Another error is thinking that current depends on the square of the drift velocity, similar to kinetic energy, which would lead to an answer like $\\sqrt{2}v$. Some students also confuse drift velocity with the speed of the electric field signal (which is near the speed of light); while the signal is nearly instantaneous, the electrons themselves drift extremely slowly (often millimeters per second). Always isolate the constants ($n, e, A$) before forming your ratio.",
+        "keywords": {
+            "I": "Current",
+            "A": "Amperes",
+            "v": "drift velocity",
+            "d": "diameter",
+            "n": "number density of charge carriers",
+            "e": "charge of an electron"
+        }
+    },
+    {
+        "id": 58,
+        "question_number": "15",
+        "text": "A particle is moving along the x-axis with its position varying with time as x = αt⁴ + βt² + γt + δ. The ratio of its initial velocity to its initial acceleration is:",
+        "subject": "Physics",
+        "sub_topic": "Kinematics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (38)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "2α : δ",
+            "γ : 2δ",
+            "4α : β",
+            "γ : 2β"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (38).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 4225,
+        "correct_answer": "γ : 2β",
+        "basic_answer": "Given: \n[x = αt⁴ + βt² + γt + δ]\nSolution: \n[Initial velocity v(0) = dx/dt|_{t=0} \n\ninitial acceleration a(0) = d²x/dt²|_{t=0}.\n\nVelocity: v = dx/dt = 4αt³ + 2βt + γ.\n\n \n\nAt t=0: v(0) = γ.\n\nAcceleration: a = dv/dt = 12αt² + 2β. \n\nAt t=0: a(0) = 2β.\n\nRatio: v(0)/a(0) \n\n= γ/(2β) = γ:2β]",
+        "explanation": "### **CORE CONCEPT**\nKinematics in one dimension involves describing motion through time-dependent functions of position ($x$), velocity ($v$), and acceleration ($a$). These quantities are linked by the calculus of differentiation. Velocity is the first derivative of position with respect to time ($v = dx/dt$), representing the instantaneous rate of change of location. Acceleration is the first derivative of velocity, or the second derivative of position ($a = dv/dt = d^2x/dt^2$), representing the rate at which velocity changes. The term 'initial' in physics specifically refers to the state of the system at time **$t = 0$**. To find initial values, one must first derive the general time-dependent expressions for $v(t)$ and $a(t)$ using the power rule of differentiation ($d/dt [t^n] = nt^{n-1}$) and then evaluate those expressions by substituting zero for every 't' variable.\n\n### **SOLUTION**\nWe start with the position function: x = α t⁴ + β t² + γ t + δ. \n1. **Calculate Instantaneous Velocity ($v$):** \n   v = dx/dt = d/dt (α t⁴ + β t² + γ t + δ)\n   Using the power rule: v = 4 α t³ + 2 β t + γ. \n2. **Find Initial Velocity ($v_0$):** Set $t = 0$: \n   v₀ = 4 α (0)³ + 2 β (0) + γ = γ\n3. **Calculate Instantaneous Acceleration ($a$):** \n   a = dv/dt = d/dt (4 α t³ + 2 β t + γ)\n   Using the power rule: a = 12 α t² + 2 β. \n4. **Find Initial Acceleration (a₀):** Set $t = 0$: \n   a₀ = 12 α (0)² + 2 β = 2 β\n5. **Calculate the Ratio:** \n   Ratio = v₀ ⁄ a₀ = γ ⁄ 2β\nThis can be written in ratio form as γ : 2β.\n\n### **WHY THIS ANSWER**\nThe answer γ : 2β is the direct result of differentiating the polynomial and identifying which terms remain when $t$ is eliminated. In any polynomial position function, the 'initial velocity' is always the coefficient of the linear 't' term, and the 'initial acceleration' is always twice the coefficient of the 't-squared' term. This shortcut confirms that our calculus-based derivation is robust and matches Option D.\n\n### **COMMON MISTAKES**\nA common mistake is differentiating incorrectly, for example, making the derivative of β t² just β instead of 2 β t. Another error is misinterpreting 'initial' and trying to solve for t or using the position at t=0 (δ) in the ratio. Students also sometimes confuse the order of the ratio, providing 2 β : γ instead of 2 γ : 2 β . Finally, ensure that the constant term δ is ignored during the first differentiation, as the derivative of a constant is always zero; δ represents the initial position, which has no bearing on the velocity or acceleration.",
+        "keywords": {
+            "x": "position",
+            "t": "time",
+            "v": "velocity",
+            "a": "acceleration",
+            "α": "constant coefficient",
+            "β": "constant coefficient",
+            "γ": "constant coefficient",
+            "δ": "constant"
+        }
+    },
+    {
+        "id": 59,
+        "question_number": "44",
+        "text": "A body is falling freely in a resistive medium. The motion of the body is described by dv/dt = (4 − 2v), where v is the velocity of the body at any instant (in m/s). The initial acceleration and terminal velocity of the body, respectively, are:",
+        "subject": "Physics",
+        "sub_topic": "Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (39)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "4 m/s², 2 m/s",
+            "2 m/s², 4 m/s",
+            "6 m/s², 2 m/s",
+            "2 m/s², 6 m/s"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (39).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 4334,
+        "correct_answer": "4 m/s², 2 m/s",
+        "basic_answer": "Given: \n[a = initial acceleration\n\nterminal velocity = 2 m/s]\n\nSolution: \n[F = ma \n\nterminal velocity equation vₜ = mg/k. \n\na = 4 - 2v; at v = 0, a = 4 m/s² \n\nterminal velocity occurs when a = 0, \n\nhence 0 = 4 - 2vₜ; solving gives vₜ = 2 m/s]",
+        "explanation": "### **CORE CONCEPT**\nThe motion of an object in a resistive medium (like air or water) is characterized by a competition between a constant driving force (gravity) and a velocity-dependent resistive force (drag). This is described by a differential equation of the form $ma = mg - kv$, which simplifies to $dv/dt = g_{eff} - b v$. \n1. **Initial Acceleration:** When an object first starts falling ($t=0$), its velocity is zero ($v=0$). At this precise moment, there is no resistive force, and the object experiences its maximum acceleration, which is solely due to the driving force. \n2. **Terminal Velocity:** As the object speeds up, the resistive term ($-bv$) grows. This subtracts from the driving acceleration, causing the object to speed up more and more slowly. Eventually, the resistive force becomes exactly equal to the driving force. At this point, the net force is zero, the acceleration ($dv/dt$) becomes zero, and the object continues to fall at a constant, maximum speed known as the **Terminal Velocity**. The object is now in dynamic equilibrium.\n\n### **SOLUTION**\nWe are given the governing equation: $a = \\frac{dv}{dt} = 4 - 2v$. \n- **Step 1: Find Initial Acceleration.** We evaluate the equation at the moment the body is released ($v = 0$). \n  $$a_{initial} = 4 - 2(0) = 4 \\text{ m/s}^2$$\n- **Step 2: Find Terminal Velocity.** We look for the state where the velocity no longer changes, meaning the derivative of velocity with respect to time must be zero ($dv/dt = 0$). \n  $$0 = 4 - 2v_{terminal}$$\n  $$2v_{terminal} = 4$$\n  $$v_{terminal} = 4 / 2 = 2 \\text{ m/s}$$\nThus, the body starts with an acceleration of 4 m/s² and eventually settles at a steady speed of 2 m/s.\n\n### **WHY THIS ANSWER**\nThe values 4 m/s² and 2 m/s represent the two critical limits of the object's motion profile. The initial acceleration shows the 'unimpeded' start, while the terminal velocity shows the 'drag-limited' final state. This pair of values accurately describes the physical reality of falling in a medium where resistance is proportional to velocity. This corresponds to Option A.\n\n### **COMMON MISTAKES**\nA common mistake is swapping the two values, leading to Option B (2 m/s², 4 m/s). This happens if a student incorrectly sets $v=0$ to find terminal velocity or $a=0$ to find initial acceleration. Another error is miscalculating the algebra in the terminal velocity step, perhaps adding 4 and 2 instead of dividing. Some students also get confused by the units, forgetting that $dv/dt$ is acceleration (m/s²) while $v$ is velocity (m/s). Lastly, avoid overthinking the '4' as being gravity ($g$); in this problem, '4' is an arbitrary effective acceleration constant provided by the question, so don't try to force 9.8 or 10 into the calculation.",
+        "keywords": {
+            "a": "acceleration",
+            "v": "velocity",
+            "m": "mass",
+            "s": "seconds",
+            "kg": "kilograms",
+            "m/s": "meters per second",
+            "m/s²": "meters per second²"
+        }
+    }
+]

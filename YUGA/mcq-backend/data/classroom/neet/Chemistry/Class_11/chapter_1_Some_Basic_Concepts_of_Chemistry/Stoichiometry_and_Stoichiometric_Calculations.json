@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "chapter_number": 1,
+    "topic": "Stoichiometry and Stoichiometric Calculations",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:11:01.141023",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about stoichiometry. Stoichiometry is a big word, but it is quite simple. It helps us understand chemical reactions better. Let's start with balancing chemical equations. A chemical equation shows what happens in a chemical reaction. It has reactants on the left and products on the right. For example, H2 + O2 -> H2O. This equation is not balanced. We need to have the same number of each type of atom on both sides. To balance it, we write 2H2 + O2 -> 2H2O. Now, we have four hydrogen atoms and two oxygen atoms on both sides.\n\nNext, let's talk about stoichiometric coefficients. These are the numbers in front of the chemical formulas in an equation. In 2H2 + O2 -> 2H2O, the coefficients are 2, 1, and 2. They tell us how many molecules or moles of each substance are involved. If we have 2 moles of H2, we need 1 mole of O2 to make 2 moles of H2O.\n\nNow, let's discuss the limiting reagent concept. In a reaction, the limiting reagent is the reactant that runs out first. It limits how much product we can make. Imagine you are making sandwiches. If you have 10 slices of bread and 5 slices of cheese, you can make only 5 sandwiches. Here, cheese is the limiting reagent. In chemistry, if we have 2 moles of H2 and 1 mole of O2, we can make only 2 moles of H2O. If we had more O2, we could make more water.\n\nLet's do a quick example. Suppose we have 3 moles of nitrogen (N2) and 6 moles of hydrogen (H2). We want to make ammonia (NH3) using the reaction N2 + 3H2 -> 2NH3. First, we check the ratio. We need 3 moles of H2 for every mole of N2. We have enough H2 for 2 moles of N2. But we have only 3 moles of N2. So, N2 is the limiting reagent. We can make 2 moles of NH3.\n\nKey points to remember: Always balance your chemical equations. Check the stoichiometric coefficients to know the ratios. Identify the limiting reagent to find out how much product you can make.\n\nIn summary, stoichiometry helps us calculate amounts in a chemical reaction. It is very useful for NEET exams. Remember to practice balancing equations and finding limiting reagents. These skills will help you solve many problems easily.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Stoichiometry",
+    "Balancing Equations",
+    "Stoichiometric Coefficients",
+    "Limiting Reagent"
+  ],
+  "formulas": [
+    {
+      "formula": "N2 + 3H2 -> 2NH3",
+      "description": "Balanced equation for the formation of ammonia from nitrogen and hydrogen"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Stoichiometry",
+      "definition": "The calculation of reactants and products in chemical reactions"
+    },
+    {
+      "term": "Stoichiometric Coefficients",
+      "definition": "Numbers in front of formulas in a balanced equation showing the ratio of reactants and products"
+    },
+    {
+      "term": "Limiting Reagent",
+      "definition": "The reactant that is completely used up first in a reaction, limiting the amount of product formed"
+    }
+  ]
+}

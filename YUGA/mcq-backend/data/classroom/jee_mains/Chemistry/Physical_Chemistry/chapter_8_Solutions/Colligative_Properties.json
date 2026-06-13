@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Solutions",
+    "chapter_number": 8,
+    "topic": "Colligative Properties",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:09:14.024032",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about colligative properties. These are special properties of solutions. They depend on the number of solute particles, not their type. Let's start with the definition.\n\nColligative properties are properties of solutions that depend on the number of solute particles. They do not depend on the type of solute. There are four main types: boiling point elevation, freezing point depression, osmotic pressure, and vapor pressure lowering.\n\nFirst, let's discuss boiling point elevation. When you add a solute to a solvent, the boiling point of the solution increases. This is because the solute particles make it harder for the solvent to evaporate. The formula for boiling point elevation is ΔT_b = i × K_b × m. Here, ΔT_b is the change in boiling point, i is the Van't Hoff factor, K_b is the ebullioscopic constant, and m is the molality of the solution.\n\nNext, we have freezing point depression. This is the opposite of boiling point elevation. When you add a solute, the freezing point of the solution decreases. The formula is similar: ΔT_f = i × K_f × m. Here, ΔT_f is the change in freezing point, K_f is the cryoscopic constant, and the other terms are the same as before.\n\nNow, let's talk about osmotic pressure. This is the pressure needed to stop the flow of solvent into the solution through a semipermeable membrane. The formula is π = i × C × R × T. Here, π is the osmotic pressure, C is the concentration in molarity, R is the gas constant, and T is the temperature in Kelvin.\n\nA key term here is the Van't Hoff factor, i. It tells us how many particles a solute splits into when dissolved. For example, NaCl splits into two ions: Na+ and Cl-. So, i = 2 for NaCl.\n\nIn real-world scenarios, colligative properties help us understand things like why salt is used to melt ice on roads. Salt lowers the freezing point of water, which helps melt the ice.\n\nGraphical analysis can also help us understand colligative effects. For example, a graph of temperature vs. vapor pressure can show how adding a solute lowers vapor pressure.\n\nLet's look at some examples. If you dissolve sugar in water, the boiling point increases. If you dissolve salt, the freezing point decreases. These are simple examples of colligative properties.\n\nA common mistake in JEE Main is confusing molality with molarity. Remember, molality is moles of solute per kilogram of solvent, while molarity is moles per liter of solution.\n\nKey takeaways: Colligative properties depend on the number of particles, not their type. Remember the formulas and the Van't Hoff factor.\n\nTo conclude, colligative properties are important for understanding solutions. They have practical applications and are frequently tested in JEE Main. Make sure to practice the formulas and understand their use.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Colligative Properties",
+    "Boiling Point Elevation",
+    "Freezing Point Depression",
+    "Osmotic Pressure",
+    "Van't Hoff Factor"
+  ],
+  "formulas": [
+    {
+      "formula": "ΔT_b = i × K_b × m",
+      "description": "Used to calculate the increase in boiling point when a solute is added."
+    },
+    {
+      "formula": "ΔT_f = i × K_f × m",
+      "description": "Used to calculate the decrease in freezing point when a solute is added."
+    },
+    {
+      "formula": "π = i × C × R × T",
+      "description": "Used to calculate the osmotic pressure of a solution."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Colligative Properties",
+      "definition": "Properties of solutions that depend on the number of solute particles, not their type."
+    },
+    {
+      "term": "Van't Hoff Factor",
+      "definition": "The number of particles a solute splits into when dissolved."
+    }
+  ]
+}

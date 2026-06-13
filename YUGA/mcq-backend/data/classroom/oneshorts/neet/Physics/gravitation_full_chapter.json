@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Gravitation",
+    "chapter_number": "8",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:10:59.854987",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts: Gravitation.\n\n1. Universal Law of Gravitation: \nThe Universal Law of Gravitation states that every point mass attracts every other point mass in the universe with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers. \n\nKey Formula:\n\\( F = G \\frac{m_1 m_2}{r^2} \\)\n- Where \\( F \\) is the gravitational force, \\( G \\) is the gravitational constant (\\( 6.67 \\times 10^{-11} \\text{Nm}^2\\text{/kg}^2 \\)), \\( m_1 \\) and \\( m_2 \\) are the masses, and \\( r \\) is the distance between the centers.\n\n2. Gravitational Field and Acceleration due to Gravity (g):\n- Gravitational Field is defined as the gravitational force per unit mass experienced by a small test mass placed in the field. \n- Acceleration due to gravity \\( g \\) near Earth's surface is approximately \\( 9.8 \\text{m/s}^2 \\).\n\nFormula for g:\n\\( g = \\frac{G M_e}{R_e^2} \\)\n- Where \\( M_e \\) is Earth's mass and \\( R_e \\) is Earth's radius.\n\n3. Gravitational Potential Energy:\n- It is the energy possessed by an object due to its position in a gravitational field.\n\nFormula:\n\\( U = -G \\frac{m_1 m_2}{r} \\)\n\n4. Satellites and Orbital Velocity:\n- Satellites stay in orbit due to their velocity and the gravitational pull of the Earth.\n- Orbital Velocity \\( v_0 = \\sqrt{\\frac{G M_e}{r}} \\) for a satellite.\n\n5. Escape Velocity:\n- The minimum velocity needed for an object to escape the Earth's gravitational field.\n\nFormula:\n\\( v_e = \\sqrt{2gR} = \\sqrt{\\frac{2G M_e}{R}} \\)\n\nNEET Question Pattern:\n- Conceptual questions on gravitational force calculation.\n- Direct formula-based numericals on escape and orbital velocity.\n- Questions on variations of \\( g \\) with altitude and depth.\n\nQuick Revision Points:\n1. Understand the universal law of gravitation formula and its components.\n2. Remember the standard values for \\( G \\) and \\( g \\).\n3. Know how to calculate gravitational potential energy and its significance.\n4. Understand how satellite motion is explained by gravitational force.\n5. Memorize escape velocity and orbital velocity formulas.\n\nGravitation is a core concept in physics and a favorite in NEET exams, often tested through formula applications, so keep practicing calculations and conceptual questions.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Universal Law of Gravitation",
+    "Gravitational Force",
+    "Gravitational Field",
+    "Acceleration due to Gravity",
+    "Gravitational Potential Energy",
+    "Satellites",
+    "Orbital Velocity",
+    "Escape Velocity"
+  ],
+  "formulas": [
+    "\\( F = G \\frac{m_1 m_2}{r^2} \\)",
+    "\\( g = \\frac{G M_e}{R_e^2} \\)",
+    "\\( U = -G \\frac{m_1 m_2}{r} \\)",
+    "\\( v_0 = \\sqrt{\\frac{G M_e}{r}} \\)",
+    "\\( v_e = \\sqrt{2gR} = \\sqrt{\\frac{2G M_e}{R}} \\)"
+  ],
+  "definitions": [
+    {
+      "term": "Universal Law of Gravitation",
+      "definition": "A law stating that every particle in the universe attracts every other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between them."
+    },
+    {
+      "term": "Gravitational Force",
+      "definition": "The force of attraction between any two masses."
+    },
+    {
+      "term": "Gravitational Field",
+      "definition": "A region around a mass where another mass experiences a force of gravitational attraction."
+    },
+    {
+      "term": "Acceleration due to Gravity",
+      "definition": "The acceleration experienced by an object due only to the effect of gravity."
+    },
+    {
+      "term": "Gravitational Potential Energy",
+      "definition": "The energy an object possesses because of its position in a gravitational field."
+    },
+    {
+      "term": "Satellites",
+      "definition": "Bodies that revolve around a planet in a fixed path, maintained by gravitational force."
+    },
+    {
+      "term": "Orbital Velocity",
+      "definition": "The velocity a satellite must have to maintain an orbit around a planet."
+    },
+    {
+      "term": "Escape Velocity",
+      "definition": "The minimum velocity an object must have to break free from a planet's gravitational field."
+    }
+  ]
+}

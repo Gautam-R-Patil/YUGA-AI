@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "chapter_number": 24,
+    "topic": "Ethers",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:27:22.039562",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about ethers. Ethers are a type of organic compound. They have two alkyl or aryl groups connected by an oxygen atom. The general formula for ethers is R-O-R', where R and R' are alkyl or aryl groups. \n\nLet's start with the structure and bonding of ethers. Ethers have a simple structure. The oxygen atom is sp3 hybridized. This means it forms four bonds. Two bonds are with R groups, and two with lone pairs. The bond angle is about 110 degrees. This makes ethers have a bent shape. \n\nNext, we talk about the nomenclature of ethers. Naming ethers is simple. The common name is formed by naming the two groups attached to oxygen alphabetically and adding 'ether' at the end. For example, CH3-O-CH3 is called dimethyl ether. In IUPAC names, ethers are named as alkoxy alkanes. The smaller group with oxygen is named as alkoxy. For example, CH3-O-C2H5 is ethoxyethane. \n\nNow, let's discuss the physical properties. Ethers have low boiling points compared to alcohols. This is because they cannot form hydrogen bonds. Ethers are also good solvents. They can dissolve many organic compounds. \n\nMoving on to preparation methods. One important method is Williamson synthesis. In this method, an alkoxide ion reacts with a primary alkyl halide to form an ether. For example, sodium ethoxide reacts with chloroethane to form diethyl ether. \n\nAnother method is dehydration of alcohols. In this method, two alcohol molecules react in the presence of acid to form an ether. For example, ethanol reacts with itself to form diethyl ether and water. \n\nLet's look at some reactions of ethers. Ethers can be cleaved by acids like HBr or HI. This forms an alcohol and an alkyl halide. For example, diethyl ether reacts with HI to form ethanol and iodoethane. \n\nEthers can also undergo electrophilic substitution. This reaction happens when one of the alkyl groups is aromatic. The aromatic ring can undergo substitution reactions. \n\nNow, let's talk about reactivity and mechanism. Ethers are generally unreactive. This makes them good solvents. But they can react with strong acids. The mechanism involves the protonation of the oxygen atom, making it more reactive. \n\nCrown ethers are a special type of ether. They have a ring structure and can trap metal ions. This makes them useful in chemical reactions as they can transport ions. \n\nEthers have many uses. They are used as solvents in reactions. Diethyl ether is used as an anesthetic. They are also used in making perfumes and dyes. \n\nRemember, common mistakes in JEE Main include confusing ethers with alcohols. Always check the functional group. Ethers have an -O- linkage. \n\nIn conclusion, ethers are important compounds in organic chemistry. They have unique properties and uses. Understanding their structure, preparation, and reactions is key for JEE Main. \n\nLet's quickly revise the key points: Ethers have the general formula R-O-R'. They are named as alkoxy alkanes. Ethers are prepared by Williamson synthesis and dehydration of alcohols. They react with strong acids and can undergo electrophilic substitution. \n\nThat's all for today. Keep practicing and good luck with your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Ethers",
+    "Williamson Synthesis",
+    "Dehydration",
+    "Cleavage",
+    "Crown Ethers"
+  ],
+  "formulas": [
+    {
+      "formula": "R-O-R'",
+      "description": "General formula for ethers where R and R' are alkyl or aryl groups"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ether",
+      "definition": "An organic compound with two alkyl or aryl groups connected by an oxygen atom"
+    },
+    {
+      "term": "Williamson Synthesis",
+      "definition": "A method to prepare ethers by reacting an alkoxide ion with a primary alkyl halide"
+    }
+  ]
+}

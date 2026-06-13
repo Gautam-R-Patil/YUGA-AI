@@ -1,0 +1,354 @@
+[
+    {
+        "id": 30,
+        "question_number": "197",
+        "text": "The potential difference that must be applied to stop the fastest photoelectrons emitted by a nickel surface, having work function 5.01 eV, when ultraviolet light of 200 nm falls on it, must be",
+        "subject": "Physics",
+        "sub_topic": "Photoelectric Effect",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 24,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "2.4 V",
+            "-1.2 V",
+            "-2.4 V",
+            "1.2 V"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 24,
+            "type": "MCQ"
+        },
+        "original_id": 313,
+        "correct_answer": "1.2 V",
+        "basic_answer": "Given:\nWork function (φ) = 5.01 eV\nWavelength (λ) = 200 nm\n\nSolution:\nEnergy of a photon (E) = hc / λ\n\nKinetic energy (KE) = E - φ\n\nStopping potential (V) relates to KE as:\nKE = eV\n\nFirst, convert work function to Joules:\n\n5.01 eV × 1.6 × 10^-19 J/eV\n= 8.016 × 10^-19 J\n\nNext, calculate energy of photon:\n\nE = hc / λ\n= (6.626 × 10^-34 J·s × 3 × 10^8 m/s) / (200 × 10^-9 m)\n= 9.94 × 10^-19 J\n\nCalculate KE:\n\nKE = E - φ\n= 9.94 × 10^-19 J - 8.016 × 10^-19 J\n= 1.924 × 10^-19 J\n\nNow,\n\nV = KE / e\n= (1.924 × 10^-19 J) / (1.6 × 10^-19 C)\n= 1.2025 V",
+        "explanation": "CORE CONCEPT\nThe fundamental principle behind this problem is the photoelectric effect and Einstein’s photoelectric equation. In this phenomenon, light behaves as particles called photons. When photons strike a metal surface, their energy is transferred to electrons in the metal.\n\nPart of the photon energy is used to overcome the work function (φ), which is the minimum energy required to remove an electron from the metal surface. The remaining energy appears as the maximum kinetic energy of the emitted electron.\n\nPhoton energy is given by:\nE = hc / λ\n\nThe relation between photon energy, work function, and kinetic energy is:\n\nE = φ + KE\n\nor\n\nKE = E − φ\n\nThe stopping potential is the negative potential required to stop the most energetic electrons. The kinetic energy of these electrons equals the electrical work done against them:\n\nKE = eV\n\nSOLUTION\nFirst calculate the energy of the incident photon using\n\nE = hc / λ\n\nSubstitute values:\n\nE = (6.626 × 10^-34 × 3 × 10^8) / (200 × 10^-9)\n\nE = 9.94 × 10^-19 J\n\nConvert work function from electron-volts to joules:\n\nφ = 5.01 eV\n\nφ = 5.01 × 1.6 × 10^-19\n\nφ = 8.016 × 10^-19 J\n\nNow determine the kinetic energy of emitted electrons:\n\nKE = E − φ\n\nKE = 9.94 × 10^-19 − 8.016 × 10^-19\n\nKE = 1.924 × 10^-19 J\n\nUsing KE = eV:\n\nV = KE / e\n\nV = (1.924 × 10^-19) / (1.6 × 10^-19)\n\nV = 1.2025 V\n\nThus the stopping potential is approximately 1.2 V.\n\nWHY THIS ANSWER\nThe incident photon energy is greater than the work function, so electrons are emitted. The extra energy after overcoming the work function becomes the kinetic energy of the emitted electrons. A retarding potential of about 1.2 V is required to stop the most energetic electrons from reaching the collector.\n\nCOMMON MISTAKES\n1. Forgetting to subtract the work function from the photon energy.\n2. Not converting the work function from eV to joules when using SI units.\n3. Using wavelength in nanometers without converting to meters.\n4. Confusing stopping potential with threshold frequency.\n5. Incorrect handling of powers of ten during calculations.",
+        "keywords": {
+            "φ": "work function",
+            "e": "elementary charge",
+            "E": "photon energy",
+            "KE": "kinetic energy",
+            "V": "stopping potential",
+            "J": "Joules",
+            "eV": "electronvolts",
+            "nm": "nanometers"
+        }
+    },
+    {
+        "id": 31,
+        "question_number": "174",
+        "text": "The ratio of wavelengths of the last line of Balmer series and the last line of Lyman series is:",
+        "subject": "Physics",
+        "sub_topic": "Atomic Physics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 23,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "1",
+            "4",
+            "0.5",
+            "2"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 23,
+            "type": "MCQ"
+        },
+        "original_id": 148,
+        "correct_answer": "4",
+        "basic_answer": "Given: \n[Last line of Balmer series, Last line of Lyman series]\nSolution: \n[**1/λ = R (1/n₁² - 1/n₂²)** \n\nwhere R is the Rydberg constant. \n\nThe 'last line' of a series is the series limit where n₂ → ∞. \n\nFor Balmer series limit \n\n(n₁ = 2, n₂ → ∞): 1/λ_B \n\n= R (1/2² - 0) \n\n= R/4, \n\nso λ_B = 4/R. \n\nFor Lyman series limit \n\n(n₁ = 1, n₂ → ∞): 1/λ_L \n\n= R (1/1² - 0) \n\n= R, \n\nso λ_L = 1/R. \n\nThe ratio λ_B / λ_L = (4/R) / (1/R) = 4]",
+        "explanation": "### **CORE CONCEPT**\nAtomic spectra are produced when electrons transition between quantized energy levels in an atom. For Hydrogen, these transitions follow the Rydberg formula, which provides the reciprocal of the emitted wavelength. Every spectral series is defined by its 'ground' state energy level (n1). For instance, the Lyman series involves transitions ending at n1 = 1 (ultraviolet), while the Balmer series ends at n1 = 2 (visible light). Within any given series, the 'lines' correspond to different starting levels (n2). The 'first line' is the transition from the very next level (n1 + 1), representing the minimum energy and longest wavelength. Conversely, the 'last line,' also known as the 'series limit,' represents the transition from the highest possible state—the ionized state—where the electron is infinitely far from the nucleus (n2 = infinity). This transition releases the maximum energy possible for that series, resulting in the shortest possible wavelength. Understanding the limits of these series is crucial for interpreting the boundary conditions of atomic energy states.\n\n### **SOLUTION**\nWe apply the Rydberg equation: 1∕λ = R · [(1∕n₁²) − (1∕n₂²)], where R is the Rydberg constant. \nFirst, let's find the wavelength of the last line of the Balmer series. Here, n1 = 2 \n\nFor the last line, we set n2 equal to infinity. Substituting these into the formula: 1∕λᵦ = R · [(1∕2²) − (1∕∞²)]. Since 1 / infinity is zero, the equation simplifies to 1∕λᵦ = R∕4 \n\nRearranging this gives lambda_B = 4 / R \nSecond, we perform the same calculation for the Lyman series. For Lyman, the ground state is n1 = 1 \n\nAgain, for the last line, n2 is infinity. The formula becomes: 1 / lambda_L = R * [ (1 / 1²) - (1 / inf²) ], which simplifies to 1 / lambda_L = R. Thus, lambda_L = 1 / R. \nFinally, we determine the ratio of the Balmer series limit to the Lyman series limit: Ratio = lambda_B / lambda_L. Substituting our findings: Ratio = (4 / R) / (1 / R). The Rydberg constants cancel out, leaving us with a ratio of exactly 4 \n\n### **WHY THIS ANSWER**\nThe ratio of the wavelengths of the series limits depends entirely on the inverse square of the lower energy level n1\n\nBecause the energy levels are quantized as 1/n², the wavelength is proportional to n1² \n\nSince Balmer is based on n=2 and Lyman on n=1, the ratio of their squared integers (2² / 1²) directly yields 4 \n\nThis reflects that the Lyman limit represents a much more energetic transition (short wavelength) compared to the Balmer limit (longer wavelength). This result is fundamental in spectroscopy and matches option B.\n\n### **COMMON MISTAKES**\nA very common error is confusing the 'last line' with the 'first line.' If a student calculates the ratio for the first lines (n2=3 to n1=2 for Balmer and n2=2 to n1=1 for Lyman), they will arrive at a complex fraction that does not match the options. Another mistake involves inverting the ratio; students often calculate lambda_L / lambda_B and select 0.25 (1/4) if it is available. Additionally, some forget to square the 'n' values in the Rydberg formula, leading to a ratio of 2 instead of 4 \n\nAlways remember that spectral series boundaries are defined by transitions to and from infinity.",
+        "keywords": {
+            "λ": "wavelength",
+            "R": "Rydberg constant",
+            "n₁": "lower energy level",
+            "n₂": "higher energy level"
+        }
+    },
+    {
+        "id": 32,
+        "question_number": "199",
+        "text": "Consider the following two statements :\n(A) Kirchhoff’s junction law follows from the conservation of charge.\n(B) Kirchhoff’s loop law follows from the conservation of energy. Which of the following is correct?",
+        "subject": "Physics",
+        "sub_topic": "Electric Circuits",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 24,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Both (A) and (B) are wrong",
+            "(A) is correct but (B) is wrong",
+            "(A) is wrong and (B) is correct",
+            "Both (A) and (B) are correct."
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 24,
+            "type": "MCQ"
+        },
+        "original_id": 314,
+        "correct_answer": "Both (A) and (B) are correct.",
+        "basic_answer": "Given: \n[Statement A - Kirchhoff’s junction law, Statement B - Kirchhoff’s loop law]\nSolution: \n[Kirchhoff’s junction law follows from charge conservation; Kirchhoff’s loop law follows from energy conservation]",
+        "explanation": "### **CORE CONCEPT**\nGustav Kirchhoff formulated two laws that are essential for the analysis of complex electrical circuits. These laws are not arbitrary rules but are direct applications of universal conservation principles to the flow of electricity. The Junction Law (First Law) deals with the flow of current at any point where wires meet. It is a manifestation of the Principle of Conservation of Electric Charge, which states that charge cannot be created or destroyed. The Loop Law (Second Law) deals with the potential differences across components in a closed circuit path. It is a manifestation of the Principle of Conservation of Energy, which states that the total work done in moving a unit charge around a closed loop in an electrostatic field must be zero. In a steady-state circuit, energy is neither gained nor lost by a charge as it returns to its starting point after completing a full cycle through the circuit elements.\n\n### **SOLUTION**\nTo evaluate Statement (A), we define current (I) as the rate of flow of charge (dq / dt). Kirchhoff's Junction Law states that the algebraic sum of currents at any junction is zero (Sigma I = 0), or more simply, current entering equals current leaving. If this were not true, charge would either accumulate indefinitely at the junction or be created from nothing, both of which violate the Conservation of Charge. Thus, (A) is correct. To evaluate Statement (B), we define potential difference (V) as work done per unit charge (W / q). Kirchhoff's Loop Law states that in any closed loop, the algebraic sum of all potential gains (from sources) and potential drops (across resistors) is zero (Sigma V = 0). This implies that the energy supplied by the battery is exactly equal to the energy consumed by the circuit components. If the sum were non-zero, a charge would gain or lose energy simply by moving in a circle, violating the Conservation of Energy. Thus, (B) is correct. Since both derivations are logically and physically sound, the combined conclusion is that both statements are true.\n\n### **WHY THIS ANSWER**\nThe answer is 'Both (A) and (B) are correct' because they represent the standard textbook definitions used in circuit theory. There is no physical scenario in a classical, steady-state DC circuit where these conservation laws are violated. The junction rule is the 'continuity equation' for charge, and the loop rule is the 'line integral' of a conservative electric field. This alignment makes Option D the only scientifically accurate choice.\n\n### **COMMON MISTAKES**\nA common mistake is swapping the underlying principles—thinking the Junction Law is about energy and the Loop Law is about charge. Another error arises when students confuse 'potential' with 'current'; they might think the sum of currents in a loop is zero or the sum of voltages at a junction is zero. Some learners also fail to realize that these laws are only approximations for high-frequency circuits where electromagnetic radiation might carry energy away, but for the scope of general physics and the 'elementary' context of this question, they are considered absolute truths. Always associate 'Junction' with 'Flow/Charge' and 'Loop' with 'Height/Potential/Energy'.",
+        "keywords": {
+            "-": "hyphen",
+            "KJ": "Kirchhoff's Junction Law",
+            "KL": "Kirchhoff's Loop Law"
+        }
+    },
+    {
+        "id": 33,
+        "question_number": "179",
+        "text": "Which of the following statements are correct? \n(a) Centre of mass of a body always coincides with the centre of gravity of the body \n(b) Centre of gravity of a body is the point about which the total gravitational torque on the body is zero \n(c) A couple on a body produce both translational and rotation motion in a body \n(d) Mechanical advantage greater than one means that small effort can be used to lift a large load",
+        "subject": "Physics",
+        "sub_topic": "Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 24,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "(a) and (b)",
+            "(b) and (c)",
+            "(c) and (d)",
+            "(b) and (d)"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 24,
+            "type": "MCQ"
+        },
+        "original_id": 150,
+        "correct_answer": "(b) and (d)",
+        "basic_answer": "Given:\nStatements about centre of mass, centre of gravity, couple, and mechanical advantage.\n\nSolution:\n(a) Centre of mass and centre of gravity coincide only when gravitational field is uniform. Therefore the statement saying 'always' is false.\n\n(b) Centre of gravity is defined as the point about which the total gravitational torque on the body is zero. This statement is true.\n\n(c) A couple consists of two equal and opposite forces separated by a distance. Net force is zero, so it produces only rotational motion, not translational motion. This statement is false.\n\n(d) Mechanical advantage (MA) = Load / Effort. If MA > 1, load is greater than effort, meaning a small effort can lift a large load. This statement is true.\n\nCorrect statements: (b) and (d).",
+        "explanation": "CORE CONCEPT\nIn rigid body mechanics several concepts describe how forces act on objects.\n\nThe centre of mass (COM) is the point where the entire mass of the body can be considered concentrated for translational motion. It depends only on the mass distribution of the object.\n\nThe centre of gravity (COG) is the point through which the resultant gravitational force acts. If the gravitational field is uniform, COM and COG coincide. In a non-uniform gravitational field they can be different.\n\nTorque determines rotational motion. A couple is formed by two equal and opposite forces acting along different lines of action. Because the forces cancel, the net force is zero but a torque is produced.\n\nMechanical advantage (MA) measures how much a machine multiplies force. It is defined as\n\nMA = Load / Effort\n\nSOLUTION\nEvaluate each statement.\n\n(a) The centre of mass does not always coincide with the centre of gravity. They coincide only when the gravitational field is uniform. Therefore this statement is false.\n\n(b) The centre of gravity is the point about which the resultant torque of all gravitational forces acting on the body becomes zero. This is correct.\n\n(c) A couple produces zero net force but non-zero torque. Therefore it produces pure rotation without translational motion. This statement is false.\n\n(d) Mechanical advantage greater than one means the load is greater than the effort. Thus a smaller effort can lift a larger load. This statement is correct.\n\nHence the correct statements are (b) and (d).\n\nWHY THIS ANSWER\nStatements (b) and (d) match the standard definitions of centre of gravity and mechanical advantage. Statements (a) and (c) contradict fundamental conditions: non-uniform gravitational fields separate COM and COG, and a couple cannot produce translational motion because the net force is zero.\n\nCOMMON MISTAKES\n1. Assuming centre of mass and centre of gravity are always identical.\n2. Believing a couple produces translational motion because the body rotates.\n3. Confusing mechanical advantage with efficiency.\n4. Forgetting that a couple has zero resultant force but non-zero torque.",
+        "keywords": {
+            "cm": "center of mass",
+            "cg": "center of gravity",
+            "T": "torque",
+            "MA": "mechanical advantage",
+            "N": "Newton",
+            "kg": "kilogram"
+        }
+    },
+    {
+        "id": 34,
+        "question_number": "192",
+        "text": "A vibration magnetometer placed in a magnetic meridian has a small bar magnet. The magnet executes oscillations with a time period of 2s in earth's horizontal magnetic field of 24 μT. When a horizontal field of 18 μT is produced opposite to the earth's field by placing a current-carrying wire, the new time period of the magnet will be",
+        "subject": "Physics",
+        "sub_topic": "Magnetism",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 23,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "1s",
+            "2s",
+            "3s",
+            "4s"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 23,
+            "type": "MCQ"
+        },
+        "original_id": 310,
+        "correct_answer": "4s",
+        "basic_answer": "Given:\nT1 = 2 s\nB1 = 24 μT\nB2 = 18 μT\n\nSolution:\n\nT = 2π √( I / (mB) )\n\nwhere T is the time period, I is the moment of inertia, m is the magnetic moment, B is the magnetic field.\n\nWhen a magnetic field B2 opposes the Earth's field, the effective field is\n\nB_eff = B1 - B2\n\n= 24 μT - 18 μT\n\n= 6 μT.\n\nFrom the formula for the time period:\n\nT2 / T1 = √( B1 / B_eff )\n\nthus T2 = T1 * √( B1 / B_eff ).\n\nSubstituting the values:\n\nT2 = 2 s * √(24 μT / 6 μT)\n\n= 2 s * √4\n\n= 2 s * 2\n\n= 4 s",
+        "explanation": "CORE CONCEPT\nThe operation of a vibration magnetometer is based on simple harmonic motion of a magnetic dipole in a uniform external magnetic field. When a bar magnet is suspended in a horizontal magnetic field and slightly displaced from its equilibrium position, it experiences a restoring torque. For small angles, this produces oscillations with time period\n\nT = 2π √( I / (M B) )\n\nwhere I represents the moment of inertia of the magnet about its suspension axis and M is its magnetic dipole moment. If the magnet and suspension remain unchanged, the time period is inversely proportional to the square root of the magnetic field strength:\n\nT ∝ 1 / √B\n\nA stronger magnetic field produces faster oscillations and a shorter period, while a weaker field produces slower oscillations and a longer period.\n\nSOLUTION\nInitial conditions:\nT1 = 2 s\nB1 = 24 μT\n\nAn additional horizontal field of 18 μT is applied opposite to the Earth's field.\n\nEffective magnetic field:\nB_eff = B1 - B2\nB_eff = 24 - 18\nB_eff = 6 μT\n\nUsing the proportional relation:\n\nT2 / T1 = √( B1 / B_eff )\n\nSubstituting values:\n\nT2 / 2 = √( 24 / 6 )\n\nT2 / 2 = √4\n\nT2 / 2 = 2\n\nT2 = 2 × 2\n\nT2 = 4 s\n\nWHY THIS ANSWER\nThe magnetic field decreases from 24 μT to 6 μT, which is one fourth of the original field. Because the time period varies inversely with the square root of the magnetic field, reducing the field by a factor of four increases the time period by a factor of two. Therefore the new time period becomes 4 seconds.\n\nCOMMON MISTAKES\n1. Adding the fields instead of subtracting them when the second field is opposite.\n2. Assuming a linear inverse relationship T ∝ 1/B instead of T ∝ 1/√B.\n3. Reversing the ratio inside the square root.\n4. Ignoring the physical check that weaker field must produce a longer oscillation period.",
+        "keywords": {}
+    },
+    {
+        "id": 35,
+        "question_number": "191",
+        "text": "A common emitter amplifier has a voltage gain of 50, an input impedance of 100 Ω and an output impedance of 200 Ω. The power gain of the amplifier is:",
+        "subject": "Physics",
+        "sub_topic": "Electronics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 23,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "500",
+            "1000",
+            "1250",
+            "50"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 23,
+            "type": "MCQ"
+        },
+        "original_id": 309,
+        "correct_answer": "1250",
+        "basic_answer": "Given:\nVoltage Gain (Av) = 50\nInput Impedance (Zin) = 100 Ω\nOutput Impedance (Zout) = 200 Ω\n\nSolution:\nPower Gain (Pg) = Av² × (Zin / Zout)\n\nPg = 50² × (100 Ω / 200 Ω)\n\n= 2500 × 0.5\n\n= 1250",
+        "explanation": "CORE CONCEPT\nIn electronic amplifier circuits, gain measures how much an input signal is amplified. There are three common types of gain: voltage gain (Av), current gain (Ai), and power gain (Ap). Power gain is defined as the ratio of output power to input power.\n\nPower in an electrical circuit is given by P = V × I. In amplifier analysis, power gain can also be expressed in terms of voltage gain and circuit impedances. The relationship becomes:\n\nPower Gain (Ap) = Av² × (Ri / Ro)\n\nwhere Ri is the input resistance and Ro is the output resistance.\n\nSOLUTION\nGiven:\nVoltage gain Av = 50\nInput impedance Ri = 100 Ω\nOutput impedance Ro = 200 Ω\n\nUsing the power gain formula:\n\nAp = Av² × (Ri / Ro)\n\nSubstitute the values:\n\nAp = 50² × (100 / 200)\n\nFirst calculate the square of the voltage gain:\n\n50² = 2500\n\nNext calculate the resistance ratio:\n\n100 / 200 = 0.5.\n\nMultiply the two results:\n\nAp = 2500 × 0.5.\n\nAp = 1250\n\nThus the power gain of the amplifier is 1250.\n\nWHY THIS ANSWER\nThe voltage amplification is large (factor of 50). Because electrical power depends on the square of voltage, this produces a factor of 2500. The resistance ratio slightly reduces the effective power gain, giving a final value of 1250.\n\nCOMMON MISTAKES\nForgetting to square the voltage gain.\nReversing the resistance ratio and using Ro / Ri.\nMultiplying only Av with the resistance ratio.\nConfusing voltage gain with power gain.",
+        "keywords": {
+            "Aᵥ": "Voltage Gain",
+            "Ap": "a p",
+            "Zᵢₙ": "Input Impedance",
+            "Zₒᵤₜ": "Output Impedance",
+            "Ω": "Ohms"
+        }
+    },
+    {
+        "id": 36,
+        "question_number": "156",
+        "text": "The mass of a 7Li nucleus is 0.042u less than the sum of the masses of all its nucleons. The binding energy per nucleon of the ${}^7Li$ nucleus is near:",
+        "subject": "Physics",
+        "sub_topic": "Nuclear Physics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "4.6 MeV",
+            "5.6 MeV",
+            "3.9 MeV",
+            "23 MeV"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 281,
+        "correct_answer": "5.6 MeV",
+        "basic_answer": "Given:\nmass defect = 0.042 u\n\nSolution:\nBinding Energy (BE) = Δm × c²\n\nIn nuclear physics,\n1 u = 931.5 MeV\n\nTotal Binding Energy:\n\nBE = 0.042 × 931.5\n\nBE ≈ 39.12 MeV\n\nMass number of 7Li = 7\n\nBinding energy per nucleon:\n\nBE per nucleon = Total BE / A\n\nBE per nucleon = 39.12 / 7\n\nBE per nucleon ≈ 5.59 MeV\n\n≈ 5.6 MeV",
+        "explanation": "CORE CONCEPT\nNuclear stability is explained using the mass–energy equivalence principle E = mc². When protons and neutrons combine to form a nucleus, the total mass of the nucleus is slightly less than the sum of the masses of the individual nucleons. This difference is called the mass defect.\n\nThe mass defect represents the energy released when the nucleus forms. This energy is known as the binding energy of the nucleus. Binding energy indicates how strongly the nucleons are held together inside the nucleus.\n\nBinding energy is calculated using:\n\nBE = Δm × c²\n\nIn nuclear calculations, the standard conversion is:\n\n1 u = 931.5 MeV\n\nTo compare nuclear stability among different nuclei, binding energy per nucleon is used. It is calculated by dividing the total binding energy by the mass number A.\n\nSOLUTION\nGiven mass defect:\n\nΔm = 0.042 u\n\nConvert mass defect to energy:\n\nTotal binding energy\n\nBE = 0.042 × 931.5\n\nBE ≈ 39.12 MeV\n\nThe mass number of lithium-7 is:\n\nA = 7\n\nBinding energy per nucleon:\n\nBE per nucleon = 39.12 / 7\n\nBE per nucleon ≈ 5.59 MeV\n\nAfter rounding:\n\nBE per nucleon ≈ 5.6 MeV\n\nWHY THIS ANSWER\nThe calculated total binding energy of the lithium-7 nucleus is about 39.1 MeV. When this energy is distributed among the seven nucleons in the nucleus, the binding energy per nucleon becomes approximately 5.6 MeV. This value matches the correct option.\n\nCOMMON MISTAKES\n1. Reporting the total binding energy instead of binding energy per nucleon.\n2. Dividing by the atomic number 3 instead of the mass number 7.\n3. Using an incorrect conversion factor between atomic mass unit and MeV.\n4. Calculation mistakes when multiplying 0.042 by 931.5.",
+        "keywords": {
+            "Δm": "delta m",
+            "u": "atomic mass unit",
+            "MeV": "mega electron volts",
+            "c": "speed of light",
+            "E": "energy",
+            "BE": "b e",
+            "Lithium-7": "lithium seven"
+        }
+    },
+    {
+        "id": 37,
+        "question_number": "45",
+        "text": "One coolie takes 30 seconds to raise a suitcase through a height of 2 meters, but the second coolie takes 1 minute to raise the same suitcase to the same height. The powers of two coolies are in the ratio:",
+        "subject": "Physics",
+        "sub_topic": "Work, Energy and Power",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (26)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "1 : 3",
+            "2 : 1",
+            "3 : 1",
+            "1 : 2"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (26).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 2779,
+        "correct_answer": "2 : 1",
+        "basic_answer": "Given: \n[Height (h) = 2 m,\n\n Time for coolie 1 (t1) = 30 s,\n\n Time for coolie 2 (t2) = 60 s]\n\nSolution: \n[Power (P) = Work done (W) / Time taken (t)]. \n\nSince both coolies lift the same load to the same height, the work done (W) is constant for both. \n\nTherefore, P1 = W / t1 and P2 = W / t2. \n\nThe ratio of their power is: \nP1 : P2 = (W / t1) : (W / t2) = t2 : t1 \n\nSubstituting the values: \nP1 : P2 = 60 : 30 = 2 : 1.",
+        "explanation": "### **CORE CONCEPT**\nThis problem tests the conceptual distinction between 'Work' and 'Power.' Work (W) is defined as the product of force and displacement in the direction of the force. In the context of lifting an object, the work done against gravity is simply the change in potential energy, calculated as W = m * g * h, where 'm' is mass, 'g' is acceleration due to gravity, and 'h' is the vertical height. Notice that time does not enter the equation for work; the same amount of energy is expended regardless of how fast the object is moved. Power (P), however, is the 'rate' at which work is performed or energy is transferred. It is mathematically defined as P = W / t. Therefore, for a fixed amount of work, power is inversely proportional to the time taken. If one person does the same job faster, they are exhibiting more power.\n\n### **SOLUTION**\nLet's analyze the work done by both coolies. Coolie 1 lifts a suitcase of mass 'm' to height 'h' = 2m. The work done is W1 = m * g * 2, \n\nCoolie 2 lifts the same suitcase (same mass 'm') to the same height (same 'h' = 2m). The work done is W2 = m * g * 2 \n\nSince m, g, and h are identical for both, we conclude that W1 = W2 \n\nNow we consider the time taken. Time for coolie 1 (t1) is 30 seconds. Time for coolie 2 (t2) is 1 minute, which must be converted to standard SI units: 1 min = 60 seconds. We then set up the ratio of their powers: P1 / P2 = (W1 / t1) / (W2 / t2). Since W1 = W2, these terms cancel out, leaving us with the inverse ratio of the times: P1 / P2 = t2 / t1 \n\nSubstituting the known time values: P1 / P2 = 60 / 30\n\n This simplifies to a ratio of 2 / 1, or 2 : 1 \n\n### **WHY THIS ANSWER**\nThe ratio 2 : 1 signifies that the first coolie is twice as powerful as the second. Even though they both performed the exact same physical task and used the same amount of energy, the first coolie accomplished the task in half the time. In industrial and mechanical terms, 'power' measures efficiency and speed of task completion. This logical and mathematical derivation leads directly to Option B.\n\n### **COMMON MISTAKES**\nA very frequent error is failing to convert the units properly, particularly leaving the second time as '1' instead of '60' seconds, which results in a wildly incorrect ratio of 30:1 \n\nAnother mistake is assuming power is directly proportional to time, which would lead to a 1:2 ratio. Some students also try to calculate a numerical value for work by guessing a mass for the suitcase, which is unnecessary and often leads to arithmetic errors. Always remember that when asked for a ratio, you should identify which variables are constant and focus only on the relationship between the changing variables (in this case, power and time).",
+        "keywords": {
+            "P": "Power",
+            "m/s": "meters per second",
+            "J": "Joules",
+            "1 : 3": "one isto three",
+            "2 : 1": "two isto one",
+            "3 : 1": "three isto one",
+            "1 : 2": "one isto two"
+        }
+    },
+    {
+        "id": 38,
+        "question_number": "155",
+        "text": "The radii of circular orbits of two satellites A and B of the earth are 4R and R respectively. If the speed of satellite A is 3v, then the speed of satellite B will be:",
+        "subject": "Physics",
+        "sub_topic": "Gravitation",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "3v/4",
+            "6v",
+            "12v",
+            "3v/2"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 283,
+        "correct_answer": "6v",
+        "basic_answer": "Orbital speed for a circular orbit is proportional to 1 / sqrt(r). For A at 4R, vA = (1/2) vB.\n\nGiven vA = 3v, we get vB = 6v.\n\nHence the speed of satellite B is 6v (Option B).",
+        "explanation": "CORE CONCEPT\nThe motion of a satellite in a circular orbit is determined by the balance between gravitational force and centripetal force. For a satellite orbiting a planet of mass M at distance r, the gravitational force provides the centripetal force required for circular motion.\n\n(G M m) / r² = (m v²) / r\n\nSolving for orbital velocity gives:\n\nv = sqrt(G M / r)\n\nThis shows that orbital speed is inversely proportional to the square root of the orbital radius:\n\nv proportional to 1 / sqrt(r)\n\nThus, satellites closer to the planet move faster than those farther away.\n\nSOLUTION\nSatellite A:\nOrbital radius rA = 4R\nSpeed vA = 3v\n\nSatellite B:\nOrbital radius rB = R\nSpeed vB = ?\n\nUsing the proportional relation:\n\nv proportional to 1 / sqrt(r)\n\nSo,\n\nvB / vA = sqrt(rA / rB)\n\nSubstitute values:\n\nvB / (3v) = sqrt(4R / R)\n\nvB / (3v) = sqrt(4)\n\nvB / (3v) = 2\n\nvB = 2 × 3v\n\nvB = 6v\n\nWHY THIS ANSWER\nSatellite B is four times closer to the planet than satellite A. Because orbital speed varies with the inverse square root of the radius, reducing the orbital radius by a factor of four increases the speed by a factor of two. Therefore satellite B moves twice as fast as satellite A, giving a speed of 6v.\n\nCOMMON MISTAKES\n1. Assuming orbital speed varies as 1 / r instead of 1 / sqrt(r).\n2. Reversing the ratio of radii in the calculation.\n3. Confusing orbital velocity with escape velocity.\n4. Misinterpreting orbital radius as height above the surface instead of distance from the planet's center."
+    },
+    {
+        "id": 39,
+        "question_number": "157",
+        "text": "A beam of cathode rays is subjected to cross Electric (E) and magnetic fields(B). The fields are adjusted such that the beam is not deflected. The specific charge of the cathode rays is given by",
+        "subject": "Physics",
+        "sub_topic": "Electromagnetism",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "E² / (2VB²)",
+            "2E² / (VB²)",
+            "E / (2VB)",
+            "V / (2EB)"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 284,
+        "correct_answer": "E² / (2VB²)",
+        "basic_answer": "Given:\nE = electric field strength\nB = magnetic field strength\nV = accelerating potential\n\nSolution:\nFor no deflection in crossed electric and magnetic fields:\n\nqE = qvB\n\nSo,\n\nv = E / B\n\nThe cathode rays are accelerated through potential V:\n\n(1/2)mv² = qV\n\nSubstitute v = E / B:\n\n(1/2)m(E/B)² = qV\n\nRearranging:\n\nq/m = E² / (2VB²)",
+        "explanation": "CORE CONCEPT\nSpecific charge refers to the charge-to-mass ratio (q/m) of a particle. This concept appears in experiments involving cathode rays or electrons moving in electric and magnetic fields. Two principles are involved: force balance in crossed electric and magnetic fields, and energy gained from acceleration through an electric potential.\n\nIn crossed fields, the electric force and magnetic force act in opposite directions. If the electron beam is not deflected, these forces are equal.\n\nElectric force = qE\nMagnetic force = qvB\n\nThus,\n\nqE = qvB\n\nv = E / B\n\nSOLUTION\nElectrons are accelerated through a potential difference V. The electrical energy gained becomes kinetic energy.\n\nKinetic energy = electrical potential energy\n\n(1/2)mv² = qV\n\nSolve for q/m:\n\nq/m = v² / (2V)\n\nSubstitute v = E / B:\n\nq/m = (E/B)² / (2V)\n\nSimplifying gives:\n\nq/m = E² / (2VB²)\n\nWHY THIS ANSWER\nThe expression combines two physical conditions: velocity determined by the balance of electric and magnetic forces, and kinetic energy gained from acceleration through potential V. Substituting the velocity expression into the energy equation produces the final relation for specific charge.\n\nCOMMON MISTAKES\n Forgetting to square E/B when substituting velocity.\n Dropping the factor 1/2 from the kinetic energy formula.\n Placing V incorrectly in the numerator.\n Mixing up electric force and magnetic force expressions.",
+        "keywords": {
+            "E": "electric field strength (N/C)",
+            "B": "magnetic field strength (T)",
+            "V": "velocity (m/s)",
+            "q": "charge (C)",
+            "m": "mass (kg)"
+        }
+    }
+]

@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Surface Chemistry",
+    "chapter_number": 11,
+    "topic": "Catalysis",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:11:19.619001",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about catalysis in surface chemistry. Catalysis is a process that speeds up a chemical reaction. It does this without being used up in the reaction. \n\nLet's start with the types of catalysis. There are two main types: homogeneous and heterogeneous catalysis. In homogeneous catalysis, the catalyst is in the same phase as the reactants. For example, if both are gases or both are liquids. An example is the acid-catalyzed esterification of acetic acid and ethanol. \n\nIn heterogeneous catalysis, the catalyst is in a different phase than the reactants. A common example is the hydrogenation of vegetable oils using a solid metal catalyst like nickel. \n\nNow, let's talk about the mechanism of catalysis. A catalyst provides an alternative pathway for the reaction. This pathway has a lower activation energy. Activation energy is the energy needed to start a reaction. By lowering this energy, the catalyst makes the reaction go faster. \n\nNext, enzyme catalysis is a special type of catalysis. Enzymes are proteins that act as catalysts in biological systems. For example, the enzyme amylase helps break down starch into sugar in our saliva. \n\nCatalysis is very important in industries. It is used in the production of ammonia in the Haber process. The catalyst used here is iron. Catalysis is also used in making sulfuric acid in the Contact process. \n\nCatalyst poisoning is when a catalyst loses its effectiveness. This happens when impurities bind to the catalyst surface. A common example is lead poisoning of catalytic converters in cars. \n\nPromoters and inhibitors are substances that affect catalysts. Promoters increase the effectiveness of a catalyst. Inhibitors decrease it. For example, molybdenum acts as a promoter in the Haber process. \n\nAutocatalysis is a process where one of the products of the reaction acts as a catalyst. This means the reaction speeds up as it progresses. An example is the decomposition of hydrogen peroxide, where oxygen acts as a catalyst. \n\nLet's look at some common mistakes in JEE Main. One mistake is confusing homogeneous and heterogeneous catalysis. Remember, homogeneous means same phase, heterogeneous means different phase. Another mistake is not recognizing catalyst poisoning. Always check if impurities might affect the catalyst. \n\nKey takeaways: Catalysts speed up reactions without being used up. Homogeneous and heterogeneous catalysis are based on phase differences. Enzymes are biological catalysts. Industrial processes rely on catalysts for efficiency. Watch out for catalyst poisoning and the roles of promoters and inhibitors. \n\nIn summary, catalysis is crucial in chemistry and industry. Understanding it can help you solve many JEE Main questions. Keep practicing and remember these concepts!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Catalysis",
+    "Homogeneous",
+    "Heterogeneous",
+    "Enzyme",
+    "Poisoning"
+  ],
+  "formulas": [
+    {
+      "formula": "Rate = k[A]^m[B]^n",
+      "description": "Used to calculate reaction rate in the presence of a catalyst, where k is the rate constant"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Catalysis",
+      "definition": "The process of increasing the rate of a chemical reaction by adding a catalyst"
+    },
+    {
+      "term": "Homogeneous Catalysis",
+      "definition": "Catalysis where the catalyst and reactants are in the same phase"
+    },
+    {
+      "term": "Heterogeneous Catalysis",
+      "definition": "Catalysis where the catalyst and reactants are in different phases"
+    },
+    {
+      "term": "Enzyme Catalysis",
+      "definition": "Catalysis of a reaction by a biological enzyme"
+    },
+    {
+      "term": "Catalyst Poisoning",
+      "definition": "Loss of catalyst activity due to impurities"
+    }
+  ]
+}

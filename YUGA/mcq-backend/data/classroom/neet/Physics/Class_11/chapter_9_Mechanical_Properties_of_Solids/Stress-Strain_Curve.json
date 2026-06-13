@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Mechanical Properties of Solids",
+    "chapter_number": 9,
+    "topic": "Stress-Strain Curve",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:56:52.627500",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the stress-strain curve. This is an important topic in physics, especially for NEET exams. Let's start by understanding what stress and strain mean. Stress is a force applied on a material. It is like when you press or pull something. Strain is how much the material changes shape because of that force. \n\nNow, let's talk about the stress-strain curve. This curve shows how a material reacts when a force is applied. Imagine you are stretching a rubber band. At first, it stretches easily. This part is called elastic deformation. If you stop pulling, the rubber band goes back to its original shape. \n\nBut if you pull too hard, the rubber band might not go back to normal. This is called plastic deformation. The material changes shape permanently. On the graph, you will see a curve that starts to bend. \n\nNext, we have the yield point. This is where elastic deformation ends, and plastic deformation starts. If you continue to pull, you reach the ultimate tensile strength. This is the maximum stress the material can handle before breaking. \n\nLet's look at some examples. Think of a metal wire. When you pull it gently, it stretches a little and goes back. But if you pull too hard, it might stretch and not return to its original shape. This is plastic deformation. \n\nIn NEET exams, students often confuse elastic and plastic deformation. Remember, elastic means it can return to its original shape. Plastic means it cannot. \n\nStress-strain analysis is useful in many fields. Engineers use it to design buildings and bridges. They need to know how materials will behave under stress. \n\nKey points to remember: Stress is force per area. Strain is the change in shape. Elastic deformation is reversible. Plastic deformation is not. The yield point is the start of permanent change. \n\nIn summary, understanding stress-strain curves helps us know how materials behave. This is crucial for safe and efficient designs. \n\nThank you for listening! I hope this helps you in your NEET preparation.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Stress",
+    "Strain",
+    "Elastic deformation",
+    "Plastic deformation",
+    "Yield point",
+    "Ultimate tensile strength"
+  ],
+  "formulas": [
+    {
+      "formula": "Stress = Force / Area",
+      "description": "Stress is the force applied per unit area of a material."
+    },
+    {
+      "formula": "Strain = Change in Length / Original Length",
+      "description": "Strain is the ratio of change in length to the original length of the material."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Stress",
+      "definition": "The force applied on a material per unit area."
+    },
+    {
+      "term": "Strain",
+      "definition": "The change in shape or size of a material due to stress."
+    },
+    {
+      "term": "Elastic deformation",
+      "definition": "Temporary change in shape; the material returns to its original shape when the force is removed."
+    },
+    {
+      "term": "Plastic deformation",
+      "definition": "Permanent change in shape; the material does not return to its original shape when the force is removed."
+    },
+    {
+      "term": "Yield point",
+      "definition": "The point at which elastic deformation ends and plastic deformation begins."
+    },
+    {
+      "term": "Ultimate tensile strength",
+      "definition": "The maximum stress that a material can withstand before breaking."
+    }
+  ]
+}

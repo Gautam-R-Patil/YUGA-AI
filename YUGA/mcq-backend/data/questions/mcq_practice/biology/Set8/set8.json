@@ -1,0 +1,305 @@
+[
+    {
+        "id": 70,
+        "question_number": "7",
+        "text": "An important characteristic that Hemichordates share with Chordates is:",
+        "subject": "Biology",
+        "sub_topic": "Animal Kingdom",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Ventral tubular nerve cord",
+            "Pharynx with gill slits",
+            "Pharynx without gill slits",
+            "Absence of notochord"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 71,
+        "correct_answer": "Pharynx with gill slits",
+        "basic_answer": "Hemichordates and Chordates share a pharynx with gill slits, which is a crucial feature in their developmental stages. This trait indicates a shared evolutionary origin, reflecting their position within the animal kingdom. \n\nTherefore, the answer is Option B.",
+        "explanation": "### Core Concept\nHemichordates were previously categorized as a sub-phylum under Chordata due to several shared anatomical features. The presence of pharyngeal gill slits is a fundamental characteristic used to define the chordate body plan, and it is shared by hemichordates.\n\n### Solution\nPhylum Chordata is defined by four key features: a notochord, a dorsal hollow nerve cord, pharyngeal gill slits, and a post-anal tail. Hemichordates (like *Balanoglossus*) possess paired pharyngeal gill slits used for filter-feeding and respiration. \n\n\n\n### Why This Answer\nOption B is the correct shared trait. The other options are incorrect because:\n* Nerve Cord: Chordates have a *dorsal* nerve cord, while hemichordates have a *ventral* one.\n* Notochord: Hemichordates lack a true notochord (they have a stomochord instead).\n\n### Common Mistakes\n* Nerve Cord Position: Forgetting that \"dorsal\" vs \"ventral\" nerve cords are a primary way to distinguish chordates from non-chordates.\n* Notochord Confusion: Misidentifying the stomochord as a notochord, which was the mistake that originally led to their classification as chordates.",
+        "keywords": {}
+    },
+    {
+        "id": 71,
+        "question_number": "8",
+        "text": "Match the following sexually transmitted diseases (Column-I) with their causative agent (Column-II) and select the correct option:",
+        "subject": "Biology",
+        "sub_topic": "Human Health and Disease",
+        "question_type": "Match-Column",
+        "difficulty": "Hard",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "a-(iii) b-(iv) c-(i) d-(ii)",
+            "a-(iv) b-(ii) c-(iii) d-(i)",
+            "a-(iv) b-(iii) c-(ii) d-(i)",
+            "a-(ii) b-(iii) c-(iv) d-(i)"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "Match-Column"
+        },
+        "original_id": 73,
+        "correct_answer": "a-(iii) b-(iv) c-(i) d-(ii)",
+        "basic_answer": "Sexually transmitted diseases include Gonorrhea, Chlamydia, Syphilis, and HIV. Gonorrhea is caused by Neisseria gonorrhoeae (option iii), Chlamydia by Chlamydia trachomatis (option iv), Syphilis by Treponema pallidum (option i), and HIV by Human Immunodeficiency Virus (option ii). \n\nTherefore, matching these leads to a-(iii), b-(iv), c-(i), d-(ii)",
+        "explanation": "### Core Concept\nSexually Transmitted Infections (STIs) are caused by a variety of pathogens, including bacteria, viruses, and protozoa. Accurate diagnosis requires matching specific clinical symptoms to their biological causative agents.\n\n### Solution\n1.  Gonorrhea (a): Caused by the bacterium Neisseria gonorrhoeae (iii).\n2.  Chlamydia (b): Caused by the bacterium Chlamydia trachomatis (iv).\n3.  Syphilis (c): Caused by the bacterium Treponema pallidum (i).\n4.  AIDS (d): Caused by the Human Immunodeficiency Virus (HIV) (ii).\n\n### Why This Answer\nFollowing the logic above, the matching sequence is a-(iii), b-(iv), c-(i), d-(ii). This sequence aligns perfectly with option A.\n\n### Common Mistakes\n* Mixing Bacterial Agents: Confusing *Treponema* (Syphilis) with *Neisseria* (Gonorrhea).\n* Virus vs Bacterium: Forgetting that most traditional STIs like Syphilis and Gonorrhea are bacterial, while HIV/AIDS is viral.",
+        "keywords": {}
+    },
+    {
+        "id": 72,
+        "question_number": "1",
+        "text": "The final proof for DNA as the genetic material came from the experiments of:",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Hershey and chase",
+            "Avery, McLeod and McCarty",
+            "Har Gobind Khorana",
+            "Griffith"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 33,
+        "correct_answer": "Hershey and chase",
+        "basic_answer": "Hershey and Chase conducted pivotal experiments using radioactive labeling to demonstrate that DNA carries genetic information. Their work distinguished DNA as the genetic material from proteins, establishing its role in heredity. \n\nTherefore, the answer is A.",
+        "explanation": "### Core Concept\nWhile multiple scientists contributed to the discovery of genetic material, the scientific community required a definitive experiment to prove whether DNA or protein carried inheritance instructions.\n\n### Solution\nIn 1952, Alfred Hershey and Martha Chase worked with bacteriophages (T2 virus) that infect *E. coli*. They labeled viral proteins with radioactive Sulfur ($^{35}S$) and viral DNA with radioactive Phosphorus ($^{32}P$). After infection and centrifugation (the \"blender experiment\"), they found that only the radioactive Phosphorus entered the bacteria, proving that DNA was the material passed to the next generation.\n\n\n\n### Why This Answer\nOption A is correct because the Hershey-Chase experiment is historically defined as the \"unequivocal\" or final proof that settled the debate between DNA and proteins.\n\n### Common Mistakes\n* Griffith: Thinking he proved DNA was the material; he only discovered the \"transforming principle\" without knowing its chemical nature.\n* Avery et al.: Forgetting that their work provided biochemical evidence, but Hershey-Chase provided the final, universally accepted proof.",
+        "keywords": {}
+    },
+    {
+        "id": 73,
+        "question_number": "2",
+        "text": "With reference to factors affecting the rate of photosynthesis, which of the following statements is not correct?",
+        "subject": "Botany",
+        "sub_topic": "Photosynthesis",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "increasing atmospheric CO2 concentration up to 0.05% can enhance CO2 fixation rate",
+            "C₃ plants respond to higher temperatures with enhanced photosynthesis while C₄ plants have much lower temperature optimum",
+            "Tomato is a greenhouse crop which can be grown in CO2 enriched atmosphere for higher yield",
+            "Light saturation for CO2 fixation occurs at 10% of full sunlight"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 34,
+        "correct_answer": "C₃ plants respond to higher temperatures with enhanced photosynthesis while C₄ plants have much lower temperature optimum",
+        "basic_answer": "C₃ plants generally perform better at moderate temperatures, whereas C₄ plants have a higher thermal optimum allowing them to thrive in hotter environments. This shows that the response of each plant type to temperature is not as described in option B. \n\nTherefore, option B is the answer.",
+        "explanation": "### Core Concept\nPhotosynthesis is affected by external factors like light, $CO_2$, and temperature. C3 and C4 plants have different metabolic pathways that cause them to respond differently to these environmental variables.\n\n### Solution\n* Temperature Optima: C4 plants are adapted to tropical climates and have a higher temperature optimum (approx. $35-40°C$). C3 plants prefer moderate climates and have a lower temperature optimum ($20-25°C$).\n* $CO_2$ Concentration: Increasing $CO_2$ up to $0.05\\%$ ($500\\text{ ppm}$) increases fixation, especially in C3 plants like tomatoes.\n* Light: Most plants reach light saturation at just $10\\%$ of full sunlight.\n\n### Why This Answer\nOption B is incorrect (and thus the correct answer) because it swaps the temperature preferences. C4 plants have a high temperature optimum, not a low one.\n\n### Common Mistakes\n* Overlooking the \"Not\": Misreading the question as asking for a correct statement.\n* $CO_2$ Saturation: Thinking $0.05\\%$ is too high; atmospheric $CO_2$ is usually around $0.04\\%$, so a slight increase does boost growth.",
+        "keywords": {}
+    },
+    {
+        "id": 74,
+        "question_number": "3",
+        "text": "Among the following characters, which one was not considered by Mendel in his experiments on pea?",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Pod colour",
+            "Pod length",
+            "Seed shape",
+            "Seed colour"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 35,
+        "correct_answer": "Pod length",
+        "basic_answer": "Mendel considered traits such as pod colour, seed shape, and seed colour in his pea experiments. However, pod length was not among the seven traits he studied. \n\nTherefore, option B is the correct answer.",
+        "explanation": "### Core Concept\nGregor Mendel selected seven pairs of contrasting characters in the garden pea (*Pisum sativum*) for his study. These traits were chosen for their distinct, binary nature (e.g., Tall vs Dwarf).\n\n### Solution\nThe seven characters were:\n1. Stem height (Tall/Dwarf)\n2. Flower colour (Violet/White)\n3. Flower position (Axial/Terminal)\n4. Pod shape (Inflated/Constricted)\n5. Pod colour (Green/Yellow)\n6. Seed shape (Round/Wrinkled)\n7. Seed colour (Yellow/Green)\n\n\n\n### Why This Answer\nPod length was not one of the seven characters studied by Mendel. While he studied \"stem length\" (height), he did not measure or categorize the length of the pods.\n\n### Common Mistakes\n* Pod traits confusion: Mixing up pod shape/colour with pod length.\n* Seed traits confusion: Forgetting that seed shape and seed colour are two distinct characters.",
+        "keywords": {}
+    },
+    {
+        "id": 75,
+        "question_number": "5",
+        "text": "Plants which produce characteristic pneumatophores and show vivipary belong to:",
+        "subject": "Botany",
+        "sub_topic": "Plant Adaptations",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Halophytes",
+            "Psammophytes",
+            "Hydrophytes",
+            "Mesophytes"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 36,
+        "correct_answer": "Halophytes",
+        "basic_answer": "Plants that bear characteristic pneumatophores and exhibit vivipary are adapted to saline environments, particularly seen in halophytes. These adaptations allow them to thrive in conditions with high salinity and tidal influences. \n\nHence the answer is A.",
+        "explanation": "### Core Concept\nPlants in extreme environments evolve specific morphological adaptations. Halophytes (salt-tolerant plants) like mangroves face challenges of high salinity and anaerobic (low oxygen) soil in marshes.\n\n### Solution\nHalophytes exhibit two signature traits:\n1.  Pneumatophores: Upward-growing \"breathing roots\" that emerge from the mud to take in oxygen for the plant's root system.\n2.  Vivipary: A reproductive strategy where seeds germinate while still attached to the parent plant, dropping into the mud as developed seedlings to survive high salt concentrations.\n\n\n\n### Why This Answer\nOnly Halophytes possess both these traits. Hydrophytes are water plants, Psammophytes grow in sand, and Mesophytes live in moderate water conditions.\n\n### Common Mistakes\n* Confusing Hydro- and Halo-: Thinking any plant in water is a hydrophyte. Halophytes are specific to saline (salty) water.\n* Vivipary definition: Thinking it refers to giving birth to live young (like animals) rather than seed germination on the parent tree.",
+        "keywords": {
+            "P": "Pneumatophores",
+            "V": "Vivipary"
+        }
+    },
+    {
+        "id": 76,
+        "question_number": "6",
+        "text": "Which of the following components provides sticky character to the bacterial cell?",
+        "subject": "Biology",
+        "sub_topic": "Cell Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Nuclear membrane",
+            "Plasma membrane",
+            "Glycocalyx",
+            "Cell Wall"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 37,
+        "correct_answer": "Glycocalyx",
+        "basic_answer": "Glycocalyx provides a sticky character to bacterial cells as it consists of polysaccharides and glycoproteins that form a protective outer coating. This coating helps in adhering to surfaces and provides a barrier against desiccation and immune defense. \n\nHence, the answer is C.",
+        "explanation": "### Core Concept\nBacteria have a complex cell envelope that determines their interaction with the environment. Adhesion (stickiness) is a survival trait used to form biofilms and attach to host cells.\n\n### Solution\nThe Glycocalyx is the outermost layer of the bacterial cell envelope. It consists of polysaccharides and proteins. Depending on its thickness and composition, it is called a slime layer (loose) or a capsule (thick/tough). Because of its sugary/proteinaceous nature, it is naturally \"sticky.\"\n\n\n\n### Why This Answer\nGlycocalyx is the correct answer because it is the specific \"adhesive\" component. The cell wall provides rigidity, the plasma membrane handles transport, and bacteria lack a nuclear membrane entirely.\n\n### Common Mistakes\n* Thinking it's the Cell Wall: The cell wall is rigid and protective but not inherently sticky. \n* Prokaryotic anatomy: Forgetting that bacteria (prokaryotes) do not have a nuclear membrane.",
+        "keywords": {}
+    },
+    {
+        "id": 77,
+        "question_number": "7",
+        "text": "The pivot joint between atlas and axis is a type of:",
+        "subject": "Biology",
+        "sub_topic": "Human Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Cartilaginous joint",
+            "Synovial joint",
+            "Saddle joint",
+            "Fibrous joint"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 38,
+        "correct_answer": "Synovial joint",
+        "basic_answer": "The pivot joint between the atlas and axis allows rotational movement of the head. This joint is classified as a synovial joint, as it has a joint cavity filled with synovial fluid, allowing for smooth movement. \n\nHence, the answer is B.",
+        "explanation": "### Core Concept\nJoints are classified by the type of tissue connecting the bones and the amount of movement they allow. Synovial joints are the most common and highly movable joints in the body, defined by a fluid-filled cavity.\n\n### Solution\nThe joint between the first cervical vertebra (Atlas) and the second (Axis) is a pivot joint. It allows the \"shaking the head no\" rotational movement. All movable pivot, hinge, and ball-and-socket joints are sub-types of Synovial joints.\n\n\n\n### Why This Answer\nSynovial joint is the correct broad category. \n* Fibrous joints: Immovable (e.g., skull sutures).\n* Cartilaginous joints: Slightly movable (e.g., between most other vertebrae).\n\n### Common Mistakes\n* Confusing with other vertebrae: Thinking all spinal joints are cartilaginous. While the intervertebral discs are cartilaginous, the Atlas/Axis connection is uniquely synovial to allow for significant head rotation.",
+        "keywords": {}
+    },
+    {
+        "id": 78,
+        "question_number": "8",
+        "text": "Which of the following options best represents the enzyme composition of pancreatic juice?",
+        "subject": "Biology",
+        "sub_topic": "Human Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Amylase, pepsin, trypsinogen, maltase",
+            "Peptidase, amylase, pepsin, rennin",
+            "Lipase, amylase, trypsinogen, procarboxypaptidase",
+            "Amylase, peptidase, trypsonigen, rennin"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 39,
+        "correct_answer": "Lipase, amylase, trypsinogen, procarboxypaptidase",
+        "basic_answer": "Lipase, amylase, trypsinogen, and procarboxypeptidase are the key enzymes present in pancreatic juice, facilitating digestion of carbohydrates, fats, and proteins.",
+        "explanation": "### Core Concept\nPancreatic juice is an exocrine secretion containing a cocktail of enzymes specialized for breaking down all major types of macromolecules in the small intestine.\n\n### Solution\nThe primary enzymes in pancreatic juice include:\n* Amylase: For starch.\n* Lipase: For fats.\n* Trypsinogen / Chymotrypsinogen: For proteins (inactive forms).\n* Procarboxypeptidase: For peptides.\n* Nucleases: For DNA/RNA.\n\n### Why This Answer\nOption C correctly identifies the four major enzymes. \n* Pepsin and Rennin (Options A, B, D) are found in gastric juice (stomach).\n* Maltase (Option A) is part of the succus entericus (intestinal juice).\n\n### Common Mistakes\n* Mixing Digestive Organs: Thinking pepsin (stomach) or maltase (small intestine surface) is part of the pancreatic secretion.\n* Inactive vs Active: Forgetting that protein-digesting enzymes from the pancreas are usually secreted in an inactive \"-ogen\" form.",
+        "keywords": {}
+    },
+    {
+        "id": 79,
+        "question_number": "1",
+        "text": "Which among these is the correct combination of aquatic mammals?",
+        "subject": "Zoology",
+        "sub_topic": "Aquatic Mammals",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Dolphin, Seals, Trygon",
+            "Whales, Dolphin, Seals",
+            "Trygon, Whales, Seals",
+            "Seals, Dolphine, Sharks"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 40,
+        "correct_answer": "Whales, Dolphin, Seals",
+        "basic_answer": "Whales, dolphins, and seals are all classified as aquatic mammals due to their adaptations for living in water. They are warm-blooded, have lungs for breathing air, and typically give live birth and nurse their young. \n\nHence the answer is B.",
+        "explanation": "### Core Concept\nAquatic mammals are air-breathing vertebrates that have evolved from land-dwelling ancestors to live in water. They share hallmark mammalian traits like being warm-blooded and nursing their young with milk.\n\n### Solution\n* Mammals: Whales, Dolphins, Seals (and Dugongs/Manatees).\n* Non-Mammals: *Trygon* (Stingray) and Sharks are cartilaginous fish. They breathe through gills and do not nurse young.\n\n### Why This Answer\nOption B is the only group consisting entirely of mammals. All other options contain at least one type of fish (*Trygon* or Shark).\n\n### Common Mistakes\n* Confusion with Fish: Assuming any streamlined sea creature with fins is a fish. Whales and dolphins are often misclassified by students despite being air-breathers.\n* Misidentifying Trygon: Not knowing that *Trygon* is a biological name for a stingray.",
+        "keywords": {}
+    }
+]

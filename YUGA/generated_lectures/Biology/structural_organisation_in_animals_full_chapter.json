@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Structural Organisation in Animals",
+    "chapter_number": "7",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:29:46.015011",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise the essential aspects of 'Structural Organisation in Animals', crucial for NEET. This chapter involves understanding how animals are structured at tissue and organ levels. \n\nStarting with **Tissues**, the basic building blocks: \n- **Epithelium**: Covers body surfaces and lines cavities. It's classified into simple (single-layer) and stratified (multi-layered). Key functions include protection, secretion, and absorption.\n- **Connective Tissue**: Provides support and strength. Includes blood, bone, cartilage, and adipose tissue, each serving special roles like transport, support, and cushion.\n- **Muscular Tissue**: Facilitates movement. Types include striated (skeletal), smooth, and cardiac muscle, each with unique features essential for various body functions.\n- **Nervous Tissue**: Composed of neurons, it forms the communication network of the body, transmitting signals between the brain, spinal cord, and other areas.\n\nMoving on to **Organ and Organ System Organisation**:\n- Animals contain various organs that perform specific functions like heart (circulation), lungs (respiration), and also, systems such as the digestive system, which demonstrates functional interrelation.\n\nKey points for NEET questions include specific tissue types and their functions, structural features, and examples, such as noting which tissues are present in certain organs and functions. Definitions and examples of organs and systems, like the human digestive system, are also frequently asked.\n\n### Quick Revision:\n1. Tissues are classified into four types: epithelial, connective, muscular, and nervous.\n2. Epithelium covers and lines body surfaces, while the connective tissue provides support.\n3. Muscle tissues are responsible for movement; nervous tissues for signal transmission.\n4. Organ systems demonstrate functional interrelationships through organs performing specific functions.\n5. Focus on tissue types, organ functions, and their structural integration in NEET.",
+  "duration_minutes": "12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Epithelial Tissue",
+    "Connective Tissue",
+    "Muscular Tissue",
+    "Nervous Tissue",
+    "Organ System",
+    "Striated Muscle",
+    "Neuron",
+    "Skeletal Muscle",
+    "Cardiac Muscle",
+    "Digestive System"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Epithelial Tissue",
+      "definition": "Lines the body surfaces and cavities, providing protective and absorptive functions."
+    },
+    {
+      "term": "Connective Tissue",
+      "definition": "A tissue that connects, supports, binds, or separates other tissues or organs."
+    },
+    {
+      "term": "Muscular Tissue",
+      "definition": "Made of muscle fibers, it facilitates movement and is classified into striated, smooth, and cardiac muscles."
+    },
+    {
+      "term": "Nervous Tissue",
+      "definition": "Composed of neurons, it transmits electrical impulses throughout the body."
+    },
+    {
+      "term": "Organ System",
+      "definition": "A group of organs that work together to perform complex functions."
+    },
+    {
+      "term": "Striated Muscle",
+      "definition": "Known as skeletal muscle, it's involved in voluntary movements and features a striated appearance."
+    },
+    {
+      "term": "Neuron",
+      "definition": "Basic structural and functional unit of the nervous system responsible for signal transmission."
+    },
+    {
+      "term": "Skeletal Muscle",
+      "definition": "A type of muscle tissue that is attached to bones and helps in voluntary movements."
+    },
+    {
+      "term": "Cardiac Muscle",
+      "definition": "A specialized muscle found in the heart, responsible for pumping blood."
+    },
+    {
+      "term": "Digestive System",
+      "definition": "A system of organs working together to convert food into energy and basic nutrients."
+    }
+  ]
+}

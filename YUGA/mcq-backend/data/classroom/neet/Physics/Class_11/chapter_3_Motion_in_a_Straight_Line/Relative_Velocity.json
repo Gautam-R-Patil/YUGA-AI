@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Motion in a Straight Line",
+    "chapter_number": 3,
+    "topic": "Relative Velocity",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:49:58.511932",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about relative velocity. This is an important topic in physics and often appears in NEET exams. Let's start by understanding what relative velocity means. \n\nRelative velocity is how fast one object is moving compared to another object. Imagine two cars on the road. If you are in one car, you want to know how fast the other car seems to be moving. This is called relative velocity.\n\nTo calculate relative velocity, we use a simple formula. If object A has velocity v_A and object B has velocity v_B, the relative velocity of A with respect to B is v_AB = v_A - v_B. This means you subtract the velocity of B from the velocity of A.\n\nLet's look at an example. If car A is moving at 60 km/h and car B is moving at 40 km/h in the same direction, the relative velocity of A with respect to B is 60 km/h - 40 km/h = 20 km/h. This means car A seems to move at 20 km/h faster than car B.\n\nNow, if the cars move in opposite directions, you add their speeds. So, if car A is moving at 60 km/h and car B at 40 km/h in opposite directions, the relative velocity is 60 km/h + 40 km/h = 100 km/h.\n\nA common mistake is to forget the direction. Always remember: direction matters in velocity.\n\nLet's talk about graphical representation. We can use graphs to show motion. On a graph, time is usually on the x-axis and distance on the y-axis. The slope of the line shows velocity. If the slope is steep, the object is moving fast. If the slope is flat, the object is moving slow.\n\nRelative velocity can help solve problems. For example, if two trains are moving towards each other, you can find when they will meet by using relative velocity. This is useful in NEET problems.\n\nKey points to remember: \n1. Relative velocity is the difference between two velocities.\n2. Always consider direction.\n3. Use graphs to visualize motion.\n\nIn summary, relative velocity helps us understand how fast something seems to move compared to something else. Practice problems to get better at this.\n\nThat's all for today. Keep practicing and you'll do great in your exams!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Relative Velocity",
+    "Velocity",
+    "Graphical Representation",
+    "Direction"
+  ],
+  "formulas": [
+    {
+      "formula": "v_AB = v_A - v_B",
+      "description": "Relative velocity of A with respect to B is the velocity of A minus the velocity of B"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Relative Velocity",
+      "definition": "The velocity of one object as observed from another object"
+    },
+    {
+      "term": "Velocity",
+      "definition": "The speed of something in a given direction"
+    }
+  ]
+}

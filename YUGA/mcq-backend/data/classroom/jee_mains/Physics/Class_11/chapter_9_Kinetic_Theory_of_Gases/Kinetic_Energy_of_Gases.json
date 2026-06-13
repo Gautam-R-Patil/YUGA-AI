@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Kinetic Theory of Gases",
+    "chapter_number": 9,
+    "topic": "Kinetic Energy of Gases",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:53:05.007205",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Kinetic Energy of Gases. This is an important topic in the Kinetic Theory of Gases. Let's start by understanding what kinetic energy is. Kinetic energy is the energy that an object has because of its motion. In gases, molecules are always moving. So, they have kinetic energy. \n\nFirst, let's derive the formula for the kinetic energy of gas molecules. The formula is: KE = (3/2)kT. Here, KE is the kinetic energy, k is the Boltzmann constant, and T is the temperature in Kelvin. This formula shows that kinetic energy depends on temperature. If the temperature increases, the kinetic energy also increases.\n\nNext, let's talk about the Maxwell-Boltzmann distribution. This is a graph that shows the distribution of speeds of gas molecules at a certain temperature. Most molecules have speeds around the average, but some are very fast or very slow. \n\nNow, let's discuss the different types of speeds: root mean square speed, most probable speed, and average speed. The root mean square speed (v_rms) is given by the formula: v_rms = √(3kT/m). It is the square root of the average of the squares of the speeds. The most probable speed (v_mp) is the speed at which the largest number of molecules is moving. It is given by: v_mp = √(2kT/m). The average speed (v_avg) is the mean speed of all molecules and is calculated by: v_avg = √(8kT/πm).\n\nLet's see how temperature affects speed distribution. When the temperature increases, the speed of molecules increases. This means more molecules move faster. The Maxwell-Boltzmann curve becomes wider and shifts to the right.\n\nNow, let's solve a numerical problem. Suppose you have a gas at 300 K. Calculate the root mean square speed if the mass of one molecule is 5 x 10^-26 kg. Using the formula v_rms = √(3kT/m), plug in the values: v_rms = √(3 x 1.38 x 10^-23 x 300 / 5 x 10^-26). After calculation, v_rms is approximately 517 m/s.\n\nA common mistake in JEE Main is mixing up the formulas for different speeds. Always remember which formula to use for each type of speed.\n\nLet's summarize. We learned about the kinetic energy of gases and its relation to temperature. We also discussed the Maxwell-Boltzmann distribution and different types of speeds. Remember, kinetic energy increases with temperature.\n\nThat's all for today! Keep practicing problems to get better. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Kinetic Energy",
+    "Temperature",
+    "Maxwell-Boltzmann Distribution",
+    "Root Mean Square Speed",
+    "Average Speed"
+  ],
+  "formulas": [
+    {
+      "formula": "KE = (3/2)kT",
+      "description": "Used to calculate the kinetic energy of gas molecules based on temperature"
+    },
+    {
+      "formula": "v_rms = √(3kT/m)",
+      "description": "Calculates the root mean square speed of gas molecules"
+    },
+    {
+      "formula": "v_mp = √(2kT/m)",
+      "description": "Determines the most probable speed of gas molecules"
+    },
+    {
+      "formula": "v_avg = √(8kT/πm)",
+      "description": "Finds the average speed of gas molecules"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Kinetic Energy",
+      "definition": "Energy possessed by an object due to its motion"
+    },
+    {
+      "term": "Maxwell-Boltzmann Distribution",
+      "definition": "A statistical distribution of speeds of molecules in a gas"
+    }
+  ]
+}

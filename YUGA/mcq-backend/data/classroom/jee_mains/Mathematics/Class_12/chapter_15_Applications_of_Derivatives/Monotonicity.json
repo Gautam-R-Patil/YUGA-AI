@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Applications of Derivatives",
+    "chapter_number": 15,
+    "topic": "Monotonicity",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:58:35.542241",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about monotonicity in functions. Monotonicity helps us understand if a function is increasing or decreasing. This is important for solving JEE Main problems. Let's start with the basics.\n\nFirst, let's define what an increasing function is. A function is increasing if, as x gets larger, the function's value also gets larger. For example, the function f(x) = x + 1 is increasing because as x goes up, f(x) also goes up.\n\nNow, let's look at decreasing functions. A function is decreasing if, as x gets larger, the function's value gets smaller. For example, f(x) = -x is decreasing because as x goes up, f(x) goes down.\n\nTo test if a function is increasing or decreasing, we use the derivative. The derivative tells us the rate of change. If the derivative f'(x) > 0 for all x in an interval, the function is increasing in that interval. If f'(x) < 0, the function is decreasing.\n\nLet's look at intervals of monotonicity. An interval is a range of x-values. We find where a function is increasing or decreasing by checking the sign of the derivative in those intervals. For example, if f'(x) changes from positive to negative, the function changes from increasing to decreasing.\n\nMonotonicity has real-life applications. For example, if we know the speed of a car is increasing, we know it is accelerating. We use derivatives to find these changes in speed or growth.\n\nGraphical interpretation is also important. On a graph, an increasing function slopes upwards, and a decreasing function slopes downwards. This helps us visualize monotonicity.\n\nLet's go through a simple example. Consider the function f(x) = x^2. The derivative is f'(x) = 2x. If x > 0, then f'(x) > 0, so the function is increasing. If x < 0, then f'(x) < 0, so the function is decreasing.\n\nA common mistake in JEE Main is not checking all intervals. Always check the sign of the derivative in each interval. Also, remember to check endpoints if the interval is closed.\n\nIn summary, monotonicity tells us if a function is increasing or decreasing. We use derivatives to test this. Remember to check each interval and watch for sign changes in the derivative.\n\nThat's all for today! Make sure to practice this concept with different functions. Understanding monotonicity will help you solve many JEE Main problems.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Monotonicity",
+    "Increasing Function",
+    "Decreasing Function",
+    "Derivative",
+    "Interval"
+  ],
+  "formulas": [
+    {
+      "formula": "f'(x) > 0",
+      "description": "The function is increasing in the interval where this condition holds."
+    },
+    {
+      "formula": "f'(x) < 0",
+      "description": "The function is decreasing in the interval where this condition holds."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Increasing Function",
+      "definition": "A function where the value goes up as x increases."
+    },
+    {
+      "term": "Decreasing Function",
+      "definition": "A function where the value goes down as x increases."
+    },
+    {
+      "term": "Derivative",
+      "definition": "A measure of how a function's value changes as x changes."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermodynamics",
+    "chapter_number": 8,
+    "topic": "Thermal Equilibrium",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:51:51.626811",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about thermal equilibrium in thermodynamics. This is a part of your JEE Main syllabus. Let's start by understanding the basics. \n\nThermal equilibrium is a state where two objects in contact do not exchange heat. They have the same temperature. For example, if you place a hot iron rod in cold water, after some time, both will reach the same temperature. This is thermal equilibrium.\n\nNow, let's talk about the Zeroth Law of Thermodynamics. This law states that if object A is in thermal equilibrium with object B, and object B is in thermal equilibrium with object C, then object A is also in thermal equilibrium with object C. This law helps us understand temperature measurement.\n\nTemperature is measured using different scales. The most common ones are Celsius, Fahrenheit, and Kelvin. In JEE Main, you should know how to convert between these scales. For example, to convert Celsius to Kelvin, use the formula: K = C + 273.15.\n\nNext, let's discuss thermal expansion. When substances heat up, they expand. This is called thermal expansion. It is important in designing buildings and bridges. The formula for linear expansion is ΔL = αL₀ΔT, where ΔL is the change in length, α is the coefficient of linear expansion, L₀ is the original length, and ΔT is the change in temperature.\n\nHeat transfer is another key concept. Heat can be transferred in three ways: conduction, convection, and radiation. Conduction occurs in solids, convection in liquids and gases, and radiation can occur in a vacuum. \n\nThermometers use the concept of thermal equilibrium. For example, when you put a thermometer in hot water, it reaches thermal equilibrium with the water, allowing it to measure the temperature.\n\nIn JEE Main, you might face questions on calculating final temperatures when two bodies are mixed. Remember, the heat lost by the hot body equals the heat gained by the cold body.\n\nLet's look at a common mistake. Students often forget to convert temperatures to the same scale before calculations. Always check your units!\n\nKey takeaways: Remember the Zeroth Law, understand temperature scales, and know the heat transfer methods. Practice converting units and solving equilibrium problems.\n\nTo summarize, thermal equilibrium is a simple but important concept. It helps us understand how heat interacts in different systems. Keep practicing, and you will master this topic.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Thermal Equilibrium",
+    "Zeroth Law",
+    "Temperature Scales",
+    "Thermal Expansion",
+    "Heat Transfer"
+  ],
+  "formulas": [
+    {
+      "formula": "K = C + 273.15",
+      "description": "Converts Celsius to Kelvin, used in temperature scale conversions"
+    },
+    {
+      "formula": "ΔL = αL₀ΔT",
+      "description": "Calculates change in length due to thermal expansion"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Thermal Equilibrium",
+      "definition": "A state where two objects in contact have the same temperature and do not exchange heat"
+    },
+    {
+      "term": "Zeroth Law of Thermodynamics",
+      "definition": "If object A is in thermal equilibrium with B, and B with C, then A is in thermal equilibrium with C"
+    }
+  ]
+}

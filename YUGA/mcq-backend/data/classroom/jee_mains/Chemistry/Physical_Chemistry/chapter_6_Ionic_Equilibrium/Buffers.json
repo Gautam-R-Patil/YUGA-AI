@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Ionic Equilibrium",
+    "chapter_number": 6,
+    "topic": "Buffers",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:07:32.446901",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about buffers in chemistry. Buffers are special solutions that resist changes in pH when small amounts of acid or base are added. This is important in many chemical reactions and biological processes.\n\nLet's start with the definition. A buffer is a solution that can keep its pH stable. It does this even if you add a little acid or base. There are two main types of buffers: acidic buffers and basic buffers. An acidic buffer is made from a weak acid and its salt. A basic buffer is made from a weak base and its salt.\n\nNow, let's talk about how buffers work. This is called buffer action. When you add acid to a buffer, the weak base in the buffer reacts with the acid. This stops the pH from changing much. When you add a base, the weak acid in the buffer reacts with the base. Again, this keeps the pH stable.\n\nThe strength of a buffer is called buffer capacity. It tells us how much acid or base a buffer can handle before its pH changes a lot. A buffer with high capacity can resist more change than one with low capacity.\n\nNext, we have the Henderson-Hasselbalch equation. This is a formula that helps us calculate the pH of a buffer solution. The formula is: pH = pKa + log([A-]/[HA]). Here, pKa is the acid dissociation constant, [A-] is the concentration of the salt, and [HA] is the concentration of the acid.\n\nLet's see how to prepare a buffer solution. To make an acidic buffer, mix a weak acid with its salt. For example, mix acetic acid with sodium acetate. To make a basic buffer, mix a weak base with its salt. For example, mix ammonia with ammonium chloride.\n\nBuffers have many applications. They are used in blood to maintain pH. They are also used in shampoos and medicines. In labs, buffers help in many experiments.\n\nNow, let's see what happens when the pH changes in buffer solutions. If you add too much acid or base, the buffer will not work well. This is a limitation of buffers. They can only handle a certain amount of change.\n\nCommon buffer systems include the acetic acid-sodium acetate system and the ammonia-ammonium chloride system. These are often used in JEE Main questions.\n\nBe careful with common mistakes in JEE Main. Students often forget to use the Henderson-Hasselbalch equation correctly. Remember to check the units and concentrations carefully.\n\nTo summarize, buffers are important in keeping pH stable. They are used in many real-life applications. Understanding buffers will help you in JEE Main exams.\n\nThat's all for today's lesson. Keep practicing and good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Buffer",
+    "PH",
+    "Henderson-Hasselbalch",
+    "Acidic Buffer",
+    "Basic Buffer"
+  ],
+  "formulas": [
+    {
+      "formula": "pH = pKa + log([A-]/[HA])",
+      "description": "Used to calculate the pH of a buffer solution in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Buffer",
+      "definition": "A solution that resists changes in pH when small amounts of acid or base are added"
+    },
+    {
+      "term": "Buffer Capacity",
+      "definition": "The amount of acid or base a buffer can handle before its pH changes significantly"
+    },
+    {
+      "term": "Henderson-Hasselbalch Equation",
+      "definition": "A formula used to calculate the pH of a buffer solution"
+    }
+  ]
+}

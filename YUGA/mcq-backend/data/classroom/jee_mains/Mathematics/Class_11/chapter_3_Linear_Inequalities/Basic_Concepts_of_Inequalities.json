@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Linear Inequalities",
+    "chapter_number": 3,
+    "topic": "Basic Concepts of Inequalities",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:46:52.503281",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Linear Inequalities. This topic is important for JEE Main. Let's start by understanding what an inequality is. An inequality is a mathematical statement. It shows that two values are not equal. For example, x > 3 means x is greater than 3. \n\nNow, let's look at the types of inequalities. The first type is Linear Inequality. It involves a linear expression. A linear expression is like 2x + 3. The second type is Quadratic Inequality. It involves a quadratic expression like x^2 - 4x + 3.\n\nNext, we will discuss the graphical representation of inequalities. We can draw inequalities on a graph. For example, x > 2 is a line on the graph. The area above the line is the solution. This helps us see many solutions at once.\n\nLet's solve linear inequalities in one variable. Consider 2x + 3 > 5. First, subtract 3 from both sides. We get 2x > 2. Then, divide by 2. We find x > 1. This is the solution.\n\nNow, let's solve linear inequalities in two variables. For example, x + y < 4. We draw the line x + y = 4 on the graph. The area below the line is the solution. This shows all the values of x and y that work.\n\nWe can also have a system of linear inequalities. This means more than one inequality together. For example, x + y < 4 and x - y > 1. We draw both lines on the graph. The area that fits both is the solution.\n\nLinear inequalities have many applications. We use them in real life. For example, to find the best way to spend money or time. They help us make good decisions.\n\nLet's look at some common mistakes. One mistake is forgetting to flip the inequality sign. This happens when you multiply or divide by a negative number. For example, if -2x > 4, divide by -2. The solution is x < -2, not x > -2.\n\nTo sum up, remember these key points. Inequalities show that two values are not equal. Linear inequalities have a simple form like ax + b. We can solve them by drawing graphs. Always check your steps to avoid mistakes.\n\nIn JEE Main, practice is important. Solve many problems to get better. Use these tips and tricks to help you succeed. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Inequality",
+    "Linear Inequality",
+    "Quadratic Inequality",
+    "Graphical Representation",
+    "Solution"
+  ],
+  "formulas": [
+    {
+      "formula": "ax + b > c",
+      "description": "Used to solve linear inequalities in one variable."
+    },
+    {
+      "formula": "ax + by < c",
+      "description": "Used to solve linear inequalities in two variables."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Inequality",
+      "definition": "A statement that two values are not equal, using symbols like >, <, ≥, ≤."
+    },
+    {
+      "term": "Linear Inequality",
+      "definition": "An inequality involving a linear expression like ax + b."
+    }
+  ]
+}

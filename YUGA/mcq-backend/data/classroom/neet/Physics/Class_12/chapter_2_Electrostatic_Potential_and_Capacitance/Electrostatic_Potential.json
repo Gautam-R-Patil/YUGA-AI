@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "chapter_number": 2,
+    "topic": "Electrostatic Potential",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:07:12.194547",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about electrostatic potential. This is a key topic in physics and important for NEET. Let's start by understanding what electrostatic potential is. \n\nElectrostatic potential is a measure of how much work is needed to move a charge in an electric field. We use the formula V = W/q, where V is the potential, W is the work done, and q is the charge. \n\nNow, let's talk about potential due to a point charge. A point charge is a charge located at a single point in space. The formula for potential due to a point charge is V = k * q / r. Here, k is a constant, q is the charge, and r is the distance from the charge. Remember, the closer you are to the charge, the higher the potential.\n\nWhat if there are many charges? We find the potential due to a system of charges by adding up the potentials from each charge. This is because potential is a scalar quantity, which means we can add them directly.\n\nLet's move on to equipotential surfaces. These are surfaces where the potential is the same everywhere. Imagine a hill where every point at the same height has the same potential energy. Equipotential surfaces are like that. An important property is that electric field lines are always perpendicular to these surfaces.\n\nNext, the relation between electric field and potential is important. We use the formula E = -dV/dr. This means the electric field (E) is the rate of change of potential (V) with distance (r). If potential changes quickly, the electric field is strong.\n\nPotential energy is also key. It's the energy stored because of the position of charges. For a system of charges, potential energy depends on the arrangement of charges. In an external field, potential energy is due to the position in that field.\n\nLet's talk about units. The unit of potential is volt (V). In terms of dimensions, it's M^1 L^2 T^-3 A^-1. Remember, potential is energy per charge.\n\nWe can also represent equipotential surfaces graphically. These are shown as lines or surfaces in diagrams. They help us visualize how potential changes in space.\n\nOne important derivation is the potential due to a dipole. A dipole is two equal and opposite charges separated by a distance. The potential due to a dipole is more complex, but it shows how potential changes with angle and distance.\n\nFinally, let's discuss potential difference and reference potential. Potential difference is the difference in potential between two points. It's what causes current to flow. Reference potential is a point where we set potential to zero, often at infinity or the ground.\n\nRemember, common mistakes include thinking potential is a vector. It's not; it's a scalar. Also, don't forget that potential can be negative if work is done by the field.\n\nTo sum up, electrostatic potential is about work done per charge. It's crucial for understanding electric fields and energy. Keep practicing these concepts and formulas for NEET success!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Electrostatic potential",
+    "Point charge",
+    "Equipotential surfaces",
+    "Electric field",
+    "Potential energy"
+  ],
+  "formulas": [
+    {
+      "formula": "V = W/q",
+      "description": "Electrostatic potential is work done per unit charge"
+    },
+    {
+      "formula": "V = k * q / r",
+      "description": "Potential due to a point charge"
+    },
+    {
+      "formula": "E = -dV/dr",
+      "description": "Relation between electric field and potential"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electrostatic potential",
+      "definition": "Work done per unit charge to move a charge in an electric field"
+    },
+    {
+      "term": "Point charge",
+      "definition": "A charge located at a single point in space"
+    },
+    {
+      "term": "Equipotential surfaces",
+      "definition": "Surfaces where the potential is the same everywhere"
+    },
+    {
+      "term": "Dipole",
+      "definition": "Two equal and opposite charges separated by a distance"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Chemical Coordination and Integration",
+    "chapter_number": "22",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:35:15.522264",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts within the 'Chemical Coordination and Integration' chapter.\n\n1. **Hormones as Chemical Messengers**: Hormones are secreted by endocrine glands and regulate physiological processes through the bloodstream. They are crucial for growth, metabolism, and homeostasis.\n    - NEET often asks about how hormones function or identify different hormones and their roles.\n2. **Endocrine Glands**: Major endocrine glands include the pituitary, thyroid, adrenal, pancreas, and gonads.\n    - **Pituitary Gland**: Often called the master gland, it controls other endocrine glands and secretes important hormones like GH, TSH, FSH, LH.\n    - **Thyroid Gland**: Regulates metabolism through thyroid hormones like T3 and T4.\n    - **Adrenal Gland**: Produces adrenaline (fight or flight response) and cortisol (stress hormone).\n    - **Pancreas**: Secretes insulin and glucagon to regulate blood sugar.\n    - **Gonads**: Produce sex hormones like testosterone, estrogen, and progesterone.\n    - NEET questions often revolve around the functions and locations of these glands, as well as hormone regulation processes.\n3. **Feedback Mechanism**: The secretion of hormones is regulated by feedback systems, mainly negative feedback.\n    - For example, high levels of a hormone might reduce its own production.\n    - NEET may ask for examples of feedback mechanisms or about their role in maintaining homeostasis.\n4. **Hormonal Disorders**: Conditions like diabetes mellitus (insulin deficiency), goitre (iodine deficiency affecting thyroid hormone), and gigantism (excessive GH).\n    - Understanding symptoms and causes of hormonal imbalances is often tested.\n5. **Integration with Nervous System**: The nervous and endocrine systems work together for coordination and response to stimuli, often compared through NEET questions.\n    - Example: How the hypothalamus regulates the pituitary through releasing and inhibiting hormones.\n\n### Quick Revision Points:\n- Hormones are key regulators secreted by endocrine glands.\n- Understand functions and locations of major endocrine glands.\n- Grasp negative feedback mechanisms for hormone regulation.\n- Know common hormonal disorders and their causes.\n- Integration of endocrine with the nervous system for bodily functions.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Hormones",
+    "Endocrine gland",
+    "Pituitary gland",
+    "Thyroid gland",
+    "Adrenal gland",
+    "Pancreas",
+    "Gonads",
+    "Feedback mechanism",
+    "Homeostasis",
+    "Hormonal disorders"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Hormones",
+      "definition": "Chemical messengers secreted by endocrine glands to regulate physiological processes."
+    },
+    {
+      "term": "Endocrine gland",
+      "definition": "Glands that secrete hormones directly into the blood rather than through a duct."
+    },
+    {
+      "term": "Pituitary gland",
+      "definition": "The master gland of the endocrine system that secretes hormones controlling growth, metabolism, and reproductive processes."
+    },
+    {
+      "term": "Thyroid gland",
+      "definition": "An endocrine gland that secretes hormones regulating metabolism and growth."
+    },
+    {
+      "term": "Adrenal gland",
+      "definition": "A gland located above the kidney that produces hormones involved in stress responses and metabolism."
+    },
+    {
+      "term": "Pancreas",
+      "definition": "An organ that secretes insulin and glucagon to control blood sugar levels."
+    },
+    {
+      "term": "Gonads",
+      "definition": "Reproductive glands (testes in males, ovaries in females) that produce sex hormones."
+    },
+    {
+      "term": "Feedback mechanism",
+      "definition": "Processes that use the conditions of one component to regulate the function of the other, maintaining balance."
+    },
+    {
+      "term": "Homeostasis",
+      "definition": "The body's ability to maintain a stable internal environment despite changes outside."
+    },
+    {
+      "term": "Hormonal disorders",
+      "definition": "Diseases caused by imbalances or dysfunctions in hormone production."
+    }
+  ]
+}

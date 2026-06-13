@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Environmental Chemistry",
+    "chapter_number": 20,
+    "topic": "Environmental Pollution",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:22:07.878901",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Environmental Pollution. This is an important topic in Chemistry. We will cover different types of pollution and their effects. Let's start with Air Pollution. Air pollution happens when harmful gases and particles enter the air. Common pollutants are carbon monoxide (CO), sulfur dioxide (SO2), and nitrogen oxides (NOx). These come from vehicles and factories. Air pollution can cause health problems like asthma. It also harms plants and animals. \n\nNext is Water Pollution. Water pollution occurs when harmful substances enter water bodies. These include chemicals, waste, and plastic. Factories and sewage are major sources. Polluted water is dangerous for drinking and aquatic life. \n\nNow, let's talk about Soil Pollution. Soil pollution happens when harmful chemicals mix with soil. This can come from pesticides and industrial waste. It reduces soil fertility and affects crops. \n\nAnother type is Noise Pollution. This is caused by loud sounds from vehicles, factories, and music. It can lead to stress and hearing loss. \n\nRadioactive Pollution is next. This happens when radioactive substances are released into the environment. It can come from nuclear power plants and tests. Radioactive pollution can cause cancer and genetic damage. \n\nSources of pollution are important to know. Vehicles, factories, and agriculture are major sources. Burning fossil fuels is a big contributor. \n\nPollution has many effects. It affects health, climate, and ecosystems. For example, air pollution can cause respiratory diseases. Water pollution harms marine life. \n\nTo control pollution, we can use filters and cleaner fuels. Recycling and reducing waste also help. Planting trees can improve air quality. \n\nLet's look at Pollutants and their types. Pollutants are substances that cause pollution. They can be gases, liquids, or solids. Primary pollutants are directly emitted, like CO. Secondary pollutants form in the air, like ozone. \n\nThe Greenhouse Effect is a natural process. It keeps Earth warm. But too many greenhouse gases, like CO2, cause Global Warming. This leads to climate change. \n\nAcid Rain is another problem. It happens when SO2 and NOx mix with rainwater. Acid rain harms plants, soil, and buildings. \n\nOzone Layer Depletion is a serious issue. The ozone layer protects us from harmful UV rays. Chemicals like CFCs damage it. This increases the risk of skin cancer. \n\nIn JEE Main, remember these key points. Understand the sources and effects of each pollution type. Know the difference between primary and secondary pollutants. Practice questions on the greenhouse effect and global warming. \n\nA common mistake is confusing pollutants and their sources. Remember, pollutants are substances, and sources are where they come from. \n\nFinally, let's summarize. We learned about different types of pollution and their effects. We discussed control measures and important terms. Make sure to review these concepts before your exam. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Air Pollution",
+    "Water Pollution",
+    "Greenhouse Effect",
+    "Global Warming",
+    "Ozone Layer"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Air Pollution",
+      "definition": "Contamination of air by harmful substances like gases and particles."
+    },
+    {
+      "term": "Water Pollution",
+      "definition": "Contamination of water bodies by harmful substances."
+    },
+    {
+      "term": "Soil Pollution",
+      "definition": "Presence of toxic chemicals in the soil, affecting its quality."
+    },
+    {
+      "term": "Greenhouse Effect",
+      "definition": "Natural process that warms the Earth's surface."
+    },
+    {
+      "term": "Global Warming",
+      "definition": "Increase in Earth's average temperature due to greenhouse gases."
+    }
+  ]
+}

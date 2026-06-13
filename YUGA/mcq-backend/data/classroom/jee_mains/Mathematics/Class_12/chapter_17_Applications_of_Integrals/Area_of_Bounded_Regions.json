@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Applications of Integrals",
+    "chapter_number": 17,
+    "topic": "Area of Bounded Regions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:00:18.136164",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about finding the area of bounded regions using integrals. This is an important topic in JEE Main Mathematics. Let's start by recalling what an integral is. An integral helps us find the area under a curve. \n\nFirst, we will look at regions bounded by the x-axis. Imagine a curve on a graph. The x-axis is the horizontal line. The area between the curve and the x-axis is what we want to find. We use the formula: Area = ∫[a to b] f(x) dx. Here, 'a' and 'b' are the limits, or the points where the curve starts and ends on the x-axis. \n\nNow, let's talk about regions bounded by the y-axis. The y-axis is the vertical line on the graph. To find the area here, we use a similar formula: Area = ∫[c to d] g(y) dy. Here, 'c' and 'd' are the limits on the y-axis. This is useful when the curve is easier to express as x in terms of y. \n\nSometimes, we can use symmetry to make calculations easier. If a shape is symmetric, we can find the area of one part and then multiply by the number of parts. For example, if a shape is symmetric about the y-axis, find the area on one side and double it. \n\nLet's move to areas in different quadrants. A quadrant is one of the four parts of a graph. Each is divided by the x-axis and y-axis. Sometimes, a region spans more than one quadrant. In that case, find the area in each quadrant separately and add them. \n\nHandling discontinuities is also important. A discontinuity is where a curve breaks or jumps. At these points, split the integral into parts. Find the area on each side of the discontinuity and add them. \n\nWe also need to know how to integrate with respect to x and y. If the function is in terms of x, integrate with respect to x. If it is in terms of y, integrate with respect to y. \n\nGraphical interpretation is a key skill. Always sketch the curve before calculating. This helps avoid mistakes. If the curve is above the x-axis, the area is positive. If below, it is negative. Use absolute values to ensure the area is positive. \n\nLet's do a quick example. Find the area between y = x^2 and the x-axis from x = 0 to x = 2. The formula is Area = ∫[0 to 2] x^2 dx. Calculate this to get the area. \n\nJEE Main mistake note: Always check the limits. Wrong limits lead to wrong answers. \n\nKey takeaways: Understand the formula, check symmetry, handle discontinuities, and sketch the graph. Practice these steps to avoid common mistakes. \n\nIn summary, finding areas using integrals involves understanding the curve, setting the correct limits, and calculating the integral. Practice is key to mastering this topic for JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Integral",
+    "Symmetry",
+    "Discontinuity",
+    "Quadrant",
+    "Graph"
+  ],
+  "formulas": [
+    {
+      "formula": "Area = ∫[a to b] f(x) dx",
+      "description": "Used to find the area under a curve between the curve and the x-axis"
+    },
+    {
+      "formula": "Area = ∫[c to d] g(y) dy",
+      "description": "Used to find the area under a curve between the curve and the y-axis"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Integral",
+      "definition": "A mathematical tool used to find the area under a curve"
+    },
+    {
+      "term": "Symmetry",
+      "definition": "When one part of a shape is a mirror image of another part"
+    },
+    {
+      "term": "Discontinuity",
+      "definition": "A point where a curve breaks or jumps"
+    },
+    {
+      "term": "Quadrant",
+      "definition": "One of the four parts of a graph divided by the x-axis and y-axis"
+    }
+  ]
+}

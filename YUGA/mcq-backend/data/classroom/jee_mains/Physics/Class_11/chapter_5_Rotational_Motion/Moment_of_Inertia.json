@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Rotational Motion",
+    "chapter_number": 5,
+    "topic": "Moment of Inertia",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:49:32.149782",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Moment of Inertia in rotational motion. Let's start with the definition. Moment of Inertia, or I, tells us how hard it is to change the rotation of an object. It is like mass in linear motion. If something has a high moment of inertia, it is harder to spin. \n\nNext, let's see how to calculate it. For simple shapes, we have formulas. For a solid sphere, I = 2/5 MR^2. Here, M is mass and R is radius. For a solid cylinder, I = 1/2 MR^2. Remember, these formulas are often used in JEE Main. \n\nNow, let's learn the Parallel Axis Theorem. This helps when the axis of rotation is not through the center of mass. The formula is I = I_cm + Md^2. I_cm is the moment of inertia through the center of mass, and d is the distance from the new axis to the center of mass. \n\nThe Perpendicular Axis Theorem is useful for flat objects. The formula is I_z = I_x + I_y. It tells us the moment of inertia about an axis perpendicular to the plane of the object. \n\nFor composite bodies, we add the moments of inertia of each part. If you have a rod and a disk combined, find I for each and add them. \n\nIn rotational dynamics, moment of inertia plays a big role. It affects how objects spin. Like in a seesaw, if one side is heavier, it turns slower. \n\nTo find moment of inertia experimentally, we use a setup with known forces and measure the rotation. This helps in real-world applications, like in car wheels and machinery. \n\nNow, a quick check: If a disk and a ring have the same mass and radius, which one is easier to spin? The disk, because it has a lower moment of inertia. \n\nCommon mistakes in JEE Main include using wrong formulas. Always check if the axis goes through the center of mass. Also, don't forget to square the radius in the formulas. \n\nKey takeaways: Remember the formulas for common shapes. Use the theorems to solve tricky problems. Practice with past JEE Main questions. \n\nIn summary, moment of inertia is like rotational mass. It tells us how hard it is to start or stop spinning. Knowing how to calculate it and use the right formulas is key for JEE Main success. \n\nThat's all for today. Practice well and see you next time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Moment of Inertia",
+    "Parallel Axis Theorem",
+    "Perpendicular Axis Theorem",
+    "Rotational Dynamics",
+    "Composite Bodies"
+  ],
+  "formulas": [
+    {
+      "formula": "I = 2/5 MR^2",
+      "description": "Used for calculating moment of inertia of a solid sphere"
+    },
+    {
+      "formula": "I = 1/2 MR^2",
+      "description": "Used for calculating moment of inertia of a solid cylinder"
+    },
+    {
+      "formula": "I = I_cm + Md^2",
+      "description": "Parallel axis theorem for shifting axis from center of mass"
+    },
+    {
+      "formula": "I_z = I_x + I_y",
+      "description": "Perpendicular axis theorem for flat objects"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Moment of Inertia",
+      "definition": "A measure of an object's resistance to changes in its rotation"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Units and Measurements",
+    "chapter_number": 2,
+    "topic": "Measurement of Length, Mass, and Time",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:48:06.463705",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about measuring length, mass, and time. These are basic but important concepts in physics. Let's start with the instruments we use.\n\nFirst, we have the vernier calipers. This tool helps us measure small lengths accurately. It can measure up to 0.1 mm. The smallest distance it can measure is called the least count. For vernier calipers, the least count is 0.01 cm.\n\nNext, we have the screw gauge. It is used to measure even smaller lengths, like the thickness of a paper. The least count of a screw gauge is 0.01 mm. Remember, the smaller the least count, the more precise the instrument is.\n\nFor measuring time, we use a stopwatch. It helps us measure time in seconds. The least count of a stopwatch is usually 0.1 seconds.\n\nNow, let's talk about errors in measurement. There are two types: systematic and random errors. Systematic errors happen because of a faulty instrument or wrong method. Random errors occur because of unknown reasons and can vary each time.\n\nTo reduce errors, we use significant figures. These are the digits in a measurement that carry meaning. For example, in 12.34, all four digits are significant. The rules for significant figures help us decide which digits to keep in calculations.\n\nA quick note: Accuracy and precision are different. Accuracy is how close a measurement is to the true value. Precision is how close repeated measurements are to each other.\n\nLet's look at some examples. If you measure a rod with a vernier caliper and get 5.12 cm, and the true length is 5.10 cm, your measurement is accurate. If you measure it three times and get 5.12 cm each time, your measurement is precise.\n\nCommon mistake: Many students confuse accuracy with precision. Remember, accuracy is about the true value, while precision is about repeatability.\n\nIn summary, understanding these concepts helps us make correct measurements. This is important for your NEET exam and real-life experiments.\n\nKey points to remember: Use the right instrument, know the least count, understand errors, and use significant figures correctly. Keep practicing, and soon you'll be measuring like a pro!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Vernier Calipers",
+    "Screw Gauge",
+    "Stopwatch",
+    "Significant Figures",
+    "Least Count"
+  ],
+  "formulas": [
+    {
+      "formula": "Least Count = 1 MSD - 1 VSD",
+      "description": "The formula to calculate the least count of vernier calipers, where MSD is Main Scale Division and VSD is Vernier Scale Division"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vernier Calipers",
+      "definition": "An instrument used to measure small lengths very accurately."
+    },
+    {
+      "term": "Screw Gauge",
+      "definition": "A tool used to measure very small lengths like the thickness of a sheet."
+    },
+    {
+      "term": "Least Count",
+      "definition": "The smallest measurement an instrument can accurately measure."
+    },
+    {
+      "term": "Significant Figures",
+      "definition": "The digits in a measurement that are known with certainty plus one estimated digit."
+    },
+    {
+      "term": "Systematic Error",
+      "definition": "An error that consistently occurs in the same direction due to a fault in the measuring instrument."
+    },
+    {
+      "term": "Random Error",
+      "definition": "An error that varies in an unpredictable manner in repeated measurements."
+    }
+  ]
+}

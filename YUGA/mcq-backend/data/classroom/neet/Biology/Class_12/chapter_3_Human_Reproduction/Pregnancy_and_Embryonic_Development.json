@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Human Reproduction",
+    "chapter_number": 3,
+    "topic": "Pregnancy and Embryonic Development",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:39:54.182230",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, everyone! Today, we will learn about pregnancy and embryonic development. This is an important topic in human reproduction. Let's start with the stages of embryonic development. \n\nFirst, we have the zygote. A zygote is a single cell formed when a sperm and an egg join. This is the very first stage of life. The zygote divides and becomes a morula. A morula is like a small ball of cells. Think of it as a bunch of grapes. \n\nNext, the morula develops into a blastula. A blastula is a hollow ball of cells. Inside, there is a fluid-filled space. This stage helps the embryo to implant in the mother's uterus. Then, we have the gastrula stage. The gastrula forms three layers of cells. These layers will become different parts of the body like skin, muscles, and organs. \n\nNow, let's talk about the placenta. The placenta is an organ that forms in the uterus during pregnancy. It connects the mother and the baby. The placenta gives nutrients and oxygen to the baby. It also removes waste from the baby's blood. The umbilical cord is like a tube that connects the baby to the placenta. \n\nDuring pregnancy, a woman's body goes through hormonal changes. Hormones are chemicals that control many body functions. One important hormone is progesterone. Progesterone helps maintain the pregnancy. Another hormone is estrogen. Estrogen helps the uterus grow and prepares the body for birth. \n\nParturition is the process of giving birth. Oxytocin is a hormone that plays a key role here. It helps the uterus contract and push the baby out. Think of oxytocin as a helper that tells the muscles when to work. \n\nAfter the baby is born, the mother starts lactation. Lactation means producing milk. The first milk is called colostrum. Colostrum is rich in nutrients and antibodies. It helps protect the newborn from infections. \n\nNow, let's remember some key terms. Amniotic fluid is the liquid around the baby in the womb. It protects the baby. Trimesters are the three stages of pregnancy, each lasting about three months. \n\nTo sum up, understanding the stages of embryonic development and the role of hormones is crucial. These concepts are often tested in NEET exams. Remember, the placenta and oxytocin are key players in pregnancy and childbirth. \n\nA common mistake is thinking the placenta is inside the baby. Remember, it is in the mother's uterus. Also, do not confuse the umbilical cord with the spinal cord. The umbilical cord connects the baby to the placenta, not the spine.",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Zygote",
+    "Placenta",
+    "Hormones",
+    "Oxytocin",
+    "Lactation"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Zygote",
+      "definition": "A single cell formed by the joining of a sperm and an egg."
+    },
+    {
+      "term": "Placenta",
+      "definition": "An organ that provides nutrients and oxygen to the baby and removes waste."
+    },
+    {
+      "term": "Oxytocin",
+      "definition": "A hormone that helps the uterus contract during childbirth."
+    },
+    {
+      "term": "Colostrum",
+      "definition": "The first milk produced by the mother, rich in nutrients and antibodies."
+    }
+  ]
+}

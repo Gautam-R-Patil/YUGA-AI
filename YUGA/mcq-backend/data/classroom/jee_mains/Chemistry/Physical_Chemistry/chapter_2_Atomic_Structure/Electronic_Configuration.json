@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Atomic Structure",
+    "chapter_number": 2,
+    "topic": "Electronic Configuration",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:04:23.776249",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about electronic configuration in atoms. This topic is important for JEE Main. It helps us understand how electrons are arranged in an atom. First, let's talk about notation for electronic configuration. We use numbers and letters to show where electrons are. For example, in '1s²', '1' is the energy level, 's' is the type of orbital, and '²' tells us there are two electrons in that orbital.\n\nNow, let's see the order of filling orbitals. Electrons fill orbitals in a specific order. We follow the Aufbau principle. This means electrons fill the lowest energy orbitals first. The order is: 1s, 2s, 2p, 3s, 3p, 4s, 3d, 4p, and so on. Remember this order for JEE Main questions.\n\nThere are some exceptions in electronic configuration. Sometimes, atoms do not follow the usual order. For example, chromium (Cr) and copper (Cu) have unique configurations. Chromium is [Ar] 3d⁵ 4s¹ instead of [Ar] 3d⁴ 4s². This happens because half-filled orbitals are more stable.\n\nSpeaking of stability, half-filled and fully filled orbitals are special. They are more stable than other configurations. This is because of electron repulsion and symmetry. For example, nitrogen (N) has a half-filled 2p orbital, which makes it stable.\n\nNext, let's discuss the electronic configuration of ions. Ions are atoms with extra or missing electrons. For positive ions, remove electrons from the highest energy level. For negative ions, add electrons to the lowest available energy level. For example, Na⁺ is 1s² 2s² 2p⁶.\n\nThe periodic table helps us find electronic configurations. Elements in the same group have similar valence electrons. Valence electrons are the outermost electrons. They are important for chemical reactions. Core electrons are the inner electrons. They are not involved in bonding.\n\nNoble gas configuration is a shortcut. We use it to write electronic configurations quickly. For example, [Ne] 3s² 3p⁶ is the noble gas configuration for argon (Ar). It shows that argon has the same configuration as neon (Ne) plus extra electrons.\n\nLet's look at some examples. Oxygen (O) is 1s² 2s² 2p⁴. Iron (Fe) is [Ar] 3d⁶ 4s². Remember to check the order of orbitals. A common mistake in JEE Main is to forget the order.\n\nHere are some key takeaways. Remember the order of filling orbitals. Watch out for exceptions like chromium and copper. Use noble gas configuration for quick writing. Practice with examples to avoid mistakes.\n\nIn summary, electronic configuration is about arranging electrons. It follows certain rules and exceptions. Knowing this helps us in JEE Main exams. Keep practicing and you'll do great!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electronic Configuration",
+    "Orbitals",
+    "Valence Electrons",
+    "Noble Gas Configuration",
+    "Periodic Table"
+  ],
+  "formulas": [
+    {
+      "formula": "1s² 2s² 2p⁶",
+      "description": "Used to write electronic configuration up to neon (Ne)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electronic Configuration",
+      "definition": "The arrangement of electrons in an atom's orbitals."
+    },
+    {
+      "term": "Valence Electrons",
+      "definition": "Electrons in the outermost energy level of an atom."
+    },
+    {
+      "term": "Core Electrons",
+      "definition": "Electrons in the inner energy levels of an atom."
+    }
+  ]
+}

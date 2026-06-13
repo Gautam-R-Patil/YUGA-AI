@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapter_number": 5,
+    "topic": "Equilibrium Constant (Kc and Kp)",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:06:27.498224",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the equilibrium constant. It is an important topic in chemical equilibrium. First, let's understand what equilibrium is. In a chemical reaction, equilibrium is when the rate of the forward reaction equals the rate of the backward reaction. At this point, the concentration of reactants and products remains constant.\n\nNow, let's talk about the equilibrium constant, Kc. Kc is a number that shows the ratio of concentrations of products to reactants at equilibrium. For a general reaction, aA + bB ⇌ cC + dD, the expression for Kc is:\n\nKc = ([C]^c [D]^d) / ([A]^a [B]^b)\n\nHere, [C], [D], [A], and [B] are the molar concentrations of the substances. The small letters a, b, c, and d are the coefficients from the balanced chemical equation.\n\nLet's see an example. For the reaction N2 + 3H2 ⇌ 2NH3, the Kc expression is:\n\nKc = ([NH3]^2) / ([N2][H2]^3)\n\nNext, let's discuss Kp. Kp is the equilibrium constant for reactions involving gases. It is similar to Kc but uses partial pressures instead of concentrations. The relation between Kc and Kp is:\n\nKp = Kc(RT)^∆n\n\nHere, R is the gas constant, T is the temperature in Kelvin, and ∆n is the change in moles of gas (moles of products - moles of reactants).\n\nNow, let's talk about units. Kc and Kp can have different units. It depends on the reaction. For example, if ∆n = 0, Kp has no units. Always check the units carefully in JEE Main.\n\nWe also have homogeneous and heterogeneous equilibria. In homogeneous equilibria, all reactants and products are in the same phase. In heterogeneous equilibria, they are in different phases. For example, in CaCO3(s) ⇌ CaO(s) + CO2(g), solids are not included in the Kc expression.\n\nTemperature affects the value of the equilibrium constant. If the temperature changes, Kc or Kp will change too. This can shift the equilibrium position.\n\nLet's calculate K from concentration data. Suppose you have a reaction A + B ⇌ C + D. If you know the concentrations at equilibrium, plug them into the Kc expression to find Kc.\n\nEquilibrium constants help predict the direction of a reaction. If Q, the reaction quotient, is less than K, the reaction goes forward. If Q is more than K, the reaction goes backward.\n\nBe careful with common mistakes. Always use balanced equations. Watch the units. Remember, solids and pure liquids are not included in Kc expressions.\n\nIn summary, remember these key points: Kc and Kp show the ratio of products to reactants at equilibrium. Use the correct expression for Kc and Kp. Check units and phases. Know how temperature affects K. Use K to predict reaction direction.\n\nThat's all for today. Practice these concepts with examples. They are important for JEE Main. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Equilibrium Constant",
+    "Kc",
+    "Kp",
+    "Homogeneous Equilibria",
+    "Temperature Effect"
+  ],
+  "formulas": [
+    {
+      "formula": "Kc = ([C]^c [D]^d) / ([A]^a [B]^b)",
+      "description": "Used to calculate the equilibrium constant from concentrations in JEE Main questions"
+    },
+    {
+      "formula": "Kp = Kc(RT)^∆n",
+      "description": "Relates Kp and Kc for gaseous reactions, important for JEE Main"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Equilibrium Constant",
+      "definition": "A number that shows the ratio of product concentrations to reactant concentrations at equilibrium"
+    },
+    {
+      "term": "Homogeneous Equilibria",
+      "definition": "Equilibrium where all reactants and products are in the same phase"
+    },
+    {
+      "term": "Heterogeneous Equilibria",
+      "definition": "Equilibrium where reactants and products are in different phases"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Limits and Derivatives",
+    "chapter_number": 10,
+    "topic": "Basic Differentiation",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:53:50.271083",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about basic differentiation. This is an important topic in calculus and is often tested in JEE Main. Let's start with the definition of a derivative. A derivative is a way to show how a function changes as its input changes. In simple terms, it tells us the rate of change. For example, if you have a car, the speedometer shows how fast the car is going at any moment. This is similar to a derivative. \n\nNow, let's talk about the derivative as a rate of change. If you have a function y = f(x), the derivative is written as dy/dx or f'(x). It tells us how y changes with respect to x. If dy/dx is positive, y increases as x increases. If dy/dx is negative, y decreases as x increases. \n\nNext, we have some rules of differentiation. The first is the power rule. If you have x^n, the derivative is n*x^(n-1). For example, if f(x) = x^3, then f'(x) = 3x^2. The product rule is used when you multiply two functions. If u and v are functions, the derivative is u'v + uv'. The quotient rule is used when you divide two functions. If u and v are functions, the derivative is (u'v - uv')/v^2. \n\nThe chain rule helps find the derivative of a composite function. If y = f(g(x)), then dy/dx = f'(g(x)) * g'(x). For example, if y = (2x + 3)^2, then dy/dx = 2(2x + 3) * 2. \n\nLet's move on to derivatives of trigonometric functions. The derivative of sin(x) is cos(x), and the derivative of cos(x) is -sin(x). For tan(x), the derivative is sec^2(x). These are important to remember for solving problems. \n\nFor exponential functions like e^x, the derivative is e^x. For logarithmic functions like ln(x), the derivative is 1/x. These are simple but important for many problems. \n\nHigher order derivatives are just derivatives of derivatives. The second derivative is written as d^2y/dx^2. It shows how the rate of change itself changes. \n\nImplicit differentiation is used when a function is not given directly as y = f(x). Instead, it might be given as a relation like x^2 + y^2 = 1. To differentiate, we treat y as a function of x and apply the chain rule. \n\nDerivatives have many applications. In motion problems, they help find velocity and acceleration. Velocity is the first derivative of position, and acceleration is the second derivative. \n\nGraphically, the derivative of a function at a point is the slope of the tangent line at that point. A positive slope means the function is increasing, and a negative slope means it is decreasing. \n\nCommon mistakes in JEE Main include forgetting to apply the chain rule or misapplying the product and quotient rules. Always check your steps. \n\nKey takeaways: Remember the basic rules, practice differentiating different types of functions, and understand how derivatives apply to real-world problems. \n\nIn summary, differentiation helps us understand how things change. It is a powerful tool in mathematics and science. Practice these concepts, and you'll do well in your exams!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Derivative",
+    "Rate of Change",
+    "Power Rule",
+    "Product Rule",
+    "Chain Rule"
+  ],
+  "formulas": [
+    {
+      "formula": "dy/dx = f'(x)",
+      "description": "This formula is used to find the derivative of a function y = f(x), showing the rate of change of y with respect to x."
+    },
+    {
+      "formula": "d(x^n)/dx = n*x^(n-1)",
+      "description": "Power rule for differentiation, used when differentiating powers of x."
+    },
+    {
+      "formula": "d(uv)/dx = u'v + uv'",
+      "description": "Product rule for differentiation, used when differentiating the product of two functions."
+    },
+    {
+      "formula": "d(u/v)/dx = (u'v - uv')/v^2",
+      "description": "Quotient rule for differentiation, used when differentiating the quotient of two functions."
+    },
+    {
+      "formula": "d(e^x)/dx = e^x",
+      "description": "Derivative of the exponential function e^x, used frequently in calculus problems."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Derivative",
+      "definition": "A measure of how a function changes as its input changes, often represented as dy/dx."
+    },
+    {
+      "term": "Rate of Change",
+      "definition": "The speed at which a variable changes over a specific period of time."
+    },
+    {
+      "term": "Implicit Differentiation",
+      "definition": "A method to find the derivative of a function given in a form that is not explicitly solved for one variable."
+    }
+  ]
+}

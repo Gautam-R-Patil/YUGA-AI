@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Dual Nature of Radiation and Matter",
+    "chapter_number": "26",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:16:28.567200",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: the dual nature of radiation and matter. This concept highlights that light exhibits both particle and wave-like characteristics, and this dual behavior can be observed in many physical phenomena. \n\n1. Wave Nature of Light: Light as a wave explains phenomena like interference, diffraction, and polarization. These are existing confirmations that light behaves as a wave in specific contexts.\n\n2. Particle Nature of Light: The particle nature is evident in the photoelectric effect, where light is considered as particles called photons. Each photon carries energy proportional to its frequency.\n\n3. Photoelectric Effect: This effect reveals that when light shines on a metal surface, electrons are emitted. The energy of these emitted electrons depends on the frequency of the light, not its intensity. Albert Einstein explained this phenomenon using the concept of photons.\n\n4. De Broglie Hypothesis: Louis de Broglie proposed that not only does light have a dual nature, but matter also exhibits wave-like properties. He introduced the de Broglie wavelength, \\( \\lambda = \\frac{h}{mv} \\), where \\(h\\) is Planck\u2019s constant, \\(m\\) is mass, and \\(v\\) is velocity.\n\n5. Wave-Particle Duality: This concept is foundational to quantum mechanics, establishing that both waves and particles are integral components of all matter, leading to groundbreaking developments in modern physics.\n\nKey Formula / Idea:\n- Photoelectric Equation: \\( K.E. = h\\nu - \\phi \\), where \\( K.E. \\) is the kinetic energy of electrons, \\( h \\) is Planck\u2019s constant, \\( \\nu \\) is the frequency, and \\( \\phi \\) is the work function.\n- de Broglie Wavelength: \\( \\lambda = \\frac{h}{mv} \\).\n\nNEET Question Pattern:\n- Questions often test your understanding of the photoelectric effect, including calculations of kinetic energy and stopping potential.\n- Application of the de Broglie hypothesis to find wavelengths of given objects.\n- Conceptual questions on wave-particle duality and experimental results like interference patterns.\n\nQuick Revision Points:\n1. Light exhibits both wave and particle nature.\n2. Photoelectric effect demonstrates particle behavior.\n3. De Broglie wavelength describes matter's wave properties.\n4. Key formulas include the photoelectric equation and de Broglie wavelength.\n5. Questions focus on understanding the application of these concepts with calculations and theory.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Photoelectric Effect",
+    "Wave-Particle Duality",
+    "De Broglie Hypothesis",
+    "Photon",
+    "Planck\u2019s Constant",
+    "Interference",
+    "Diffraction",
+    "Polarization",
+    "Matter Waves"
+  ],
+  "formulas": [
+    "K.E. = h\\nu - \\phi",
+    "\\lambda = \\frac{h}{mv}"
+  ],
+  "definitions": [
+    {
+      "term": "Photoelectric Effect",
+      "definition": "Emission of electrons from a material when light of sufficient frequency is incident on it."
+    },
+    {
+      "term": "Wave-Particle Duality",
+      "definition": "The concept that every particle or quantum entity exhibits both wave and particle properties."
+    },
+    {
+      "term": "De Broglie Hypothesis",
+      "definition": "The proposal that all matter exhibits wave-like behavior and can be described by a wavelength."
+    },
+    {
+      "term": "Photon",
+      "definition": "A quantum of light or other electromagnetic radiation carrying energy proportional to the radiative frequency."
+    },
+    {
+      "term": "Planck\u2019s Constant",
+      "definition": "A fundamental constant \\(h\\) that relates the energy of a photon to its frequency, approximately \\(6.626 \\times 10^{-34} Js\\)."
+    },
+    {
+      "term": "Interference",
+      "definition": "A phenomenon where two waves superpose to form a resultant wave of greater, lower, or the same amplitude."
+    },
+    {
+      "term": "Diffraction",
+      "definition": "The bending of waves around obstacles and openings, indicating wave-like nature."
+    },
+    {
+      "term": "Polarization",
+      "definition": "A wave property restricting vibrations to a particular direction."
+    },
+    {
+      "term": "Matter Waves",
+      "definition": "Wave-like properties of particles as described by the de Broglie hypothesis, showing that matter can exhibit wave behavior."
+    }
+  ]
+}

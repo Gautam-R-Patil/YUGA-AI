@@ -1,0 +1,350 @@
+[
+    {
+        "id": 10,
+        "question_number": "117",
+        "text": "The alkali metals form salt-like hydrides by the direct synthesis at elevated temperature. The thermal stability of these hydrides decreases in which of the following orders?",
+        "subject": "Chemistry",
+        "sub_topic": "Inorganic Chemistry - Alkali Metals",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "CsH > RbH > KH > NaH > LiH",
+            "KH > NaH > LiH > CsH > RbH",
+            "NaH > LiH > KH > RbH > CsH",
+            "LiH > NaH > KH > RbH > CsH"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 584,
+        "correct_answer": "LiH > NaH > KH > RbH > CsH",
+        "basic_answer": "Given: [Alkali metal hydrides: LiH, NaH, KH, RbH, CsH]\n\nSolution: [The thermal stability of ionic hydrides is determined by their lattice enthalpy. Lattice enthalpy depends on the size of the ions; it is higher when the ions are smaller and have similar sizes. Since the hydride ion ($H^-$) is very small, it forms the strongest lattice with the smallest alkali metal cation ($Li^+$). As we move down the group, the cation size increases, leading to a decrease in lattice enthalpy and, consequently, lower thermal stability. Therefore, the stability order is LiH > NaH > KH > RbH > CsH.]",
+        "explanation": "### Core Concept\nAlkali metal hydrides (MH) are ionic solids. Their thermal stability is primarily governed by their lattice enthalpy. A higher lattice enthalpy means more energy is required to break the ionic lattice, resulting in higher thermal stability.\n\n### Solution \n\n1.  Lattice Enthalpy Rule: Lattice enthalpy is inversely proportional to the sum of the radii of the cation and anion (1 / (r⁺ + r⁻)). \n2.  Size Trend: As we move down Group 1 from Li to Cs, the size of the alkali metal cation ($M^+$) increases significantly (Li⁺ < Na⁺ < K⁺ < Rb⁺ < Cs⁺).\n3.  Anion Size: The hydride ion ($H^-$) is relatively small. The lattice energy is highest when the cation and anion are comparable in size (small cation + small anion).\n4.  Stability Trend: $Li^+$ is the smallest cation and forms the strongest bond with the small $H^-$ ion. As the cation size increases down the group, the lattice enthalpy decreases, making the hydride easier to decompose with heat.\n\n### Why This Answer\nSince lattice enthalpy decreases from $LiH$ to $CsH$, the thermal stability also decreases in that same order. Therefore, the decreasing order of stability is $LiH > NaH > KH > RbH > CsH$, which matches Option D.\n\n### Common Mistakes\n* Confusing with Hydroxides/Carbonates: For larger anions like CO₃²⁻ or $OH^-$, thermal stability often *increases* down the group due to different polarization effects. For the small $H^-$ ion, the lattice energy trend dominates.\n* Reactivity vs. Stability: Assuming that because $Cs$ is more reactive, its hydride must be more stable. In fact, high reactivity often leads to less stable compounds.",
+        "keywords": {
+            "LiH": "Lithium Hydride",
+            "NaH": "Sodium Hydride",
+            "KH": "Potassium Hydride",
+            "RbH": "Rubidium Hydride",
+            "CsH": "Cesium Hydride"
+        }
+    },
+    {
+        "id": 11,
+        "question_number": "104",
+        "text": "The angular shape of ozone molecule (O₃) consists of",
+        "subject": "Chemistry",
+        "sub_topic": "Molecular Structure",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "1 sigma and 2 pi bonds",
+            "2 sigma and 2 pi bonds",
+            "1 sigma and 1 pi bonds",
+            "2 sigma and 1 pi bonds"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 576,
+        "correct_answer": "2 sigma and 1 pi bonds",
+        "basic_answer": "Given: [Ozone molecule (O₃)] \n\nSolution: [The central oxygen atom in Ozone is bonded to two terminal oxygen atoms, creating a bent or angular structure. This backbone is held by two single covalent bonds (2 $\\sigma$ bonds). To satisfy the octet rule, the molecule exhibits resonance where a double bond is shared between the central and terminal atoms, resulting in 1 delocalized $\\pi$ bond. Thus, Ozone contains 2 sigma and 1 pi bonds.]",
+        "explanation": "### Core Concept\nThe bonding in Ozone (O₃) is best explained using Resonance. The molecule has a bent (angular) geometry with a central oxygen atom bonded to two terminal oxygen atoms.\n\n### Solution \n\n1.  Skeleton Bonding: The central oxygen forms one single covalent bond with each of the two terminal oxygen atoms to hold the molecule together. These are 2 sigma ($\u03c3$) bonds.\n2.  Resonance and Pi Bonding: Ozone exists as a hybrid of two resonance structures. In each structure, there is one double bond and one single bond. This means there is 1 pi ($\u03c0$) bond that is delocalized across the three oxygen atoms.\n3.  Bond Order: Because of this delocalization, both $O-O$ bonds are identical with a bond order of 1.5.\n\n### Why This Answer\nCounting the total number of shared electron pairs in the resonance hybrid: there are two $\u03c3$ bonds forming the V-shape and one $\u03c0$ bond shared across the framework. This totals 2 sigma and 1 pi bonds (Option D).\n\n### Common Mistakes\n* Overcounting Pi Bonds: Thinking that because there are two resonance structures, there are two pi bonds. Resonance structures are just different ways to draw the *same* single pi bond.\n* Confusing with $O_2$: Assuming the bonding is the same as the diatomic oxygen molecule, which has one $\u03c3$ and one $\u03c0$ bond.",
+        "keywords": {}
+    },
+    {
+        "id": 12,
+        "question_number": "105",
+        "text": "On the basis of the following E° values, the strongest oxidizing agent is",
+        "subject": "Chemistry",
+        "sub_topic": "Electrochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 12,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "[Fe(CN)₆]⁴⁻",
+            "Fe²⁺",
+            "Fe³⁺",
+            "Fe(CN)₆"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 577,
+        "correct_answer": "Fe³⁺",
+        "basic_answer": "Given: [Chemical species: [Fe(CN)₆]⁴⁻, Fe²⁺, Fe³⁺, and Fe(CN)₆]\n\nSolution: [The strongest oxidizing agent is the species with the highest tendency to gain electrons (highest standard reduction potential, $E^\\circ$). An oxidizing agent itself undergoes reduction. Among the simple ions, Fe³⁺ has the highest oxidation state and a strong tendency to accept an electron to become Fe²⁺. In contrast, [Fe(CN)₆]⁴⁻ contains iron in the $+2$ state and acts as a reducing agent. Therefore, Fe³⁺ is the strongest oxidizing agent.]",
+        "explanation": "### Core Concept\nAn Oxidizing Agent is a substance that gains electrons and undergoes reduction. In electrochemistry, the strength of an oxidizing agent is directly proportional to its Standard Reduction Potential ($E^\u2218$). The higher (more positive) the $E^\u2218$ value, the greater the tendency of the species to be reduced and act as an oxidizing agent.\n\n### Solution \n1.  Define the Process: We look for the species that wants to undergo the process: Oxidized State + e⁻ → Reduced State.\n2.  Evaluate the Ions: Fe³⁺ has a strong tendency to accept an electron to become the more stable (or simply reduced) Fe²⁺. \n3.  Complex ions: In [Fe(CN)₆]⁴⁻, the iron is already in a reduced state (Fe²⁺), making it a potential reducing agent, not an oxidizing one.\n4.  Comparison: Standard tables show $E^\u2218$ for $Fe^{3+}/Fe^{2+}$ is approximately $+0.77\text{ V}$. This positive value indicates that Fe³⁺ is a relatively strong oxidizing agent compared to the other reduced species listed.\n\n### Why This Answer\nFe³⁺ is the correct answer because it is the species in the highest oxidation state among the simple ions provided, giving it the highest potential to accept electrons and oxidize other substances.\n\n### Common Mistakes\n* Agent vs. Process Confusion: Students often confuse the agent with the product. Remember: the *oxidizing agent* is the one that gets *reduced*.\n* Ignoring Charges: Thinking Fe²⁺ is the agent because it is \"reactive,\" but Fe²⁺ usually acts as a reducing agent by losing another electron to become Fe³⁺.",
+        "keywords": {
+            "E°": "E knot",
+            "[Fe(CN)₆]⁴⁻": "F e C N 6 4 minus",
+            "Fe²⁺": "F e 2 plus",
+            "Fe³⁺": "F e 3 plus",
+            "Fe(CN)₆": "F e C N 6"
+        }
+    },
+    {
+        "id": 13,
+        "question_number": "110",
+        "text": "The relative reactivities of acyl compounds towards nucleophilic substitution are in the order of",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Acyl Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Acyl chloride > Acid anhydride > Ester > Amide",
+            "Ester > Acyl chloride > Amide > Acid anhydride",
+            "Acid anhydride > Amide > Ester > Acyl chloride",
+            "Acyl chloride > Ester > Acid anhydride > Amide"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 579,
+        "correct_answer": "Acyl chloride > Acid anhydride > Ester > Amide",
+        "basic_answer": "Given: [Acyl compounds: Acyl chloride, Acid anhydride, Ester, Amide]\n\nSolution: [The reactivity of carboxylic acid derivatives toward nucleophilic acyl substitution depends on the leaving group ability and the electrophilicity of the carbonyl carbon. The leaving group ability follows the order of decreasing acidity of the conjugate acids: $Cl^-$ > $RCOO^-$ > $RO^-$ > $NH_2^-$. Additionally, resonance donation from the leaving group increases from chlorine to nitrogen, making the carbon less positive and less reactive. Therefore, the order of reactivity is Acyl chloride > Acid anhydride > Ester > Amide.]",
+        "explanation": "### Core Concept\nThe reactivity of carboxylic acid derivatives ($R-CO-L$) in Nucleophilic Acyl Substitution depends on two main factors: the basicity of the leaving group ($L$) and the magnitude of the partial positive charge on the carbonyl carbon.\n\n### Solution \n[Image showing the relative leaving group ability and reactivity of carboxylic acid derivatives]\n1.  Leaving Group Ability: A weaker base is a better leaving group. The order of basicity is Cl⁻ < RCOO⁻ < RO⁻ < NH₂⁻. Therefore, $Cl^-$ is the best leaving group and NH₂⁻ is the poorest.\n2.  Electronic Effects: \n    * In Acyl Chlorides, $Cl$ is highly electronegative and exerts a strong $-I$ effect, making the carbonyl carbon very electrophilic.\n    * In Amides, the lone pair on Nitrogen is strongly delocalized into the carbonyl by resonance, significantly reducing the positive charge on carbon and making it the least reactive.\n3.  Intermediate States: Acid anhydrides and esters fall in the middle, with anhydrides being more reactive because the carboxylate ion is a better leaving group than an alkoxide ion.\n\n### Why This Answer\nCombining these factors, the reactivity decreases as the leaving group becomes a stronger base: Acyl chloride > Acid anhydride > Ester > Amide (Option A).\n\n### Common Mistakes\n* Overlooking Resonance: Forgetting that the nitrogen in amides donates its lone pair so effectively that it \"masks\" the electrophilicity of the carbon.\n* Confusing Esters and Anhydrides: Some might think esters are more reactive, but the resonance in anhydrides is split between two carbonyls, making them more susceptible to attack than a single ester group.",
+        "keywords": {
+            "R": "alkyl or aryl group",
+            "Cl": "Chlorine",
+            "C": "Carbon",
+            "O": "Oxygen",
+            "N": "Nitrogen"
+        }
+    },
+    {
+        "id": 14,
+        "question_number": "149",
+        "text": "Which one of the following molecular hydrides acts as a Lewis acid?",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Bonding",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "NH₃",
+            "H₂O",
+            "B₂H₆",
+            "CH₄"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 277,
+        "correct_answer": "B₂H₆",
+        "basic_answer": "Given: [Molecular hydrides: NH₃, H₂O, B₂H₆, CH₄]\n\nSolution: [A Lewis acid is an electron-pair acceptor. Among the given options, diborane (B₂H₆) is an electron-deficient hydride. In its structure, the Boron atoms have incomplete octets, allowing them to accept electron pairs from Lewis bases to form stable adducts. NH₃ and H₂O are Lewis bases due to lone pairs, and CH₄ is electron-precise. Therefore, B₂H₆ acts as a Lewis acid.]",
+        "explanation": "### Core Concept\nA Lewis Acid is defined as an electron-pair acceptor. To act as a Lewis acid, a molecule typically has an electron-deficient central atom (less than an octet) or vacant orbitals available to accommodate a lone pair from a donor (Lewis base).\n\n### Solution \n1.  CH₄ (Methane): Carbon has a complete octet with 4 bonds. It is electron-precise and has no vacant orbitals or lone pairs. It is neither an acid nor a base.\n2.  NH₃ (Ammonia) and H₂O (Water): These have lone pairs on the central atom (N has one, O has two). They act as electron-pair donors, making them Lewis Bases.\n3.  B₂H₆ (Diborane): Boron is in Group 13 and has only 3 valence electrons. In its hydrides, Boron is electron-deficient (having only 6 electrons in its vicinity). Even in the dimer form (B₂H₆), the boron atoms remain electrophilic and can accept electron pairs from strong bases.\n\n### Why This Answer\nB₂H₆ is the only electron-deficient hydride in the list. It can readily accept electron pairs to complete the octet of the boron atoms, thus behaving as a Lewis acid.\n\n### Common Mistakes\n* Confusing Acid/Base Definitions: Thinking NH₃ is an acid because it has hydrogens (Bronsted-Lowry context). In the Lewis system, we only look at the electron pairs.\n* Ignoring the Dimer: Thinking B₂H₆ is stable because it's a dimer. While more stable than BH₃, it still retains Lewis acid character.",
+        "keywords": {
+            "B₂H₆": "diborane"
+        }
+    },
+    {
+        "id": 15,
+        "question_number": "116",
+        "text": "If the molality of the dilute solutions is doubled, the value of molal depression constant (Kf) will be:",
+        "subject": "Chemistry",
+        "sub_topic": "Solutions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Halved",
+            "Tripled",
+            "Unchanged",
+            "Doubled"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 100,
+        "correct_answer": "Unchanged",
+        "basic_answer": "Given: [The molality ($m$) of a dilute solution is doubled.]\n\nSolution: [The depression in freezing point is given by ΔT₍f₎ = K₍f₎ · m. While ΔT₍f₎ is a colligative property that depends on the concentration of the solute, the molal depression constant K₍f₎ is an intensive property characteristic of the solvent itself. Its value is determined by the solvent's molar mass, freezing point, and enthalpy of fusion. Since K₍f₎ does not depend on the molality of the solute, its value remains unchanged when molality is doubled.]",
+        "explanation": "### Core Concept\nThe Molal Depression Constant K₍f₎, also known as the cryoscopic constant, is a characteristic property of the solvent. It represents the depression in freezing point produced when one mole of a non-volatile solute is dissolved in 1 kg of the solvent.\n\n### Solution \n1.  The Formula: ΔT₍f₎ = K₍f₎ · m, where ΔT₍f₎ is the freezing point depression and $m$ is the molality.\n2.  Thermodynamic Definition: K₍f₎ is defined by the properties of the solvent alone:\n    K_f = (R · M · T_f²) / (1000 · ΔH_fus)\n    Where $M$ is the molar mass of the solvent, $T_f$ is the freezing point of the pure solvent, and $\\Delta H_{fus}$ is the enthalpy of fusion.\n3.  Dependence: Notice that the formula for K₍f₎ does not contain the concentration or molality ($m$) of the solute.\n\n### Why This Answer\nSince K₍f₎ depends only on the nature of the solvent and its physical constants, changing the concentration (molality) of the solution has no effect on the value of K₍f₎. The total depression (ΔT₍f₎) would double, but the constant itself remains unchanged (Option C).\n\n### Common Mistakes\n* Proportionality Confusion: Thinking that because ΔT₍f₎ is proportional to m, K₍f₎ must also change. Remember: in $y = mx$, $m$ is the constant slope.\n* Solute Influence: Assuming that adding more solute \"strengthens\" the constant. The constant is the \"sensitivity\" of the solvent, which is fixed.",
+        "keywords": {
+            "Kf": "molal depression constant",
+            "m": "molality",
+            "\u0394Tf": "depression of freezing point"
+        }
+    },
+    {
+        "id": 16,
+        "question_number": "117",
+        "text": "Which of the following is dependent on temperature?",
+        "subject": "Chemistry",
+        "sub_topic": "Physical Chemistry - Solutions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Molarity",
+            "Mole fraction",
+            "Weight percentage",
+            "Molality"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 101,
+        "correct_answer": "Molarity",
+        "basic_answer": "Given: [Concentration terms: Molarity, Mole fraction, Weight percentage, Molality]\n\nSolution: [Concentration units that depend on volume are temperature-dependent because volume changes with temperature due to thermal expansion or contraction. Molarity is defined as moles of solute per volume of solution (L). Since volume varies with temperature, Molarity also varies. In contrast, Molality, Mole fraction, and Weight percentage are based on mass, which is independent of temperature. Thus, Molarity is the temperature-dependent term.]",
+        "explanation": "### Core Concept\nConcentration terms in chemistry are classified based on whether they involve mass or volume. Mass is independent of temperature, whereas volume changes due to thermal expansion or contraction.\n\n### Solution \n1.  Mass-based terms: \n    * Molality ($m$): Moles of solute / Mass of solvent (kg).\n    * Weight percentage ($w/w$): (Mass of solute / Total mass) x 100 \n\n Mole fraction (χ): Moles of solute / Total moles.\n    * Since mass does not change when a solution is heated or cooled, these terms are independent of temperature.\n2.  Volume-based terms:\n    * Molarity ($M$): Moles of solute / Volume of solution (L).\n    * As temperature increases, most liquids expand (volume increases). Since volume is in the denominator of the molarity formula, an increase in volume causes the molarity to decrease.\n\n### Why This Answer\nMolarity is the only option that includes a volume component in its definition. Therefore, it is the only one affected by temperature changes. This makes it a less reliable measure for high-precision experiments involving temperature shifts.\n\n### Common Mistakes\n* Confusing Molarity and Molality: These sound similar but are fundamentally different. Molality ($m$) uses mass and is stable; Molarity ($M$) uses volume and is temperature-sensitive.\n* Assuming Density is Constant: Forgetting that density changes with temperature, which is why volume-based concentrations change.",
+        "keywords": {
+            "M": "Molarity",
+            "mol": "moles",
+            "L": "liters",
+            "wt%": "weight percentage"
+        }
+    },
+    {
+        "id": 17,
+        "question_number": "78",
+        "text": "A tertiary butyl carbocation is more stable than a secondary butyl carbocation because:",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 7,
+        "source_pdf": "PAPAER (40)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "+R effect of groups",
+            "R effect of CH₃ groups",
+            "Hyperconjugation",
+            "I effect of CH₃ groups"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (40).pdf",
+            "page": 7,
+            "type": "MCQ"
+        },
+        "original_id": 4610,
+        "correct_answer": "Hyperconjugation",
+        "basic_answer": "Given: [Carbocations: Tertiary butyl ($3^\\circ$) and Secondary butyl ($2^\\circ$)]\n\nSolution: [Carbocation stability is primarily dictated by the delocalization of the positive charge. In alkyl carbocations, this occurs through two main effects: the Inductive effect ($+I$) and Hyperconjugation. Hyperconjugation involves the overlap of the $\\sigma$-electrons of the $C-H$ bonds with the vacant $p$-orbital of the cationic carbon. The tertiary butyl carbocation has 9 $\\alpha$-hydrogens, providing more hyperconjugative structures than the secondary butyl carbocation (which has 5 or fewer). Because hyperconjugation is the dominant stabilizing factor, it is the primary reason for the increased stability.]",
+        "explanation": "### Core Concept\nThe stability of a carbocation is determined by how well the positive charge on the carbon can be delocalized or \"neutralized\" by surrounding groups. The two primary mechanisms for alkyl groups are the Inductive Effect ($+I$) and Hyperconjugation.\n\n### Solution \n\n1.  Structure: A tertiary butyl carbocation ($3^\u2218$) has 3 methyl groups attached to the positive carbon. A secondary butyl carbocation ($2^\u2218$) has only 2 alkyl groups.\n2.  Inductive Effect: Alkyl groups are electron-releasing ($+I$). While both $2^\u2218$ and $3^\u2218$ benefit from this, the $3^\u2218$ has more groups.\n3.  Hyperconjugation: This is the overlap of $\u03c3$-electrons of the $C-H$ bond with the adjacent empty $p$-orbital of the carbocation. The more $\u03b1$-hydrogens available, the more resonance-like structures can be drawn, and the more stable the ion becomes.\n    * Tertiary Butyl: Has 9 $\u03b1$-hydrogens.\n    * Secondary Butyl: Has only 5 $\u03b1$-hydrogens (3 from one side, 2 from the other).\n\n### Why This Answer\nWhile both $+I$ and hyperconjugation contribute, hyperconjugation is the dominant factor in stabilizing alkyl carbocations and is the standard explanation for why $3^\u2218 > 2^\u2218 > 1^\u2218$ stability exists. (Option C).\n\n### Common Mistakes\n* Choosing Resonance ($+R$): Alkyl groups like $CH_3$ do not have lone pairs or pi bonds to participate in true resonance ($R$) effects. \n* Relying purely on $+I$: The inductive effect is relatively weak compared to the orbital overlap provided by hyperconjugation.",
+        "keywords": {
+            "CB": "Carbocation",
+            "CH₃": "Methyl group",
+            "H": "Hydrogen",
+            "R": "Alkyl group",
+            "\u03c3": "Sigma bond"
+        }
+    },
+    {
+        "id": 18,
+        "question_number": "113",
+        "text": "Volume occupied by one molecule of water (density = 1 g cm\u207b\u00b3) is",
+        "subject": "Chemistry",
+        "sub_topic": "Physical Chemistry - Properties of Matter",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "9.0 \u00d7 10\u207b\u00b2\u00b3 cm\u00b3",
+            "6.023 \u00d7 10\u207b\u00b2\u00b3 cm\u00b3",
+            "3.0 \u00d7 10\u207b\u00b2\u00b3 cm\u00b3",
+            "5.5 \u00d7 10\u207b\u00b2\u00b3 cm\u00b3"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 580,
+        "correct_answer": "3.0 \u00d7 10\u207b\u00b2\u00b3 cm\u00b3",
+        "basic_answer": "Given: [Density of water = 1 g cm⁻³, Molar mass of water = 18 g mol⁻¹, Avogadro's number ($N_A$) = 6.022 × 10²³ molecules mol⁻¹]\n\nSolution: [To find the volume of a single molecule, we first calculate the volume of one mole of water using the formula\n\n $Volume = Mass / Density$. \n\nFor 1 mole, \n\n$Volume = 18\\text{ g} / 1\\text{ g cm}⁻³ = 18\\text{ cm}³$.\n\n Next, we divide this molar volume by the total number of molecules in a mole: \n\n$Volume\\text{ per molecule} \n\n= 18\\text{ cm}³ / (6.022 \\times 10^{23}) \\approx 3.0 \\times 10^{-23}\\text{ cm}³$.]",
+        "explanation": "### Core Concept\nTo find the volume of a single molecule, we must first determine the molar volume (volume of one mole) of the substance and then divide that by Avogadro's number ($N_A$), which represents the number of molecules in one mole.\n\n### Solution \n1.  Determine Mass of 1 mole: The molar mass of water (H₂O) is $2(1.0) + 16.0 = 18\text{ g/mol}$.\n2.  Calculate Molar Volume (Vₘ): Using the density (ρ) formula, $Volume = Mass / Density$.\n    Vₘ = 18 g / 1 g cm⁻³ = 18 cm³.\n3.  Calculate Molecular Volume ($V_{mol}$): \n    $V_{mol} = Vₘ / N_A$\n    Vₘₒₗ = 18 cm³ / (6.022 × 10²³ molecules)\n    Vₘₒₗ = 2.989 × 10⁻²³ cm³.\n\n### Why This Answer\nRounding the calculated value 2.989 × 10⁻²³ gives approximately 3.0 × 10⁻²³ cm³, which corresponds to Option C.\n\n### Common Mistakes\n* Using Molar Volume directly: Selecting $18\text{ cm}^3$ or a related whole number instead of dividing by Avogadro's number.\n* Power of Ten Error: Misplacing the decimal or the exponent when dividing by $10^{23}$, leading to $10^{22}$ or $10^{24}$.",
+        "keywords": {
+            "g cm⁻³": "gram per cubic centi meter",
+            "g mol⁻¹": "gram per mole",
+            "molecules mol⁻¹": "molecules per mole",
+            "mass / density": "mass divided by density",
+            "g": "gram",
+            "cm³": "cubic centi meters"
+        }
+    },
+    {
+        "id": 19,
+        "question_number": "116",
+        "text": "For the gas phase reaction, PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) which of the following conditions are correct?",
+        "subject": "Chemistry",
+        "sub_topic": "Physical Chemistry - Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "ΔH = 0 and ΔS < 0",
+            "ΔH > 0 and ΔS > 0",
+            "ΔH < 0 and ΔS < 0",
+            "ΔH > 0 and ΔS < 0"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 583,
+        "correct_answer": "ΔH > 0 and ΔS > 0",
+        "basic_answer": "Given: \n[ΔH is the change in enthalpy \n\nΔS is the change in entropy]\nSolution: \n[The reaction \n\nPCl₅(g) ⇌ PCl₃(g) + Cl₂(g) \n\nindicates that one mole of a gas is producing two moles of gases, implying an increase in entropy (ΔS > 0).]",
+        "explanation": "### Core Concept\nThis problem involves determining the sign of Enthalpy ($ΔH$) and Entropy ($ΔS$) for a chemical decomposition reaction. Enthalpy relates to energy changes (bonds broken/formed), while entropy relates to the degree of disorder or the number of microstates in the system.\n\n### Solution \n1.  Analyze Entropy ($ΔS$): \n    * The reaction is: PCl₅(g) → PCl₃(g) + Cl₂(g).\n    * Reactant moles of gas = 1\n\n    * Product moles of gas = 2 ($1 + 1$).\n    * Since the number of gaseous molecules increases, the system becomes more disordered. Therefore, $ΔS > 0$.\n2.  Analyze Enthalpy ($ΔH$):\n    * This is a decomposition reaction where one $PCl_5$ molecule breaks apart into two smaller molecules.\n    * Bond breaking is an endothermic process, requiring an input of energy. Therefore, the change in enthalpy is positive, meaning $ΔH > 0$.\n\n### Why This Answer\nBoth the entropy and enthalpy must be positive for this specific gaseous decomposition. This corresponds to $ΔH > 0$ and $ΔS > 0$ (Option B).\n\n### Common Mistakes\n* Confusing Spontaneity with Enthalpy: Thinking that because the reaction happens, it must be exothermic ($ΔH < 0$). Spontaneity is determined by Gibbs Free Energy ($\u0394G$), and many endothermic reactions occur because the positive entropy term dominates at higher temperatures.\n* Ignoring Physical State: Forgetting to check if the reactants/products are gases. If they were liquids/solids, the entropy change would be calculated differently.",
+        "keywords": {
+            "ΔH": "delta h",
+            "ΔS": "delta s",
+            "PCl₅": "P C l five",
+            "PCl₃": "P C l three",
+            "Cl₂": "C l two"
+        }
+    }
+]

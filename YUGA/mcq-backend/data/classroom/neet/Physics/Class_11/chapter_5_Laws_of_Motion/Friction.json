@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Laws of Motion",
+    "chapter_number": 5,
+    "topic": "Friction",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:52:07.959703",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about friction. Friction is a force. It stops things from sliding. Have you ever tried to push a heavy box on the floor? It is hard because of friction. Friction acts between surfaces in contact. Let's learn more about it.\n\nFirst, there are three types of friction. The first type is static friction. Static friction keeps a resting object from moving. Imagine a book on a table. It does not slide off because of static friction. The second type is kinetic friction. Kinetic friction acts when an object is moving. If you push the book, it slides. Kinetic friction slows it down. The third type is rolling friction. Rolling friction happens when an object rolls. A ball rolling on the ground is an example. Rolling friction is usually less than static and kinetic friction.\n\nNow, let's talk about the laws of friction. The force of friction depends on two factors. One is the nature of the surfaces. Smooth surfaces have less friction. Rough surfaces have more friction. The other factor is the normal force. The normal force is the force pushing the surfaces together. It is usually the weight of the object. Friction is proportional to the normal force. The formula is F = μN. Here, F is the friction force, μ is the coefficient of friction, and N is the normal force.\n\nThe coefficient of friction, μ, is a number. It shows how much friction there is. Different surfaces have different μ values. For example, rubber on concrete has a high μ. Ice on steel has a low μ. Remember, μ has no unit.\n\nFriction is everywhere in our daily life. It helps us walk without slipping. It stops cars with brakes. Sometimes, we want to reduce friction. We use oil or grease in machines. This makes the parts move smoothly. Other times, we want more friction. We use rough shoes for better grip.\n\nIn engineering, friction is very important. Engineers design brakes, tires, and engines with friction in mind. They choose materials carefully. They test how surfaces interact. This helps make cars safe and efficient.\n\nKey points to remember: Friction is a force that opposes motion. There are three types of friction: static, kinetic, and rolling. The friction force depends on the surface and normal force. The formula is F = μN. Friction is useful but sometimes we need to control it.\n\nIn summary, friction is a crucial concept in physics. It affects many things in life. Understanding friction helps us solve problems. It is important for NEET exams. Always remember the types and laws of friction. Practice problems to master it.\n\nThank you for listening. Keep studying and practicing. See you in the next class!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Friction",
+    "Static friction",
+    "Kinetic friction",
+    "Rolling friction",
+    "Coefficient of friction"
+  ],
+  "formulas": [
+    {
+      "formula": "F = μN",
+      "description": "F is the friction force, μ is the coefficient of friction, and N is the normal force."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Friction",
+      "definition": "A force that opposes motion between two surfaces in contact."
+    },
+    {
+      "term": "Static friction",
+      "definition": "The friction that keeps an object at rest from moving."
+    },
+    {
+      "term": "Kinetic friction",
+      "definition": "The friction acting on moving objects."
+    },
+    {
+      "term": "Rolling friction",
+      "definition": "The friction when an object rolls over a surface."
+    },
+    {
+      "term": "Coefficient of friction",
+      "definition": "A number that represents the friction between two surfaces."
+    }
+  ]
+}

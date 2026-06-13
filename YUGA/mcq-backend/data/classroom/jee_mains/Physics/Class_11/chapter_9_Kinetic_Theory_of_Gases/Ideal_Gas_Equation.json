@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Kinetic Theory of Gases",
+    "chapter_number": 9,
+    "topic": "Ideal Gas Equation",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:52:51.947244",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Ideal Gas Equation in the Kinetic Theory of Gases. This is very important for JEE Main. Let's start by understanding the Ideal Gas Equation: PV = nRT. Here, P stands for pressure, V for volume, n for number of moles, R for the gas constant, and T for temperature in Kelvin. \n\nTo derive PV = nRT, we start with the basic assumptions of an ideal gas. An ideal gas is a theoretical gas composed of many randomly moving particles. These particles do not attract or repel each other. They move in straight lines until they collide with the container walls. This is why we use the Ideal Gas Equation for calculations. \n\nNow, let's discuss the applications of the Ideal Gas Equation. It helps us calculate any one of the variables if the others are known. For example, if we know P, V, and T, we can find n. This is useful in many JEE Main problems. \n\nHowever, the Ideal Gas Equation has limitations. Real gases do not always behave like ideal gases, especially at high pressures and low temperatures. This is because real gas particles do attract each other. To account for this, we use the Van der Waals equation for real gases. It adjusts the Ideal Gas Equation by adding constants a and b. These constants account for particle attraction and volume. \n\nLet's look at the graphical representation of PV vs T. In an ideal gas, the graph is a straight line. This means PV is directly proportional to T. But for real gases, the line may curve due to deviations. \n\nWe also need to understand the units and dimensions of R, the gas constant. R is usually 8.314 J/(mol K) in SI units. In some problems, you might use 0.0821 L atm/(mol K). Always check the units given in the question. \n\nLet's solve a simple problem. If 1 mole of an ideal gas is at 2 atm pressure and 300 K temperature, what is the volume? Using PV = nRT, we substitute P = 2 atm, n = 1 mole, R = 0.0821 L atm/(mol K), and T = 300 K. Solving, we get V = 12.3 L. \n\nCommon mistakes in JEE Main include not converting temperature to Kelvin or using incorrect units for R. Always double-check these before solving. \n\nIn summary, remember the Ideal Gas Equation, its assumptions, and limitations. Practice using it in different conditions. This will help you in JEE Main. \n\nThank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Ideal Gas",
+    "Van der Waals",
+    "Gas Constant",
+    "Pressure",
+    "Volume"
+  ],
+  "formulas": [
+    {
+      "formula": "PV = nRT",
+      "description": "Used to calculate pressure, volume, or temperature of an ideal gas"
+    },
+    {
+      "formula": "P + a(n/V)^2 (V - nb) = nRT",
+      "description": "Van der Waals equation for real gases, adjusts for particle attraction and volume"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ideal Gas",
+      "definition": "A gas with no particle attraction and occupies no volume"
+    },
+    {
+      "term": "Real Gas",
+      "definition": "A gas where particles have attraction and occupy volume"
+    },
+    {
+      "term": "Gas Constant (R)",
+      "definition": "A constant used in the ideal gas law, varies with units"
+    }
+  ]
+}

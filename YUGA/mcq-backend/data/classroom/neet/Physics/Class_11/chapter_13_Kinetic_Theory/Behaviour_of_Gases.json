@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Kinetic Theory",
+    "chapter_number": 13,
+    "topic": "Behaviour of Gases",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:02:21.603346",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the behavior of gases. This topic is important for NEET, so let's focus. \n\nFirst, let's talk about the ideal gas equation. This equation helps us understand how gases behave. The formula is PV = nRT. Here, P is pressure, V is volume, n is the number of moles, R is the gas constant, and T is temperature in Kelvin. This equation shows how these factors are related. \n\nNow, let's see how gases behave in real life. Imagine a balloon. When you blow air into it, the balloon expands. This happens because the gas molecules inside move faster and push the walls of the balloon. This is a simple example of gas behavior. \n\nNext, let's discuss applications of gas laws in engineering. Engineers use gas laws to design engines and refrigerators. For example, in a car engine, gases expand and push pistons to move the car. This is based on gas behavior. \n\nLet's solve a problem on gas behavior. If we have 1 mole of gas at 1 atm pressure and 273 K temperature, what is the volume? Using the ideal gas equation, PV = nRT, we can find V. Here, P = 1 atm, n = 1 mole, R = 0.0821 L·atm/mol·K, and T = 273 K. So, V = nRT/P = (1)(0.0821)(273)/1 = 22.4 L. So, the volume is 22.4 liters. \n\nNow, let's look at graphical representation of gas laws. When we plot pressure vs. volume, we get a curve. This curve shows that pressure decreases as volume increases, if temperature is constant. This is Boyle's Law. \n\nRemember, gases behave differently under different conditions. For NEET, focus on the ideal gas law, Boyle's Law, and Charles's Law. These are often tested. \n\nTo sum up, we learned about the ideal gas equation, examples of gas behavior, and applications in engineering. We also solved a problem and looked at gas law graphs. Keep practicing, and you'll do great in NEET!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Ideal Gas Equation",
+    "Boyle's Law",
+    "Gas Behavior",
+    "Pressure",
+    "Volume"
+  ],
+  "formulas": [
+    {
+      "formula": "PV = nRT",
+      "description": "This is the ideal gas equation. It relates pressure, volume, number of moles, gas constant, and temperature."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pressure",
+      "definition": "The force exerted by gas molecules when they hit the walls of a container."
+    },
+    {
+      "term": "Volume",
+      "definition": "The amount of space that a gas occupies."
+    },
+    {
+      "term": "Mole",
+      "definition": "A unit that measures the amount of substance. One mole has 6.022 x 10^23 particles."
+    },
+    {
+      "term": "Gas Constant",
+      "definition": "A constant used in the ideal gas equation, usually represented as R."
+    }
+  ]
+}

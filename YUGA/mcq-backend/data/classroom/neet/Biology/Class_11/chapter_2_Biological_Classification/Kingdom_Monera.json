@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Biological Classification",
+    "chapter_number": 2,
+    "topic": "Kingdom Monera",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:32:09.129958",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Kingdom Monera. This is an important topic in biology. It often appears in NEET exams. Let's start with what Monera is. Monera is a kingdom of living things. They are very simple and small. They are prokaryotic and unicellular. 'Prokaryotic' means they do not have a nucleus. 'Unicellular' means they have only one cell. \n\nNow, let's talk about examples. Bacteria and cyanobacteria are part of Monera. Bacteria are everywhere. They are in soil, water, and even in our bodies. Cyanobacteria are also known as blue-green algae. They can make their own food using sunlight. \n\nHow do these organisms reproduce? Bacteria reproduce in two main ways: binary fission and conjugation. In binary fission, one cell splits into two. It is like a simple copy machine. In conjugation, two bacteria connect and exchange DNA. This is like sharing information. \n\nBacteria play important roles in nature. Some bacteria help in nitrogen fixation. This means they change nitrogen from the air into a form plants can use. Without them, plants would not grow well. Bacteria also help in decomposition. They break down dead plants and animals. This makes nutrients go back into the soil. \n\nBut not all bacteria are helpful. Some cause diseases. For example, tuberculosis affects the lungs. Cholera causes severe diarrhea. It is important to know how to prevent these diseases. \n\nLet's remember some key points. Monera are prokaryotic and unicellular. Bacteria and cyanobacteria are examples. They reproduce by binary fission and conjugation. They help in nitrogen fixation and decomposition. But they can also cause diseases like tuberculosis and cholera. \n\nIn conclusion, Monera are simple but important. They affect our lives in many ways. Understanding them helps us in many fields, like medicine and agriculture. Keep these points in mind for your NEET exams. Thank you!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Monera",
+    "Prokaryotic",
+    "Unicellular",
+    "Bacteria",
+    "Cyanobacteria"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Prokaryotic",
+      "definition": "Cells that do not have a nucleus."
+    },
+    {
+      "term": "Unicellular",
+      "definition": "Organisms that consist of only one cell."
+    },
+    {
+      "term": "Binary Fission",
+      "definition": "A form of asexual reproduction where one cell divides into two."
+    },
+    {
+      "term": "Conjugation",
+      "definition": "A process where two bacteria exchange DNA."
+    },
+    {
+      "term": "Nitrogen Fixation",
+      "definition": "The process of converting nitrogen from the air into a form that plants can use."
+    }
+  ]
+}

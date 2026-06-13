@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_12",
+    "chapter": "Solutions",
+    "chapter_number": 2,
+    "topic": "Colligative Properties",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:15:07.692785",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about colligative properties in solutions. These properties depend on the number of particles in a solution, not their type. Let's start with some key types of colligative properties.\n\nFirst, we have 'Relative lowering of vapor pressure'. When a solute is added to a solvent, the vapor pressure of the solution becomes lower than that of the pure solvent. This happens because solute particles take up space at the surface, so fewer solvent particles can escape. Remember, more solute means lower vapor pressure.\n\nNext, let's talk about 'Boiling point elevation'. The boiling point of a solution is higher than that of a pure solvent. Why? Because the solution needs more heat to make the vapor pressure equal to the atmospheric pressure. For example, adding salt to water increases its boiling point.\n\nNow, let's discuss 'Freezing point depression'. A solution freezes at a lower temperature than its pure solvent. This is why salt is used on icy roads. It lowers the freezing point of water, so ice melts. The formula to calculate freezing point depression is ΔT_f = i * K_f * m, where ΔT_f is the change in freezing point, i is the Van't Hoff factor, K_f is the freezing point depression constant, and m is the molality.\n\n'Osmotic pressure' is another colligative property. It is the pressure needed to stop the flow of solvent into a solution through a semipermeable membrane. Osmotic pressure is important in biological systems, like how plants absorb water. The formula for osmotic pressure is π = i * C * R * T, where π is the osmotic pressure, i is the Van't Hoff factor, C is the concentration, R is the gas constant, and T is the temperature in Kelvin.\n\nThe 'Van't Hoff factor' is crucial in colligative properties. It tells us how many particles a solute splits into in a solution. For example, NaCl splits into two ions, so its Van't Hoff factor is 2. This factor helps us calculate changes in colligative properties.\n\nSometimes, we see 'Abnormal molar masses'. This happens when solute particles associate or dissociate in a solution. For instance, acetic acid in benzene associates to form dimers, leading to an abnormal molar mass.\n\nLet's not forget some key formulas. Raoult's Law is one: P_solution = X_solvent * P^0_solvent. It helps us calculate the vapor pressure of a solution. The Van't Hoff equation, π = i * C * R * T, is another. It helps find osmotic pressure.\n\nFinally, there are important experiments to determine molar mass using colligative properties. For example, we can use freezing point depression or osmotic pressure to find the molar mass of a solute.\n\nRemember, colligative properties depend on the number of particles, not their type. Be careful with units in calculations. Mistakes often happen there. Keep practicing, and you'll do great in your NEET exams!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Colligative Properties",
+    "Vapor Pressure",
+    "Boiling Point Elevation",
+    "Freezing Point Depression",
+    "Osmotic Pressure"
+  ],
+  "formulas": [
+    {
+      "formula": "ΔT_f = i * K_f * m",
+      "description": "Freezing point depression formula, where ΔT_f is the change in freezing point, i is the Van't Hoff factor, K_f is the freezing point depression constant, and m is the molality."
+    },
+    {
+      "formula": "π = i * C * R * T",
+      "description": "Osmotic pressure formula, where π is the osmotic pressure, i is the Van't Hoff factor, C is the concentration, R is the gas constant, and T is the temperature in Kelvin."
+    },
+    {
+      "formula": "P_solution = X_solvent * P^0_solvent",
+      "description": "Raoult's Law, where P_solution is the vapor pressure of the solution, X_solvent is the mole fraction of the solvent, and P^0_solvent is the vapor pressure of the pure solvent."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Colligative Properties",
+      "definition": "Properties that depend on the number of solute particles in a solution, not their type."
+    },
+    {
+      "term": "Relative Lowering of Vapor Pressure",
+      "definition": "The decrease in vapor pressure of a solvent when a solute is added."
+    },
+    {
+      "term": "Boiling Point Elevation",
+      "definition": "The increase in boiling point of a solution compared to the pure solvent."
+    },
+    {
+      "term": "Freezing Point Depression",
+      "definition": "The decrease in freezing point of a solution compared to the pure solvent."
+    },
+    {
+      "term": "Osmotic Pressure",
+      "definition": "The pressure required to stop the flow of solvent into a solution through a semipermeable membrane."
+    },
+    {
+      "term": "Van't Hoff Factor",
+      "definition": "A number that indicates how many particles a solute splits into in a solution."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Permutations and Combinations",
+    "chapter_number": 4,
+    "topic": "Permutations",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:47:23.206511",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about permutations. Permutations help us understand how we can arrange objects in different orders. This is very important in JEE Main. Let's start with the basics.\n\nFirst, let us define what a permutation is. A permutation is an arrangement of objects in a specific order. For example, if you have three letters A, B, and C, you can arrange them as ABC, ACB, BAC, BCA, CAB, or CBA. Each different order is a permutation.\n\nNow, let's talk about permutations of n objects. If you have n different objects, you can arrange them in n! (n factorial) ways. The factorial of a number n is the product of all positive integers up to n. So, 3! = 3 × 2 × 1 = 6.\n\nNext, let's learn about permutations with repetition. Sometimes, objects can be repeated. For example, if you have the letters A, A, and B, the permutations are AAB, ABA, and BAA. Here, the formula changes a bit. If you have n objects and some are repeated, use n! divided by the factorial of the number of repeated objects.\n\nNow, let's look at circular permutations. This is when objects are arranged in a circle. For example, if you have three people sitting around a table, the number of ways to arrange them is (n-1)!. So, for 3 people, it is (3-1)! = 2! = 2 ways.\n\nSometimes, there are restrictions in permutations. For example, if you have to arrange books on a shelf but a particular book must always be first, you have to adjust your counting. Let's say you have 4 books and Book A must be first. Then, you arrange the remaining 3 books in 3! ways.\n\nPermutations have many applications in arrangements. For example, arranging people in a line or arranging books on a shelf. In JEE Main, you will often see questions about arranging letters of a word or arranging numbers.\n\nLet's do a quick example. How many ways can you arrange the letters in the word 'JEE'? The letters J, E, and E can be arranged as JEE, EJE, and EEJ. Notice how we treat the two E's as identical, so we use 3! / 2! = 3 ways.\n\nA common mistake in JEE Main is forgetting to divide by the factorial of repeated objects. Always check if there are repeated items.\n\nIn summary, remember these key points: Permutations are about order. Use n! for arranging n objects. Adjust for repetition with division. Circular permutations use (n-1)!. Check for restrictions in the problem.\n\nI hope this helps you understand permutations better. Practice with different problems, and you will become more confident. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Permutation",
+    "Factorial",
+    "Repetition",
+    "Circular Permutation",
+    "Restrictions"
+  ],
+  "formulas": [
+    {
+      "formula": "n!",
+      "description": "Used to find the total number of ways to arrange n distinct objects"
+    },
+    {
+      "formula": "n! / p!",
+      "description": "Used when there are p identical objects among n objects"
+    },
+    {
+      "formula": "(n-1)!",
+      "description": "Used for circular permutations of n objects"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Permutation",
+      "definition": "An arrangement of objects in a specific order"
+    },
+    {
+      "term": "Factorial",
+      "definition": "The product of all positive integers up to a given number n, denoted as n!"
+    }
+  ]
+}

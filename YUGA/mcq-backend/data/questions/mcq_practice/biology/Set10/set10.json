@@ -1,0 +1,309 @@
+[
+    {
+        "id": 90,
+        "question_number": "2",
+        "text": "A dioecious flowering plant prevents both:",
+        "subject": "Biology",
+        "sub_topic": "Plant Reproduction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Autogamy and geitonogamy",
+            "Geitonogamy and xenogamy",
+            "Cleistogamy and xenogamy",
+            "Autogamy and xenogamy"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 51,
+        "correct_answer": "Autogamy and geitonogamy",
+        "basic_answer": "Dioecious plants have separate male and female individuals, which prevents self-fertilization (autogamy) and fertilization within the same plant (geitonogamy). This encourages cross-pollination (xenogamy) as the only viable option for reproduction. Hence, both autogamy and geitonogamy are not possible in dioecious plants.",
+        "explanation": "### Core Concept\nPlants use various strategies to prevent self-pollination and encourage cross-pollination for genetic diversity. These strategies include Monoecy (male and female flowers on the same plant) and Dioecy (male and female flowers on separate plants).\n\n### Solution Approach\n\n* Autogamy: Pollen transfer within the same flower. This requires bisexual flowers.\n* Geitonogamy: Pollen transfer between different flowers of the same plant. This requires the plant to be monoecious.\n* Dioecy: Since male and female flowers are on entirely different individual plants (e.g., Papaya), neither autogamy nor geitonogamy is physically possible.\n\n### Why This Answer\nIn a dioecious plant, a single individual is either male or female. Since there are no \"other flowers\" of the opposite sex on the same plant, geitonogamy is prevented. Since each flower is unisexual, autogamy is also prevented. Thus, only Xenogamy (cross-pollination) can occur.\n\n### Common Mistakes\n* Confusing Monoecy and Dioecy: Thinking monoecious plants (like Maize) prevent geitonogamy. Monoecy only prevents autogamy, not geitonogamy.\n* Xenogamy Misunderstanding: Thinking dioecy prevents xenogamy, when it actually *forces* it.",
+        "keywords": {}
+    },
+    {
+        "id": 91,
+        "question_number": "3",
+        "text": "Which statement is wrong for Krebs' cycle?",
+        "subject": "Biology",
+        "sub_topic": "Biochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "There is one point in the cycle where FAD+ is reduced to FADH2",
+            "During conversion of succinyl CoA to succinic acid, a molecule of GTP is synthesized.",
+            "The cycle starts with condensation of acetyl group (acetyl CoA) with pyruvic acid to yield citric acid.",
+            "There are three points in the cycle where NAD+ is reduced to NADH + H+"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 52,
+        "correct_answer": "The cycle starts with condensation of acetyl group (acetyl CoA) with pyruvic acid to yield citric acid.",
+        "basic_answer": "The Krebs cycle does not start with the condensation of acetyl CoA with pyruvic acid; instead, it begins with the condensation of acetyl CoA with oxaloacetate to form citric acid. Therefore, the statement about pyruvic acid is incorrect. \n\nHence the answer is C.",
+        "explanation": "### Core Concept\nThe Krebs Cycle (Citric Acid Cycle) is the second stage of aerobic respiration occurring in the mitochondrial matrix. It involves the oxidation of acetyl groups into $CO_2$ and high-energy electron carriers.\n\n### Solution Approach\n\n* Entry Point: Pyruvic acid (from glycolysis) is first converted into Acetyl CoA via the link reaction.\n* Step 1: The cycle begins when the 2-carbon Acetyl CoA condenses with a 4-carbon Oxaloacetic Acid (OAA) to form the 6-carbon Citric Acid.\n* Byproducts: The cycle features 3 reductions of $NAD^+$ to $NADH$, 1 reduction of $FAD$ to $FADH_2$, and 1 substrate-level phosphorylation producing $GTP$.\n\n### Why This Answer\nOption C is wrong because it claims Acetyl CoA condenses with *pyruvic acid*. In reality, it condenses with Oxaloacetate. Pyruvic acid is the precursor to Acetyl CoA, not a member of the cycle itself.\n\n### Common Mistakes\n* Linking Error: Forgetting that pyruvate must be converted to Acetyl CoA *before* entering the cycle.\n* Redox Counting: Miscounting the number of $NADH$ (3) vs $FADH_2$ (1) produced per turn of the cycle.",
+        "keywords": {}
+    },
+    {
+        "id": 92,
+        "question_number": "4",
+        "text": "Flowers which have single ovule in the ovary and are packed into inflorescence are usually pollinated by:",
+        "subject": "Biology",
+        "sub_topic": "Plant Reproduction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Bee",
+            "Wind",
+            "Bat",
+            "Water"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 53,
+        "correct_answer": "Wind",
+        "basic_answer": "Flowers having a single ovule in the ovary and produced in dense inflorescences are typical of wind-pollinated (anemophilous) plants, such as many grasses. These small, inconspicuous, nectarless flowers produce large amounts of dry, light pollen that is carried by wind.",
+        "explanation": "### Core Concept\nAnemophily (wind pollination) is an abiotic method of pollination. Since wind is non-directional and wasteful, plants have evolved specific structural adaptations to maximize the chance of fertilization.\n\n### Solution Approach\n\n* Single Ovule: Having one ovule per ovary ensures that even a single stray pollen grain landing on the stigma can result in a seed, which is efficient for high-probability, low-precision pollination.\n* Inflorescence: Packing many small flowers together (like in Corn or Grasses) creates a larger \"target area\" for wind-borne pollen.\n* Other traits: Feathery stigmas to catch pollen and versatile anthers to release it easily.\n\n### Why This Answer\nThese specific traits are hallmarks of wind-pollinated plants. Biotic pollinators like bees or bats require large, showy, nectar-rich flowers to attract them, which contradicts the \"packed small flowers with single ovules\" description.\n\n### Common Mistakes\n* Confusing with Water: Thinking \"abiotic\" always means water. Water pollination is rare and usually involves submerged or floating specialized flowers.\n* Assuming all flowers are pretty: Forgetting that wind-pollinated flowers are often green and inconspicuous because they don't need to look good for insects.",
+        "keywords": {}
+    },
+    {
+        "id": 93,
+        "question_number": "5",
+        "text": "Transplantation of tissues/organs fails often due to non-acceptance by the patient's body. Which type of immune-response is responsible for such rejections?",
+        "subject": "Biology",
+        "sub_topic": "Immunology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Cell-mediated immune response",
+            "Hormonal immune response",
+            "Physiological immune response",
+            "Autoimmune response"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 54,
+        "correct_answer": "Cell-mediated immune response",
+        "basic_answer": "Cell-mediated immune response involves T cells that recognize and react against foreign tissue after transplantation. This response leads to the rejection of transplanted organs or tissues. \n\nHence the answer is A.",
+        "explanation": "### Core Concept\nThe immune system distinguishes between \"self\" and \"non-self.\" In organ transplantation, the recipient's immune system identifies the MHC (Major Histocompatibility Complex) markers on the donor organ as foreign, triggering a rejection.\n\n### Solution Approach\n\n* T-Lymphocytes: Specifically, Cytotoxic T-cells are the primary effectors. They directly attack and destroy the cells of the transplanted tissue.\n* Type of Response: Because this involves direct cellular attack rather than floating antibodies, it is classified as Cell-Mediated Immunity (CMI).\n\n### Why This Answer\nCMI is the body's primary tool for detecting \"altered self\" or \"foreign\" cells. While humoral (antibody) immunity can play a role in chronic rejection, the acute \"non-acceptance\" or graft rejection discussed in clinical biology is a classic T-cell mediated event.\n\n### Common Mistakes\n* Antibody confusion: Thinking antibodies (humoral immunity) are the main cause. While they exist, the *cellular* attack by T-cells is the dominant mechanism.\n* Autoimmune error: Confusing \"rejection of foreign\" with \"attack on self\" (autoimmunity). Rejection is the immune system doing its job *too* well.",
+        "keywords": {}
+    },
+    {
+        "id": 94,
+        "question_number": "6",
+        "text": "Phosphoenol pyruvate (PEP) is the primary CO2 acceptor in:",
+        "subject": "Biology",
+        "sub_topic": "Plant Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "C₄ plants",
+            "C₂ plants",
+            "C₃ and C₄ plants",
+            "C₃ plants"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 55,
+        "correct_answer": "C₄ plants",
+        "basic_answer": "Phosphoenolpyruvate (PEP) acts as the primary CO2 acceptor in C₄ plants, facilitating efficient carbon fixation. This process occurs in specialized mesophyll cells, which allow for the initial fixation of CO2 before it is transported to bundle sheath cells. \n\nHence, the answer is A.",
+        "explanation": "### Core Concept\nPlants have evolved different pathways to fix atmospheric $CO_2$. The \"primary acceptor\" is the molecule that first binds with $CO_2$ to enter the organic cycle.\n\n### Solution Approach\n\n* C3 Plants: Use RuBP (Ribulose-1,5-bisphosphate) as the primary acceptor in the mesophyll.\n* C4 Plants: Use PEP (Phosphoenolpyruvate) as the primary acceptor in the mesophyll cells, facilitated by the enzyme PEPcase.\n* Kranz Anatomy: In C4 plants, this initial fixation happens in the mesophyll, while the actual Calvin Cycle happens later in the bundle sheath cells.\n\n### Why This Answer\nPEP is the 3-carbon molecule that reacts with $CO_2$ to form the 4-carbon Oxaloacetate (hence \"C4\" plants). This mechanism allows C4 plants to avoid photorespiration and thrive in high-heat, high-light environments.\n\n### Common Mistakes\n* Swapping RuBP and PEP: Thinking C4 plants use RuBP first. They *do* use RuBP eventually in the bundle sheath, but PEP is the primary (first) acceptor.\n* Cell Location: Forgetting that PEPcase is found in the mesophyll, not the bundle sheath.",
+        "keywords": {
+            "PEP": "Phosphoenolpyruvate",
+            "C₄": "a type of photosynthetic plant",
+            "CO2": "Carbon dioxide"
+        }
+    },
+    {
+        "id": 95,
+        "question_number": "7",
+        "text": "Life cycle of Ectocarpus and Fucus respectively are:",
+        "subject": "Biology",
+        "sub_topic": "Algae",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Diplontic, Haplodiplontic",
+            "Haplodiplontic, Diplontic",
+            "Haplodiplontic, Haplontic",
+            "Haplontic, Diplontic"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 56,
+        "correct_answer": "Haplodiplontic, Diplontic",
+        "basic_answer": "Ectocarpus exhibits a haplodiplontic life cycle where both haploid and diploid phases are multicellular. Fucus, on the other hand, has a diplontic life cycle with a dominant diploid phase. Therefore, Ectocarpus is haplodiplontic, and Fucus is diplontic.",
+        "explanation": "### Core Concept\nMost algae have a Haplontic life cycle (dominant haploid phase). However, some brown algae (Phaeophyceae) show significant evolutionary variations in their alternation of generations.\n\n### Solution Approach\n\n* Ectocarpus: Shows Haplodiplontic cycle. It has both multicellular haploid (gametophyte) and multicellular diploid (sporophyte) stages that are often physically similar (isomorphic).\n* Fucus: Shows Diplontic cycle. The main plant body is diploid (2n), and meiosis occurs only during gamete formation. This is an exception among algae and is similar to the life cycle of seed plants.\n\n### Why This Answer\nThe combination Haplodiplontic for Ectocarpus and Diplontic for Fucus is a specific taxonomical fact highlighted in NCERT and standard botany textbooks. Kelps also share the haplodiplontic trait.\n\n### Common Mistakes\n* Generalizing Algae: Assuming all algae are haplontic (like *Spirogyra* or *Chlamydomonas*). \n* Swapping the two: Mixing up which brown alga has which cycle.",
+        "keywords": {
+            "N": "haploid",
+            "2N": "diploid"
+        }
+    },
+    {
+        "id": 96,
+        "question_number": "8",
+        "text": "During DNA replication, Okazaki fragments are used to elongate:",
+        "subject": "Biology",
+        "sub_topic": "Molecular Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "The lagging strand towards replication fork.",
+            "The leading strand away from replication fork.",
+            "The lagging strand away from the replication fork.",
+            "The leading strand towards replication fork."
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 57,
+        "correct_answer": "The lagging strand away from the replication fork.",
+        "basic_answer": "Okazaki fragments are short segments of DNA synthesized on the lagging strand during DNA replication. They form due to the antiparallel nature of DNA strands, where synthesis occurs in a direction opposite to the replication fork. \n\nHence, Okazaki fragments elongate the lagging strand away from the replication fork.",
+        "explanation": "### Core Concept\nDNA Polymerase can only synthesize DNA in the 5' to 3' direction. Since the DNA double helix is antiparallel, the two new strands must be synthesized differently as the replication fork opens.\n\n### Solution Approach\n\n* Leading Strand: Synthesized continuously *towards* the replication fork because its template is oriented 3' to 5'.\n* Lagging Strand: Its template is oriented 5' to 3'. To keep the 5' to 3' synthesis rule, it must be made in short, discontinuous segments called Okazaki fragments.\n* Direction: These fragments are synthesized away from the replication fork, waiting for enough of the fork to open before starting a new piece.\n\n### Why This Answer\nOption C is correct because it correctly identifies both the strand (Lagging) and the relative direction (Away from the fork) of Okazaki fragment synthesis.\n\n### Common Mistakes\n* Leading/Lagging Confusion: Thinking the leading strand has fragments.\n* Directional Error: Assuming all synthesis goes towards the fork. Discontinuous synthesis *must* go away from the fork to maintain the 5'->3' polarity.",
+        "keywords": {}
+    },
+    {
+        "id": 97,
+        "question_number": "9",
+        "text": "A gene whose expression helps to identify transformed cell is known as:",
+        "subject": "Biology",
+        "sub_topic": "Genetic Engineering",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Vector",
+            "Plasmid",
+            "Structural gene",
+            "Selectable marker"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 58,
+        "correct_answer": "Selectable marker",
+        "basic_answer": "Selectable markers are genes used in genetic engineering to indicate which cells have been successfully transformed with a new gene. They allow for the identification of these cells by providing a trait such as antibiotic resistance.",
+        "explanation": "### Core Concept\nIn Recombinant DNA technology, \"transformation\" is an inefficient process; only a small fraction of host cells take up the foreign DNA. A Selectable Marker is a gene included in the vector that allows researchers to distinguish and \"select\" only those successful cells.\n\n### Solution Approach\n\n* Mechanism: Most common markers are antibiotic resistance genes (like *ampR* for Ampicillin). \n* The Process: Host cells are grown on a medium containing the antibiotic. Only the cells that took up the plasmid (transformed cells) will survive, while non-transformed cells die.\n* Alternative: Blue-white screening (Insertional inactivation) is another way to use markers.\n\n### Why This Answer\nBy definition, a Selectable Marker is the tool used to identify and eliminate non-transformants. A vector is the vehicle, a plasmid is a type of vector, and a structural gene is the actual trait we want to produce (e.g., Insulin).\n\n### Common Mistakes\n* Confusing Vector and Marker: Thinking the marker *is* the plasmid. The marker is just one specific gene *on* the plasmid.\n* Structural Gene error: Thinking the gene we are interested in (structural gene) is what helps us find the cell. Usually, we can't easily \"see\" if a cell is making insulin, so we use the antibiotic resistance instead.",
+        "keywords": {}
+    },
+    {
+        "id": 98,
+        "question_number": "10",
+        "text": "Which of the following RNA should be most abundant in animal cell?",
+        "subject": "Biology",
+        "sub_topic": "Molecular Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "t-RNA",
+            "m-RNA",
+            "mi-RNA",
+            "r-RNA"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 59,
+        "correct_answer": "r-RNA",
+        "basic_answer": "rRNA plays a crucial role in the formation of ribosomes, which are essential for protein synthesis in all cells. It is typically the most abundant type of RNA in animal cells compared to mRNA, tRNA, and miRNA. \n\nHence, rRNA is the most abundant in animal cells.",
+        "explanation": "### Core Concept\nCells contain various types of RNA, each with a different role and stability. Their abundance is generally proportional to the number of cellular structures they comprise.\n\n### Solution Approach\n[Image showing comparison of mRNA, tRNA, and rRNA abundance and structure]\n* rRNA (Ribosomal RNA): Makes up about 80% of total cellular RNA. It forms the structural and catalytic core of ribosomes, which are present in thousands per cell.\n* tRNA (Transfer RNA): Makes up about 15%. It acts as the adapter molecule for translation.\n* mRNA (Messenger RNA): Makes up only 2-5%. It is highly unstable and is degraded quickly after its message is read.\n\n### Why This Answer\nBecause ribosomes are the most numerous \"factories\" in the cell and each ribosome is mostly made of RNA, rRNA is numerically and by mass the most abundant type of RNA in any active animal cell.\n\n### Common Mistakes\n* mRNA Misconception: Thinking mRNA is most abundant because it codes for proteins. While it is diverse, any single mRNA is present in very few copies compared to the thousands of rRNA molecules.\n* tRNA Error: Thinking tRNA is most abundant because it is small and common in the cytoplasm.",
+        "keywords": {}
+    },
+    {
+        "id": 99,
+        "question_number": "1",
+        "text": "GnRH, a hypothalamic hormone, needed in reproduction, acts on:",
+        "subject": "Biology",
+        "sub_topic": "Reproductive Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 7,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Anterior pituitary gland and stimulates secretion of LH and FSH.",
+            "Posterior pituitary gland and stimulates secretion of oxytocin and FSH.",
+            "Posterior pituitary gland and stimulates secretion of LH and relaxin.",
+            "Anterior pituitary gland and stimulates secretion of LH and oxytocin."
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 7,
+            "type": "MCQ"
+        },
+        "original_id": 60,
+        "correct_answer": "Anterior pituitary gland and stimulates secretion of LH and FSH.",
+        "basic_answer": "GnRH (Gonadotropin-Releasing Hormone) stimulates the anterior pituitary gland to release Luteinizing Hormone (LH) and Follicle-Stimulating Hormone (FSH). This release is essential for reproductive functions in both males and females. \n\nHence the answer is A.",
+        "explanation": "### Core Concept\nThe Hypothalamic-Pituitary-Gonadal (HPG) axis is the main control system for human reproduction. It starts with the Hypothalamus releasing GnRH (Gonadotropin-Releasing Hormone).\n\n### Solution Approach\n\n* Target Organ: GnRH travels through the portal circulatory system to the Anterior Pituitary gland (Adenohypophysis).\n* Hormonal Response: Upon binding, it stimulates specialized cells (gonadotrophs) to secrete the two gonadotropins: LH (Luteinizing Hormone) and FSH (Follicle-Stimulating Hormone).\n* Posterior Pituitary: This gland only stores and releases Oxytocin and Vasopressin; it is not the target of GnRH.\n\n### Why This Answer\nOption A correctly identifies the target gland (Anterior Pituitary) and the correct resulting hormones (LH and FSH). Other options incorrectly involve the posterior pituitary or hormones like Oxytocin and Relaxin, which have different regulatory triggers.\n\n### Common Mistakes\n* Confusing Pituitary Lobes: Mixing up the anterior (hormone producing) and posterior (hormone storing) lobes.\n* Incorrect Hormone Pairing: Thinking GnRH triggers Oxytocin, which is actually triggered by mechanical stretch or nursing signals.",
+        "keywords": {}
+    }
+]

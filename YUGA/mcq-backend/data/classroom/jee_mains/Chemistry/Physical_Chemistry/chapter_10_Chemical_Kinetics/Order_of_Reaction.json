@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Chemical Kinetics",
+    "chapter_number": 10,
+    "topic": "Order of Reaction",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:10:34.915027",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about the order of reaction in Chemistry. This is an important topic in Chemical Kinetics. Let's start by understanding what the order of a reaction means. \n\nThe order of a reaction tells us how the rate of reaction depends on the concentration of reactants. If the concentration changes, the rate changes too. The order can be zero, first, second, or even fractional. \n\nTo find the order, we look at the rate law. The rate law is an equation that shows the relationship between the rate of reaction and the concentration of reactants. It looks like this: Rate = k[A]^m[B]^n. Here, k is the rate constant, [A] and [B] are concentrations, and m and n are the orders with respect to A and B. \n\nNow, let's discuss zero-order reactions. In a zero-order reaction, the rate is constant and does not depend on the concentration of reactants. The rate law is Rate = k. A common example is the decomposition of ammonia on a platinum surface. \n\nNext, we have first-order reactions. Here, the rate depends linearly on the concentration of one reactant. The rate law is Rate = k[A]. A classic example is the radioactive decay of nuclei. \n\nFor second-order reactions, the rate depends on the square of the concentration of one reactant or the product of two reactant concentrations. The rate law is Rate = k[A]^2 or Rate = k[A][B]. An example is the reaction between hydrogen and iodine to form hydrogen iodide. \n\nThe units of the rate constant k change with the order. For zero order, k has units of mol/L/s. For first order, the units are 1/s. For second order, the units are L/mol/s. Remember these units, as they can help you identify the order in problems. \n\nGraphical methods are useful to determine the order of reactions. For zero-order reactions, a plot of concentration vs. time is a straight line. For first-order reactions, a plot of ln(concentration) vs. time is a straight line. For second-order reactions, a plot of 1/concentration vs. time is a straight line. \n\nWe also have pseudo order reactions. These are reactions that appear to be of a different order due to excess concentration of one reactant. For example, in hydrolysis of esters in water, water is in excess, making it appear first order. \n\nComplex reactions can have more than one step. The slowest step determines the overall order. This is called the rate-determining step. \n\nTo experimentally determine the order, we can use the method of initial rates. By changing the concentration of one reactant and keeping others constant, we can see how the rate changes. This helps us find the order. \n\nA catalyst speeds up a reaction but does not change the order. It lowers the activation energy, making the reaction faster. \n\nLet's quickly go over some common mistakes. Sometimes, students forget to check units of k to find the order. Also, be careful with graphs; remember which graph corresponds to which order. \n\nIn summary, the order of a reaction is key to understanding how reactions proceed. Remember the formulas and units, and practice problems to avoid mistakes. \n\nThank you! Keep practicing, and you will do well in your exams.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Order of Reaction",
+    "Rate Constant",
+    "Zero Order",
+    "First Order",
+    "Second Order"
+  ],
+  "formulas": [
+    {
+      "formula": "Rate = k[A]^m[B]^n",
+      "description": "General rate law formula used to find the order of reaction"
+    },
+    {
+      "formula": "Rate = k",
+      "description": "Rate law for zero-order reactions where rate is constant"
+    },
+    {
+      "formula": "Rate = k[A]",
+      "description": "Rate law for first-order reactions where rate depends on one reactant"
+    },
+    {
+      "formula": "Rate = k[A]^2 or Rate = k[A][B]",
+      "description": "Rate law for second-order reactions with one or two reactants"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Order of Reaction",
+      "definition": "The power to which the concentration of a reactant is raised in the rate law"
+    },
+    {
+      "term": "Rate Constant (k)",
+      "definition": "A constant that links the rate of reaction to the concentrations of reactants"
+    },
+    {
+      "term": "Pseudo Order Reaction",
+      "definition": "A reaction that appears to have a different order due to excess concentration of a reactant"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Units and Measurements",
+    "chapter_number": 2,
+    "topic": "Dimensions of Physical Quantities",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:48:47.092275",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about dimensions in physics. This is a very important topic for the NEET exam. Let's start with the basics.\n\nEvery physical quantity has a dimension. Dimensions tell us what a quantity is made of. For example, length is measured in meters. Time is measured in seconds. These are dimensions.\n\nNow, let's talk about dimensional formulae. A dimensional formula shows the powers of basic quantities like mass, length, and time. For example, the dimensional formula of velocity is [M^0 L^1 T^-1]. This means velocity depends on length and time, but not mass.\n\nDimensional equations use these formulae to show relationships. For example, in the equation for force, F = ma, the dimensional equation is [M^1 L^1 T^-2].\n\nNext, let's discuss applications of dimensional analysis. This method can help us check if an equation is correct. If all terms in an equation have the same dimensions, the equation is dimensionally consistent.\n\nFor example, consider the equation s = ut + 1/2 at^2. Check each term: s is [L], ut is [L], and 1/2 at^2 is also [L]. All terms have the same dimension, so the equation is consistent.\n\nDimensional analysis also helps us derive relations among quantities. If you know the dimensions of a few quantities, you can find the dimensions of others.\n\nBut remember, dimensional analysis has limitations. It can't tell you the exact value of constants. For example, it can't find the value of 1/2 in the equation s = ut + 1/2 at^2.\n\nA common mistake is thinking dimensional analysis can solve all problems. It can't. It only checks if your equations make sense dimensionally.\n\nKey points to remember: Use dimensions to check consistency. Know the limitations. Practice with examples.\n\nIn summary, dimensions help us understand and check equations. They are a powerful tool but not perfect. Keep practicing, and you'll do well in NEET!\n\nThat's all for today. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Dimensional Formula",
+    "Dimensional Equation",
+    "Dimensional Consistency",
+    "Physical Quantities",
+    "NEET"
+  ],
+  "formulas": [
+    {
+      "formula": "Velocity = [M^0 L^1 T^-1]",
+      "description": "Dimensional formula for velocity showing dependence on length and time"
+    },
+    {
+      "formula": "Force = [M^1 L^1 T^-2]",
+      "description": "Dimensional formula for force derived from F = ma"
+    },
+    {
+      "formula": "s = ut + 1/2 at^2",
+      "description": "Equation for displacement with dimensional consistency check"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Dimensional Formula",
+      "definition": "A representation of a physical quantity in terms of basic dimensions like mass, length, and time"
+    },
+    {
+      "term": "Dimensional Equation",
+      "definition": "An equation that uses dimensional formulae to show the relationship between different physical quantities"
+    },
+    {
+      "term": "Dimensional Consistency",
+      "definition": "A condition where all terms in a physical equation have the same dimensions"
+    }
+  ]
+}

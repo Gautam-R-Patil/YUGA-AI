@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Atoms and Nuclei",
+    "chapter_number": 18,
+    "topic": "Atomic Spectra",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:01:48.573113",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about atomic spectra. This topic is important for JEE Main. It helps us understand how atoms give off light. Let's start with some basic ideas.\n\nAtoms can emit or absorb light. This light is called a spectrum. When atoms emit light, it's an emission spectrum. When atoms absorb light, it's an absorption spectrum. Think of a rainbow. It is a spectrum of sunlight.\n\nNow, let's talk about the Balmer series. This series is part of the emission spectrum of hydrogen. It shows lines in the visible light range. Johann Balmer found this series. He used a formula to calculate the wavelengths of these lines.\n\nThe formula for the Balmer series is 1/λ = R(1/2^2 - 1/n^2). Here, λ is the wavelength, R is the Rydberg constant (1.097 x 10^7 m^-1), and n is an integer greater than 2. In JEE Main, you may need to find the wavelength of a line in the Balmer series.\n\nLet's do a quick example. If n = 3, what is the wavelength of the line? First, plug n = 3 into the formula: 1/λ = R(1/2^2 - 1/3^2). Solve it step by step to find λ.\n\nNext, we have the Lyman series. This series is also for hydrogen. It shows lines in the ultraviolet range. The formula is similar: 1/λ = R(1/1^2 - 1/n^2). Here, n is an integer greater than 1.\n\nFor example, if n = 2, find the wavelength in the Lyman series. Use the formula: 1/λ = R(1/1^2 - 1/2^2). Calculate λ to get the answer.\n\nRemember, in JEE Main, calculation mistakes are common. Always check your steps. Make sure you use the correct n value.\n\nSpectral line calculations are important. They help us understand the energy levels in atoms. When an electron moves between levels, it emits or absorbs light. This light forms a spectral line.\n\nIn spectroscopy, we use these lines to study substances. For example, astronomers use them to learn about stars. They look at the light from stars to know what elements are present.\n\nLet's summarize. We learned about emission and absorption spectra. We covered the Balmer and Lyman series. We did spectral line calculations. And we saw applications in spectroscopy.\n\nKey points to remember: Use the formulas correctly. Check your calculations. Understand how spectra relate to energy levels.\n\nThat's all for today's lesson. Keep practicing to master these concepts. Good luck with your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Emission Spectrum",
+    "Absorption Spectrum",
+    "Balmer Series",
+    "Lyman Series",
+    "Spectroscopy"
+  ],
+  "formulas": [
+    {
+      "formula": "1/λ = R(1/2^2 - 1/n^2)",
+      "description": "Used to calculate wavelengths in the Balmer series for hydrogen emission spectrum"
+    },
+    {
+      "formula": "1/λ = R(1/1^2 - 1/n^2)",
+      "description": "Used to calculate wavelengths in the Lyman series for hydrogen emission spectrum"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Emission Spectrum",
+      "definition": "The spectrum of light released by atoms when electrons fall to lower energy levels"
+    },
+    {
+      "term": "Absorption Spectrum",
+      "definition": "The spectrum of light absorbed by atoms when electrons move to higher energy levels"
+    },
+    {
+      "term": "Balmer Series",
+      "definition": "A series of lines in the visible spectrum of hydrogen due to electron transitions to n=2"
+    },
+    {
+      "term": "Lyman Series",
+      "definition": "A series of lines in the ultraviolet spectrum of hydrogen due to electron transitions to n=1"
+    }
+  ]
+}

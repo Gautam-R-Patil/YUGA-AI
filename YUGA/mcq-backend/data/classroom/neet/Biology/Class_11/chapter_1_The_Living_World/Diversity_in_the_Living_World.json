@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "The Living World",
+    "chapter_number": 1,
+    "topic": "Diversity in the Living World",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:30:28.840459",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the diversity in the living world. This is an important topic for NEET and helps us understand the variety of life on Earth. \n\nLet's start with biodiversity. Biodiversity means the different kinds of living things in an area. It includes plants, animals, and even tiny organisms. Biodiversity is important because it helps keep ecosystems stable. If one species disappears, it can affect many others. \n\nNow, let's look at some examples of diverse organisms. First, we have bacteria. Bacteria are tiny living things that we cannot see without a microscope. They are everywhere, in the air, soil, and even inside our bodies. Next, we have fungi. Fungi include mushrooms and molds. They help break down dead plants and animals. Then, we have algae. Algae are simple plants that live in water. They make their food using sunlight. \n\nMoving on, we have bryophytes. Bryophytes are small plants like mosses. They do not have flowers or seeds. Pteridophytes are plants like ferns. They have leaves and stems but no flowers or seeds. Gymnosperms are plants that have seeds but no flowers, like pine trees. Finally, angiosperms are flowering plants. They are the most common plants on Earth. \n\nBiodiversity has three levels. First is genetic diversity. This means differences in genes within a species. For example, dogs have different breeds with different traits. Next is species diversity. This is the variety of different species in an area. Finally, ecosystem diversity. This is the variety of ecosystems, like forests, deserts, and oceans. \n\nWhy is biodiversity important? It helps ecosystems stay balanced. More biodiversity means more stability. If one species is lost, others can fill its role. This keeps the ecosystem healthy. \n\nHowever, biodiversity is under threat. Human activities like deforestation and pollution harm ecosystems. Climate change also affects biodiversity. We need to take conservation measures. This means protecting habitats and endangered species. \n\nA common mistake is thinking all plants are the same. Remember, there are many types like bryophytes, pteridophytes, gymnosperms, and angiosperms. Each has unique features. \n\nLet's summarize. Biodiversity is the variety of life. It is important for ecosystem stability. We saw examples like bacteria, fungi, and plants. There are three levels of biodiversity: genetic, species, and ecosystem. Threats like deforestation harm biodiversity, so conservation is important. \n\nKeep these points in mind for your NEET exams. Understanding biodiversity helps us appreciate the living world around us. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Biodiversity",
+    "Ecosystem",
+    "Species Diversity",
+    "Conservation",
+    "Deforestation"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Biodiversity",
+      "definition": "The variety of living things in an area."
+    },
+    {
+      "term": "Genetic Diversity",
+      "definition": "Differences in genes within a species."
+    },
+    {
+      "term": "Species Diversity",
+      "definition": "The variety of different species in an area."
+    },
+    {
+      "term": "Ecosystem Diversity",
+      "definition": "The variety of ecosystems in an area."
+    }
+  ]
+}

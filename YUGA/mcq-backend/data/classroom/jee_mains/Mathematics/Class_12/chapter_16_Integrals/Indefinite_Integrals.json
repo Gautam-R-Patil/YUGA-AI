@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Integrals",
+    "chapter_number": 16,
+    "topic": "Indefinite Integrals",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:59:01.794064",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Indefinite Integrals. This is an important topic in calculus for JEE Main. Let's begin by understanding what an indefinite integral is. An indefinite integral is the reverse process of differentiation. It helps us find the original function when we know its derivative. \n\nFirst, let's talk about the definition and properties. The indefinite integral of a function f(x) is written as ∫f(x)dx. It gives us a family of functions. Why a family? Because when we integrate, we add a constant 'C'. This is because the derivative of a constant is zero. So, ∫f(x)dx = F(x) + C, where F(x) is the antiderivative of f(x).\n\nNext, let's see how integration is the inverse of differentiation. If you differentiate a function and then integrate the result, you get back the original function. For example, if F'(x) = f(x), then ∫f(x)dx = F(x) + C. This is a key concept for solving problems in JEE Main.\n\nNow, let's look at some standard integrals. These are formulas you should remember:\n1. ∫x^n dx = (x^(n+1))/(n+1) + C, where n ≠ -1.\n2. ∫e^x dx = e^x + C.\n3. ∫1/x dx = ln|x| + C.\n4. ∫cos(x) dx = sin(x) + C.\n5. ∫sin(x) dx = -cos(x) + C.\nThese formulas are often used in JEE Main questions.\n\nLet's move to integration by substitution. This method is useful when the integral is complex. We use a substitution to simplify it. For example, for ∫2x * e^(x^2) dx, let u = x^2. Then, du = 2x dx. The integral becomes ∫e^u du, which is easier to solve.\n\nAnother method is integration by parts. This is useful when you have a product of two functions. The formula is ∫u dv = uv - ∫v du. Choose u and dv wisely. A common mistake is choosing them incorrectly. For example, for ∫x * e^x dx, let u = x and dv = e^x dx.\n\nIntegration of trigonometric functions is also important. Remember these:\n1. ∫sec^2(x) dx = tan(x) + C.\n2. ∫cosec^2(x) dx = -cot(x) + C.\n3. ∫sec(x)tan(x) dx = sec(x) + C.\n\nNow, let's discuss integration of exponential and logarithmic functions. These functions often appear in JEE Main. Remember, ∫a^x dx = (a^x)/(ln a) + C and ∫ln(x) dx = x ln(x) - x + C.\n\nCommon mistakes in JEE Main include missing the constant of integration 'C' and incorrect substitution. Always check your work. \n\nKey takeaways: Understand the inverse nature of integration, memorize standard formulas, and practice substitution and parts. This will help you in exams.\n\nIn summary, indefinite integrals are about finding original functions from derivatives. Practice these concepts and formulas. They are vital for JEE Main success. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Indefinite Integral",
+    "Differentiation",
+    "Substitution",
+    "Integration by Parts",
+    "Trigonometric Functions"
+  ],
+  "formulas": [
+    {
+      "formula": "∫x^n dx = (x^(n+1))/(n+1) + C",
+      "description": "Used when integrating powers of x, except when n = -1"
+    },
+    {
+      "formula": "∫e^x dx = e^x + C",
+      "description": "Used for integrating the exponential function e^x"
+    },
+    {
+      "formula": "∫1/x dx = ln|x| + C",
+      "description": "Used for integrating 1/x, the natural logarithm function"
+    },
+    {
+      "formula": "∫u dv = uv - ∫v du",
+      "description": "Integration by parts, used for products of functions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Indefinite Integral",
+      "definition": "The reverse process of differentiation, giving a family of functions"
+    },
+    {
+      "term": "Antiderivative",
+      "definition": "The original function from which a derivative is taken"
+    }
+  ]
+}

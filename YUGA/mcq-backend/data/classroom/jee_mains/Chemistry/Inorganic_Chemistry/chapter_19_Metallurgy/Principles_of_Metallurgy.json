@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Metallurgy",
+    "chapter_number": 19,
+    "topic": "Principles of Metallurgy",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:21:01.879892",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Metallurgy. This is an important chapter in Chemistry for JEE Main. Let's start with the basics.\n\nFirst, we have the Occurrence of Metals. Metals are found in the earth's crust. They are often combined with other elements. These are called ores. For example, iron is found as hematite (Fe2O3).\n\nNext, we move to the Concentration of Ores. This means separating the metal from unwanted materials. We use methods like gravity separation and magnetic separation. For example, we use a magnet to separate iron ore from sand.\n\nNow, let's talk about Hydrometallurgy. This process uses water to extract metals. We dissolve the ore in a liquid. Then, we use chemicals to get the metal out. An example is extracting gold using cyanide.\n\nPyrometallurgy is another method. It involves high temperatures to extract metals. We use this for metals like copper. The ore is heated in a furnace to get the metal.\n\nElectrometallurgy uses electricity to extract metals. An important example is extracting aluminum. We pass electricity through molten aluminum oxide to get aluminum.\n\nEllingham Diagrams help us understand which metals can be extracted by reduction. They show the temperature at which a metal oxide can be reduced. This is important for choosing the right method.\n\nThermodynamics of Reduction involves energy changes. We use Gibbs free energy (∆G) to decide if a reaction will happen. If ∆G is negative, the reaction can occur.\n\nNow, let's discuss the Extraction of Reactive Metals. These metals are very reactive, like sodium and potassium. We use electrolysis to extract them. This is because they cannot be extracted by heating.\n\nLet's look at some common mistakes in JEE Main. Students often confuse between hydrometallurgy and pyrometallurgy. Remember, hydro means water and pyro means heat.\n\nFor quick revision, remember the key processes: concentration, hydrometallurgy, pyrometallurgy, and electrometallurgy. Understand each process and when to use it.\n\nIn summary, metallurgy involves extracting metals from ores. We use different methods based on the metal and its reactivity. Practice these concepts and remember the key formulas.\n\nThat's all for today. Keep practicing and you will do great in JEE Main!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Metallurgy",
+    "Ores",
+    "Hydrometallurgy",
+    "Pyrometallurgy",
+    "Electrometallurgy"
+  ],
+  "formulas": [
+    {
+      "formula": "∆G = ∆H - T∆S",
+      "description": "Used to determine if a reduction reaction is feasible in metallurgy"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ore",
+      "definition": "A naturally occurring solid material from which a metal can be extracted"
+    },
+    {
+      "term": "Hydrometallurgy",
+      "definition": "A process of extracting metals from ores using aqueous solutions"
+    },
+    {
+      "term": "Pyrometallurgy",
+      "definition": "A process of extracting metals by heating the ores at high temperatures"
+    },
+    {
+      "term": "Electrometallurgy",
+      "definition": "A process of extracting metals using electrical energy"
+    }
+  ]
+}

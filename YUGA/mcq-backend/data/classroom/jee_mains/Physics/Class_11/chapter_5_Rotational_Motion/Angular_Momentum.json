@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Rotational Motion",
+    "chapter_number": 5,
+    "topic": "Angular Momentum",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:49:18.953638",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Welcome to our lesson on Angular Momentum in Rotational Motion. First, let's recall what momentum is. Momentum is the quantity of motion an object has. Angular momentum is similar but for rotating objects.\n\n**Definition and Units:**\nAngular momentum is the rotational equivalent of linear momentum. It tells us how much rotation an object has. The unit of angular momentum is kilogram meter squared per second (kg·m²/s).\n\n**Angular Momentum of a Particle:**\nFor a single particle, angular momentum (L) is given by L = r x p, where r is the position vector from the axis of rotation to the particle, and p is the linear momentum of the particle. Remember, linear momentum (p) is mass (m) times velocity (v).\n\n**Angular Momentum of a Rigid Body:**\nFor a rigid body, angular momentum is the sum of angular momentum of all particles. It can be simplified to L = Iω, where I is the moment of inertia, and ω (omega) is the angular velocity.\n\n**Conservation of Angular Momentum:**\nAngular momentum is conserved when no external torque acts on a system. This means the total angular momentum before an event is equal to the total angular momentum after the event. If L_initial = L_final, then no external forces are acting.\n\n**Relation with Torque:**\nTorque (τ) is the rotational equivalent of force. It changes angular momentum. The relation is τ = dL/dt, where dL/dt is the rate of change of angular momentum. If torque is zero, angular momentum stays constant.\n\n**Applications in Rotating Systems:**\nAngular momentum helps us understand systems like spinning tops, wheels, and planets. For example, when a skater pulls in their arms, they spin faster. This is because their angular momentum is conserved.\n\n**Angular Momentum in Planetary Motion:**\nPlanets orbiting the sun have angular momentum. Since there's no external torque, their angular momentum is conserved. This explains why planets move faster when closer to the sun.\n\n**Precession and Gyroscopic Effects:**\nPrecession is the slow change in the direction of the axis of a spinning object. Gyroscopes use this effect to stabilize and navigate. They maintain orientation due to angular momentum.\n\n**Common Mistakes and Exam Traps:**\n1. Forgetting to use the right units. Always check units in your calculations.\n2. Mixing up linear and angular quantities. Remember, angular quantities involve rotation.\n3. Not considering external torques when applying conservation of angular momentum.\n\n**Key Takeaways:**\n- Angular momentum is conserved in the absence of external torque.\n- Angular momentum depends on the object's rotation and mass distribution.\n- It plays a crucial role in understanding rotational systems.\n\n**Summary:**\nAngular momentum is a key concept in rotational motion. It helps explain how objects rotate and how their motion is conserved. Remember the formulas and concepts, and you'll be ready for related JEE Main questions.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Angular Momentum",
+    "Torque",
+    "Conservation",
+    "Rigid Body",
+    "Precession"
+  ],
+  "formulas": [
+    {
+      "formula": "L = r x p",
+      "description": "Used to calculate angular momentum of a particle, where r is the position vector and p is linear momentum"
+    },
+    {
+      "formula": "L = Iω",
+      "description": "Used for angular momentum of a rigid body, where I is moment of inertia and ω is angular velocity"
+    },
+    {
+      "formula": "τ = dL/dt",
+      "description": "Shows the relationship between torque and rate of change of angular momentum"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Angular Momentum",
+      "definition": "A measure of the amount of rotation an object has, considering its mass distribution and rotation speed"
+    },
+    {
+      "term": "Torque",
+      "definition": "A force that causes an object to rotate around an axis"
+    },
+    {
+      "term": "Moment of Inertia",
+      "definition": "A measure of an object's resistance to changes in its rotation"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapter_number": 13,
+    "topic": "VSEPR Theory",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:14:04.525918",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about VSEPR Theory. VSEPR stands for Valence Shell Electron Pair Repulsion. This theory helps us predict the shape of molecules. Let's start with the basic principles. VSEPR Theory says that electron pairs around a central atom will stay as far apart as possible. This is because electron pairs repel each other. \n\nNow, let's discuss how we predict molecular shapes. First, we count the number of valence electrons. Then, we consider both bonding pairs and lone pairs. Bonding pairs are shared between atoms, while lone pairs are not. For example, in water (H2O), there are two bonding pairs and two lone pairs on oxygen.\n\nThe shape of a molecule depends on the number of bonding and lone pairs. For example, a molecule with two bonding pairs and no lone pairs, like BeCl2, is linear. If there are three bonding pairs and no lone pairs, like BF3, the shape is trigonal planar.\n\nLone pairs affect the shape. They take up more space than bonding pairs. This changes bond angles. For example, in NH3, there are three bonding pairs and one lone pair. The shape is trigonal pyramidal, not trigonal planar. The lone pair pushes the bonding pairs closer, reducing the bond angle.\n\nLet's compare bond angles. In CH4, the bond angle is 109.5°. In NH3, it is about 107°. In H2O, it is about 104.5°. Notice how the bond angle decreases as lone pairs increase.\n\nVSEPR Theory helps us predict molecular geometry. For example, in SF6, there are six bonding pairs and no lone pairs. The shape is octahedral. In PCl5, there are five bonding pairs, giving a trigonal bipyramidal shape.\n\nHowever, VSEPR Theory has limitations. It does not consider the size of atoms or the strength of bonds. It also does not explain certain shapes well. For example, it cannot predict the exact bond angles in complex molecules.\n\nLet's look at some examples of molecular shapes. CH4 is tetrahedral, NH3 is trigonal pyramidal, and H2O is bent. These shapes are important for JEE Main.\n\nVSEPR Theory is related to hybridization. Hybridization is mixing atomic orbitals to form new orbitals. For example, in CH4, carbon undergoes sp3 hybridization. This matches the tetrahedral shape.\n\nA common JEE Main mistake is ignoring lone pairs. Remember, lone pairs affect shape and angle. Always count them. Another mistake is confusing shapes with similar names. Trigonal planar and trigonal pyramidal are different. \n\nKey takeaways: VSEPR Theory helps predict molecular shape. Count all electron pairs. Remember, lone pairs change angles. Use this theory to guess shapes in exams.\n\nIn summary, VSEPR Theory is a simple way to understand molecular shapes. It helps in exams like JEE Main. Practice with examples to get better.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "VSEPR Theory",
+    "Molecular Shapes",
+    "Lone Pairs",
+    "Bond Angles",
+    "Hybridization"
+  ],
+  "formulas": [
+    {
+      "formula": "Bond angle = 109.5° - lone pair effect",
+      "description": "This formula is used to estimate bond angles in molecules with lone pairs, useful in predicting shapes in JEE Main."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "VSEPR Theory",
+      "definition": "A theory that predicts the shape of molecules based on electron pair repulsion."
+    },
+    {
+      "term": "Lone Pair",
+      "definition": "A pair of valence electrons not shared with another atom."
+    },
+    {
+      "term": "Hybridization",
+      "definition": "The process of mixing atomic orbitals to form new orbitals for bonding."
+    }
+  ]
+}

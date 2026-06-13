@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Optics",
+    "chapter_number": 16,
+    "topic": "Interference and Diffraction",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:00:31.720943",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Interference and Diffraction in Optics. These are important concepts for JEE Main. Let's start with Interference. Interference happens when two or more waves meet. If the waves add up to make a bigger wave, it is called Constructive Interference. If they cancel each other out, it is Destructive Interference. \n\nFor Constructive Interference, the path difference between waves is a multiple of the wavelength. The formula is: Path difference = nλ, where n is an integer. For Destructive Interference, the path difference is half a wavelength off, like Path difference = (n + 0.5)λ. \n\nNow, a quick example: If two waves have a path difference of 3λ, they interfere constructively. If the path difference is 2.5λ, they interfere destructively. \n\nNext, let's talk about Diffraction. Diffraction occurs when waves bend around an obstacle or pass through a slit. In Single-slit Diffraction, light spreads out after passing through a narrow slit. This creates a pattern of dark and bright bands on a screen. \n\nThe central bright band is the widest and brightest. The formula for the angle of the first dark band is: sinθ = λ/a, where λ is the wavelength, and a is the slit width. This tells us where the first dark spot appears. \n\nImagine light passing through a small window. The light spreads out, similar to how water waves spread when passing through a gap. \n\nDiffraction Patterns are important. They show how light behaves when it encounters obstacles. The central band is the brightest, and each side has alternating dark and bright bands. \n\nResolving Power is the ability to see two close objects as separate. It depends on the wavelength of light and the size of the aperture. The formula is: Resolving Power = λ/D, where D is the diameter of the aperture. \n\nIn JEE Main, remember these key points: Use the correct formulas for path difference in interference. For diffraction, know how to find the angle of dark bands. Be careful with units and conversions. \n\nA common mistake is mixing up the formulas for interference and diffraction. Always check if the problem is about path difference or angle calculation. \n\nKey takeaways: Understand the difference between Constructive and Destructive Interference. Know how to calculate angles in Diffraction. Practice using the formulas. \n\nIn summary, Interference and Diffraction are about wave patterns. Use the formulas we discussed to solve JEE Main problems. Good luck, and practice well!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Interference",
+    "Diffraction",
+    "Constructive",
+    "Destructive",
+    "Resolving Power"
+  ],
+  "formulas": [
+    {
+      "formula": "Path difference = nλ",
+      "description": "Used for Constructive Interference when waves add up"
+    },
+    {
+      "formula": "Path difference = (n + 0.5)λ",
+      "description": "Used for Destructive Interference when waves cancel out"
+    },
+    {
+      "formula": "sinθ = λ/a",
+      "description": "Used to find the angle of the first dark band in Single-slit Diffraction"
+    },
+    {
+      "formula": "Resolving Power = λ/D",
+      "description": "Used to determine the ability to separate two close objects"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Interference",
+      "definition": "When two or more waves meet and combine"
+    },
+    {
+      "term": "Diffraction",
+      "definition": "When waves bend around an obstacle or pass through a slit"
+    },
+    {
+      "term": "Constructive Interference",
+      "definition": "When waves add up to make a bigger wave"
+    },
+    {
+      "term": "Destructive Interference",
+      "definition": "When waves cancel each other out"
+    }
+  ]
+}

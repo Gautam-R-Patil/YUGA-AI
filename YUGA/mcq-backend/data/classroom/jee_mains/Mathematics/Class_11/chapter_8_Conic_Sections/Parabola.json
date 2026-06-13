@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Conic Sections",
+    "chapter_number": 8,
+    "topic": "Parabola",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:51:38.242494",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Parabola, a special curve in mathematics. You might have seen it in satellite dishes or car headlights. Let's start with its definition.\n\nA Parabola is a curve where any point is at an equal distance from a fixed point called the 'Focus' and a fixed straight line called the 'Directrix'. This is the basic idea of a Parabola. Remember, the Focus is a point, and the Directrix is a line.\n\nNow, let's talk about the standard form of a Parabola. The simplest equation of a Parabola is y^2 = 4ax. Here, 'a' is a constant that affects the shape of the Parabola. If 'a' is positive, the Parabola opens to the right. If 'a' is negative, it opens to the left.\n\nIn JEE Main, you will often see questions about finding the Focus and Directrix. For the equation y^2 = 4ax, the Focus is at (a, 0) and the Directrix is the line x = -a. Make sure you remember these positions.\n\nLet's do a quick check. If the equation is y^2 = 8x, what is 'a'? Here, 4a = 8, so 'a' is 2. Thus, the Focus is at (2, 0) and the Directrix is x = -2.\n\nNow, let's solve a typical JEE Main problem. Find the Focus and Directrix of the Parabola y^2 = 12x. First, compare it with y^2 = 4ax. Here, 4a = 12, so a = 3. The Focus is (3, 0) and the Directrix is x = -3. Easy, right?\n\nA common mistake is confusing the position of the Focus and Directrix. Always check if 'a' is positive or negative. This tells you the direction the Parabola opens.\n\nAnother trap is mixing up the formula with other conic sections like circles or ellipses. Always remember, for Parabolas, we use y^2 = 4ax or x^2 = 4ay.\n\nKey takeaways: Understand the basic definition of a Parabola. Remember the standard form y^2 = 4ax. Know how to find the Focus and Directrix from the equation. Practice solving problems to avoid mistakes.\n\nIn conclusion, Parabolas are important in JEE Main. They are simple if you understand the basic ideas and formulas. Keep practicing, and you will master them in no time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Parabola",
+    "Focus",
+    "Directrix",
+    "Equation",
+    "Standard form"
+  ],
+  "formulas": [
+    {
+      "formula": "y^2 = 4ax",
+      "description": "Used to find the Focus and Directrix of a Parabola in JEE Main problems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Parabola",
+      "definition": "A curve where any point is at equal distance from a fixed point (Focus) and a fixed line (Directrix)"
+    },
+    {
+      "term": "Focus",
+      "definition": "A fixed point used to define a Parabola"
+    },
+    {
+      "term": "Directrix",
+      "definition": "A fixed line used to define a Parabola"
+    }
+  ]
+}

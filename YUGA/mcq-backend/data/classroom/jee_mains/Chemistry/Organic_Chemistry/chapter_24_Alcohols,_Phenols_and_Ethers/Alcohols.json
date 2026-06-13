@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "chapter_number": 24,
+    "topic": "Alcohols",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:26:45.673076",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Alcohols in Organic Chemistry. Alcohols are important in JEE Main. They are used in many reactions and have unique properties. \n\nLet's start with Nomenclature and Classification. Alcohols have an -OH group, called a hydroxyl group. The name of an alcohol comes from the parent alkane. We replace the 'e' in alkane with 'ol'. For example, methane becomes methanol. \n\nAlcohols are classified based on the carbon atom bonded to the -OH group. If the carbon is attached to one other carbon, it's a primary alcohol. If attached to two, it's secondary. If attached to three, it's tertiary. \n\nNext, let's discuss Physical Properties. Alcohols have higher boiling points than similar alkanes. This is due to hydrogen bonding. They are also soluble in water, especially the smaller alcohols like methanol and ethanol. \n\nNow, Preparation Methods. One way to make alcohols is by Hydration of Alkenes. We add water (H2O) to an alkene. This forms an alcohol. Another method is the Reduction of Carbonyl Compounds. We reduce aldehydes or ketones using reagents like NaBH4 or LiAlH4. \n\nLet's move to Reactions. First is Dehydration. When we heat alcohols with acid, they lose water. This forms an alkene. Next is Oxidation. Primary alcohols become aldehydes or carboxylic acids. Secondary alcohols become ketones. Remember, tertiary alcohols do not oxidize easily. \n\nAnother reaction is Esterification. Alcohols react with acids to form esters and water. This is an important reaction in organic synthesis. \n\nIn JEE Main, be careful with Reactivity and Mechanism. Alcohols can act as nucleophiles or electrophiles. Knowing the mechanism helps in solving problems. \n\nDistinction Tests are also important. The Lucas Test helps distinguish primary, secondary, and tertiary alcohols. Tertiary alcohols react fast, secondary slow, and primary very slow. The Victor Meyer Test also distinguishes them based on color changes. \n\nPolyhydric Alcohols have more than one -OH group. Examples are ethylene glycol and glycerol. They have higher boiling points and are more soluble in water. \n\nFinally, Applications and Uses. Alcohols are used as solvents, fuels, and in making perfumes and medicines. \n\nCommon mistakes in JEE Main include confusing primary and secondary alcohols. Also, remember the conditions for each reaction. \n\nKey takeaways: Know the nomenclature, classification, and reactions of alcohols. Understand the preparation methods and tests. \n\nIn summary, alcohols are versatile compounds. They have many reactions and uses. Practice problems to master this topic.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Alcohols",
+    "Nomenclature",
+    "Hydration",
+    "Dehydration",
+    "Esterification"
+  ],
+  "formulas": [
+    {
+      "formula": "Alcohol + Acid → Ester + Water",
+      "description": "This formula is used in esterification reactions in JEE Main."
+    },
+    {
+      "formula": "Alkene + H2O → Alcohol",
+      "description": "This formula is used in the hydration of alkenes to form alcohols."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alcohol",
+      "definition": "An organic compound with a hydroxyl (-OH) group attached to a carbon atom."
+    },
+    {
+      "term": "Hydrogen Bonding",
+      "definition": "A type of attraction between molecules, causing higher boiling points in alcohols."
+    },
+    {
+      "term": "Esterification",
+      "definition": "A chemical reaction where an alcohol and an acid form an ester and water."
+    }
+  ]
+}

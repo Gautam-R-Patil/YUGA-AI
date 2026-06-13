@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Molecular Basis of Inheritance",
+    "chapter_number": 6,
+    "topic": "Transcription and Translation",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:41:37.826334",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the molecular basis of inheritance. This is an important topic for NEET. Let's start with the central dogma of molecular biology. It is a simple idea. DNA makes RNA, and RNA makes protein. This flow of information is key to life.\n\nNow, let's talk about transcription. Transcription is the process of making RNA from DNA. In prokaryotes, like bacteria, this happens in the cytoplasm. In eukaryotes, like humans, it happens in the nucleus. The enzyme RNA polymerase helps in this process. It reads the DNA and makes a copy called mRNA.\n\nAfter transcription, RNA processing happens in eukaryotes. This includes splicing, capping, and polyadenylation. Splicing removes extra parts from RNA. Capping adds a special cap to one end. Polyadenylation adds a tail to the other end. These steps make RNA ready for the next stage.\n\nNext, let's discuss the genetic code. It is like a language. Each set of three bases in mRNA is called a codon. Each codon codes for one amino acid. Amino acids are the building blocks of proteins. There are 64 codons but only 20 amino acids. Some codons code for the same amino acid. This makes the code redundant but safe.\n\nLet's move to translation. Translation is the process of making protein from mRNA. It happens in the ribosome. A ribosome is like a factory for proteins. Translation has three steps: initiation, elongation, and termination. In initiation, the ribosome binds to mRNA. In elongation, tRNA brings amino acids to the ribosome. In termination, the ribosome stops when it reads a stop codon.\n\nAfter translation, proteins may undergo post-translational modifications. This means changes are made to the protein after it is made. These changes help the protein work properly.\n\nLet's remember some key terms. mRNA is the messenger RNA. It carries the code from DNA. tRNA is transfer RNA. It brings amino acids to the ribosome. rRNA is ribosomal RNA. It is part of the ribosome.\n\nHere are some common mistakes. Students often confuse transcription and translation. Remember, transcription makes RNA. Translation makes protein. Also, prokaryotic transcription is simpler than eukaryotic transcription. In eukaryotes, RNA needs processing.\n\nTo sum up, the central dogma shows how genetic information flows. Transcription and translation are key processes. Understanding these processes is crucial for NEET.\n\nThank you for listening. Keep practicing and good luck with your studies!",
+  "duration_minutes": 7,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Central Dogma",
+    "Transcription",
+    "RNA Processing",
+    "Genetic Code",
+    "Translation"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Central Dogma",
+      "definition": "The flow of genetic information from DNA to RNA to Protein."
+    },
+    {
+      "term": "Transcription",
+      "definition": "The process of making RNA from DNA."
+    },
+    {
+      "term": "Translation",
+      "definition": "The process of making protein from mRNA."
+    },
+    {
+      "term": "Codon",
+      "definition": "A set of three bases in mRNA that codes for an amino acid."
+    }
+  ]
+}

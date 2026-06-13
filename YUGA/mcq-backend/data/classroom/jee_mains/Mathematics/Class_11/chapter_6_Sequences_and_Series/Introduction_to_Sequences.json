@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Sequences and Series",
+    "chapter_number": 6,
+    "topic": "Introduction to Sequences",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:48:52.475413",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about sequences. This is an important topic in mathematics. It is also important for JEE Main. Let's start with the basics. \n\nA sequence is a list of numbers in a specific order. Each number in this list is called a term. For example, in the sequence 2, 4, 6, 8, ..., each number is a term. Here, 2 is the first term, 4 is the second term, and so on. \n\nNow, let's talk about types of sequences. There are two main types: arithmetic sequences and geometric sequences. An arithmetic sequence is when the difference between consecutive terms is the same. For example, in 2, 4, 6, 8, ..., the difference is 2. \n\nThe formula for the nth term of an arithmetic sequence is: a_n = a + (n-1)d. Here, a is the first term, n is the term number, and d is the common difference. This formula helps us find any term in the sequence. \n\nA geometric sequence is when each term is a fixed multiple of the previous term. For example, in 3, 6, 12, 24, ..., each term is multiplied by 2. The formula for the nth term of a geometric sequence is: a_n = a * r^(n-1). Here, a is the first term, r is the common ratio, and n is the term number. \n\nNext, let's discuss finite and infinite sequences. A finite sequence has a limited number of terms. For example, 1, 2, 3, 4 is finite. An infinite sequence goes on forever, like 1, 2, 3, 4, ... \n\nIn JEE Main, you often need to find the sum of a sequence. For an arithmetic sequence, the sum of the first n terms is given by: S_n = n/2 * (2a + (n-1)d). For a geometric sequence, the sum of the first n terms is: S_n = a * (1 - r^n) / (1 - r), if r ≠ 1. \n\nLet's look at a quick example. Find the 5th term of the sequence 3, 6, 9, ... This is an arithmetic sequence with a = 3 and d = 3. Using the formula a_n = a + (n-1)d, we get a_5 = 3 + (5-1) * 3 = 15. \n\nCommon mistakes in JEE Main include forgetting to use the correct formula or mixing up arithmetic and geometric sequences. Always check the type of sequence first. \n\nKey takeaways: Understand the difference between arithmetic and geometric sequences. Use the correct formulas for nth terms and sums. Practice with examples to avoid mistakes. \n\nIn summary, sequences are ordered lists of numbers. Know the types and how to find terms and sums. Practice is key for mastering this topic for JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Sequence",
+    "Arithmetic",
+    "Geometric",
+    "Finite",
+    "Infinite"
+  ],
+  "formulas": [
+    {
+      "formula": "a_n = a + (n-1)d",
+      "description": "Used to find the nth term of an arithmetic sequence"
+    },
+    {
+      "formula": "a_n = a * r^(n-1)",
+      "description": "Used to find the nth term of a geometric sequence"
+    },
+    {
+      "formula": "S_n = n/2 * (2a + (n-1)d)",
+      "description": "Used to find the sum of the first n terms of an arithmetic sequence"
+    },
+    {
+      "formula": "S_n = a * (1 - r^n) / (1 - r)",
+      "description": "Used to find the sum of the first n terms of a geometric sequence when r ≠ 1"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Sequence",
+      "definition": "A list of numbers in a specific order"
+    },
+    {
+      "term": "Arithmetic Sequence",
+      "definition": "A sequence where the difference between consecutive terms is the same"
+    },
+    {
+      "term": "Geometric Sequence",
+      "definition": "A sequence where each term is a fixed multiple of the previous term"
+    },
+    {
+      "term": "Finite Sequence",
+      "definition": "A sequence with a limited number of terms"
+    },
+    {
+      "term": "Infinite Sequence",
+      "definition": "A sequence that continues without end"
+    }
+  ]
+}

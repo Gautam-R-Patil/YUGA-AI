@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Animal Kingdom",
+    "chapter_number": 4,
+    "topic": "Basis of Classification",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:35:43.243520",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about how animals are classified. Classification helps us understand the diversity of animals. Let's begin with the criteria for classification. \n\nFirst, we have symmetry. Symmetry means how an animal's body is arranged. There are two main types: radial and bilateral. Radial symmetry means the body is arranged around a central point, like a wheel. A jellyfish is an example. Bilateral symmetry means the body has a left and right side that are mirror images. Humans are an example of this.\n\nNext, let's talk about body cavities. A body cavity is a space inside the body where organs develop. There are three types: acoelomate, pseudocoelomate, and coelomate. Acoelomates have no body cavity. Flatworms are an example. Pseudocoelomates have a simple body cavity. Roundworms are an example. Coelomates have a true body cavity. Humans and earthworms are examples.\n\nNow, let's discuss segmentation. Segmentation means the body is divided into repeated parts. This is important in evolution because it allows for specialization. Earthworms have segmented bodies. This helps them move and survive in different environments.\n\nClassification is important because it helps us understand animal diversity. By grouping animals, we can study their similarities and differences. This helps us learn more about life on Earth.\n\nRemember, symmetry, body cavities, and segmentation are key to classifying animals. These concepts often appear in NEET exams, so make sure you understand them well.\n\nIn summary, classification is a tool to organize animals based on their features. Understanding these features helps us appreciate the variety of life forms. Keep practicing, and you'll do great in your exams!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Animal Classification",
+    "Symmetry",
+    "Body Cavity",
+    "Segmentation",
+    "Evolution"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Symmetry",
+      "definition": "The arrangement of body parts in a balanced way."
+    },
+    {
+      "term": "Radial Symmetry",
+      "definition": "Body parts arranged around a central point."
+    },
+    {
+      "term": "Bilateral Symmetry",
+      "definition": "Body has left and right sides that are mirror images."
+    },
+    {
+      "term": "Acoelomate",
+      "definition": "An animal with no body cavity."
+    },
+    {
+      "term": "Pseudocoelomate",
+      "definition": "An animal with a simple body cavity."
+    },
+    {
+      "term": "Coelomate",
+      "definition": "An animal with a true body cavity."
+    },
+    {
+      "term": "Segmentation",
+      "definition": "Division of the body into repeated parts."
+    }
+  ]
+}

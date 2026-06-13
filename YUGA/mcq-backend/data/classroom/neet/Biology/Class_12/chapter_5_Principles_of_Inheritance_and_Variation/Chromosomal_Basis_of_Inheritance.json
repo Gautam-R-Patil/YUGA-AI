@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Principles of Inheritance and Variation",
+    "chapter_number": 5,
+    "topic": "Chromosomal Basis of Inheritance",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:41:00.045219",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Chromosomal Basis of Inheritance. This is an important topic for your NEET exams. Let's start with the Chromosome Theory of Inheritance. This theory says that genes are located on chromosomes. Chromosomes are like threads in the cell. They carry genetic information. \n\nNow, let's talk about Linkage and Recombination. Linkage means some genes are close together on the same chromosome. They often get inherited together. Recombination is when genes mix during reproduction. This creates new combinations of traits. \n\nNext, we have Sex Determination. In humans, sex is decided by XX-XY chromosomes. XX means female and XY means male. Birds use ZZ-ZW. ZZ is male and ZW is female. In some insects, like bees, sex is decided by haplo-diploidy. Males have one set of chromosomes, and females have two sets. \n\nLet's discuss Sex-linked Inheritance. Some traits are linked to sex chromosomes. Hemophilia and color blindness are examples. They are more common in males because they have only one X chromosome. \n\nNow, Genetic Disorders. Down syndrome happens when there is an extra chromosome 21. Klinefelter syndrome occurs in males with an extra X chromosome (XXY). Turner syndrome is in females with only one X chromosome (XO). \n\nPedigree Analysis helps us track traits in families. It shows how traits pass from one generation to another. \n\nKey terms to remember: Linkage group is a set of genes on the same chromosome. Crossing over is when chromosomes exchange parts. Autosomes are non-sex chromosomes. Sex chromosomes decide the sex. \n\nImportant diagrams include the human karyotype, which shows all chromosomes in a cell. A pedigree chart helps us understand inheritance patterns. \n\nRemember, chromosomal abnormalities can lead to disorders. Always check the number and structure of chromosomes. \n\nIn summary, chromosomes are crucial for inheritance. Understanding how they work helps us know how traits pass on. Keep practicing these concepts for NEET exams. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Chromosome Theory",
+    "Linkage",
+    "Recombination",
+    "Sex Determination",
+    "Genetic Disorders"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Chromosome",
+      "definition": "A thread-like structure in cells that carries genetic information."
+    },
+    {
+      "term": "Linkage",
+      "definition": "The tendency of genes located close together on a chromosome to be inherited together."
+    },
+    {
+      "term": "Recombination",
+      "definition": "The process by which genetic material is rearranged during reproduction, creating new combinations."
+    },
+    {
+      "term": "Autosomes",
+      "definition": "Chromosomes that are not sex chromosomes."
+    },
+    {
+      "term": "Sex Chromosomes",
+      "definition": "Chromosomes that determine the sex of an individual."
+    }
+  ]
+}

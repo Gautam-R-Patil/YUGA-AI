@@ -1,0 +1,325 @@
+[
+    {
+        "id": 50,
+        "question_number": "3",
+        "text": "Good vision depends on adequate intake of carotene rich food. Which of the following statements best explains this dependence?",
+        "subject": "Biology",
+        "sub_topic": "Human Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Vitamin A derivatives are formed from carotene",
+            "The photopigments are embedded in the membrane discs of the inner segment",
+            "Retinal is a derivative of Vitamin A",
+            "Retinal is a light absorbing part of all the visual photopigments"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 11,
+        "correct_answer": "Vitamin A derivatives are formed from carotene",
+        "basic_answer": "Carotene is a pigment that is converted into Vitamin A derivatives in the body. These derivatives are crucial for various bodily functions, including maintaining good vision. \n\nHence, Vitamin A derivatives are formed from carotene.",
+        "explanation": "### Core Concept\nVision relies on the presence of photopigments in the retina that respond to light. These pigments are composed of a protein called opsin and a light-absorbing molecule called retinal, which is a derivative of Vitamin A. Humans cannot synthesize Vitamin A and must obtain it through precursors like beta-carotene found in plants.\n\n### Solution\n1. Precursor Intake: We consume carotene from orange and yellow vegetables (like carrots).\n2. Metabolic Conversion: The body converts carotene into Vitamin A (retinol) in the liver and intestinal mucosa.\n3. Pigment Production: Vitamin A is then converted into retinal, the essential light-absorbing component of rhodopsin (in rods) and iodopsin (in cones).\n\n### Why This Answer\nOption A is the only choice that explains the causal link between carotene intake and vision. While options C and D are true physiological facts, they do not mention carotene. Option B is incorrect because photopigments are located in the outer segment of photoreceptors, not the inner segment.\n\n### Common Mistakes\n* Missing the prompt's focus: Choosing C or D because they are biologically \"correct\" statements, but failing to realize they don't explain the dependence on *carotene*.\n* Segment Confusion: Misidentifying the location of photopigments within the photoreceptor cell structure.",
+        "keywords": {
+            "carotene": "a pigment found in plants that is a precursor to Vitamin A",
+            "Vitamin A": "a fat-soluble vitamin important for vision",
+            "retinal": "the active form of Vitamin A in photoreception"
+        }
+    },
+    {
+        "id": 51,
+        "question_number": "4",
+        "text": "Capacitation occurs in:",
+        "subject": "Biology",
+        "sub_topic": "Reproductive Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Epididymis",
+            "Vas deference",
+            "Female reproductive tract",
+            "Rete testis"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 12,
+        "correct_answer": "Female reproductive tract",
+        "basic_answer": "Capacitation is the process that sperm undergo in the female reproductive tract to gain the ability to fertilize an egg. This involves biochemical changes that prepare the sperm for the acrosome reaction necessary for oocyte penetration. \n\nHence the answer is C.",
+        "explanation": "### Core Concept\nSpermatozoa produced in the testes and stored in the male tract are motile but physiologically immature. They cannot fertilize an ovum immediately. They must undergo a final biochemical and physiological change called capacitation.\n\n### Solution\nCapacitation involves the removal of cholesterol, glycoproteins, and proteins from the plasma membrane of the sperm head. This increases the membrane's permeability to calcium ions, leading to hyperactivation (intense swimming) and preparing the sperm for the acrosome reaction upon contact with the egg.\n\n### Why This Answer\nThis process is exclusively triggered by secretions and chemical conditions found within the female reproductive tract (uterus and fallopian tubes). The other options (Epididymis, Vas deferens, Rete testis) are parts of the male tract where sperm undergo morphological maturation and storage, but not capacitation.\n\n### Common Mistakes\n* Confusing maturation with capacitation: Thinking sperm become fully functional in the epididymis. They only become *motile* there; they only become *fertile* in the female tract.\n* Location Error: Misremembering where the final \"activation\" of the sperm occurs.",
+        "keywords": {}
+    },
+    {
+        "id": 52,
+        "question_number": "5",
+        "text": "Asymptote in a logistic growth curve is obtained when:",
+        "subject": "Biology",
+        "sub_topic": "Ecology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "K=N",
+            "K>N",
+            "K<N",
+            "The value of 'r' approaches zero"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 13,
+        "correct_answer": "K=N",
+        "basic_answer": "Logistic growth is characterized by a carrying capacity 'K', where the population growth slows as it approaches 'K'. When population size 'N' equals 'K', the growth rate becomes zero, and the curve reaches its asymptote.",
+        "explanation": "### Core Concept\nPopulation growth in an environment with limited resources follows the Logistic Growth model (S-shaped curve). It is described by the equation: dN/dt = rN [(K-N)/K], where N is population density and K is the Carrying Capacity.\n\n### Solution\nAn asymptote is a line that the growth curve approaches as it flattens out. This occurs during the stationary phase of growth. In the logistic equation, if N equals K, the term (K-N) becomes zero, which makes the overall growth rate (dN/dt) zero. This causes the population size to stabilize.\n\n### Why This Answer\nThe condition K=N means the population has reached its environmental limit. Since the growth rate becomes zero at this point, the curve levels off into a horizontal line (the asymptote). If K > N, the population is still growing; if K < N, the population would decrease.\n\n### Common Mistakes\n* r vs. growth rate: Thinking that the intrinsic rate 'r' becomes zero. 'r' is a constant; it is the *actual growth* (dN/dt) that becomes zero.\n* Directional confusion: Thinking the asymptote occurs when resources are unlimited (exponential growth has no asymptote).",
+        "keywords": {
+            "K": "carrying capacity",
+            "N": "population size"
+        }
+    },
+    {
+        "id": 53,
+        "question_number": "6",
+        "text": "The DNA fragments separated on an agarose gel can be visualized after staining with:",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Acetocarmine",
+            "Aniline blue",
+            "Ethidium bromide",
+            "Bromophenol blue"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 14,
+        "correct_answer": "Ethidium bromide",
+        "basic_answer": "Ethidium bromide is a nucleic acid stain that intercalates between the bases of DNA, allowing for visualization under ultraviolet light. Its ability to fluoresce when bound to DNA makes it a common choice for visualizing DNA fragments separated on agarose gels.",
+        "explanation": "### Core Concept\nDNA is a colorless molecule that cannot be seen with the naked eye during or after gel electrophoresis. Visualization requires a specialized chemical that binds to DNA and can be detected using light of specific wavelengths.\n\n### Solution\nEthidium Bromide (EtBr) is an intercalating agent that slides between the stacked nitrogenous bases of the DNA double helix. When DNA stained with EtBr is exposed to Ultraviolet (UV) radiation, it fluoresces with a bright orange/pink light, revealing the position of the DNA \"bands\" in the gel.\n\n### Why This Answer\nOnly Ethidium Bromide is used specifically as an intercalating fluorescent stain for DNA in electrophoresis. \n* *Acetocarmine* is used for staining chromosomes in squashes.\n* *Aniline blue* is used for fungal or plant tissue staining.\n* *Bromophenol blue* is a tracking dye that shows the front of the run but does not stain the DNA itself.\n\n### Common Mistakes\n* Tracking vs. Staining: Confusing the blue color of the tracking dye (visible to the eye) with the actual DNA bands (visible only under UV after staining).\n* Light source error: Thinking you can see the results under normal room light without a UV transilluminator.",
+        "keywords": {
+            "UV": "Ultraviolet"
+        }
+    },
+    {
+        "id": 54,
+        "question_number": "7",
+        "text": "Artificial selection to obtain cows yielding higher milk output represents:",
+        "subject": "Biology",
+        "sub_topic": "Evolution",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Directional as it pushes the mean of the character in one direction",
+            "Disruptive as it splits the population into two, one yielding output and the other lower output",
+            "Stabilizing followed by disruptive as it stabilizes the population to produce higher yielding cows",
+            "Stabilizing selection as it stabilizes this character in the population"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 15,
+        "correct_answer": "Directional as it pushes the mean of the character in one direction",
+        "basic_answer": "Artificial selection, such as the breeding of cows for higher milk yield, is an example of directional selection as it focuses on pushing the traits of the population in one favorable direction over time.",
+        "explanation": "### Core Concept\nSelection (whether natural or artificial) affects the distribution of traits in a population. There are three main patterns:\n1. Stabilizing: Favors intermediate phenotypes (the average).\n2. Directional: Favors one extreme phenotype.\n3. Disruptive: Favors both extreme phenotypes over the average.\n\n### Solution\nIn artificial selection for milk yield, breeders consistently choose cows that produce the most milk (the extreme trait). By breeding only these high-yield individuals, the entire population's bell curve shifts over generations toward that extreme. This results in a continuous increase in the population's average milk production.\n\n### Why This Answer\nThis is Directional selection because the mean value of the trait is being \"pushed\" in one specific direction (higher yield). It is not stabilizing (which would keep the yield the same) and not disruptive (which would create two separate groups of very high and very low yield cows).\n\n### Common Mistakes\n* Confusing terms: Thinking that because the goal is to make the herd \"better,\" it is stabilizing. Stabilizing selection actually *resists* change.\n* Misinterpreting Disruptive: Thinking that the presence of high-yield and low-yield cows in the world is disruptive selection; in a single breeding program, the pressure is always in one direction.",
+        "keywords": {}
+    },
+    {
+        "id": 55,
+        "question_number": "8",
+        "text": "The vascular cambium normally gives rise to:",
+        "subject": "Botany",
+        "sub_topic": "Plant Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Primary Phloem",
+            "Secondary xylem",
+            "Periderm",
+            "Phelloderm"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 16,
+        "correct_answer": "Secondary xylem",
+        "basic_answer": "Vascular cambium is responsible for secondary growth in plants, giving rise to secondary xylem (wood) and secondary phloem. The cambium cells divide to form these tissues that contribute to the plant's width. \n\nHence the answer is B.",
+        "explanation": "### Core Concept\nThe Vascular Cambium is a lateral meristem in dicot stems and roots. It is responsible for secondary growth, which increases the girth (thickness) of the plant rather than its length.\n\n### Solution\nThe vascular cambium is a ring of actively dividing cells located between the xylem and phloem. When its cells divide:\n1. Cells produced toward the inside of the ring differentiate into secondary xylem (wood).\n2. Cells produced toward the outside differentiate into secondary phloem.\n\n### Why This Answer\nSecondary xylem is the correct product. \n* *Primary Phloem* is formed from the procambium during primary growth.\n* *Periderm* and *Phelloderm* are products of the cork cambium (phellogen), not the vascular cambium.\n\n### Common Mistakes\n* Swapping the products: Forgetting whether xylem is inside or outside (Xylem is always interior in a mature stem).\n* Mixing meristems: Confusing the vascular cambium (responsible for vascular tissues) with the cork cambium (responsible for bark).",
+        "keywords": {}
+    },
+    {
+        "id": 56,
+        "question_number": "9",
+        "text": "Thalassemia and sickle cell anaemia are caused due to a problem in globin molecule synthesis. Select the correct statement.",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Both are due to a quantitative defect in globin chain synthesis",
+            "Thalassemia is due to less synthesis of globin molecules",
+            "Sickle cell anemia is due to a quantitative problem of globin molecules",
+            "Both are due to a qualitative defect in globin chain synthesis"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 57,
+        "correct_answer": "Thalassemia is due to less synthesis of globin molecules",
+        "basic_answer": "Thalassemia is characterized by reduced synthesis of one or more globin chains, so it is a quantitative defect in globin chain production. Sickle cell anaemia, in contrast, is caused by a point mutation in the \u03b2-globin gene that changes the structure of the globin chain, so it is a qualitative defect.",
+        "explanation": "### Core Concept\nHemoglobin consists of four globin chains. Genetic disorders of these chains are split into two categories based on the nature of the error: Quantitative (amount) and Qualitative (structure).\n\n### Solution\n* Thalassemia: This is a quantitative defect. It is caused by mutations that reduce the *rate of synthesis* of alpha or beta globin chains. You produce normal hemoglobin, but not enough of it.\n* Sickle Cell Anemia: This is a qualitative defect. A point mutation at the 6th position of the beta chain changes Glutamic acid to Valine. You produce the correct amount of hemoglobin, but its *structure* is abnormal, causing clumping.\n\n### Why This Answer\nOption B correctly identifies Thalassemia as a quantitative problem resulting from reduced synthesis. Option C is wrong because Sickle Cell is qualitative. Options A and D are wrong because they incorrectly generalize both diseases into one category.\n\n### Common Mistakes\n* Term Confusion: Mixing up qualitative (how it is made) with quantitative (how much is made).\n* Mechanism Error: Thinking both diseases are caused by the same type of DNA mutation.",
+        "keywords": {}
+    },
+    {
+        "id": 57,
+        "question_number": "2",
+        "text": "Root hairs develop from the region of:",
+        "subject": "Botany",
+        "sub_topic": "Plant Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Elongation",
+            "Root cap",
+            "Meristematic activity",
+            "Maturation"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 18,
+        "correct_answer": "Maturation",
+        "basic_answer": "Root hairs arise from the zone of maturation (zone of differentiation) of the root, where epidermal cells differentiate into root hair cells. They do not develop from the root cap, zone of elongation or the meristematic region.",
+        "explanation": "### Core Concept\nA growing root tip is divided into four distinct zones:\n1. Root Cap: Protects the growing tip.\n2. Meristematic Zone: Region of active cell division.\n3. Elongation Zone: Region where cells grow in length to push the root forward.\n4. Maturation Zone: Region where cells differentiate and take on specific roles.\n\n### Solution\nRoot hairs are specialized extensions of epidermal cells. They only form after the cell has stopped growing in length and has undergone final differentiation. This specialized process occurs exclusively in the Region of Maturation (also known as the zone of differentiation).\n\n### Why This Answer\nThe maturation region is where cells reach their final identity. If root hairs grew in the elongation zone, they would be sheared off or destroyed as the root pushed through the abrasive soil particles.\n\n### Common Mistakes\n* Confusing growth with formation: Thinking that because root hairs \"grow\" out, they must be in the elongation or meristematic zones.\n* Function mismatch: Forgetting that root hairs are for absorption (requiring stable, mature cells) rather than for pushing through soil.",
+        "keywords": {
+            "RH": "Root Hairs",
+            "M": "Maturation",
+            "E": "Epidermis"
+        }
+    },
+    {
+        "id": 58,
+        "question_number": "3",
+        "text": "The genotypes of a husband and Wife are I A I B and I A i. Among the blood types of their children, how many different genotypes and phenotypes are possible?",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "3 genotypes; 4 phenotypes",
+            "4 genotypes; 3 phenotypes",
+            "4 genotypes; 4 phenotypes",
+            "3 genotypes; 3 phenotypes"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 59,
+        "correct_answer": "4 genotypes; 3 phenotypes",
+        "basic_answer": "For the cross I A I B (AB) \u00d7 I A i (A), the possible offspring genotypes are I A I A, I A I B, I A i and I B i. These correspond to three phenotypes: A (I A I A, I A i), AB (I A I B) and B (I B i). No ii genotype is produced, so there is no O phenotype.",
+        "explanation": "### Core Concept\nABO blood group inheritance is governed by multiple alleles (IA, IB, and i) and codominance. IA and IB are dominant over i, but are codominant with each other (expressing the AB phenotype).\n\n### Solution\nLet's perform the cross: IA IB (Husband) x IA i (Wife).\n* Gametes from Husband: IA, IB\n* Gametes from Wife: IA, i\n* Possible Offspring Genotypes: \n  1. IA IA (Blood group A)\n  2. IA i (Blood group A)\n  3. IA IB (Blood group AB)\n  4. IB i (Blood group B)\n\n### Why This Answer\nThere are 4 distinct genotypes produced (IA IA, IA i, IA IB, and IB i). However, because IA IA and IA i both result in the same physical blood group, there are only 3 distinct phenotypes (Type A, Type B, and Type AB). Blood group O (ii) is not possible in this cross.\n\n### Common Mistakes\n* Genotype vs. Phenotype: Counting the two variations of Type A as two different phenotypes.\n* Expecting Type O: Assuming that because the mother has an 'i' allele, a child could be Type O. This is impossible unless the father also has an 'i' allele.",
+        "keywords": {
+            "I A": "allele A",
+            "I B": "allele B",
+            "i": "allele O",
+            "AB": "type AB blood",
+            "A": "type A blood",
+            "B": "type B blood",
+            "O": "type O blood"
+        }
+    },
+    {
+        "id": 59,
+        "question_number": "4",
+        "text": "A disease caused by an autosomal primary non-disjunction is:",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Klinefelter's Syndrome",
+            "Turner's Syndrome",
+            "Sickle Cell Anemia",
+            "Down's Syndrome"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 20,
+        "correct_answer": "Down's Syndrome",
+        "basic_answer": "Down's Syndrome is a genetic disorder caused by the trisomy of chromosome 21, which is caused by non-disjunction during meiosis. This leads to an extra chromosome, affecting physical and intellectual development. \n\nHence, Down's Syndrome is the correct answer.",
+        "explanation": "### Core Concept\nNon-disjunction is a failure of homologous chromosomes (in Meiosis I) or sister chromatids (in Meiosis II) to separate properly. This leads to aneuploidy, where a cell has an abnormal number of chromosomes. If this happens to an autosome (chromosomes 1-22), it is an autosomal non-disjunction.\n\n### Solution\nDown's Syndrome is caused by the presence of an extra copy of chromosome 21 (Trisomy 21). Since chromosome 21 is an autosome, this is a direct result of autosomal primary non-disjunction during gamete formation.\n\n### Why This Answer\n* Down's Syndrome: Autosomal trisomy (21).\n* *Klinefelter's Syndrome:* Sex chromosome trisomy (XXY).\n* *Turner's Syndrome:* Sex chromosome monosomy (XO).\n* *Sickle Cell Anemia:* A Mendelian point mutation, not a chromosomal non-disjunction.\n\n### Common Mistakes\n* Confusing Chromosome Types: Mixing up autosomal disorders with sex-linked disorders like Klinefelter's or Turner's.\n* Mechanism Error: Thinking Sickle Cell is a chromosomal disorder; it is actually a single gene mutation.",
+        "keywords": {
+            "DS": "Down's Syndrome"
+        }
+    }
+]

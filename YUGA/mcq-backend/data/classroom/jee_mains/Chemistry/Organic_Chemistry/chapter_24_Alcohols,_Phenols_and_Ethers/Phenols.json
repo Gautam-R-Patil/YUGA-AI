@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "chapter_number": 24,
+    "topic": "Phenols",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:27:02.363405",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about phenols. Phenols are a type of organic compound. They have a special group called the hydroxyl group (-OH) attached to a benzene ring. Let's start with their structure. \n\n**Structure and Bonding:**\nPhenols have a benzene ring with an -OH group. The benzene ring is a hexagon shape with alternating double bonds. The -OH group makes phenols different from alcohols, which have -OH attached to a carbon chain. \n\n**Nomenclature:**\nNaming phenols is simple. The basic name is 'phenol'. If there are other groups on the benzene ring, we add their names as prefixes. For example, if there is a methyl group, it is called 'methylphenol'. \n\n**Physical Properties:**\nPhenols are usually solid or liquid. They have a higher boiling point than alcohols because of strong hydrogen bonding. Phenols are slightly soluble in water due to their -OH group. \n\n**Acidity of Phenols:**\nPhenols are acidic. They can lose an H+ ion from the -OH group. This makes them more acidic than alcohols but less than carboxylic acids. The benzene ring helps stabilize the negative charge after losing H+. \n\n**Reactions:**\n1. **Electrophilic Substitution:** Phenols undergo electrophilic substitution reactions. This means an electrophile replaces a hydrogen atom on the benzene ring. Common reactions include nitration and halogenation.\n2. **Kolbe's Reaction:** In Kolbe's reaction, phenol reacts with sodium hydroxide (NaOH) and carbon dioxide (CO2) to form salicylic acid. This is important in making aspirin.\n3. **Reimer-Tiemann Reaction:** This reaction involves phenol, chloroform (CHCl3), and NaOH. It produces salicylaldehyde, a useful compound in perfumes.\n\n**Reactivity and Mechanism:**\nPhenols are more reactive than benzene due to the -OH group. The -OH group activates the benzene ring. It makes reactions faster, especially at the ortho and para positions.\n\n**Effect of Substituents on Acidity:**\nSubstituents on the benzene ring affect acidity. Electron-withdrawing groups like NO2 increase acidity. Electron-donating groups like CH3 decrease acidity. \n\n**Applications and Uses:**\nPhenols are used in antiseptics, disinfectants, and making plastics like Bakelite. They are also used in the production of drugs like aspirin.\n\n**Common Mistakes in JEE Main:**\n1. Confusing phenols with alcohols. Remember, phenols have -OH on a benzene ring.\n2. Forgetting the effect of substituents on acidity. Always check if the group is electron-withdrawing or donating.\n\n**Key Takeaways:**\n- Phenols have an -OH group on a benzene ring.\n- They are more acidic than alcohols.\n- They undergo specific reactions like Kolbe's and Reimer-Tiemann.\n\nIn conclusion, phenols are important in chemistry and industry. Understanding their structure, reactions, and properties is key for JEE Main. Remember to practice problems and focus on reaction mechanisms and acidity trends.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Phenols",
+    "Benzene Ring",
+    "Hydroxyl Group",
+    "Acidity",
+    "Reactions"
+  ],
+  "formulas": [
+    {
+      "formula": "C6H5OH",
+      "description": "Chemical formula of phenol"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Phenol",
+      "definition": "An organic compound with a hydroxyl group (-OH) attached to a benzene ring"
+    },
+    {
+      "term": "Electrophilic Substitution",
+      "definition": "A reaction where an electrophile replaces a hydrogen atom in an aromatic ring"
+    },
+    {
+      "term": "Kolbe's Reaction",
+      "definition": "A reaction where phenol reacts with NaOH and CO2 to form salicylic acid"
+    }
+  ]
+}

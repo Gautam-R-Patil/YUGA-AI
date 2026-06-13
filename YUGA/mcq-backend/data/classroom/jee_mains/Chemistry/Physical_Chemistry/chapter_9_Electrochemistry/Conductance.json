@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Electrochemistry",
+    "chapter_number": 9,
+    "topic": "Conductance",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:09:53.779178",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about conductance in electrochemistry. This topic is important for JEE Main. Let's start by understanding what conductance means. Conductance is the ability of a material to conduct electricity. It's like how easily water flows through a pipe. \n\nNow, let's talk about specific conductance and molar conductance. Specific conductance, also called conductivity, measures how well a solution conducts electricity. It depends on the number of ions in the solution. More ions mean better conductance. Molar conductance is the conductance of a solution containing one mole of electrolyte. It shows how well ions move in a solution. \n\nSpecific conductance is denoted by the symbol κ (kappa). Molar conductance is denoted by Λm (lambda m). The formula for molar conductance is: \n\nΛm = κ × 1000 / C \n\nwhere C is the concentration in moles per liter. This formula helps us find how conductance changes with concentration.\n\nNext, let's see how conductance changes with concentration. When concentration increases, specific conductance increases. But molar conductance decreases. This is because ions crowd together, making it harder for them to move.\n\nKohlrausch's law helps us understand conductance at infinite dilution. It states that molar conductance at infinite dilution is the sum of the conductance of individual ions. This is useful for finding conductance when concentration is very low.\n\nNow, let's look at conductometric titrations. These are titrations where we measure conductance to find the endpoint. For example, when we titrate an acid with a base, conductance changes. We can use this change to find the endpoint.\n\nUnits of conductance are important. Conductance is measured in siemens (S). Specific conductance is in S/m. Molar conductance is in S·m²/mol.\n\nSeveral factors affect conductance. Temperature, concentration, and nature of the ions are key factors. Higher temperature usually increases conductance. More ions mean better conductance.\n\nWe measure conductance using a conductivity meter. It has two electrodes placed in the solution. The meter measures how easily electricity passes between the electrodes.\n\nConductance measurements have many applications. They help in water quality testing and chemical analysis. In JEE Main, you may face questions about these applications.\n\nBe careful of common mistakes. Remember, specific conductance increases with concentration, but molar conductance decreases. Don't confuse the two.\n\nIn summary, conductance is key to understanding how solutions conduct electricity. We learned about specific and molar conductance, their formulas, and how they change with concentration. Kohlrausch's law and conductometric titrations are also important.\n\nKeep practicing problems on conductance. This will help you in JEE Main. Remember the key points and formulas we discussed today.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Conductance",
+    "Specific Conductance",
+    "Molar Conductance",
+    "Kohlrausch's Law",
+    "Conductometric Titrations"
+  ],
+  "formulas": [
+    {
+      "formula": "Λm = κ × 1000 / C",
+      "description": "Used to calculate molar conductance from specific conductance and concentration"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Specific Conductance",
+      "definition": "The ability of a solution to conduct electricity, measured as conductivity"
+    },
+    {
+      "term": "Molar Conductance",
+      "definition": "Conductance of a solution containing one mole of electrolyte"
+    },
+    {
+      "term": "Kohlrausch's Law",
+      "definition": "The law stating that molar conductance at infinite dilution is the sum of individual ion conductances"
+    }
+  ]
+}

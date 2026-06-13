@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Structure of Atom",
+    "chapter_number": 2,
+    "topic": "Quantum Mechanical Model of Atom",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:12:02.509612",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Quantum Mechanical Model of the Atom. This model helps us understand how tiny particles, like electrons, behave inside an atom. Let's start with the Dual Nature of Electrons. Electrons are very small particles. But they can also act like waves. This idea is called the de Broglie hypothesis. Louis de Broglie said that particles, like electrons, have both wave and particle properties. This means electrons can move like waves. If you drop a stone in water, you see ripples. Electrons can behave like these ripples. \n\nNow, let's talk about Heisenberg's Uncertainty Principle. This principle says we cannot know everything about an electron at once. We cannot know its exact position and speed at the same time. If we know where the electron is, we cannot know how fast it is moving. This is like trying to see a fast-moving car in a race. You can see its position or its speed, but not both clearly. \n\nNext, we have the Schrodinger Wave Equation. This is a math equation. It helps us find where an electron might be in an atom. But remember, it does not give an exact position. It gives a probability. Think of it like predicting the weather. We can say it might rain, but we are not 100% sure. \n\nLet's move to Quantum Numbers. Quantum numbers are like an address for electrons. They tell us where the electron is likely to be in an atom. There are four quantum numbers. The first is the Principal Quantum Number (n). It tells us the size of the electron's path. The second is the Angular Momentum Quantum Number (l). It tells us the shape of the path. The third is the Magnetic Quantum Number (m). It tells us the orientation of the path. The last is the Spin Quantum Number (s). It tells us the direction the electron spins. \n\nHere are some key points to remember: Electrons have dual nature. We cannot know both position and speed of an electron exactly. The Schrodinger equation gives us a probability, not a certainty. Quantum numbers help us locate electrons in an atom. \n\nIn summary, the Quantum Mechanical Model helps us understand electrons better. It uses math and probability to predict electron behavior. Remember these concepts for your NEET exams. They are important and often asked. \n\nCommon Mistake: Some students think electrons are only particles. Remember, they are also like waves.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Dual Nature",
+    "De Broglie Hypothesis",
+    "Uncertainty Principle",
+    "Schrodinger Equation",
+    "Quantum Numbers"
+  ],
+  "formulas": [
+    {
+      "formula": "λ = h/p",
+      "description": "de Broglie's formula where λ is wavelength, h is Planck's constant, and p is momentum"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "de Broglie Hypothesis",
+      "definition": "The idea that particles like electrons have wave-like properties."
+    },
+    {
+      "term": "Heisenberg's Uncertainty Principle",
+      "definition": "We cannot know both the position and speed of an electron exactly at the same time."
+    },
+    {
+      "term": "Schrodinger Wave Equation",
+      "definition": "A mathematical equation that predicts the probability of finding an electron in a certain area."
+    },
+    {
+      "term": "Quantum Numbers",
+      "definition": "Numbers that describe the position and energy of an electron in an atom."
+    }
+  ]
+}

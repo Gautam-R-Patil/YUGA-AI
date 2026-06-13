@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "12",
+    "chapter": "Molecular Basis of Inheritance",
+    "chapter_number": "28",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:37:13.798877",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise some major concepts in the 'Molecular Basis of Inheritance'.\n\n### Concept 1: DNA as the Genetic Material\nDNA, or deoxyribonucleic acid, is the molecule that carries genetic information in living organisms. It's composed of two strands forming a double helix, held together by base pairs. The sequence of these bases encodes genetic instructions.\n- **Key Point**: The Hershey-Chase experiment confirmed DNA as the genetic material.\n- **NEET Question Pattern**: Identify experiments proving DNA as the genetic material.\n\n### Concept 2: Structure of DNA\nDNA's double helix is formed by nucleotides (adenine, thymine, cytosine, guanine) bonded by hydrogen bonds (A-T and G-C pairs).\n- **Key Point**: Chargaff's rule states A=T and G=C.\n- **NEET Question Pattern**: Questions often focus on base pairing and structure details.\n\n### Concept 3: DNA Replication\nDNA replication is semi-conservative, meaning each new DNA double helix consists of one old and one new strand. This process is crucial for cell division.\n- **Key Formula**: Discovered by Meselson and Stahl's experiment.\n- **NEET Question Pattern**: Different steps of DNA replication often appear, like the role of DNA polymerase.\n\n### Concept 4: Central Dogma\nIt explains the flow of genetic information: DNA -> RNA -> Protein. Transcription (DNA to RNA) and translation (RNA to protein).\n- **Key Point**: RNA polymerase is crucial in transcription.\n- **NEET Question Pattern**: Transcription and translation mechanisms are frequently tested.\n\n### Quick Revision Points:\n1. DNA is confirmed as genetic material by the Hershey-Chase experiment.\n2. DNA's structure includes base pairs A-T, G-C, and follows Chargaff's rule.\n3. DNA replication is semi-conservative, proven by Meselson and Stahl.\n4. Central Dogma outlines the flow of genetic information through transcription and translation.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "DNA",
+    "genetic material",
+    "Hershey-Chase experiment",
+    "double helix",
+    "Chargaff's rule",
+    "DNA replication",
+    "Meselson and Stahl",
+    "central dogma",
+    "transcription",
+    "translation"
+  ],
+  "formulas": [
+    "A = T, G = C (Chargaff\u2019s rule)",
+    "DNA -> RNA -> Protein (Central Dogma)"
+  ],
+  "definitions": [
+    {
+      "term": "DNA",
+      "definition": "Deoxyribonucleic acid, the carrier of genetic information in living organisms."
+    },
+    {
+      "term": "Genetic material",
+      "definition": "Substance responsible for inheritance and carrying genes."
+    },
+    {
+      "term": "Hershey-Chase experiment",
+      "definition": "Experiment confirming DNA as the hereditary material using bacteriophages."
+    },
+    {
+      "term": "Double helix",
+      "definition": "Structure of DNA consisting of two strands twisted around each other."
+    },
+    {
+      "term": "Chargaff's rule",
+      "definition": "The proportion of adenine equals thymine and guanine equals cytosine in DNA."
+    },
+    {
+      "term": "DNA replication",
+      "definition": "Process by which DNA makes an identical copy of itself during cell division."
+    },
+    {
+      "term": "Meselson and Stahl",
+      "definition": "Scientists who proved DNA replication is semi-conservative."
+    },
+    {
+      "term": "Central Dogma",
+      "definition": "Framework for understanding the transfer of sequence information between biopolymers."
+    },
+    {
+      "term": "Transcription",
+      "definition": "Process of copying DNA into RNA."
+    },
+    {
+      "term": "Translation",
+      "definition": "Process of translating the sequence of a messenger RNA (mRNA) molecule to a sequence of amino acids during protein synthesis."
+    }
+  ]
+}

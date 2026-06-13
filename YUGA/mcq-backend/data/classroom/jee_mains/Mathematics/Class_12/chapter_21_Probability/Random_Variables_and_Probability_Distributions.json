@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Probability",
+    "chapter_number": 21,
+    "topic": "Random Variables and Probability Distributions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:02:49.483959",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Random Variables and Probability Distributions. This is an important topic for JEE Main. Let's start by understanding Random Variables. A Random Variable is a variable that can take different values based on chance. It is like a box that holds possible outcomes of a random event.\n\nThere are two types of Random Variables: Discrete and Continuous. A Discrete Random Variable can take specific values like 1, 2, or 3. For example, the number of heads when you toss three coins is a Discrete Random Variable. A Continuous Random Variable can take any value within a range. For example, the height of students in a class is a Continuous Random Variable.\n\nNext, let's talk about the Probability Distribution Function (PDF). This function gives the probability of each outcome of a Random Variable. For a Discrete Random Variable, the PDF is often shown in a table or a list. For a Continuous Random Variable, the PDF is a curve. Remember, the total probability is always 1.\n\nNow, let's discuss the Cumulative Distribution Function (CDF). The CDF is the probability that a Random Variable is less than or equal to a certain value. It is like adding up probabilities from the PDF. For example, if you want to find the probability of getting 2 or fewer heads in three coin tosses, you use the CDF.\n\nLet's see an example. Suppose we toss a coin three times. We want to find the probability of getting 2 heads. Here, the Random Variable X is the number of heads. The possible values are 0, 1, 2, and 3. The PDF is:\n- P(X=0) = 1/8\n- P(X=1) = 3/8\n- P(X=2) = 3/8\n- P(X=3) = 1/8\n\nTo find P(X <= 2), we add P(X=0), P(X=1), and P(X=2). So, P(X <= 2) = 1/8 + 3/8 + 3/8 = 7/8.\n\nJEE Main Mistake: Students often forget that the total probability must be 1. Always check your calculations.\n\nKey Takeaways:\n- A Random Variable represents possible outcomes of a random event.\n- Discrete Random Variables have specific values; Continuous ones have a range.\n- The PDF gives the probability of each outcome.\n- The CDF gives the probability that a Random Variable is less than or equal to a value.\n\nIn summary, understanding Random Variables and their distributions is crucial for solving probability problems in JEE Main. Practice with different examples to get comfortable with these concepts.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Random Variable",
+    "Probability Distribution",
+    "Discrete",
+    "Continuous",
+    "Cumulative Distribution"
+  ],
+  "formulas": [
+    {
+      "formula": "P(X=x) for discrete, f(x) for continuous",
+      "description": "Probability Distribution Function: Used to find the probability of a specific outcome"
+    },
+    {
+      "formula": "P(X <= x)",
+      "description": "Cumulative Distribution Function: Used to find the probability that a random variable is less than or equal to a value"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Random Variable",
+      "definition": "A variable that represents possible outcomes of a random event"
+    },
+    {
+      "term": "Discrete Random Variable",
+      "definition": "A random variable that can take specific values"
+    },
+    {
+      "term": "Continuous Random Variable",
+      "definition": "A random variable that can take any value within a range"
+    },
+    {
+      "term": "Probability Distribution Function",
+      "definition": "A function that gives the probability of each outcome of a random variable"
+    },
+    {
+      "term": "Cumulative Distribution Function",
+      "definition": "A function that gives the probability that a random variable is less than or equal to a certain value"
+    }
+  ]
+}

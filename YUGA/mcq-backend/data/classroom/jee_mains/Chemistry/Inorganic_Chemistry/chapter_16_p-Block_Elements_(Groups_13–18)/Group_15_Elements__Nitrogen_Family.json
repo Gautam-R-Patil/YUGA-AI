@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "p-Block Elements (Groups 13–18)",
+    "chapter_number": 16,
+    "topic": "Group 15 Elements: Nitrogen Family",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:17:47.701711",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Group 15 elements, also known as the Nitrogen Family. This group includes Nitrogen, Phosphorus, Arsenic, Antimony, and Bismuth. Let's start with Nitrogen. \n\nNitrogen is a gas that makes up about 78% of the air. We can prepare Nitrogen by removing oxygen from the air. One method is to pass air over heated copper. The copper reacts with oxygen and leaves behind Nitrogen. \n\nNitrogen has some important properties. It is colorless, tasteless, and does not burn. It is also very stable, meaning it does not react easily with other elements. This is why Nitrogen is used in food packaging to keep food fresh.\n\nNext, let's discuss Phosphorus. Phosphorus has different forms, called allotropes. The most common ones are white phosphorus and red phosphorus. White phosphorus is waxy and catches fire easily. Red phosphorus is used in matchsticks. \n\nPhosphorus forms many compounds. One important compound is Phosphoric Acid, used in fertilizers. Another is Calcium Phosphate, which helps in making bones strong.\n\nNow, let's talk about Ammonia and Nitric Acid. Ammonia is a gas with a strong smell. We prepare Ammonia using the Haber process, which combines Nitrogen and Hydrogen. Ammonia is used to make fertilizers. \n\nNitric Acid is a strong acid. We prepare it by reacting Ammonia with oxygen. Nitric Acid is used to make explosives and fertilizers.\n\nLet's look at the oxides of Nitrogen and Phosphorus. Nitrogen forms different oxides like Nitric Oxide (NO) and Nitrogen Dioxide (NO₂). These are important in the atmosphere. Phosphorus forms Phosphorus Pentoxide (P₂O₅), used to make phosphoric acid.\n\nNow, let's discuss trends in ionization energy and electronegativity. Ionization energy is the energy needed to remove an electron. In Group 15, ionization energy decreases as we move down the group. Electronegativity, or the ability to attract electrons, also decreases down the group.\n\nGroup 15 elements react with hydrogen to form hydrides. For example, Nitrogen forms Ammonia (NH₃). They also react with halogens to form halides like Phosphorus Pentachloride (PCl₅).\n\nNitrogen compounds are important for life. For example, proteins contain Nitrogen. Plants need Nitrogen to grow. We get Nitrogen in our diet from foods like beans and meat.\n\nFinally, let's talk about the anomalous behavior of Nitrogen. Anomalous means different from others. Nitrogen is different because it is a gas, while other group members are solids. This is because Nitrogen molecules are very small and light.\n\nFor JEE Main, remember these key points: Nitrogen's stability, Phosphorus allotropes, preparation of Ammonia and Nitric Acid, and trends in ionization energy. Also, common mistakes include confusing the properties of Nitrogen and Phosphorus. \n\nIn summary, the Nitrogen family has unique properties and uses. Understanding these will help you in exams. Remember to practice questions and revise regularly. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Nitrogen",
+    "Phosphorus",
+    "Ammonia",
+    "Nitric Acid",
+    "Ionization Energy"
+  ],
+  "formulas": [
+    {
+      "formula": "N₂ + 3H₂ → 2NH₃",
+      "description": "The Haber process for producing ammonia from nitrogen and hydrogen."
+    },
+    {
+      "formula": "4NH₃ + 5O₂ → 4NO + 6H₂O",
+      "description": "Reaction of ammonia with oxygen to produce nitric oxide and water."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Allotropes",
+      "definition": "Different forms of the same element in the same physical state."
+    },
+    {
+      "term": "Ionization Energy",
+      "definition": "The energy required to remove an electron from an atom."
+    },
+    {
+      "term": "Electronegativity",
+      "definition": "The ability of an atom to attract electrons in a bond."
+    }
+  ]
+}

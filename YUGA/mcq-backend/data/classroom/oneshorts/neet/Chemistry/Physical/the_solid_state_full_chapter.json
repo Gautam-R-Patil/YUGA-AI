@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "The Solid State",
+    "chapter_number": "10",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:20:39.666373",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts \u2014 the Solid State in Chemistry. Solids are substances with definite shape and volume, and their particles are closely packed in a fixed pattern. The solid state is mainly categorized into crystalline and amorphous solids.\n\nCrystalline solids have a regular and repeating pattern, known as lattice structure, and are further divided into ionic, covalent, molecular, and metallic solids. Amorphous solids do not have a regular pattern and behave like supercooled liquids.\n\nKey Formula / Idea: For crystalline solids, key parameters include lattice parameters like unit cell dimensions, types (simple cubic, body-centered cubic, face-centered cubic), and formulas related to them such as packing efficiency, formula for density $\\rho = \\frac{Z \\, M}{a^3 \\, N_A}$.\n\nNEET Question Pattern: NEET often asks questions about differences between crystalline and amorphous solids, calculations involving packing efficiency, and types of crystalline solids. You might see questions requiring calculations based on unit cell dimensions.\n\nQuick Revision Points:\n1. Solids are closely packed with fixed shape and volume.\n2. Crystalline solids have a repeating lattice structure; amorphous solids do not.\n3. Types of crystalline solids: ionic, covalent, molecular, and metallic.\n4. Important formulas involve lattice parameters and packing efficiency.\n5. NEET focuses on solid types, differences, and calculations involving unit cells.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Solid state",
+    "Crystalline solids",
+    "Amorphous solids",
+    "Lattice structure",
+    "Unit cell",
+    "Packing efficiency",
+    "Density formula",
+    "Ionic solids",
+    "Covalent solids",
+    "Metallic solids",
+    "Molecular solids"
+  ],
+  "formulas": [
+    "\\rho = \\frac{Z \\, M}{a^3 \\, N_A}"
+  ],
+  "definitions": [
+    {
+      "term": "Solid state",
+      "definition": "A state of matter characterized by particles arranged closely in a fixed structure with definite shape and volume."
+    },
+    {
+      "term": "Crystalline solids",
+      "definition": "Solids with a regular and repeating 3D arrangement of particles."
+    },
+    {
+      "term": "Amorphous solids",
+      "definition": "Solids that lack a regular pattern and do not have a definite shape over long distances."
+    },
+    {
+      "term": "Lattice structure",
+      "definition": "The ordered three-dimensional array of points depicting the positions of particles in a crystalline solid."
+    },
+    {
+      "term": "Unit cell",
+      "definition": "The smallest repeating unit in a crystal lattice that shows the entire crystal's structure."
+    },
+    {
+      "term": "Packing efficiency",
+      "definition": "The percentage of total space occupied by particles in a crystal lattice."
+    },
+    {
+      "term": "Density formula",
+      "definition": "A formula used to calculate the density of a substance based on its mass, volume of the unit cell, and Avogadro's number."
+    },
+    {
+      "term": "Ionic solids",
+      "definition": "Crystalline solids where the lattice points are occupied by ions."
+    },
+    {
+      "term": "Covalent solids",
+      "definition": "Solids where atoms are bonded by covalent bonds forming a network."
+    },
+    {
+      "term": "Metallic solids",
+      "definition": "Solids consisting of metal atoms with metallic bonds."
+    },
+    {
+      "term": "Molecular solids",
+      "definition": "Solids where molecules are held together by intermolecular forces."
+    }
+  ]
+}

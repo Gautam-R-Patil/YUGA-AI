@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Current Electricity",
+    "chapter_number": 3,
+    "topic": "Kirchhoff's Laws",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:08:00.978058",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today we will learn about a very important topic in physics: Kirchhoff's Laws. These laws help us understand how electric circuits work. Let's start with Kirchhoff's Current Law, or KCL. This law says that the total current coming into a junction is equal to the total current going out. Imagine a busy traffic junction. Cars coming in must equal cars going out, or there will be a jam. In symbols, we write it as ΣI = 0. Here, Σ means 'sum of' and I is the current.\n\nNow, let's talk about Kirchhoff's Voltage Law, or KVL. This law states that the sum of all voltages around a closed loop in a circuit is zero. Think of it like a hiking trail loop. If you start and end at the same point, the total height you climb up and down is zero. We write it as ΣV = 0, where V is the voltage.\n\nThese laws are very useful in analyzing circuits. For example, if you know the current in some parts of a circuit, you can find the unknown current using KCL. Similarly, KVL helps you find unknown voltages. Let's look at the Wheatstone bridge. It is a special circuit that helps measure unknown resistances. When the bridge is balanced, no current flows through the middle. This means the ratio of resistances is equal. This is useful in precise measurements.\n\nAnother important tool is the meter bridge. It works on the principle of a balanced Wheatstone bridge. You can find the resistance of a wire by balancing the bridge. A potentiometer is another device that helps measure voltage. It works by comparing the unknown voltage with a known one. It is very precise and used in labs.\n\nLet’s talk about units and dimensions. Current is measured in amperes (A), voltage in volts (V), and resistance in ohms (Ω). When you draw circuits, use simple symbols for elements like resistors and batteries. This helps in quick understanding.\n\nFor experiments, knowing how to find unknown resistance is key. Use a meter bridge or a Wheatstone bridge for this. Remember, practice makes perfect. Try solving problems using Kirchhoff's Laws. Check your answers by ensuring ΣI = 0 and ΣV = 0.\n\nCommon mistakes include forgetting the direction of current or mixing up voltage signs. Always double-check these. In summary, Kirchhoff's Laws are essential for circuit analysis. They help us understand and solve complex circuits. Keep practicing, and you will master this topic!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Kirchhoff's Current Law",
+    "Kirchhoff's Voltage Law",
+    "Wheatstone Bridge",
+    "Meter Bridge",
+    "Potentiometer"
+  ],
+  "formulas": [
+    {
+      "formula": "ΣI = 0",
+      "description": "The sum of currents at a junction is zero."
+    },
+    {
+      "formula": "ΣV = 0",
+      "description": "The sum of voltages in a closed loop is zero."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Junction",
+      "definition": "A point where two or more wires meet in a circuit."
+    },
+    {
+      "term": "Loop",
+      "definition": "A closed path in a circuit where current can flow."
+    },
+    {
+      "term": "Resistance",
+      "definition": "A measure of how much a component reduces the flow of current."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Optics",
+    "chapter_number": 16,
+    "topic": "Mirrors and Lenses",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:00:02.640270",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about mirrors and lenses in optics. This topic is important for JEE Main. Let's start with mirrors. \n\nFirst, we have concave and convex mirrors. A concave mirror curves inward like a spoon. It can focus light to a point. This is why it's used in flashlights. A convex mirror curves outward. It spreads light. You see these in car side mirrors. They help drivers see a wider area. \n\nNow, let's talk about the focal length. The focal length is the distance from the mirror to the focus point. For concave mirrors, the focus is in front. For convex mirrors, it's behind. Remember, focal length is positive for convex and negative for concave. \n\nNext, we have lenses. Lenses are like mirrors but they are transparent. They bend light. A convex lens is thicker in the middle. It brings light to a focus. A concave lens is thinner in the middle. It spreads light out. \n\nThe lens formula is 1/f = 1/v - 1/u. Here, f is the focal length, v is the image distance, and u is the object distance. Use this formula to find any of these if you know the other two. Make sure to use correct signs. For lenses, focal length is positive for convex and negative for concave. \n\nNow, let's talk about magnification. Magnification tells us how much bigger or smaller the image is compared to the object. The formula is m = v/u. If magnification is positive, the image is upright. If negative, the image is inverted. \n\nLet's do a quick example. Suppose an object is 10 cm from a concave mirror with a focal length of 5 cm. We use the mirror formula: 1/f = 1/v + 1/u. Plug in the values: 1/5 = 1/v + 1/(-10). Solve to find v = -10/3 cm. The negative sign means the image is real and on the same side as the object. \n\nCommon JEE Main mistake: Don't forget the sign conventions. They are crucial in getting the right answer. Also, check your units. Always use centimeters unless told otherwise. \n\nKey takeaways: Know the difference between concave and convex mirrors and lenses. Remember the formulas for focal length, lens formula, and magnification. Practice solving problems to get comfortable with sign conventions. \n\nIn summary, mirrors and lenses are all about how they bend light. Use the formulas correctly and watch out for signs. With practice, you'll master this topic for JEE Main. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Concave Mirror",
+    "Convex Mirror",
+    "Lens Formula",
+    "Magnification",
+    "Focal Length"
+  ],
+  "formulas": [
+    {
+      "formula": "1/f = 1/v + 1/u",
+      "description": "Used to find image distance (v), object distance (u), or focal length (f) for mirrors"
+    },
+    {
+      "formula": "1/f = 1/v - 1/u",
+      "description": "Used to find image distance (v), object distance (u), or focal length (f) for lenses"
+    },
+    {
+      "formula": "m = v/u",
+      "description": "Magnification formula used to find the size of the image compared to the object"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Concave Mirror",
+      "definition": "A mirror that curves inward and can focus light to a point"
+    },
+    {
+      "term": "Convex Mirror",
+      "definition": "A mirror that curves outward and spreads light"
+    },
+    {
+      "term": "Focal Length",
+      "definition": "The distance from the mirror or lens to the focus point"
+    }
+  ]
+}

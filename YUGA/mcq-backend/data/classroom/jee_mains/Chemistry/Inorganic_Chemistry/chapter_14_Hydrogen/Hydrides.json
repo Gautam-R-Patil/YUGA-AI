@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Hydrogen",
+    "chapter_number": 14,
+    "topic": "Hydrides",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:15:12.293981",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about hydrides. Hydrides are compounds of hydrogen with other elements. They are important in chemistry and industry. Let's start by understanding the types of hydrides. There are three main types: ionic, covalent, and metallic hydrides. Ionic hydrides are formed with metals, like sodium hydride (NaH). These hydrides are usually solids. They conduct electricity when melted. Covalent hydrides are formed with non-metals, like water (H2O) and methane (CH4). They have low melting and boiling points. Metallic hydrides are formed with transition metals, like titanium hydride (TiH2). These are used in hydrogen storage. \n\nNow, let's talk about how we prepare hydrides. Ionic hydrides are made by heating metals with hydrogen gas. Covalent hydrides can be made by direct combination of elements, like hydrogen and carbon to make methane. Metallic hydrides are made by heating metals in hydrogen gas under pressure. \n\nLet's look at some properties of these hydrides. Ionic hydrides are strong bases. They react with water to produce hydrogen gas. Covalent hydrides can be gases, liquids, or solids. They do not conduct electricity. Metallic hydrides have metallic properties. They can absorb hydrogen gas. \n\nHydrides have many uses in industry. For example, sodium hydride is used as a drying agent. Methane is used as a fuel. Metallic hydrides are used in hydrogen storage systems. \n\nLet's compare hydrides with other hydrogen compounds. Hydrides are different from acids and bases. They are also different from hydrogen halides, like hydrochloric acid (HCl). \n\nLet's see some examples of hydrides. Water (H2O) is a covalent hydride. Sodium hydride (NaH) is an ionic hydride. Titanium hydride (TiH2) is a metallic hydride. \n\nNow, let's discuss reactivity trends. Ionic hydrides are very reactive with water. Covalent hydrides can be reactive or stable. Metallic hydrides are stable but can release hydrogen gas when heated. \n\nHydrogen bonding is important in hydrides. Water has strong hydrogen bonds. This gives water its unique properties. Hydrogen bonds affect boiling and melting points. \n\nFor JEE Main, remember these key points about hydrides. Ionic hydrides conduct electricity when molten. Covalent hydrides have low melting points. Metallic hydrides are used for hydrogen storage. \n\nCommon mistakes to avoid: Do not confuse ionic hydrides with covalent ones. Remember, ionic hydrides react with water to release hydrogen gas. \n\nIn summary, hydrides are important compounds of hydrogen. They have different types, properties, and uses. Understanding hydrides will help you in JEE Main exams. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Hydrides",
+    "Ionic",
+    "Covalent",
+    "Metallic",
+    "Reactivity"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Hydrides",
+      "definition": "Compounds of hydrogen with other elements."
+    },
+    {
+      "term": "Ionic Hydrides",
+      "definition": "Hydrides formed with metals, usually solid and conductive when molten."
+    },
+    {
+      "term": "Covalent Hydrides",
+      "definition": "Hydrides formed with non-metals, often gases or liquids."
+    },
+    {
+      "term": "Metallic Hydrides",
+      "definition": "Hydrides formed with transition metals, used in hydrogen storage."
+    }
+  ]
+}

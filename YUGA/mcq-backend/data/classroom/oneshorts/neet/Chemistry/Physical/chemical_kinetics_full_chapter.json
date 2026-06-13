@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Chemical Kinetics",
+    "chapter_number": "13",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:21:46.177971",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts\u2014Chemical Kinetics. This chapter is crucial for understanding how fast chemical reactions occur and the factors affecting them. \n\n1. Rate of Reaction: The rate of a chemical reaction measures how the concentration of a reactant or product changes over time. It is usually expressed in mol/L/s.\n\n2. Factors Affecting Reaction Rate: The rate can be influenced by several factors such as concentration of reactants, temperature, presence of a catalyst, and surface area of reactants. Increasing the concentration usually increases the reaction rate. Higher temperatures generally increase reaction rates, and catalysts can lower the activation energy, speeding up the reaction without being consumed.\n\n3. Order of Reaction: It's crucial to understand how reaction rate relates to concentration of reactants. The rate can be proportional to concentrations to some power, and this power determines the reaction order. For example, in a first-order reaction, rate is directly proportional to concentration.\n\n4. Rate Law and Rate Constant: The rate law expresses the relationship of the rate of a reaction to the rate constant and the concentrations of reactants raised to some powers. Mathematically: `Rate = k[A]^m[B]^n`, where `k` is the rate constant, and `m` and `n` are the reaction orders with respect to reactants A and B.\n\n5. Integrated Rate Laws: These are used to determine concentration changes over time. For first-order reactions, the integrated rate law is `ln[A] = -kt + ln[A\u2080]`, where `[A\u2080]` is the initial concentration.\n\n6. Half-Life of Reactions: The half-life (t\u2081/\u2082) is the time required for half the amount of a reactant to be used up. For first-order reactions, it is independent of concentration and given by `t\u2081/\u2082 = 0.693/k`.\n\n7. Arrhenius Equation: This equation shows the relationship between the rate constant `k` and temperature `T`: `k = Ae^(-Ea/RT)`, where `Ea` is the activation energy, `R` is the universal gas constant, and `A` is the frequency factor.\n\nNEET Question Pattern: NEET often asks questions on calculating reaction rate, determining rate laws from experimental data, understanding temperature and concentration effects on rate, plotting and interpreting reaction order graphs, and calculations involving Arrhenius equation. Conceptual questions frequently test knowledge on factors affecting reaction rates and mechanisms.\n\nQuick Revision Points:\n- Understand and apply rate laws and reaction orders.\n- Factors affecting reaction rate: Concentration, temperature, catalysts.\n- Calculate half-lives, particularly for first-order reactions.\n- Interpret Arrhenius plots and apply the Arrhenius equation.\n- Pay extra attention to examples and solved problems in NCERT.\n\nStay confident, practice sample problems, and remember the core concepts!",
+  "duration_minutes": "12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Rate of Reaction",
+    "Factors Affecting Reaction Rate",
+    "Order of Reaction",
+    "Rate Law",
+    "Rate Constant",
+    "Integrated Rate Laws",
+    "Half-Life",
+    "Arrhenius Equation",
+    "Activation Energy",
+    "Catalyst"
+  ],
+  "formulas": [
+    "Rate = k[A]^m[B]^n",
+    "ln[A] = -kt + ln[A\u2080]",
+    "t\u2081/\u2082 = 0.693/k",
+    "k = Ae^{-Ea/RT}"
+  ],
+  "definitions": [
+    {
+      "term": "Rate of Reaction",
+      "definition": "The speed at which reactants are converted to products, measured as the change in concentration over time."
+    },
+    {
+      "term": "Factors Affecting Reaction Rate",
+      "definition": "Variables that influence how quickly a reaction proceeds, including concentration, temperature, and catalysts."
+    },
+    {
+      "term": "Order of Reaction",
+      "definition": "The power to which the concentration of a reactant is raised in a rate law, indicating how the rate is affected by changes in that concentration."
+    },
+    {
+      "term": "Rate Law",
+      "definition": "An equation that links the reaction rate with the concentrations of reactants and the rate constant."
+    },
+    {
+      "term": "Rate Constant",
+      "definition": "A proportionality constant in the rate law equation that is specific to a particular reaction at a given temperature."
+    },
+    {
+      "term": "Integrated Rate Laws",
+      "definition": "Mathematical expressions that relate concentration of reactants to time, used to analyze the time course of reactions."
+    },
+    {
+      "term": "Half-Life",
+      "definition": "The time required for half of the reactant in a chemical reaction to be consumed."
+    },
+    {
+      "term": "Arrhenius Equation",
+      "definition": "A formula that shows the temperature dependence of reaction rates through the influence of activation energy."
+    },
+    {
+      "term": "Activation Energy",
+      "definition": "The minimum energy required for a reaction to occur."
+    },
+    {
+      "term": "Catalyst",
+      "definition": "A substance that increases the rate of a chemical reaction without being consumed in the process."
+    }
+  ]
+}

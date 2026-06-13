@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "12",
+    "chapter": "Principles of Inheritance and Variation",
+    "chapter_number": "27",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:36:57.222704",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: Principles of Inheritance and Variation. This chapter is crucial for understanding how traits are inherited and how variations occur in offspring.\n\n1. Mendel's Laws of Inheritance: Gregor Mendel's work forms the foundation of this topic. His experiments with pea plants led to two key principles: the Law of Segregation and the Law of Independent Assortment.\n   - Law of Segregation: During gamete formation, allele pairs segregate so that each gamete carries a single allele for each gene.\n   - Law of Independent Assortment: Different pairs of alleles are passed to offspring independently of each other.\n\n2. Mendelian Traits and Monohybrid Cross: Involves studying how a single trait is inherited. A monohybrid cross typically results in a 3:1 phenotypic ratio in offspring.\n\n3. Dihybrid Cross: Incorporates two different traits. From these crosses, Mendel derived the 9:3:3:1 phenotypic ratio.\n\n4. Linkage and Recombination: Linkage refers to genes located close to each other on the same chromosome tending to be inherited together. Recombination occurs during meiosis, shuffling genes which can lead to genetic diversity.\n\n5. Sex Determination: Different mechanisms exist, such as XX-XY (humans), XO-XX (in some insects), and ZW-ZZ (birds). Important to know the human sex chromosome mechanism.\n\n6. Mutations: Permanent changes in DNA sequence. Can be gene mutations or chromosomal aberrations. Such variations contribute to evolution and genetic disorders.\n\n7. Pedigree Analysis: Human traits often studied through family tree analysis to track inheritance patterns, useful for understanding autosomal recessive and dominant diseases.\n\nKey Formula / Idea: \n- Mendel's Ratios: Monohybrid \u2013 3:1; Dihybrid \u2013 9:3:3:1\n\nNEET Question Pattern:\n- Questions frequently ask for Mendel's law applications, expected phenotypic ratios from specific crosses, recognition of linkage, and determining the mode of sex determination.\n\nQuick Revision Points:\n1. Understand Mendel's laws: Segregation & Independent Assortment.\n2. Familiarize with phenotypic ratios: 3:1 and 9:3:3:1.\n3. Recognize linkage, recombination, and their effects on inheritance.\n4. Grasp sex determination methods and pedigree analysis.\n5. Know basic mutation and its implications.\n6. Apply principles to solve typical NEET pattern questions focusing on inheritance patterns and genetic disorders.\n\nBy mastering these key points, you will be well-prepared to tackle questions from this chapter effectively. Keep practicing those genetic cross problems, as they are a staple in NEET exams.",
+  "duration_minutes": "10",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Mendel's Laws",
+    "Monohybrid Cross",
+    "Dihybrid Cross",
+    "Linkage",
+    "Recombination",
+    "Sex Determination",
+    "Mutations",
+    "Pedigree Analysis",
+    "Genetic Disorders",
+    "Inheritance Patterns"
+  ],
+  "formulas": [
+    "Mendel's Ratios: Monohybrid \u2013 $3:1$; Dihybrid \u2013 $9:3:3:1$"
+  ],
+  "definitions": [
+    {
+      "term": "Mendel's Laws",
+      "definition": "Foundation of genetic inheritance describing segregation and independent assortment of alleles."
+    },
+    {
+      "term": "Monohybrid Cross",
+      "definition": "A genetic cross between individuals involving one pair of contrasting traits."
+    },
+    {
+      "term": "Dihybrid Cross",
+      "definition": "A genetic cross involving two pairs of contrasting traits."
+    },
+    {
+      "term": "Linkage",
+      "definition": "Tendency of alleles that are close together on a chromosome to be inherited together."
+    },
+    {
+      "term": "Recombination",
+      "definition": "Exchange of genetic material between homologous chromosomes during meiosis."
+    },
+    {
+      "term": "Sex Determination",
+      "definition": "The mechanism by which sex is established in an organism, often involving sex chromosomes."
+    },
+    {
+      "term": "Mutations",
+      "definition": "Changes in a DNA sequence that affect genetic information."
+    },
+    {
+      "term": "Pedigree Analysis",
+      "definition": "A chart used to analyze the pattern of inheritance of a particular trait across generations."
+    },
+    {
+      "term": "Genetic Disorders",
+      "definition": "Diseases caused by an abnormality in an individual's DNA."
+    },
+    {
+      "term": "Inheritance Patterns",
+      "definition": "The method by which genetic traits are passed from one generation to the next."
+    }
+  ]
+}

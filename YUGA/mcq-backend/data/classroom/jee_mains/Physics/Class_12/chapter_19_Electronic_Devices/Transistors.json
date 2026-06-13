@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electronic Devices",
+    "chapter_number": 19,
+    "topic": "Transistors",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:02:55.959206",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about transistors. Transistors are small electronic devices. They help control the flow of current in circuits. They are very important in electronic devices like computers and radios. \n\nLet's start with Bipolar Junction Transistors or BJTs. A BJT has three layers of semiconductor material. These layers are called the emitter, base, and collector. There are two main types of BJTs: NPN and PNP transistors. \n\nIn an NPN transistor, the current flows from the collector to the emitter. The base controls this flow. In a PNP transistor, the current flows from the emitter to the collector. Again, the base controls this flow. \n\nNow, let's talk about transistor configurations. There are three configurations: Common Emitter (CE), Common Base (CB), and Common Collector (CC). Each configuration has different input and output characteristics. \n\nIn the CE configuration, the emitter is common to both input and output. This configuration is popular because it provides good voltage gain. In the CB configuration, the base is common. It provides low input impedance and high output impedance. In the CC configuration, the collector is common. It is also called an emitter follower. It provides high input impedance and low output impedance. \n\nNext, let's discuss the input and output characteristics of transistors. The input characteristic is the relationship between base current and base-emitter voltage. The output characteristic is the relationship between collector current and collector-emitter voltage. \n\nTransistors can be used as amplifiers. An amplifier increases the strength of a weak signal. In a CE amplifier, the input is given at the base, and the output is taken from the collector. The formula for current gain (β) is β = Ic/Ib, where Ic is the collector current, and Ib is the base current. \n\nTransistors can also work as switches. When the base current is zero, the transistor is off. When the base current is high, the transistor is on. This is similar to a light switch. \n\nBiasing of transistors is important. Biasing means setting up the correct DC voltages and currents. This ensures the transistor works correctly. \n\nTransistors have many applications. They are used in amplifiers, switches, and oscillators. They are also used in digital circuits like logic gates. \n\nRemember, in JEE Main, common mistakes include confusing NPN and PNP transistors. Also, remember to check units in calculations. \n\nTo summarize, transistors are key components in electronics. They can amplify signals or act as switches. Understanding their characteristics and configurations is important for JEE Main. \n\nKeep practicing problems and remember these key points for quick revision. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Transistor",
+    "NPN",
+    "PNP",
+    "Amplifier",
+    "Switch"
+  ],
+  "formulas": [
+    {
+      "formula": "β = Ic/Ib",
+      "description": "Used to calculate the current gain in a transistor, important in amplifier problems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Transistor",
+      "definition": "A small electronic device used to amplify or switch electronic signals"
+    },
+    {
+      "term": "Bipolar Junction Transistor (BJT)",
+      "definition": "A type of transistor with three layers of semiconductor material"
+    },
+    {
+      "term": "NPN Transistor",
+      "definition": "A type of BJT where current flows from collector to emitter"
+    },
+    {
+      "term": "PNP Transistor",
+      "definition": "A type of BJT where current flows from emitter to collector"
+    }
+  ]
+}

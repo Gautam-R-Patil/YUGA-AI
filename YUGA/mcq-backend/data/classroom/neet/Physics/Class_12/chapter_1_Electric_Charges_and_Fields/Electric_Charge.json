@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electric Charges and Fields",
+    "chapter_number": 1,
+    "topic": "Electric Charge",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:06:36.027770",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about electric charges. This is a very important topic in physics and for your NEET exam. Let's start with what an electric charge is. An electric charge is a property of matter. It causes electrical forces between objects. You can think of it like a magnet. But instead of attracting iron, it affects other charges.\n\nThere are two types of electric charges: positive and negative. Positive charges are like protons, which are found in the nucleus of an atom. Negative charges are like electrons, which orbit around the nucleus. If you have a positive and a negative charge, they attract each other. If you have two positive charges or two negative charges, they repel each other.\n\nNow, let's talk about the conservation of charge. This means that the total charge in a closed system stays the same. You cannot create or destroy charge, only transfer it. For example, if you rub a balloon on your hair, the balloon may become negatively charged. But your hair becomes positively charged. The total charge is still the same.\n\nNext, we have the quantization of charge. This means that charge comes in small packets. The smallest unit of charge is called 'e', which is the charge of one electron. Any charge is a whole number multiple of 'e'. So, we can say q = n * e, where n is any integer.\n\nNow, let's look at Coulomb's Law. This law tells us how strong the force between two charges is. The formula is F = k * |q1 * q2| / r^2. Here, F is the force, q1 and q2 are the charges, r is the distance between them, and k is a constant. This law is similar to Newton's law of gravity but for charges.\n\nIn vector form, Coulomb's Law considers direction. The force is a vector, meaning it has both size and direction. If you have many charges, you can use the superposition principle. This means you add up all the forces from different charges to find the total force.\n\nThe unit of charge is the Coulomb, and its symbol is 'C'. The dimension of charge is [I][T], where I is current and T is time.\n\nSome examples of charged particles are electrons and protons. Electrons have a negative charge, and protons have a positive charge. Neutrons have no charge.\n\nMaterials can be conductors or insulators. Conductors allow charges to move freely, like metals. Insulators do not allow charges to move, like rubber.\n\nYou can charge objects by induction or conduction. Induction means bringing a charged object near another object without touching it. Conduction means touching a charged object to another object.\n\nOne important experiment is Millikan's oil drop experiment. This experiment helped measure the charge of an electron. It showed that charge is quantized.\n\nRemember, charge distribution is how charge is spread over an object. A point charge is a charge at a single point in space.\n\nIn summary, electric charge is a basic property of matter. It comes in positive and negative types. Charge is conserved and quantized. Coulomb's Law helps us calculate the force between charges. Understanding these concepts is crucial for NEET.\n\nCommon mistake: Remember, like charges repel and opposite charges attract. Don't mix them up!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Electric Charge",
+    "Positive Charge",
+    "Negative Charge",
+    "Coulomb's Law",
+    "Conservation of Charge"
+  ],
+  "formulas": [
+    {
+      "formula": "q = n * e",
+      "description": "Quantization of charge, where q is the total charge, n is an integer, and e is the charge of an electron"
+    },
+    {
+      "formula": "F = k * |q1 * q2| / r^2",
+      "description": "Coulomb's Law formula for the force between two point charges"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electric Charge",
+      "definition": "A property of matter that causes it to experience a force when near other electric charges"
+    },
+    {
+      "term": "Conservation of Charge",
+      "definition": "The principle that the total electric charge in an isolated system remains constant"
+    },
+    {
+      "term": "Quantization of Charge",
+      "definition": "The concept that charge can only exist in discrete amounts, as whole multiples of the elementary charge"
+    },
+    {
+      "term": "Coulomb's Law",
+      "definition": "A law stating that the force between two charges is proportional to the product of their charges and inversely proportional to the square of the distance between them"
+    }
+  ]
+}

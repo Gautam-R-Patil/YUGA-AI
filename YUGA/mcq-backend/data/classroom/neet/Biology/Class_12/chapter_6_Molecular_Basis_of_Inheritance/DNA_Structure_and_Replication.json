@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Molecular Basis of Inheritance",
+    "chapter_number": 6,
+    "topic": "DNA Structure and Replication",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:41:21.549072",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about DNA structure and replication. DNA is the blueprint of life. It carries genetic information. Let's start with the structure of DNA. DNA is like a twisted ladder. This shape is called a double helix. The sides of the ladder are made of sugar and phosphate. The steps are made of pairs of bases. There are four bases: adenine (A), thymine (T), cytosine (C), and guanine (G). A always pairs with T, and C always pairs with G. This is called base pairing.\n\nNow, let's talk about Chargaff's rules. Chargaff found that the amount of A equals T, and the amount of C equals G in DNA. This is important for base pairing.\n\nNext, we move to DNA replication. DNA replication means making a copy of DNA. It follows the semi-conservative model. This means each new DNA has one old strand and one new strand. Let's discuss the enzymes involved. DNA polymerase is the main enzyme. It adds new bases. Helicase unwinds the DNA. Ligase joins small pieces of DNA.\n\nDNA replication starts at a point called the replication fork. There are two strands: leading and lagging. The leading strand is made continuously. The lagging strand is made in small pieces called Okazaki fragments.\n\nLet's look at the Meselson and Stahl experiment. They proved the semi-conservative model. They used bacteria and heavy nitrogen. This experiment is very important for understanding DNA replication.\n\nHere are some key terms. Nucleotide is a building block of DNA. It includes a base, sugar, and phosphate. Antiparallel strands mean the two DNA strands run in opposite directions. Okazaki fragments are short DNA pieces on the lagging strand.\n\nRemember, the semi-conservative replication is significant. It ensures genetic information is passed accurately. A common mistake is thinking both strands are made continuously. Only the leading strand is continuous.\n\nIn summary, DNA's structure is a double helix. Base pairing rules are A with T and C with G. DNA replication is semi-conservative. DNA polymerase, helicase, and ligase are key enzymes. Meselson and Stahl's experiment confirmed the replication model. Understanding these concepts is crucial for NEET.\n\nThank you for listening! I hope you now understand DNA structure and replication better.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "DNA Structure",
+    "Double Helix",
+    "Base Pairing",
+    "DNA Replication",
+    "Semi-conservative Model"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Double Helix",
+      "definition": "The shape of DNA, like a twisted ladder."
+    },
+    {
+      "term": "Base Pairing",
+      "definition": "A pairs with T, and C pairs with G in DNA."
+    },
+    {
+      "term": "Nucleotide",
+      "definition": "Building block of DNA with a base, sugar, and phosphate."
+    },
+    {
+      "term": "Antiparallel Strands",
+      "definition": "Two DNA strands running in opposite directions."
+    },
+    {
+      "term": "Okazaki Fragments",
+      "definition": "Short DNA pieces on the lagging strand."
+    }
+  ]
+}

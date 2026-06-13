@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "chapter_number": 1,
+    "topic": "Percentage Composition",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:10:45.064463",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we are going to learn about percentage composition in chemistry. This is an important topic for NEET exams. Let's start by understanding what percentage composition means. \n\nPercentage composition tells us how much of each element is present in a compound. It is given as a percentage. For example, if we have water (H2O), percentage composition tells us how much hydrogen and how much oxygen is there in water by percentage. \n\nTo calculate percentage composition, we use a simple formula. We find the mass of each element in one mole of the compound. Then, we divide this by the molar mass of the compound and multiply by 100. \n\nLet's take an example. Consider glucose, which has the formula C6H12O6. First, we find the molar mass of glucose. Carbon (C) has a mass of 12, hydrogen (H) has a mass of 1, and oxygen (O) has a mass of 16. So, the molar mass of glucose is (6×12) + (12×1) + (6×16) = 180 g/mol. \n\nNow, to find the percentage of carbon, we calculate (mass of carbon/molar mass of glucose) × 100. That is (72/180) × 100 = 40%. Similarly, we find hydrogen and oxygen percentages. \n\nNext, let's talk about empirical and molecular formulas. The empirical formula is the simplest ratio of atoms in a compound. The molecular formula shows the actual number of atoms. For instance, the empirical formula of hydrogen peroxide is HO, while the molecular formula is H2O2. \n\nTo find the empirical formula, we use the percentage composition. We convert percentage to grams, then to moles. We divide by the smallest number of moles to get the simplest ratio. \n\nA common mistake is confusing empirical formula with molecular formula. Remember, the empirical formula is always the simplest form. \n\nFinally, let's see how empirical and molecular formulas are related. The molecular formula is a multiple of the empirical formula. For example, if the empirical formula is CH2 and the molar mass is known, we can find the molecular formula. \n\nKey points to remember: \n1. Percentage composition helps us find how much of each element is in a compound. \n2. The empirical formula is the simplest whole number ratio of elements. \n3. The molecular formula shows the actual number of atoms in a compound. \n\nIn summary, understanding percentage composition and formula determination is crucial for NEET. Practice with different compounds to master these concepts. \n\nThat's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Percentage Composition",
+    "Empirical Formula",
+    "Molecular Formula",
+    "Molar Mass",
+    "Compound"
+  ],
+  "formulas": [
+    {
+      "formula": "Percentage = (mass of element / molar mass of compound) × 100",
+      "description": "Formula to calculate the percentage composition of an element in a compound"
+    },
+    {
+      "formula": "Molar mass of compound = sum of (number of atoms × atomic mass)",
+      "description": "Formula to calculate the molar mass of a compound"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Percentage Composition",
+      "definition": "The percentage by mass of each element in a compound."
+    },
+    {
+      "term": "Empirical Formula",
+      "definition": "The simplest whole number ratio of atoms in a compound."
+    },
+    {
+      "term": "Molecular Formula",
+      "definition": "The actual number of atoms of each element in a compound."
+    },
+    {
+      "term": "Molar Mass",
+      "definition": "The mass of one mole of a substance, usually in grams per mole."
+    }
+  ]
+}

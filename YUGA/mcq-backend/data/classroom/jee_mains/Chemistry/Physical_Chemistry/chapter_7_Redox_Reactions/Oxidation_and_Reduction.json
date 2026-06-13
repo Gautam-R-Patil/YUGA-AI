@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Redox Reactions",
+    "chapter_number": 7,
+    "topic": "Oxidation and Reduction",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:08:02.939455",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Redox Reactions. Redox stands for reduction and oxidation. These are important concepts in chemistry. \n\nFirst, let's understand what oxidation and reduction mean. Oxidation is when a substance gains oxygen or loses electrons. For example, when iron rusts, it reacts with oxygen. This is oxidation. Reduction is the opposite. It is when a substance loses oxygen or gains electrons. For example, when copper oxide turns into copper, it loses oxygen. This is reduction.\n\nNow, let's talk about oxidizing and reducing agents. An oxidizing agent helps another substance to oxidize. It itself gets reduced. A reducing agent helps another substance to reduce. It itself gets oxidized. For example, in the reaction between hydrogen and oxygen, oxygen is the oxidizing agent, and hydrogen is the reducing agent.\n\nNext, we have the concept of oxidation numbers. An oxidation number tells us the charge of an atom if the compound was ionic. For example, in H2O, the oxidation number of hydrogen is +1 and oxygen is -2. \n\nTo assign oxidation numbers, follow these rules: \n1. The oxidation number of an element in its natural state is 0. For example, O2 or N2.\n2. For a monoatomic ion, the oxidation number is equal to the charge. For example, Na+ has an oxidation number of +1.\n3. In compounds, hydrogen is usually +1, and oxygen is usually -2.\n\nLet's see some examples of redox reactions. One common example is the reaction between zinc and copper sulfate. Zinc displaces copper and forms zinc sulfate. Here, zinc is oxidized, and copper is reduced.\n\nRedox reactions are important in electrochemistry. In batteries, redox reactions help produce electricity. For example, in a zinc-carbon battery, zinc is oxidized, and manganese dioxide is reduced.\n\nSome common oxidizing agents are oxygen, chlorine, and potassium permanganate. Common reducing agents include hydrogen, carbon, and iron.\n\nRedox reactions happen in daily life too. Rusting of iron is a redox reaction. Photosynthesis in plants is another example.\n\nNow, let's talk about common mistakes in JEE Main. Students often confuse oxidizing and reducing agents. Remember, the oxidizing agent gets reduced, and the reducing agent gets oxidized. Also, be careful while assigning oxidation numbers. Follow the rules step by step.\n\nKey takeaways: Oxidation is the gain of oxygen or loss of electrons. Reduction is the loss of oxygen or gain of electrons. Use oxidation numbers to identify redox reactions. Remember the roles of oxidizing and reducing agents.\n\nIn summary, understanding redox reactions is crucial for JEE Main. Focus on the concepts and practice with examples. This will help you solve questions easily.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Oxidation",
+    "Reduction",
+    "Oxidizing Agent",
+    "Reducing Agent",
+    "Oxidation Number"
+  ],
+  "formulas": [
+    {
+      "formula": "Zn + CuSO4 -> ZnSO4 + Cu",
+      "description": "This formula shows a displacement reaction where zinc displaces copper. It's used to illustrate redox reactions in JEE Main."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Oxidation",
+      "definition": "Oxidation is the process of gaining oxygen or losing electrons."
+    },
+    {
+      "term": "Reduction",
+      "definition": "Reduction is the process of losing oxygen or gaining electrons."
+    },
+    {
+      "term": "Oxidizing Agent",
+      "definition": "An oxidizing agent is a substance that helps another substance oxidize and itself gets reduced."
+    },
+    {
+      "term": "Reducing Agent",
+      "definition": "A reducing agent is a substance that helps another substance reduce and itself gets oxidized."
+    },
+    {
+      "term": "Oxidation Number",
+      "definition": "An oxidation number is a number assigned to an element in a compound that represents the number of electrons lost or gained."
+    }
+  ]
+}

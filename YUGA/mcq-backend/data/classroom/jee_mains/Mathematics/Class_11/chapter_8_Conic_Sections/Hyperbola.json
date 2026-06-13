@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Conic Sections",
+    "chapter_number": 8,
+    "topic": "Hyperbola",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:52:06.415852",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Hyperbolas in the chapter of Conic Sections. You might remember circles and ellipses from the previous classes. A hyperbola is another type of conic section. It looks like two opposite curves. \n\nLet's start with the definition. A hyperbola is a set of points. The difference of distances from two fixed points, called foci, is constant. This is different from a circle or ellipse. In those, the sum of distances is constant.\n\nThe standard form of a hyperbola's equation is (x^2/a^2) - (y^2/b^2) = 1. Here, 'a' and 'b' are constants. They help define the size and shape of the hyperbola. The x-axis and y-axis are the main axes. If x^2 is first, the hyperbola opens left and right. If y^2 is first, it opens up and down.\n\nNow, let's talk about asymptotes. Asymptotes are lines that the hyperbola gets closer to but never touches. For the equation (x^2/a^2) - (y^2/b^2) = 1, the asymptotes are y = (b/a)x and y = -(b/a)x. These lines help us understand the direction of the hyperbola.\n\nEccentricity is another important term. It tells us how much the hyperbola is stretched. The formula for eccentricity (e) is e = √(1 + (b^2/a^2)). If e > 1, then it's a hyperbola. Remember, for circles, e = 0, and for ellipses, 0 < e < 1.\n\nLet's see a simple example. If the equation of a hyperbola is (x^2/9) - (y^2/4) = 1, then a^2 = 9 and b^2 = 4. So, a = 3 and b = 2. The asymptotes will be y = (2/3)x and y = -(2/3)x.\n\nA common mistake in JEE Main is confusing the sign in the equation. Remember, for hyperbolas, it's always a minus sign between the terms. Also, don't mix up the positions of a and b. They decide the direction of the hyperbola.\n\nIn JEE Main, questions often ask for the equation of asymptotes or eccentricity. Practice finding these quickly. It can save you time during the exam.\n\nTo sum up, remember the standard form of a hyperbola, its asymptotes, and eccentricity. These are key points for solving questions in JEE Main.\n\nThat's all for today. Keep practicing, and you'll master hyperbolas soon!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Hyperbola",
+    "Asymptotes",
+    "Eccentricity",
+    "Standard Form",
+    "Foci"
+  ],
+  "formulas": [
+    {
+      "formula": "(x^2/a^2) - (y^2/b^2) = 1",
+      "description": "Standard form of a hyperbola used to find its shape and direction"
+    },
+    {
+      "formula": "y = (b/a)x and y = -(b/a)x",
+      "description": "Equations of asymptotes for the standard hyperbola"
+    },
+    {
+      "formula": "e = √(1 + (b^2/a^2))",
+      "description": "Formula for eccentricity to determine how stretched the hyperbola is"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hyperbola",
+      "definition": "A set of points where the difference of distances from two foci is constant"
+    },
+    {
+      "term": "Asymptotes",
+      "definition": "Lines that the hyperbola approaches but never touches"
+    },
+    {
+      "term": "Eccentricity",
+      "definition": "A measure of how much a conic section deviates from being circular"
+    }
+  ]
+}

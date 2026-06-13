@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Alcohols, Phenols and Ethers",
+    "chapter_number": "25",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:25:39.535924",
+    "model_used": "gpt-4o",
+    "category": "Organic"
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET topics: Alcohols, Phenols, and Ethers.\n\n1. Alcohols\n*They are organic compounds that contain one or more hydroxyl (-OH) groups attached to a carbon atom.*\n\n- Nomenclature: Alcohols are named by replacing the '-e' of the parent alkane with '-ol'. For example, Methanol (CH$_3$OH).\n- Classification: Based on the number of hydroxyl groups (monohydric, dihydric, trihydric) and on the carbon atom bearing the OH group (primary, secondary, tertiary).\n- Physical Properties: Alcohols have higher boiling points than alkanes and ethers due to hydrogen bonding.\n- Chemical Properties: They undergo oxidation, dehydration, and react with acids to form esters (known as esterification).\n- Key Reactions:\n  1. Oxidation: Primary alcohols oxidize to aldehydes or carboxylic acids; secondary alcohols to ketones; tertiary alcohols show resistance to oxidation.\n  2. Dehydration: Alcohol $\rightarrow$ Alkene + Water, using concentrated H$_2$SO$_4$.\n\n2. Phenols\n*Phenols are aromatic compounds that have a hydroxyl group directly connected to the benzene ring.*\n\n- Nomenclature: The simplest phenol is referred to as phenol itself. Other substituents are named as prefixes.\n- Physical & Chemical Properties: Higher boiling points due to hydrogen bonding, more acidic than alcohols mostly due to stabilization of the phenoxide ion by resonance.\n- Key Reactions:\n  1. Nitration: Phenol reacts with dilute HNO$_3$ to form ortho and para-nitrophenols.\n  2. Bromination: Phenol reacts with bromine water to give 2,4,6-tribromophenol.\n\n3. Ethers\n*Ethers are compounds with an oxygen atom connected to two alkyl or aryl groups.*\n\n- Nomenclature: Named by naming the two alkyl or aryl groups followed by 'ether', e.g., diethyl ether.\n- Physical Properties: Lower boiling points compared to alcohols due to the absence of hydrogen bonding.\n- Chemical Properties: Generally unreactive but can undergo cleavage with strong acids like HI.\n\nNEET Question Pattern:\n- Commonly includes nomenclature questions, comparison of physical properties, and identification of major reaction products, especially oxidation/reduction and esterification reactions.\n- Phenol's acidity and reaction patterns are frequently tested areas.\n\nQuick Revision Points:\n1. Alcohols have hydroxyl groups; Phenols have hydroxyl groups directly on benzene rings; Ethers have an oxygen atom between two carbon chains.\n2. Alcohols exhibit hydrogen bonding, affecting their boiling points significantly.\n3. Oxidation is a key reaction for alcohols: check whether it leads to aldehydes, ketones, or acids.\n4. Phenols are more acidic than alcohols due to resonance stabilization of the phenoxide ion.\n5. Nomenclature varies between hydroxy (-OH), alkoxy (R-O) groups, with systematic nomenclature crucial for NEET.\n6. Familiarize with standard reduction and oxidation potential questions.\n7. Be aware of the major distinguishing tests: Lucas test (alcohols) and Ferric chloride test (phenols).\n",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Intermediate",
+  "images": [],
+  "keywords": [
+    "Alcohols",
+    "Phenols",
+    "Ethers",
+    "Hydroxyl group",
+    "Nomenclature",
+    "Oxidation",
+    "Dehydration",
+    "Esterification",
+    "Nitration",
+    "Bromination"
+  ],
+  "formulas": [
+    "None specific, focus on reaction types and sequences"
+  ],
+  "definitions": [
+    {
+      "term": "Alcohols",
+      "definition": "Organic compounds containing one or more hydroxyl (-OH) groups attached to a carbon atom."
+    },
+    {
+      "term": "Phenols",
+      "definition": "Aromatic compounds that have a hydroxyl group directly connected to the benzene ring."
+    },
+    {
+      "term": "Ethers",
+      "definition": "Compounds with an oxygen atom connected to two alkyl or aryl groups."
+    },
+    {
+      "term": "Hydroxyl group",
+      "definition": "A functional group with the formula -OH responsible for the characteristic reactions of alcohols and phenols."
+    },
+    {
+      "term": "Nomenclature",
+      "definition": "Systematic method of naming chemical compounds according to their structure."
+    },
+    {
+      "term": "Oxidation",
+      "definition": "A chemical reaction involving the loss of electrons or an increase in oxidation state, often producing more oxidized compounds."
+    },
+    {
+      "term": "Dehydration",
+      "definition": "A chemical reaction that involves the removal of water from a molecule."
+    },
+    {
+      "term": "Esterification",
+      "definition": "A chemical reaction forming an ester as the main product, typically between an alcohol and an acid."
+    },
+    {
+      "term": "Nitration",
+      "definition": "A chemical reaction that introduces a nitro group into an organic compound."
+    },
+    {
+      "term": "Bromination",
+      "definition": "A chemical reaction involving the addition of bromine to a compound, often used for substitution in aromatic rings."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Reproductive Health",
+    "chapter_number": 4,
+    "topic": "Reproductive Health and Family Planning",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:40:09.301953",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about reproductive health and family planning. This topic is very important for your NEET exam. Let's start with the concept of reproductive health. Reproductive health means the well-being of the reproductive system. It is not just about not having diseases. It also means having a healthy and safe reproductive life.\n\nNow, let's discuss birth control methods. Birth control helps in family planning. It prevents unwanted pregnancies. There are different types of birth control methods. First, we have natural methods. These include the rhythm method. Here, couples avoid intercourse during fertile days. Next, we have barrier methods like condoms. Condoms stop sperm from reaching the egg. They also protect against sexually transmitted diseases (STDs).\n\nHormonal methods include pills and injections. They change hormone levels to prevent pregnancy. IUDs or intrauterine devices are small devices placed in the uterus. They prevent the fertilized egg from implanting. Surgical methods include vasectomy and tubectomy. Vasectomy is for males. It cuts the sperm duct. Tubectomy is for females. It blocks the fallopian tubes.\n\nLet's talk about MTP, which stands for Medical Termination of Pregnancy. MTP is the medical way to end a pregnancy. It is legal in India under certain conditions. This helps in cases where the pregnancy may harm the mother or child.\n\nInfertility is when a couple cannot have children. It can be due to problems in males or females. Assisted reproductive technologies (ART) help these couples. IVF or In Vitro Fertilization is one such method. Here, fertilization happens outside the body. ZIFT and GIFT are other ART methods. ZIFT stands for Zygote Intra-Fallopian Transfer. GIFT means Gamete Intra-Fallopian Transfer.\n\nSexually transmitted diseases, or STDs, spread through sexual contact. Common STDs include HIV and syphilis. Symptoms can be sores or unusual discharge. Prevention includes using condoms and having safe sexual practices.\n\nRemember, vasectomy and tubectomy are permanent methods. They are not reversible. A common mistake is thinking that all birth control methods prevent STDs. Only barrier methods like condoms do this.\n\nIn summary, understanding reproductive health is key. It helps in making informed choices. Birth control methods have different advantages and disadvantages. Always choose the method that suits you best. Keep these points in mind for your NEET exam.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Reproductive Health",
+    "Birth Control",
+    "MTP",
+    "Infertility",
+    "STDs"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Reproductive Health",
+      "definition": "The well-being of the reproductive system, free from diseases."
+    },
+    {
+      "term": "Vasectomy",
+      "definition": "A surgical method for males to prevent sperm from reaching the egg."
+    },
+    {
+      "term": "Tubectomy",
+      "definition": "A surgical method for females to block the fallopian tubes."
+    },
+    {
+      "term": "IVF",
+      "definition": "In Vitro Fertilization, a method where fertilization happens outside the body."
+    },
+    {
+      "term": "ZIFT",
+      "definition": "Zygote Intra-Fallopian Transfer, a type of assisted reproductive technology."
+    },
+    {
+      "term": "GIFT",
+      "definition": "Gamete Intra-Fallopian Transfer, a method of assisted reproduction."
+    }
+  ]
+}

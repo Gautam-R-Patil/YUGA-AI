@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electronic Devices",
+    "chapter_number": 19,
+    "topic": "Semiconductors",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:02:30.736076",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today we will learn about semiconductors. This topic is very important for JEE Main. Let's start with the basics. \n\nFirst, what are semiconductors? Semiconductors are materials that have conductivity between conductors and insulators. This means they can conduct electricity, but not as well as metals. \n\nNow, let's talk about intrinsic semiconductors. Intrinsic semiconductors are pure semiconductors. They have no impurities. Silicon and germanium are common examples. At room temperature, they conduct a small amount of electricity. \n\nNext, we have extrinsic semiconductors. These are semiconductors with added impurities. This process is called doping. Doping increases their conductivity. There are two types: n-type and p-type. \n\nIn n-type semiconductors, we add elements with more electrons. This creates extra electrons, which are the charge carriers. In p-type semiconductors, we add elements with fewer electrons. This creates holes, which are also charge carriers. \n\nLet's understand doping with an example. If we add phosphorus to silicon, we get an n-type semiconductor. If we add boron, we get a p-type semiconductor. \n\nNow, let's look at energy band diagrams. These diagrams show energy levels in semiconductors. The conduction band is where free electrons are. The valence band is where bound electrons are. The gap between them is the energy gap. \n\nIn intrinsic semiconductors, the energy gap is small. This allows some electrons to move from the valence band to the conduction band. In extrinsic semiconductors, doping reduces this gap. \n\nNext, we discuss charge carriers. Electrons and holes are charge carriers in semiconductors. Electrons are negatively charged. Holes are positively charged. They move in opposite directions when a voltage is applied. \n\nLet's talk about conductivity and resistivity. Conductivity is the ability to conduct electricity. Resistivity is the opposite. It shows how much a material resists current. \n\nThe formula for conductivity (σ) is σ = 1/ρ, where ρ is resistivity. In JEE Main, you may need to calculate these values. \n\nTemperature affects conductivity. As temperature increases, conductivity of semiconductors increases. This is because more electrons gain energy to move to the conduction band. \n\nNow, let's see some applications. Semiconductors are used in diodes, transistors, and solar cells. They are essential in electronic devices. \n\nA common JEE Main mistake is confusing n-type and p-type semiconductors. Remember, n-type has extra electrons, and p-type has holes. \n\nKey takeaways: Remember the types of semiconductors and their properties. Practice using the conductivity formula. Avoid common mistakes in doping questions. \n\nIn summary, semiconductors are crucial in electronics. Understanding their properties helps in solving JEE Main problems. Keep practicing and reviewing these concepts. \n\nThat's all for today's lesson. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Semiconductors",
+    "Intrinsic",
+    "Extrinsic",
+    "Doping",
+    "Conductivity"
+  ],
+  "formulas": [
+    {
+      "formula": "σ = 1/ρ",
+      "description": "Used to calculate conductivity from resistivity in JEE Main problems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Semiconductors",
+      "definition": "Materials with conductivity between conductors and insulators"
+    },
+    {
+      "term": "Intrinsic Semiconductors",
+      "definition": "Pure semiconductors without impurities"
+    },
+    {
+      "term": "Extrinsic Semiconductors",
+      "definition": "Semiconductors with added impurities to increase conductivity"
+    },
+    {
+      "term": "Doping",
+      "definition": "The process of adding impurities to a semiconductor"
+    },
+    {
+      "term": "Charge Carriers",
+      "definition": "Particles that carry electric charge, like electrons and holes"
+    }
+  ]
+}

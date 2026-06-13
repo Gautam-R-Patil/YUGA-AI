@@ -1,0 +1,307 @@
+[
+    {
+        "id": 0,
+        "question_number": "1",
+        "text": "Which of the following are found in extreme saline conditions?",
+        "subject": "Biology",
+        "sub_topic": "Microbiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Archaebacteria",
+            "Eubacteria",
+            "Cyanobacteria",
+            "Mycobacteria"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 0,
+        "correct_answer": "Archaebacteria",
+        "explanation": "### Core Concept\nArchaebacteria are primitive prokaryotes known for being extremophiles. They possess unique cell wall and membrane structures that allow them to survive in environments that are lethal to most other life forms, such as high salinity, extreme temperatures, and high acidity.\n\n### Solution\nMicroorganisms that thrive specifically in high-salt environments are called halophiles, which belong to the domain Archaebacteria. Unlike Eubacteria, Archaebacteria have cell walls that lack peptidoglycan and possess ether-linked lipids in their cell membranes, which provides them with the chemical stability needed to prevent cellular collapse under high osmotic pressure.\n\n### Why This Answer\nArchaebacteria is the correct answer because it is the only group listed that includes halophiles. Eubacteria, Cyanobacteria, and Mycobacteria generally lack the specialized membrane chemistry required to survive in extreme saline conditions like the Dead Sea or Great Salt Lake.\n\n### Common Mistakes\n* Confusing Archaebacteria with Eubacteria: While both are single-celled organisms, their molecular architecture is fundamentally different; only Archaebacteria are true extremophiles.\n* Misidentifying Cyanobacteria: Though they are very hardy and found in many aquatic habitats, Cyanobacteria are primarily photosynthetic and do not inhabit extreme hypersaline pools.",
+        "basic_answer": "Archaebacteria are microorganisms that can thrive in extreme environments, including high salinity. These organisms possess unique biochemical pathways and structures that allow them to survive and reproduce in conditions that would be lethal to most other life forms. \n\nHence, Archaebacteria are found in extreme saline conditions.",
+        "keywords": {}
+    },
+    {
+        "id": 1,
+        "question_number": "122",
+        "text": "In a plant, black seed color (BB/Bb) is dominant over white seed color (bb). In order to find out the genotype of black seed plant, with which of the following genotype will you cross it?",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PAPAER (28)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "bb",
+            "Bb",
+            "None of the above",
+            "BB"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (28).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 3168,
+        "correct_answer": "bb",
+        "explanation": "### Core Concept\nWhen an organism exhibits a dominant phenotype (e.g., black seeds), it can be either homozygous dominant (BB) or heterozygous (Bb). To distinguish between these two, a Test Cross is required.\n\n### Solution\nA test cross involves breeding the unknown dominant individual with a homozygous recessive (bb) individual. \n* If the offspring are 100% black, the parent was likely BB.\n* If white offspring appear (usually 50%), the parent was Bb.\n\n### Why This Answer\nThe genotype bb is the only one that can reveal the hidden 'b' allele. If the black-seeded plant is a carrier (Bb), the recessive 'b' from both parents will combine to produce a white-seeded plant (bb), providing clear proof of the parent's genotype.\n\n### Common Mistakes\n* Crossing with BB: Crossing the unknown with a homozygous dominant plant will result in 100% black offspring regardless of whether the unknown was BB or Bb, failing to provide any new information.\n* Assuming Phenotype Equals Genotype: In dominant traits, you cannot assume the genotype by looking at the plant; the experimental cross is the standard method for verification.",
+        "basic_answer": "The black seed color is dominant, represented by the alleles BB or Bb. To determine the genotype of a black seed plant, a cross with a homozygous recessive plant (bb) will reveal whether the black seed plant is homozygous (BB) or heterozygous (Bb) based on the offspring's phenotypes. \n\nHence Option A is the correct answer.",
+        "keywords": {}
+    },
+    {
+        "id": 2,
+        "question_number": "3",
+        "text": "Myelin sheath is produced by:",
+        "subject": "Biology",
+        "sub_topic": "Neurobiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Astrocytes and Schwann cells",
+            "Oligodendrocytes and Osteoclasts",
+            "Osteoclasts and Astrocytes",
+            "Schwann cells and Oligodendrocytes"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 2,
+        "correct_answer": "Schwann cells and Oligodendrocytes",
+        "explanation": "### Core Concept\nThe myelin sheath is a lipid-rich insulating layer that wraps around nerve fibers (axons) to accelerate the transmission of electrical impulses. It is produced by different types of glial cells in different parts of the nervous system.\n\n### Solution\n* Oligodendrocytes: Myelinate multiple axons within the Central Nervous System (CNS), which consists of the brain and spinal cord.\n* Schwann cells: Myelinate a single segment of one axon in the Peripheral Nervous System (PNS).\n\n### Why This Answer\nOption D is the only selection that accurately identifies the two cells responsible for myelination. Other cells like Astrocytes support neuronal metabolism, and Osteoclasts are specialized for bone breakdown, having no role in the nervous system.\n\n### Common Mistakes\n* Confusing the Nervous Systems: Mixing up which cell belongs to the CNS versus the PNS. A useful tip: CO (Central = Oligodendrocyte) and PS (Peripheral = Schwann).\n* Attributing Myelin to Astrocytes: Because Astrocytes are the most common glial cells, students often assume they perform all supportive functions, but they do not produce myelin.",
+        "basic_answer": "Myelin sheath is produced by Schwann cells in the peripheral nervous system and oligodendrocytes in the central nervous system. Schwann cells wrap around axons to form a myelin sheath, while oligodendrocytes do the same in brain and spinal cord axons. \n\nHence, the answer is D.",
+        "keywords": {}
+    },
+    {
+        "id": 3,
+        "question_number": "4",
+        "text": "Which one of the following statements is correct with reference to enzymes?",
+        "subject": "Biology",
+        "sub_topic": "Biochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Holoenzyme = Apoenzyme + Coenzyme",
+            "Coenzyme = Apoenzyme + Holoenzyme",
+            "Holoenzyme = Coenzyme + CO-factor",
+            "Apoenzyme = Holoenzyme + Coenzyme"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 3,
+        "correct_answer": "Holoenzyme = Apoenzyme + Coenzyme",
+        "explanation": "### Core Concept\nMany enzymes require a non-protein component to become active. \n* Apoenzyme: The inactive, purely protein part of the enzyme.\n* Coenzyme/Cofactor: The organic or inorganic non-protein part required for activity.\n* Holoenzyme: The complete, catalytically active unit.\n\n### Solution\nThe functional enzyme is formed by the combination of the protein and non-protein parts: Holoenzyme = Apoenzyme + Cofactor. Since a coenzyme is a specific type of organic cofactor (like a vitamin), the equation Holoenzyme = Apoenzyme + Coenzyme is correct.\n\n### Why This Answer\nOption A correctly identifies that the holoenzyme is the \"whole\" or finished product. An apoenzyme is like a lock without a key; it only becomes a functional holoenzyme when the coenzyme binds to it.\n\n### Common Mistakes\n* Swapping Apo- and Holo-: Forgetting that \"Holo\" represents the Whole enzyme and \"Apo\" is the incomplete protein part.\n* Incorrect Mathematical Relation: Thinking an apoenzyme is the sum of other components. The holoenzyme is always the result of the addition.",
+        "basic_answer": "Holoenzyme is the complete enzyme with its cofactor. Apoenzyme is the protein part of the enzyme lacking its necessary cofactor. \n\nTherefore, the relationship is described by the equation: Holoenzyme = Apoenzyme + Coenzyme.",
+        "keywords": {}
+    },
+    {
+        "id": 4,
+        "question_number": "5",
+        "text": "Attractants and rewards are required for:",
+        "subject": "Botany",
+        "sub_topic": "Pollination",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Entomophily",
+            "Hydrophily",
+            "Cleistogamy",
+            "Anemophily"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 4,
+        "correct_answer": "Entomophily",
+        "explanation": "### Core Concept\nFlowers have evolved specific traits to facilitate the transfer of pollen. Biotic pollination (using animals) requires a system of \"advertisement\" and \"payment\" to ensure the pollinator visits the flower.\n\n### Solution\n* Entomophily: Pollination by insects. Flowers produce attractants (scents, bright petals) and rewards (nectar, pollen) to lure insects.\n* Anemophily (Wind) & Hydrophily (Water): Abiotic agents do not have senses and therefore do not require incentives.\n* Cleistogamy: Occurs in closed flowers that self-pollinate, requiring no external agents at all.\n\n### Why This Answer\nInsects are the only agents listed that search for food. Consequently, entomophilous plants must invest energy into making nectar and colorful displays to ensure their pollen is moved between plants.\n\n### Common Mistakes\n* Assuming all flowers have rewards: Thinking that wind-pollinated flowers (like corn or grass) produce nectar. They do not, as wind cannot be \"attracted.\"\n* Confusing the two terms: An attractant brings the insect to the plant (visual/olfactory), while the reward ensures the insect actually lands and picks up/deposits pollen.",
+        "basic_answer": "Attractants and rewards are essential for entomophily, which is the pollination by insects. Flowers produce nectar and emit scents to attract these pollinators, facilitating the transfer of pollen. \n\nHence the answer is A.",
+        "keywords": {}
+    },
+    {
+        "id": 5,
+        "question_number": "6",
+        "text": "A decrease in blood pressure/volume will not cause the release of",
+        "subject": "Biology",
+        "sub_topic": "Human Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Atrial natriuretic factor",
+            "Aldosterone",
+            "ADH",
+            "Renin"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 5,
+        "correct_answer": "Atrial natriuretic factor",
+        "explanation": "### Core Concept\nThe body uses a feedback loop to maintain blood pressure. When pressure falls, the body releases hormones to conserve water and constrict vessels. When pressure is too high, it releases factors to lower it.\n\n### Solution\n* Renin, Aldosterone, and ADH: These act to increase blood pressure. Renin triggers the production of Angiotensin, Aldosterone causes salt/water retention, and ADH (Antidiuretic Hormone) prevents water loss in the kidneys.\n* Atrial Natriuretic Factor (ANF): This is released by the heart when blood pressure is high. It acts as a vasodilator and promotes the excretion of sodium/water to lower blood pressure.\n\n### Why This Answer\nBecause ANF's entire function is to decrease blood pressure, it would be physiological suicide for the body to release it when pressure is already low. Therefore, a decrease in pressure inhibits ANF and triggers the other three.\n\n### Common Mistakes\n* Missing the \"Not\": Misreading the question as \"what is released during low blood pressure.\"\n* Confusing ADH and ANF: Remembering that ADH saves water, while ANF gets rid of it.",
+        "basic_answer": "A decrease in blood pressure triggers the release of hormones like aldosterone, ADH, and renin to help restore blood volume. In contrast, atrial natriuretic factor is released in response to increased blood pressure and volume, so it would not be released during a decrease.",
+        "keywords": {}
+    },
+    {
+        "id": 6,
+        "question_number": "7",
+        "text": "Receptor sites for neurotransmitters are present on:",
+        "subject": "Biology",
+        "sub_topic": "Neurobiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Pre-synaptic membrane",
+            "Tips of axons",
+            "Postsynaptic membrane",
+            "Membrane of synaptic vesicles"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 6,
+        "correct_answer": "Postsynaptic membrane",
+        "explanation": "### Core Concept\nA synapse is the junction where two neurons communicate. The signal is typically unidirectional, moving from a \"sender\" to a \"receiver\" via chemical messengers.\n\n### Solution\n* Presynaptic Membrane: Part of the sending neuron; it releases neurotransmitters.\n* Synaptic Vesicles: Tiny sacs inside the sending neuron that store neurotransmitters.\n* Postsynaptic Membrane: Part of the receiving neuron; it contains the specific receptor sites that detect the neurotransmitters.\n\n### Why This Answer\nThe neurotransmitters must cross the synaptic cleft and bind to receptors on the receiving cell to propagate the signal. Thus, the receptors are naturally located on the postsynaptic membrane.\n\n### Common Mistakes\n* Confusing the Direction: Thinking receptors are on the presynaptic side. While \"autoreceptors\" do exist there for feedback, the primary signaling receptors targeted by the question are postsynaptic.\n* Vesicle Misunderstanding: Thinking receptors are inside the storage vesicles. Receptors are transmembrane proteins on the cell's outer surface.",
+        "basic_answer": "Receptor sites for neurotransmitters are predominantly located on the postsynaptic membrane, where neurotransmitters bind and trigger responses in the receiving neuron. This binding initiates signaling pathways essential for neurotransmission. \n\nTherefore, the answer is C.",
+        "keywords": {
+            "NT": "Neurotransmitter",
+            "RM": "Receptor Membrane",
+            "PSM": "Postsynaptic Membrane",
+            "SM": "Synaptic Membrane"
+        }
+    },
+    {
+        "id": 7,
+        "question_number": "8",
+        "text": "Which cells of 'Crypts of Lieberkühn' secrete antibacterial lysozyme?",
+        "subject": "Biology",
+        "sub_topic": "Human Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Paneth cells",
+            "Zymogen cells",
+            "Kupffer cells",
+            "Argentaffin cells"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 7,
+        "correct_answer": "Paneth cells",
+        "explanation": "### Core Concept\nThe Crypts of Lieberkühn are small glands found in the intestinal mucosa. They contain a variety of specialized cells that contribute to digestion, hormone regulation, and immune defense.\n\n### Solution\n* Paneth Cells: Located at the bottom of the intestinal crypts. They produce and secrete large amounts of lysozyme and other antimicrobial peptides to maintain a healthy gut flora.\n* Zymogen Cells: Found in the stomach; they secrete digestive enzymes like pepsinogen.\n* Kupffer Cells: Specialized macrophages located in the liver.\n* Argentaffin Cells: Hormone-producing cells found in the digestive tract.\n\n### Why This Answer\nPaneth cells are the primary immune effector cells of the small intestine. Their high concentration of lysozyme-containing granules makes them the correct choice for this specific secretory function.\n\n### Common Mistakes\n* Mixing Digestive Organs: Confusing stomach cells (Zymogen) with intestinal cells (Paneth).\n* Generalizing Immune Cells: Thinking Kupffer cells are involved because they are also part of the immune system, despite being in the liver.",
+        "basic_answer": "Paneth cells are specialized cells found in the Crypts of Lieberkühn that secrete antibacterial lysozyme. Lysozyme is an enzyme that breaks down bacterial cell walls, contributing to the gut's immune defense.",
+        "keywords": {}
+    },
+    {
+        "id": 8,
+        "question_number": "121",
+        "text": "A pink flowered Snapdragon plant was crossed with a red flowered Snapdragon plant. What type of phenotype/s is/are expected in the progeny?",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PAPAER (28)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Red flowered as well as pink flowered plants",
+            "Only pink flowered plants",
+            "Red, Pink as well as white flowered plants",
+            "Only red flowered plants"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (28).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 3167,
+        "correct_answer": "Red flowered as well as pink flowered plants",
+        "explanation": "### Core Concept\nSnapdragon flower color is the classic textbook example of Incomplete Dominance. This occurs when the dominant allele does not fully cover the recessive one, resulting in a blended intermediate phenotype in heterozygous individuals.\n\n### Solution\n* RR = Red flowers\n* Rr = Pink flowers (Intermediate)\n* rr = White flowers\n\nThe Cross: Red (RR) x Pink (Rr)\n* Gametes from Red parent: All R\n* Gametes from Pink parent: R and r\n* Offspring Genotypes: 50% RR, 50% Rr\n* Offspring Phenotypes: 50% Red, 50% Pink\n\n### Why This Answer\nBecause the red parent only provides 'R' alleles, it is impossible for an offspring to be white (rr). Half the offspring will get 'R' from both parents (Red), and half will get 'R' and 'r' (Pink).\n\n### Common Mistakes\n* Using Mendelian Ratios: Expecting a 3:1 ratio or thinking all offspring will be red. This ignores the incomplete dominance of the snapdragon trait.\n* Expecting White Offspring: Thinking white could appear. White only appears if both parents carry the 'r' allele (e.g., Pink x Pink).",
+        "basic_answer": "In Snapdragon, flower colour shows incomplete dominance. Red is RR, white is rr and pink is the heterozygote Rr. In the given cross, pink (Rr) x red (RR) produces gametes R, r from the pink parent and R from the red parent, giving progeny RR (red) and Rr (pink) in a 1:1 ratio. \n\nThus, both red and pink flowered plants appear in the progeny.",
+        "keywords": {}
+    },
+    {
+        "id": 9,
+        "question_number": "1",
+        "text": "Adult human RBCs are enucleated. Which of the following statement(s) is/ are the most appropriate explanation for this feature?",
+        "subject": "Biology",
+        "sub_topic": "Human Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "They do not need to reproduce",
+            "They are somatic cells",
+            "They do not metabolize",
+            "All their internal space is available for oxygen transport"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 9,
+        "correct_answer": "All their internal space is available for oxygen transport",
+        "explanation": "### Core Concept\nRed blood cells (erythrocytes) are highly specialized cells whose structure is perfectly adapted for gas exchange. Enucleation is the process where the cell ejects its nucleus during maturation.\n\n### Solution\nBy getting rid of the nucleus, mitochondria, and other organelles, the RBC becomes a flexible, biconcave pouch. This maximizes the internal concentration of hemoglobin, allows the cell to carry more oxygen, and increases its surface-area-to-volume ratio for faster diffusion.\n\n### Why This Answer\nOption D provides the primary biological advantage. While losing a nucleus means the cell can no longer reproduce, that is an evolutionary tradeoff for the benefit of being a more efficient oxygen carrier.\n\n### Common Mistakes\n* Somatic Cell Logic: Thinking all somatic cells lack nuclei (most have them). RBCs are a rare exception.\n* Metabolism Error: Thinking RBCs have no metabolism. They do metabolize glucose, but they do so anaerobically so they don't \"eat\" the oxygen they are supposed to be delivering.",
+        "basic_answer": "Red blood cells (RBCs) are enucleated which means they lack a nucleus. This feature allows them to have a larger volume available for hemoglobin and increased capacity for oxygen transport. Therefore, all their internal space is available for oxygen transport.",
+        "keywords": {}
+    }
+]

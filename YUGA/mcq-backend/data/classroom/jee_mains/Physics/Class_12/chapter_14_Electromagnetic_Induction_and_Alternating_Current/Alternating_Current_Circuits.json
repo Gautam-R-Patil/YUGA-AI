@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electromagnetic Induction and Alternating Current",
+    "chapter_number": 14,
+    "topic": "Alternating Current Circuits",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:58:45.586647",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about Alternating Current Circuits. You have learned about direct current in earlier classes. Now, let's see what alternating current is.\n\nFirst, let's discuss AC Voltage and Current. In AC circuits, the voltage and current change direction. They do not stay constant like in DC circuits. The voltage and current repeat in cycles. This is called a sinusoidal wave. An example is the electricity in our homes.\n\nNext, we have Phasor Representation. A phasor is a tool to show AC quantities. It is like a rotating arrow. The length of the arrow shows the size of the voltage or current. The angle shows the phase difference. This helps in solving AC problems easily.\n\nNow, let's learn about Impedance and Reactance. Impedance is like resistance in AC circuits. It is the total opposition to current flow. Reactance is the part of impedance that changes with frequency. It comes from capacitors and inductors. Impedance is written as Z = R + jX, where R is resistance and X is reactance.\n\nLet's move to the RLC Series Circuit. It has a resistor (R), inductor (L), and capacitor (C) in series. The total impedance is Z = √(R^2 + (X_L - X_C)^2). Here, X_L is inductive reactance and X_C is capacitive reactance. When X_L equals X_C, the circuit is in resonance.\n\nResonance in AC Circuits is important. At resonance, the impedance is minimum, and the current is maximum. This happens at the resonant frequency, f_r = 1 / (2π√(LC)). It is like tuning a radio to a station.\n\nLet's look at a simple example. If R = 10 Ω, L = 0.1 H, and C = 100 μF, find the resonant frequency. Use the formula: f_r = 1 / (2π√(LC)). Substitute the values: f_r = 1 / (2π√(0.1 x 100 x 10^-6)) = 50.3 Hz.\n\nJEE Main Mistake: Students often forget to convert units. Always check units before solving.\n\nKey Takeaways: Remember the formulas for impedance and resonant frequency. Use phasors to simplify AC problems.\n\nIn summary, AC circuits are different from DC circuits. We use phasors to represent AC quantities. Impedance is the total opposition in AC circuits. RLC circuits have a special condition called resonance.\n\nThat's all for today. Practice these concepts and formulas. They are important for JEE Main. See you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Alternating Current",
+    "Phasor",
+    "Impedance",
+    "RLC Circuit",
+    "Resonance"
+  ],
+  "formulas": [
+    {
+      "formula": "Z = R + jX",
+      "description": "Total impedance in an AC circuit, where R is resistance and X is reactance"
+    },
+    {
+      "formula": "Z = √(R^2 + (X_L - X_C)^2)",
+      "description": "Impedance in an RLC series circuit"
+    },
+    {
+      "formula": "f_r = 1 / (2π√(LC))",
+      "description": "Resonant frequency of an RLC circuit"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alternating Current",
+      "definition": "Current that changes direction periodically"
+    },
+    {
+      "term": "Phasor",
+      "definition": "A rotating vector used to represent AC quantities"
+    },
+    {
+      "term": "Impedance",
+      "definition": "Total opposition to current flow in an AC circuit"
+    },
+    {
+      "term": "Resonance",
+      "definition": "Condition in an AC circuit where impedance is minimum and current is maximum"
+    }
+  ]
+}

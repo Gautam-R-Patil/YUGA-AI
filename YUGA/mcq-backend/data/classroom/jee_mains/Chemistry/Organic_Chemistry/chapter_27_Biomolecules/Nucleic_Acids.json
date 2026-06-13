@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Biomolecules",
+    "chapter_number": 27,
+    "topic": "Nucleic Acids",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:29:47.499204",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about nucleic acids. These are important molecules in our body. They are DNA and RNA. Let's start with their structure.\n\nDNA stands for Deoxyribonucleic Acid. It is like a twisted ladder. This shape is called a double helix. DNA has two strands. Each strand is made of units called nucleotides. A nucleotide has three parts: a sugar, a phosphate group, and a nitrogen base.\n\nRNA is Ribonucleic Acid. It is usually single-stranded. It also has nucleotides. But the sugar in RNA is ribose, not deoxyribose. RNA has a different base called uracil instead of thymine.\n\nNow, let's talk about nucleosides. A nucleoside is simpler than a nucleotide. It has only a sugar and a nitrogen base. No phosphate group here.\n\nNext, let's discuss base pairing. In DNA, adenine (A) pairs with thymine (T), and cytosine (C) pairs with guanine (G). In RNA, adenine pairs with uracil (U) instead of thymine. Remember, A pairs with T (or U in RNA), and C pairs with G. This is important for the structure and function of DNA and RNA.\n\nDNA replication is the process of copying DNA. Each strand of the double helix serves as a template. This means it helps make a new strand. The result is two identical DNA molecules.\n\nTranscription is making RNA from DNA. During transcription, a part of DNA is copied into RNA. This RNA will later help in making proteins.\n\nThe genetic code is like a language. It tells cells how to make proteins. The code is read in sets of three bases called codons. Each codon stands for an amino acid.\n\nMutations are changes in the DNA sequence. They can happen naturally or due to errors. Some mutations are harmful, some are neutral, and some can be beneficial.\n\nLet's look at some common mistakes in JEE Main. Remember, A always pairs with T (or U in RNA). Don't mix up the bases. Also, be careful with the sugar names: deoxyribose in DNA and ribose in RNA.\n\nKey takeaways: DNA is double-stranded, RNA is single-stranded. Base pairing rules are A-T, C-G in DNA, and A-U, C-G in RNA. Understand replication and transcription processes.\n\nIn conclusion, nucleic acids are vital for life. They store and transfer genetic information. Practice these concepts, and you will be ready for JEE Main. Keep revising, and good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "DNA",
+    "RNA",
+    "Nucleotide",
+    "Base Pairing",
+    "Genetic Code"
+  ],
+  "formulas": [
+    {
+      "formula": "A-T, C-G",
+      "description": "Base pairing rules in DNA. Adenine pairs with Thymine, and Cytosine pairs with Guanine."
+    },
+    {
+      "formula": "A-U, C-G",
+      "description": "Base pairing rules in RNA. Adenine pairs with Uracil, and Cytosine pairs with Guanine."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nucleotide",
+      "definition": "A building block of DNA and RNA, consisting of a sugar, a phosphate group, and a nitrogen base."
+    },
+    {
+      "term": "Nucleoside",
+      "definition": "A compound consisting of a sugar and a nitrogen base, without a phosphate group."
+    },
+    {
+      "term": "Replication",
+      "definition": "The process of copying DNA to make two identical DNA molecules."
+    },
+    {
+      "term": "Transcription",
+      "definition": "The process of copying a segment of DNA into RNA."
+    },
+    {
+      "term": "Mutation",
+      "definition": "A change in the DNA sequence that can affect genetic information."
+    }
+  ]
+}

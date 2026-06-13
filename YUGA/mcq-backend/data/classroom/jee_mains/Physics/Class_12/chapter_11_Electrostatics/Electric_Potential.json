@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electrostatics",
+    "chapter_number": 11,
+    "topic": "Electric Potential",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:55:28.036242",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Electric Potential in Electrostatics. Let's start with some basic ideas you already know. Remember how charges can exert forces on each other? Now, we will see how they also have energy related to their positions. This energy is called Potential Energy in an Electric Field. \n\nFirst, let's understand Potential Energy in an Electric Field. Imagine you have a positive charge. It creates an electric field around it. If you bring another charge into this field, it will have potential energy. The potential energy depends on the charge's position in the field. The closer the charge, the higher the potential energy.\n\nNow, let's talk about Potential due to a Point Charge. A Point Charge is a charge that is concentrated at a single point in space. The electric potential (V) due to a point charge (Q) at a distance (r) is given by the formula: V = kQ/r. Here, k is a constant called Coulomb's constant. This formula helps us find the potential at any point around a charge.\n\nNext, we have Potential due to a System of Charges. If you have multiple charges, the total potential at a point is the sum of potentials due to each charge. So, if you have charges Q1, Q2, ..., Qn at distances r1, r2, ..., rn, the total potential V is V = k(Q1/r1 + Q2/r2 + ... + Qn/rn). This is useful in problems with more than one charge.\n\nLet's move on to Equipotential Surfaces. These are surfaces where the electric potential is the same at every point. Imagine a sphere around a charge; every point on the sphere has the same potential. If you move along an equipotential surface, no work is done. This is because the potential does not change.\n\nNow, we will discuss the Relation between Field and Potential. The electric field (E) is related to the potential difference (∆V) by the formula E = -∆V/∆d, where ∆d is the distance over which the potential changes. This tells us how the field and potential are connected.\n\nLet's see an example. If a point charge Q is 3 meters away, and you want to find the potential at that point, use V = kQ/r. Substitute the values and solve. Remember, in JEE Main, units are important. Always check your units.\n\nCommon mistake alert! In JEE Main, students often forget that potential is a scalar quantity. This means it does not have direction. Only the magnitude matters. Also, be careful with signs. Positive and negative charges affect potential differently.\n\nKey takeaways: 1. Potential energy depends on position in the field. 2. Use V = kQ/r for point charges. 3. Add potentials for multiple charges. 4. Equipotential surfaces mean no work done. 5. Electric field is related to potential difference.\n\nIn summary, understanding electric potential helps in solving many JEE Main problems. Practice using these formulas and concepts. It will make your preparation strong. That's all for today. Keep practicing and stay curious!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electric Potential",
+    "Point Charge",
+    "Equipotential Surfaces",
+    "Electric Field",
+    "Potential Energy"
+  ],
+  "formulas": [
+    {
+      "formula": "V = kQ/r",
+      "description": "Used to find the electric potential at a distance r from a point charge Q"
+    },
+    {
+      "formula": "V = k(Q1/r1 + Q2/r2 + ... + Qn/rn)",
+      "description": "Used to calculate the total potential due to multiple charges"
+    },
+    {
+      "formula": "E = -∆V/∆d",
+      "description": "Relates the electric field to the potential difference over a distance"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Potential Energy",
+      "definition": "Energy stored due to a charge's position in an electric field"
+    },
+    {
+      "term": "Point Charge",
+      "definition": "A charge that is concentrated at a single point in space"
+    },
+    {
+      "term": "Equipotential Surface",
+      "definition": "A surface where the electric potential is the same at every point"
+    }
+  ]
+}

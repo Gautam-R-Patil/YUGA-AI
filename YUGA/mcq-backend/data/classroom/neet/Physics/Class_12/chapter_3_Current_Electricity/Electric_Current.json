@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Current Electricity",
+    "chapter_number": 3,
+    "topic": "Electric Current",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:07:45.158850",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about electric current. This is an important topic in physics and for NEET exams. Let's start with the basics. \n\nElectric current is the flow of electric charge. We measure it in amperes (A). The formula for electric current is I = Q/t. Here, I is the current, Q is the charge in coulombs, and t is time in seconds. So, if 1 coulomb of charge flows in 1 second, the current is 1 ampere. \n\nNext, let's talk about current density. Current density is the amount of electric current flowing per unit area. The formula is J = I/A, where J is current density, I is current, and A is the area. Think of it like water flowing through a pipe. If the pipe is narrow, the water flows faster. \n\nNow, we have Ohm's Law. This is a key concept. Ohm's Law states that the voltage (V) across a conductor is equal to the current (I) times the resistance (R). The formula is V = IR. This means if you know two values, you can find the third. \n\nResistance is a measure of how much a material opposes the flow of current. The formula for resistance is R = ρL/A. Here, ρ (rho) is resistivity, L is the length, and A is the area. Materials with low resistivity are good conductors. \n\nResistance changes with temperature. The formula is R = R₀(1 + αΔT). R₀ is the original resistance, α (alpha) is the temperature coefficient, and ΔT is the change in temperature. Metals usually have higher resistance at higher temperatures. \n\nLet's look at electrical energy and power. Power is the rate at which energy is used. The formula is P = VI. If you have a device with 2 amperes of current and 10 volts, the power is 20 watts. \n\nNow, let's discuss units and dimensions. Current is measured in amperes, voltage in volts, and resistance in ohms. Remember, 1 ampere = 1 coulomb/second. \n\nGraphical representation of V-I characteristics is important. For a resistor, the graph is a straight line. This shows that voltage and current are directly proportional. \n\nTo verify Ohm's Law, we do a simple experiment. Connect a resistor to a battery. Measure the voltage and current. Change the resistance and see how the current changes. This confirms V = IR. \n\nFinally, let's understand drift velocity and mobility. Drift velocity is the average speed of electrons in a conductor. Mobility is how quickly an electron can move through a material. Higher mobility means better conductivity. \n\nKey points to remember: Electric current is the flow of charge. Ohm's Law is V = IR. Resistance depends on the material and temperature. \n\nIn summary, electric current is a basic but crucial concept. Understanding it helps you solve many problems in physics and NEET exams. Keep practicing, and you'll do great!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Electric Current",
+    "Ohm's Law",
+    "Resistance",
+    "Drift Velocity",
+    "Power"
+  ],
+  "formulas": [
+    {
+      "formula": "I = Q/t",
+      "description": "Current (I) is charge (Q) divided by time (t)"
+    },
+    {
+      "formula": "J = I/A",
+      "description": "Current density (J) is current (I) per unit area (A)"
+    },
+    {
+      "formula": "V = IR",
+      "description": "Ohm's Law: Voltage (V) is current (I) times resistance (R)"
+    },
+    {
+      "formula": "R = ρL/A",
+      "description": "Resistance (R) is resistivity (ρ) times length (L) divided by area (A)"
+    },
+    {
+      "formula": "R = R₀(1 + αΔT)",
+      "description": "Resistance changes with temperature; R₀ is initial resistance, α is temperature coefficient, ΔT is temperature change"
+    },
+    {
+      "formula": "P = VI",
+      "description": "Power (P) is voltage (V) times current (I)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electric Current",
+      "definition": "The flow of electric charge, measured in amperes"
+    },
+    {
+      "term": "Current Density",
+      "definition": "Amount of electric current per unit area"
+    },
+    {
+      "term": "Resistance",
+      "definition": "Measure of how much a material opposes the flow of electric current"
+    },
+    {
+      "term": "Drift Velocity",
+      "definition": "Average speed of electrons in a conductor"
+    },
+    {
+      "term": "Mobility",
+      "definition": "How quickly an electron can move through a material"
+    }
+  ]
+}

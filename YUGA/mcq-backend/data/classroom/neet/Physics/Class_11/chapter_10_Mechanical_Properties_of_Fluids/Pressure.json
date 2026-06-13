@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Mechanical Properties of Fluids",
+    "chapter_number": 10,
+    "topic": "Pressure",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:58:04.022265",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about pressure in fluids. First, let's understand what pressure is. Pressure is the force applied on a surface divided by the area of that surface. Imagine pressing your hand on a table. The force from your hand is spread over the area of your palm. \n\nTo calculate pressure, we use the formula: Pressure = Force / Area. Here, force is in newtons (N) and area is in square meters (m²). The unit of pressure is the pascal (Pa). One pascal equals one newton per square meter. \n\nNow, let's talk about other units of pressure. Besides pascal, we use bar and atmosphere. One bar equals 100,000 pascals. One atmosphere is about 101,325 pascals. These units help us measure pressure in different situations. \n\nLet's look at some examples of pressure in fluids. Think about a swimming pool. The water at the bottom feels more pressure than the water at the top. This is because pressure increases with depth. Another example is air pressure. We feel air pressure all around us, but we don't notice it because we are used to it. \n\nPressure is very important in engineering. For example, engineers design dams to hold water pressure. They also make sure airplane cabins can handle air pressure changes. These applications show how pressure helps us in real life. \n\nNow, let's solve a simple problem. Suppose a force of 50 N is applied on an area of 2 m². What is the pressure? Using our formula, Pressure = Force / Area, we get Pressure = 50 N / 2 m² = 25 Pa. \n\nRemember, a common mistake is to forget units. Always check if your force is in newtons and area in square meters. \n\nIn summary, pressure is a key concept in fluids. It is the force on an area. We measure it in pascals, bars, or atmospheres. Pressure is everywhere, from swimming pools to air around us. It helps us in many engineering tasks. \n\nThat's all for today. Keep practicing and you'll master pressure in no time!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Pressure",
+    "Force",
+    "Area",
+    "Pascal",
+    "Atmosphere"
+  ],
+  "formulas": [
+    {
+      "formula": "Pressure = Force / Area",
+      "description": "Pressure is calculated by dividing the force by the area over which it is applied."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pressure",
+      "definition": "Pressure is the force applied on a surface divided by the area of that surface."
+    },
+    {
+      "term": "Pascal",
+      "definition": "Pascal is a unit of pressure equal to one newton per square meter."
+    }
+  ]
+}

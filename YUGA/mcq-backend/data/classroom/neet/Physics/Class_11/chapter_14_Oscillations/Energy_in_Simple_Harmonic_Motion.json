@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations",
+    "chapter_number": 14,
+    "topic": "Energy in Simple Harmonic Motion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:03:59.153814",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about energy in Simple Harmonic Motion, or SHM. This is an important topic for your NEET exams. Let's start by understanding what SHM is. It is a type of motion where an object moves back and forth around a central point. Think of a swinging pendulum or a mass on a spring.\n\nNow, let's talk about energy in SHM. There are two main types of energy here: kinetic energy and potential energy. Kinetic energy is the energy of motion. When the object moves fastest, its kinetic energy is highest. Potential energy is stored energy. It is highest when the object is at its farthest point from the center.\n\nIn SHM, the total energy is the sum of kinetic and potential energy. This total energy stays the same. We say it is conserved. This means energy changes form, but the total amount does not change.\n\nLet's look at an example. Imagine a mass on a spring. When the spring is compressed, the potential energy is high. As the spring releases, the mass moves, and kinetic energy increases. At the center, kinetic energy is highest, and potential energy is zero.\n\nA common mistake is to think energy is lost. Remember, energy changes form, but the total is constant. This is the conservation of energy.\n\nNow, let's solve a simple problem. If a spring has a potential energy of 10 J at its maximum extension, what is its kinetic energy at the center? The total energy is conserved, so the kinetic energy at the center is also 10 J.\n\nKey points to remember: Kinetic energy is highest at the center. Potential energy is highest at the ends. Total energy is conserved.\n\nIn summary, energy in SHM involves the interchange between kinetic and potential energy. Total energy remains constant. This concept is important for understanding many physical systems.\n\nThat's all for today. Remember to practice these concepts with more examples. See you in the next class!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Simple Harmonic Motion",
+    "Kinetic Energy",
+    "Potential Energy",
+    "Conservation of Energy",
+    "Mass-Spring System"
+  ],
+  "formulas": [
+    {
+      "formula": "E_total = KE + PE",
+      "description": "Total energy in SHM is the sum of kinetic energy (KE) and potential energy (PE)"
+    },
+    {
+      "formula": "KE = 1/2 mv^2",
+      "description": "Kinetic energy formula where m is mass and v is velocity"
+    },
+    {
+      "formula": "PE = 1/2 kx^2",
+      "description": "Potential energy formula for a spring where k is spring constant and x is displacement"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Simple Harmonic Motion",
+      "definition": "A type of periodic motion where the restoring force is directly proportional to the displacement"
+    },
+    {
+      "term": "Kinetic Energy",
+      "definition": "The energy that an object possesses due to its motion"
+    },
+    {
+      "term": "Potential Energy",
+      "definition": "The stored energy of an object due to its position or state"
+    },
+    {
+      "term": "Conservation of Energy",
+      "definition": "The principle stating that the total energy of an isolated system remains constant"
+    }
+  ]
+}

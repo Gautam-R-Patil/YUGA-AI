@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Organisms and Populations",
+    "chapter_number": 13,
+    "topic": "Organisms and Environment",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:44:53.868720",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will talk about how organisms live in their environment. This is an important topic for NEET. Let's start with ecological adaptations. These are changes that help organisms survive. There are three types: morphological, physiological, and behavioral. Morphological adaptations are changes in the body. For example, camels have long eyelashes. This keeps sand out of their eyes. Physiological adaptations are changes inside the body. For example, some fish can live in both saltwater and freshwater. Behavioral adaptations are changes in the way an organism acts. For example, birds migrate to warmer places in winter.\n\nNow, let's talk about population interactions. There are different ways organisms interact. Mutualism is when both organisms benefit. For example, bees and flowers. Bees get nectar, and flowers get pollinated. Competition is when organisms fight for the same resource. For example, two plants fighting for sunlight. Predation is when one organism eats another. For example, a lion eating a deer. Parasitism is when one organism lives on another and harms it. For example, ticks on a dog.\n\nNext, we have population attributes. These include birth rate, death rate, and age distribution. Birth rate is how many new organisms are born. Death rate is how many organisms die. Age distribution is the number of young, middle-aged, and old organisms. These attributes help us understand how a population grows.\n\nLet's talk about some key terms. A niche is the role of an organism in its environment. A habitat is where an organism lives. Symbiosis is a close relationship between two organisms. It can be mutualism, commensalism, or parasitism.\n\nOne important diagram is the population growth curve. It shows how a population grows over time. There are two main types: exponential and logistic. Exponential growth is when a population grows quickly. Logistic growth is when a population grows and then levels off. This is because of limited resources.\n\nRemember, these concepts are often tested in NEET. A common mistake is confusing mutualism with commensalism. In commensalism, one benefits and the other is not affected.\n\nIn summary, organisms adapt to their environment in many ways. They also interact with each other in different ways. Understanding these concepts is key for NEET. Keep practicing, and you will do great!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Ecological Adaptations",
+    "Population Interactions",
+    "Birth Rate",
+    "Death Rate",
+    "Population Growth"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Morphological Adaptation",
+      "definition": "Changes in an organism's body to help it survive."
+    },
+    {
+      "term": "Physiological Adaptation",
+      "definition": "Changes inside an organism's body to help it survive."
+    },
+    {
+      "term": "Behavioral Adaptation",
+      "definition": "Changes in the way an organism acts to help it survive."
+    },
+    {
+      "term": "Niche",
+      "definition": "The role of an organism in its environment."
+    },
+    {
+      "term": "Habitat",
+      "definition": "The place where an organism lives."
+    },
+    {
+      "term": "Symbiosis",
+      "definition": "A close relationship between two organisms."
+    }
+  ]
+}

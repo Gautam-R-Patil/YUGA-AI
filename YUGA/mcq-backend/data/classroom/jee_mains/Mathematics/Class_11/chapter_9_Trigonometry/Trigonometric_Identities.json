@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Trigonometry",
+    "chapter_number": 9,
+    "topic": "Trigonometric Identities",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:52:38.350618",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about trigonometric identities. These are important for JEE Main. Let's start with the basics.\\n\\nFirst, we have the Pythagorean identity. It is sin^2(x) + cos^2(x) = 1. This means the square of sine plus the square of cosine equals one. Remember, this is true for any angle x. If sin(x) = 0.6, then cos(x) is √(1 - 0.6^2).\\n\\nNext, let's look at sum and difference formulas. These help when you add or subtract angles. For example, sin(a + b) = sin(a)cos(b) + cos(a)sin(b). Similarly, cos(a - b) = cos(a)cos(b) + sin(a)sin(b). Use these when angles are added or subtracted.\\n\\nNow, double angle formulas. They are used when you have twice an angle. For sine, sin(2a) = 2sin(a)cos(a). For cosine, cos(2a) = cos^2(a) - sin^2(a). These are useful in simplifying expressions.\\n\\nHalf angle formulas are next. They help when you have half of an angle. For example, sin(a/2) = √((1 - cos(a))/2). These formulas are handy in integration and solving equations.\\n\\nNow, let's discuss product to sum formulas. They change products into sums or differences. For example, sin(a)sin(b) = 1/2[cos(a-b) - cos(a+b)]. These are helpful in simplifying complex expressions.\\n\\nSum to product formulas are the opposite. They turn sums into products. For instance, sin(a) + sin(b) = 2sin((a+b)/2)cos((a-b)/2). Use these in solving equations.\\n\\nCofunction identities tell us how functions change with complementary angles. For example, sin(90° - x) = cos(x). These show relationships between angles.\\n\\nEven and odd identities are simple. Sine is odd, so sin(-x) = -sin(x). Cosine is even, so cos(-x) = cos(x). Remember these for angle transformations.\\n\\nFinally, reciprocal identities. These are basic. For example, sin(x) = 1/csc(x). These help in simplifying trigonometric expressions.\\n\\nCommon JEE Main mistakes: Mixing up formulas is common. Always double-check which formula fits the problem. Also, watch out for angle measures. Radians and degrees are different.\\n\\nKey takeaways: Memorize these identities. Practice using them in problems. They will save you time in exams.\\n\\nIn summary, trigonometric identities are tools. They simplify problems and help solve equations. Practice regularly to master them.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Trigonometric Identities",
+    "Pythagorean Identity",
+    "Sum and Difference Formulas",
+    "Double Angle Formulas",
+    "Reciprocal Identities"
+  ],
+  "formulas": [
+    {
+      "formula": "sin^2(x) + cos^2(x) = 1",
+      "description": "Used to find one trigonometric function if the other is known."
+    },
+    {
+      "formula": "sin(a + b) = sin(a)cos(b) + cos(a)sin(b)",
+      "description": "Used for finding sine of sum of two angles."
+    },
+    {
+      "formula": "cos(2a) = cos^2(a) - sin^2(a)",
+      "description": "Used to simplify expressions with double angles."
+    },
+    {
+      "formula": "sin(a/2) = √((1 - cos(a))/2)",
+      "description": "Used to find sine of half an angle."
+    },
+    {
+      "formula": "sin(x) = 1/csc(x)",
+      "description": "Used to express sine in terms of cosecant."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Trigonometric Identities",
+      "definition": "Equations involving trigonometric functions that are true for all angles."
+    },
+    {
+      "term": "Pythagorean Identity",
+      "definition": "An identity showing the relationship between sine and cosine: sin^2(x) + cos^2(x) = 1."
+    },
+    {
+      "term": "Reciprocal Identities",
+      "definition": "Identities that express trigonometric functions as reciprocals of each other."
+    }
+  ]
+}

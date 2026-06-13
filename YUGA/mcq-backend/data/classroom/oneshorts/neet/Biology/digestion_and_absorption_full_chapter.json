@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Digestion and Absorption",
+    "chapter_number": "16",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:33:09.015768",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts from digestion and absorption.\n\n1. Human Digestive System Overview: The digestive system includes the alimentary canal and associated glands. Key parts are the mouth, esophagus, stomach, small and large intestines, rectum, and anus. Associated digestive glands include salivary glands, liver, and pancreas.\n\n2. Digestion in the Mouth: It begins with ingestion. Saliva contains the enzyme salivary amylase, which breaks down starch into maltose.\n\n3. Stomach Function: This muscular organ uses gastric juice \u2013 containing HCl and pepsin \u2013 to break down proteins into peptones and smaller peptides.\n\n4. Small Intestine Processes: Most digestion happens here. Pancreatic juices aid in digesting proteins, carbs, and fats, while bile from the liver emulsifies fats.\n\n5. Absorption: Nutrients are absorbed primarily in the small intestine. Structures like villi and microvilli increase surface area for absorption.\n\n6. Large Intestine Functions: It absorbs water and electrolytes and stores waste for removal.\n\nKey Formula / Idea:\n- Enzymatic breakdown of nutrients for absorption and energy production.\n\nNEET Question Pattern:\n- Questions often focus on enzyme action and the role of different digestive parts.\n- Diagrams of the digestive system focusing on organ function and nutrient absorption are common.\n\nRevision Summary:\n- The digestive system breaks down food for nutrient absorption.\n- Saliva starts starch digestion; gastric juice digests proteins.\n- The small intestine is the major site of digestion and absorption.\n- Bile emulsifies fats, assisting in lipid digestion.\n- Large intestine reabsorbs water and forms feces. \n\nRemember, understanding processes and the role of enzymes are crucial for NEET.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Intermediate",
+  "images": [],
+  "keywords": [
+    "Digestive system",
+    "Salivary amylase",
+    "Gastric juice",
+    "Small intestine",
+    "Villi",
+    "Enzymes",
+    "Absorption",
+    "Pancreatic juice",
+    "Bile",
+    "Large intestine"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Digestive system",
+      "definition": "The system responsible for breaking down food into nutrients for energy, growth, and cell repair."
+    },
+    {
+      "term": "Salivary amylase",
+      "definition": "An enzyme in saliva that begins the digestion of starch in the mouth."
+    },
+    {
+      "term": "Gastric juice",
+      "definition": "A digestive fluid formed in the stomach containing pepsin and hydrochloric acid, aiding protein digestion."
+    },
+    {
+      "term": "Small intestine",
+      "definition": "The part of the intestine where most digestion and absorption of food occurs."
+    },
+    {
+      "term": "Villi",
+      "definition": "Small, finger-like projections that increase the surface area for absorption in the small intestine."
+    },
+    {
+      "term": "Enzymes",
+      "definition": "Biological catalysts that speed up the breakdown of food molecules during digestion."
+    },
+    {
+      "term": "Absorption",
+      "definition": "The process by which digested nutrients are taken into the bloodstream from the digestive tract."
+    },
+    {
+      "term": "Pancreatic juice",
+      "definition": "Secretion from the pancreas that contains enzymes aiding in the digestion of proteins, carbohydrates, and fats."
+    },
+    {
+      "term": "Bile",
+      "definition": "A digestive fluid produced by the liver that helps emulsify fats, making them easier to digest."
+    },
+    {
+      "term": "Large intestine",
+      "definition": "The part of the digestive system responsible for absorbing water and electrolytes from indigestible food matter."
+    }
+  ]
+}

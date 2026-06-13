@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electromagnetic Waves",
+    "chapter_number": 15,
+    "topic": "Electromagnetic Spectrum",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:58:54.935699",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the electromagnetic spectrum. It includes different types of waves. These waves have different uses and properties. Let's start with Radio waves. \n\nRadio waves have the longest wavelength. They are used for radio and TV broadcasts. They can travel long distances. This makes them useful for communication. \n\nNext, we have Microwaves. Microwaves are shorter than radio waves. They are used in microwave ovens. They heat food by making water molecules move faster. They are also used in radar systems. \n\nNow, let's talk about Infrared radiation. Infrared waves are shorter than microwaves. They are felt as heat. We use them in heaters and remote controls. Night vision cameras also use infrared. \n\nVisible light is what we can see. It is a small part of the spectrum. It includes all the colors we see in a rainbow. Red light has the longest wavelength in visible light. Violet has the shortest. \n\nUltraviolet radiation comes next. It has shorter wavelengths than visible light. The sun emits ultraviolet rays. They can cause sunburn. They are also used to kill germs. \n\nX-rays have even shorter wavelengths. They can pass through most objects. This is why they are used in medical imaging. They help doctors see inside our bodies. \n\nFinally, we have Gamma rays. They have the shortest wavelength and the most energy. They come from radioactive atoms and nuclear reactions. They are used to treat cancer. \n\nIn JEE Main, you might be asked about the order of these waves. Remember, Radio waves have the longest wavelength and Gamma rays have the shortest. \n\nA common JEE Main mistake is mixing up the order. Practice the order: Radio, Micro, Infrared, Visible, Ultraviolet, X-rays, Gamma. \n\nKey takeaways: Remember the uses of each type of wave. Know the order from longest to shortest wavelength. \n\nTo sum up, the electromagnetic spectrum is all around us. Each type of wave has special properties and uses. Understanding these can help you in JEE Main questions.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electromagnetic Spectrum",
+    "Radio Waves",
+    "Microwaves",
+    "Infrared Radiation",
+    "Visible Light"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Electromagnetic Spectrum",
+      "definition": "The range of all types of electromagnetic waves, from radio waves to gamma rays."
+    },
+    {
+      "term": "Wavelength",
+      "definition": "The distance between two peaks of a wave."
+    }
+  ]
+}

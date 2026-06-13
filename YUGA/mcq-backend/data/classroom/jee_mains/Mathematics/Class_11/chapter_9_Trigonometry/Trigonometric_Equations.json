@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Trigonometry",
+    "chapter_number": 9,
+    "topic": "Trigonometric Equations",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:52:52.285615",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today we will learn about trigonometric equations. These are equations that involve trigonometric functions like sine, cosine, and tangent. Let's start with the general solutions of trigonometric equations. \n\nA general solution gives us all possible angles that satisfy the equation. For example, the equation sin(x) = 0 has solutions at x = nπ, where n is an integer. This means any multiple of π is a solution. \n\nNow, let's talk about solving equations using identities. Trigonometric identities are like shortcuts. They help us simplify equations. For example, the identity sin^2(x) + cos^2(x) = 1 can be useful. If you have an equation like sin^2(x) = 1/4, you can use this identity to find cos^2(x) as well. \n\nNext, we have equations involving multiple angles. These are equations like sin(2x) = √3/2. To solve these, remember to use the double angle formulas. Here, 2x = π/3 + 2nπ or 2x = 2π/3 + 2nπ. Solve for x to find all solutions. \n\nInverse trigonometric functions are also important. They help us find angles when we know the sine, cosine, or tangent value. For example, if sin(x) = 1/2, then x = sin^(-1)(1/2), which equals π/6 or 30 degrees. \n\nGraphical interpretation is another way to solve trigonometric equations. By drawing the graph of a function, you can see where it crosses the x-axis. These points are the solutions. \n\nSometimes, equations have restricted domains. This means we only look for solutions in a specific range. For example, if the domain is 0 to π, only find solutions in that range. \n\nTransformations and shifts change the graph of a function. If you have y = sin(x) and you change it to y = sin(x - π/4), the graph shifts to the right by π/4. This affects where the solutions are. \n\nSolving inequalities is also part of trigonometry. For example, if you need to solve sin(x) > 1/2, find the range of x where this is true. \n\nTrigonometry is not just abstract; it has real-world applications. For example, engineers use it to find heights and distances. \n\nFinally, remember the periodic properties of trigonometric functions. Sine and cosine repeat every 2π, and tangent repeats every π. This helps us find more solutions. \n\nCommon mistakes in JEE Main include forgetting the general solution, mixing up identities, and not considering all solutions. Always check your work and remember these tips. \n\nIn summary, understand the general solutions, use identities, and practice solving different types of equations. With practice, you can master trigonometric equations for JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Trigonometric Equations",
+    "General Solutions",
+    "Identities",
+    "Inverse Functions",
+    "Periodic Properties"
+  ],
+  "formulas": [
+    {
+      "formula": "sin^2(x) + cos^2(x) = 1",
+      "description": "Used to relate sine and cosine values in equations."
+    },
+    {
+      "formula": "sin(2x) = 2sin(x)cos(x)",
+      "description": "Used to solve equations with double angles."
+    },
+    {
+      "formula": "x = nπ for sin(x) = 0",
+      "description": "General solution for sine function being zero."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Trigonometric Equation",
+      "definition": "An equation that involves trigonometric functions like sine, cosine, or tangent."
+    },
+    {
+      "term": "General Solution",
+      "definition": "The complete set of solutions for a trigonometric equation."
+    },
+    {
+      "term": "Inverse Trigonometric Function",
+      "definition": "A function that finds the angle for a given trigonometric value."
+    }
+  ]
+}

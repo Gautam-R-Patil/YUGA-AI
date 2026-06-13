@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electromagnetic Induction",
+    "chapter_number": 5,
+    "topic": "Alternating Current",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:09:14.673032",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about Alternating Current, or AC. AC is a type of electrical current that changes direction. It is different from Direct Current, or DC, which flows in one direction. \n\nLet's start with AC voltage and current. The voltage in an AC circuit is written as V = V₀sin(ωt). Here, V₀ is the peak voltage, which is the highest voltage reached. ω is the angular frequency, and t is time. Similarly, the current is I = I₀sin(ωt), where I₀ is the peak current. \n\nNext, we have peak and RMS values. RMS stands for Root Mean Square. It is a way to find the average value of AC voltage and current. The formula for RMS voltage is V_rms = V₀/√2. For current, it is I_rms = I₀/√2. RMS values are important because they help us compare AC with DC. \n\nPhasor representation is another important concept. A phasor is a rotating vector. It shows the magnitude and phase of AC quantities. Imagine a clock hand moving around. This is like a phasor. It helps us understand AC circuits better.\n\nNow, let's discuss reactance and impedance. Reactance is the resistance in AC circuits. It comes from inductors and capacitors. Impedance, Z, is the total resistance in an AC circuit. The formula is Z = √(R² + (X_L - X_C)²). R is resistance, X_L is inductive reactance, and X_C is capacitive reactance.\n\nPower in AC circuits is another key topic. Power, P, is the energy used by a circuit. The formula is P = VIcosφ, where φ is the phase difference between voltage and current. A common mistake is to forget the cosφ part.\n\nResonance in a series LCR circuit happens when the inductive and capacitive reactances cancel each other. This makes the circuit's impedance minimum. It is important in tuning radios and TVs.\n\nTransformers are devices that change voltage levels. They work on the principle of electromagnetic induction. A transformer has two coils, a primary and a secondary. It can increase or decrease voltage.\n\nFinally, let's talk about some experiments. One common experiment is to find resonance in a series LCR circuit. You can see how the voltage changes with frequency.\n\nTo sum up, AC is a key part of electricity. Remember the formulas for RMS values and impedance. Use phasors to understand AC circuits. Practice with transformers and resonance experiments. These concepts are important for NEET exams. Good luck!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Alternating Current",
+    "Phasor",
+    "Impedance",
+    "Resonance",
+    "Transformer"
+  ],
+  "formulas": [
+    {
+      "formula": "V = V₀sin(ωt)",
+      "description": "Formula for AC voltage where V₀ is the peak voltage, ω is angular frequency, and t is time."
+    },
+    {
+      "formula": "I = I₀sin(ωt)",
+      "description": "Formula for AC current where I₀ is the peak current."
+    },
+    {
+      "formula": "V_rms = V₀/√2",
+      "description": "RMS voltage formula, V₀ is the peak voltage."
+    },
+    {
+      "formula": "I_rms = I₀/√2",
+      "description": "RMS current formula, I₀ is the peak current."
+    },
+    {
+      "formula": "Z = √(R² + (X_L - X_C)²)",
+      "description": "Impedance formula where R is resistance, X_L is inductive reactance, and X_C is capacitive reactance."
+    },
+    {
+      "formula": "P = VIcosφ",
+      "description": "Power formula in AC circuits, V is voltage, I is current, and φ is the phase difference."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alternating Current",
+      "definition": "A type of current that changes direction periodically."
+    },
+    {
+      "term": "Phasor",
+      "definition": "A rotating vector that represents the magnitude and phase of AC quantities."
+    },
+    {
+      "term": "Impedance",
+      "definition": "The total resistance in an AC circuit."
+    },
+    {
+      "term": "Resonance",
+      "definition": "A condition in a circuit where inductive and capacitive reactances cancel each other."
+    },
+    {
+      "term": "Transformer",
+      "definition": "A device that changes the voltage level in an AC circuit."
+    }
+  ]
+}

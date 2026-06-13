@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Biological Classification",
+    "chapter_number": 2,
+    "topic": "Kingdom Fungi",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:32:44.234250",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Kingdom Fungi. Fungi are a fascinating group of organisms. They are different from plants and animals. Let's explore what makes them unique.\n\nFirst, fungi are eukaryotic. This means their cells have a nucleus. A nucleus is like the control center of a cell. Think of it as the brain of the cell.\n\nFungi are also heterotrophic. This means they cannot make their own food like plants do. Instead, they get their food from other sources. They absorb nutrients from their surroundings.\n\nSome common examples of fungi are yeast, mushrooms, and molds. Yeast is used in baking. It helps bread rise. Mushrooms are often eaten as food. Molds can grow on old bread or fruits.\n\nFungi reproduce in different ways. One way is spore formation. Spores are tiny cells that can grow into a new fungus. They spread through air or water. Another way is budding. This is when a new fungus grows on the side of an existing one. Yeast often reproduces this way.\n\nFungi play important roles in nature. They help decompose dead plants and animals. This means they break down dead material into simpler substances. This process returns nutrients to the soil. Some fungi also form symbiotic relationships. This means they live closely with other organisms and both benefit. For example, fungi help plants absorb water and nutrients from the soil.\n\nHowever, not all fungi are helpful. Some cause diseases. Ringworm and athlete's foot are common fungal infections. They can cause itchy skin. It's important to keep your skin clean and dry to prevent these infections.\n\nRemember these key points: Fungi are eukaryotic and heterotrophic. They reproduce by spores or budding. They help in decomposition and can form symbiotic relationships. But they can also cause diseases.\n\nIn summary, fungi are unique and important in many ways. They are not plants or animals, but they are essential for life on Earth. Keep these points in mind as they are often asked in exams like NEET.\n\nThank you for listening! I hope you now have a better understanding of Kingdom Fungi. If you have any questions, feel free to ask.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Eukaryotic",
+    "Heterotrophic",
+    "Spore Formation",
+    "Symbiosis",
+    "Decomposition"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Eukaryotic",
+      "definition": "Organisms with cells that have a nucleus."
+    },
+    {
+      "term": "Heterotrophic",
+      "definition": "Organisms that cannot make their own food and rely on other sources for nutrition."
+    },
+    {
+      "term": "Symbiosis",
+      "definition": "A close relationship between two different organisms where both benefit."
+    },
+    {
+      "term": "Spore",
+      "definition": "A tiny cell that can grow into a new fungus."
+    }
+  ]
+}

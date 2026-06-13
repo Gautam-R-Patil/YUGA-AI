@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Rotational Motion",
+    "chapter_number": 5,
+    "topic": "Rolling Motion",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:49:44.951087",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about rolling motion. This is a part of rotational motion. You see rolling motion in wheels and cylinders. Let's start by understanding what rolling motion is. \n\nRolling motion happens when an object moves forward while also spinning. Imagine a wheel on a road. It rolls forward and spins at the same time. For rolling motion, two things must happen. First, the wheel must rotate. Second, it must move in a straight line. \n\nNow, let's talk about pure rolling and slipping. Pure rolling means the wheel does not slip on the surface. The bottom point of the wheel has zero speed with respect to the ground. Slipping means the wheel slides on the surface. This happens when the wheel moves too fast or too slow. \n\nKinetic energy in rolling motion is important. It has two parts: translational and rotational. Translational energy is due to the forward movement. Rotational energy is due to spinning. The formula is KE = 1/2 mv^2 + 1/2 Iω^2. Here, m is mass, v is velocity, I is moment of inertia, and ω is angular velocity. \n\nRolling without slipping is a special case. It means the object rolls smoothly on the surface. The condition is v = ωr, where r is the radius. This means the edge of the wheel moves at the same speed as the center. \n\nThe dynamics of rolling motion involves forces and torques. Friction plays a key role. It helps in rolling without slipping. But friction does not do any work in pure rolling. Remember, for JEE Main, friction is static in pure rolling. \n\nApplications of rolling are everywhere. Wheels on cars, bikes, and even in machinery. Cylinders in factories roll on surfaces to move things. Understanding rolling helps in solving many practical problems. \n\nEnergy conservation is crucial in rolling. If no external force acts, total energy stays the same. This means kinetic energy and potential energy are constant. In JEE Main, use this to solve energy problems. \n\nFriction in rolling motion can be tricky. Remember, friction is needed to start rolling. But in pure rolling, it doesn't take energy. A common mistake is thinking friction always slows down rolling. \n\nLet's summarize. Rolling motion combines rotation and translation. Pure rolling means no slipping. Kinetic energy has two parts. Use v = ωr for rolling without slipping. Friction is key but doesn't always slow down. \n\nThat's all for today. Keep practicing and remember these key points for JEE Main. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Rolling Motion",
+    "Pure Rolling",
+    "Kinetic Energy",
+    "Friction",
+    "Energy Conservation"
+  ],
+  "formulas": [
+    {
+      "formula": "KE = 1/2 mv^2 + 1/2 Iω^2",
+      "description": "Used to calculate total kinetic energy in rolling motion, combining translational and rotational energies"
+    },
+    {
+      "formula": "v = ωr",
+      "description": "Condition for rolling without slipping, relates linear velocity and angular velocity"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Rolling Motion",
+      "definition": "Movement when an object spins and moves forward at the same time"
+    },
+    {
+      "term": "Pure Rolling",
+      "definition": "Condition where the rolling object does not slip on the surface"
+    },
+    {
+      "term": "Kinetic Energy",
+      "definition": "Energy an object has due to its motion, includes translational and rotational parts in rolling"
+    }
+  ]
+}

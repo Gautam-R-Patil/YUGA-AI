@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Waves",
+    "chapter_number": 15,
+    "topic": "Standing Waves",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:05:46.825365",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, everyone! Today, we are going to learn about standing waves. Standing waves are special types of waves that stay in one place. They do not move forward or backward like normal waves. Let's see how they form and what makes them special.\n\nFirst, how do standing waves form? When two waves of the same frequency and amplitude travel in opposite directions, they meet and create a standing wave. Imagine a guitar string. When you pluck it, waves travel to the ends and reflect back. The waves meet and form a standing wave.\n\nStanding waves have points that do not move. These points are called nodes. The points that move the most are called antinodes. If you look at a standing wave, you will see nodes and antinodes along the wave.\n\nNow, let's look at some examples in physics. Standing waves can be found in musical instruments like guitars and flutes. When you play a guitar, the strings vibrate and create standing waves. This is why you hear sound.\n\nIn engineering, standing waves are used in many ways. For example, they are important in designing microwave ovens. The microwaves inside the oven form standing waves. This helps cook food evenly.\n\nLet's solve a simple problem about standing waves. Imagine a string fixed at both ends, with a length of 1 meter. If the speed of the wave on the string is 20 meters per second, find the frequency of the first harmonic. The formula we use is: Frequency = Speed / (2 x Length). So, Frequency = 20 / (2 x 1) = 10 Hertz.\n\nA common mistake is to confuse nodes and antinodes. Remember, nodes do not move, but antinodes move a lot.\n\nGraphically, standing waves look like waves that do not travel. You see points that stay still (nodes) and points that move a lot (antinodes).\n\nKey points to remember: Standing waves form when two waves meet in opposite directions. They have nodes and antinodes. They are useful in music and engineering.\n\nIn summary, standing waves are waves that stay in one place. They are important in many fields like music and engineering. Remember the key concepts and practice solving problems. Thank you for listening!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Standing Waves",
+    "Nodes",
+    "Antinodes",
+    "Frequency",
+    "Harmonic"
+  ],
+  "formulas": [
+    {
+      "formula": "Frequency = Speed / (2 x Length)",
+      "description": "This formula calculates the frequency of the first harmonic of a standing wave on a string fixed at both ends."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Standing Waves",
+      "definition": "Waves that remain in a constant position without moving forward or backward."
+    },
+    {
+      "term": "Nodes",
+      "definition": "Points on a standing wave that do not move."
+    },
+    {
+      "term": "Antinodes",
+      "definition": "Points on a standing wave that move the most."
+    }
+  ]
+}

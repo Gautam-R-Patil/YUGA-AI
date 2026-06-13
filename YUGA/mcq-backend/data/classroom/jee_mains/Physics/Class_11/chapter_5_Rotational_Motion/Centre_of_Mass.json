@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Rotational Motion",
+    "chapter_number": 5,
+    "topic": "Centre of Mass",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:48:54.461415",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students, today we will learn about the Centre of Mass in Rotational Motion. It's a key topic for JEE Main. Let's start with what the centre of mass is. The centre of mass is a point where the entire mass of a body or system can be thought to be concentrated. For example, if you balance a ruler on your finger, the point where it balances is its centre of mass.\n\nNow, let's understand the centre of mass in a two-particle system. Imagine two balls connected by a stick. The centre of mass is closer to the heavier ball. The formula to find it is: (m1 * x1 + m2 * x2) / (m1 + m2). Here, m1 and m2 are masses, x1 and x2 are their positions. This formula helps in finding the centre of mass in JEE Main problems.\n\nNext, let's talk about a rigid body. A rigid body is a solid object where the distance between any two points does not change. For such bodies, the centre of mass is often at the geometric centre. For example, in a uniform disc, it is at the centre.\n\nFor symmetric bodies like spheres or cylinders, the centre of mass is at the centre. This makes calculations easier. Remember, symmetry helps find the centre of mass quickly.\n\nNow, let's see how the centre of mass moves. The motion of the centre of mass follows the path of a particle with the total mass. If no external force acts, it moves in a straight line with constant velocity. This is important for solving JEE Main problems on motion.\n\nA key concept in rotational motion is the Conservation of Momentum. If no external force acts, the total momentum before and after an event is the same. This helps in solving collision problems.\n\nFor continuous bodies, we use integration to find the centre of mass. But in JEE Main, we often deal with simpler cases like rods or discs, where symmetry helps.\n\nLet's see an application in collision problems. When two objects collide, their total momentum and centre of mass position remain unchanged if no external force acts.\n\nHere are some common mistakes. First, forgetting to consider all masses in the system. Second, not using symmetry to simplify problems. Third, mixing up the centre of mass with the geometric centre.\n\nKey takeaways: The centre of mass helps simplify complex systems. Use symmetry to find it quickly. Remember conservation laws in motion problems.\n\nIn summary, understanding the centre of mass is crucial for solving rotational motion problems in JEE Main. Practice using these concepts with different problems to be ready for the exam.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Centre of Mass",
+    "Rigid Body",
+    "Symmetric Bodies",
+    "Conservation of Momentum",
+    "Collision Problems"
+  ],
+  "formulas": [
+    {
+      "formula": "x_cm = (m1 * x1 + m2 * x2) / (m1 + m2)",
+      "description": "Used to find the centre of mass in a two-particle system in JEE Main problems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Centre of Mass",
+      "definition": "A point where the entire mass of a body or system is thought to be concentrated"
+    },
+    {
+      "term": "Rigid Body",
+      "definition": "A solid object where the distance between any two points does not change"
+    }
+  ]
+}

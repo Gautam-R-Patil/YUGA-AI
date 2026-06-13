@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Periodic Table and Periodicity",
+    "chapter_number": 12,
+    "topic": "Electronegativity",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:12:28.159262",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Electronegativity. This is a very important topic in the Periodic Table chapter. Electronegativity is the ability of an atom to attract electrons. It helps us understand how atoms bond with each other. \n\nFirst, let's talk about the scales used to measure electronegativity. The most common scale is the Pauling scale. Linus Pauling, a famous scientist, created it. On this scale, Fluorine has the highest value of 4.0. Another scale is the Mulliken scale. It uses ionization energy and electron affinity to find electronegativity. \n\nNow, let's look at the trends in the periodic table. As you move across a period from left to right, electronegativity increases. This is because the number of protons increases, pulling electrons closer. When you move down a group, electronegativity decreases. This is because the size of the atom increases, and the outer electrons are farther from the nucleus. \n\nThere are factors that affect electronegativity. One is atomic size. Smaller atoms have higher electronegativity. Another factor is the nuclear charge. More protons mean higher electronegativity. Also, the shielding effect plays a role. More inner electrons mean less electronegativity. \n\nElectronegativity is different from electron affinity. Electron affinity is the energy change when an atom gains an electron. Electronegativity is about attraction, not energy change. \n\nSometimes, there are exceptions to trends. For example, in the second period, Oxygen is less electronegative than Fluorine. But, it is more electronegative than Nitrogen. \n\nA good way to see trends is through a graph. On the graph, electronegativity increases as you move to the right and decreases as you move down. \n\nElectronegativity helps predict bond types. If the difference in electronegativity between two atoms is large, the bond is ionic. If it is small, the bond is covalent. \n\nElectronegativity is also related to bond polarity. A polar bond has a difference in electronegativity. The atom with higher electronegativity gets a partial negative charge. The other atom gets a partial positive charge. \n\nLet's look at an example. In water (H2O), Oxygen is more electronegative than Hydrogen. So, the bonds are polar. \n\nA common JEE Main mistake is confusing electronegativity with electron affinity. Remember, electronegativity is about attraction, not energy change. \n\nKey takeaways: Electronegativity increases across periods and decreases down groups. It helps predict bond types and polarity. \n\nIn summary, understanding electronegativity is essential for predicting how atoms bond. Practice these concepts to do well in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electronegativity",
+    "Pauling Scale",
+    "Mulliken Scale",
+    "Bond Polarity",
+    "Electron Affinity"
+  ],
+  "formulas": [
+    {
+      "formula": "EN = (IE + EA) / 2",
+      "description": "This formula is used in the Mulliken scale to calculate electronegativity using ionization energy (IE) and electron affinity (EA)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electronegativity",
+      "definition": "The ability of an atom to attract electrons towards itself in a chemical bond."
+    },
+    {
+      "term": "Pauling Scale",
+      "definition": "A scale of electronegativity based on bond energies, with Fluorine set at 4.0."
+    },
+    {
+      "term": "Mulliken Scale",
+      "definition": "A scale that calculates electronegativity using the average of ionization energy and electron affinity."
+    }
+  ]
+}

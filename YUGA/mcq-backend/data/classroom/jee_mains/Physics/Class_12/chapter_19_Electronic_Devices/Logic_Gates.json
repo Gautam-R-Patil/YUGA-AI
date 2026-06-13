@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electronic Devices",
+    "chapter_number": 19,
+    "topic": "Logic Gates",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:03:07.372846",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Logic Gates. These are basic building blocks of digital circuits. First, let's talk about Basic Gates: AND, OR, and NOT. \n\nThe AND Gate gives a true output (1) only if all inputs are true (1). For example, if A is 1 and B is 1, the output is 1. If A is 0 or B is 0, the output is 0. \n\nThe OR Gate gives a true output if at least one input is true. For example, if A is 0 and B is 1, the output is 1. If both are 0, the output is 0. \n\nThe NOT Gate has only one input. It inverts the input. If the input is 1, the output is 0, and vice versa. \n\nNow, let's talk about Universal Gates: NAND and NOR. These gates can create any other gate. \n\nThe NAND Gate is like AND followed by NOT. It gives 0 only if all inputs are 1. Otherwise, it gives 1. \n\nThe NOR Gate is like OR followed by NOT. It gives 1 only if all inputs are 0. Otherwise, it gives 0. \n\nNext, we have Truth Tables. These tables show all possible inputs and their outputs for a gate. They help us understand how gates work. \n\nLet's move to Combinational Logic Circuits. These circuits use multiple gates to perform complex operations. They do not have memory. \n\nBoolean Algebra helps us simplify logic expressions. It uses symbols like AND (⋅), OR (+), and NOT ('). For example, A + A = A and A ⋅ 1 = A. \n\nWe also use Karnaugh Maps to simplify expressions. They are like puzzles that help us find the simplest form. \n\nLogic Gates have many applications. They are used in calculators, computers, and even in your mobile phones. \n\nCommon mistakes in JEE Main include confusing AND and OR outputs. Always check the truth table. Also, remember to simplify expressions as much as possible. \n\nKey takeaways: Know the basic and universal gates, understand truth tables, and practice simplifying expressions. \n\nIn summary, Logic Gates are essential for digital circuits. They help us perform operations with binary numbers. Understanding them is key for JEE Main. Keep practicing truth tables and simplification techniques. \n\nThat's all for today. Keep practicing and see you next time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Logic Gates",
+    "Truth Tables",
+    "Boolean Algebra",
+    "Karnaugh Maps",
+    "Combinational Circuits"
+  ],
+  "formulas": [
+    {
+      "formula": "A + A = A",
+      "description": "Used to simplify expressions in Boolean Algebra"
+    },
+    {
+      "formula": "A ⋅ 1 = A",
+      "description": "Used to simplify expressions in Boolean Algebra"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "AND Gate",
+      "definition": "A logic gate that outputs true only if all inputs are true"
+    },
+    {
+      "term": "OR Gate",
+      "definition": "A logic gate that outputs true if at least one input is true"
+    },
+    {
+      "term": "NOT Gate",
+      "definition": "A logic gate that inverts the input"
+    },
+    {
+      "term": "NAND Gate",
+      "definition": "A universal gate that outputs false only if all inputs are true"
+    },
+    {
+      "term": "NOR Gate",
+      "definition": "A universal gate that outputs true only if all inputs are false"
+    }
+  ]
+}

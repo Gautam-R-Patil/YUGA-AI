@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "p-Block Elements (Groups 13–18)",
+    "chapter_number": 16,
+    "topic": "Group 16 Elements: Oxygen Family",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:18:07.371246",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Group 16 elements, also known as the Oxygen family. This group includes Oxygen, Sulfur, Selenium, Tellurium, and Polonium. We will focus on Oxygen and Sulfur, as they are very important for the JEE Main exam.\n\nLet's start with Oxygen. Oxygen is a colorless and odorless gas. It makes up about 21% of Earth's atmosphere. We can prepare Oxygen in the lab by heating potassium chlorate (KClO3) with manganese dioxide (MnO2) as a catalyst. The reaction is: 2KClO3 → 2KCl + 3O2. Oxygen is very reactive. It combines with most elements to form oxides. For example, magnesium burns in Oxygen to form magnesium oxide (MgO).\n\nNow, let's talk about Sulfur. Sulfur is found in nature in different forms called allotropes. The most common allotrope is rhombic sulfur. Another form is monoclinic sulfur. Sulfur forms many compounds like hydrogen sulfide (H2S) and sulfur dioxide (SO2). These compounds have a strong smell, like rotten eggs.\n\nSulfur forms oxides and oxyacids. The most important oxides are sulfur dioxide (SO2) and sulfur trioxide (SO3). These oxides react with water to form oxyacids like sulfurous acid (H2SO3) and sulfuric acid (H2SO4). Sulfuric acid is very important in industry. It is used to make fertilizers, chemicals, and in car batteries.\n\nLet's discuss trends in atomic and ionic sizes. As we move down the group from Oxygen to Polonium, the atomic and ionic sizes increase. This is because new electron shells are added. This is important for predicting reactivity and bonding.\n\nGroup 16 elements react with metals to form sulfides and oxides. For example, iron reacts with sulfur to form iron sulfide (FeS). They also react with non-metals. Oxygen reacts with hydrogen to form water (H2O).\n\nSulfur compounds have many industrial uses. Sulfuric acid is used in making fertilizers and chemicals. Sulfur is also used in making rubber and gunpowder.\n\nOxygen and Sulfur are important for life. Oxygen is needed for breathing. It helps release energy from food. Sulfur is found in amino acids, which are building blocks of proteins.\n\nOxygen shows anomalous behavior. It is more electronegative than other group members. It forms hydrogen bonds, which makes water liquid at room temperature.\n\nLet's look at a common mistake in JEE Main. Students often confuse the preparation of Oxygen and Sulfur compounds. Remember, Oxygen is prepared by heating potassium chlorate, while sulfur compounds are usually prepared by direct combination.\n\nKey takeaways: Group 16 elements are reactive, especially Oxygen and Sulfur. They form many compounds important in industry and biology. Remember the trends in size and reactivity.\n\nIn summary, Group 16 elements are crucial for JEE Main. Focus on preparation, properties, and uses of Oxygen and Sulfur. Practice problems on oxides and oxyacids for a better understanding.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Oxygen",
+    "Sulfur",
+    "Oxides",
+    "Oxyacids",
+    "Industrial Uses"
+  ],
+  "formulas": [
+    {
+      "formula": "2KClO3 → 2KCl + 3O2",
+      "description": "This formula is used to prepare Oxygen in the laboratory by heating potassium chlorate."
+    },
+    {
+      "formula": "SO2 + H2O → H2SO3",
+      "description": "This formula shows the formation of sulfurous acid from sulfur dioxide and water."
+    },
+    {
+      "formula": "SO3 + H2O → H2SO4",
+      "description": "This formula shows the formation of sulfuric acid from sulfur trioxide and water."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Allotropes",
+      "definition": "Different forms of the same element with different structures."
+    },
+    {
+      "term": "Oxides",
+      "definition": "Compounds formed by the reaction of Oxygen with other elements."
+    },
+    {
+      "term": "Oxyacids",
+      "definition": "Acids that contain Oxygen, Hydrogen, and another element."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+--- Test: Capacitor C example ---
+Original text: A capacitor C has capacitance C
+Processed text: A capacitor c has capacitance capacitance
+
+--- Test: Velocity v vs Voltage V ---
+Original text: The velocity v is 10 and voltage V is 220
+Processed text: The velocity velocity is 10 and voltage voltage is 220
+

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Kinematics",
+    "chapter_number": 2,
+    "topic": "Motion in Two Dimensions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:47:26.992502",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Motion in Two Dimensions. This is an important topic in the chapter on Kinematics. You might remember studying motion in one dimension. Now, we will see how objects move in a plane. \n\nLet's start with vectors. A vector is a quantity that has both magnitude and direction. Displacement is an example of a vector. It tells us how far and in which direction an object has moved. For example, if you walk 5 meters north, your displacement is a vector of 5 meters in the north direction.\n\nNow, let's talk about velocity and acceleration vectors. Velocity is the rate of change of displacement. It also has direction. If a car moves 60 km/h east, its velocity is a vector pointing east. Acceleration is the rate of change of velocity. Like velocity, acceleration is also a vector.\n\nNext, we discuss projectile motion. This is when an object is thrown into the air and moves in two dimensions. Think of a ball being thrown. It has both horizontal and vertical components of motion. The horizontal component is constant because there is no acceleration. The vertical component changes due to gravity.\n\nFor projectile motion, remember these key formulas:\n- Time of Flight (T): T = (2u sin θ) / g, where u is the initial velocity, θ is the angle of projection, and g is the acceleration due to gravity.\n- Maximum Height (H): H = (u^2 sin^2 θ) / (2g).\n- Range (R): R = (u^2 sin 2θ) / g.\nThese formulas help us find how long the object stays in the air, how high it goes, and how far it travels.\n\nA common mistake in JEE Main is forgetting to resolve the initial velocity into horizontal and vertical components. Always use: u_x = u cos θ and u_y = u sin θ.\n\nNow, let's look at uniform circular motion. This is when an object moves in a circle at constant speed. The direction of velocity changes, so there is acceleration. This acceleration is called centripetal acceleration and is directed towards the center of the circle. The formula is: a_c = v^2 / r, where v is the speed and r is the radius of the circle.\n\nRelative velocity in two dimensions is another key concept. It helps us understand how fast one object is moving compared to another. If two cars move in the same direction, their relative velocity is the difference in their speeds.\n\nVectors are very useful in analyzing motion. They help us break down complex movements into simpler parts. For example, in projectile motion, we use vectors to separate horizontal and vertical movements.\n\nLet's talk about graphical analysis. Graphs can show us the motion of objects in two dimensions. A position-time graph helps us see how an object's position changes over time. A velocity-time graph shows changes in velocity.\n\nIn JEE Main, always check your units. A common trap is mixing up meters and kilometers or seconds and minutes.\n\nFinally, here are some key takeaways:\n- Understand vector representation of displacement, velocity, and acceleration.\n- Master the formulas for projectile motion: time of flight, maximum height, and range.\n- Remember the concept of uniform circular motion and centripetal acceleration.\n- Practice using relative velocity in two dimensions.\n- Use graphs to analyze motion.\n\nIn summary, motion in two dimensions involves vectors, projectile motion, circular motion, and relative velocity. Practice these concepts to excel in JEE Main. Thank you for listening, and happy studying!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Vector",
+    "Displacement",
+    "Velocity",
+    "Acceleration",
+    "Projectile"
+  ],
+  "formulas": [
+    {
+      "formula": "T = (2u sin θ) / g",
+      "description": "Used to calculate the time of flight in projectile motion"
+    },
+    {
+      "formula": "H = (u^2 sin^2 θ) / (2g)",
+      "description": "Used to find the maximum height reached by a projectile"
+    },
+    {
+      "formula": "R = (u^2 sin 2θ) / g",
+      "description": "Used to calculate the range of a projectile"
+    },
+    {
+      "formula": "a_c = v^2 / r",
+      "description": "Centripetal acceleration formula for uniform circular motion"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vector",
+      "definition": "A quantity with both magnitude and direction"
+    },
+    {
+      "term": "Displacement",
+      "definition": "The change in position of an object in a specific direction"
+    },
+    {
+      "term": "Velocity",
+      "definition": "The rate of change of displacement with direction"
+    },
+    {
+      "term": "Acceleration",
+      "definition": "The rate of change of velocity"
+    }
+  ]
+}

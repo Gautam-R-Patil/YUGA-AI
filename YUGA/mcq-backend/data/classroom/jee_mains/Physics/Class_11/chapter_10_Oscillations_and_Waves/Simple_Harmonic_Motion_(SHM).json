@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations and Waves",
+    "chapter_number": 10,
+    "topic": "Simple Harmonic Motion (SHM)",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:53:29.322762",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Simple Harmonic Motion or SHM. It is a type of motion that repeats itself in a regular cycle. You can think of a swing moving back and forth. This is SHM.\n\nFirst, let us define SHM. Simple Harmonic Motion is a type of periodic motion. It happens when the force on the object is directly proportional to its displacement from a fixed point and is directed towards that point. This means the object always wants to return to its starting position.\n\nNow, let's talk about the characteristics of SHM. In SHM, the motion is always oscillatory, meaning it moves back and forth. The motion is also periodic, which means it repeats after a fixed time.\n\nNext, we will discuss the equation of motion for SHM. The equation is: x(t) = A cos(ωt + φ). Here, x(t) is the displacement at time t, A is the amplitude, ω is the angular frequency, and φ is the phase constant. Amplitude is the maximum distance from the rest position. Angular frequency tells us how fast the object oscillates.\n\nEnergy in SHM is also important. In SHM, energy changes between potential and kinetic energy. The total energy remains constant. The formula for total energy is: E = 1/2 k A^2. Here, k is the spring constant and A is the amplitude.\n\nLet’s understand phase and phase difference. Phase tells us the state of motion at a given time. Phase difference is the difference in phase between two oscillating objects. It is important when comparing two SHM motions.\n\nGraphical representation of SHM helps to visualize the motion. A displacement-time graph for SHM is a sine or cosine wave. This shows the repeating nature of SHM.\n\nNow, let’s see examples of SHM in daily life. A pendulum in a clock is an example. Another example is a mass attached to a spring.\n\nLet’s solve a simple numerical problem. If a spring has a spring constant k = 200 N/m and amplitude A = 0.1 m, find the total energy. Using the formula E = 1/2 k A^2, we get E = 1/2 * 200 * (0.1)^2 = 1 Joule.\n\nBe careful of common mistakes in JEE Main. Students often confuse amplitude with displacement. Remember, amplitude is the maximum displacement.\n\nDamping and resonance are also related to SHM. Damping is when an external force reduces the amplitude over time. Resonance happens when the frequency of an external force matches the natural frequency, causing large oscillations.\n\nTo summarize, SHM is a vital concept in physics. It is important to understand its characteristics, equations, and energy. Practice solving problems to master SHM for JEE Main.\n\nThank you for listening. Keep practicing and good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Simple Harmonic Motion",
+    "Amplitude",
+    "Phase",
+    "Damping",
+    "Resonance"
+  ],
+  "formulas": [
+    {
+      "formula": "x(t) = A cos(ωt + φ)",
+      "description": "This formula gives the displacement at any time t in SHM."
+    },
+    {
+      "formula": "E = 1/2 k A^2",
+      "description": "This formula calculates the total energy in SHM."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Simple Harmonic Motion",
+      "definition": "A type of periodic motion where the restoring force is proportional to the displacement."
+    },
+    {
+      "term": "Amplitude",
+      "definition": "The maximum distance from the rest position in SHM."
+    },
+    {
+      "term": "Phase",
+      "definition": "The state of motion at a given time in SHM."
+    }
+  ]
+}

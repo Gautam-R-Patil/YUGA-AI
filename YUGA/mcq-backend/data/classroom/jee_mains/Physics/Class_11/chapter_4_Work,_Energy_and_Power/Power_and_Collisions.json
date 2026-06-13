@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Work, Energy and Power",
+    "chapter_number": 4,
+    "topic": "Power and Collisions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:48:42.070794",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Power and Collisions. These are important topics in physics and often appear in JEE Main exams. Let's start by understanding what power means. \n\nPower is the rate at which work is done. It tells us how fast or slow work is done. The unit of power is the watt (W). One watt is equal to one joule per second. For example, if a machine does 100 joules of work in 10 seconds, the power is 10 watts. \n\nThere are two types of power: average power and instantaneous power. Average power is the total work done divided by the total time taken. Instantaneous power is the power at a specific moment in time. In JEE Main problems, you may need to find either type of power. \n\nNow, let's talk about power in mechanical systems. Mechanical systems include things like engines and motors. The formula for power in these systems is P = F × v, where P is power, F is force, and v is velocity. This formula is useful when you know the force and velocity. \n\nNext, let's discuss collisions. Collisions happen when two objects hit each other. There are two main types: elastic and inelastic collisions. In an elastic collision, both momentum and kinetic energy are conserved. In an inelastic collision, only momentum is conserved, and some kinetic energy is lost. \n\nThe coefficient of restitution is a measure of how elastic a collision is. It is a number between 0 and 1. If it is 1, the collision is perfectly elastic. If it is 0, the collision is perfectly inelastic. \n\nIn any collision, the law of conservation of momentum applies. This means the total momentum before the collision is equal to the total momentum after the collision. The formula is m1 × u1 + m2 × u2 = m1 × v1 + m2 × v2, where m is mass, u is initial velocity, and v is final velocity. \n\nIn inelastic collisions, some kinetic energy is lost. This energy is usually converted into heat or sound. In JEE Main, you may be asked to calculate the energy lost in a collision. \n\nLet's look at an example problem. Two cars collide. Car A has a mass of 1000 kg and moves at 10 m/s. Car B has a mass of 1500 kg and is at rest. After the collision, they move together. What is their speed after the collision? \n\nFirst, use the conservation of momentum: (1000 kg × 10 m/s) + (1500 kg × 0 m/s) = (1000 kg + 1500 kg) × v. Solve for v to find the speed after the collision. \n\nCommon mistake: Forgetting to add masses when objects stick together in inelastic collisions. \n\nKey takeaways: Power is work done per time. Collisions can be elastic or inelastic. Use conservation of momentum for collision problems. \n\nIn summary, understanding power and collisions helps solve many physics problems. Remember the key formulas and practice solving problems. Good luck with your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Power",
+    "Collisions",
+    "Momentum",
+    "Elastic",
+    "Inelastic"
+  ],
+  "formulas": [
+    {
+      "formula": "P = W/t",
+      "description": "Used to calculate average power when work and time are known"
+    },
+    {
+      "formula": "P = F × v",
+      "description": "Used to find power in mechanical systems when force and velocity are known"
+    },
+    {
+      "formula": "m1 × u1 + m2 × u2 = m1 × v1 + m2 × v2",
+      "description": "Used to apply conservation of momentum in collision problems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Power",
+      "definition": "The rate at which work is done, measured in watts"
+    },
+    {
+      "term": "Elastic Collision",
+      "definition": "A collision where both momentum and kinetic energy are conserved"
+    },
+    {
+      "term": "Inelastic Collision",
+      "definition": "A collision where momentum is conserved but kinetic energy is not"
+    },
+    {
+      "term": "Coefficient of Restitution",
+      "definition": "A measure of how elastic a collision is, ranging from 0 to 1"
+    }
+  ]
+}

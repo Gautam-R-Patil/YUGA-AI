@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Binomial Theorem",
+    "chapter_number": 5,
+    "topic": "Introduction to Binomial Theorem",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:47:54.656855",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Binomial Theorem. This is an important topic in algebra and is often tested in JEE Main. Let's start with the basics. \n\nThe Binomial Theorem helps us expand expressions like (a + b)^n. Here, 'a' and 'b' are any numbers, and 'n' is a positive integer. The theorem gives us a quick way to expand these expressions without multiplying them many times. \n\nLet's look at some history. The Binomial Theorem was known in ancient India. Mathematicians like Pingala worked on similar ideas. Later, in the 17th century, Sir Isaac Newton generalized the theorem for any number 'n'. \n\nNow, let's see the formula for the Binomial Theorem: \n\n(a + b)^n = Σ (n choose k) * a^(n-k) * b^k, \n\nwhere 'Σ' means 'sum of', (n choose k) is a binomial coefficient, and k is a number from 0 to n. \n\nThe binomial coefficient (n choose k) is calculated as: \n\n(n choose k) = n! / (k! * (n-k)!) \n\nLet's break this down. 'n!' means 'n factorial'. It is the product of all numbers from 1 to n. For example, 3! = 3 * 2 * 1 = 6. \n\nLet's see an example. Expand (x + 2)^3. Using the formula, we get: \n\n(x + 2)^3 = (3 choose 0) * x^3 * 2^0 + (3 choose 1) * x^2 * 2^1 + (3 choose 2) * x^1 * 2^2 + (3 choose 3) * x^0 * 2^3. \n\nCalculating each term, we get: \n\n= 1 * x^3 * 1 + 3 * x^2 * 2 + 3 * x * 4 + 1 * 1 * 8 \n\n= x^3 + 6x^2 + 12x + 8. \n\nSee how easy it is with the Binomial Theorem? \n\nNow, let's talk about applications. The Binomial Theorem is used in algebra to expand polynomials. It also helps in probability and combinatorics, which are important in JEE Main. \n\nCommon mistakes to avoid: \n\n1. Forgetting to calculate the factorial correctly. \n2. Misplacing powers of 'a' and 'b'. \n3. Not simplifying the coefficients properly. \n\nRemember, practice helps avoid these errors. \n\nKey takeaways: \n\n- The Binomial Theorem expands (a + b)^n quickly. \n- Use the formula and calculate binomial coefficients carefully. \n- Practice to avoid mistakes. \n\nIn summary, the Binomial Theorem is a powerful tool in algebra. It simplifies complex expansions and is essential for JEE Main. Keep practicing, and you'll master it! \n\nThat's all for today. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Binomial Theorem",
+    "Binomial Coefficient",
+    "Factorial",
+    "Expansion",
+    "Polynomial"
+  ],
+  "formulas": [
+    {
+      "formula": "(a + b)^n = Σ (n choose k) * a^(n-k) * b^k",
+      "description": "Use this formula to expand expressions like (a + b)^n in JEE Main questions"
+    },
+    {
+      "formula": "(n choose k) = n! / (k! * (n-k)!)",
+      "description": "Calculate binomial coefficients using this formula, important for solving expansion problems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Binomial Theorem",
+      "definition": "A way to expand expressions of the form (a + b)^n using binomial coefficients"
+    },
+    {
+      "term": "Binomial Coefficient",
+      "definition": "A number that appears in the expansion of a binomial raised to a power, calculated as (n choose k)"
+    }
+  ]
+}

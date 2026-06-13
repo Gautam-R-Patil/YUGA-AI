@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Animal Kingdom",
+    "chapter_number": 4,
+    "topic": "Phylum Echinodermata",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:37:56.989786",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about Phylum Echinodermata. This is a group of animals that live in the sea. They are very interesting and important.\n\nFirst, let's talk about their characteristics. Echinoderms have radial symmetry. This means their body parts are arranged in a circle, like the spokes of a wheel. Imagine a pizza cut into equal slices. Each slice is similar to the others. Many echinoderms have five parts.\n\nAnother important feature is the water vascular system. This is a network of water-filled canals in their body. It helps them move and feed. Think of it like a water pump that helps them walk and hold onto things.\n\nNow, let's look at some examples. Starfish and sea urchins are common echinoderms. Starfish have arms that they use to move and catch food. Sea urchins are round and covered with spines.\n\nEchinoderms reproduce mainly through sexual reproduction. This means they need a male and a female to create new life. Some can also regenerate. This means if they lose a part, like an arm, they can grow it back. Isn't that amazing?\n\nEchinoderms play a big role in marine ecosystems. They are part of the benthic community. This means they live at the bottom of the sea. They help keep the ocean floor clean by eating dead plants and animals.\n\nThey are also important for humans. Scientists study them for research. They are used in the aquarium trade because they are beautiful and interesting to watch.\n\nLet's remember some key points. Echinoderms have radial symmetry and a water vascular system. Starfish and sea urchins are examples. They reproduce sexually and can regenerate. They are vital in marine ecosystems and have economic importance.\n\nIn conclusion, echinoderms are fascinating creatures. They have unique features and play important roles in the ocean and for humans. Remember these points for your NEET exam. Thank you for learning with me today!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Radial symmetry",
+    "Water vascular system",
+    "Starfish",
+    "Sea urchins",
+    "Regeneration"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Radial symmetry",
+      "definition": "Body parts arranged around a central point, like spokes on a wheel."
+    },
+    {
+      "term": "Water vascular system",
+      "definition": "A network of water-filled canals in echinoderms used for movement and feeding."
+    },
+    {
+      "term": "Benthic community",
+      "definition": "A group of organisms living at the bottom of a water body, like the ocean floor."
+    },
+    {
+      "term": "Regeneration",
+      "definition": "The ability to regrow lost parts of the body."
+    }
+  ]
+}

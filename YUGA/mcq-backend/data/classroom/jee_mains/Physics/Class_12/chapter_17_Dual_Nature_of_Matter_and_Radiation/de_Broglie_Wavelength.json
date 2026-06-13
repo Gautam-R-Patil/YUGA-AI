@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Dual Nature of Matter and Radiation",
+    "chapter_number": 17,
+    "topic": "de Broglie Wavelength",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:01:18.192985",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the dual nature of matter and radiation. This is an important topic for JEE Main. Let's start with the wave-particle duality. This idea says that every particle, like an electron, can show both wave and particle properties. Light shows this dual nature too. It can behave like a wave and also like a particle called a photon. \n\nNext, let's talk about matter waves. These are waves associated with particles. Louis de Broglie, a scientist, said that all moving particles have waves. This is called the de Broglie hypothesis. According to de Broglie, the wavelength of a particle is given by the formula: \n\nλ = h/p \n\nHere, λ is the wavelength, h is Planck's constant (6.63 x 10^-34 Js), and p is the momentum of the particle. Momentum is mass times velocity (p = mv). \n\nNow, let's see how this applies to electrons. Electrons can show wave behavior. This was proven by electron diffraction. When electrons pass through a thin metal foil, they create a pattern like waves do. This is evidence of their wave nature. \n\nIn JEE Main, you might get questions like: If an electron has a certain velocity, what is its de Broglie wavelength? You use the formula λ = h/mv to find this. Make sure to use correct units. Mass is in kilograms and velocity is in meters per second. \n\nA common mistake is mixing up units. Always check units before you calculate. \n\nLet's look at an example. If an electron moves with a speed of 1 x 10^6 m/s, find its de Broglie wavelength. The mass of an electron is 9.11 x 10^-31 kg. \n\nStep 1: Calculate momentum, p = mv = (9.11 x 10^-31 kg) x (1 x 10^6 m/s) = 9.11 x 10^-25 kg m/s. \n\nStep 2: Use the de Broglie formula, λ = h/p = (6.63 x 10^-34 Js) / (9.11 x 10^-25 kg m/s) = 7.27 x 10^-10 m. \n\nSo, the de Broglie wavelength is 7.27 x 10^-10 meters. \n\nNow, let's discuss applications. Matter waves are used in electron microscopes. These microscopes use electrons instead of light. They can see very small objects, even atoms. This is because electrons have shorter wavelengths than light, giving better resolution. \n\nIn exams, remember these key points: \n1. All moving particles have a wavelength. \n2. Use λ = h/p to find the wavelength. \n3. Electron diffraction shows wave nature. \n4. Electron microscopes use de Broglie waves for high resolution. \n\nTo summarize, the dual nature of matter and radiation helps us understand how particles and waves are related. The de Broglie hypothesis is key to this topic. It connects the motion of particles to wave behavior. Practice problems and remember to check units. This will help you avoid mistakes in JEE Main. \n\nThat's all for today. Keep practicing and good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Wave-particle Duality",
+    "Matter Waves",
+    "De Broglie Hypothesis",
+    "Electron Diffraction",
+    "Microscopy"
+  ],
+  "formulas": [
+    {
+      "formula": "λ = h/p",
+      "description": "Used to calculate the de Broglie wavelength of a particle in JEE Main questions"
+    },
+    {
+      "formula": "p = mv",
+      "description": "Used to calculate the momentum of a particle, necessary for de Broglie wavelength calculations"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Wave-particle Duality",
+      "definition": "The concept that particles like electrons exhibit both wave and particle properties."
+    },
+    {
+      "term": "Matter Waves",
+      "definition": "Waves associated with moving particles, as proposed by de Broglie."
+    },
+    {
+      "term": "de Broglie Hypothesis",
+      "definition": "The theory that all moving particles have an associated wavelength."
+    },
+    {
+      "term": "Electron Diffraction",
+      "definition": "The phenomenon where electrons create wave-like patterns when passing through thin materials."
+    }
+  ]
+}

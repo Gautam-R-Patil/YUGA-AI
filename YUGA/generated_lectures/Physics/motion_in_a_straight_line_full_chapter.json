@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Motion in a Straight Line",
+    "chapter_number": "3",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:09:34.227675",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts\u2014Motion in a Straight Line. This topic forms the base for the kinematics segment that you'll encounter frequently.\n\n**Concept Explanation:**\n- **Position and Displacement:** Position refers to a point in space occupied by an object. Displacement is the shortest distance from the initial to the final position, a vector quantity. \n- **Velocity and Speed:** Speed is a scalar quantity measuring how fast an object is moving. Velocity is speed with direction, a vector. Average velocity is total displacement divided by total time while instantaneous velocity is at a specific moment.\n- **Acceleration:** It is the rate of change of velocity with time, a key vector quantity in this context.\n\n**Key Formulas to Remember:**\n1. Displacement, \\( s = ut + \\frac{1}{2}at^2 \\)\n2. Velocity, \\( v = u + at \\)\n3. \\( v^2 = u^2 + 2as \\)\n4. Average velocity, \\( v_{avg} = \\frac{u + v}{2} \\)\n\n**NEET Question Pattern:**\n- Questions are commonly based on calculating displacement and velocity using the equations of motion.\n- Graph-based problems involving velocity-time and acceleration-time graphs are popular.\n\n**Quick Revision Points:**\n1. Understand the difference between scalar and vector quantities.\n2. Master the kinematic equations and when to use each.\n3. Be able to interpret motion graphs for displacement, velocity, and acceleration.\n4. Be clear on the difference between average and instantaneous values.\n5. Practicing problems will make concepts clearer and easier to recall under pressure.\n\nTake note that focus is often given to concepts like comparing two objects' motion using graphs or calculating time taken for an object to come to rest. Remember, regular practice with PYQs enhances familiarity with the types of questions NEET emphasizes.",
+  "duration_minutes": "10",
+  "difficulty_level": "Easy to Moderate",
+  "images": [],
+  "keywords": [
+    "Position",
+    "Displacement",
+    "Velocity",
+    "Speed",
+    "Acceleration",
+    "Kinematic equations",
+    "Scalar",
+    "Vector",
+    "Instantaneous velocity",
+    "Average velocity"
+  ],
+  "formulas": [
+    "\\( s = ut + \\frac{1}{2}at^2 \\)",
+    "\\( v = u + at \\)",
+    "\\( v^2 = u^2 + 2as \\)",
+    "\\( v_{avg} = \\frac{u + v}{2} \\)"
+  ],
+  "definitions": [
+    {
+      "term": "Position",
+      "definition": "The specific point occupied by an object in space."
+    },
+    {
+      "term": "Displacement",
+      "definition": "The vector measure of the shortest distance between the initial and final positions of an object."
+    },
+    {
+      "term": "Velocity",
+      "definition": "The rate of displacement of an object with respect to time, with direction."
+    },
+    {
+      "term": "Speed",
+      "definition": "A scalar quantity representing how fast an object is moving, irrespective of direction."
+    },
+    {
+      "term": "Acceleration",
+      "definition": "The rate of change of velocity of an object with respect to time."
+    },
+    {
+      "term": "Kinematic equations",
+      "definition": "Equations that describe the motion of objects in terms of displacement, velocity, and acceleration given initial conditions."
+    },
+    {
+      "term": "Scalar",
+      "definition": "Quantities that have magnitude only, not direction."
+    },
+    {
+      "term": "Vector",
+      "definition": "Quantities that have both magnitude and direction."
+    },
+    {
+      "term": "Instantaneous velocity",
+      "definition": "The velocity of an object at a specific moment in time."
+    },
+    {
+      "term": "Average velocity",
+      "definition": "The total displacement divided by the total time taken for that displacement."
+    }
+  ]
+}

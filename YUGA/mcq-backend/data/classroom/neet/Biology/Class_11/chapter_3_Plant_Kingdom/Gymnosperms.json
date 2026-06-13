@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Plant Kingdom",
+    "chapter_number": 3,
+    "topic": "Gymnosperms",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:34:44.933061",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about gymnosperms. These are a special group of plants. Let's start with their main characteristics. Gymnosperms have 'naked seeds'. This means their seeds are not inside a fruit. Instead, they are open to the air. Most gymnosperms are woody plants. This means they have strong stems like trees. Some common examples of gymnosperms are pine, cycas, and ginkgo. You might have seen pine trees in hilly areas. Cycas has a thick trunk and large leaves. Ginkgo is known for its fan-shaped leaves. Now, let's talk about how gymnosperms reproduce. They use structures called cones. These cones are like special houses for seeds. There are male cones and female cones. Male cones make pollen. Pollen is like plant dust that helps in making seeds. Female cones have ovules. When pollen reaches an ovule, a seed can form. This process is called pollination. Pollination in gymnosperms usually happens with the help of wind. A common mistake is to think gymnosperms have flowers. Remember, they do not have flowers. They only have cones. Gymnosperms play an important role in ecosystems. They help in carbon sequestration. This means they take in carbon dioxide from the air and store it. This helps reduce pollution. Gymnosperms also provide habitat for animals. Many animals live in or around these plants. Economically, gymnosperms are very useful. They give us timber, which is wood used for making furniture and houses. They also produce resins. Resins are sticky substances used in making varnishes and perfumes. In summary, gymnosperms are plants with naked seeds and cones. They are important for the environment and economy. Remember these key points: naked seeds, woody plants, cones for reproduction, and their economic uses. Thank you for listening! Keep these ideas in mind for your NEET exams.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Gymnosperms",
+    "Naked seeds",
+    "Woody plants",
+    "Cones",
+    "Pollination"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Gymnosperms",
+      "definition": "Plants with seeds that are not enclosed in a fruit."
+    },
+    {
+      "term": "Naked seeds",
+      "definition": "Seeds that are not covered by a fruit."
+    },
+    {
+      "term": "Cones",
+      "definition": "Structures in gymnosperms that hold seeds or pollen."
+    },
+    {
+      "term": "Pollination",
+      "definition": "The process of transferring pollen to an ovule for seed production."
+    },
+    {
+      "term": "Carbon sequestration",
+      "definition": "The process of capturing and storing carbon dioxide from the atmosphere."
+    }
+  ]
+}

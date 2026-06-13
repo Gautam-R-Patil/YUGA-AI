@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Differential Equations",
+    "chapter_number": 18,
+    "topic": "Basic Concepts",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:00:30.882030",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about differential equations. This topic is very important for JEE Main. Let's start by understanding what a differential equation is. A differential equation is a math equation that involves derivatives. Derivatives show how a function changes. For example, if y is a function of x, then dy/dx is its derivative. \n\nNow, let's talk about the order of a differential equation. The order is the highest derivative in the equation. For example, in the equation d^2y/dx^2 + dy/dx = 0, the order is 2 because d^2y/dx^2 is the highest derivative. \n\nNext, we have the degree of a differential equation. The degree is the power of the highest derivative, but only if the equation is a polynomial in derivatives. For example, in (d^2y/dx^2)^2 + dy/dx = 0, the degree is 2. \n\nNow, let's look at solutions. A general solution contains constants and represents a family of curves. A particular solution is a specific solution from this family. \n\nIn JEE Main, you might face initial value problems. These problems give you a starting condition. For example, if dy/dx = 3x and y(0) = 2, you need to find y. \n\nBoundary value problems are similar but give conditions at two points. For instance, if you know y(0) = 2 and y(1) = 3, you solve to find y. \n\nDifferential equations can be homogeneous or non-homogeneous. Homogeneous equations have terms that can be grouped with the same degree. Non-homogeneous equations have extra terms. \n\nWe also have linear and nonlinear equations. Linear equations have derivatives to the power of 1. Nonlinear equations have higher powers or products of derivatives. \n\nSeparable differential equations are special. You can write them as f(y) dy = g(x) dx. Then, you integrate both sides. \n\nLet's look at a common mistake. Students often forget to check if the equation is a polynomial before finding the degree. Always check this first! \n\nHere is a key takeaway: Remember the order and degree rules, and practice solving different types of equations. \n\nIn summary, differential equations help us understand how things change. They are crucial for solving many real-world problems. Practice these concepts, and you will do well in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Differential Equation",
+    "Order",
+    "Degree",
+    "Solution",
+    "Separable Equation"
+  ],
+  "formulas": [
+    {
+      "formula": "dy/dx = f(x)",
+      "description": "Used to find the derivative of y with respect to x in JEE Main questions"
+    },
+    {
+      "formula": "dy/dx = g(x) * h(y)",
+      "description": "Separable differential equation, separate variables and integrate"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Differential Equation",
+      "definition": "An equation involving derivatives of a function"
+    },
+    {
+      "term": "Order",
+      "definition": "The highest derivative in a differential equation"
+    },
+    {
+      "term": "Degree",
+      "definition": "The power of the highest derivative if the equation is a polynomial"
+    }
+  ]
+}

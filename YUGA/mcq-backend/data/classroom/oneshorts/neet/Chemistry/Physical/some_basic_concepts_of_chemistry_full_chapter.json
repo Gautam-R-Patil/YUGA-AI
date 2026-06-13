@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "chapter_number": "1",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:18:02.917511",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let's quickly revise one of the most important topics in Chemistry for NEET: Atomic and Molecular Masses.\n\nAtoms are incredibly tiny, and it\u2019s impractical to use their actual mass. Instead, we use relative atomic masses, defined relative to carbon-12, the standard. A mole, which is Avogadro's number \\(6.022 \\times 10^{23}\\) entities, is used for practical calculations.\n\nAtomic Mass: It is the mass of one mole of atoms of an element, usually expressed in unified atomic mass units (u).\n\nMolecular Mass: It is the sum of the atomic masses of all atoms in a molecule.\n\nKey Formulas/Ideas:\n1. \\( \text{Atomic Mass} = \frac{\text{Mass of 1 Mole of Atom in grams}}{\text{Number of atoms in 1 mole}} \\\n   = \text{Mass in grams} \\times \frac{1}{6.022 \\times 10^{23}} \\\n2. \\text{Molecular Mass} = \\sum \text{Atomic Mass of constituent atoms}\n\nNEET Question Pattern: Questions often require you to calculate the molecular mass given the atomic masses of elements. Ensure familiarity with conversions using Avogadro's number.\n\nQuick Revision Points:\n1. Remember: 1 mole equals \\(6.022 \\times 10^{23}\\) entities.\n2. Use atomic mass unit 'u' for atomic mass calculations.\n3. Calculate molecular mass by summing atomic masses.\n4. Practice unit conversions for grams to moles.\n5. Understand these calculations are based on the carbon-12 standard.\n\nRemember, questions on this topic are straightforward and formula-based, making them scoring and high-yield if approached correctly. Practice determining molecular masses and moles from given quantities, as these are frequent in NEET exams.",
+  "duration_minutes": "10",
+  "difficulty_level": "medium",
+  "images": [],
+  "keywords": [
+    "Atomic mass",
+    "Molecular mass",
+    "Mole",
+    "Avogadro's number",
+    "Unified atomic mass unit",
+    "Carbon-12 standard",
+    "Mass conversion"
+  ],
+  "formulas": [
+    "Atomic Mass = \\frac{\\text{Mass of 1 Mole of Atom in grams}}{\\text{Number of atoms in 1 mole}}",
+    "Molecular Mass = \\sum \\text{Atomic Mass of constituent atoms}"
+  ],
+  "definitions": [
+    {
+      "term": "Atomic mass",
+      "definition": "The mass of a single atom of a chemical element expressed in unified atomic mass units; the system is based on carbon-12."
+    },
+    {
+      "term": "Molecular mass",
+      "definition": "The sum of the atomic masses of the atoms in a molecule."
+    },
+    {
+      "term": "Mole",
+      "definition": "The amount of substance containing the same number of discrete entities as the number of atoms in 12 g of pure carbon-12."
+    },
+    {
+      "term": "Avogadro's number",
+      "definition": "The number of constituent particles (usually atoms or molecules) that are contained in one mole, specifically \\(6.022 \\times 10^{23}\\)."
+    },
+    {
+      "term": "Unified atomic mass unit (u)",
+      "definition": "A unit of mass equal to one twelfth the mass of an atom of carbon-12."
+    },
+    {
+      "term": "Carbon-12 standard",
+      "definition": "A basis for measuring atomic masses where one atom of carbon-12 is taken as exactly 12 atomic mass units."
+    },
+    {
+      "term": "Mass conversion",
+      "definition": "The process of converting between mass units and mole units using Avogadro's number."
+    }
+  ]
+}

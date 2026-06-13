@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Trigonometry",
+    "chapter_number": 9,
+    "topic": "Inverse Trigonometric Functions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:53:08.191133",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about inverse trigonometric functions. These functions are very important in JEE Main. They help us find angles when we know the trigonometric value. Let's start with the definition. An inverse trigonometric function reverses what a trigonometric function does. For example, if sin(θ) = x, then θ = sin^(-1)(x).\n\nNow, let's talk about principal values. These are the main or most common values of an inverse function. For example, the principal value of sin^(-1)(x) is between -π/2 and π/2. This makes it easier to find the angle.\n\nNext, let's look at the domain and range. The domain is the set of all possible input values. The range is the set of possible output values. For sin^(-1)(x), the domain is -1 to 1, and the range is -π/2 to π/2.\n\nLet's see the graphs of these functions. The graph of sin^(-1)(x) is a curve that goes from (-1, -π/2) to (1, π/2). It is important to understand these graphs for solving problems.\n\nNow, let's discuss some properties and identities. One important identity is sin(sin^(-1)(x)) = x. This is true for -1 ≤ x ≤ 1. Another one is cos(cos^(-1)(x)) = x, for -1 ≤ x ≤ 1.\n\nLet's move on to composition with trigonometric functions. If you see sin(sin^(-1)(x)), it simply equals x. This is very useful in solving equations.\n\nLet's solve a simple equation: If sin^(-1)(x) = π/6, then x = sin(π/6) = 1/2. This is how we use inverse functions to find values.\n\nInverse functions are also important in calculus. They help in finding derivatives and integrals. For example, the derivative of sin^(-1)(x) is 1/√(1-x^2).\n\nWe can also transform inverse functions. If y = sin^(-1)(x), then x = sin(y). This helps in solving complex problems.\n\nIn integration, inverse functions are used to solve integrals like ∫dx/√(1-x^2) = sin^(-1)(x) + C.\n\nFinally, let's talk about inverse trigonometric inequalities. If sin^(-1)(x) > a, then x > sin(a). These inequalities help in solving problems where we compare angles.\n\nCommon mistakes in JEE Main include using wrong principal values or mixing up domain and range. Always remember the correct values and practice solving problems.\n\nIn summary, inverse trigonometric functions are powerful tools. They help us find angles, solve equations, and work with calculus. Practice these concepts to master them for JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Inverse Functions",
+    "Principal Values",
+    "Domain",
+    "Range",
+    "Identities"
+  ],
+  "formulas": [
+    {
+      "formula": "sin^(-1)(x), cos^(-1)(x), tan^(-1)(x)",
+      "description": "Used to find angles when given a trigonometric value"
+    },
+    {
+      "formula": "sin(sin^(-1)(x)) = x",
+      "description": "Used to simplify expressions in JEE Main problems"
+    },
+    {
+      "formula": "∫dx/√(1-x^2) = sin^(-1)(x) + C",
+      "description": "Used in integration problems in calculus"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Inverse Trigonometric Function",
+      "definition": "A function that finds the angle when given a trigonometric value"
+    },
+    {
+      "term": "Principal Value",
+      "definition": "The main value of an inverse function, usually within a specific range"
+    }
+  ]
+}

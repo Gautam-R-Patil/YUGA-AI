@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Laws of Motion",
+    "chapter_number": 5,
+    "topic": "Conservation of Momentum",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:51:47.979170",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the conservation of momentum. This is a key concept in physics and is often tested in NEET exams.\n\nLet's start with the definition. Momentum is the product of an object's mass and its velocity. It tells us how much motion an object has. The formula for momentum is: momentum = mass × velocity.\n\nNow, what is the conservation of momentum? It is a principle that says the total momentum of a closed system does not change. In simple words, if no outside forces act on a group of objects, their total momentum stays the same.\n\nImagine you are standing on a skateboard. If you throw a ball forward, you will roll backward. This is because the total momentum before and after you throw the ball is the same.\n\nLet's talk about collisions. In a collision, two or more objects hit each other. There are two types of collisions: elastic and inelastic.\n\nIn an elastic collision, both momentum and kinetic energy are conserved. This means the total energy before and after the collision is the same. A good example is two billiard balls hitting each other.\n\nIn an inelastic collision, only momentum is conserved, not kinetic energy. A common example is a car crash where the cars stick together after colliding.\n\nNow, let's see how we apply these ideas. When solving problems, first find the total momentum before the event. Then, make sure the total momentum after the event is the same.\n\nHere's a quick example: If a 5 kg object moving at 2 m/s hits a 3 kg object at rest, what is their speed after they stick together? First, calculate the total momentum before the collision: 5 kg × 2 m/s = 10 kg·m/s. After they stick together, their combined mass is 8 kg. So, 10 kg·m/s = 8 kg × final velocity. This gives us a final velocity of 1.25 m/s.\n\nCommon mistake: Many students forget to consider the direction of velocity. Remember, momentum has direction.\n\nKey points to remember: Momentum is mass times velocity. In a closed system, total momentum stays the same. Elastic collisions conserve both momentum and kinetic energy. Inelastic collisions conserve only momentum.\n\nTo sum up, understanding momentum helps us predict how objects move after colliding. This is crucial for solving many physics problems.\n\nThat's all for today. Keep practicing, and you will master these concepts in no time!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Momentum",
+    "Conservation of Momentum",
+    "Elastic Collision",
+    "Inelastic Collision",
+    "Closed System"
+  ],
+  "formulas": [
+    {
+      "formula": "momentum = mass × velocity",
+      "description": "Formula to calculate momentum of an object"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Momentum",
+      "definition": "The product of an object's mass and velocity"
+    },
+    {
+      "term": "Conservation of Momentum",
+      "definition": "The principle that the total momentum of a closed system remains constant if no external forces act on it"
+    },
+    {
+      "term": "Elastic Collision",
+      "definition": "A collision where both momentum and kinetic energy are conserved"
+    },
+    {
+      "term": "Inelastic Collision",
+      "definition": "A collision where only momentum is conserved, not kinetic energy"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Complex Numbers and Quadratic Equations",
+    "chapter_number": 2,
+    "topic": "Quadratic Equations",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:46:39.782301",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about quadratic equations. This is an important topic in JEE Main. Let's start with the basics. \n\nA quadratic equation is a type of equation. It has the form ax^2 + bx + c = 0. Here, a, b, and c are numbers. 'a' cannot be zero. This is called the standard form of a quadratic equation.\n\nNext, let's talk about the roots of a quadratic equation. Roots are the solutions of the equation. If you solve ax^2 + bx + c = 0, you find the roots. \n\nThe nature of roots depends on the discriminant. The discriminant is given by the formula D = b^2 - 4ac. If D > 0, the roots are real and different. If D = 0, the roots are real and equal. If D < 0, the roots are complex.\n\nNow, we will learn about the relation between roots and coefficients. If α and β are roots of the equation, then α + β = -b/a and αβ = c/a. This is useful for solving problems quickly.\n\nLet's look at the graph of a quadratic function. The graph is a curve called a parabola. If a > 0, the parabola opens upwards. If a < 0, it opens downwards. The vertex of the parabola is the highest or lowest point.\n\nWe can solve quadratic equations by factorization. To factorize, find two numbers whose product is ac and sum is b. Rewrite the equation and factor it.\n\nAnother method is completing the square. To complete the square, rewrite ax^2 + bx + c in the form (x-h)^2 = k. Solve for x to find the roots.\n\nLet's do a quick example. Solve x^2 - 5x + 6 = 0 by factorization. The factors of 6 are 2 and 3. Since 2 + 3 = 5, we write (x-2)(x-3) = 0. So, the roots are x = 2 and x = 3.\n\nRemember, common mistakes include wrong factorization and incorrect use of the discriminant. Always check your work.\n\nKey takeaways: Know the standard form, use the discriminant to find the nature of roots, and remember the relation between roots and coefficients.\n\nIn summary, quadratic equations are simple if you follow the steps. Practice these methods, and you will do well in JEE Main. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Quadratic Equation",
+    "Roots",
+    "Discriminant",
+    "Factorization",
+    "Parabola"
+  ],
+  "formulas": [
+    {
+      "formula": "ax^2 + bx + c = 0",
+      "description": "Standard form of a quadratic equation used to identify coefficients"
+    },
+    {
+      "formula": "D = b^2 - 4ac",
+      "description": "Discriminant formula used to determine the nature of roots"
+    },
+    {
+      "formula": "α + β = -b/a",
+      "description": "Sum of roots formula used to find relation between roots and coefficients"
+    },
+    {
+      "formula": "αβ = c/a",
+      "description": "Product of roots formula used to find relation between roots and coefficients"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Quadratic Equation",
+      "definition": "An equation of the form ax^2 + bx + c = 0 where a, b, and c are constants"
+    },
+    {
+      "term": "Discriminant",
+      "definition": "A value calculated as b^2 - 4ac used to determine the nature of roots"
+    },
+    {
+      "term": "Roots",
+      "definition": "Solutions of the quadratic equation where the equation equals zero"
+    }
+  ]
+}

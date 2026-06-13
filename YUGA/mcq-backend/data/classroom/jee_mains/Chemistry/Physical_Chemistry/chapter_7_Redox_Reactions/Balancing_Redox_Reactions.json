@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Redox Reactions",
+    "chapter_number": 7,
+    "topic": "Balancing Redox Reactions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:08:17.812984",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about balancing redox reactions. Redox reactions are chemical reactions where reduction and oxidation happen. Reduction means gaining electrons. Oxidation means losing electrons. Let's start with methods to balance these reactions. \n\nFirst, we have the Half-Reaction Method. This method splits the reaction into two parts. One part shows oxidation, and the other shows reduction. For example, in the reaction between zinc and copper sulfate, zinc loses electrons, and copper gains them. We write two equations: one for zinc losing electrons and one for copper gaining electrons. Then, we balance these equations separately. \n\nNext is the Ion-Electron Method. This method is similar to the Half-Reaction Method. But here, we focus on balancing ions and electrons. We first write the ionic forms of the reactants and products. Then, we balance the atoms and charges. This method is useful in reactions involving ions. \n\nNow, let's talk about balancing in acidic and basic media. In acidic media, we add H+ ions to balance hydrogen atoms. In basic media, we add OH- ions. This helps to balance the charges. Remember, in acidic media, we use water (H2O) to balance oxygen. In basic media, we use water and OH- ions. \n\nLet's look at an example. Suppose we have the reaction of permanganate ion (MnO4-) with iron (Fe2+) in acidic solution. First, we write the half-reactions. MnO4- becomes Mn2+, and Fe2+ becomes Fe3+. We balance the atoms and charges using H+ and electrons. Then, we combine the balanced half-reactions. \n\nCommon mistakes include forgetting to balance charges or atoms. Always check your work. In JEE Main, they often test if you can balance both atoms and charges. \n\nRedox reactions are also important in titrations. Titrations help find the concentration of a solution. In redox titrations, one solution is oxidized, and the other is reduced. We use a color change to find the endpoint. \n\nGraphical representation helps us understand redox processes. We can draw simple graphs showing how electrons move. This makes it easier to see which substance is oxidized and which is reduced. \n\nKey takeaways: Always balance atoms and charges. Practice with different examples. Remember the methods for acidic and basic media. \n\nIn summary, balancing redox reactions is important for JEE Main. Use the methods we discussed. Practice regularly to avoid common mistakes. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Redox Reaction",
+    "Half-Reaction",
+    "Ion-Electron",
+    "Titration",
+    "Oxidation"
+  ],
+  "formulas": [
+    {
+      "formula": "MnO4- + 8H+ + 5e- -> Mn2+ + 4H2O",
+      "description": "Used to balance redox equations in acidic media"
+    },
+    {
+      "formula": "Fe2+ -> Fe3+ + e-",
+      "description": "Shows the oxidation of iron in redox reactions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Redox Reaction",
+      "definition": "A chemical reaction where reduction and oxidation occur together"
+    },
+    {
+      "term": "Oxidation",
+      "definition": "The process of losing electrons"
+    },
+    {
+      "term": "Reduction",
+      "definition": "The process of gaining electrons"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Conic Sections",
+    "chapter_number": 8,
+    "topic": "Circle",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:51:25.230766",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about circles in the chapter of Conic Sections. A circle is a simple shape in geometry. It is a set of points in a plane. All points are at a fixed distance from a center point. We call this fixed distance the radius. \n\nFirst, let's look at the standard form of a circle's equation. The equation is (x - h)^2 + (y - k)^2 = r^2. Here, (h, k) is the center of the circle. The letter 'r' stands for the radius. This equation helps us find the circle's position and size on a graph. \n\nNow, let's understand how we use this equation. If you know the center and radius, you can write the circle's equation directly. For example, if the center is (3, 4) and the radius is 5, the equation is (x - 3)^2 + (y - 4)^2 = 25. \n\nIn JEE Main, you often need to find the center and radius from the equation. If you see x^2 + y^2 + 2gx + 2fy + c = 0, you can convert it to the standard form. The center is (-g, -f) and the radius is √(g^2 + f^2 - c). \n\nLet's solve a simple problem. Suppose the equation is x^2 + y^2 - 6x - 8y + 9 = 0. First, find the center: (3, 4). Then, find the radius: √(3^2 + 4^2 - 9) = 2. \n\nA common mistake in JEE Main is forgetting to square the radius when finding the equation. Always remember r^2, not r. Also, be careful with signs when finding the center. \n\nCircles have many properties. One property is symmetry. A circle looks the same from any direction. This is useful in problems. Another property is that all diameters are equal. The diameter is twice the radius. \n\nCircles are used in many applications. They help in designing wheels, clocks, and even in architecture. Understanding circles can help you solve real-life problems. \n\nIn summary, remember the circle's equation: (x - h)^2 + (y - k)^2 = r^2. Practice finding the center and radius. Avoid common mistakes like sign errors. With practice, you will solve circle problems easily. \n\nThat's all for today. Keep practicing, and you will do well in JEE Main!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Circle",
+    "Center",
+    "Radius",
+    "Equation",
+    "Symmetry"
+  ],
+  "formulas": [
+    {
+      "formula": "(x - h)^2 + (y - k)^2 = r^2",
+      "description": "Used to find the circle's position and size. Important for problems that ask for the equation of a circle."
+    },
+    {
+      "formula": "x^2 + y^2 + 2gx + 2fy + c = 0",
+      "description": "Convert this to standard form to find the center and radius. Common in JEE Main questions."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Circle",
+      "definition": "A set of points in a plane that are all at the same distance from a center point."
+    },
+    {
+      "term": "Radius",
+      "definition": "The fixed distance from the center of a circle to any point on the circle."
+    },
+    {
+      "term": "Center",
+      "definition": "The point inside a circle that is equally distant from all points on the circle."
+    }
+  ]
+}

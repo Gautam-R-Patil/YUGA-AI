@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "chapter_number": 2,
+    "topic": "Pollination and Fertilization",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:39:22.422025",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about pollination and fertilization in flowering plants. These are important topics for NEET. Let's start with pollination. Pollination is the process where pollen from the male part of a flower reaches the female part. There are two main types: self-pollination and cross-pollination. Self-pollination happens when pollen from a flower lands on the same flower or another flower on the same plant. Cross-pollination is when pollen goes to a flower on a different plant of the same species. \n\nNow, let's talk about geitonogamy and xenogamy. Geitonogamy is a type of self-pollination where pollen moves between flowers of the same plant. Xenogamy is a type of cross-pollination where pollen moves between flowers of different plants. \n\nPlants use different agents for pollination. Wind, water, insects, and birds are common agents. Wind pollination is seen in plants like grasses. Water pollination is rare but happens in some aquatic plants. Insects like bees help in pollination by carrying pollen on their bodies. Birds like hummingbirds also help in pollination by moving pollen as they feed on nectar.\n\nLet's discuss pollen-pistil interaction. When pollen lands on the pistil, it starts to grow a pollen tube. This tube helps pollen reach the ovule. The ovule is inside the ovary of the flower. Two important parts of the ovule are the micropyle and chalaza. The micropyle is a small opening where the pollen tube enters. The chalaza is the base of the ovule.\n\nNow, we move to artificial hybridization techniques. Emasculation is removing the male parts of a flower to prevent self-pollination. Bagging is covering the flower to stop unwanted pollen from reaching it. These methods help in controlled breeding.\n\nNext, let's understand fertilization. Fertilization involves two main processes: syngamy and triple fusion. In syngamy, one male gamete fuses with the egg cell to form a zygote. In triple fusion, another male gamete fuses with two polar nuclei to form the endosperm. The endosperm provides food to the developing embryo.\n\nAfter fertilization, post-fertilization events happen. The zygote grows into an embryo. The endosperm develops to nourish the embryo. Seed dispersal is how seeds spread to new places. Wind, water, and animals help in dispersing seeds.\n\nLet's remember some key points. Cross-pollination increases genetic diversity. This is a big advantage. A common mistake is thinking geitonogamy is cross-pollination. But it is self-pollination.\n\nTo sum up, pollination and fertilization are crucial for plant reproduction. Understanding these processes helps us see how plants grow and produce seeds. Remember these concepts for your NEET exam. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Pollination",
+    "Fertilization",
+    "Self-pollination",
+    "Cross-pollination",
+    "Pollen tube"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Pollination",
+      "definition": "The process where pollen from the male part of a flower reaches the female part."
+    },
+    {
+      "term": "Self-pollination",
+      "definition": "Pollination where pollen from a flower lands on the same flower or another flower on the same plant."
+    },
+    {
+      "term": "Cross-pollination",
+      "definition": "Pollination where pollen goes to a flower on a different plant of the same species."
+    },
+    {
+      "term": "Pollen tube",
+      "definition": "A tube that grows from pollen and helps it reach the ovule."
+    },
+    {
+      "term": "Micropyle",
+      "definition": "A small opening in the ovule where the pollen tube enters."
+    },
+    {
+      "term": "Chalaza",
+      "definition": "The base of the ovule."
+    }
+  ]
+}

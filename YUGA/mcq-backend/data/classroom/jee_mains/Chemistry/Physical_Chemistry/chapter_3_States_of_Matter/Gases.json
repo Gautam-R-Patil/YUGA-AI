@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "States of Matter",
+    "chapter_number": 3,
+    "topic": "Gases",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:04:43.572033",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about gases in the States of Matter. Gases are all around us. The air we breathe is a mixture of gases. Let's explore their characteristics. \n\nGases have no fixed shape or volume. They fill the container they are in. This is different from solids and liquids. In solids, particles are tightly packed. In gases, particles are far apart. This is why gases are easy to compress. \n\nNext, let's talk about the Kinetic Molecular Theory. This theory explains how gas particles move. Gas particles are always in constant motion. They move in straight lines until they hit something. When they collide, they change direction. This movement causes pressure. \n\nPressure is the force that gas particles exert on the walls of their container. We measure pressure in units like atmospheres (atm) or pascals (Pa). Remember, 1 atm is equal to 101,325 Pa. \n\nNow, let's discuss volume and temperature. Volume is the space gas occupies. We measure it in liters (L). Temperature affects how fast particles move. We measure temperature in Kelvin (K) for gas laws. Remember, Kelvin = Celsius + 273. \n\nLet's move to Boyle's Law. Boyle's Law says that pressure and volume are inversely related. If pressure increases, volume decreases, and vice versa. The formula is P₁V₁ = P₂V₂. This means if you know three values, you can find the fourth. \n\nCharles's Law is about volume and temperature. It says they are directly related. If temperature increases, volume increases. The formula is V₁/T₁ = V₂/T₂. Remember, temperature must be in Kelvin. \n\nAvogadro's Law states that volume and the number of moles are directly related. More moles mean more volume. The formula is V₁/n₁ = V₂/n₂. This is useful when dealing with chemical reactions. \n\nThe Ideal Gas Equation combines these laws. It is PV = nRT. 'P' is pressure, 'V' is volume, 'n' is moles, 'R' is the gas constant, and 'T' is temperature. Use this when you have different conditions for a gas. \n\nDalton's Law of Partial Pressures is about gas mixtures. It says the total pressure is the sum of the partial pressures. The formula is P_total = P₁ + P₂ + P₃ + .... This is useful when dealing with gas mixtures. \n\nLet's look at some common mistakes. In JEE Main, students often forget to convert Celsius to Kelvin. Always check units in formulas. Another trap is forgetting that volume should be in liters. \n\nKey takeaways: Gases have no fixed shape or volume. Pressure, volume, and temperature are important. Use the right formula for the right problem. \n\nIn summary, understanding gases helps in many JEE Main problems. Practice these concepts and formulas. They are crucial for solving questions. \n\nThat's all for today's lecture. Keep practicing and good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Gases",
+    "Pressure",
+    "Volume",
+    "Temperature",
+    "Ideal Gas Equation"
+  ],
+  "formulas": [
+    {
+      "formula": "P₁V₁ = P₂V₂",
+      "description": "Boyle's Law: Used when pressure and volume change, but temperature and moles are constant"
+    },
+    {
+      "formula": "V₁/T₁ = V₂/T₂",
+      "description": "Charles's Law: Used when volume and temperature change, but pressure and moles are constant"
+    },
+    {
+      "formula": "V₁/n₁ = V₂/n₂",
+      "description": "Avogadro's Law: Used when volume and moles change, but pressure and temperature are constant"
+    },
+    {
+      "formula": "PV = nRT",
+      "description": "Ideal Gas Equation: Used for calculating one property of a gas when others are known"
+    },
+    {
+      "formula": "P_total = P₁ + P₂ + P₃ + ...",
+      "description": "Dalton's Law: Used for finding total pressure of a gas mixture"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pressure",
+      "definition": "The force that gas particles exert on the walls of their container"
+    },
+    {
+      "term": "Volume",
+      "definition": "The space that a gas occupies"
+    },
+    {
+      "term": "Temperature",
+      "definition": "A measure of how hot or cold something is, affecting particle movement"
+    },
+    {
+      "term": "Kinetic Molecular Theory",
+      "definition": "A theory that explains the motion of gas particles"
+    }
+  ]
+}

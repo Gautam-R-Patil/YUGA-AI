@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "chapter_number": 1,
+    "topic": "Atomic and Molecular Masses",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:10:17.108886",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about atomic and molecular masses. This is a very important topic in chemistry. You will often see questions about it in NEET exams.\n\nLet's start with atomic mass unit, or amu. An atomic mass unit is a very small unit of mass. We use it to measure the mass of atoms. One amu is equal to one twelfth the mass of a carbon-12 atom. This makes it easy to compare the masses of different atoms.\n\nNext, we have average atomic mass. Atoms of the same element can have different masses. These are called isotopes. The average atomic mass is the weighted average of all the isotopes of an element. To calculate it, you multiply the mass of each isotope by its abundance. Then, you add these values together.\n\nNow, let's talk about molecular mass. Molecular mass is the sum of the atomic masses of all atoms in a molecule. For example, to find the molecular mass of water (H2O), you add the masses of two hydrogen atoms and one oxygen atom.\n\nLet's calculate the molecular mass of water. The atomic mass of hydrogen is about 1 amu. For oxygen, it is about 16 amu. So, the molecular mass of H2O is 2 x 1 + 16 = 18 amu.\n\nNext, let's calculate the molecular mass of carbon dioxide (CO2). Carbon has an atomic mass of about 12 amu, and oxygen is about 16 amu. So, the molecular mass of CO2 is 12 + 2 x 16 = 44 amu.\n\nSometimes, students confuse molecular mass with formula mass. Formula mass is used for ionic compounds. It is the sum of the atomic masses of the ions in a formula unit.\n\nKey points to remember: Atomic mass unit is a small unit of mass. Average atomic mass is a weighted average of isotopes. Molecular mass is the sum of atomic masses in a molecule.\n\nCommon mistake: Do not confuse atomic mass and molecular mass. Atomic mass is for single atoms. Molecular mass is for molecules.\n\nIn summary, understanding atomic and molecular masses helps us in many chemistry calculations. It is important for NEET exams. Make sure to practice these calculations.\n\nThat's all for today. Keep practicing, and you will do great in your exams!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Atomic Mass Unit",
+    "Average Atomic Mass",
+    "Molecular Mass",
+    "Formula Mass",
+    "Isotopes"
+  ],
+  "formulas": [
+    {
+      "formula": "Average atomic mass = (mass of isotope1 x abundance1) + (mass of isotope2 x abundance2) + ...",
+      "description": "Formula to calculate the average atomic mass using isotopes and their abundances"
+    },
+    {
+      "formula": "Molecular mass = Σ (atomic mass of each element x number of atoms of that element)",
+      "description": "Formula to calculate the molecular mass by summing the atomic masses of all atoms in the molecule"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Atomic Mass Unit",
+      "definition": "A unit of mass equal to one twelfth the mass of a carbon-12 atom."
+    },
+    {
+      "term": "Average Atomic Mass",
+      "definition": "The weighted average mass of the isotopes of an element."
+    },
+    {
+      "term": "Molecular Mass",
+      "definition": "The sum of the atomic masses of all atoms in a molecule."
+    },
+    {
+      "term": "Formula Mass",
+      "definition": "The sum of the atomic masses of the ions in a formula unit."
+    }
+  ]
+}

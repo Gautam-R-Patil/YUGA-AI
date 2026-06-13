@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Biotechnology and its Applications",
+    "chapter_number": 12,
+    "topic": "Biotechnological Applications in Medicine",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:44:39.338263",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about biotechnological applications in medicine. This is a very interesting topic and important for NEET exams. Let's start with recombinant therapeutics. Recombinant DNA is a technology where we join DNA from different sources. This helps us make medicines like insulin. Insulin is a hormone that controls blood sugar. In the past, insulin was taken from animals. Now, we use recombinant DNA to make it in the lab. This is safer and more effective. Another example is the human growth hormone. It helps children grow if they have growth problems. \n\nNext, let's talk about gene therapy. Gene therapy is a way to fix genes that cause diseases. Imagine a book with a spelling mistake. Gene therapy corrects that mistake. It helps treat diseases like cystic fibrosis and some cancers. But, it is still being researched and not widely used yet. \n\nNow, let's move to molecular diagnosis. This helps us find diseases early. Two common methods are PCR and ELISA. PCR, or Polymerase Chain Reaction, is like a photocopy machine for DNA. It makes many copies of a DNA piece. This helps in detecting diseases like COVID-19. ELISA, or Enzyme-Linked Immunosorbent Assay, is used to find proteins in the blood. It helps in diagnosing diseases like HIV. \n\nAnother exciting area is stem cell therapy. Stem cells are special cells that can become any cell type. They help repair damaged tissues. For example, they can help in treating heart diseases or spinal injuries. \n\nLet's remember some key terms. Recombinant DNA is joining DNA from different sources. Gene therapy is fixing faulty genes. Monoclonal antibodies are lab-made molecules. They are used in treating diseases like cancer. \n\nA common mistake is thinking recombinant DNA is only for making insulin. It is used for many medicines. Also, remember PCR is not a treatment. It is a diagnosis tool. \n\nTo summarize, biotechnology in medicine includes recombinant therapeutics, gene therapy, molecular diagnosis, and stem cell therapy. These are important for NEET exams. Keep these concepts in mind, and you will do well. \n\nThank you for listening, and keep studying hard!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Recombinant DNA",
+    "Gene Therapy",
+    "Molecular Diagnosis",
+    "PCR",
+    "Stem Cell Therapy"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Recombinant DNA",
+      "definition": "DNA that is formed by joining DNA from different sources."
+    },
+    {
+      "term": "Gene Therapy",
+      "definition": "A technique for correcting defective genes responsible for disease development."
+    },
+    {
+      "term": "Monoclonal Antibodies",
+      "definition": "Lab-made molecules that can mimic the immune system's ability to fight off harmful pathogens."
+    }
+  ]
+}

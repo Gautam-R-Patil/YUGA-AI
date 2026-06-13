@@ -1,0 +1,365 @@
+[
+    {
+        "id": 20,
+        "question_number": "163",
+        "text": "Two astronauts are floating in gravitational free space after having lost contact with their spaceship. The two will:",
+        "subject": "Physics",
+        "sub_topic": "Gravitation",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 21,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "move towards each other.",
+            "move away from each other.",
+            "become stationary.",
+            "keep floating at the same distance between them."
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 137,
+        "correct_answer": "move towards each other.",
+        "basic_answer": "Given: \n[two astronauts are floating in gravitational free space]\nSolution: \n[Newton's law of universal gravitation states that every mass attracts every other mass. While they are in free space, they exert gravitational forces on each other, causing them to accelerate towards each other. No other forces are acting on them, resulting in mutual attraction. So the distance between them will decrease as they move towards each other.]",
+        "explanation": "### Core Concept\nThis problem is based on Newton's Law of Universal Gravitation. It states that every particle of matter in the universe attracts every other particle with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.\n\n### Solution\n\n1. Identify the Source of Gravity\nEven in \"gravitational free space\" (meaning far from massive planets), the astronauts themselves have mass (m1 and m2). According to physics, any object with mass possesses its own gravitational field.\n\n2. Apply the Formula\nThe mutual force (F) of attraction is: \nF = G * (m1 * m2) / r²\n\n\n\n3. Determine the Motion\nSince gravitational force is always attractive and there are no other external forces in \"free space\" to oppose this pull, the astronauts will experience a small but constant acceleration toward one another.\n\n### Why This Answer?\nThe correct answer is \"move towards each other\". Because gravity is a universal property of mass, the two astronauts will act like tiny planets to one another, eventually drifting together due to their mutual pull.\n\n### Common Mistakes\n* Misinterpreting \"Weightlessness\": Thinking that a lack of weight means a lack of gravity. Weight is a reaction force, but gravity is a fundamental attraction that always exists between masses.\n* Static Assumption: Assuming they will stay stationary because the force is very weak. In a frictionless environment like space, even the weakest force will eventually cause visible motion.\n* Confusing Repulsion: Mistakenly thinking they might drift apart. Gravity is strictly an attractive force; it never repels.",
+        "keywords": {
+            "m": "mass",
+            "F": "force",
+            "G": "gravitational constant",
+            "r": "distance",
+            "N": "Newtons"
+        }
+    },
+    {
+        "id": 21,
+        "question_number": "15",
+        "text": "A certain wire has resistance A₈₁ Ω. The resistance of another wire of the same material and equal length but of diameter thrice the diameter of will be:",
+        "subject": "Physics",
+        "sub_topic": "Electricity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (27)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "81 Ω",
+            "9 Ω",
+            "729 Ω",
+            "243 Ω"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (27).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 2912,
+        "correct_answer": "9 Ω",
+        "basic_answer": "Using the relation \nR = ρL/A, resistance is inversely proportional to cross-sectional area. Since area A ∝ d², tripling the diameter increases the area by 3² = 9 times.\n\n Hence the resistance becomes 1/9 of the original value. Therefore, the new resistance = 81 Ω × (1/9) = 9 Ω.",
+        "explanation": "### Core Concept\nThe resistance (R) of a conductor is determined by its material properties and its physical dimensions. The relationship is defined by the formula:\nR = \u03c1 * L / A\nWhere \u03c1 (rho) is resistivity, L is length, and A is the cross-sectional area.\n\n### Solution\n\nIdentify Constants and Variables\n* Material (\u03c1) and Length (L) are the same for both wires.\n* Diameter (d) is tripled: d_new = 3 * d_old.\n\nRelate Area to Diameter\nThe cross-sectional area of a circular wire is A = \u03c0 * (d/2)². This means the area is directly proportional to the square of the diameter (A \u221d d²).\n* If diameter increases by 3 times, the area increases by 3² = 9 times.\n\n\n\nRelate Resistance to Area\nResistance is inversely proportional to the area (R \u221d 1/A). Since the area is now 9 times larger, the resistance must be 9 times smaller.\n\nFinal Calculation\nNew Resistance = 81 \u03a9 / 9 = 9 \u03a9.\n\n### Why This Answer?\nThe answer is 9 \u03a9. A thicker wire provides a wider path for electrons to flow, which reduces the resistance. Because area depends on the square of the diameter, a small change in thickness leads to a large change in resistance.\n\n### Common Mistakes\n* Linear Thinking: Thinking that 3 times the diameter means 1/3 the resistance (27 \u03a9). This forgets that area involves squaring the radius or diameter.\n* Incorrect Scaling: Multiplying 81 by 9 (729 \u03a9). Remember: Thicker wires always have less resistance.\n* Radius Confusion: Forgetting to square the ratio when moving from diameter to area.",
+        "keywords": {}
+    },
+    {
+        "id": 22,
+        "question_number": "156",
+        "text": "A bus is moving with a speed of 10 ms⁻¹ on a straight road. A scooterist wishes to overtake the bus in 100 s. If the bus is at a distance of 1 km from the scooterist, with what speed should the scooterist chase the bus?",
+        "subject": "Physics",
+        "sub_topic": "Kinematics",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 18,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "20 ms⁻¹",
+            "40 ms⁻¹",
+            "25 ms⁻¹",
+            "10 ms⁻¹"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 448,
+        "correct_answer": "20 ms⁻¹",
+        "basic_answer": "Given: \n[bus speed = 10 m/s, time = 100 s, initial distance = 1 km = 1000 m]\n\nSolution: \n[Final position of scooterist = initial position of bus + distance traveled by bus]",
+        "explanation": "### Core Concept\nThis problem is best solved using Relative Velocity. To overtake the bus, the scooterist must have a higher speed than the bus so that the relative gap between them closes over time.\n\n### Solution\n\n1. Identify Given Data\n* Velocity of the Bus (Vb) = 10 m/s\n* Initial Separation Distance (s) = 1 km = 1000 m\n* Time allowed (t) = 100 s\n\n2. Calculate Required Relative Velocity (V_rel)\nThe relative velocity is the rate at which the 1000 m gap must be closed:\nV_rel = Distance / Time\nV_rel = 1000 m / 100 s = 10 m/s\n\n\n\n3. Find the Scooterist's Absolute Speed (Vs)\nWhen two objects move in the same direction, the relative velocity is the difference between their speeds:\nV_rel = Vs - Vb\n10 m/s = Vs - 10 m/s\nVs = 10 + 10 = 20 m/s\n\n### Why This Answer?\nThe required speed is 20 m/s. At this speed, the scooterist covers 10 m more than the bus every second. Over 100 seconds, that extra 10 m/s adds up to exactly the 1000 m needed to close the initial gap.\n\n### Common Mistakes\n* Ignoring the Bus's Movement: Calculating speed simply as 1000m / 100s = 10 m/s. This speed would only work if the bus were standing still.\n* Unit Conversion Errors: Failing to convert 1 km to 1000 m before starting the calculation.\n* Adding Velocities: Accidentally adding the speeds (10 + 10) in the wrong context, though here the logic leads to the correct sum for the absolute speed.",
+        "keywords": {
+            "v": "velocity",
+            "m": "meters",
+            "s": "seconds",
+            "km": "kilometers",
+            "ms": "meters per second"
+        }
+    },
+    {
+        "id": 23,
+        "question_number": "154",
+        "text": "In the nuclear decay given below: the particles emitted in the sequence are: ^A_Z X \u2192 ^A_(Z+1) Y \u2192 ^(A-4)_(Z-1) B* \u2192 ^(A-4)_(Z-1) B",
+        "subject": "Physics",
+        "sub_topic": "Nuclear Physics",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 18,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "β, \u03b1, \u03b3",
+            "\u03b3, \u03b2, \u03b1",
+            "\u03b2, \u03b3, \u03b1",
+            "\u03b1, \u03b2, \u03b3"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 445,
+        "correct_answer": "\u03b2, \u03b1, \u03b3",
+        "basic_answer": "Given: \n[\n\nInitial nuclide: ^A_Z X\n\nFirst decay products: ^A_(Z+1) Y\n\nSecond decay products: ^(A-4)_(Z-1) B*\n\nFinal decay products: ^(A-4)_(Z-1) B]\nSolution: \n[\n\nBeta decay: ^A_Z X \u2192 ^A_(Z+1) Y (emission of beta particle, \u03b2)\n\nAlpha decay: ^A_(Z+1) Y \u2192 ^(A-4)_(Z-1) B* (emission of alpha particle, \u03b1)\n\nGamma decay: ^(A-4)_(Z-1) B* \u2192 ^(A-4)_(Z-1) B (emission of gamma ray, \u03b3).\n\nFrom ^A_Z X \u2192 ^A_(Z+1) Y (first step indicates beta decay as Z increases by 1).\n\nFrom ^A_(Z+1) Y \u2192 ^(A-4)_(Z-1) B* (the decay process causes a drop of 4 in A and Z decreases by 2 indicating alpha decay).\n\nThe transition from ^(A-4)_(Z-1) B* \u2192 ^(A-4)_(Z-1) B (last step indicates gamma decay where no change happens in Z or A)]",
+        "explanation": "### Core Concept\nNuclear decay is identified by changes in the Mass Number (A) and Atomic Number (Z). Each radiation type has a specific effect on these numbers.\n\n### Solution\n\nStep 1: Analyze Step 1 (^A_Z X \u2192 ^A_(Z+1) Y)\n* A stays same, Z increases by 1.\n* This is the signature of Beta (\u03b2\u207b) decay, where a neutron converts into a proton.\n\nStep 2: Analyze Step 2 (^A_(Z+1) Y \u2192 ^(A-4)_(Z-1) B*)\n* A decreases by 4, Z decreases by 2.\n* (Note: (Z+1) to (Z-1) is a drop of 2).\n* This is the signature of Alpha (\u03b1) decay, the emission of a Helium nucleus.\n\n\n\nStep 3: Analyze Step 3 (^(A-4)_(Z-1) B* \u2192 ^(A-4)_(Z-1) B)\n* A and Z stay exactly the same.\n* The asterisk (*) indicates an excited energy state. Returning to the ground state without changing composition means Gamma (\u03b3) radiation was emitted.\n\n### Why This Answer?\nThe sequence is \u03b2, \u03b1, \u03b3. The first step adds a proton, the second step removes two protons and four nucleons, and the third step simply releases excess energy.\n\n### Common Mistakes\n* Confusing Alpha and Beta: Swapping the effects on Z. Remember that Beta increases Z, while Alpha reduces it.\n* Ignoring the Asterisk: Thinking the third step is another beta decay because they missed the energy state notation (*).\n* Mathematical Errors: Calculating the change in Z between step 1 and step 2 incorrectly (thinking it's -1 instead of -2).",
+        "keywords": {
+            "X": "initial nuclide",
+            "Y": "first decay product",
+            "B": "final decay product",
+            "Z": "atomic number",
+            "A": "mass number",
+            "\u03b2": "beta particle",
+            "\u03b1": "alpha particle",
+            "\u03b3": "gamma ray"
+        }
+    },
+    {
+        "id": 24,
+        "question_number": "17",
+        "text": "The amount of elastic potential energy per unit volume (in SI unit) of a steel wire of length to stretch it by is: (given: Young's modulus of the wire = Y = 2.0 \u00d7 10\u00b9\u00b9 N/m)",
+        "subject": "Physics",
+        "sub_topic": "Elasticity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (27)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "10\u00b9\u00b9 J/m\u00b3",
+            "10\u00b9\u2077 J/m\u00b3",
+            "10\u2077 J/m\u00b3",
+            "10\u2075 J/m\u00b3"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (27).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 2914,
+        "correct_answer": "10\u00b9\u00b9 J/m\u00b3",
+        "basic_answer": "Given: \n[Young's modulus Y = 2.0 \u00d7 10\u00b9\u00b9 N/m\u00b2]\n\nSolution: \n[Elastic potential energy per unit volume (energy density) for a stretched wire is given by\n\nU = (1/2) \u00d7 stress \u00d7 strain \n\n= (1/2) \u00d7 Y \u00d7 (strain)\u00b2. \n\nFor unit strain (strain = 1),\n\nU = (1/2) \u00d7 Y = (1/2) \u00d7 2.0 \u00d7 10\u00b9\u00b9 \n\n= 1.0 \u00d7 10\u00b9\u00b9 J/m\u00b3]",
+        "explanation": "### Core Concept\nElastic potential energy per unit volume, also known as Energy Density, is the work done to stretch a wire stored within its internal structure. It is defined by the relationship between stress and strain.\n\n### Solution\n\n1. Identify the Energy Density Formula\nThe energy stored per unit volume (u) is:\nu = 1/2 * Stress * Strain\n\n2. Express in terms of Young's Modulus (Y)\nSince Young's Modulus Y = Stress / Strain, we can substitute Stress = Y * Strain:\nu = 1/2 * Y * (Strain)²\n\n\n\n3. Apply Given Values\n* Y = 2.0 * 10^11 N/m²\n* For unit stretch (Strain = 1):\nu = 1/2 * (2.0 * 10^11) * (1)²\nu = 1.0 * 10^11 J/m^3\n\n### Why This Answer?\nThe energy density is 10^11 J/m^3. This value tells us how much energy is packed into every cubic meter of the material when it is deformed. For steel, which is very stiff, this density is extremely high.\n\n### Common Mistakes\n* Missing the 1/2: Forgetting the factor of 1/2 in the formula, which leads to doubling the result.\n* Strain Calculation: Failing to realize that \"energy per unit volume to stretch it by [unit]\" implies a strain of 1 in this context.\n* Power of Ten Errors: Making mistakes while handling the scientific notation (10^11).",
+        "keywords": {
+            "Young's modulus Y": "young's modulus Y",
+            "Y": "Young's modulus",
+            "strain": "change in length per unit length",
+            "U": "elastic energy density",
+            "J/m\u00b3": "joule per cubic meter"
+        }
+    },
+    {
+        "id": 25,
+        "question_number": "168",
+        "text": "The bulk modulus of a spherical object is 'B'. If it is subjected to uniform pressure 'P', the fractional decrease in radius is:",
+        "subject": "Physics",
+        "sub_topic": "Properties of Matter",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 22,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "P/3B",
+            "3P/B",
+            "P/B",
+            "3P"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 22,
+            "type": "MCQ"
+        },
+        "original_id": 142,
+        "correct_answer": "P/3B",
+        "basic_answer": "Given: \n[B is the bulk modulus in Pascals\n\nP is the pressure in Pascals]\nSolution: \n[The bulk modulus B relates pressure change and volume change as follows: \n\nB = -P / (ΔV/V) \n\nFor a spherical object, the fractional decrease in volume is related to the change in radius. The fractional decrease in radius ΔR/R is given by \n\nΔR/R = -P / (3B)\n\nbased on the derivation of volume change for spherical objects.\n\n Thus, ΔR/R = P / (3B). \n\nTherefore, the fractional decrease in radius is P / (3B)]",
+        "explanation": "### Core Concept\nThis problem connects Bulk Modulus (B), which describes volume elasticity, to the linear change in the dimensions of a sphere (its radius).\n\n### Solution\n\n1. Define Bulk Modulus\nBulk modulus is defined as the ratio of pressure (P) to the fractional change in volume (\u0394V/V):\nB = P / (\u0394V/V)  \u2192  \u0394V/V = P/B\n\n2. Relate Volume to Radius for a Sphere\nThe volume of a sphere is V = 4/3 * \u03c0 * R^3. \nWhen the radius changes by a small amount \u0394R, the fractional change in volume is approximately:\n\u0394V/V = 3 * (\u0394R/R)\n\nThis comes from the derivative of the volume formula dV/dR = 4\u03c0R².\n\n\n\n3. Combine the Expressions\nSubstitute 3 * (\u0394R/R) for \u0394V/V in the first equation:\n3 * (\u0394R/R) = P/B\n\u0394R/R = P / (3B)\n\n### Why This Answer?\nThe fractional decrease in radius is P/3B. This occurs because the total volume change of a 3D object is distributed across its three dimensions. For a sphere, the fractional change in its linear dimension (radius) is exactly one-third of the fractional change in its volume.\n\n### Common Mistakes\n* Confusing Volume and Radius: Choosing P/B. This is the fractional change in *volume*, not radius.\n* Incorrect Multiplier: Choosing 3P/B. This would imply the radius changes more than the volume, which is mathematically impossible for a sphere.\n* Dimensional Errors: Thinking the answer should involve \u03c0 or 4/3. In fractional ratios, these geometric constants cancel out.",
+        "keywords": {
+            "B": "Bulk Modulus",
+            "P": "Pressure",
+            "\u0394V": "Change in Volume",
+            "V": "Volume",
+            "R": "Radius"
+        }
+    },
+    {
+        "id": 26,
+        "question_number": "169",
+        "text": "In an electromagnetic wave in free space the root mean square value of the electric field is Eᵣₘₛ = 6V/m. The peak value of the magnetic field is:",
+        "subject": "Physics",
+        "sub_topic": "Electromagnetic Waves",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 22,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "2.83 \u00d7 10\u207b\u2078 T",
+            "0.70 \u00d7 10\u207b\u2078 T",
+            "4.23 \u00d7 10\u207b\u2078 T",
+            "1.41 \u00d7 10\u207b\u2078 T"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 22,
+            "type": "MCQ"
+        },
+        "original_id": 143,
+        "correct_answer": "2.83 \u00d7 10\u207b\u2078 T",
+        "basic_answer": "Given: \n[Eᵣₘₛ = 6 V/m]\n\nSolution: \n[The relationship between the peak electric field (Eₚ\u2091\u2090\u2096) and the root mean square value (E\u1d63\u2098\u209b) in an electromagnetic wave is given by the formula \n\nEₚ\u2091\u2090\u2096 = E\u1d63\u2098\u209b \u00d7 \u221a2. \n\nThe peak value of the magnetic field (Bₚ\u2091\u2090\u2096) is related to the peak electric field by the equation \n\nBₚ\u2091\u2090\u2096 = Eₚ\u2091\u2090\u2096/c, where c is the speed of light in vacuum (approximately 3 \u00d7 10\u2078 m/s).]",
+        "explanation": "### Core Concept\nTo solve this, we must transition from the RMS electric field to the peak electric field, and then use the fundamental relationship between electric (E) and magnetic (B) fields in an electromagnetic wave.\n\n### Solution\n\n1. Calculate Peak Electric Field (E₀)\nThe peak value is \u221a2 times the RMS value:\nE₀ = E_rms * \u221a2\nE₀ = 6 * 1.414 = 8.484 V/m\n\n2. Use the EM Wave Field Ratio\nIn a vacuum, the ratio of the electric field to the magnetic field is always equal to the speed of light (c):\nE₀ / B₀ = c  \u2192  B₀ = E₀ / c\n\n\n\n3. Calculate Peak Magnetic Field (B₀)\nUsing c = 3 * 10⁸ m/s:\nB₀ = 8.484 / (3 * 10⁸)\nB₀ = 2.828 * 10⁻⁸ T\nB₀ \u2248 2.83 * 10⁻⁸ T\n\n### Why This Answer?\nThe result is 2.83 * 10⁻⁸ T. This very small value for the magnetic field is standard for EM waves because the electric field carries the same energy but is scaled by the massive speed of light.\n\n### Common Mistakes\n* Using RMS directly: Calculating B = E_rms / c. This would give the RMS magnetic field, not the peak value.\n* Forgetting \u221a2: Neglecting to convert RMS to peak, leading to an answer that is too small by a factor of 1.41.\n* Calculation Error: Making an error with the power of ten (10⁻⁸) during the division by the speed of light.",
+        "keywords": {
+            "Eᵣₘₛ": "root mean square value of the electric field",
+            "Eₚ\u2091\u2090\u2096": "peak electric field",
+            "Bₚ\u2091\u2090\u2096": "peak magnetic field",
+            "c": "speed of light in vacuum",
+            "V": "volts",
+            "T": "teslas",
+            "m": "meters"
+        }
+    },
+    {
+        "id": 27,
+        "question_number": "151",
+        "text": "An explosion blows a rock into three parts. Two parts go off at right angles to each other. These two are, 1 kg first part moving with a velocity of 12 ms\u207b\u00b9 and 2 kg second part moving with a velocity of 8 ms\u207b\u00b9. If the third part flies off with a velocity of 4 ms\u207b\u00b9, its mass would be:",
+        "subject": "Physics",
+        "sub_topic": "Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "5 kg",
+            "7 kg",
+            "17 kg",
+            "3 kg"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 447,
+        "correct_answer": "5 kg",
+        "basic_answer": "Given: \n[m\u2081 = 1 kg\n\nv\u2081 = 12 m/s\n\nm\u2082 = 2 kg\n\nv\u2082 = 8 m/s\n\nv\u2083 = 4 m/s]\n\nSolution: \n[Conservation of Momentum states that total momentum before an explosion equals total momentum after the explosion. Total momentum in x-direction = m\u2081 * v\u2081, \n\nTotal momentum in y-direction = m\u00b2 * v\u2082. \n\nThen, find the momentum of the third part using vectors. \nTotal momentum before \n\n= \u221a(m\u2081 * v\u2081\u00b2 + m\u00b2 * v\u2082\u00b2) \n\n= \u221a(1 * 12\u00b2 + 2 * 8\u00b2) \n\n= \u221a(144 + 128) \n\n= \u221a272 = 16.49 kg\u00b7m/s.\n\n Momentum of the third part (m\u00b3 * v\u2083) must equal this sum]",
+        "explanation": "### Core Concept\nThis problem relies on the Law of Conservation of Momentum. Since the original rock was at rest, the total momentum vector after the explosion must be zero. This means the momentum of the third piece must cancel out the combined momentum of the first two.\n\n### Solution\n\n1. Calculate Individual Momenta\n* P1 = m1 * v1 = 1 kg * 12 m/s = 12 kg\u00b7m/s\n* P2 = m2 * v2 = 2 kg * 8 m/s = 16 kg\u00b7m/s\n\n2. Calculate Resultant Momentum of P1 and P2\nSince they move at right angles, use the Pythagorean theorem:\nP_resultant = \u221a(P1² + P2²)\nP_resultant = \u221a(12² + 16²)\nP_resultant = \u221a(144 + 256) = \u221a400 = 20 kg\u00b7m/s\n\n\n\n3. Find the Mass of the Third Piece (m3)\nThe third piece must have a momentum of 20 kg\u00b7m/s to balance the system:\nP3 = m3 * v3\n20 = m3 * 4 m/s\nm3 = 5 kg\n\n### Why This Answer?\nThe mass is 5 kg. This ensures that the momentum magnitude of the third piece is exactly 20 kg\u00b7m/s, which perfectly balances the combined momentum of the first two pieces traveling in orthogonal directions.\n\n### Common Mistakes\n* Scalar Addition: Adding 12 and 16 to get 28. This is wrong because momentum is a vector and they are moving at right angles.\n* Energy Conservation Attempt: Trying to solve using Kinetic Energy. Energy is added by the explosion, so mechanical energy is not conserved.\n* Mass Balancing: Thinking the mass must be the sum of the other two (3 kg). Only momentum is conserved, not mass in the sense of simple addition.",
+        "keywords": {
+            "m\u2081": "mass of first part",
+            "m\u00b2": "mass of second part",
+            "m\u00b3": "mass of third part",
+            "v\u2081": "velocity of first part",
+            "v\u2082": "velocity of second part",
+            "v\u2083": "velocity of third part",
+            "kg": "kilograms",
+            "m/s": "meters per second",
+            "kg\u00b7m/s": "kilograms meters per second"
+        }
+    },
+    {
+        "id": 28,
+        "question_number": "35",
+        "text": "The magnetic flux linked to a circular coil of radius R is given by: \u03d5 = 2t\u00b3 + 4t\u00b2 + 2t + 5 Wb. What is the magnitude of the induced EMF in the coil at t = 5 s?",
+        "subject": "Physics",
+        "sub_topic": "Electromagnetic Induction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (34)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "108 V",
+            "197 V",
+            "150 V",
+            "192 V"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (34).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 3926,
+        "correct_answer": "192 V",
+        "basic_answer": "Given: \n[\u03d5 = 2t\u00b3 + 4t\u00b2 + 2t + 5 Wb, t = 5 s]\n\nSolution: \n[Induced EMF (\u03b5) = -d\u03d5/dt, where \u03d5 is magnetic flux]",
+        "explanation": "### Core Concept\nThis problem is based on Faraday's Law of Induction, which states that the induced Electromotive Force (EMF) in a coil is equal to the negative rate of change of magnetic flux through it.\n\n### Solution\n\n1. Identify the EMF Formula\nEMF (e) = |d\u03d5 / dt|\n(We use magnitude as requested by the question).\n\n2. Differentiate the Flux Function\nGiven \u03d5 = 2t^3 + 4t² + 2t + 5\nd\u03d5/dt = d/dt(2t^3 + 4t² + 2t + 5)\nd\u03d5/dt = (3 * 2t²) + (2 * 4t) + 2 + 0\nd\u03d5/dt = 6t² + 8t + 2\n\n3. Evaluate at t = 5 s\nSubstitute t = 5 into the derivative:\ne = 6(5)² + 8(5) + 2\ne = 6(25) + 40 + 2\ne = 150 + 40 + 2\ne = 192 V\n\n### Why This Answer?\nThe magnitude is 192 V. This represents the instantaneous voltage being generated in the coil at the exact moment t = 5s due to the rapidly changing magnetic field.\n\n### Common Mistakes\n* Substituting too early: Plugging t=5 into the original flux equation. This gives you the *total flux*, not the *rate of change*.\n* Differentiation Errors: Forgetting the power rule or failing to differentiate the constant (5), which should become zero.\n* Sign Confusion: Getting confused by Lenz's Law (the negative sign). For magnitude questions, always focus on the positive value of the derivative.",
+        "keywords": {
+            "\u03d5": "magnetic flux",
+            "EMF": "electromotive force",
+            "Wb": "Weber",
+            "s": "seconds",
+            "V": "Volts"
+        }
+    },
+    {
+        "id": 29,
+        "question_number": "8",
+        "text": "The mechanical quantity, which has dimensions of reciprocal of mass is:",
+        "subject": "Physics",
+        "sub_topic": "Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (27)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "angular momentum",
+            "coefficient of thermal conductivity",
+            "torque",
+            "gravitational constant"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (27).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 2905,
+        "correct_answer": "gravitational constant",
+        "basic_answer": "Given: \n[Angular momentum, Coefficient of thermal conductivity, Torque, Gravitational constant]\nSolution: \n[A quantity having dimensions of reciprocal mass must contain M\u207b\u00b9 in its dimensional formula. Angular momentum \u2192 M L\u00b2 T\u207b\u00b9\nCoefficient of thermal conductivity \u2192 M L T\u207b\u00b3 \u0398\u207b\u00b9\nTorque \u2192 M L\u00b2 T\u207b\u00b2\nGravitational constant \u2192 M\u207b\u00b9 L\u00b3 T\u207b\u00b2\nOnly gravitational constant contains M\u207b\u00b9]",
+        "explanation": "### Core Concept\nTo solve this, we must determine the Dimensional Formula for each quantity. Reciprocal of mass corresponds to the dimension M^-1.\n\n### Solution\n\n1. Angular Momentum (L)\nL = mvr = [M] * [LT^-1] * [L] = [ML²T^-1]\n\n2. Torque (\u03c4)\n\u03c4 = Force * distance = [MLT⁻²] * [L] = [ML²T⁻²]\n\n3. Gravitational Constant (G)\nFrom F = G * m1 * m2 / r²\nG = F * r² / (m1 * m2)\nG = [MLT⁻²] * [L²] / [M²]\nG = [M^-1 L^3 T⁻²]\n\n4. Thermal Conductivity (k)\nFrom dQ/dt = kA(dT/dx)\nk = (Energy * length) / (Time * Area * Temp)\nk = [ML²T⁻² * L] / [T * L² * K]\nk = [MLT^-3 K^-1]\n\n### Why This Answer?\nThe Gravitational Constant (G) is the correct choice because it is the only quantity that has mass in the denominator of its derived unit (N\u00b7m\u00b2/kg\u00b2), resulting in the dimension M^-1.\n\n### Common Mistakes\n* Confusing Torque and G: Thinking that force-based constants always have positive mass. \n* Units vs Dimensions: Getting stuck on the units (like Joules or Newtons) instead of breaking them down into base M, L, and T units.\n* Power Sign Error: Seeing an 'M' and assuming it's the answer without checking if the power is +1 or -1.",
+        "keywords": {
+            "M": "mass",
+            "L": "length",
+            "T": "time",
+            "\u0398": "temperature",
+            "G": "gravitational constant"
+        }
+    }
+]

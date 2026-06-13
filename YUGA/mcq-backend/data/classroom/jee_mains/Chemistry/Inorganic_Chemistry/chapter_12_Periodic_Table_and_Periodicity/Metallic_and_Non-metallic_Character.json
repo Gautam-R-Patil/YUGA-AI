@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Periodic Table and Periodicity",
+    "chapter_number": 12,
+    "topic": "Metallic and Non-metallic Character",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:12:41.829114",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Metallic and Non-metallic Character in the Periodic Table. Let's start with what these terms mean. Metallic character refers to how easily an element can lose electrons. This is a key feature of metals. Non-metallic character is the opposite. It shows how easily an element can gain electrons, a trait of non-metals. \n\nNow, why is this important? Knowing the metallic and non-metallic character helps us predict how elements will react. We can understand their properties better. \n\nLet's talk about trends in the Periodic Table. As we move across a period from left to right, the metallic character decreases. This is because atoms hold onto their electrons more tightly. So, they do not lose them easily. For example, sodium (Na) is more metallic than chlorine (Cl). \n\nBut when we move down a group, the metallic character increases. This happens because atoms get larger, and their outer electrons are farther from the nucleus. They lose electrons more easily. For instance, potassium (K) is more metallic than lithium (Li).\n\nSeveral factors affect metallic character. The main factors are atomic size and nuclear charge. Larger atoms lose electrons more easily. A higher nuclear charge means electrons are held tightly. So, smaller atoms with high nuclear charge are less metallic.\n\nLet's compare this with ionization energy and electronegativity. Ionization energy is the energy needed to remove an electron. Elements with high metallic character have low ionization energy. Electronegativity is the ability to attract electrons. Non-metals have high electronegativity.\n\nThere are exceptions to these trends. Hydrogen is one. It is placed with metals but behaves like a non-metal. Also, in the transition metals, trends are not very clear.\n\nGraphical representation helps us see these trends. Consider a graph with periods on the x-axis and metallic character on the y-axis. You will see a downward trend across periods and an upward trend down groups.\n\nUnderstanding these trends helps predict element properties. For example, metals are usually good conductors of electricity. Non-metals are not. \n\nMetallic and non-metallic character also relate to reactivity. Metals react by losing electrons, while non-metals react by gaining electrons. Sodium reacts with water because it easily loses an electron.\n\nLet's look at a quick example. If asked which is more metallic, sodium or magnesium, remember the trend. Sodium is to the left of magnesium in the same period. So, sodium is more metallic.\n\nJEE Main mistake note: Do not confuse atomic size with atomic mass. Remember, trends depend on electron arrangement, not weight.\n\nKey takeaways for quick revision: Metallic character decreases across periods and increases down groups. Non-metallic character is the opposite. Trends help predict properties and reactivity.\n\nIn summary, understanding metallic and non-metallic character is crucial. It helps us predict how elements will behave in reactions. Keep practicing with examples, and you will master this topic!\n\nThank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Metallic Character",
+    "Non-metallic Character",
+    "Periodic Table",
+    "Ionization Energy",
+    "Trends"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Metallic Character",
+      "definition": "The tendency of an element to lose electrons and form positive ions."
+    },
+    {
+      "term": "Non-metallic Character",
+      "definition": "The tendency of an element to gain electrons and form negative ions."
+    },
+    {
+      "term": "Ionization Energy",
+      "definition": "The energy required to remove an electron from an atom."
+    },
+    {
+      "term": "Electronegativity",
+      "definition": "The ability of an atom to attract electrons towards itself."
+    }
+  ]
+}

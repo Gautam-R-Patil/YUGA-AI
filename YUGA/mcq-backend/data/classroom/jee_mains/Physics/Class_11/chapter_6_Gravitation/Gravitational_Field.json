@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Gravitation",
+    "chapter_number": 6,
+    "topic": "Gravitational Field",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:50:10.969035",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students, welcome to our lecture on the gravitational field. Today, we will explore what a gravitational field is and how it works. Let's begin by understanding the definition.\n\nA gravitational field is a region around a mass where another mass experiences a force. This force is due to gravity. The unit of gravitational field is Newton per kilogram (N/kg).\n\nNow, let's look at the gravitational field due to a point mass. Imagine a small mass, like a ball. It creates a gravitational field around it. The strength of this field is given by the formula: g = G * (M / r^2). Here, g is the gravitational field, G is the gravitational constant, M is the mass, and r is the distance from the mass.\n\nField lines help us visualize gravitational fields. They show the direction of the force. Field lines point towards the mass. They never cross each other. The closer the lines, the stronger the field.\n\nThe superposition principle is important. It says that if there are many masses, the total gravitational field is the sum of the fields due to each mass. This helps us find the field in complex situations.\n\nNow, let's discuss the gravitational field inside Earth. Inside a uniform Earth, the gravitational field decreases as we go deeper. At the center, it becomes zero.\n\nFor spherical shells, the gravitational field outside is like that of a point mass. Inside a hollow shell, the field is zero. This is a key point for JEE Main.\n\nGravitational fields are crucial for satellite motion. Satellites stay in orbit due to Earth's gravitational field. The field keeps them moving in a circular path.\n\nThe gravitational field changes with height and depth. As we go higher, the field decreases. As we go deeper inside Earth, it also decreases. Remember these variations for JEE Main.\n\nLet's solve a simple problem. If a mass of 5 kg is 2 meters away from a 10 kg mass, what is the gravitational field at that point? Use the formula: g = G * (M / r^2). Plug in the values: G = 6.67 x 10^-11 N m²/kg², M = 10 kg, r = 2 m. Calculate g.\n\nCommon mistakes include forgetting to square the distance in the formula. Also, remember that the gravitational field inside a hollow shell is zero.\n\nKey takeaways: Remember the formula g = G * (M / r^2). Know how field lines work. Understand the superposition principle. Be aware of field variations with height and depth.\n\nIn summary, the gravitational field is a fundamental concept in physics. It helps us understand how masses interact. Keep practicing problems, and you'll master this topic.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Gravitational Field",
+    "Point Mass",
+    "Field Lines",
+    "Superposition Principle",
+    "Satellite Motion"
+  ],
+  "formulas": [
+    {
+      "formula": "g = G * (M / r^2)",
+      "description": "Used to calculate the gravitational field due to a point mass"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Gravitational Field",
+      "definition": "A region around a mass where another mass experiences a gravitational force"
+    }
+  ]
+}

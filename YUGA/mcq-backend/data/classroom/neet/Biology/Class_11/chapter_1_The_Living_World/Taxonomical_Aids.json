@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "The Living World",
+    "chapter_number": 1,
+    "topic": "Taxonomical Aids",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:31:14.605697",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about taxonomical aids. These are tools that help us identify and classify living things. Let's start with the herbarium. A herbarium is a collection of dried plant specimens. These are pressed and attached to sheets. Each sheet has important information about the plant. This includes the plant's name, where it was found, and the date it was collected.\n\nCreating a herbarium is simple. First, collect a plant. Then, press it between sheets of paper to dry. Finally, attach it to a sheet with all its details. Herbaria help scientists study plants over time. They can see how plants have changed or moved. Remember, a common mistake is thinking herbaria are only for flowers. They are for all plant types.\n\nNext, let's talk about botanical gardens. These are gardens where different plants grow. They are important for plant conservation. Botanical gardens protect rare and endangered plants. They also help in research. Scientists can study plants in their natural environment here. A common misconception is that botanical gardens are just for display. They are also for learning and research.\n\nNow, let's discuss museums. Museums are places where we keep collections of different things. In biology, museums keep collections of plants and animals. These collections help us study biodiversity. There are different types of museums. Some focus on plants, others on animals. Museums are important for taxonomy. They help us understand how different species are related.\n\nLet's move on to zoological parks. These are places where animals live in protected environments. They help conserve endangered species. For example, the Mysore Zoo in India is famous. It helps protect many animal species. A common mistake is thinking zoos are just for fun. They play a big role in conservation and education.\n\nFinally, let's learn about keys. Keys are tools for identifying plants and animals. A common type is the dichotomous key. It asks questions with two choices. For example, 'Is the leaf shape round or pointed?' By answering these questions, we can identify the species. Keys are very useful in taxonomy.\n\nTo sum up, taxonomical aids like herbaria, botanical gardens, museums, zoological parks, and keys help us study and protect living things. They are essential for conservation and research. Remember these key points and you will do well in your NEET exam.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Herbarium",
+    "Botanical gardens",
+    "Museums",
+    "Zoological parks",
+    "Keys"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Herbarium",
+      "definition": "A collection of dried plant specimens used for study."
+    },
+    {
+      "term": "Botanical gardens",
+      "definition": "Gardens where plants are grown for conservation and research."
+    },
+    {
+      "term": "Museums",
+      "definition": "Places where collections of plants and animals are kept for study."
+    },
+    {
+      "term": "Zoological parks",
+      "definition": "Protected environments where animals are kept for conservation."
+    },
+    {
+      "term": "Keys",
+      "definition": "Tools used to identify plants and animals by answering questions."
+    }
+  ]
+}

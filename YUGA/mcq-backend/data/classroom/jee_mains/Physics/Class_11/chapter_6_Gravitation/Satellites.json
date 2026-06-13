@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Gravitation",
+    "chapter_number": 6,
+    "topic": "Satellites",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:50:36.050545",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about satellites. Satellites are objects that orbit around a planet. The Moon is a natural satellite of Earth. Humans have also made artificial satellites. These are machines sent into space to orbit Earth.\n\nThere are different types of satellites. Geostationary satellites stay above the same spot on Earth. They orbit around the equator. Polar satellites move over the poles. They cover the entire Earth as it spins.\n\nNow, let's talk about orbital velocity. Orbital velocity is the speed needed to stay in orbit. The formula is v = √(GM/R). Here, G is the gravitational constant, M is the Earth's mass, and R is the distance from Earth's center. This formula is important for JEE Main. Use it to find the speed of a satellite.\n\nNext, the orbital period is the time taken to complete one orbit. Use T = 2π√(R^3/GM). This helps find how long a satellite takes to go around Earth once.\n\nGeostationary satellites have a special orbital period. It is 24 hours, same as Earth's rotation. This makes them useful for TV broadcasts and weather reports.\n\nPolar satellites are different. They orbit quickly, about 90 minutes per orbit. They help in mapping and spying.\n\nLet's discuss energy. A satellite has kinetic energy (KE) and potential energy (PE). KE = 1/2 mv^2 and PE = -GMm/R. Total energy (TE) is KE + PE. Often, TE is negative. This means the satellite is bound to Earth.\n\nEscape velocity is the speed needed to leave Earth's gravity. The formula is ve = √(2GM/R). If a satellite reaches this speed, it can go into space.\n\nKepler's laws help us understand planetary motion. The first law says planets move in ellipses. The second law says a line joining a planet and the Sun sweeps equal areas in equal times. The third law gives the relation T^2 ∝ R^3.\n\nSatellites have many uses. They help in communication and navigation. GPS uses satellites to find locations on Earth.\n\nEarth's rotation affects satellites. Geostationary satellites need to match Earth's rotation speed. This keeps them in the same position.\n\nA common JEE Main mistake is mixing geostationary and polar satellites. Remember, geostationary stay in one place, polar move over poles.\n\nTo sum up, satellites are vital for many tasks. They help us communicate, navigate, and study Earth. Remember the key formulas for orbital velocity, period, and escape velocity. Practice problems to avoid mistakes in exams.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Satellites",
+    "Orbital Velocity",
+    "Geostationary",
+    "Escape Velocity",
+    "Kepler's Laws"
+  ],
+  "formulas": [
+    {
+      "formula": "v = √(GM/R)",
+      "description": "Used to calculate the orbital velocity of a satellite"
+    },
+    {
+      "formula": "T = 2π√(R^3/GM)",
+      "description": "Used to find the orbital period of a satellite"
+    },
+    {
+      "formula": "ve = √(2GM/R)",
+      "description": "Used to calculate the escape velocity needed to leave Earth's gravity"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Satellite",
+      "definition": "An object that orbits around a planet, like the Moon or man-made machines"
+    },
+    {
+      "term": "Orbital Velocity",
+      "definition": "The speed needed for a satellite to stay in orbit around a planet"
+    },
+    {
+      "term": "Geostationary Satellite",
+      "definition": "A satellite that remains above the same spot on Earth's equator"
+    },
+    {
+      "term": "Escape Velocity",
+      "definition": "The speed needed to break free from a planet's gravitational pull"
+    }
+  ]
+}

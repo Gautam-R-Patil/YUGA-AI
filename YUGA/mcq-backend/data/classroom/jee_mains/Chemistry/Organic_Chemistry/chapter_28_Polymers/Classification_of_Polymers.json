@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Polymers",
+    "chapter_number": 28,
+    "topic": "Classification of Polymers",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:29:57.179743",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about polymers. Polymers are large molecules made from many small units. These small units are called monomers. Let's explore different types of polymers.\n\nFirst, we have addition and condensation polymers. Addition polymers form when monomers add together without losing any molecule. A common example is polyethylene, used in plastic bags. Condensation polymers form when monomers join and lose small molecules like water. Nylon is a condensation polymer.\n\nNext, let's talk about homopolymers and copolymers. Homopolymers are made from one type of monomer. An example is polyvinyl chloride (PVC). Copolymers are made from two or more different monomers. An example is styrene-butadiene rubber (SBR), used in car tires.\n\nNow, we look at natural and synthetic polymers. Natural polymers occur in nature. Examples are proteins and cellulose. Synthetic polymers are man-made. Examples include nylon and polyester.\n\nThermoplastic and thermosetting polymers are next. Thermoplastics soften on heating and harden on cooling. They can be reshaped. An example is polystyrene. Thermosetting polymers become hard on heating and cannot be reshaped. An example is bakelite.\n\nBiodegradable polymers can break down naturally. They are eco-friendly. An example is polylactic acid (PLA), used in some biodegradable plastics.\n\nFinally, elastomers are polymers that can stretch and return to their original shape. Rubber is a common elastomer.\n\nLet's discuss some common mistakes in JEE Main. Students often confuse addition and condensation polymers. Remember, addition polymers do not lose molecules. In exams, check if the polymer loses small molecules like water.\n\nKey takeaways: Understand different polymer types and their examples. Practice identifying them in questions.\n\nIn summary, polymers are important in everyday life. Knowing their types helps in JEE Main exams. Keep practicing, and you will do well!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Polymers",
+    "Monomers",
+    "Homopolymers",
+    "Copolymers",
+    "Elastomers"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Polymer",
+      "definition": "A large molecule made from many small units called monomers."
+    },
+    {
+      "term": "Monomer",
+      "definition": "A small unit that joins with others to form a polymer."
+    },
+    {
+      "term": "Addition Polymer",
+      "definition": "A polymer formed by the addition of monomers without losing any small molecule."
+    },
+    {
+      "term": "Condensation Polymer",
+      "definition": "A polymer formed by the combination of monomers with the loss of small molecules like water."
+    }
+  ]
+}

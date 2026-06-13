@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Thermodynamics",
+    "chapter_number": 4,
+    "topic": "Gibbs Free Energy",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:06:06.219413",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about Gibbs Free Energy in thermodynamics. This is an important topic for JEE Main. Let's start by understanding what Gibbs Free Energy is. \n\nGibbs Free Energy, often called G, is a measure of the usable energy in a system. It tells us how much energy is available to do work. We use Gibbs Free Energy to predict if a reaction will happen on its own. \n\nNow, let's talk about spontaneity. A spontaneous reaction is one that happens by itself. If the Gibbs Free Energy change, written as ΔG, is negative, the reaction is spontaneous. If ΔG is positive, the reaction is not spontaneous. \n\nNext, we have Standard Gibbs Free Energy Change, noted as ΔG°. This is the change in Gibbs Free Energy under standard conditions. Standard conditions mean 1 atm pressure and 298 K temperature. We use ΔG° to compare different reactions. \n\nMoving on to the relation between Gibbs Energy and equilibrium. At equilibrium, ΔG is zero. This means there is no net change in the system. The reaction is balanced. We can calculate ΔG using the formula: ΔG = ΔH - TΔS, where ΔH is enthalpy change, T is temperature, and ΔS is entropy change. \n\nThe Gibbs-Helmholtz Equation is another important formula: ΔG = ΔG° + RT ln(Q). Here, R is the gas constant, T is temperature, and Q is the reaction quotient. This equation helps us find ΔG at any condition. \n\nTemperature affects Gibbs Energy. As temperature changes, ΔG changes too. We use the formula ΔG = ΔH - TΔS to see how temperature affects Gibbs Energy. \n\nGibbs Energy also tells us about work. It shows the maximum work a system can do. If ΔG is negative, the system can do work. \n\nIn electrochemical cells, Gibbs Energy is linked to electrical work. The formula ΔG = -nFE is used, where n is moles of electrons, F is Faraday's constant, and E is cell potential. \n\nFinally, Gibbs Energy and phase transitions. When a substance changes phase, like ice melting, ΔG is zero at the transition temperature. \n\nLet's look at a quick example. If ΔH = -100 kJ/mol, T = 298 K, and ΔS = 0.2 kJ/mol·K, find ΔG. Use ΔG = ΔH - TΔS. ΔG = -100 - (298 x 0.2) = -159.6 kJ/mol. Since ΔG is negative, the reaction is spontaneous. \n\nCommon mistakes in JEE Main include mixing up ΔG and ΔG°. Remember, ΔG is for any condition, but ΔG° is for standard conditions. Also, check units carefully, especially when using the Gibbs-Helmholtz Equation. \n\nKey takeaways: Gibbs Free Energy helps us know if a reaction is spontaneous. Use ΔG = ΔH - TΔS to find Gibbs Energy. At equilibrium, ΔG is zero. \n\nIn summary, Gibbs Free Energy is a key concept in thermodynamics. It helps us understand reactions and predict their behavior. Remember the formulas and practice solving problems. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Gibbs Free Energy",
+    "Spontaneity",
+    "Equilibrium",
+    "Gibbs-Helmholtz Equation",
+    "Phase Transitions"
+  ],
+  "formulas": [
+    {
+      "formula": "ΔG = ΔH - TΔS",
+      "description": "Used to calculate Gibbs Free Energy change for reactions and predict spontaneity"
+    },
+    {
+      "formula": "ΔG = ΔG° + RT ln(Q)",
+      "description": "Gibbs-Helmholtz Equation used to find Gibbs Energy at non-standard conditions"
+    },
+    {
+      "formula": "ΔG = -nFE",
+      "description": "Used to calculate Gibbs Energy change in electrochemical cells"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Gibbs Free Energy",
+      "definition": "Energy available to do work in a system at constant temperature and pressure"
+    },
+    {
+      "term": "Spontaneous Reaction",
+      "definition": "A reaction that occurs on its own without needing energy input"
+    },
+    {
+      "term": "Standard Gibbs Free Energy Change",
+      "definition": "Change in Gibbs Energy under standard conditions (1 atm, 298 K)"
+    }
+  ]
+}

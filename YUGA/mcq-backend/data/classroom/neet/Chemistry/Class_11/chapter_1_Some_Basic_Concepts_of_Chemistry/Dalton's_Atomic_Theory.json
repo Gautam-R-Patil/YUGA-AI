@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "chapter_number": 1,
+    "topic": "Dalton's Atomic Theory",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:10:03.591146",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Dalton's Atomic Theory. This is a very important topic in chemistry. It helps us understand what matter is made of.\n\nLet's start with the postulates of Dalton's atomic theory. A postulate is a basic idea that we accept as true. Dalton's theory has several key postulates.\n\nFirst, he said that all matter is made of tiny particles called atoms. Atoms are very small and cannot be seen with our eyes. Think of them like tiny building blocks.\n\nSecond, Dalton said atoms of the same element are exactly alike. For example, all oxygen atoms are the same.\n\nThird, he said atoms cannot be created or destroyed in a chemical reaction. They can only be rearranged. This is like rearranging blocks to make a new shape.\n\nFourth, atoms of different elements combine in simple whole-number ratios to form compounds. For example, water is made of two hydrogen atoms and one oxygen atom, H2O.\n\nNow, let's talk about the limitations of Dalton's theory. This means the things it could not explain well.\n\nDalton thought atoms were indivisible, which means they cannot be split. Today, we know atoms have smaller parts like protons, neutrons, and electrons.\n\nHe also did not know about isotopes. Isotopes are atoms of the same element with different numbers of neutrons. For example, carbon-12 and carbon-14 are isotopes of carbon.\n\nNext, let's look at the modern atomic theory. This is an updated version of Dalton's theory.\n\nIn modern atomic theory, we know atoms can be divided into smaller parts. These are protons, neutrons, and electrons.\n\nWe also know about isotopes now. This helps us understand why some atoms of the same element can have different weights.\n\nLet's compare Dalton's theory with modern atomic models. Dalton's model was like a solid ball. But modern models show atoms with a nucleus and electron clouds.\n\nModern models explain more things, like how atoms bond and how they behave in reactions.\n\nHere are some key points to remember:\n\n1. Dalton's theory was the first to say matter is made of atoms.\n2. Atoms of the same element are identical, but modern theory includes isotopes.\n3. Atoms can be divided into smaller parts.\n4. Modern models are more detailed than Dalton's model.\n\nA common mistake is to think atoms cannot be split. Remember, they have parts like protons and electrons.\n\nIn summary, Dalton's atomic theory was a big step in chemistry. It helped us understand matter better. But modern atomic theory gives us more details.\n\nThank you for learning with me today! Keep these points in mind for your NEET exam.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Dalton's Atomic Theory",
+    "Atoms",
+    "Isotopes",
+    "Modern Atomic Theory",
+    "Chemical Reaction"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Atom",
+      "definition": "The smallest unit of an element that retains its chemical properties."
+    },
+    {
+      "term": "Isotope",
+      "definition": "Atoms of the same element with different numbers of neutrons."
+    },
+    {
+      "term": "Chemical Reaction",
+      "definition": "A process where substances change into new substances."
+    }
+  ]
+}

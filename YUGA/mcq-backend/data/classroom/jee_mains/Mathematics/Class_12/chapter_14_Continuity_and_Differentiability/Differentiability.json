@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Continuity and Differentiability",
+    "chapter_number": 14,
+    "topic": "Differentiability",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:57:24.885873",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about differentiability. Differentiability is an important concept in calculus. It helps us understand how a function changes at a certain point.\n\nFirst, let's define differentiability. A function is differentiable at a point if it has a derivative there. This means the function's graph has a tangent line at that point. The slope of this tangent line is the derivative.\n\nNow, remember that if a function is differentiable at a point, it is also continuous there. But the opposite is not always true. A function can be continuous but not differentiable. For example, the absolute value function is continuous everywhere but not differentiable at x = 0.\n\nNext, let's talk about non-differentiable points. A function is not differentiable at sharp corners or cusps. It is also not differentiable where there are vertical tangents or discontinuities. If you see a sharp point on a graph, the function is not differentiable there.\n\nNow, let's move to the algebra of differentiable functions. If two functions f(x) and g(x) are differentiable, then their sum, difference, product, and quotient (where the denominator is not zero) are also differentiable. This helps us solve problems quickly.\n\nDifferentiability and piecewise functions are a bit tricky. A piecewise function can be differentiable if all pieces fit smoothly at the joining points. Always check the derivative from both sides at these points.\n\nFinally, let's understand the geometric interpretation of differentiability. If a function is differentiable at a point, the graph looks smooth and has a clear tangent line there. If it is not differentiable, the graph might have a sharp turn or a vertical tangent. Imagine a smooth road versus a road with sharp turns.\n\nLet's look at some examples. Example 1: Check if f(x) = x^2 is differentiable at x = 2. First, find the derivative f'(x) = 2x. Then, substitute x = 2. So, f'(2) = 4. The function is differentiable at x = 2.\n\nExample 2: Check if f(x) = |x| is differentiable at x = 0. The left-hand derivative is -1, and the right-hand derivative is 1. These are not equal, so f(x) is not differentiable at x = 0.\n\nA common mistake in JEE Main is not checking both left and right derivatives for piecewise functions. Always check both sides at the joining point.\n\nKey takeaways: Differentiability means a function has a derivative. It implies continuity. Watch for non-differentiable points like sharp corners. Use algebra rules to combine differentiable functions. Check both sides for piecewise functions.\n\nIn summary, differentiability helps us understand how functions behave. It's crucial for solving many calculus problems in JEE Main. Practice these concepts and remember the common traps.\n\nThat's all for today! Keep practicing and see you next time.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Differentiability",
+    "Continuity",
+    "Derivative",
+    "Piecewise Functions",
+    "Non-differentiable Points"
+  ],
+  "formulas": [
+    {
+      "formula": "f'(x) = lim(h→0) (f(x+h) - f(x))/h",
+      "description": "This formula is used to find the derivative of a function at a point. It checks if the function is differentiable at that point."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Differentiability",
+      "definition": "A function is differentiable at a point if it has a derivative there."
+    },
+    {
+      "term": "Derivative",
+      "definition": "The derivative is the slope of the tangent line to the function's graph at a point."
+    }
+  ]
+}

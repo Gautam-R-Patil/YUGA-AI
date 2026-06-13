@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations and Waves",
+    "chapter_number": 10,
+    "topic": "Wave Motion",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:54:12.050991",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about wave motion. This is an important topic in physics and often appears in JEE Main exams. Let's start with the basics.\n\nFirst, what are waves? Waves are disturbances that travel through a medium. They carry energy from one place to another. There are two main types of waves: transverse and longitudinal.\n\nIn transverse waves, the particles of the medium move up and down. The wave moves forward. An example is a wave on a string. In longitudinal waves, particles move back and forth in the direction of the wave. Sound waves in air are an example.\n\nNow, let's talk about the wave equation. The wave equation is a mathematical formula that describes the motion of waves. It is written as v = fλ, where v is the speed of the wave, f is the frequency, and λ (lambda) is the wavelength. This formula helps us find the speed of a wave when we know its frequency and wavelength.\n\nThe speed of a wave can change depending on the medium. For example, sound travels faster in water than in air. In JEE Main, you might need to calculate the speed of a wave in different media using the wave equation.\n\nNext, let's discuss the superposition principle. This principle states that when two or more waves meet, the total displacement is the sum of their individual displacements. This is important for understanding interference and diffraction.\n\nInterference occurs when waves overlap. If the waves are in phase, they add up to make a larger wave. This is called constructive interference. If they are out of phase, they cancel each other out. This is destructive interference. Diffraction is the bending of waves around obstacles.\n\nStanding waves are waves that remain in a constant position. They occur when two waves of the same frequency and amplitude travel in opposite directions. Resonance happens when a system vibrates at its natural frequency. This can cause large oscillations.\n\nLet's solve a simple problem. If a wave has a frequency of 10 Hz and a wavelength of 2 meters, what is its speed? Using the formula v = fλ, we find v = 10 x 2 = 20 meters per second.\n\nA common mistake in JEE Main is confusing frequency and wavelength. Remember, frequency is how often a wave passes a point in one second. Wavelength is the distance between two peaks of a wave.\n\nKey takeaways: Understand the types of waves and the wave equation. Use the wave equation to find wave speed. Remember the superposition principle and its role in interference and diffraction.\n\nTo summarize, waves are important in physics. They help us understand how energy moves. Knowing the formulas and principles will help you solve JEE Main problems easily. Practice solving problems to avoid common mistakes.\n\nThat's all for today. Keep practicing, and you'll do great on your exam!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Wave Motion",
+    "Transverse Waves",
+    "Longitudinal Waves",
+    "Superposition Principle",
+    "Interference"
+  ],
+  "formulas": [
+    {
+      "formula": "v = fλ",
+      "description": "Used to calculate the speed of a wave when frequency and wavelength are known"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Transverse Waves",
+      "definition": "Waves where particles move perpendicular to the direction of the wave"
+    },
+    {
+      "term": "Longitudinal Waves",
+      "definition": "Waves where particles move parallel to the direction of the wave"
+    },
+    {
+      "term": "Superposition Principle",
+      "definition": "The total displacement of waves is the sum of their individual displacements"
+    },
+    {
+      "term": "Interference",
+      "definition": "The process where two or more waves overlap to form a new wave pattern"
+    },
+    {
+      "term": "Diffraction",
+      "definition": "The bending of waves around obstacles"
+    }
+  ]
+}

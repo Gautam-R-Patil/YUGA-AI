@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Sets, Relations and Functions",
+    "chapter_number": 1,
+    "topic": "Relations",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:43:30.187014",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about relations in mathematics. This topic is important for JEE Main. We will start with the definition of a relation. \n\nA relation is a way to show a connection between two sets. For example, if Set A has numbers {1, 2, 3} and Set B has {4, 5}, a relation can be a set of ordered pairs like {(1, 4), (2, 5)}. This means 1 is related to 4, and 2 is related to 5.\n\nNow, let's talk about types of relations. First, we have the Reflexive Relation. A relation R on a set A is reflexive if every element is related to itself. For example, if A = {1, 2}, then R = {(1, 1), (2, 2)} is reflexive. If you forget to check this, you might make a mistake in exams.\n\nNext is the Symmetric Relation. A relation R is symmetric if, for every (a, b) in R, (b, a) is also in R. For example, if R = {(1, 2), (2, 1)}, then R is symmetric.\n\nThe third type is the Transitive Relation. A relation R is transitive if, whenever (a, b) and (b, c) are in R, then (a, c) must also be in R. For example, if R = {(1, 2), (2, 3), (1, 3)}, then R is transitive.\n\nWhen a relation is reflexive, symmetric, and transitive, it is called an Equivalence Relation. These relations group elements that are similar in some way. For example, the relation 'is equal to' is an equivalence relation.\n\nLet's move to the representation of relations. Relations can be shown using a graph, a table, or a matrix. A graph uses dots for elements and lines for relations. A table lists all ordered pairs. A matrix uses rows and columns to show connections.\n\nNow, let's learn about the Inverse of a Relation. If R is a relation from set A to B, then the inverse, R⁻¹, is from B to A. If R = {(1, 4), (2, 5)}, then R⁻¹ = {(4, 1), (5, 2)}.\n\nNext is the Composition of Relations. If R is a relation from A to B and S is a relation from B to C, then the composition, S∘R, is a relation from A to C. For example, if R = {(1, 2)} and S = {(2, 3)}, then S∘R = {(1, 3)}.\n\nLet's look at some common mistakes. Students often forget to check all properties for equivalence relations. Always check reflexive, symmetric, and transitive properties.\n\nKey takeaways: Relations connect elements of two sets. Know the types: reflexive, symmetric, transitive, and equivalence. Practice finding inverses and compositions.\n\nIn summary, understanding relations helps solve many math problems. Practice with examples to get better. Good luck in your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Relation",
+    "Reflexive",
+    "Symmetric",
+    "Transitive",
+    "Equivalence"
+  ],
+  "formulas": [
+    {
+      "formula": "S∘R = {(a, c) | there exists b such that (a, b) in R and (b, c) in S}",
+      "description": "Used to find the composition of two relations in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Relation",
+      "definition": "A connection between elements of two sets shown as ordered pairs"
+    },
+    {
+      "term": "Reflexive Relation",
+      "definition": "A relation where every element is related to itself"
+    },
+    {
+      "term": "Symmetric Relation",
+      "definition": "A relation where if (a, b) is in R, then (b, a) is also in R"
+    },
+    {
+      "term": "Transitive Relation",
+      "definition": "A relation where if (a, b) and (b, c) are in R, then (a, c) is also in R"
+    },
+    {
+      "term": "Equivalence Relation",
+      "definition": "A relation that is reflexive, symmetric, and transitive"
+    }
+  ]
+}

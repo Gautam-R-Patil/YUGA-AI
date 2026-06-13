@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Properties of Solids and Liquids",
+    "chapter_number": 7,
+    "topic": "Elasticity",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:50:52.219923",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today we will learn about Elasticity. Elasticity is a property of materials. It shows how materials return to their original shape after being stretched or compressed. This is important in many everyday items, like rubber bands and springs.\n\nLet's start with Stress and Strain. Stress is the force applied to a material. It is divided by the area over which the force is applied. The formula is Stress = Force / Area. Strain is the change in shape or size of a material. It is divided by the original shape or size. The formula is Strain = Change in Length / Original Length.\n\nNext, we have Hooke’s Law. This law says that Stress is directly proportional to Strain. This is true up to a certain point. The formula is F = kx, where F is force, k is a constant, and x is the change in length. If you stretch a spring, it will return to its original length when you let go. But if you stretch it too much, it won't.\n\nNow, let's talk about Young’s Modulus. It measures the stiffness of a material. The formula is Young’s Modulus (E) = Stress / Strain. A high Young's Modulus means the material is stiff. Steel has a high Young's Modulus, so it is very stiff.\n\nShear Modulus is next. It measures how a material reacts to shear stress. Shear stress is when forces are applied parallel to the surface. The formula is Shear Modulus (G) = Shear Stress / Shear Strain. It helps in understanding how materials will twist or bend.\n\nThen we have Bulk Modulus. It measures how a material reacts to uniform pressure from all sides. The formula is Bulk Modulus (K) = Volume Stress / Volume Strain. It is important in understanding how materials compress.\n\nLet's discuss Elastic Limit and Plastic Deformation. The Elastic Limit is the maximum stress a material can handle and still return to its original shape. If you go beyond this limit, the material will undergo Plastic Deformation. This means it will not return to its original shape.\n\nIn engineering, Elasticity is very important. Engineers use it to design buildings, bridges, and machines. They need to know how materials will react under different forces.\n\nNow, let's look at some common mistakes in JEE Main. Many students confuse Stress and Strain. Remember, Stress is about force, and Strain is about change. Also, be careful with units. Stress is measured in Pascals (Pa), and Strain has no units.\n\nHere are some key takeaways. Understand the difference between Stress and Strain. Remember the formulas for Young’s Modulus, Shear Modulus, and Bulk Modulus. Know the Elastic Limit and what happens beyond it.\n\nIn summary, Elasticity is about how materials return to their original shape. Stress and Strain are key concepts. Hooke’s Law helps us understand the relationship between them. Young’s Modulus, Shear Modulus, and Bulk Modulus are important for understanding material properties. Elasticity is crucial in engineering design.\n\nThank you for listening! I hope you now understand Elasticity better. Practice these concepts and formulas for JEE Main success.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Elasticity",
+    "Stress",
+    "Strain",
+    "Hooke’s Law",
+    "Young’s Modulus"
+  ],
+  "formulas": [
+    {
+      "formula": "Stress = Force / Area",
+      "description": "Used to calculate stress when force and area are known."
+    },
+    {
+      "formula": "Strain = Change in Length / Original Length",
+      "description": "Used to calculate strain when the change in length is known."
+    },
+    {
+      "formula": "F = kx",
+      "description": "Hooke’s Law formula to calculate force in a spring."
+    },
+    {
+      "formula": "Young’s Modulus (E) = Stress / Strain",
+      "description": "Used to calculate Young's Modulus when stress and strain are known."
+    },
+    {
+      "formula": "Shear Modulus (G) = Shear Stress / Shear Strain",
+      "description": "Used to calculate Shear Modulus when shear stress and strain are known."
+    },
+    {
+      "formula": "Bulk Modulus (K) = Volume Stress / Volume Strain",
+      "description": "Used to calculate Bulk Modulus when volume stress and strain are known."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Elasticity",
+      "definition": "The ability of a material to return to its original shape after being stretched or compressed."
+    },
+    {
+      "term": "Stress",
+      "definition": "The force applied to a material divided by the area over which the force is applied."
+    },
+    {
+      "term": "Strain",
+      "definition": "The change in shape or size of a material divided by the original shape or size."
+    },
+    {
+      "term": "Elastic Limit",
+      "definition": "The maximum stress that a material can withstand and still return to its original shape."
+    },
+    {
+      "term": "Plastic Deformation",
+      "definition": "The permanent change in shape of a material when the stress exceeds the elastic limit."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "The Living World",
+    "chapter_number": 1,
+    "topic": "What is Living?",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:30:08.119051",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about what makes something living. This is an important topic in Biology. It helps us understand the world around us. Let's start by looking at the characteristics of living organisms.\n\nFirst, living things grow. Growth means getting bigger or changing in size. For example, a seed grows into a plant. A baby grows into an adult. Growth in living things happens by cell division. Cells are the basic units of life.\n\nNext, living things reproduce. Reproduction is making more of the same kind. Plants produce seeds. Animals have babies. Reproduction can be sexual or asexual. In sexual reproduction, two parents are needed. In asexual reproduction, only one parent is needed.\n\nAnother important feature is metabolism. Metabolism is all the chemical activities in a body. It includes breaking down food for energy. Without metabolism, living things cannot survive. If a body stops metabolism, it is no longer living.\n\nLiving things also have cellular organization. This means they are made of cells. Cells work together to keep the body alive. In plants and animals, cells form tissues and organs.\n\nFinally, living things show consciousness. Consciousness is responding to the environment. For example, plants grow towards light. Animals move away from danger. This helps them survive.\n\nNow, let's look at some examples of living organisms. Plants, animals, and microorganisms like bacteria are all living. They all show the characteristics we talked about.\n\nBut how do we know something is non-living? Non-living things do not grow, reproduce, or have metabolism. A rock does not grow. A chair does not reproduce. Water does not have metabolism.\n\nOne important point is that metabolism is a defining feature of life. It is always happening in living things. If metabolism stops, life stops. This is why it is so important.\n\nWe also need to talk about biodiversity. Biodiversity means the variety of life on Earth. It includes all different plants, animals, and microorganisms. Biodiversity is important. It helps ecosystems stay healthy. It also provides resources for humans like food and medicine.\n\nLet's summarize what we learned. Living things grow, reproduce, have metabolism, cellular organization, and consciousness. Metabolism is a key feature of life. Biodiversity is the variety of life and is very important.\n\nRemember these points, as they are often asked in exams like NEET. Keep practicing, and you will do great!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Growth",
+    "Reproduction",
+    "Metabolism",
+    "Cellular organization",
+    "Consciousness"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Growth",
+      "definition": "Getting bigger or changing in size."
+    },
+    {
+      "term": "Reproduction",
+      "definition": "Making more of the same kind."
+    },
+    {
+      "term": "Metabolism",
+      "definition": "All the chemical activities in a body."
+    },
+    {
+      "term": "Cellular organization",
+      "definition": "Being made of cells that work together."
+    },
+    {
+      "term": "Consciousness",
+      "definition": "Responding to the environment."
+    },
+    {
+      "term": "Biodiversity",
+      "definition": "The variety of life on Earth."
+    }
+  ]
+}

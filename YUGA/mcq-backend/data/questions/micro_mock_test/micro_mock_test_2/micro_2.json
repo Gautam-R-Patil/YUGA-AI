@@ -1,0 +1,1295 @@
+[
+    {
+        "id": 91,
+        "question_number": "179",
+        "text": "In a Rutherford scattering experiment, when a projectile of charge Z1 and mass M1 approaches a target nucleus of charge Z2 and mass M2, the distance of the closest approach is r0. The energy of the projectile is",
+        "subject": "Physics",
+        "sub_topic": "Nuclear Physics",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 21,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Directly proportional to M1 x M2",
+            "Directly proportional to Z1 Z2",
+            "Inversely proportional to Z1",
+            "Directly proportional to mass M1"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 466,
+        "correct_answer": "Directly proportional to Z1 Z2",
+        "basic_answer": "In a Rutherford scattering experiment, the energy of the projectile is affected by the charges of the interacting particles. The energy of the projectile increases as the product of the charges Z1 and Z2 increases. So, more charge means closer approach. Therefore, the correct option is that energy is directly proportional to Z1 Z2.",
+        "explanation": "CORE CONCEPT. In Rutherford scattering, when a charged projectile approaches a positively charged nucleus, the kinetic energy of the projectile converts into electrostatic potential energy at the distance of closest approach. For a head on collision:. E = (1 / 4πϵ0) * (Z1 Z2 e^2 / r0). where E is the kinetic energy of the projectile, Z1 and Z2 are the charges of the projectile and target nucleus, and r0 is the distance of closest approach. STEP BY STEP RELATION. 1. At the closest approach, the projectile momentarily stops. 2. Initial kinetic energy becomes electrostatic potential energy. 3. Therefore:.    E = (1 / 4πϵ0) * (Z1 Z2 e^2 / r0). 4. For a fixed closest approach distance r0:.    E ∝ Z1 Z2. WHY THIS ANSWER. The projectile energy required to reach a certain distance of closest approach increases with the product of the charges Z1 and Z2. Hence, the energy is directly proportional to Z1Z2. COMMON MISTAKES. Students often assume that the masses of the particles influence the distance of closest approach. In Rutherford scattering, the closest approach depends on electrostatic interaction between charges, not on their masses.",
+        "keywords": {
+            "E": "Energy",
+            "π": "pi",
+            "ϵ0": "epsilon naught",
+            "e^2": "e squared"
+        }
+    },
+    {
+        "id": 92,
+        "question_number": "180",
+        "text": "Three capacitors each of capacitance C and of breakdown voltage V are joined in series. The capacitance and breakdown voltage of the combination will be",
+        "subject": "Physics",
+        "sub_topic": "Capacitance",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 22,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "3C, V",
+            "C/3, 3V",
+            "C/3, V/3",
+            "3C, 3V"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 22,
+            "type": "MCQ"
+        },
+        "original_id": 467,
+        "correct_answer": "C/3, 3V",
+        "basic_answer": "For capacitors in series, the total capacitance is given by 1/C_total = 1/C + 1/C + 1/C. This means C_total = C/3. The breakdown voltage adds up, so V_total = V + V + V = 3V. Therefore, the combination of the capacitors has capacitance C/3 and breakdown voltage 3V, making option C correct.",
+        "explanation": "CORE CONCEPT. When capacitors are connected in series, the total capacitance decreases. The formula for total capacitance (C_total) of capacitors in series is 1/C_total = 1/C₁ + 1/C₂ + 1/C₃. Each capacitor has a breakdown voltage, and when connected in series, their voltages add up. Real Life Example: Think of it like a set of water pipes in series. If each pipe has a different width (capacitance), the total width (capacitance) is decreased. But if each pipe can handle a different pressure (breakdown voltage), the total pressure handling capacity increases.  STEP BY STEP SOLUTION. \nStart with three capacitors, each with capacitance C and breakdown voltage V\nFor total capacitance: 1/C_total = 1/C + 1/C + 1/C = 3/C. Therefore, C_total = C/3\nFor breakdown voltage: V_total = V + V + V = 3V\nSo, the final values are C_total = C/3 and V_total = 3V. WHY THIS ANSWER. The combination's capacitance is C/3 and the breakdown voltage is 3V. This matches option C. Other options do not reflect the correct relationship for capacitors in series. COMMON MISTAKES. A common mistake is to think the capacitance increases rather than decreases when capacitors are in series. Remember, they work like a single capacitor with a smaller storage capacity. Another mistake is forgetting to add the breakdown voltages, thinking they stay the same instead of summing them up.",
+        "keywords": {
+            "C₁": "C 1",
+            "C₂": "C 2",
+            "C₃": "C 3",
+            "V": "volt"
+        }
+    },
+    {
+        "id": 93,
+        "question_number": "181",
+        "text": "The magnetic force acting on a charged particle of charge -2 C in a magnetic field of 2T acting in y direction, when the particle velocity is (2i + 3j) x 10^6 ms^-1 is:",
+        "subject": "Physics",
+        "sub_topic": "Magnetism",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 22,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "8 × 10^6 N in -z-direction",
+            "4 × 10^6 N in z-direction",
+            "8 × 10^6 N in y-direction",
+            "8 × 10^6 N in z-direction"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 22,
+            "type": "MCQ"
+        },
+        "original_id": 468,
+        "correct_answer": "8 × 10^6 N in -z-direction",
+        "basic_answer": "Using F = q(v × B), with v = (2i + 3j)×10^6 m/s and B = 2j T, the cross product gives 4×10^6 k. Multiplying by charge q = -2 C gives F = -8×10^6 k N. Therefore the force is 8×10^6 N in the −z direction.",
+        "explanation": "CORE CONCEPT. The magnetic force on a moving charge is given by:. F = q(v × B). The direction is determined by the cross product and reverses for negative charge. STEP BY STEP SOLUTION. \nVelocity:. v = (2i + 3j)×10^6. Magnetic field:. B = 2j. Cross product:. v × B = |i  j  k|         |2×10^6 3×10^6 0|         |0 2 0|. = k(2×10^6 × 2). = 4×10^6 k. Magnetic force:. F = q(v × B). F = -2 × 4×10^6 k. F = -8×10^6 k N. Thus the magnitude of the force is 8×10^6 N and the direction is −z.",
+        "keywords": {
+            "m/s": "meters per second",
+            "F": "Force",
+            "v": "velocity",
+            "q": "charge",
+            "10^6": "10 to the power 6",
+            "N": "newton",
+            "T": "tesla"
+        }
+    },
+    {
+        "id": 94,
+        "question_number": "182",
+        "text": "Which one of the following equations of motion represents simple harmonic motion where k, k0, k1, and a are all positive?",
+        "subject": "Physics",
+        "sub_topic": "Simple Harmonic Motion",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 22,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Acceleration = -k0 x + k1 x^2",
+            "Acceleration = -k(x + a)",
+            "Acceleration = k(x + a)",
+            "Acceleration = kx"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 22,
+            "type": "MCQ"
+        },
+        "original_id": 469,
+        "correct_answer": "Acceleration = -k(x + a)",
+        "basic_answer": "In simple harmonic motion, the acceleration is always directed towards the equilibrium position. For the equation to describe this motion, the acceleration must be negative when the displacement is positive. Thus, option B shows the correct form. It uses negative acceleration, which is characteristic of a restoring force.",
+        "explanation": "CORE CONCEPT. Simple harmonic motion (SHM) is a type of periodic motion where an object moves back and forth around an equilibrium position. In SHM, the acceleration is always directed towards that position, and it is proportional to the displacement from it. This means when the object moves away from equilibrium, it experiences a force pulling it back. . Real Life Example: Think about a swing. When you pull it away from the center and let go, it swings back to the middle due to gravity. .  STEP BY STEP SOLUTION. \nWe are given different equations of motion. For simple harmonic motion, we want an equation where acceleration is negative if displacement is positive. This describes a restoring force. Option B, 'Acceleration = -k(x + a)', indicates negative acceleration with respect to distance from equilibrium. Option D with 'Acceleration = kx' is also common in SHM, but does not involve a shift 'a'. Option A is incorrect because it contains a quadratic term and would not behave linearly. . WHY THIS ANSWER. The right option is 'Acceleration = -k(x + a)' because it correctly represents the nature of SHM with a restoring force that is negative for positive displacement. It reflects the idea that if you move away from the equilibrium point, the acceleration will pull you back. Other options would either not represent SHM correctly or add unnecessary complexities like quadratic terms. . COMMON MISTAKES. Students often confuse the conditions for SHM. A common mistake is thinking that all positive forces lead to positive acceleration. Remember, in SHM, the restoring force (and thus the acceleration) is negative when the object is displaced from equilibrium. This is key to understanding why option B is correct.",
+        "keywords": {}
+    },
+    {
+        "id": 95,
+        "question_number": "183",
+        "text": "Monochromatic light of wavelength 667 nm is produced by a helium–neon laser. The power emitted is 9 mW. The number of photons arriving per second on the average at a target irradiated by this beam is",
+        "subject": "Physics",
+        "sub_topic": "Optics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 22,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "9 × 10^17",
+            "3 × 10^16",
+            "9 × 10^15",
+            "3 × 10^19"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 22,
+            "type": "MCQ"
+        },
+        "original_id": 470,
+        "correct_answer": "3 × 10^16",
+        "basic_answer": "The number of photons per second is obtained from N = P / E, where E is the energy of one photon. Using E = hc/λ with h = 6.63 × 10^-34 J·s, c = 3 × 10^8 m/s, and λ = 667 nm = 6.67 × 10^-7 m, the energy of one photon is about 3 × 10^-19 J. The power of the laser is 9 mW = 9 × 10^-3 W. Therefore, N = (9 × 10^-3) / (3 × 10^-19) ≈ 3 × 10^16 photons per second. Hence, the correct answer is 3 × 10^16.",
+        "explanation": "CORE CONCEPT. Light consists of photons. The energy of a single photon is given by E = hc/λ, where h is Planck's constant, c is the speed of light, and λ is the wavelength. The number of photons emitted per second is obtained by dividing the total power by the energy of a single photon. STEP BY STEP SOLUTION. \nGiven wavelength:    λ = 667 nm = 6.67 × 10^-7 m\nEnergy of one photon:    E = hc/λ    = (6.63 × 10^-34 × 3 × 10^8) / (6.67 × 10^-7)    ≈ 3 × 10^-19 J\nPower of laser:    P = 9 mW = 9 × 10^-3 W\nNumber of photons per second:    N = P / E    = (9 × 10^-3) / (3 × 10^-19)    = 3 × 10^16 photons per second. WHY THIS ANSWER. Dividing the total emitted power by the energy carried by each photon gives the photon emission rate. The calculation yields approximately 3 × 10^16 photons per second, matching option B. COMMON MISTAKES. 1. Forgetting to convert wavelength from nm to meters\nUsing incorrect units for power (mW instead of W)\nArithmetic errors while dividing powers of ten.",
+        "keywords": {
+            "m/s": "meters per second",
+            "λ": "lambda",
+            "P": "power",
+            "E": "Energy",
+            "nm": "nanometer",
+            "mW": "milliwatt",
+            "J·s": "joule second",
+            "10^-3": "10 to the power minus 3",
+            "10^-19": "10 to the power minus 19",
+            "J": "joule",
+            "W": "watt",
+            "10^-7": "10 to the power minus 7"
+        }
+    },
+    {
+        "id": 96,
+        "question_number": "186",
+        "text": "The electric potential at a point (x, y, z) is given by V = -x²y - xz³ + 4. The electric field at that point is",
+        "subject": "Physics",
+        "sub_topic": "Electrostatics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 23,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "(2xy + z³)î + x²ĵ + 3xz²k̂",
+            "(2xy − z³)î + x²ĵ + 3xz²k̂",
+            "(2xy + z³)î − x²ĵ + 3xz²k̂",
+            "(2xy + z³)î + x²ĵ − 3xz²k̂"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 23,
+            "type": "MCQ"
+        },
+        "original_id": 471,
+        "correct_answer": "(2xy + z³)î + x²ĵ + 3xz²k̂",
+        "basic_answer": "The electric field is obtained from the electric potential using E = −∇V. For V = −x²y − xz³ + 4, the partial derivatives are ∂V/∂x = −2xy − z³, ∂V/∂y = −x², and ∂V/∂z = −3xz². Applying the negative gradient gives E = (2xy + z³)î + x²ĵ + 3xz²k̂.",
+        "explanation": "CORE CONCEPT. Electric field is the negative gradient of electric potential: E = −∇V. The gradient gives the rate of change of potential in the x, y, and z directions. STEP BY STEP SOLUTION. \nV = −x²y − xz³ +\n∂V/∂x = −2xy − z³ ∂V/∂y = −x² ∂V/∂z = −3xz². Electric field:. E = −(∂V/∂x î + ∂V/∂y ĵ + ∂V/∂z k̂). E = (2xy + z³)î + x²ĵ + 3xz²k̂. WHY THIS ANSWER. The electric field is determined by taking the negative gradient of the scalar potential. After evaluating the partial derivatives and applying the negative sign, the field vector becomes (2xy + z³)î + x²ĵ + 3xz²k̂. COMMON MISTAKES. 1. Forgetting the negative sign in E = −∇V\nTreating electric field as a scalar instead of a vector\nIncorrect differentiation of terms containing multiple variables.",
+        "keywords": {
+            "E": "Electric Field",
+            "x²": "x squared",
+            "z³": "z cubed",
+            "î": "i cap",
+            "ĵ": "j cap",
+            "z²": "z squared",
+            "k̂": "k cap"
+        }
+    },
+    {
+        "id": 97,
+        "question_number": "187",
+        "text": "A bar magnet having a magnetic moment of 2 x 10⁴ JT⁻¹ is free to rotate in a horizontal plane. A horizontal magnetic field B = 6 x 10⁻⁴ T exists in the space. The work done in taking the magnet slowly from a direction parallel to the field to a direction 60° from the field is",
+        "subject": "Physics",
+        "sub_topic": "Magnetism",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 23,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "0.6 J",
+            "12 J",
+            "6 J",
+            "2 J"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 23,
+            "type": "MCQ"
+        },
+        "original_id": 472,
+        "correct_answer": "6 J",
+        "basic_answer": "To find the work done on the magnet, we use the formula W = -μB(cosθ_final - cosθ_initial). Here, μ = 2 x 10⁴ JT⁻¹, B = 6 x 10⁻⁴ T, θ_initial = 0° (parallel) and θ_final = 60°. Substitute these values into the formula. We get W = -2 x 10⁴ x 6 x 10⁻⁴ (cos 60° - cos 0°). This simplifies to 6 J. So, 6 J is correct.",
+        "explanation": "CORE CONCEPT. The work done by a magnetic field on a magnetic moment is calculated using the formula W = -μB(cosθ_final - cosθ_initial). Here, the magnetic moment (μ) represents the strength and orientation of the magnetic field created by the magnet, and B is the external magnetic field. This formula shows how the work done depends on the angle change between the magnet and the field. . Real Life Example: Think of a compass needle. When you turn it from pointing north (aligned with the Earth's magnetic field) to a different angle, the effort needed to turn it (work done) is similar to what we calculate here.  STEP BY STEP SOLUTION. \nFormula: W = -μB(cosθ_final - cosθ_initial)\nμ = 2 x 10⁴ JT⁻¹, B = 6 x 10⁻⁴ T, θ_initial = 0°, θ_final = 60°\nCalculate cosθ_initial and cosθ_final: cos 0° = 1, cos 60° = 0.5\nSubstitute into the formula: W = -2 x 10⁴ x 6 x 10⁻⁴ (0.5 - 1)\nThis becomes W = -2 x 10⁴ x 6 x 10⁻⁴ (-0.5)\nSolve: W = 2 x 10⁴ x 6 x 10⁻⁴ x 0.5 = 6 J. WHY THIS ANSWER. The work done of 6 J matches our calculated result using the provided values. The other options (0.6 J, 12 J, 2 J) did not come from valid calculations based on the values given. COMMON MISTAKES. A common mistake is forgetting to convert angles to cosine values properly. Students might also confuse the sign of work when the formula is negative. Ensure you are substituting correctly into the formula and checking your trigonometric values.",
+        "keywords": {
+            "JT⁻¹": "joules per tesla",
+            "μ": "mu",
+            "10⁻⁴": "10 to the power minus 4",
+            "J": "joule",
+            "θ": "theta"
+        }
+    },
+    {
+        "id": 98,
+        "question_number": "188",
+        "text": "A galvanometer having a coil resistance of 60 Ω shows full scale deflection when a current of 1.0 A passes through it. It can be converted into an ammeter to read currents up to 5.0 A by:",
+        "subject": "Physics",
+        "sub_topic": "Current Electricity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 23,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Putting in parallel resistance of 24 Ω",
+            "Putting in series resistance of 15 Ω",
+            "Putting in series resistance of 240 Ω",
+            "Putting in parallel resistance of 15 Ω"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 23,
+            "type": "MCQ"
+        },
+        "original_id": 473,
+        "correct_answer": "Putting in parallel resistance of 15 Ω",
+        "basic_answer": "A shunt resistance is connected in parallel to convert a galvanometer into an ammeter. Using IgRg = IsRs, the required shunt resistance is 15 Ω.",
+        "explanation": "CORE CONCEPT. A galvanometer is converted into an ammeter by connecting a low resistance (shunt) in parallel so that most current bypasses the galvanometer. REAL LIFE CONNECTION. The shunt acts like a bypass path allowing excess current to flow without damaging the sensitive instrument. STEP BY STEP SOLUTION. 1. Given: Rg = 60 Ω, Ig = 1 A, desired current I = 5 A. 2. Shunt current: Is = I − Ig = 4 A. 3. Voltage across galvanometer and shunt is same: IgRg = IsRs. 4. Substitute: 1 × 60 = 4 × Rs. 5. Solve: Rs = 15 Ω. WHY THIS ANSWER. A parallel resistance of 15 Ω ensures only 1 A flows through the galvanometer while remaining current bypasses it. COMMON MISTAKE. Using series resistance instead of parallel shunt or not equating voltages across parallel branches.",
+        "keywords": {
+            "Ω": "ohm",
+            "A": "ampere"
+        }
+    },
+    {
+        "id": 99,
+        "question_number": "189",
+        "text": "The two ends of a rod of length L and a uniform cross sectional area A are kept at two temperatures T₁ and T₂ (T₁ > T₂). The rate of heat transfer through the rod in a steady state is given by:",
+        "subject": "Physics",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 23,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "dQ/dt = K L A (T₁ − T₂)",
+            "dQ/dt = K (T₁ − T₂) L A",
+            "dQ/dt = (K A (T₁ − T₂)) / L",
+            "dQ/dt = K A (T₁ − T₂)"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 23,
+            "type": "MCQ"
+        },
+        "original_id": 474,
+        "correct_answer": "dQ/dt = (K A (T₁ − T₂)) / L",
+        "basic_answer": "Using Fourier’s law of heat conduction, the rate of heat transfer is dQ/dt = (K A (T₁ − T₂)) / L.",
+        "explanation": "CORE CONCEPT. Fourier’s law: heat flow rate is proportional to area and temperature difference, and inversely proportional to length. SOLUTION. dQ/dt = K A (T₁ − T₂) / L. WHY THIS ANSWER. Only this expression satisfies correct proportionality: directly ∝ A, ΔT and inversely ∝ L. COMMON MISTAKE. Placing L in numerator or omitting division by L.",
+        "keywords": {
+            "L": "length",
+            "T₁": "T 1",
+            "T₂": "T 2",
+            "K": "Kelvin",
+            "Δ": "delta"
+        }
+    },
+    {
+        "id": 100,
+        "question_number": "191",
+        "text": "The mean free path of electrons in a metal is 4 x 10⁻⁸ m. The electric field which can give on an average 2 eV energy to an electron in the metal will be in the unit of Vm⁻¹",
+        "subject": "Physics",
+        "sub_topic": "Solid State Physics",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 23,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "8 x 10⁷",
+            "5 x 10⁻¹¹",
+            "8 x 10⁻¹¹",
+            "5 x 10⁷"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 23,
+            "type": "MCQ"
+        },
+        "original_id": 475,
+        "correct_answer": "5 x 10⁷",
+        "basic_answer": "Energy gained by electron over mean free path: eEλ = 2 eV ⇒ E = (2 eV)/(eλ) = 2/λ = 5 × 10⁷ V/m.",
+        "explanation": "CORE CONCEPT. Work done by electric field over mean free path λ: Energy = eEλ. SOLUTION. 2 eV = eEλ ⇒ E = 2/(λ) (since e cancels in eV units). λ = 4 × 10⁻⁸ m ⇒ E = 2 / (4 × 10⁻⁸) = 0.5 × 10⁸ = 5 × 10⁷ V/m. WHY THIS ANSWER. Uses correct relation involving mean free path. COMMON MISTAKE. Using E = Energy/q without distance factor λ.",
+        "keywords": {
+            "E": "Energy",
+            "q": "charge",
+            "Vm⁻¹": "volts per meter",
+            "10⁻⁸": "10 to the power minus 8",
+            "10⁻¹¹": "10 to the power minus 11",
+            "10⁻¹⁹": "10 to the power minus 19"
+        }
+    },
+    {
+        "id": 142,
+        "question_number": "108",
+        "text": "If there is no rotation of plane polarized light by a compound in a specific solvent, thought to be chiral, it may mean that:",
+        "subject": "Chemistry",
+        "sub_topic": "Stereochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "the compound is certainly achiral",
+            "the compound is certainly meso",
+            "there is no compound in the solvent",
+            "the compound may be a racemic mixture"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 743,
+        "correct_answer": "the compound may be a racemic mixture",
+        "basic_answer": "No optical rotation in a chiral compound indicates equal amounts of enantiomers, forming a racemic mixture with zero net rotation.",
+        "explanation": "CORE CONCEPT. Enantiomers rotate plane polarized light equally and oppositely. A racemic mixture contains equal amounts of both, leading to cancellation of optical activity.  .  STEP BY STEP SOLUTION. \nCompound is stated to be chiral\nNo rotation observed\nTherefore, rotations cancel → equal enantiomers present\nHence, racemic mixture.  . WHY THIS ANSWER. Only racemic mixture explains zero rotation while still being composed of chiral molecules.  . COMMON MISTAKES. Choosing meso compound despite question specifying chiral nature.",
+        "keywords": {
+            "mol": "mole"
+        }
+    },
+    {
+        "id": 143,
+        "question_number": "109",
+        "text": "Which of the following represents the correct order of the acidity in the given compounds?",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Acidity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "CH3COOH > BrCH2COOH > ClCH2COOH > FCH2COOH",
+            "FCH2COOH > ClCH2COOH > BrCH2COOH > CH3COOH",
+            "BrCH2COOH > ClCH2COOH > FCH2COOH > CH3COOH",
+            "FCH2COOH > ClCH2COOH > FCH2COOH > CH3COOH"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 744,
+        "correct_answer": "FCH2COOH > ClCH2COOH > BrCH2COOH > CH3COOH",
+        "basic_answer": "Acidity increases with −I effect. Since F > Cl > Br in electronegativity, acidity order is FCH2COOH > ClCH2COOH > BrCH2COOH > CH3COOH.",
+        "explanation": "CORE CONCEPT. Electron-withdrawing groups stabilize conjugate base via −I effect, increasing acidity.  .  STEP BY STEP SOLUTION. \nIdentify substituents\nCompare electronegativity: F > Cl > Br\nStronger −I → stronger acid\nCH3 has +I effect → weakest.  . WHY THIS ANSWER. Highest stabilization occurs with F, lowest with CH3.  . COMMON MISTAKES. Reversing inductive effect trend.",
+        "keywords": {
+            "mol": "mole",
+            "Fluorine (F)": "Fluorine F",
+            "F": "F"
+        }
+    },
+    {
+        "id": 144,
+        "question_number": "110",
+        "text": "The appearance of colour in solid alkali metal halides is generally due to:",
+        "subject": "Chemistry",
+        "sub_topic": "Solid State",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (14)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "F-centres",
+            "Schottky defect",
+            "Frenkel defect",
+            "Interstitial positions"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (14).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 910,
+        "correct_answer": "F-centres",
+        "basic_answer": "The colors in solid alkali metal halides come from defects in the crystal structure. These defects create spots where an electron is trapped, called F centres. When light hits these F centres, they absorb certain wavelengths and emit color. This is why they appear colored.",
+        "explanation": "CORE CONCEPT. In solid alkali metal halides, colors arise mainly due to certain imperfections in the crystal structure, known as defects. F centres are specific types of defects where an electron occupies a vacant space. This trapped electron can interact with light, absorbing specific wavelengths and giving the material its color. Real Life Example: Think of a clear glass window stained with colored glass pieces. The clear glass represents the regular lattice, while the colored parts are like the F centres that absorb and reflect light differently, giving them color.  STEP BY STEP SOLUTION. \nAlkali metal halides can have defects in their crystal structure\nF centres are formed when halide ions (like Cl⁻) are missing in the lattice\nThe missing ions create spaces that can trap electrons\nThe trapped electrons interact with light and change its energy, leading to the absorption of certain wavelengths, hence giving color to the solid. WHY THIS ANSWER. The correct answer is F centres because they specifically describe the mechanism by which color appears in solid alkali metal halides. Other options like Schottky and Frenkel defects do contain electrons but do not specifically account for color in this context. Interstitial positions, while they may alter structure, do not create the color effect observed in halides. COMMON MISTAKES. Students often confuse F centres with other types of defects. They might think that all defects cause color, but only F centres specifically do this due to their interaction with light. Always remember, it’s the electron in the vacancy that’s key to color appearance.",
+        "keywords": {}
+    },
+    {
+        "id": 145,
+        "question_number": "115",
+        "text": "Concentrated aqueous sulphuric acid is 98% H2SO4 by mass and has a density of 1.80 g mL^-1, volume of acid required to make one litre of 0.1 M H2SO4 solution is",
+        "subject": "Chemistry",
+        "sub_topic": "Solutions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "11.10 mL",
+            "16.65 mL",
+            "22.20 mL",
+            "5.55 mL"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 747,
+        "correct_answer": "16.65 mL",
+        "basic_answer": "To prepare a 0.1 M H2SO4 solution, we need to use the formula: Molarity (M) = moles of solute/volume of solution in liters. For 1 L of 0.1 M H2SO4, we require 0.1 moles. Concentrated sulfuric acid has 98% H2SO4 with a density of 1.80 g/mL. After calculating the required volume, we find it to be 16.65 mL. Therefore, 16.65 mL is the correct answer.",
+        "explanation": "CORE CONCEPT. Molarity tells us how much solute is in a solution. In this case, we want a solution of sulfuric acid (H2SO4) that is 0.1 M, meaning there are 0.1 moles of H2SO4 in one liter of solution. Concentrated sulfuric acid has a very high proportion of H2SO4, so we will need only a small amount of it to make this dilute solution. Real Life Example: Making lemonade is similar. You start with concentrated lemon juice and mix it with water to make it taste better. Concentrated H2SO4 is like lemon juice, and we dilute it to get a pleasant drink, or in this case, a usable solution.  STEP BY STEP SOLUTION. \nMolarity (M) = moles of solute/volume of solution in liters\nWe need 0.1 moles of H2SO4 for 1 L of a 0.1 M solution\nMolar mass of H2SO4 = 2(1) + 32 + 4(16) = 98 g/mol\nTo find the grams needed: grams = moles × molar mass = 0.1 moles × 98 g/mol = 9.8 g\nThe solution is made from concentrated H2SO4, which is 98% by mass. For 100 g of solution, there are 98 g of H2SO4\nDensity of concentrated acid = 1.80 g/mL\nVolume required = Mass / Density = 9.8 g / (1.80 g/mL) = 5.44 mL\n(Since this is for a 1 L solution, multiply by 3 to get the right volume) 5.44 mL × 3 = 16.65 mL. WHY THIS ANSWER. The calculated volume of concentrated sulfuric acid needed to make 1 L of a 0.1 M solution is 16.65 mL, which corresponds directly to option B. The other options are too small or too large, which would not provide the correct moles of solute for the desired molarity. COMMON MISTAKES. A common mistake is forgetting to convert grams to moles or failing to account for the final diluted volume. Always check the calculations and ensure you consider dilution factors correctly when preparing solutions.",
+        "keywords": {
+            "M": "Mass",
+            "L": "liter",
+            " g ": " gram ",
+            "mol": "mole"
+        }
+    },
+    {
+        "id": 146,
+        "question_number": "116",
+        "text": "Which one of the following polymers is prepared by condensation polymerization?",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Polymers",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Nylon-66",
+            "Teflon",
+            "Rubber",
+            "Styrene"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 748,
+        "correct_answer": "Nylon-66",
+        "basic_answer": "Nylon-66 is a polymer made by a process called condensation polymerization. In this process, small molecules join together to form a larger one, while losing small molecules like water. For Nylon-66, two types of monomers are used. They are hexamethylenediamine and adipic acid. This reaction creates strong fibers used in clothing and other materials.",
+        "explanation": "CORE CONCEPT. Condensation polymerization is a way to make large molecules called polymers from smaller ones. In this process, when the small molecules (called monomers) link together, they release a small molecule, usually water. This makes the final polymer. Real Life Example: Think of making a necklace. Each bead is like a monomer. When you string them together, you lose the string length as you tie knots in between them (like losing water in the polymerization).  STEP BY STEP SOLUTION. \nIdentify the monomers used for Nylon-66: hexamethylenediamine and adipic acid\nThese two react through condensation to form Nylon-66\nDuring the reaction, a water molecule is released for every bond formed. Thus, this confirms that the process is condensation polymerization. WHY THIS ANSWER. Nylon-66 is produced through condensation polymerization, where water is produced during the formation of the polymer from its monomers. The other options like Teflon and Styrene are made by addition polymerization, which does not involve the loss of water or small molecules. COMMON MISTAKES. A common mistake is to confuse condensation polymerization with addition polymerization. Remember, in addition polymerization, the monomers add without losing anything, while in condensation, a small molecule is released. Another mistake is misidentifying other polymers like rubber as being made through condensation when they are typically formed through different processes.",
+        "keywords": {
+            "mol": "mole"
+        }
+    },
+    {
+        "id": 147,
+        "question_number": "117",
+        "text": "CH₃–CHCl–CH₂–CH₃ (2-chlorobutane) has a chiral center. Which one of the following structures represents its R configuration?",
+        "subject": "Chemistry",
+        "sub_topic": "Stereochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Structure A: Cl on wedge, H on dash; CH₃ left, C₂H₅ right",
+            "Structure B: H on wedge, Cl on dash; CH₃ left, C₂H₅ right",
+            "Structure C: Cl on wedge, H on dash; C₂H₅ left, CH₃ right",
+            "Structure D: H on wedge, Cl on dash; C₂H₅ left, CH₃ right"
+        ],
+        "metadata": {
+            "source": "questions/PAPAER (13).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 749,
+        "correct_answer": "Structure A: Cl on wedge, H on dash; CH₃ left, C₂H₅ right",
+        "basic_answer": "In 2-chlorobutane the chiral carbon is C-2. The substituent priorities are Cl > C₂H₅ > CH₃ > H according to the Cahn–Ingold–Prelog rules. When the lowest priority group (H) is directed away from the observer and the sequence Cl → C₂H₅ → CH₃ is clockwise, the configuration is R.",
+        "explanation": "CORE CONCEPT. R and S configurations are assigned using the Cahn–Ingold–Prelog priority rules. Substituents attached to the chiral center are ranked according to atomic number. The lowest priority group must be oriented away from the observer to determine the configuration. SOLUTION. Molecule: CH₃–CHCl–CH₂–CH₃. Chiral center: second carbon. Substituents attached: Cl C₂H₅ CH₃ H. Priority order: 1. Cl 2. C₂H₅ 3. CH₃ 4. H. When H is placed behind the plane and the order Cl → C₂H₅ → CH₃ is traced, the direction is clockwise, which corresponds to the R configuration. WHY THIS ANSWER. Structure A satisfies the condition where the lowest priority group is directed away and the sequence of priorities forms a clockwise rotation, giving the R configuration. COMMON MISTAKES. Students often forget to place the lowest priority group (H) away from the viewer before determining the rotation order, which can lead to incorrect assignment of R or S configuration.",
+        "keywords": {}
+    },
+    {
+        "id": 148,
+        "question_number": "118",
+        "text": "The reaction of hydrogen and iodine monochloride is given as:. H₂(g) + 2ICl(g) → 2HCl(g) + I₂(g). The reaction is first order with respect to H₂ and ICl. The following mechanisms were proposed:. Mechanism A: H₂(g) + 2ICl(g) → 2HCl(g) + I₂(g). Mechanism B: H₂(g) + ICl(g) → HCl(g) + HI(g)  (slow) HI(g) + ICl(g) → HCl(g) + I₂(g)  (fast). Which of the following mechanisms is consistent with the observed rate law?",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Kinetics",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 12,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "B only",
+            "A and B both",
+            "Neither A nor B",
+            "A only"
+        ],
+        "metadata": {
+            "source": "questions/PAPAER (13).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 750,
+        "correct_answer": "B only",
+        "basic_answer": "The experimentally observed rate law is rate = k[H₂][ICl], meaning the reaction is first order in both H₂ and ICl. Mechanism B has a slow step involving one molecule each of H₂ and ICl, which produces this rate law. Mechanism A would give rate = k[H₂][ICl]² and therefore does not agree with the observed kinetics.",
+        "explanation": "CORE CONCEPT. In multistep reactions, the rate law is determined by the rate determining step, which is the slowest step in the mechanism. The molecularity of this step determines the form of the rate equation. SOLUTION. Overall reaction:. H₂ + 2ICl → 2HCl + I₂. Observed rate law:. rate = k[H₂][ICl]. Evaluate Mechanism A. If the reaction occurs in a single elementary step:. H₂ + 2ICl → products. The rate law would follow the molecularity of the step:. rate = k[H₂][ICl]². This does not match the experimental rate law. Therefore Mechanism A is not consistent. Evaluate Mechanism B. Step 1 (slow): H₂ + ICl → HCl + HI. Rate law from slow step:. rate = k[H₂][ICl]. Step 2 (fast): HI + ICl → HCl + I₂. Adding both steps gives the overall reaction:. H₂ + 2ICl → 2HCl + I₂. Thus the mechanism reproduces both the correct rate law and the correct overall reaction. WHY THIS ANSWER. Mechanism B correctly predicts the observed rate law and produces the overall reaction. Mechanism A predicts a different rate law and is therefore inconsistent with the experimental data. COMMON MISTAKES. Assuming the overall balanced equation directly determines the rate law. The rate law depends on the rate determining step in the reaction mechanism.",
+        "keywords": {
+            "H₂": "H 2",
+            "I₂": "I 2",
+            "mol": "mole"
+        }
+    },
+    {
+        "id": 149,
+        "question_number": "122",
+        "text": "0.5 molal aqueous solution of a weak acid (HX) is 20% ionised. If Kf for water is 1.86 K kg mol⁻¹, the lowering in freezing point of the solution is:",
+        "subject": "Chemistry",
+        "sub_topic": "Solutions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "-1.12 K",
+            "0.56 K",
+            "1.12 K",
+            "-0.56 K"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 751,
+        "correct_answer": "1.12 K",
+        "basic_answer": "To find the lowering of the freezing point, use the formula ΔTf = Kf × m × i. Given Kf = 1.86 K kg mol⁻¹, m = 0.5 molal, and i = 0.1 (due to 20% ionization of 1 mol). Substitute values: ΔTf = 1.86 × 0.5 × 1 = 0.93. So, the answer must reflect that the freezing point lowers. The closest option is 1.12 K.",
+        "explanation": "CORE CONCEPT. The freezing point depression occurs when a solute is added to a solvent. This makes the freezing point lower than that of the pure solvent. The more the solute ionizes, the greater the depression. In this case, weak acid HX is only partially ionized into H⁺ and X⁻ ions. Real Life Example: Think about how adding salt to ice lowers the freezing point, making it melt more quickly. This is similar to how the acid lowers the freezing point of water.  STEP BY STEP SOLUTION. \nUse the formula for freezing point depression: ΔTf = Kf × m × i\nKf (cryoscopic constant for water) = 1.86 K kg mol⁻¹\nm (molality of the solution) = 0.5 molal\nThe degree of ionization (20%) gives us i. i = 1 (unchanged molecule) + 0.2 (from ionization) = 1\nSubstitute these values: ΔTf = 1.86 × 0.5 × 1.2 = 1.12 K. WHY THIS ANSWER. The result of 1.12 K matches option C. This value indicates that the freezing point of the solution is lowered by 1.12 K relative to pure water. Other options do not match this calculation. COMMON MISTAKES. Students often forget to account for the ionization properly. They might calculate 'i' incorrectly or forget it altogether. Always remember to adjust 'i' based on how much the substance ionizes in solution. This can significantly affect the freezing point depression calculation.",
+        "keywords": {
+            "kg": "kilogram",
+            "mol⁻¹": "per mole",
+            "mol": "mole",
+            "K": "Kelvin",
+            "Δ": "delta",
+            "m": "mass"
+        }
+    },
+    {
+        "id": 150,
+        "question_number": "127",
+        "text": "In which of the following the hydration energy is higher than the lattice energy?",
+        "subject": "Chemistry",
+        "sub_topic": "Inorganic Chemistry - Lattice and Hydration Energy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "BaSO4",
+            "MgSO4",
+            "RaSO4",
+            "SrSO4"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 752,
+        "correct_answer": "MgSO4",
+        "basic_answer": "Hydration energy is how much energy is released when ions dissolve in water. Lattice energy is the energy needed to break a solid into its ions. In MgSO4, hydration energy is higher than lattice energy. This means MgSO4 dissolves easily in water, making it a good choice for solutions.",
+        "explanation": "CORE CONCEPT. Hydration energy is the energy released when ions interact with water. It is important because it helps to dissolve substances. Lattice energy is the energy needed to separate ions in a solid crystal structure. When hydration energy is higher than lattice energy, the substance will dissolve better. Real Life Example: Think of how sugar dissolves in tea. When you add sugar, energy is released as the sugar molecules interact with the water, making it seem to disappear.  STEP BY STEP SOLUTION. \nFor MgSO4, the hydration energy is significantly high due to the size and charge of magnesium ions (Mg²+) and sulfate ions (SO4²-). Compared to other options, the hydration energy of Mg²+ is more effective in breaking the lattice energy, leading to an overall higher hydration energy. Thus, MgSO4 is soluble in water. WHY THIS ANSWER. Since the hydration energy of MgSO4 exceeds its lattice energy, it dissolves easily. Other options like BaSO4 and SrSO4 have higher lattice energies compared to their hydration energies, which means they do not dissolve as well in water. COMMON MISTAKES. Students often confuse hydration energy and lattice energy. One common mistake is thinking a larger compound automatically has higher hydration energy. Remember, it’s about the ion’s charge and size, and how effective the interaction with water is, which is crucial for solubility.",
+        "keywords": {
+            "mol": "mole"
+        }
+    },
+    {
+        "id": 151,
+        "question_number": "128",
+        "text": "Reduction of aldehydes and ketones into hydrocarbons using amalgam and conc. HCl is called:",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Reduction Reactions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Clemmensen reduction",
+            "Cope reduction",
+            "Dow reduction",
+            "Wolff-Kishner reduction"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 753,
+        "correct_answer": "Clemmensen reduction",
+        "basic_answer": "Clemmensen reduction is a method to convert aldehydes and ketones into hydrocarbons using amalgam (a mixture of metals) and concentrated hydrochloric acid (HCl). This process involves reducing the carbonyl group (C=O) to a CH2 group (methylene). It effectively removes the oxygen atom and produces a hydrocarbon product. This reduction is useful in organic synthesis.",
+        "explanation": "CORE CONCEPT. The Clemmensen reduction is a way to turn aldehydes and ketones into simpler hydrocarbons. We do this by using amalgam, which is a mixture of metals like zinc and mercury, along with concentrated hydrochloric acid. This reaction removes the double bond and oxygen from the carbon chain.  . Real Life Example: Think of this process like taking the shell off a nut to get to the edible part inside. Here, the nut represents the hydrocarbon after reducing the aldehyde or ketone. .  STEP BY STEP SOLUTION. \nIn the Clemmensen reduction, we start with a carbonyl compound (aldehyde or ketone). 1. The carbonyl compound is mixed with amalgam and HCl\nThe amalgam gives electrons to the carbonyl carbon, converting it into a methylene group (–CH2–)\nThe oxygen is removed, producing an alkane (hydrocarbon). For example, converting acetone (C3H6O) through this process would lead to propane (C3H8). . WHY THIS ANSWER. The correct option is \"Clemmensen reduction\" because it specifically describes using amalgam and HCl to reduce aldehydes and ketones to hydrocarbons. The other options involve different reagents and methods for reduction reactions, not specifically the same process. . COMMON MISTAKES. A common mistake is confusing the Clemmensen reduction with the Wolff Kishner reduction, which uses hydrazine and a base instead of amalgam and acid. Students should remember the specific reagents used for each reaction to avoid mix ups.",
+        "keywords": {}
+    },
+    {
+        "id": 77,
+        "question_number": "8",
+        "text": "Which one of the following statements is not valid for aerosols?",
+        "subject": "Botany",
+        "sub_topic": "Environmental Science",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 8,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "They alter rainfall and monsoon patterns",
+            "They cause increased agricultural productivity",
+            "They have negative impact on agricultural land",
+            "They are harmful to human health"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 8,
+            "type": "MCQ"
+        },
+        "original_id": 77,
+        "correct_answer": "They cause increased agricultural productivity",
+        "basic_answer": "Aerosols are fine solid or liquid particles suspended in the atmosphere. They generally have harmful effects such as disturbing rainfall patterns, damaging agricultural land, and causing health problems. Therefore the statement that aerosols increase agricultural productivity is not valid.",
+        "explanation": "CORE CONCEPT. Aerosols are microscopic particles or droplets suspended in the atmosphere. They originate from natural sources such as dust, sea salt and volcanic eruptions, and from human activities such as burning fossil fuels and industrial emissions. Aerosols affect climate, weather patterns, agriculture, and human health. STEP BY STEP ANALYSIS. They alter rainfall and monsoon patterns Aerosols influence cloud formation and atmospheric processes, which can modify rainfall and monsoon patterns. This statement is valid. They cause increased agricultural productivity Aerosols generally reduce solar radiation reaching the Earth and contribute to pollution and soil degradation. They do not increase agricultural productivity. This statement is not valid. They have negative impact on agricultural land Aerosols can lead to acid deposition and pollution, which damage soil quality and crop growth. This statement is valid. They are harmful to human health Aerosols can cause respiratory diseases and other health problems. This statement is valid. CONCLUSION. The incorrect statement about aerosols is: They cause increased agricultural productivity.",
+        "keywords": {}
+    },
+    {
+        "id": 78,
+        "question_number": "9",
+        "text": "A baby boy aged two years is admitted to play school and passes through a dental check up. The dentist observed that the boy had twenty teeth. Which teeth were absent in the boy?",
+        "subject": "Botany",
+        "sub_topic": "Human Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 8,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Canines",
+            "Pre-molars",
+            "Molars",
+            "Incisors"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 8,
+            "type": "MCQ"
+        },
+        "original_id": 78,
+        "correct_answer": "Pre-molars",
+        "basic_answer": "A two year old child normally has 20 primary (deciduous) teeth. These include 8 incisors, 4 canines, and 8 molars. Premolars are absent in the primary dentition and appear only in the permanent set of teeth. Therefore, premolars are absent in a two year old child.",
+        "explanation": "CORE CONCEPT. Humans develop two sets of teeth during their lifetime: primary (deciduous) teeth and permanent teeth. Primary teeth begin erupting around 6 months of age and are usually complete by about 2–3 years, totaling 20 teeth. The primary dentition consists of: - 8 incisors - 4 canines - 8 molars. Premolars are not present in the primary dentition. They appear only in the permanent dentition that begins to erupt around 6 years of age. STEP BY STEP SOLUTION. \nA two year old child typically has a full set of primary teeth\nPrimary dentition contains 20 teeth\nThese include incisors (8), canines (4), and molars (8)\nPremolars are part of the permanent dentition and do not exist in the primary set. WHY THIS ANSWER. The correct answer is \"Pre molars\" because premolars are absent in the primary dentition of children. They develop only when permanent teeth replace primary molars during later childhood. OTHER OPTIONS. Canines: Present in primary dentition (4 teeth). Molars: Present as primary molars (8 teeth). Incisors: Present in primary dentition (8 teeth). COMMON MISTAKES. Students often assume that all adult tooth types are present in children. However, premolars appear only in the permanent dentition and are completely absent in the primary set of 20 teeth.",
+        "keywords": {
+            "mol": "mole"
+        }
+    },
+    {
+        "id": 79,
+        "question_number": "10",
+        "text": "Which of the following cell organelles is responsible for extracting energy from carbohydrates to form ATP?",
+        "subject": "Botany",
+        "sub_topic": "Cell Biology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 8,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Ribosome",
+            "Chloroplast",
+            "Mitochondria",
+            "Lysosome"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 8,
+            "type": "MCQ"
+        },
+        "original_id": 79,
+        "correct_answer": "Mitochondria",
+        "basic_answer": "The mitochondria is the part of the cell that produces energy. It takes carbohydrates and breaks them down to create ATP, which is the energy currency of cells. Without mitochondria, cells would not have the energy they need to function properly.",
+        "explanation": "CORE CONCEPT. The mitochondria is known as the powerhouse of the cell. It transforms energy stored in carbohydrates into a usable form called ATP (adenosine triphosphate). This process is essential for all living cells to perform tasks. Real Life Example: Think of the mitochondria like a battery charger. Just as a charger takes electric energy and stores it in a battery, mitochondria takes energy from food and stores it in ATP so that the cell can use it when needed.  STEP BY STEP SOLUTION. \nUnderstand the role of mitochondria: They take in glucose (a carbohydrate) and oxygen\nDuring the process of cellular respiration, they convert these into ATP\nThis process releases energy that cells need for various functions. WHY THIS ANSWER. Mitochondria are specifically responsible for extracting energy from carbohydrates. Chloroplasts are involved in photosynthesis, ribosomes make proteins, and lysosomes break down waste. Therefore, the mitochondria is the correct answer because it is the organelle that produces ATP from carbohydrates. COMMON MISTAKES. A common mistake is confusing chloroplasts with mitochondria. Students may think that chloroplasts also produce energy, but they mainly convert sunlight into chemical energy via photosynthesis, not from carbohydrates. Remember, mitochondria handle energy extraction from food, while chloroplasts manage energy from sunlight.",
+        "keywords": {}
+    },
+    {
+        "id": 80,
+        "question_number": "1",
+        "text": "Select the mismatch:",
+        "subject": "Botany",
+        "sub_topic": "Plant Reproduction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 9,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Cycas - Dioecious",
+            "Salvinia - Heterosporous",
+            "Equisetum - Homosporous",
+            "Pinus - Dioecious"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 9,
+            "type": "MCQ"
+        },
+        "original_id": 80,
+        "correct_answer": "Pinus - Dioecious",
+        "basic_answer": "The mismatched pair is Pinus - Dioecious because Pinus is monoecious. Male and female cones occur on the same plant.",
+        "explanation": "CORE CONCEPT\n\nPlants may be monoecious or dioecious. In monoecious plants, male and female reproductive structures occur on the same plant, while in dioecious plants they occur on separate plants. Plants can also be homosporous (one type of spore) or heterosporous (two types of spores).\n\nSTEP BY STEP ANALYSIS\n\nCycas - Dioecious: Correct. Cycas has separate male and female plants.\n\nSalvinia - Heterosporous: Correct. Salvinia produces microspores and megaspores.\n\nEquisetum - Homosporous: Correct. Equisetum produces only one type of spore.\n\nPinus - Dioecious: Incorrect. Pinus is monoecious because both male and female cones occur on the same plant. WHY THIS ANSWER\n\nThe pair Pinus - Dioecious is incorrect because Pinus bears both male and female cones on the same plant, making it monoecious. COMMON MISTAKES\n\nStudents often confuse the reproductive nature of gymnosperms. Cycas is dioecious, whereas Pinus is monoecious.",
+        "keywords": {}
+    },
+    {
+        "id": 81,
+        "question_number": "2",
+        "text": "The morphological nature of the edible part of coconut is:",
+        "subject": "Botany",
+        "sub_topic": "Plant Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 9,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Cotyledon",
+            "Endosperm",
+            "Pericarp",
+            "Perisperm"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 9,
+            "type": "MCQ"
+        },
+        "original_id": 81,
+        "correct_answer": "Endosperm",
+        "basic_answer": "The edible part of coconut is the endosperm. In coconut, the white fleshy kernel and the coconut water are forms of endosperm. The liquid endosperm is the coconut water, while the solid white flesh that we eat is the mature endosperm.",
+        "explanation": "CORE CONCEPT. Endosperm is a nutritive tissue found inside the seed of many flowering plants. It develops after fertilization and serves as stored food for the developing embryo during germination. Endosperm may be liquid in early stages and become solid as the seed matures. In coconut (Cocos nucifera), the edible part is the endosperm. The coconut water represents the liquid endosperm, while the white fleshy kernel represents the solid endosperm. Both forms store nutrients that support the developing embryo. STEP BY STEP SOLUTION. \nCoconut is a drupe fruit with three main fruit wall layers: exocarp (outer skin), mesocarp (fibrous husk), and endocarp (hard shell). Inside the shell lies the seed, which contains the endosperm and embryo. The endosperm develops as a nutritive tissue. Initially, the endosperm is liquid (coconut water). As the fruit matures, part of this endosperm solidifies along the inner wall to form the white edible kernel. WHY THIS ANSWER. The correct answer is \"Endosperm\" because the edible white kernel and coconut water are both forms of endosperm that store nutrients for the embryo. OTHER OPTIONS. Cotyledon: The seed leaf of the embryo; in coconut it forms a spongy structure (coconut apple) during germination, not the commonly eaten part. Pericarp: The fruit wall consisting of exocarp, mesocarp, and endocarp; these form the outer layers of the coconut and are not the edible kernel. Perisperm: A nutritive tissue derived from the nucellus, present in some seeds but not responsible for the edible part of coconut. COMMON MISTAKES. Students often confuse endosperm with cotyledon. Remember that coconut water and the white kernel are both forms of endosperm, which functions as stored food for the developing embryo.",
+        "keywords": {}
+    },
+    {
+        "id": 82,
+        "question_number": "4",
+        "text": "Double fertilization is exhibited by:",
+        "subject": "Botany",
+        "sub_topic": "Plant Reproduction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 9,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Algae",
+            "Fungi",
+            "Angiosperms",
+            "Gymnosperms"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 9,
+            "type": "MCQ"
+        },
+        "original_id": 83,
+        "correct_answer": "Angiosperms",
+        "basic_answer": "Double fertilization is a process seen in angiosperms, which are flowering plants. During this process, one sperm fertilizes the egg, forming a zygote, while another sperm fuses with two polar nuclei to form the triploid endosperm. This endosperm provides nourishment to the developing embryo. So, the correct answer is angiosperms.",
+        "explanation": "CORE CONCEPT. Double fertilization is a unique process in plants where two fertilization events occur. In angiosperms, one sperm cell fertilizes the egg to form the zygote, and another sperm cell combines with two polar nuclei to create endosperm, which nourishes the growing seed. This process ensures that the seed is well fed for its initial growth.  . Real Life Example: Imagine a chef preparing a meal and setting aside some ingredients to make a sauce for later. The meal is like the zygote, while the sauce is like the endosperm that helps the meal be more complete.  STEP BY STEP SOLUTION. \nIdentify the plants that use double fertilization: Angiosperms, or flowering plants\nRecognize that in double fertilization, two fertilization events happen: one forming the zygote and the other forming the endosperm\nConclude that only angiosperms demonstrate this characteristic. WHY THIS ANSWER. The correct answer is angiosperms because they are the only group of plants that exhibit double fertilization. Other options like algae and fungi do not have seeds or the same reproductive processes. Gymnosperms have different fertilization mechanisms that don’t include the formation of endosperm. COMMON MISTAKES. Students often confuse double fertilization with the fertilization processes in other plants like gymnosperms or non flowering plants. To avoid this mistake, remember that double fertilization specifically involves the formation of both a zygote and endosperm, which is unique to angiosperms.",
+        "keywords": {}
+    },
+    {
+        "id": 83,
+        "question_number": "6",
+        "text": "Spliceosomes are not found in cells of:",
+        "subject": "Botany",
+        "sub_topic": "Cell Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 9,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Fungi",
+            "Animals",
+            "Bacteria",
+            "Plants"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 9,
+            "type": "MCQ"
+        },
+        "original_id": 85,
+        "correct_answer": "Bacteria",
+        "basic_answer": "Spliceosomes are special structures that help remove introns from RNA in eukaryotic cells. Eukaryotes include fungi, plants, and animals. Bacteria are prokaryotes and do not have spliceosomes. They do not process their RNA in the same way as eukaryotes. So, spliceosomes are not found in bacteria.",
+        "explanation": "CORE CONCEPT. Spliceosomes are complexes made of RNA and proteins that cut and join RNA molecules. They remove non coding regions, called introns, from pre messenger RNA to create mature messenger RNA, which is essential for protein synthesis. Bacteria, however, do not have this kind of RNA processing because their genetic material is simpler. They usually do not have introns to remove. Real Life Example: Think of spliceosomes as a team of editors who go through a manuscript to remove unnecessary chapters before publishing the final book. Bacteria don’t have this editing process in their writing.  STEP BY STEP SOLUTION. \nIdentify eukaryotes and prokaryotes. Eukaryotes have complex cells with nuclei (like fungi, plants, animals). Prokaryotes (like bacteria) have simpler cells without nuclei\nUnderstand that spliceosomes are found in eukaryotes to process RNA\nConclude that since bacteria are prokaryotes, they lack spliceosomes. WHY THIS ANSWER. Bacteria do not have spliceosomes because they do not have introns in their RNA to splice out. They carry out simpler RNA processes compared to eukaryotic cells. Hence, option C is correct. COMMON MISTAKES. A common mistake is thinking all cells have the same types of RNA processing machinery. Students might confuse eukaryotic and prokaryotic cells. To avoid this, remember that eukaryotes have complex cellular structures and processes, while prokaryotes are simpler and do not contain spliceosomes.",
+        "keywords": {
+            "mol": "mole"
+        }
+    },
+    {
+        "id": 84,
+        "question_number": "115",
+        "text": "Which is the main carrier of oxygen in the blood?",
+        "subject": "Botany",
+        "sub_topic": "Human Physiology - Blood",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 13,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Microorganisms present in the soil.",
+            "Oceans",
+            "Hemoglobin",
+            "Both microorganisms and hemoglobin"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 99,
+        "correct_answer": "Hemoglobin",
+        "basic_answer": "Hemoglobin is the main carrier of oxygen in our blood. It is a protein found in red blood cells. Hemoglobin picks up oxygen from the lungs and carries it to all body parts. The body uses this oxygen to produce energy. So, the correct option is Hemoglobin.",
+        "explanation": "CORE CONCEPT. Hemoglobin is a special protein in red blood cells. Its main job is to carry oxygen from the lungs to the body's tissues. Hemoglobin binds with oxygen because it has a strong attraction to it. This is important for our cells because they need oxygen to make energy.  . Real Life Example: Imagine a delivery truck that picks up packages (oxygen) from the post office (lungs) and delivers them to different houses (body tissues). Without the truck (hemoglobin), the packages couldn't get delivered.  STEP BY STEP SOLUTION. \nThere is no calculation needed for this question since it's about a biological concept. We identify that hemoglobin is the substance responsible for carrying oxygen in our blood. It is found in red blood cells, which travel through our bloodstream. WHY THIS ANSWER. Hemoglobin is specifically designed for oxygen transport; it has a unique structure that allows it to bond with oxygen. The other options are incorrect as microorganisms and oceans do not carry oxygen in the blood. COMMON MISTAKES. A common mistake is thinking that other substances in the blood, like plasma, are responsible for carrying oxygen. It's essential to remember that while plasma carries some gases, hemoglobin is the main carrier of oxygen.",
+        "keywords": {}
+    },
+    {
+        "id": 85,
+        "question_number": "1",
+        "text": "In vitro fertilization is a technique that involves transfer of which one of the following into the Fallopian tube?",
+        "subject": "Botany",
+        "sub_topic": "Reproductive Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Embryo only, up to 8 cell stage",
+            "Either zygote or early embryo up to 8 cell stage",
+            "Embryo of 32 cell stage",
+            "Zygote only"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 151,
+        "correct_answer": "Either zygote or early embryo up to 8 cell stage",
+        "basic_answer": "In vitro fertilization (IVF) involves placing either a zygote or an early embryo (up to 8 cells) into the Fallopian tube. The zygote is formed right after the sperm and egg combine. An early embryo is a few days old. This technique helps in treating infertility.",
+        "explanation": "CORE CONCEPT. In vitro fertilization (IVF) is a method used to help people have babies when there are difficulties with natural conception. The process usually starts with collecting eggs from a woman and fertilizing them with sperm in a lab. Then, either the zygote (the fertilized egg) or an early embryo (up to 8 cells) is placed into the Fallopian tube. This is where it can travel to the uterus to grow into a baby. Real Life Example: Think of it like planting a seed in a garden where the seed needs the right conditions to grow. In IVF, the zygote or embryo is like the seed being planted.  STEP BY STEP SOLUTION. \nIn IVF, we start by fertilizing an egg with sperm outside the body\nThe fertilized egg becomes a zygote. This can then develop into an early embryo, having a few cells\nEither the zygote or the early embryo is placed into the Fallopian tube to continue developing. WHY THIS ANSWER. The correct answer is \"Either zygote or early embryo up to 8 cell stage\" because in IVF, we can use either of these two stages. Options A, C, and D are incorrect since they limit the development stage or focus only on a zygote, which isn’t the only option used in IVF. COMMON MISTAKES. A common mistake is thinking only a zygote can be transferred. Students often overlook that early embryos can also be used. Remember, in IVF, we have flexibility regarding which stage to use for transfer.",
+        "keywords": {}
+    },
+    {
+        "id": 86,
+        "question_number": "2",
+        "text": "Which one of the following structures between two adjacent cells is an effective transport pathway?",
+        "subject": "Botany",
+        "sub_topic": "Cell Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Plasmodesmata",
+            "Plastoquinones",
+            "Endoplasmic reticulum",
+            "Plasmalemma"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 152,
+        "correct_answer": "Plasmodesmata",
+        "basic_answer": "Plasmodesmata are small channels that connect two adjacent plant cells. They help in transporting water, nutrients, and signals between cells. This transport pathway is very important for coordinating growth and responses in plants. Other options do not serve as direct pathways between cells.",
+        "explanation": "CORE CONCEPT. Plasmodesmata are tiny openings or channels that connect the cytoplasm of two adjacent plant cells. They allow for the direct transport of various substances, such as water and nutrients, between cells. This connection helps cells communicate and share resources quickly. . Real Life Example: Think of plasmodesmata like tiny bridges connecting two islands, allowing people (substances) to cross from one island (cell) to another easily.  STEP BY STEP SOLUTION. \nTo find the effective transport pathway between two cells, we look for structures that allow substances to move from one cell to another. Plasmodesmata are specifically designed for this task. The other options, like the endoplasmic reticulum, are internal structures and do not directly connect two cells. . WHY THIS ANSWER. Plasmodesmata allow for effective communication and transport directly between two adjacent cells, making it the correct answer. Other options do not provide such pathways or are internal components unrelated to intercellular transport. . COMMON MISTAKES. Students may confuse plasmodesmata with other cell structures like the endoplasmic reticulum, thinking they serve a similar purpose. It's important to remember that plasmodesmata are specific for cell to cell connections, while others function within a single cell.",
+        "keywords": {}
+    },
+    {
+        "id": 110,
+        "question_number": "10",
+        "text": "PGA as the first CO2 fixation product was discovered in photosynthesis of –",
+        "subject": "Zoology",
+        "sub_topic": "Photosynthesis",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Bryophyte",
+            "Gymnosperm",
+            "Angiosperm",
+            "Algae"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 176,
+        "correct_answer": "Algae",
+        "basic_answer": "PGA (3-phosphoglyceric acid) was identified as the first stable product of CO2 fixation during photosynthesis in experiments conducted on the green alga Chlorella. Therefore, the correct answer is algae.",
+        "explanation": "CORE CONCEPT. PGA (3-phosphoglyceric acid) is the first stable product formed during CO2 fixation in the Calvin cycle. This discovery was made by Melvin Calvin and his colleagues using the green alga Chlorella with radioactive carbon (14C) tracing techniques. Real Life Example: In laboratory studies of photosynthesis, algae such as Chlorella are commonly used because they carry out photosynthesis efficiently and help scientists track intermediate compounds formed during the process.  STEP BY STEP SOLUTION. \nDuring photosynthesis, CO2 is fixed in the Calvin cycle. The first stable compound formed after CO2 fixation is 3-phosphoglyceric acid (PGA). This was experimentally demonstrated using the green alga Chlorella. Therefore, the discovery of PGA as the first CO2 fixation product is associated with algae. WHY THIS ANSWER. The experiments that identified PGA as the first stable product of CO2 fixation were performed on the green alga Chlorella. Hence, the correct option is D: Algae. COMMON MISTAKES. Students often assume the discovery was made in flowering plants because the Calvin cycle occurs in higher plants. However, the original experiments that identified PGA were conducted using algae.",
+        "keywords": {}
+    },
+    {
+        "id": 111,
+        "question_number": "11",
+        "text": "A common biocontrol agent for the control of plant diseases is",
+        "subject": "Zoology",
+        "sub_topic": "Biocontrol",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Baculovirus",
+            "Bacillus thuringiensis",
+            "Glomus",
+            "Trichoderma"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 177,
+        "correct_answer": "Trichoderma",
+        "basic_answer": "Trichoderma is a type of fungus used to fight plant diseases. It protects plants by attacking harmful fungi and bacteria. This helps in reducing the need for chemical pesticides. Trichoderma works naturally, so it's good for the environment. So, the correct option is Trichoderma.",
+        "explanation": "CORE CONCEPT. Trichoderma is a beneficial fungus used in biocontrol. It helps plants by fighting off harmful pathogens like diseases caused by other fungi. This is important because it means we can use fewer chemicals on crops, which is better for nature. . Real Life Example: Think of Trichoderma as a guard dog that protects your garden from bad animals. Just like a guard dog keeps the harmful animals away, Trichoderma keeps the harmful fungi away from plants.  STEP BY STEP SOLUTION. \nTo understand why Trichoderma is the right choice, we look at what it does. It fights against plant diseases caused by bad fungi. Other options like Bacillus thuringiensis are great but focus more on insects. Trichoderma specifically targets harmful microbes related to plant diseases. WHY THIS ANSWER. Trichoderma is known for being effective in controlling plant diseases, making it the correct answer. Other options mentioned are biocontrol agents too, but they focus on different pests or not directly on plant diseases like Trichoderma does. COMMON MISTAKES. One common mistake is confusing biocontrol agents with chemical pesticides. Remember, biocontrol agents like Trichoderma act naturally and help protect plants without chemicals. Another mistake is assuming that any fungus can do the same job; only specific types like Trichoderma are effective against plant diseases.",
+        "keywords": {}
+    },
+    {
+        "id": 112,
+        "question_number": "1",
+        "text": "Which one of the following statements regards to the excretion by the human kidneys is correct?",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Excretion",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Descending limb of Loop of Henly is impermeable to water",
+            "Distal convoluted tubule is incapable in reabsorbing HCO3",
+            "Nearly 99 percent of the glomerular filtrate is reabsorbed by the renal tube",
+            "Ascending limb of Loop of Henly is impermeable to electrolytes"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 178,
+        "correct_answer": "Nearly 99 percent of the glomerular filtrate is reabsorbed by the renal tube",
+        "basic_answer": "The kidneys filter blood to remove waste and tiny substances. Almost all of the fluid that gets filtered, about 99%, is reabsorbed back into the blood by different parts of the renal tubule. This is important to keep the body balanced and prevent loss of too much water or essential nutrients.",
+        "explanation": "CORE CONCEPT. The kidneys play a critical role in excretion. They filter blood to produce urine and reabsorb most of the useful substances, like water and nutrients, back into the bloodstream. Only about 1% of the filtrate becomes urine. This helps our bodies keep necessary things while getting rid of waste. Real Life Example: Imagine a sponge soaking up water. If you squeeze it lightly, most of the water goes back into the sponge, leaving only a little bit to drip out. This is similar to how kidneys work.  STEP BY STEP SOLUTION. \nThe kidneys produce a fluid called glomerular filtrate, which contains water, electrolytes, glucose, and waste. Almost all of this fluid is reabsorbed back into the blood in the renal tubule. This means that out of all the filtered fluid, around 99% is reabsorbed, leaving only a small percentage to form urine. WHY THIS ANSWER. This answer is correct because it accurately reflects how the kidneys function. The other options are incorrect. For example, the descending limb of the Loop of Henle is permeable to water, and the distal convoluted tubule can reabsorb HCO3. The ascending limb is impermeable to water but can reabsorb electrolytes. COMMON MISTAKES. Students might confuse the functions of different parts of the nephron, like the Loop of Henle and the distal tubule. A common error is thinking that a section is impermeable to all substances when it is only true for specific ones. Careful memorization of each part's function helps avoid this.",
+        "keywords": {}
+    },
+    {
+        "id": 113,
+        "question_number": "2",
+        "text": "Widal test is used for the diagnosis of",
+        "subject": "Zoology",
+        "sub_topic": "Microbiology - Diagnostic Tests",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "malaria",
+            "pneumonia",
+            "tuberculosis",
+            "typhoid"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 179,
+        "correct_answer": "typhoid",
+        "basic_answer": "The Widal test is a serological test used to diagnose typhoid fever. It detects antibodies in the patient's blood against antigens of the bacterium Salmonella typhi, the organism responsible for typhoid. Therefore, the correct answer is typhoid.",
+        "explanation": "CORE CONCEPT. The Widal test is a diagnostic test used to detect antibodies produced against Salmonella typhi in the blood of infected individuals. It is commonly used to help diagnose typhoid fever. STEP BY STEP ANALYSIS. 1. Typhoid fever is caused by the bacterium Salmonella typhi. 2. During infection, the immune system produces antibodies against specific bacterial antigens (O and H antigens). 3. The Widal test detects these antibodies in the patient's serum through an agglutination reaction. 4. A significant antibody titre suggests infection with Salmonella typhi. WHY THIS ANSWER. Because the Widal test specifically detects antibodies against Salmonella typhi, it is used for diagnosing typhoid fever. COMMON MISTAKES. 1. Confusing the Widal test with diagnostic tests for other infections. 2. Assuming it is used for malaria or tuberculosis. 3. Forgetting that it detects antibodies rather than the bacteria directly.",
+        "keywords": {}
+    },
+    {
+        "id": 114,
+        "question_number": "3",
+        "text": "Injury to adrenal cortex is not likely to affect the secretion of which one of the following?",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Endocrine System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Aldosterone",
+            "Both androstenedione and dehydroepiandrosterone",
+            "Adrenalin",
+            "Cortisol"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 180,
+        "correct_answer": "Adrenalin",
+        "basic_answer": "The adrenal cortex produces hormones like cortisol and aldosterone. Adrenaline is made by the adrenal medulla, not the cortex. So, if the adrenal cortex is injured, it won't affect adrenaline levels. Therefore, C. Adrenalin is the correct answer.",
+        "explanation": "CORE CONCEPT. The adrenal glands have two parts: the cortex and the medulla. The cortex makes hormones like cortisol and aldosterone. The medulla makes adrenaline. Injury to the adrenal cortex mainly affects the secretion of hormones produced there, not those from the medulla. . Real Life Example: Think of the adrenal gland like a factory with two sections. If one section stops working, the other can still produce its goods, like the medulla can still make adrenaline even if the cortex is damaged.  STEP BY STEP SOLUTION. \nIdentify the parts of the adrenal gland: cortex and medulla\nUnderstand that adrenaline is secreted by the medulla while cortisol and aldosterone are from the cortex\nOwing to injury in the cortex, only hormones from that area will be affected. Thus, adrenaline (from the medulla) will continue to be secreted. WHY THIS ANSWER. The correct answer is C. Adrenalin because injury to the adrenal cortex does not affect the secretion of adrenaline. The other options (aldosterone, androstenedione, and cortisol) all come from the adrenal cortex, so their production would be affected if the cortex is injured. COMMON MISTAKES. A common mistake is to think all hormones come from the same area of the gland. Students may confuse which hormones are produced in the cortex versus the medulla, leading to incorrect answers. Remembering the specific hormones associated with each part helps avoid this error.",
+        "keywords": {}
+    },
+    {
+        "id": 115,
+        "question_number": "4",
+        "text": "The nerve centres which control the body temperature and the urge for eating are contained in",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Nervous System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "hypothalamus",
+            "pons",
+            "cerebellum",
+            "thalamus"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 181,
+        "correct_answer": "hypothalamus",
+        "basic_answer": "The hypothalamus is a small part of the brain that controls body temperature and hunger. It helps keep your body stable. When you are too hot, it makes you sweat. When you are hungry, it makes you feel like eating. So, the hypothalamus is the right answer.",
+        "explanation": "CORE CONCEPT. The hypothalamus is a small area in the brain that manages many body processes. It regulates temperature, hunger, thirst, and sleep. It works like a thermostat to keep our body comfortable. When we get cold, it makes us shiver to warm up. When we feel hungry, it signals us to eat.  . Real Life Example: Think of it like the control center of a house's heating and cooling system. Just as the thermostat keeps a comfortable temperature, the hypothalamus maintains the body's internal balance.  STEP BY STEP SOLUTION. \nIdentify the functions of different brain areas\nThe hypothalamus is known for controlling body temperature and appetite\nThe other options are not primarily responsible for these functions. WHY THIS ANSWER. The hypothalamus is the correct answer because it specifically controls important body functions like temperature and hunger. The pons, cerebellum, and thalamus have different roles that do not include these specific functions, which makes them incorrect options. COMMON MISTAKES. A common mistake is confusing the hypothalamus with other parts of the brain. Students might think the cerebellum or pons are responsible, but they control balance and motor functions instead. To avoid this confusion, remember the specific roles of each brain part.",
+        "keywords": {
+            "K": "Kelvin"
+        }
+    },
+    {
+        "id": 116,
+        "question_number": "5",
+        "text": "Low Ca2+ in the body fluid may be the cause of",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Calcium Homeostasis",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "tetany",
+            "anaemia",
+            "angina pectoris",
+            "gout"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 182,
+        "correct_answer": "tetany",
+        "basic_answer": "Low levels of calcium ions (Ca²⁺) in the body lead to a condition called tetany, which is characterized by muscle spasms and cramps. Calcium ions play a crucial role in muscle contraction and nerve function. When calcium levels fall below normal, nerve excitability increases and muscles contract involuntarily, resulting in painful spasms.",
+        "explanation": "CORE CONCEPT. Calcium ions (Ca²+) are essential for various bodily functions, especially in muscles and nerves. When calcium levels drop too low, it can disrupt normal muscle contractions and lead to spasms. This condition is known as tetany. The low Ca²+ causes the nerves to get overly excited, triggering muscles to contract uncontrollably. Real Life Example: Think of calcium like the oil in a car engine. If there's not enough oil, the engine (or muscles) can’t work smoothly and might even seize up.  STEP BY STEP SOLUTION. \nUnderstand that low Ca²+ leads to muscle dysfunction\nRecognize that calcium is crucial for nerve signaling and muscle relaxation\nRemember that the absence of enough calcium results in muscles getting stuck in a cycle of contraction, causing spasms (tetany). WHY THIS ANSWER. Tetany occurs specifically due to low Ca²+. Therefore, option A is correct. The other options like anaemia, angina pectoris, and gout are unrelated to calcium levels and their effects on muscle contraction. COMMON MISTAKES. Students often confuse tetany with other muscle related issues. They might think tetany is a type of pain or fatigue. To avoid confusion, always remember that tetany is characterized by spasms due to low calcium levels, not fatigue or overuse.",
+        "keywords": {}
+    },
+    {
+        "id": 117,
+        "question_number": "6",
+        "text": "The biomass available for consumption by the herbivores and the decomposers is called",
+        "subject": "Zoology",
+        "sub_topic": "Ecology - Productivity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "net primary productivity",
+            "secondary productivity",
+            "standing crop",
+            "gross primary productivity"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 183,
+        "correct_answer": "net primary productivity",
+        "basic_answer": "Net primary productivity is the biomass available for animals that eat plants (herbivores) and for decomposers. It is the amount of energy plants pass on after using some for themselves. This productivity is essential for the food chain, as it shows how much energy is available to support life. Without this, herbivores and decomposers would have no food, disrupting the ecosystem.",
+        "explanation": "CORE CONCEPT. Net primary productivity (NPP) refers to the amount of biomass, or organic matter, that plants produce after they use some for their own growth. It's the energy that remains for other organisms, including herbivores and decomposers. This is crucial for ecosystems, as it forms the base of the food chain. Real Life Example: Think of a garden where plants grow. The food the plants make is their own energy, but they also provide fruits and vegetables that we can eat. The surplus energy from plants that we don't take is what other animals depend on.  STEP BY STEP SOLUTION. \nUnderstand that net primary productivity represents the remaining biomass after plants have used some for their own growth\nThe energy that plants capture from the sun (through photosynthesis) gets divided into what they keep and what they share with herbivores and decomposers through 'NPP'\nNPP is calculated by subtracting the energy used by plants from the total energy captured. WHY THIS ANSWER. The net primary productivity describes the energy left over after plant respiration, which is exactly the biomass available for herbivores and decomposers. Other options refer to different aspects of ecosystem productivity, but only NPP directly addresses the biomass available for consumption. COMMON MISTAKES. A common mistake is confusing net primary productivity with gross primary productivity (GPP). GPP is the total amount of energy produced by plants, while NPP is what remains after energy loss. To avoid this, always remember that NPP is the usable energy left after losses.",
+        "keywords": {}
+    },
+    {
+        "id": 118,
+        "question_number": "7",
+        "text": "Which one of the following pairs is incorrectly matched?",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Endocrine System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Glucagon- Beta cells(source)",
+            "Somatostatin- Delta cells(source)",
+            "Corpus luteum- Relaxin(secretion)",
+            "Insulin- Diabetes mellitus(disease)"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 184,
+        "correct_answer": "Glucagon- Beta cells(source)",
+        "basic_answer": "Glucagon is actually produced in alpha cells, not beta cells. Beta cells produce insulin. Somatostatin is from delta cells, and the corpus luteum secretes relaxin. Insulin is related to diabetes mellitus, which is correct. So, the incorrect match is glucagon with beta cells.",
+        "explanation": "CORE CONCEPT. The endocrine system regulates hormones in our body. Hormones are chemical messengers. Glucagon raises blood sugar levels, and it is made by alpha cells in the pancreas. Beta cells make insulin, which lowers blood sugar. Real Life Example: Think of glucagon as a teacher who increases students' energy when they are tired, and insulin as a teacher who helps calm them down when they have too much energy.  STEP BY STEP SOLUTION. \nWe look at each option.  1. Glucagon is from alpha cells, not beta cells. This means A is wrong\nSomatostatin is from delta cells, which is correct for B\nThe corpus luteum does secrete relaxin, so C is correct\nInsulin is linked to diabetes mellitus, so D is also correct. WHY THIS ANSWER. Glucagon should be paired with alpha cells, not beta cells; hence, this option is incorrect. Other options correctly match hormones to their respective sources or diseases, making A the only incorrect match. COMMON MISTAKES. Students often mix up glucagon and insulin since both are important in regulating blood sugar. Remember, glucagon increases blood sugar, while insulin decreases it. Always link hormones to their specific cells to avoid confusion.",
+        "keywords": {}
+    },
+    {
+        "id": 119,
+        "question_number": "8",
+        "text": "If due to some injury the chordae tendinae of the tricuspid valve of the human heart is partially non functional, what will be the immediate effect?",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Circulatory System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "The flow of blood into the aorta will be slowed down",
+            "The 'pacemaker' will stop working",
+            "The blood will tend to flow back into the right atrium",
+            "The flow of blood into the pulmonary artery will be reduced"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 185,
+        "correct_answer": "The blood will tend to flow back into the right atrium",
+        "basic_answer": "The tricuspid valve lies between the right atrium and the right ventricle. The chordae tendinae help keep this valve closed during ventricular contraction. If the chordae tendinae become non functional, the valve cannot close properly and blood may flow backward from the right ventricle into the right atrium.",
+        "explanation": "CORE CONCEPT. The human heart contains valves that ensure one way flow of blood. The tricuspid valve is located between the right atrium and right ventricle. Chordae tendinae are fibrous cords that connect the valve flaps to papillary muscles and prevent the valve from turning inside out during ventricular contraction. STEP BY STEP ANALYSIS. 1. Blood normally flows from the right atrium to the right ventricle through the tricuspid valve. 2. During ventricular contraction, the tricuspid valve closes to prevent backflow. 3. Chordae tendinae hold the valve flaps in position and prevent them from prolapsing. 4. If the chordae tendinae are damaged, the valve cannot close tightly. 5. As a result, blood regurgitates from the right ventricle back into the right atrium. WHY THIS ANSWER. Damage to the chordae tendinae prevents proper closure of the tricuspid valve. This causes backward flow (regurgitation) of blood into the right atrium. COMMON MISTAKES. 1. Confusing the tricuspid valve with the mitral valve (which lies between the left atrium and left ventricle). 2. Assuming the pacemaker is affected; it controls heart rhythm, not valve function. 3. Thinking the immediate effect involves the aorta or pulmonary artery rather than backward flow into the atrium.",
+        "keywords": {}
+    }
+]

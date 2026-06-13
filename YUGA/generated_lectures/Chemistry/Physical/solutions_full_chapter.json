@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Solutions",
+    "chapter_number": "11",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:21:04.304760",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let\u2019s quickly revise the fundamental aspects of Solutions in Chemistry, essential for NEET.\n\nSolutions are homogeneous mixtures of two or more substances. In solutions, the solute is uniformly distributed within the solvent, such as sugar in water.\n\n1. **Concentration Terms**:\n   - **Molarity (M)**: Moles of solute per liter of solution: \\( M = \\frac{n}{V} \\). NEET often asks to calculate molarity from given mass and volume.\n   - **Molality (m)**: Moles of solute per kilogram of solvent: \\( m = \\frac{n}{m_{solvent}} \\). Questions may challenge conversion from molarity to molality.\n\n2. **Types of Solutions based on Concentration**:\n   - Saturated, Unsaturated, Supersaturated: Tests may ask to identify these based on scenarios.\n\n3. **Solubility**:\n   - Solubility of a substance is the maximum amount that can dissolve in a specific quantity of solvent at a given temperature and pressure.\n   - Henry\u2019s Law: The solubility of a gas is directly proportional to its pressure above the solution: \\( P = k_H \\cdot \\text{Conc.} \\).\n\n4. **Vapor Pressure and Raoult\u2019s Law**:\n   - Raoult\u2019s Law: The partial vapor pressure of a component in a solution is directly proportional to its mole fraction: \\( P_i = P_i^0 \\cdot X_i \\).\n   - Calculation of total vapor pressure and component vapor pressures are commonly tested.\n\n5. **Colligative Properties**:\n   - Depend on the number of solute particles. Important properties include freezing point depression, boiling point elevation, osmotic pressure, and vapor pressure lowering.\n   - **Important Formulas**:\n     - Freezing Point Depression: \\( \\Delta T_f = i \\cdot K_f \\cdot m \\)\n     - Boiling Point Elevation: \\( \\Delta T_b = i \\cdot K_b \\cdot m \\)\n     - Osmotic Pressure: \\( \\Pi = i \\cdot n/V \\cdot RT \\)\n     - NEET frequently includes problems based on identifying colligative properties and using the formulas to solve numerical problems.\n\n**NEET Question Pattern**:\n- Direct questions on definitions and conceptual understanding.\n- Numerical problems involving formulas for concentration terms and colligative properties.\n- Application-based questions on Raoult's and Henry's laws.\n\n**Quick Revision Points**:\n1. Understand the difference between molarity and molality.\n2. Familiarize yourself with Raoult\u2019s and Henry\u2019s laws.\n3. Memorize formulas for colligative properties and their applications.\n4. Be able to categorize types of solutions by concentration.\n5. Practice solving numerical problems that involve these concepts.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Solutions",
+    "Molarity",
+    "Molality",
+    "Solubility",
+    "Henry's Law",
+    "Raoult's Law",
+    "Colligative Properties",
+    "Freezing Point Depression",
+    "Boiling Point Elevation",
+    "Osmotic Pressure"
+  ],
+  "formulas": [
+    "Molarity (M) = \\frac{\\text{moles of solute}}{\\text{volume of solution in L}}",
+    "Molality (m) = \\frac{\\text{moles of solute}}{\\text{mass of solvent in kg}}",
+    "Henry's Law: P = k_H \\cdot \\text{Conc.}",
+    "Raoult's Law: P_i = P_i^0 \\cdot X_i",
+    "Freezing Point Depression: \\Delta T_f = i \\cdot K_f \\cdot m",
+    "Boiling Point Elevation: \\Delta T_b = i \\cdot K_b \\cdot m",
+    "Osmotic Pressure: \\Pi = i \\cdot n/V \\cdot RT"
+  ],
+  "definitions": [
+    {
+      "term": "Solutions",
+      "definition": "A homogeneous mixture composed of two or more substances."
+    },
+    {
+      "term": "Molarity",
+      "definition": "A concentration term representing moles of solute per liter of solution."
+    },
+    {
+      "term": "Molality",
+      "definition": "A concentration term representing moles of solute per kilogram of solvent."
+    },
+    {
+      "term": "Solubility",
+      "definition": "The maximum amount of solute that can dissolve in a solvent at a specified temperature and pressure."
+    },
+    {
+      "term": "Henry's Law",
+      "definition": "The law stating that the solubility of a gas is directly proportional to its pressure above the solution."
+    },
+    {
+      "term": "Raoult's Law",
+      "definition": "A law stating that the partial vapor pressure of each component in a solution is proportional to its mole fraction."
+    },
+    {
+      "term": "Colligative Properties",
+      "definition": "Properties that depend on the number of solute particles, including freezing point depression, boiling point elevation, and osmotic pressure."
+    },
+    {
+      "term": "Freezing Point Depression",
+      "definition": "The process in which the freezing point of a liquid is lowered by the addition of a solute."
+    },
+    {
+      "term": "Boiling Point Elevation",
+      "definition": "The process in which the boiling point of a liquid is increased by the addition of a solute."
+    },
+    {
+      "term": "Osmotic Pressure",
+      "definition": "The pressure required to prevent the flow of a solvent into a solution through a semipermeable membrane."
+    }
+  ]
+}

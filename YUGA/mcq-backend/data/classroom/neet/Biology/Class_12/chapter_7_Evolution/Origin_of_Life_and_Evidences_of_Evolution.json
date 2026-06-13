@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Evolution",
+    "chapter_number": 7,
+    "topic": "Origin of Life and Evidences of Evolution",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:41:55.302153",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about the origin of life and the evidence of evolution. This is a fascinating topic in biology. Let's start with how life began on Earth. \n\nFirst, we have the theory of abiogenesis. This theory says life started from non-living things. Long ago, Earth had a 'primordial soup'. This soup was full of chemicals. Over time, these chemicals formed simple life. Some scientists believe these first life forms were coacervates. Coacervates are tiny, bubble-like structures. They can grow and divide. \n\nNext, we have biogenesis. This theory says life comes from existing life. For example, a chicken comes from an egg. \n\nA famous experiment tested abiogenesis. It is called the Miller-Urey experiment. Scientists mixed gases like methane and ammonia. They added electricity to mimic lightning. This created amino acids. Amino acids are building blocks of life. This experiment showed that simple life can form from non-living things. \n\nNow, let's talk about the evidence of evolution. One strong proof is fossils. Fossils are remains of ancient life. They show us how life changed over time. For example, fossils of dinosaurs tell us they once lived on Earth. \n\nAnother evidence is homologous organs. These are body parts that look similar in different animals. For example, a human hand and a bat's wing have similar bones. This shows they have a common ancestor. \n\nAnalogous organs are different. They look similar but do not have the same structure. For example, a bird's wing and an insect's wing. They are used for flying but are not similar in structure. \n\nVestigial organs are body parts that have lost their use. For example, the human appendix. It does not help in digestion now. \n\nBiogeographical evidence shows us how species are spread on Earth. Animals on islands are often different from those on the mainland. This is because they evolve separately. \n\nMolecular evidence comes from DNA and proteins. Similar DNA sequences mean two species are closely related. For example, humans and chimpanzees have similar DNA. \n\nLet's remember some key points. Fossil records are important for understanding evolution. They show us the history of life. Homologous structures show common ancestry. Analogous structures show similar function, not ancestry. \n\nIn summary, life on Earth has a long history. Different theories explain how life began. Many pieces of evidence support evolution. Fossils, DNA, and body structures all tell us a story. \n\nThank you for listening! Remember, understanding evolution helps us know more about life on Earth.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Abiogenesis",
+    "Biogenesis",
+    "Homologous Structures",
+    "Analogous Structures",
+    "Fossil Records"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Abiogenesis",
+      "definition": "The theory that life started from non-living things."
+    },
+    {
+      "term": "Biogenesis",
+      "definition": "The theory that life comes from existing life."
+    },
+    {
+      "term": "Primordial Soup",
+      "definition": "A mixture of chemicals on early Earth believed to be the origin of life."
+    },
+    {
+      "term": "Coacervates",
+      "definition": "Tiny, bubble-like structures that can grow and divide."
+    },
+    {
+      "term": "Homologous Structures",
+      "definition": "Body parts in different species that are similar in structure."
+    }
+  ]
+}

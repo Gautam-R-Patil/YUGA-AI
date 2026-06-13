@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Environmental Chemistry",
+    "chapter_number": "21",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:24:15.363389",
+    "model_used": "gpt-4o",
+    "category": "Inorganic"
+  },
+  "lecture_script": "Let's quickly revise Environmental Chemistry, focusing on environmental pollution\u2014an essential topic for NEET. Environmental pollution refers to the introduction of harmful substances into the natural environment, causing adverse effects. Understanding different types of pollution is crucial as they impact our health and ecosystem.\n\n1. Types of Pollution:\n- Air Pollution: It is caused by pollutants like carbon monoxide, sulfur dioxide, nitrogen oxides, and particulate matter, mainly from vehicles and industrial emissions. These can cause respiratory issues and contribute to global warming.\n- Water Pollution: Contamination of water bodies due to industrial discharge, sewage, and the excessive use of fertilizers leads to waterborne diseases and disrupts aquatic life.\n- Soil Pollution: The excessive use of pesticides and solid waste dumping degrade soil quality, affecting plant life and causing health issues through food chain contamination.\n- Noise Pollution: From industrial activities, traffic, and urban expansion, leading to stress and hearing loss.\n\n2. Key Concepts and Effects:\n- Greenhouse Effect: Gases like CO2 and CH4 trap the sun\u2019s heat, leading to global warming. \n- Acid Rain: Sulfur dioxide and nitrogen oxides react with water vapor to form acids, harming aquatic ecosystems, soil, and buildings.\n- Eutrophication: An excess of nutrients in water bodies leads to excessive algae growth, depleting oxygen and killing aquatic life.\n- Biomagnification: Increase in concentration of toxic substances, like mercury, up the food chain harms organisms.\n\n3. Control and Management:\n- Use cleaner technologies and energy resources.\n- Implement waste treatment plants.\n- Practice sustainable agricultural techniques.\n- Enforce stricter pollution control laws.\n\nNEET Question Pattern: You may encounter questions on identifying pollutants, effects of various pollution types, or on control measures.\n\nQuick Revision Points:\n1. Key types: Air, water, soil, and noise pollution.\n2. Important phenomena: Greenhouse effect, acid rain, eutrophication.\n3. Prevention strategies emphasize clean energy and regulations.\n4. Likely NEET questions focus on pollutants and their impacts.",
+  "duration_minutes": "10",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Air Pollution",
+    "Water Pollution",
+    "Soil Pollution",
+    "Greenhouse Effect",
+    "Acid Rain",
+    "Eutrophication",
+    "Biomagnification",
+    "Noise Pollution",
+    "Pollutants",
+    "Environmental Impact"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Air Pollution",
+      "definition": "The presence of harmful or excessive substances in the air, often from vehicle and industrial emissions."
+    },
+    {
+      "term": "Water Pollution",
+      "definition": "Contamination of water bodies due to pollutants like chemicals, sewage, and industrial discharge."
+    },
+    {
+      "term": "Soil Pollution",
+      "definition": "Degradation of soil quality due to excessive use of chemicals, pesticides, and waste dumping."
+    },
+    {
+      "term": "Greenhouse Effect",
+      "definition": "Warming of Earth's surface due to trapped heat by greenhouse gases like CO2 and methane."
+    },
+    {
+      "term": "Acid Rain",
+      "definition": "Precipitation with acidic components, resulting from sulfur dioxide and nitrogen oxides reacting with atmospheric water."
+    },
+    {
+      "term": "Eutrophication",
+      "definition": "Nutrient enrichment in water bodies causing excessive algae growth and oxygen depletion."
+    },
+    {
+      "term": "Biomagnification",
+      "definition": "Increase in concentration of toxic substances as they move up the food chain."
+    },
+    {
+      "term": "Noise Pollution",
+      "definition": "Harmful or annoying levels of noise, often from industrial, traffic, or urban sources."
+    },
+    {
+      "term": "Pollutants",
+      "definition": "Substances that cause pollution, harming the environment and living organisms."
+    },
+    {
+      "term": "Environmental Impact",
+      "definition": "The effect of human activities and natural events on the environment."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Units and Measurements",
+    "chapter_number": 1,
+    "topic": "Physical Quantities and SI Units",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:46:34.488293",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Welcome to today's class on Units and Measurements. We will learn about Physical Quantities and SI Units. Let's start with Physical Quantities. A physical quantity is anything that can be measured. For example, length, mass, and time are physical quantities. We measure them using units.\n\nNow, let's talk about Base and Derived Quantities. Base quantities are the fundamental quantities. There are seven base quantities like length, mass, and time. Derived quantities are made from base quantities. For example, speed is a derived quantity. It is made from distance and time.\n\nSI Units are the standard units we use to measure physical quantities. For base quantities, we have base units. For example, the meter (m) is the SI unit for length. Kilogram (kg) is the unit for mass, and second (s) is for time.\n\nDerived Units are units for derived quantities. For example, the unit for speed is meters per second (m/s). We also have other derived units like newton (N) for force and joule (J) for energy.\n\nLet's look at Dimensional Formulae. A dimensional formula shows how a physical quantity is related to base quantities. For example, the dimensional formula for speed is [L^1 T^-1]. It means speed depends on length and time.\n\nDimensional Analysis is a method to solve problems. It helps check the correctness of equations. If the dimensions on both sides of an equation are the same, the equation is correct.\n\nSometimes we need to Convert Units. For example, converting meters to centimeters. To convert, we multiply or divide by powers of ten. Always remember, 1 meter = 100 centimeters.\n\nIn physics, we use Practical Units. These are units used in real-life applications. For example, kilometers per hour (km/h) for speed in cars.\n\nLet's do a quick JEE Main example. If a car travels 100 meters in 10 seconds, what is its speed? Use the formula: speed = distance/time. So, speed = 100 m / 10 s = 10 m/s.\n\nCommon JEE Main Mistake: Students often forget to convert units. Always check your units before solving.\n\nKey Takeaways: Remember the base units and derived units. Practice converting units. Use dimensional analysis to check equations.\n\nIn summary, understanding units and measurements is crucial for solving physics problems. Practice these concepts to do well in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Physical Quantities",
+    "Base Units",
+    "Derived Units",
+    "SI Units",
+    "Dimensional Analysis"
+  ],
+  "formulas": [
+    {
+      "formula": "speed = distance / time",
+      "description": "Used to calculate speed when distance and time are known"
+    },
+    {
+      "formula": "force = mass x acceleration",
+      "description": "Used to find force when mass and acceleration are given"
+    },
+    {
+      "formula": "energy = force x distance",
+      "description": "Used to calculate energy when force and distance are given"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Physical Quantity",
+      "definition": "Anything that can be measured, like length or mass"
+    },
+    {
+      "term": "Base Quantity",
+      "definition": "Fundamental quantities like length, mass, and time"
+    },
+    {
+      "term": "Derived Quantity",
+      "definition": "Quantities made from base quantities, like speed or force"
+    },
+    {
+      "term": "SI Unit",
+      "definition": "Standard unit used to measure physical quantities"
+    }
+  ]
+}

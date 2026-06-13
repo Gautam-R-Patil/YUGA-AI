@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Mechanical Properties of Fluids",
+    "chapter_number": 10,
+    "topic": "Surface Tension",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:59:05.293770",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about surface tension. It's a fascinating topic in physics. Let's start with what surface tension is. Surface tension is the force that acts on the surface of a liquid. It makes the surface behave like a stretched elastic sheet. This is why small insects can walk on water without sinking.\n\nNow, let's understand why this happens. Molecules in a liquid attract each other. These forces are called cohesive forces. At the surface, molecules have fewer neighbors. So, they pull together more strongly, creating surface tension.\n\nAn easy example is a drop of water on a leaf. The water drop stays rounded because of surface tension. Another example is when you fill a glass of water slightly above the rim. The water does not spill because surface tension holds it together.\n\nSurface tension has many applications in engineering. For example, detergents lower surface tension to help clean clothes better. Engineers also use surface tension in inkjet printers. The ink forms tiny droplets due to surface tension.\n\nNow, let's look at some formulas related to surface tension. The formula for surface tension is T = F/L. Here, T is surface tension, F is force, and L is the length over which the force acts. Remember, the unit of surface tension is Newton per meter (N/m).\n\nLet's solve a simple problem. If a force of 0.03 N acts on a length of 0.01 m, what is the surface tension? Using the formula T = F/L, we get T = 0.03 N / 0.01 m = 3 N/m.\n\nGraphs can also show surface tension. Imagine a graph with temperature on the x-axis and surface tension on the y-axis. As temperature increases, surface tension usually decreases.\n\nHere are some key points to remember. Surface tension is due to cohesive forces. It allows small objects to float on water. It decreases with increasing temperature.\n\nA common mistake is confusing surface tension with viscosity. Viscosity is about how thick a liquid is, like honey. Surface tension is about the liquid's surface.\n\nTo sum up, surface tension is a key property of liquids. It helps explain many natural and man-made phenomena. Understanding it is important for NEET exams. Keep practicing problems and remember the key concepts we discussed today.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Surface Tension",
+    "Cohesive Forces",
+    "Elastic Sheet",
+    "Newton per meter",
+    "Temperature"
+  ],
+  "formulas": [
+    {
+      "formula": "T = F/L",
+      "description": "Surface tension (T) is the force (F) per unit length (L)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Surface Tension",
+      "definition": "The force acting on the surface of a liquid, making it behave like a stretched elastic sheet."
+    },
+    {
+      "term": "Cohesive Forces",
+      "definition": "The attraction forces between molecules in a liquid."
+    }
+  ]
+}

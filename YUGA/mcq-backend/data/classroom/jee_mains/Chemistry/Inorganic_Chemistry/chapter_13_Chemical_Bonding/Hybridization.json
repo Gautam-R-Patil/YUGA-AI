@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapter_number": 13,
+    "topic": "Hybridization",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:14:25.809445",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about hybridization in chemical bonding. Hybridization is a concept that helps us understand how atoms bond in molecules. It tells us about the shape and angles of bonds. \n\nFirst, let's define hybridization. Hybridization is the mixing of atomic orbitals to form new orbitals. These new orbitals are called hybrid orbitals. They help atoms bond in molecules. For example, when one s and one p orbital mix, they form two sp hybrid orbitals. \n\nNow, let's talk about types of hybridization. The main types are sp, sp2, and sp3. In sp hybridization, one s and one p orbital mix. This gives us two sp hybrid orbitals. These orbitals are linear, meaning they are in a straight line. \n\nIn sp2 hybridization, one s and two p orbitals mix. This gives us three sp2 hybrid orbitals. These orbitals form a trigonal planar shape. Imagine a triangle lying flat on a table. \n\nIn sp3 hybridization, one s and three p orbitals mix. This gives us four sp3 hybrid orbitals. These orbitals form a tetrahedral shape. Imagine a pyramid with a triangular base. \n\nNext, let's see how hybridization relates to molecular shape. The type of hybridization affects the shape of the molecule. For example, if a molecule has sp3 hybridization, it usually has a tetrahedral shape. \n\nHybridization also helps us predict bond angles. For example, in a molecule with sp3 hybridization, the bond angles are about 109.5 degrees. This is important for JEE Main, as questions often ask about bond angles. \n\nLet's look at some examples of hybridized molecules. Methane (CH4) is an example of sp3 hybridization. The carbon atom in methane forms four sp3 hybrid orbitals. These orbitals bond with hydrogen atoms, creating a tetrahedral shape. \n\nAnother example is ethene (C2H4). It shows sp2 hybridization. Each carbon atom forms three sp2 hybrid orbitals. These orbitals create a planar shape. \n\nNow, let's discuss the limitations of hybridization theory. Hybridization does not explain all molecular shapes. It also does not consider repulsion between electron pairs. This is where VSEPR theory helps. \n\nVSEPR theory, or Valence Shell Electron Pair Repulsion theory, considers electron pair repulsions. It helps predict molecular shapes more accurately. However, hybridization is still useful for understanding bond formation. \n\nIn JEE Main, remember these key points about hybridization. Know the types of hybridization and their shapes. Practice predicting bond angles. Be aware of the limitations of hybridization theory. \n\nA common mistake in JEE Main is confusing sp2 and sp3 hybridization. Remember, sp2 is planar, and sp3 is tetrahedral. \n\nTo summarize, hybridization is mixing orbitals to form new orbitals. These new orbitals help atoms bond in molecules. Different types of hybridization create different shapes. Hybridization helps predict bond angles but has limitations. \n\nThat's all for today. Keep practicing, and you'll master hybridization in no time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Hybridization",
+    "Molecular Shape",
+    "Bond Angles",
+    "VSEPR Theory",
+    "Limitations"
+  ],
+  "formulas": [
+    {
+      "formula": "Bond Angle (sp3) ≈ 109.5°",
+      "description": "Used to predict bond angles in tetrahedral molecules like methane in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hybridization",
+      "definition": "Mixing of atomic orbitals to form new hybrid orbitals for bonding"
+    }
+  ]
+}

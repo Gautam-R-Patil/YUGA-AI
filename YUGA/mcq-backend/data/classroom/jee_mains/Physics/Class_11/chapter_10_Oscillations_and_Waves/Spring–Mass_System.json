@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations and Waves",
+    "chapter_number": 10,
+    "topic": "Spring–Mass System",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:53:43.813361",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Spring-Mass System. This topic is part of Oscillations and Waves in your Class 11 Physics. It is important for JEE Main. Let's start with the basics. \n\nA spring-mass system consists of a mass attached to a spring. When you pull or push the mass, it moves back and forth. This motion is called oscillation. The time it takes to complete one full oscillation is called the time period. \n\n**Derivation of Time Period**\nThe time period of a spring-mass system is given by the formula: T = 2π√(m/k). Here, T is the time period, m is the mass, and k is the spring constant. The spring constant tells us how stiff the spring is. \n\nIf you increase the mass, the time period increases. If you increase the spring constant, the time period decreases. Remember, T is directly proportional to √m and inversely proportional to √k. This is a common JEE Main question. \n\n**Energy Conservation in Spring-Mass System**\nIn a spring-mass system, energy is conserved. There are two types of energy here: potential energy and kinetic energy. Potential energy is stored in the spring when it is stretched or compressed. Kinetic energy is the energy of motion. \n\nAt the extreme positions, the energy is all potential. At the mean position, the energy is all kinetic. This is important in JEE Main questions. Remember, total energy E = (1/2)kA^2, where A is the amplitude. \n\n**Effect of Mass and Spring Constant**\nThe mass and spring constant affect the motion. A heavier mass oscillates slower. A stiffer spring oscillates faster. This is because of the formula T = 2π√(m/k). \n\n**Graphical Analysis of Motion**\nThe motion of a spring-mass system can be shown using graphs. The displacement-time graph is a sine or cosine curve. At the mean position, displacement is zero. At the extreme positions, displacement is maximum. \n\n**Numerical Problems on Spring Systems**\nLet's solve a simple problem. A mass of 2 kg is attached to a spring with a spring constant of 50 N/m. Find the time period. \n\nUsing T = 2π√(m/k), we plug in the values: T = 2π√(2/50). Simplifying this gives T = 2π√(0.04) = 2π×0.2 = 0.4π seconds. \n\n**Damping Effects**\nIn real life, oscillations do not continue forever. They slow down due to damping. Damping is a force that reduces the energy of the system. It can be due to air resistance or friction. \n\n**Resonance Phenomena**\nResonance occurs when a system is driven at its natural frequency. The amplitude of oscillation becomes very large. This can be dangerous in bridges and buildings. Engineers must consider this. \n\n**Applications in Engineering**\nSpring-mass systems are used in car suspensions, watches, and measuring devices. Engineers use these systems to absorb shocks and measure forces. \n\n**Common Mistakes and Exam Traps**\nStudents often forget that T depends on √m and √k. Do not mix up potential and kinetic energy. Always check units in calculations. \n\n**Key Takeaways**\n1. Time period T = 2π√(m/k).\n2. Energy is conserved: E = (1/2)kA^2.\n3. Damping slows down oscillations.\n4. Resonance can cause large oscillations.\n\nIn summary, the spring-mass system is an important concept in Physics. It helps us understand oscillations and waves. Practice problems, and remember the formulas. Good luck with your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Spring-Mass System",
+    "Time Period",
+    "Energy Conservation",
+    "Damping",
+    "Resonance"
+  ],
+  "formulas": [
+    {
+      "formula": "T = 2π√(m/k)",
+      "description": "Used to calculate the time period of a spring-mass system in JEE Main questions"
+    },
+    {
+      "formula": "E = (1/2)kA^2",
+      "description": "Total energy of a spring-mass system, used to find potential energy"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Oscillation",
+      "definition": "Back and forth movement of a mass in a spring-mass system"
+    },
+    {
+      "term": "Spring Constant",
+      "definition": "A measure of the stiffness of a spring"
+    },
+    {
+      "term": "Damping",
+      "definition": "A force that reduces the energy of an oscillating system"
+    },
+    {
+      "term": "Resonance",
+      "definition": "When a system is driven at its natural frequency, causing large oscillations"
+    }
+  ]
+}

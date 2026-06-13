@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Laws of Motion",
+    "chapter_number": 3,
+    "topic": "Newton's Laws of Motion",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:47:37.624063",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Newton's Laws of Motion. These laws help us understand how objects move. Let's start with the basics.\n\nFirst, we have Newton's First Law, also called the Law of Inertia. Inertia means that an object will stay still or keep moving in a straight line unless something else changes that. For example, if you slide a book on a smooth table, it will keep moving until friction stops it. Remember, inertia is why you feel a push back when a car suddenly stops.\n\nNext is Newton's Second Law. This law tells us how force, mass, and acceleration are related. The formula is F = ma. Here, F is force, m is mass, and a is acceleration. If you push a light toy car and a heavy truck with the same force, the toy car will move faster. Why? Because it has less mass. This is important in JEE Main. Always check units and values carefully.\n\nNow, let's talk about Newton's Third Law. It says that for every action, there is an equal and opposite reaction. If you push on a wall, the wall pushes back with the same force. This is why rockets can fly. The gas pushes down, and the rocket moves up.\n\nNewton's Laws are very useful. We can use them to solve many problems. For example, if two forces are acting on an object, we can find the net force and predict the movement. Remember, forces can be contact forces, like friction, or non-contact forces, like gravity.\n\nIn JEE Main, you may face questions about equilibrium. An object is in equilibrium if all forces are balanced. This means the net force is zero, and the object does not move. Check if forces cancel each other out.\n\nThere are two types of frames: inertial and non-inertial. An inertial frame is where Newton's laws hold true. If a bus moves at constant speed, it is an inertial frame. But if it suddenly stops, it becomes a non-inertial frame.\n\nLet's go over some common mistakes. Students often forget to convert units. Always use SI units in calculations. Also, check if forces are balanced or unbalanced. This helps you know if the object will move or stay still.\n\nTo sum up, Newton's laws explain how objects move and interact. They are crucial for solving physics problems. Remember to practice using the formulas and concepts. This will help you in your exams.\n\nThank you for listening! I hope this was helpful. Keep practicing, and you will do great in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Newton's Laws",
+    "Inertia",
+    "Force",
+    "Equilibrium",
+    "Frames"
+  ],
+  "formulas": [
+    {
+      "formula": "F = ma",
+      "description": "Used to calculate force when mass and acceleration are known"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Inertia",
+      "definition": "The tendency of an object to resist a change in its motion"
+    },
+    {
+      "term": "Equilibrium",
+      "definition": "State when all forces on an object are balanced, and it does not move"
+    }
+  ]
+}

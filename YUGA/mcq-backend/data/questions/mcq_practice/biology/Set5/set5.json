@@ -1,0 +1,316 @@
+[
+    {
+        "id": 40,
+        "question_number": "1",
+        "text": "Which among these is the correct combination of aquatic mammals?",
+        "subject": "Zoology",
+        "sub_topic": "Aquatic Mammals",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Dolphin, Seals, Trygon",
+            "Whales, Dolphin, Seals",
+            "Trygon, Whales, Seals",
+            "Seals, Dolphin, Sharks"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 40,
+        "correct_answer": "Whales, Dolphin, Seals",
+        "basic_answer": "Whales, Dolphins, and Seals are all warm-blooded mammals that live in aquatic environments, adapted for life in water.",
+        "explanation": "### Core Concept\nAquatic mammals are air-breathing vertebrates that possess mammary glands, nurse their young, and are fully adapted to life in water. It is essential to distinguish them from aquatic fish or reptiles.\n\n### Solution\n* Mammals: Whales, Dolphins, and Seals. These are warm-blooded, breathe air through lungs, and give birth to live young.\n* Non-Mammals: *Trygon* (Stingray) and Sharks are cartilaginous fish (Chondrichthyes). They breathe through gills and are cold-blooded.\n\n### Why This Answer\nOption B is the only combination where every animal listed is a mammal. Options A, C, and D are incorrect because they include fish like Trygon or Sharks.\n\n### Common Mistakes\n* Confusing Habitat with Class: Assuming that because an animal lives in the ocean, it must be a fish. Whales and dolphins are often mistaken for fish despite being mammals.\n* Misidentifying Trygon: Not realizing that *Trygon* is a biological name for a stingray, which is a fish.",
+        "keywords": {}
+    },
+    {
+        "id": 41,
+        "question_number": "2",
+        "text": "Lungs are made up of air-filled sacs, the alveoli. They do not collapse even after forceful expiration, because of:",
+        "subject": "Biology",
+        "sub_topic": "Respiratory System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Inspiratory Reserve Volume",
+            "Tidal Volume",
+            "Expiratory Reserve Volume",
+            "Residual Volume"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 41,
+        "correct_answer": "Residual Volume",
+        "basic_answer": "Residual Volume prevents the alveoli from collapsing after forceful expiration as it is the air that remains in the lungs after maximum exhalation. This volume provides a reserve of air, keeping the alveoli expanded and available for gas exchange during the next inhalation. \n\nHence the answer is Residual Volume.",
+        "explanation": "### Core Concept\nThe lungs always contain a certain amount of air to ensure that gas exchange continues even between breaths and to prevent the delicate alveolar sacs from collapsing (atelectasis).\n\n### Solution\nEven after the most forceful exhalation (Expiratory Reserve Volume), a volume of air remains in the lungs that cannot be expelled. This is called Residual Volume (RV). This air maintains a positive pressure within the alveoli, preventing their walls from sticking together.\n\n### Why This Answer\nResidual Volume is the only lung volume that physically stays in the lungs at all times. \n* *Tidal Volume* is normal breathing air.\n* *Inspiratory Reserve* is extra air you can breathe in.\n* *Expiratory Reserve* is the extra air you can blow out, but even after blowing it all out, RV remains.\n\n### Common Mistakes\n* Confusing ERV and RV: Thinking that Expiratory Reserve Volume is what prevents collapse. ERV is the air you *can* blow out; RV is what you *cannot* blow out.",
+        "keywords": {
+            "RV": "Residual Volume",
+            "TLC": "Total Lung Capacity",
+            "ERV": "Expiratory Reserve Volume",
+            "TV": "Tidal Volume"
+        }
+    },
+    {
+        "id": 42,
+        "question_number": "3",
+        "text": "Fruit and leaf drop at early stages can be prevented by the application of:",
+        "subject": "Botany",
+        "sub_topic": "Plant Hormones",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Ethylene",
+            "Auxins",
+            "Gibberellic acid",
+            "Cytokinins"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 42,
+        "correct_answer": "Auxins",
+        "basic_answer": "Auxins promote cell elongation and are known to prevent premature fruit and leaf drop by influencing growth processes. Hence the answer is auxins.",
+        "explanation": "### Core Concept\nPlant hormones (Phytohormones) regulate the process of abscission, which is the natural shedding of leaves, flowers, and fruits. Some hormones promote this shedding, while others inhibit it.\n\n### Solution\nAuxins (like IAA or NAA) are used agriculturally to prevent the premature drop of young leaves and fruits. They work by maintaining the integrity of the abscission zone at the base of the stalk. \n\n### Why This Answer\nWhile Ethylene promotes fruit ripening and shedding, and Abscisic acid promotes dormancy and drop, Auxins act as an anti-abscission agent for young plant parts. Note: In high concentrations later in life, auxins can actually promote drop, but for \"early stages,\" they are the primary prevention tool.\n\n### Common Mistakes\n* Choosing Ethylene: This is a common error because Ethylene is associated with fruits, but it causes them to *fall off* (ripen and drop), not stay on.\n* Confusing Gibberellins: Thinking they prevent drop because they promote growth. Gibberellins focus on stem length and seed germination.",
+        "keywords": {}
+    },
+    {
+        "id": 43,
+        "question_number": "4",
+        "text": "Presence of plants arranged into well-defined vertical layers depending on their height can be seen best in:",
+        "subject": "Botany",
+        "sub_topic": "Ecology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Tropical Rain Forest",
+            "Grassland",
+            "Temperate Forest",
+            "Tropical Savannah"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 43,
+        "correct_answer": "Tropical Rain Forest",
+        "basic_answer": "In a tropical rain forest, the presence of distinct vertical layers of plant life occurs due to varying heights and adaptations to sunlight. This stratification supports diverse ecosystems where taller trees form a canopy and shorter plants grow beneath. \n\nTherefore, the tropical rain forest is the best example.",
+        "explanation": "### Core Concept\nVertical Stratification is the arrangement of vegetation into distinct layers based on height. This is an adaptation to maximize the use of available sunlight and resources.\n\n### Solution\nThe Tropical Rain Forest exhibits the most complex stratification in nature. Because the tree density is so high, sunlight is a limiting factor, leading to the formation of:\n1.  Emergent Layer (tallest trees)\n2.  Canopy (thick roof layer)\n3.  Understory (low light area)\n4.  Forest Floor (shaded ground)\n\n### Why This Answer\nTropical Rain Forests have the highest biodiversity and the most pronounced \"multi-story\" structure. Grasslands and Savannahs are relatively flat, and Temperate Forests have fewer layers (usually just canopy, shrubs, and ground).\n\n### Common Mistakes\n* Grassland Confusion: Thinking that tall grass counts as a layer. Stratification specifically refers to different life forms (trees, shrubs, herbs) occupying different heights.\n* Savannah Error: Savannahs have trees, but they are scattered and do not form a continuous vertical layering system.",
+        "keywords": {}
+    },
+    {
+        "id": 44,
+        "question_number": "117",
+        "text": "Which one of the following can be explained as the basis of Mendel's Law of dominance?",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (28)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "A: Out of one pair of factors one is dominant and the other is recessive.",
+            "B: Alleles do not show any expression and both the characters appear as such in F² generation.",
+            "C: Factors occur in pairs in normal diploid plants.",
+            "D: The discrete unit controlling a particular character is called factor."
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (28).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 3160,
+        "correct_answer": "A: Out of one pair of factors one is dominant and the other is recessive.",
+        "basic_answer": "Mendel's Law of dominance explains that out of one pair of alleles, one is dominant over the other. This means that in a heterozygous condition, the dominant allele will express the trait, while the recessive allele will not be displayed. \n\nTherefore, the answer is A.",
+        "explanation": "### Core Concept\nMendel's Law of Dominance describes how traits are expressed in a heterozygous individual (an organism with two different versions of a gene).\n\n### Solution\nThe law states that in a pair of contrasting factors (alleles), one member of the pair masks the expression of the other. The one that is expressed is the Dominant factor, and the one that is hidden is the Recessive factor.\n\n### Why This Answer\nOption A directly defines the interaction between the two factors. \n* *Option C and D* are part of Mendel's general postulates (unit factors and paired factors) but do not explain the *dominance* relationship itself.\n* *Option B* refers to the Law of Segregation.\n\n### Common Mistakes\n* Confusing the three laws: Students often mix up the Law of Dominance (expression in F1) with the Law of Segregation (separation of alleles) or the Law of Independent Assortment (different genes separating).",
+        "keywords": {}
+    },
+    {
+        "id": 45,
+        "question_number": "6",
+        "text": "Which of the following statements is correct?",
+        "subject": "Biology",
+        "sub_topic": "Excretory System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "The descending limb of loop of Henle is impermeable to water.",
+            "The ascending limb of loop of Henle is permeable to water.",
+            "The descending limb of loop of Henle is permeable to electrolytes.",
+            "The ascending limb of loop of Henle is impermeable to water."
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 45,
+        "correct_answer": "The ascending limb of loop of Henle is impermeable to water.",
+        "basic_answer": "The ascending limb of the loop of Henle does not allow water to pass through, making it impermeable to water, while it actively transports electrolytes such as sodium and chloride ions out of the tubular fluid. This is critical for the process of urine concentration. \n\nTherefore, D is the answer.",
+        "explanation": "### Core Concept\nThe Loop of Henle is responsible for creating a concentration gradient in the kidney medulla. To do this, its two limbs have opposite permeability characteristics.\n\n### Solution\n1.  Descending Limb: Highly permeable to water but almost impermeable to electrolytes. As filtrate moves down, water leaves, and the filtrate becomes more concentrated.\n2.  Ascending Limb: Completely impermeable to water but permeable to electrolytes (active/passive transport). As filtrate moves up, salts leave but water cannot, making the filtrate dilute and the surrounding medulla salty.\n\n\n\n### Why This Answer\nOption D is a fundamental fact of renal physiology. The impermeability of the ascending limb to water is what allows the kidney to reabsorb salt without water following it by osmosis.\n\n### Common Mistakes\n* Swapping the limbs: Thinking the descending limb is the one that moves salt. Remember: Descending = Drink (water leaves).",
+        "keywords": {}
+    },
+    {
+        "id": 46,
+        "question_number": "7",
+        "text": "In case of a couple where the male is having a very low sperm count, which technique will be suitable for fertilization?",
+        "subject": "Zoology",
+        "sub_topic": "Reproductive Techniques",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Gamete intracytoplasmic fallopian transfer",
+            "Artificial insemination",
+            "Intracytoplasmic sperm injection",
+            "Intrauterine transfer"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 46,
+        "correct_answer": "Intracytoplasmic sperm injection",
+        "basic_answer": "Intracytoplasmic sperm injection (ICSI) is a suitable technique when the male partner has a low sperm count, as it involves injecting a single sperm directly into an egg, ensuring fertilization even with minimal sperm. This method maximizes the chances of successful fertilization in cases of male infertility. \n\nTherefore, C is the answer.",
+        "explanation": "### Core Concept\nAssisted Reproductive Technologies (ART) offer different solutions depending on the cause of infertility. When sperm count or motility is extremely low, the sperm needs direct help to penetrate the egg.\n\n### Solution\nIntracytoplasmic Sperm Injection (ICSI) is a procedure where a single, healthy-looking sperm is selected and injected directly into the cytoplasm of an egg in a laboratory setting. This bypasses the need for the sperm to swim or penetrate the egg's outer layers on its own.\n\n### Why This Answer\n* ICSI: Best for very low sperm counts (Oligospermia) or no motility.\n* *Artificial Insemination:* Requires a decent amount of motile sperm to swim to the egg.\n* *GIFT:* Requires sperm and egg to meet naturally inside the fallopian tube.\n* *IUT:* This is the transfer of an already fertilized embryo.\n\n### Common Mistakes\n* Choosing Artificial Insemination: While often the first step, for \"very low\" counts, ICSI is the technologically superior and most suitable choice.",
+        "keywords": {
+            "ICSI": "Intracytoplasmic sperm injection",
+            "IVF": "In Vitro Fertilization"
+        }
+    },
+    {
+        "id": 47,
+        "question_number": "8",
+        "text": "Alexander Von Humboldt described for the first time:",
+        "subject": "Biology",
+        "sub_topic": "Ecology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Laws of limiting factor",
+            "Species-Area relationships",
+            "Population Growth equations",
+            "Ecological Biodiversity"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 47,
+        "correct_answer": "Species-Area relationships",
+        "basic_answer": "Alexander von Humboldt is credited with describing the species–area relationship, showing that the number of species (S) increases with the area (A) sampled, typically following a power law. \n\nThus, the correct option is 'Species–Area relationships'.",
+        "explanation": "### Core Concept\nBiogeography explores how species are distributed across different areas. Alexander von Humboldt was a pioneer in this field who noticed a mathematical pattern in how diversity increases as you explore more land.\n\n### Solution\nHumboldt observed that within a region, species richness increased with increasing explored area, but only up to a limit. This is the Species-Area Relationship, typically shown as a rectangular hyperbola on a normal graph and a straight line on a log-log scale ($log S = log C + Z log A$).\n\n\n\n### Why This Answer\nThis is a specific historical fact in ecological science. The other options are attributed to other scientists (e.g., Blackman for limiting factors, Verhulst-Pearl for growth equations).\n\n### Common Mistakes\n* Generalizing Biodiversity: Thinking he just \"described biodiversity.\" While he studied it, his specific scientific contribution mentioned in textbooks is the quantified area relationship.",
+        "keywords": {}
+    },
+    {
+        "id": 48,
+        "question_number": "114",
+        "text": "Which of the following is an example of actinomorphic flower?",
+        "subject": "Botany",
+        "sub_topic": "Flower Morphology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 19,
+        "source_pdf": "PAPAER (28)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "set5_id_48.png",
+                "path": "mcq-backend\\data\\questions\\mcq_practice\\biology\\Set5\\images\\set5_id_48.png",
+                "base64": ""
+            }
+        ],
+        "options": [
+            "Cassia",
+            "Pisum",
+            "Sesbania",
+            "Datura"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (28).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 3161,
+        "correct_answer": "Datura",
+        "basic_answer": "Actinomorphic (radially symmetrical) flowers can be divided into two equal halves by many vertical planes. Among the options, Datura has actinomorphic flowers, while Cassia, Pisum and Sesbania are zygomorphic (bilaterally symmetrical). \n\nTherefore, Datura is the correct example of an actinomorphic flower.",
+        "explanation": "### Core Concept\nFlower symmetry is a key taxonomic feature. \n1.  Actinomorphic: Radial symmetry. The flower can be divided into two equal halves by *any* radial plane passing through the center (like a circle).\n2.  Zygomorphic: Bilateral symmetry. The flower can be divided into two equal halves by only *one* specific vertical plane (like a human face).\n\n### Solution\n* Datura, Mustard, Chili: These are classic examples of Actinomorphic flowers.\n* Pea (Pisum), Cassia, Gulmohar, Bean, Sesbania: These are examples of Zygomorphic flowers.\n\n### Why This Answer\nDatura is the only flower in the list that exhibits radial symmetry. The others belong to families (like Fabaceae) that typically have irregular, bilateral flowers.\n\n### Common Mistakes\n* Assuming all pretty flowers are radial: Many complex flowers, like orchids or peas, are highly asymmetrical or bilateral. Always refer to the specific botanical families.",
+        "keywords": {}
+    },
+    {
+        "id": 49,
+        "question_number": "10",
+        "text": "Which ecosystem has the maximum biomass?",
+        "subject": "Biology",
+        "sub_topic": "Ecosystems",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Grassland ecosystem",
+            "Pond ecosystem",
+            "Lake ecosystem",
+            "Forest ecosystem"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 49,
+        "correct_answer": "Forest ecosystem",
+        "basic_answer": "Forests have the highest biomass due to their dense vegetation and large number of trees that store a significant amount of organic matter. This dense plant growth allows for a greater accumulation of biomass compared to other ecosystems. \n\nTherefore, forests dominate in terms of biomass.",
+        "explanation": "### Core Concept\nBiomass is the total dry weight of all living organisms in a particular area or ecosystem. It is primarily determined by the size and density of the producers (plants).\n\n### Solution\nIn a Forest ecosystem, the dominant plants are massive, woody trees that live for decades or centuries. These trees accumulate huge amounts of carbon and organic matter in their trunks, branches, and roots. In contrast, producers in ponds or lakes are often tiny phytoplankton with very low \"standing\" biomass.\n\n### Why This Answer\nA forest has more kilograms of living matter per square meter than any other terrestrial or aquatic system listed. Ponds and lakes actually often have inverted biomass pyramids where the producers weigh less than the consumers.\n\n### Common Mistakes\n* Confusing Biomass with Productivity: While an ocean might produce a lot of energy over a year, its *biomass* at any single moment is low because things are eaten almost as fast as they grow. Forests \"store\" their biomass in wood.",
+        "keywords": {}
+    }
+]

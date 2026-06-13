@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Laws of Motion",
+    "chapter_number": 3,
+    "topic": "Circular Motion",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:48:07.101364",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about circular motion. This is a key topic in physics and important for JEE Main. Let's start with uniform circular motion. Imagine a car moving around a circular track at constant speed. This is uniform circular motion. The speed is constant, but the direction changes. Next, we have centripetal force and acceleration. Centripetal force keeps an object moving in a circle. It acts towards the center of the circle. The formula for centripetal force is F = mv^2/r, where m is mass, v is velocity, and r is the radius of the circle. Centripetal acceleration is a = v^2/r. Both are important for solving JEE Main problems. Now, let's talk about angular velocity and frequency. Angular velocity, ω, is how fast something spins. The formula is ω = v/r. Frequency, f, is how often something completes a circle. It is related to ω by ω = 2πf. Remember, in JEE Main, you might need to convert between linear and angular quantities. Non-uniform circular motion is when speed changes. Here, tangential acceleration is involved. It's different from centripetal acceleration. The total acceleration is the vector sum of these two. A common JEE Main mistake is confusing these accelerations. Next, we discuss banking of roads. Roads are banked to help vehicles turn safely at high speeds. The angle of banking, θ, is important. The formula is tanθ = v^2/(rg), where g is gravity. This helps in solving problems about safe speeds on curves. Let's move to centrifugal force. It's a force that seems to act outward when you are in a rotating frame. It's not a real force but feels real. In JEE Main, understand that it's a result of inertia. Applications of circular motion are everywhere. Think of washing machines, cars on curves, or satellites. Each uses principles of circular motion. Finally, vertical circular motion. Imagine a pendulum or roller coaster loop. At the top of the loop, the speed must be enough to keep moving. Use energy conservation and centripetal force to solve these problems. Common JEE Main mistakes include wrong direction of forces or missing energy conservation. Key takeaways: Understand the difference between centripetal and centrifugal forces. Remember formulas for forces and accelerations. Practice problems with different speeds and angles. In summary, circular motion is all about moving in circles. Remember the key formulas and concepts. Practice with different scenarios. Good luck with your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Circular Motion",
+    "Centripetal Force",
+    "Angular Velocity",
+    "Banking of Roads",
+    "Vertical Circular Motion"
+  ],
+  "formulas": [
+    {
+      "formula": "F = mv^2/r",
+      "description": "Used to calculate centripetal force required to keep an object moving in a circle"
+    },
+    {
+      "formula": "a = v^2/r",
+      "description": "Used to calculate centripetal acceleration for an object in circular motion"
+    },
+    {
+      "formula": "ω = v/r",
+      "description": "Used to calculate angular velocity from linear velocity and radius"
+    },
+    {
+      "formula": "tanθ = v^2/(rg)",
+      "description": "Used to find the angle of banking for safe turning on a road"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Uniform Circular Motion",
+      "definition": "Motion in a circle at constant speed"
+    },
+    {
+      "term": "Centripetal Force",
+      "definition": "Force that keeps an object moving in a circular path, directed towards the center"
+    },
+    {
+      "term": "Angular Velocity",
+      "definition": "Rate of change of angle in circular motion, measured in radians per second"
+    },
+    {
+      "term": "Centrifugal Force",
+      "definition": "Apparent force felt outward in a rotating frame, due to inertia"
+    }
+  ]
+}

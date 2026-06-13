@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Chemical Bonding and Molecular Structure",
+    "chapter_number": "4",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:18:56.788685",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts \u2014 Chemical Bonding and Molecular Structure. \n\nSimple Explanation:\nChemical bonding involves the joining of atoms to form stable molecules by sharing or transferring electrons. It helps explain the structure, shape, and energy of molecules.\n\nKey Points:\n1. Types of Bonds:\n   - Ionic Bond: Formed by the complete transfer of electrons between atoms, creating ions. E.g., NaCl.\n   - Covalent Bond: Formed by sharing electron pairs between atoms. E.g., H2O.\n   - Coordinate Bond: A type of covalent bond in which one atom provides both electrons for the bond.\n2. Valence Bond Theory (VBT): Explains covalent bond formation based on orbital overlap.\n3. Molecular Orbital Theory (MOT): Describes the molecule's electrons as occupying molecular orbitals formed by the combination of atomic orbitals.\n4. VSEPR Theory: Predicts the 3D shape of molecules based on electron pair repulsions.\n5. Hybridization: Mixing of atomic orbitals to form new hybrid orbitals suitable for pairing.\n\nNEET Question Pattern:\n- Frequently tests identification of bond types.\n- Often includes questions about molecular shapes based on the VSEPR theory.\n- Calculations using bond energy and stability.\n\nQuick Revision Points:\n- Remember H2O is polar due to its bent shape.\n- CO2 is linear, despite C having double bonds with O.\n- Hybridization: CH4 (sp3), C2H4 (sp2), C2H2 (sp).\n- VBT highlights sigma and pi bonds\u2014essential in organic compounds.",
+  "duration_minutes": "10",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Chemical Bonding",
+    "Ionic Bond",
+    "Covalent Bond",
+    "Coordinate Bond",
+    "Valence Bond Theory",
+    "Molecular Orbital Theory",
+    "VSEPR Theory",
+    "Hybridization",
+    "Sigma and Pi Bonds",
+    "Molecular Shape"
+  ],
+  "formulas": [
+    "sp, sp^2, sp^3 hybridization states",
+    "Bond Order = (Number of bonding electrons \u2212 Number of antibonding electrons) / 2",
+    "Electron density and electronegativity roles in bond formation"
+  ],
+  "definitions": [
+    {
+      "term": "Chemical Bonding",
+      "definition": "The attractive force that holds atoms together in a molecule or compound."
+    },
+    {
+      "term": "Ionic Bond",
+      "definition": "A type of chemical bond where electrons are transferred from one atom to another, resulting in the formation of ions."
+    },
+    {
+      "term": "Covalent Bond",
+      "definition": "A bond formed by the sharing of electron pairs between atoms."
+    },
+    {
+      "term": "Coordinate Bond",
+      "definition": "A covalent bond where both electrons in the shared pair come from the same atom."
+    },
+    {
+      "term": "Valence Bond Theory (VBT)",
+      "definition": "A theory that explains the bonding between atoms in terms of the overlap of their atomic orbitals."
+    },
+    {
+      "term": "Molecular Orbital Theory (MOT)",
+      "definition": "A theory describing electrons in molecules as occupying orbitals spread over the entire molecule."
+    },
+    {
+      "term": "VSEPR Theory",
+      "definition": "A model used to predict the shape of individual molecules based on electron-pair repulsion."
+    },
+    {
+      "term": "Hybridization",
+      "definition": "The process of mixing atomic orbitals in a molecule to form new hybrid orbitals that make the molecule more stable."
+    },
+    {
+      "term": "Sigma and Pi Bonds",
+      "definition": "Sigma bonds involve head-on overlapping of orbitals while pi bonds involve overlapping of orbitals across adjacent sides."
+    },
+    {
+      "term": "Molecular Shape",
+      "definition": "The 3D arrangement of a molecule's atoms in space, determined by bonding and lone pairs of electrons."
+    }
+  ]
+}

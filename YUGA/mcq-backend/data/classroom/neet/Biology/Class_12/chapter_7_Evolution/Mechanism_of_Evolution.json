@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Evolution",
+    "chapter_number": 7,
+    "topic": "Mechanism of Evolution",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:42:08.805998",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the mechanism of evolution. Evolution explains how living things change over time. Let's start with Darwin's theory of natural selection. Charles Darwin said that in nature, only the strongest survive. This is called 'survival of the fittest'. Here, 'fittest' means the best fit for the environment. For example, giraffes with longer necks can reach more food, so they survive better.\n\nNext, we have the modern synthetic theory of evolution. This theory combines Darwin's ideas with genetics. It explains how genes change over time. Genes are parts of DNA that decide traits like eye color. If these genes change, the traits can change too.\n\nNow, let's talk about the Hardy-Weinberg principle. This principle says that allele frequencies in a population stay the same if no outside forces act on them. Alleles are different forms of a gene. For example, in pea plants, one allele might be for tall plants, another for short plants.\n\nBut, what can change allele frequencies? Factors like mutation, gene flow, genetic drift, and selection can affect them. A mutation is a change in DNA. Gene flow is when new genes enter a population, like when birds migrate. Genetic drift is random changes in allele frequencies. Selection is when some traits help survival more than others.\n\nAdaptive radiation is when one species evolves into many different forms. A good example is Darwin's finches. These birds developed different beak shapes to eat different foods.\n\nFinally, let's look at human evolution. We have Australopithecus, which walked on two legs. Then, Homo habilis, known for using tools. Next, Homo erectus, who learned to use fire. After that, Neanderthals, who lived in cold climates. Lastly, Homo sapiens, which is us today.\n\nRemember, 'fitness' means how well an organism can survive and reproduce. 'Allele frequency' is how often an allele appears in a population. 'Genetic drift' is a random change in allele frequency.\n\nTo sum up, evolution is about how living things change. Natural selection, genetic changes, and human evolution are key parts. Keep these points in mind for your NEET exam. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Natural Selection",
+    "Modern Synthetic Theory",
+    "Hardy-Weinberg Principle",
+    "Genetic Drift",
+    "Adaptive Radiation"
+  ],
+  "formulas": [
+    {
+      "formula": "p^2 + 2pq + q^2 = 1",
+      "description": "Hardy-Weinberg equation for genetic equilibrium. p and q represent the frequency of two alleles."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Fitness",
+      "definition": "The ability of an organism to survive and reproduce in its environment."
+    },
+    {
+      "term": "Allele Frequency",
+      "definition": "How often an allele appears in a gene pool."
+    },
+    {
+      "term": "Genetic Drift",
+      "definition": "A random change in allele frequency in a population."
+    }
+  ]
+}

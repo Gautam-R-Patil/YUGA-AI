@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermodynamics",
+    "chapter_number": 12,
+    "topic": "Carnot Engine",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:01:55.412715",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will learn about the Carnot engine. The Carnot engine is a special type of heat engine. It helps us understand how heat can do work. Let's start with the principle and working of a Carnot engine.\n\nA Carnot engine works between two heat reservoirs. One is hot, and the other is cold. The engine takes heat from the hot reservoir. It then converts some of that heat into work. Finally, it releases the leftover heat to the cold reservoir. This cycle repeats again and again.\n\nThe Carnot engine works in four steps. First is the isothermal expansion. Here, the engine takes in heat from the hot reservoir. The gas inside expands and does work. Second is the adiabatic expansion. The engine continues to expand, but now without taking heat. The gas cools down. Third is the isothermal compression. The engine releases heat to the cold reservoir. The gas is compressed. Fourth is the adiabatic compression. The gas is compressed further, and its temperature rises. Then the cycle starts again.\n\nNow, let's talk about the efficiency of a Carnot engine. Efficiency tells us how well the engine converts heat into work. The formula for efficiency is:\n\nEfficiency = 1 - (T_cold / T_hot)\n\nHere, T_cold is the temperature of the cold reservoir. T_hot is the temperature of the hot reservoir. Remember, the temperatures must be in Kelvin.\n\nA common mistake is using Celsius instead of Kelvin. Always convert to Kelvin first. For example, if T_hot is 500 Kelvin and T_cold is 300 Kelvin, the efficiency is 1 - (300 / 500) = 0.4 or 40%.\n\nLet's look at some examples of Carnot engines in physics. A steam engine can be like a Carnot engine. It takes heat from burning coal and does work by moving pistons. Another example is a refrigerator. It works like a Carnot engine in reverse. It takes heat from inside and releases it outside.\n\nIn engineering, Carnot engines help design better engines. They show the maximum possible efficiency. Engineers try to make real engines close to this efficiency.\n\nNow, let's solve a problem. Suppose a Carnot engine works between 600 Kelvin and 300 Kelvin. What is its efficiency? Use the formula: Efficiency = 1 - (T_cold / T_hot). So, Efficiency = 1 - (300 / 600) = 0.5 or 50%.\n\nKey points to remember: The Carnot engine is an ideal engine. It shows the best efficiency possible. Real engines are not as efficient. Always use Kelvin for temperature in calculations.\n\nIn summary, the Carnot engine helps us understand the limits of converting heat to work. It is a model for perfect efficiency. Remember the key formula and always convert temperatures to Kelvin. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Carnot engine",
+    "Efficiency",
+    "Heat reservoir",
+    "Isothermal process",
+    "Adiabatic process"
+  ],
+  "formulas": [
+    {
+      "formula": "Efficiency = 1 - (T_cold / T_hot)",
+      "description": "Formula to calculate the efficiency of a Carnot engine, where T_cold and T_hot are temperatures in Kelvin"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Carnot engine",
+      "definition": "An ideal heat engine that operates on the Carnot cycle and shows maximum possible efficiency"
+    },
+    {
+      "term": "Isothermal process",
+      "definition": "A process where the temperature remains constant"
+    },
+    {
+      "term": "Adiabatic process",
+      "definition": "A process where no heat is exchanged with the surroundings"
+    }
+  ]
+}

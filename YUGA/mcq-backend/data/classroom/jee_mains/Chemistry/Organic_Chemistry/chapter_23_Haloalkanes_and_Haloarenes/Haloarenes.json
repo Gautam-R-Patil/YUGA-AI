@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "chapter_number": 23,
+    "topic": "Haloarenes",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:26:05.262664",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Haloarenes. These are aromatic compounds with halogen atoms. First, let's talk about their structure and bonding. Haloarenes have a benzene ring with one or more halogen atoms like chlorine or bromine. The benzene ring is a hexagon with alternating double bonds. This makes it stable. The halogen atom is attached to one of the carbon atoms in the ring.\n\nNext, let's discuss nomenclature. Naming haloarenes is simple. Start with the name of the halogen, like 'chloro' for chlorine. Then add the name of the aromatic compound, like benzene. So, if one chlorine is attached, it is 'Chlorobenzene'. If there are more halogens, number the carbon atoms to give the lowest numbers to the halogens.\n\nNow, onto physical properties. Haloarenes are usually liquids or solids. They do not dissolve in water but dissolve in organic solvents like alcohol. They have higher boiling points than benzene. This is because of the heavier halogen atoms.\n\nLet's move to reactions. Haloarenes undergo electrophilic substitution reactions. This means an atom in the benzene ring is replaced by another atom. Common reactions are nitration, sulfonation, and halogenation. For example, nitration adds a nitro group (NO2) to the ring.\n\nNext is nucleophilic aromatic substitution. This is rare in haloarenes. It happens when a nucleophile, a molecule with extra electrons, replaces a halogen. This needs strong conditions like high temperature or pressure.\n\nReactivity and mechanism are important. Haloarenes are less reactive than haloalkanes. This is because the benzene ring is stable. The halogen atom also pulls electrons, making the ring less reactive.\n\nSubstituents affect reactivity. If there are groups like -OH or -NH2 on the ring, they make it more reactive. They push electrons into the ring. Groups like -NO2 pull electrons away, making it less reactive.\n\nFinally, let's see applications. Haloarenes are used in making dyes, drugs, and pesticides. Chlorobenzene is used to make rubber and plastics.\n\nNow, for JEE Main tips. Remember the naming rules. Practice substitution reactions. Watch out for mistakes in numbering carbon atoms. Understand the effect of substituents on reactivity. These are common traps in exams.\n\nIn summary, we covered structure, properties, reactions, and uses of haloarenes. Remember the key points and practice problems. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Haloarenes",
+    "Electrophilic Substitution",
+    "Nucleophilic Substitution",
+    "Reactivity",
+    "Substituents"
+  ],
+  "formulas": [
+    {
+      "formula": "C6H5X",
+      "description": "General formula for haloarenes where X is a halogen like Cl or Br"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Haloarenes",
+      "definition": "Aromatic compounds with one or more halogen atoms attached to the benzene ring"
+    },
+    {
+      "term": "Electrophilic Substitution",
+      "definition": "A reaction where an atom in the benzene ring is replaced by another atom or group"
+    },
+    {
+      "term": "Nucleophile",
+      "definition": "A molecule or ion with extra electrons that can replace a halogen in a reaction"
+    }
+  ]
+}

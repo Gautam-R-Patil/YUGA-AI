@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Kinetic Theory",
+    "chapter_number": "13",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:12:28.879898",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most crucial NEET concepts in Physics: Kinetic Theory of Gases. \n\nKinetic Theory describes the macroscopic properties of gases in terms of the motion of their molecules. It explains concepts like pressure, temperature, and volume based on molecular collisions and movements. It's essentially a bridge between microscopic interactions and macroscopic observations.\n\n### Assumptions\n1. Gas molecules are in constant random motion.\n2. The size of the gas molecules is negligible compared to the distance between them.\n3. Collisions between molecules, and with the walls of the container, are perfectly elastic.\n4. There are no intermolecular forces acting between the molecules.\n\n### Key Concepts\n- Pressure of Gas: Caused by collisions of gas molecules with the walls of the container.\n- Temperature and Kinetic Energy: The average kinetic energy of gas molecules is directly proportional to the absolute temperature.\n\n### Important Formulae\n- Root Mean Square Speed (c_rms): $$c_{rms} = \\sqrt{ \\frac{3kT}{m}} = \\sqrt{ \\frac{3RT}{M}} $$\n- Average Kinetic Energy (E_kavg): $$E_{kavg} = \\frac{3}{2}kT $$\n- Ideal Gas Equation: $$PV = nRT$$\n\n### NEET Pattern Questions\n1. Questions frequently test the relationship between temperature and kinetic energy.\n2. Calculations involving root mean square speed using temperatures and molar masses.\n3. Direct questions on assumptions of the kinetic theory.\n\n### Quick Revision Points:\n1. Kinetic theory uses the behavior of molecules to explain gas laws.\n2. Pressure is a result of molecular collisions.\n3. Average kinetic energy is proportional to temperature.\n4. Root mean square speed is often examined.\n5. Remember key formulas: $$c_{rms} = \\sqrt{ \\frac{3RT}{M}}$$, $$E_{kavg} = \\frac{3}{2}kT$$, $$PV = nRT$$.\n\nUnderstanding these concepts is crucial for tackling NEET physics problems related to gases. Focus on the assumptions and main formulas for quick recall before your exam!",
+  "duration_minutes": "12",
+  "difficulty_level": "Intermediate",
+  "images": [],
+  "keywords": [
+    "Kinetic Theory",
+    "Molecular Motion",
+    "Gas Pressure",
+    "Absolute Temperature",
+    "Root Mean Square Speed",
+    "Ideal Gas Law",
+    "Average Kinetic Energy"
+  ],
+  "formulas": [
+    "c_\\text{rms} = \\sqrt{ \\frac{3kT}{m}} = \\sqrt{ \\frac{3RT}{M}}",
+    "E_{k_{avg}} = \\frac{3}{2}kT",
+    "PV = nRT"
+  ],
+  "definitions": [
+    {
+      "term": "Kinetic Theory",
+      "definition": "Theory that explains the macroscopic properties of gases through the microscopic movements and interactions of molecules."
+    },
+    {
+      "term": "Molecular Motion",
+      "definition": "Constant, random movement of molecules in a gas."
+    },
+    {
+      "term": "Gas Pressure",
+      "definition": "The force exerted by gas molecules colliding with the walls of a container."
+    },
+    {
+      "term": "Absolute Temperature",
+      "definition": "A temperature measured from absolute zero in Kelvin, directly proportional to the average kinetic energy of gas molecules."
+    },
+    {
+      "term": "Root Mean Square Speed",
+      "definition": "A statistical measure of the speed of particles in a gas, important for determining kinetic energy."
+    },
+    {
+      "term": "Ideal Gas Law",
+      "definition": "An equation of state for ideal gases given by PV = nRT."
+    },
+    {
+      "term": "Average Kinetic Energy",
+      "definition": "The mean energy of movement of particles in a gas, proportional to temperature."
+    }
+  ]
+}

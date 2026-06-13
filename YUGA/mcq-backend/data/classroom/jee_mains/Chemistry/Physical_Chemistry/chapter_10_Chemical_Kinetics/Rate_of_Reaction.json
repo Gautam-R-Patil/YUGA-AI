@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Chemical Kinetics",
+    "chapter_number": 10,
+    "topic": "Rate of Reaction",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:10:16.736983",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the rate of reaction in chemistry. This is a key topic in Chemical Kinetics. It helps us understand how fast or slow a chemical reaction happens.\n\nLet's start with the definition. The rate of reaction tells us how quickly reactants turn into products. We measure it as the change in concentration of reactants or products per unit time. The units are usually moles per liter per second (mol/L/s).\n\nThere are two main types of rates: average rate and instantaneous rate. The average rate is the change in concentration over a certain time period. For example, if a reaction goes from 2 moles to 1 mole in 2 seconds, the average rate is (2-1)/2 = 0.5 mol/L/s. The instantaneous rate is the rate at a specific moment. It's like checking your speed at a certain point during a car ride.\n\nNow, let's talk about factors affecting the rate of reaction. Temperature, concentration, surface area, and catalysts can change the rate. Higher temperature usually increases the rate because particles move faster. More concentration means more particles, which can lead to more collisions and a faster rate. A larger surface area allows more particles to react. Catalysts speed up reactions without being used up.\n\nWe often use graphs to show reaction rates. A graph can have time on the x-axis and concentration on the y-axis. The slope of the line tells us the rate. A steeper slope means a faster rate.\n\nNext, we have the rate expression. It shows how the rate depends on the concentration of reactants. For example, if the rate = k[A]^m[B]^n, k is the rate constant, and m and n are the orders of reaction. JEE Main often asks about these orders.\n\nWe also have differential and integrated rate laws. The differential rate law gives the rate as a function of concentration. The integrated rate law relates concentration to time. They help us solve problems about how long a reaction will take or how much reactant is left.\n\nTemperature affects the rate of reaction. The Arrhenius equation, k = Ae^(-Ea/RT), shows this. Here, Ea is the activation energy, R is the gas constant, and T is temperature in Kelvin. A is the frequency factor.\n\nFinally, let's look at collision theory. It says that particles must collide to react. Not all collisions cause reactions; they need enough energy and the correct orientation.\n\nRemember, common mistakes in JEE Main include mixing up average and instantaneous rates. Always check units and make sure you understand the rate expression.\n\nIn summary, knowing the rate of reaction helps us predict and control chemical processes. Practice using the formulas and understanding the graphs. This will help you do well in JEE Main.\n\nThank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Rate of Reaction",
+    "Average Rate",
+    "Instantaneous Rate",
+    "Rate Expression",
+    "Collision Theory"
+  ],
+  "formulas": [
+    {
+      "formula": "rate = ∆[Concentration]/∆t",
+      "description": "Used to calculate the average rate of reaction over a time period"
+    },
+    {
+      "formula": "rate = k[A]^m[B]^n",
+      "description": "Rate expression showing how rate depends on reactant concentrations"
+    },
+    {
+      "formula": "k = Ae^(-Ea/RT)",
+      "description": "Arrhenius equation showing temperature dependence of the rate constant"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Rate of Reaction",
+      "definition": "The speed at which reactants turn into products, measured as change in concentration over time"
+    },
+    {
+      "term": "Activation Energy",
+      "definition": "The minimum energy needed for a reaction to occur"
+    }
+  ]
+}

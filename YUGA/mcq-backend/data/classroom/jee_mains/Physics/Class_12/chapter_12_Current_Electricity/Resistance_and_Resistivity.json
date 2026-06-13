@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Current Electricity",
+    "chapter_number": 12,
+    "topic": "Resistance and Resistivity",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:56:04.788347",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about resistance and resistivity in the chapter of Current Electricity. These are important concepts for JEE Main. Let's start with some basics. \n\nFirst, what is resistance? Resistance is a measure of how much a material opposes the flow of electric current. It is like a roadblock for electrons moving through a wire. The unit of resistance is Ohm, symbolized by the Greek letter Ω. \n\nNow, let's talk about factors affecting resistance. Resistance depends on four main factors: the length of the wire, the cross-sectional area of the wire, the material of the wire, and temperature. Longer wires have more resistance. Thicker wires have less resistance. Different materials have different resistances. \n\nTemperature also affects resistance. As temperature increases, the resistance of most conductors increases. This is because atoms vibrate more at higher temperatures, making it harder for electrons to pass through. \n\nNext, let's discuss resistivity. Resistivity is a property of the material itself. It tells us how strongly the material opposes the flow of current. The unit of resistivity is Ohm-meter (Ω·m). \n\nConductivity is the opposite of resistivity. It measures how easily a material allows the flow of electric current. High resistivity means low conductivity and vice versa. \n\nNow, we will look at the color coding of resistors. Resistors have colored bands that tell us their resistance value. Each color represents a number. For example, black is 0, brown is 1, red is 2, and so on. By reading these colors, we can find the resistance value without measuring it. \n\nLet's practice with a formula. The formula for resistance is R = ρ(L/A). Here, R is resistance, ρ is resistivity, L is the length of the wire, and A is the cross-sectional area. This formula helps us calculate resistance if we know the other values. \n\nLet's do a quick example. If a copper wire has a length of 2 meters and a cross-sectional area of 0.01 square meters, and the resistivity of copper is 1.68 x 10^-8 Ω·m, what is the resistance? Using R = ρ(L/A), we get R = 1.68 x 10^-8 x (2/0.01) = 3.36 x 10^-6 Ω. \n\nCommon mistakes in JEE Main include confusing resistance with resistivity or forgetting units. Always check your units. \n\nIn summary, resistance is how much a material opposes current, measured in Ohms. Resistivity is a material property, measured in Ohm-meters. Remember the formula R = ρ(L/A) for calculating resistance. \n\nThis concludes our lecture on resistance and resistivity. Remember these key points, and practice problems to master these concepts for JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Resistance",
+    "Resistivity",
+    "Conductivity",
+    "Ohm",
+    "Temperature"
+  ],
+  "formulas": [
+    {
+      "formula": "R = ρ(L/A)",
+      "description": "Used to calculate resistance when resistivity, length, and area are given"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Resistance",
+      "definition": "A measure of how much a material opposes the flow of electric current"
+    },
+    {
+      "term": "Resistivity",
+      "definition": "A property of a material that shows how strongly it opposes current flow"
+    },
+    {
+      "term": "Conductivity",
+      "definition": "A measure of how easily a material allows the flow of electric current"
+    }
+  ]
+}

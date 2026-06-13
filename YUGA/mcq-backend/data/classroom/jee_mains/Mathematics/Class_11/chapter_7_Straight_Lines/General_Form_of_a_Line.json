@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Straight Lines",
+    "chapter_number": 7,
+    "topic": "General Form of a Line",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:51:12.811662",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the general form of a line. This is an important topic in mathematics, especially for JEE Main. Let's start with the equation of a line in its general form. It is written as Ax + By + C = 0. Here, A, B, and C are constants. The letters x and y represent the coordinates of any point on the line. \n\nFirst, let's understand how this equation is used. Imagine you have a line, and you know two points on it. You can find the equation of this line using the general form. This form helps us describe any straight line on a graph. \n\nNow, let's see how to convert other forms of a line into this general form. A common form you might know is the slope-intercept form: y = mx + c. Here, m is the slope, and c is the y-intercept. To convert this into the general form, rearrange it to get mx - y + c = 0. This is similar to Ax + By + C = 0, with A = m, B = -1, and C = c. \n\nNext, let's talk about intercepts. Intercepts are where the line crosses the x-axis or y-axis. To find the x-intercept, set y = 0 in the equation Ax + By + C = 0. Solve for x, and you get the x-intercept. Similarly, to find the y-intercept, set x = 0 and solve for y. These intercepts are useful for sketching the line quickly. \n\nLet's do a quick example. Suppose we have the line 3x + 4y - 12 = 0. To find the x-intercept, set y = 0: 3x - 12 = 0. Solving gives x = 4. For the y-intercept, set x = 0: 4y - 12 = 0, which gives y = 3. So, the line crosses the x-axis at (4, 0) and the y-axis at (0, 3). \n\nA common mistake in JEE Main is forgetting to rearrange the terms correctly when converting forms. Always make sure to isolate terms properly. Another trap is miscalculating intercepts by not setting the other variable to zero. Remember, for x-intercept, y is zero, and for y-intercept, x is zero. \n\nKey takeaways for quick revision: 1. The general form of a line is Ax + By + C = 0. 2. Convert other forms by rearranging terms. 3. Find intercepts by setting x or y to zero. \n\nIn summary, understanding the general form of a line is crucial. It helps in solving many geometry problems in JEE Main. Practice converting forms and finding intercepts to build your confidence. That's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "General Form",
+    "Slope-Intercept",
+    "Intercept",
+    "Equation",
+    "Line"
+  ],
+  "formulas": [
+    {
+      "formula": "Ax + By + C = 0",
+      "description": "Used to describe any straight line on a graph in JEE Main problems"
+    },
+    {
+      "formula": "y = mx + c",
+      "description": "Slope-intercept form, convert to general form by rearranging"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Intercept",
+      "definition": "The point where a line crosses the x-axis or y-axis"
+    }
+  ]
+}

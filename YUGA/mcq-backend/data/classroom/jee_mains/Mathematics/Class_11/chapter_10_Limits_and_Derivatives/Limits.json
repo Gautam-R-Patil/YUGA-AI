@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Limits and Derivatives",
+    "chapter_number": 10,
+    "topic": "Limits",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:53:31.827691",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about limits, an important topic in calculus. Limits help us understand how a function behaves near a certain point. Let's begin with the definition of a limit. The limit of a function f(x) as x approaches a value 'a' is the value that f(x) gets closer to as x gets closer to 'a'. Think of it like approaching a destination. You get closer and closer, but you might not actually reach it.\n\nNow, let's talk about limit laws. These are rules that help us calculate limits easily. Some important limit laws are: the sum law, product law, and quotient law. The sum law says that the limit of a sum is the sum of the limits. Similarly, the product law says the limit of a product is the product of the limits. The quotient law states that the limit of a quotient is the quotient of the limits, provided the denominator is not zero.\n\nNext, we have one-sided limits. These are limits where x approaches 'a' from one side only, either from the left (denoted as x -> a-) or from the right (denoted as x -> a+). It's like approaching a door from one side only.\n\nWe also have limits at infinity. This is when x approaches infinity or negative infinity. For example, the limit of 1/x as x approaches infinity is 0. This means that as x becomes very large, 1/x becomes very small, close to zero.\n\nSometimes, we encounter indeterminate forms like 0/0 or ∞/∞. These forms are tricky because they do not give a clear answer. To solve them, we use L'Hopital's Rule. This rule says that if we have an indeterminate form, we can take the derivative of the numerator and the denominator and then find the limit again.\n\nAnother useful concept is the Squeeze theorem. It helps find the limit of a function that is 'squeezed' between two other functions. If these two functions have the same limit at a point, then the squeezed function also has that limit.\n\nContinuity and limits are closely related. A function is continuous at a point if the limit of the function as x approaches the point is equal to the function's value at that point. If there is a break or jump, the function is not continuous.\n\nNow, let's look at limits of trigonometric functions. For example, the limit of sin(x)/x as x approaches 0 is 1. This is a key result and is often used in problems.\n\nLastly, we have limits of exponential and logarithmic functions. For example, the limit of e^x as x approaches infinity is infinity, and the limit of log(x) as x approaches 0 from the right is negative infinity.\n\nIn JEE Main, it's important to practice these concepts with examples. Remember to apply the right limit laws and be careful with indeterminate forms. A common mistake is not checking the form before applying L'Hopital's Rule.\n\nTo summarize, limits help us understand how functions behave near points. We learned about limit laws, one-sided limits, limits at infinity, and more. Practice these concepts, and you'll be ready for the JEE Main exam!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Limits",
+    "Continuity",
+    "Indeterminate forms",
+    "L'Hopital's Rule",
+    "Squeeze theorem"
+  ],
+  "formulas": [
+    {
+      "formula": "lim(x->a) f(x) = L",
+      "description": "The definition of a limit, used to find the value f(x) approaches as x approaches a"
+    },
+    {
+      "formula": "lim(x->a) [f(x) + g(x)] = lim(x->a) f(x) + lim(x->a) g(x)",
+      "description": "Sum law for limits, used when adding two functions"
+    },
+    {
+      "formula": "lim(x->a) [f(x) * g(x)] = lim(x->a) f(x) * lim(x->a) g(x)",
+      "description": "Product law for limits, used when multiplying two functions"
+    },
+    {
+      "formula": "lim(x->a) [f(x) / g(x)] = lim(x->a) f(x) / lim(x->a) g(x), g(a) ≠ 0",
+      "description": "Quotient law for limits, used when dividing two functions"
+    },
+    {
+      "formula": "lim(x->0) (sin(x)/x) = 1",
+      "description": "A key limit of trigonometric functions often used in calculus problems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Limit",
+      "definition": "The value a function approaches as the input approaches a certain point"
+    },
+    {
+      "term": "One-sided limit",
+      "definition": "The limit of a function as the input approaches a point from one side only"
+    },
+    {
+      "term": "Indeterminate form",
+      "definition": "An expression that does not have a clear limit, like 0/0 or ∞/∞"
+    },
+    {
+      "term": "Continuity",
+      "definition": "A property of a function if it has no breaks or jumps at a point"
+    }
+  ]
+}

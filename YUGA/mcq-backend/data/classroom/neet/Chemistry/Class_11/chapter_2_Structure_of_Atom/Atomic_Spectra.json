@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Structure of Atom",
+    "chapter_number": 2,
+    "topic": "Atomic Spectra",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:12:33.089068",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about atomic spectra. This is an important topic in chemistry. It helps us understand how atoms behave. Let's start with emission and absorption spectra.\n\nEmission spectra are like fingerprints of elements. When atoms absorb energy, they get excited. They release this energy as light, creating emission spectra. Think of fireworks. When they explode, they show different colors. Each color is like an emission spectrum.\n\nAbsorption spectra are the opposite. When light passes through a gas, atoms absorb specific colors. This creates dark lines in the spectrum. Imagine sunlight passing through a glass of water. Some colors disappear because water absorbs them.\n\nNext, let's talk about the line spectrum of hydrogen. Hydrogen is the simplest atom. It has one electron. When this electron jumps between energy levels, it creates lines of light. This is the line spectrum. The Balmer series is part of this spectrum. It shows visible lines in hydrogen's spectrum.\n\nNow, we have the Rydberg formula. This formula helps us calculate the wavelengths of spectral lines. The formula is: 1/λ = R (1/n1^2 - 1/n2^2). Here, λ is the wavelength, R is the Rydberg constant, and n1 and n2 are energy levels. Use this formula to find where lines appear in the spectrum.\n\nThe spectral lines are important. They help us identify elements. For example, helium was discovered in the sun using spectral lines. They also show how electrons move in atoms. This is key in understanding atomic structure.\n\nCommon mistake: Students often mix up emission and absorption spectra. Remember, emission is like fireworks. Absorption is like sunlight through water.\n\nKey points to remember: Emission spectra show colors released by atoms. Absorption spectra show colors absorbed by atoms. The Balmer series is part of hydrogen's line spectrum. The Rydberg formula helps calculate wavelengths.\n\nIn summary, atomic spectra are like a map of atoms. They tell us about the energy levels and movements of electrons. This knowledge is crucial for NEET exams. Practice using the Rydberg formula and identifying spectra types.\n\nThank you for listening! Keep practicing and you'll do great in your exams.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Emission Spectra",
+    "Absorption Spectra",
+    "Line Spectrum",
+    "Balmer Series",
+    "Rydberg Formula"
+  ],
+  "formulas": [
+    {
+      "formula": "1/λ = R (1/n1^2 - 1/n2^2)",
+      "description": "Rydberg formula to calculate wavelengths of spectral lines, where λ is wavelength, R is Rydberg constant, and n1, n2 are energy levels."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Emission Spectra",
+      "definition": "Patterns of light emitted by atoms when they release energy."
+    },
+    {
+      "term": "Absorption Spectra",
+      "definition": "Patterns of dark lines where light is absorbed by atoms."
+    },
+    {
+      "term": "Line Spectrum",
+      "definition": "A spectrum showing discrete lines, each representing a specific wavelength."
+    },
+    {
+      "term": "Balmer Series",
+      "definition": "Part of hydrogen's line spectrum visible to the human eye."
+    },
+    {
+      "term": "Rydberg Formula",
+      "definition": "A formula used to predict the wavelengths of spectral lines."
+    }
+  ]
+}

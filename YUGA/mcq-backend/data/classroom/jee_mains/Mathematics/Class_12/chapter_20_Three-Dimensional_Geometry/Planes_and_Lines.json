@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Three-Dimensional Geometry",
+    "chapter_number": 20,
+    "topic": "Planes and Lines",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:02:03.962766",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about planes and lines in three-dimensional geometry. This topic is important for JEE Main. Let's start with the equation of a plane. \n\nA plane is a flat surface that extends forever in all directions. The equation of a plane is ax + by + cz + d = 0. Here, a, b, c are the coefficients of x, y, z, and d is a constant. This equation helps us find the position of a plane in space.\n\nNext, we have the normal form of a plane. The normal form is x cos α + y cos β + z cos γ = p. Here, α, β, γ are the angles made by the normal with the x, y, z axes, and p is the perpendicular distance from the origin to the plane.\n\nNow, let's talk about the angle between two planes. The formula is cos θ = (a1a2 + b1b2 + c1c2) / (√(a1^2 + b1^2 + c1^2) * √(a2^2 + b2^2 + c2^2)). If θ is 90 degrees, the planes are perpendicular. If θ is 0 degrees, they are parallel.\n\nThe angle between a line and a plane is another important concept. Use the formula sin θ = (a1l + b1m + c1n) / (√(a1^2 + b1^2 + c1^2) * √(l^2 + m^2 + n^2)). Here, l, m, n are direction ratios of the line.\n\nLet's discuss the coplanarity of lines. Two lines are coplanar if the scalar triple product of their direction ratios is zero. Use the formula (a1b2c3 + a2b3c1 + a3b1c2 - a3b2c1 - a2b1c3 - a1b3c2) = 0.\n\nNext, we have the intersection of a line and a plane. Substitute the line's parametric equations into the plane's equation. Solve for the parameter to find the point of intersection.\n\nThe distance of a point from a plane is another key concept. Use the formula D = |ax1 + by1 + cz1 + d| / √(a^2 + b^2 + c^2). Here, (x1, y1, z1) is the point.\n\nLastly, let's talk about parallel and perpendicular planes. Two planes are parallel if their normal vectors are parallel. They are perpendicular if the dot product of their normal vectors is zero.\n\nCommon JEE Main mistake: Do not forget to check units and signs in calculations. Also, remember to simplify equations before solving.\n\nKey takeaways: Remember the formulas and how to apply them. Practice problems to get comfortable with these concepts.\n\nIn summary, we learned about planes, lines, and their interactions in space. These concepts are crucial for solving JEE Main problems. Thank you for your attention!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Plane",
+    "Line",
+    "Angle",
+    "Distance",
+    "Intersection"
+  ],
+  "formulas": [
+    {
+      "formula": "ax + by + cz + d = 0",
+      "description": "Equation of a plane, used to find its position in space"
+    },
+    {
+      "formula": "x cos α + y cos β + z cos γ = p",
+      "description": "Normal form of a plane, used when given angles and distance"
+    },
+    {
+      "formula": "cos θ = (a1a2 + b1b2 + c1c2) / (√(a1^2 + b1^2 + c1^2) * √(a2^2 + b2^2 + c2^2))",
+      "description": "Angle between two planes, used to check if they are perpendicular or parallel"
+    },
+    {
+      "formula": "sin θ = (a1l + b1m + c1n) / (√(a1^2 + b1^2 + c1^2) * √(l^2 + m^2 + n^2))",
+      "description": "Angle between a line and a plane, used for intersection problems"
+    },
+    {
+      "formula": "D = |ax1 + by1 + cz1 + d| / √(a^2 + b^2 + c^2)",
+      "description": "Distance of a point from a plane, used to find shortest distance"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Plane",
+      "definition": "A flat surface that extends forever in all directions"
+    },
+    {
+      "term": "Normal",
+      "definition": "A line perpendicular to a surface"
+    },
+    {
+      "term": "Coplanar",
+      "definition": "Lines or points that lie in the same plane"
+    }
+  ]
+}

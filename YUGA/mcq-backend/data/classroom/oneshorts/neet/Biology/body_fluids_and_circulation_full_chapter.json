@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Body Fluids and Circulation",
+    "chapter_number": "18",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:33:49.999446",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts - Body Fluids and Circulation. First, understand that the circulatory system is vital for distributing nutrients and oxygen to body cells, and removing waste products.\n\nBlood Composition: Blood is a connective tissue made of plasma and formed elements like RBCs, WBCs, and platelets. Plasma contains water, electrolytes, proteins, and waste materials.\n\nKey Idea: RBCs carry oxygen using hemoglobin, while WBCs are vital for immunity.\n\nHeart Structure and Function: The human heart is a muscular organ with four chambers: two atria and two ventricles, separated by valves to prevent backflow.\n\nImportant Point: The left atrium and ventricle handle oxygenated blood while the right side deals with deoxygenated blood.\n\nHeart Cycle and Cardiac Output: The cardiac cycle consists of stages: systole (contraction) and diastole (relaxation).\n\nKey Formula: Cardiac Output (CO) = Heart Rate (HR) x Stroke Volume (SV).\n\nBlood Vessels: Arteries carry blood away from the heart, veins return blood, and capillaries enable exchanges between blood and tissues.\n\nLymphatic System: Complements the circulatory system by transporting lymph and managing fluid balance and immune response.\n\nNEET Focus: Questions often focus on blood component functions, cardiac cycle stages, types of circulation (systemic and pulmonary), and heart disorders like hypertension.\n\nQuick Revision Summary:\n1. Blood is made up of plasma and cells like RBCs, WBCs, and platelets.\n2. The heart consists of four chambers with a systematic flow of blood.\n3. Cardiac output is a key parameter in understanding heart efficiency.\n4. Blood vessels include arteries, veins, and capillaries.\n5. The lymphatic system aids in immunity and fluid management.\n\nRemember, clarity in the functions of each part of the circulatory system and understanding how deficiencies or disorders occur is crucial for NEET preparation.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Blood",
+    "Plasma",
+    "Red Blood Cells (RBCs)",
+    "White Blood Cells (WBCs)",
+    "Cardiac Cycle",
+    "Heart Chambers",
+    "Arteries",
+    "Veins",
+    "Capillaries",
+    "Cardiac Output"
+  ],
+  "formulas": [
+    "Cardiac Output (CO) = Heart Rate (HR) \\times Stroke Volume (SV)"
+  ],
+  "definitions": [
+    {
+      "term": "Blood",
+      "definition": "A fluid connective tissue composed of plasma and formed elements like RBCs, WBCs, and platelets."
+    },
+    {
+      "term": "Plasma",
+      "definition": "The liquid component of blood that carries cells and dissolved substances."
+    },
+    {
+      "term": "Red Blood Cells (RBCs)",
+      "definition": "Cells in the blood that carry oxygen, bound to hemoglobin, to tissues."
+    },
+    {
+      "term": "White Blood Cells (WBCs)",
+      "definition": "Immune system cells involved in protecting the body against both infectious diseases and foreign invaders."
+    },
+    {
+      "term": "Cardiac Cycle",
+      "definition": "The sequence of events in the heart as it beats, including systole and diastole."
+    },
+    {
+      "term": "Heart Chambers",
+      "definition": "The four spaces in the heart (two atria and two ventricles) that facilitate blood circulation."
+    },
+    {
+      "term": "Arteries",
+      "definition": "Blood vessels that carry blood away from the heart."
+    },
+    {
+      "term": "Veins",
+      "definition": "Blood vessels that carry blood back to the heart."
+    },
+    {
+      "term": "Capillaries",
+      "definition": "Microscopic blood vessels where exchanges between blood and tissues occur."
+    },
+    {
+      "term": "Cardiac Output",
+      "definition": "The volume of blood the heart pumps per minute, calculated as heart rate times stroke volume."
+    }
+  ]
+}

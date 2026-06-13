@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "p-Block Elements (Groups 13–18)",
+    "chapter_number": 16,
+    "topic": "Group 17 Elements: Halogens",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:18:28.491653",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Group 17 elements, also known as Halogens. These are Fluorine, Chlorine, Bromine, and Iodine. They are very reactive non-metals. Let's start with their properties. \n\nFluorine is a pale yellow gas. Chlorine is a greenish-yellow gas. Bromine is a red-brown liquid. Iodine is a dark solid. All these elements have a strong smell. They are poisonous, so handle with care.\n\nNow, let's talk about Hydrogen Halides. These are compounds formed when Halogens react with Hydrogen. For example, Hydrogen Fluoride (HF), Hydrogen Chloride (HCl), Hydrogen Bromide (HBr), and Hydrogen Iodide (HI). They are gases and dissolve in water to form acids. HCl in water is called Hydrochloric Acid.\n\nWhat about Interhalogen Compounds? These are compounds made of different Halogens. For example, Chlorine Fluoride (ClF) and Iodine Pentafluoride (IF5). They are more reactive than individual halogens.\n\nLet's look at trends. Electronegativity decreases from Fluorine to Iodine. Fluorine is the most electronegative element. Bond energy also decreases from Fluorine to Iodine. \n\nHalogens react with metals to form salts. For example, Sodium Chloride (NaCl). They also react with non-metals like Hydrogen to form Hydrogen Halides.\n\nHalogens have many uses. Chlorine is used to purify water. Fluorine is used in toothpaste. Bromine is used in fire extinguishers. Iodine is important for our health. It helps make thyroid hormones.\n\nFluorine behaves differently from other Halogens. It is the most reactive and forms only one stable oxidation state, -1. This is called Anomalous Behavior.\n\nLet's solve a problem. If you have a metal M reacting with Chlorine, it forms MCl2. What is the oxidation state of M? The answer is +2 because Chlorine is -1.\n\nCommon mistake: Students often confuse the reactivity order. Remember, Fluorine is the most reactive, then Chlorine, Bromine, and Iodine.\n\nKey takeaways: Halogens are very reactive. They form acids with Hydrogen. They have industrial and biological uses.\n\nTo summarize, Halogens are important in chemistry and everyday life. Understanding their properties helps in JEE Main exams. Remember the trends and reactivity order. Practice problems to avoid mistakes.\n",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Halogens",
+    "Electronegativity",
+    "Hydrogen Halides",
+    "Interhalogen Compounds",
+    "Anomalous Behavior"
+  ],
+  "formulas": [
+    {
+      "formula": "M + Cl2 -> MCl2",
+      "description": "This shows the reaction of a metal M with Chlorine to form a metal chloride. Used to find the oxidation state of M."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Halogens",
+      "definition": "Group 17 elements including Fluorine, Chlorine, Bromine, and Iodine."
+    },
+    {
+      "term": "Electronegativity",
+      "definition": "The ability of an atom to attract electrons towards itself."
+    },
+    {
+      "term": "Anomalous Behavior",
+      "definition": "Behavior that is different from the rest of the group, like Fluorine's reactivity."
+    }
+  ]
+}

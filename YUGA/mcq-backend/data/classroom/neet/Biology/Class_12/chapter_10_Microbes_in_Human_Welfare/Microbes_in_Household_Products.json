@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Microbes in Human Welfare",
+    "chapter_number": 10,
+    "topic": "Microbes in Household Products",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:43:28.292056",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will talk about microbes and how they help us in making food. Microbes are tiny living things that we cannot see with our eyes. They are everywhere, and they help us in many ways. Let's start with how microbes help in making curd and cheese. \n\nIn curd, the main microbe is called lactic acid bacteria. This bacteria changes milk into curd. It does this by making lactic acid. Lactic acid makes the milk thick and sour. This is why curd tastes different from milk. \n\nCheese is made in a similar way. First, milk is curdled. Then, different microbes are added to make different types of cheese. For example, Swiss cheese has holes because of a gas made by microbes. \n\nNow, let's talk about fermentation. Fermentation is a process where microbes change sugar into alcohol or acid. This process is used to make alcoholic drinks. Yeast is the main microbe used here. Yeast changes sugar into alcohol and carbon dioxide. This is why drinks like beer and wine have bubbles. \n\nYeast is also important in bread making. When yeast is added to dough, it makes carbon dioxide. This gas makes the dough rise and makes bread soft and fluffy. \n\nRemember, lactic acid bacteria, fermentation, and yeast are key terms. They are often asked in exams. \n\nA common mistake is thinking all microbes are bad. But, as we see, many are helpful in food production. \n\nTo sum up, microbes play a big role in making curd, cheese, alcohol, and bread. They change substances to make new and tasty products. \n\nKeep these points in mind, and you will do well in your exams. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Lactic acid bacteria",
+    "Fermentation",
+    "Yeast",
+    "Curd production",
+    "Cheese production"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Microbes",
+      "definition": "Tiny living things that are everywhere and help in various processes."
+    },
+    {
+      "term": "Lactic acid bacteria",
+      "definition": "Bacteria that change milk into curd by making lactic acid."
+    },
+    {
+      "term": "Fermentation",
+      "definition": "A process where microbes change sugar into alcohol or acid."
+    },
+    {
+      "term": "Yeast",
+      "definition": "A type of microbe that changes sugar into alcohol and carbon dioxide."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Sequences and Series",
+    "chapter_number": 6,
+    "topic": "Geometric Progression (GP)",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:49:26.524204",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today we will learn about Geometric Progression, or GP. This is a type of sequence you must know for JEE Main. Let's start by understanding what a sequence is. A sequence is a list of numbers in a specific order. In a Geometric Progression, each term is found by multiplying the previous term by a fixed number. This fixed number is called the common ratio.\n\nLet's define GP more clearly. A Geometric Progression is a sequence where each term after the first is the product of the previous term and a constant called the common ratio. For example, in the sequence 2, 4, 8, 16, the common ratio is 2. We multiply each term by 2 to get the next term.\n\nNow, let's talk about the properties of GP. The first term of a GP is usually denoted by 'a', and the common ratio by 'r'. If you want the nth term of a GP, you use the formula: a_n = a * r^(n-1). Here, a_n is the nth term, a is the first term, r is the common ratio, and n is the term number.\n\nA common mistake in JEE Main is mixing up the common ratio with the difference in an Arithmetic Progression. Remember, in GP, you multiply, not add.\n\nLet's move on to the sum of n terms in a GP. The formula for the sum of the first n terms of a GP is S_n = a * (1 - r^n) / (1 - r), if r is not equal to 1. If r equals 1, the sum is simply n * a because each term is the same.\n\nHere's a quick check: If the first term is 3, the common ratio is 2, and you want the sum of the first 3 terms, use the formula. S_3 = 3 * (1 - 2^3) / (1 - 2) = 3 * (1 - 8) / (1 - 2) = 3 * (-7) / (-1) = 21.\n\nNow, let's discuss the infinite GP series. An infinite GP is a series that goes on forever. The sum of an infinite GP is only possible if the common ratio is between -1 and 1. The formula for the sum of an infinite GP is S_infinity = a / (1 - r).\n\nFor example, if the first term is 4 and the common ratio is 0.5, the sum of the infinite series is S_infinity = 4 / (1 - 0.5) = 8.\n\nA JEE Main trap is to use the infinite GP formula when the common ratio is not between -1 and 1. Always check this condition first.\n\nKey takeaways for quick revision: Remember the formulas for the nth term and the sum of n terms. Practice problems to avoid calculation mistakes. Always check the common ratio for infinite series problems.\n\nIn summary, we learned about the definition of GP, how to find the nth term, the sum of n terms, and the sum of an infinite GP. Practice these concepts with different examples to master them for JEE Main. Thank you for listening, and keep practicing!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Geometric Progression",
+    "Common Ratio",
+    "Nth Term",
+    "Sum of Series",
+    "Infinite Series"
+  ],
+  "formulas": [
+    {
+      "formula": "a_n = a * r^(n-1)",
+      "description": "Used to find the nth term of a geometric progression in JEE Main questions"
+    },
+    {
+      "formula": "S_n = a * (1 - r^n) / (1 - r)",
+      "description": "Used to calculate the sum of the first n terms of a geometric progression"
+    },
+    {
+      "formula": "S_infinity = a / (1 - r)",
+      "description": "Used for the sum of an infinite geometric series when the common ratio is between -1 and 1"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Geometric Progression",
+      "definition": "A sequence where each term is found by multiplying the previous term by a fixed number called the common ratio"
+    },
+    {
+      "term": "Common Ratio",
+      "definition": "The fixed number by which each term of a geometric progression is multiplied to get the next term"
+    }
+  ]
+}

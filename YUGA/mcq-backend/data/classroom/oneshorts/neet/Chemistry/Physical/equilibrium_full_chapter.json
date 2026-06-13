@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Equilibrium",
+    "chapter_number": "7",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:19:51.457429",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts, equilibrium. Equilibrium in chemistry is when the rate of the forward reaction equals the rate of the backward reaction, resulting in no net change in concentration of reactants and products.\n\nFirst, let\u2019s talk about Chemical Equilibrium:\n- It's dynamic in nature, meaning reactions continue to occur, but at an equivalent rate.\n- The key formula here is the Equilibrium Constant (K), which is expressed as:\n  \\[ K_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b} \\] \n  where A, B are reactants; C, D are products; and a, b, c, d are their coefficients in the balanced chemical equation.\n- Kc is used when concentrations are given, whereas Kp is used when partial pressures are provided, linked by the equation:\n  \\[ K_p = K_c(RT)^{\\Delta n} \\] \n- Le Chatelier\u2019s Principle states that if a system at equilibrium is disturbed, it will shift to counteract the disturbance.\n\nIn NEET, questions can involve calculating equilibrium constants, predicting shifts in equilibrium due to changes in concentration, pressure, or temperature, and using Le Chatelier\u2019s Principle.\n\nNow, let's consider Ionic Equilibrium in solutions:\n- Focus on acids, bases, and solubility product (Ksp).\n- Acids and bases are explained using the Bronsted-Lowry concept, where acids donate protons (H+) and bases accept them.\n- The pH scale measures acidity or basicity:\n  \\[ \\text{pH} = -\\log [\\text{H}^+] \\] \n- The Acid Dissociation Constant (Ka) and Base Dissociation Constant (Kb) measure the strength of acids and bases, respectively.\n\nFor ionic equilibrium, concentrations like pH, pKa, and solubility product (Ksp) are often tested.\n\nQuick Revision Summary:\n1. Equilibrium involves forward and reverse reactions at equal rates.\n2. Equilibrium constant (Kc or Kp) is central for calculations.\n3. Le Chatelier\u2019s Principle helps predict changes in equilibrium.\n4. Ionic equilibrium focuses on acids, bases, pH, and solubility.\n5. Practice calculation-based questions, especially with changes in conditions and equilibrium shifts.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Equilibrium",
+    "Equilibrium Constant",
+    "Le Chatelier\u2019s Principle",
+    "Ionic Equilibrium",
+    "Acid-Base",
+    "pH",
+    "Solubility Product",
+    "Kc",
+    "Kp",
+    "Ka",
+    "Kb"
+  ],
+  "formulas": [
+    "K_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}",
+    "K_p = K_c(RT)^{\\Delta n}",
+    "\\text{pH} = -\\log [\\text{H}^+]"
+  ],
+  "definitions": [
+    {
+      "term": "Equilibrium",
+      "definition": "The state in which the rate of the forward reaction equals the rate of the reverse reaction, leading to no net change in the concentrations of reactants and products."
+    },
+    {
+      "term": "Equilibrium Constant (Kc)",
+      "definition": "A number that expresses the ratio of products to reactants at equilibrium for chemicals in solution."
+    },
+    {
+      "term": "Le Chatelier\u2019s Principle",
+      "definition": "A principle stating that if a stress is applied to a system in equilibrium, the system shifts in the direction that relieves the stress."
+    },
+    {
+      "term": "Ionic Equilibrium",
+      "definition": "An equilibrium that involves ions in a solution, often associated with acids and bases."
+    },
+    {
+      "term": "Acid-Base",
+      "definition": "Chemical reactions that occur with the transfer of protons (H+)."
+    },
+    {
+      "term": "pH",
+      "definition": "A scale used to specify how acidic or basic a water-based solution is."
+    },
+    {
+      "term": "Solubility Product (Ksp)",
+      "definition": "A constant for a solid that dissolves in an aqueous solution; represents the product of the solubilities of the ions."
+    },
+    {
+      "term": "Kp",
+      "definition": "Equilibrium constant for gases expressed in terms of partial pressures."
+    },
+    {
+      "term": "Ka",
+      "definition": "The acid dissociation constant, representing the strength of an acid."
+    },
+    {
+      "term": "Kb",
+      "definition": "The base dissociation constant, representing the strength of a base."
+    }
+  ]
+}

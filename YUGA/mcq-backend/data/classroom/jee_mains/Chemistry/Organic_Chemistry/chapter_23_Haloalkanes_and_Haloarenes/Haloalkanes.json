@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "chapter_number": 23,
+    "topic": "Haloalkanes",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:25:51.477391",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Haloalkanes. Haloalkanes are compounds where a halogen atom, like chlorine or bromine, is attached to an alkane chain. Let's start with nomenclature. In naming haloalkanes, we use the halogen name as a prefix. For example, CH3Cl is called chloromethane. If there are multiple halogens, name them in alphabetical order. Now, let's classify them. Haloalkanes can be primary, secondary, or tertiary. This depends on the number of carbon atoms attached to the carbon with the halogen. \n\nNext, let's discuss physical properties. Haloalkanes are generally insoluble in water but soluble in organic solvents. They have higher boiling points than alkanes due to the presence of the halogen. The boiling point increases with the size of the halogen atom. \n\nNow, preparation methods. One common method is free radical halogenation. This involves breaking bonds using light or heat. Another method is from alcohols. Here, alcohols react with halogen acids like HCl to form haloalkanes. \n\nLet's move to reactions. Haloalkanes undergo nucleophilic substitution reactions. There are two main types: SN1 and SN2. In SN1, the reaction happens in two steps. First, the halogen leaves, forming a carbocation. Then, the nucleophile attacks. In SN2, the nucleophile attacks while the halogen leaves, happening in one step. \n\nHaloalkanes also undergo elimination reactions. In these reactions, a hydrogen atom and a halogen atom are removed, forming a double bond. \n\nReactivity and mechanism are important. In SN1, tertiary haloalkanes react faster due to stable carbocations. In SN2, primary haloalkanes react faster because there is less hindrance. \n\nStereochemistry is also key. In SN2 reactions, the configuration inverts, like an umbrella turning inside out. In SN1, the configuration can be retained or inverted. \n\nApplications of haloalkanes are vast. They are used in making refrigerants and solvents. Some are used in medicine as anesthetics. \n\nRemember these key points. SN1 reactions favor more substituted carbons. SN2 reactions favor less hindered carbons. Common mistakes include confusing SN1 and SN2 mechanisms. \n\nTo sum up, haloalkanes are important in organic chemistry and have many uses. Understand the reactions and mechanisms well for JEE Main. That's all for today. Keep practicing and see you next time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Haloalkanes",
+    "Nomenclature",
+    "SN1",
+    "SN2",
+    "Elimination"
+  ],
+  "formulas": [
+    {
+      "formula": "R-OH + HX → R-X + H2O",
+      "description": "Used to prepare haloalkanes from alcohols in JEE Main questions"
+    },
+    {
+      "formula": "R-X + OH- → R-OH + X-",
+      "description": "Represents nucleophilic substitution reaction in SN2"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Haloalkane",
+      "definition": "An alkane with one or more halogen atoms attached."
+    },
+    {
+      "term": "Nucleophilic substitution",
+      "definition": "A reaction where a nucleophile replaces a leaving group in a molecule."
+    }
+  ]
+}

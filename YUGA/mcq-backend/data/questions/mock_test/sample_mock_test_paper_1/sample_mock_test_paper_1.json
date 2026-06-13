@@ -1,0 +1,1290 @@
+[
+    {
+        "id": 81,
+        "question_number": "165",
+        "text": "The mass of a lift is 2000 kg. When the tension in the supporting cable is 28,000 N, then its acceleration is: (g=10 m/s²)",
+        "subject": "Physics",
+        "sub_topic": "Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "30 ms² downwards",
+            "4 ms² upwards",
+            "4 ms² downwards",
+            "14 ms² upwards"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 456,
+        "correct_answer": "4 ms² upwards",
+        "basic_answer": "Use F = ma. The net force is tension minus weight. Weight = mg = 2000 kg × 10 m/s² = 20,000 N. Net force = 28,000 N - 20,000 N = 8000 N. Acceleration, a = F/m = 8000 N / 2000 kg = 4 m/s² upwards. So 4 ms² upwards is correct.",
+        "explanation": "CORE CONCEPT. When we look at the lift, we think about the forces acting on it. The lift has weight, which pulls it down due to gravity, and the cable pulls it up with tension. If the tension is greater than the weight, the lift will accelerate upwards. This is similar to how when you pull a heavy bag upwards, if you pull hard enough, it moves up. Real Life Example: Imagine trying to lift a backpack. If you lift hard enough, it comes off the ground and rises.  STEP BY STEP SOLUTION. \nCalculate the weight of the lift: Weight (W) = mg = 2000 kg × 10 m/s² = 20,000 N. Determine the net force: Net Force (F_net) = Tension (T) - Weight (W) = 28,000 N - 20,000 N = 8000 N. Calculate acceleration using F = ma: a = F_net / mass = 8000 N / 2000 kg = 4 m/s². The direction is up because the tension is greater. WHY THIS ANSWER. The result matches the option of 4 ms² upwards because the lift accelerates up when tension is greater than its weight. Other options are incorrect because they either have the wrong magnitude or direction of acceleration. COMMON MISTAKES. Students often forget to calculate weight properly or mix up the direction of forces. Always check if tension is more or less than weight before deciding on the acceleration direction.",
+        "keywords": {
+            "m/s²": "meters per second squared",
+            "a": "acceleration",
+            "F": "Force",
+            "m": "mass",
+            "T": "Tension",
+            "kg": "kilogram",
+            "m/s": "meters per second",
+            "s²": "second squared",
+            "N": "newton"
+        }
+    },
+    {
+        "id": 82,
+        "question_number": "169",
+        "text": "A wire of resistance 12 Ω is bent to form a complete circle of radius 10 cm. The resistance between its two diametrically opposite points, A and B as shown in the figure, is:",
+        "subject": "Physics",
+        "sub_topic": "Electricity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PAPAER (11)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "id_82.png",
+                "path": "mock_test_paper_1/images/id_82.png",
+                "base64": "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"
+            }
+        ],
+        "options": [
+            "0.6",
+            "3",
+            "61",
+            "6"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 457,
+        "correct_answer": "3",
+        "basic_answer": "The total resistance of the wire is 12 Ω. When the wire is bent into a circle, the two diametrically opposite points divide the circle into two equal semicircles. Each semicircle therefore has resistance 6 Ω. These two 6 Ω resistances lie in parallel between points A and B. Using the parallel resistance formula, the equivalent resistance becomes 3 Ω.",
+        "explanation": "CORE CONCEPT. Resistance of a uniform wire is proportional to its length. When a circular wire is connected between two diametrically opposite points, current can travel through two equal semicircular paths. These two paths act as two resistors connected in parallel.. STEP BY STEP SOLUTION. Total resistance of the circular wire = 12 Ω. Points A and B divide the circle into two equal semicircles. Resistance of each semicircle = 12 / 2 = 6 Ω. 4. These two semicircles form two parallel paths between A and B. 5. For parallel resistances:    1/R = 1/R1 + 1/R2 6. Substitute R1 = 6 Ω and R2 = 6 Ω. 7. 1/R = 1/6 + 1/6 = 2/6 = 1/3. 8. Therefore R = 3 Ω.. FINAL RESULT. The equivalent resistance between the diametrically opposite points A and B is 3 Ω.",
+        "keywords": {
+            "cm": "centimeter",
+            "Ω": "ohm",
+            "R1": "R 1",
+            "R2": "R 2"
+        }
+    },
+    {
+        "id": 83,
+        "question_number": "166",
+        "text": "The number of beta particles emitted by a radioactive substance is twice the number of alpha particles emitted by it. The resulting daughter is an:",
+        "subject": "Physics",
+        "sub_topic": "Nuclear Physics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "isobar of parent",
+            "Isomer of parent",
+            "Isotone of parent",
+            "Isotope of parent"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 458,
+        "correct_answer": "Isotope of parent",
+        "basic_answer": "Let the number of alpha particles emitted be n. Then the number of beta particles emitted is 2n. Each alpha decay decreases atomic number by 2 and mass number by 4, while each beta minus decay increases atomic number by 1 and does not change mass number. Net change in atomic number = -2n + 2n = 0, while mass number decreases by 4n. Thus the daughter has the same atomic number but different mass number, so it is an isotope of the parent.",
+        "explanation": "CORE CONCEPT. Alpha decay emits a helium nucleus (2 protons and 2 neutrons), reducing atomic number by 2 and mass number by 4. Beta minus decay converts a neutron into a proton, increasing atomic number by 1 while mass number remains unchanged.. STEP BY STEP SOLUTION. 1. Let the number of alpha particles emitted = n. 2. Given beta particles emitted = 2n.. Effect of alpha decay: Atomic number change = -2n Mass number change = -4n. Effect of beta decay: Atomic number change = +2n Mass number change = 0. 3. Net change in atomic number:. ΔZ = -2n + 2n = 0. 4. Net change in mass number:. ΔA = -4n. 5. Thus the daughter nucleus has the same atomic number as the parent but a different mass number.. FINAL RESULT. Nuclei with the same atomic number but different mass numbers are called isotopes. Therefore the daughter nucleus is an isotope of the parent.",
+        "keywords": {}
+    },
+    {
+        "id": 84,
+        "question_number": "167",
+        "text": "A rectangular, a square, a circular and an elliptical loop, all in the (x y) plane, are moving out of a uniform magnetic field with a constant velocity. The magnetic field is directed along the negative z axis direction. The induced emf, during the passage of these loops out of the field region will not remain constant for:",
+        "subject": "Physics",
+        "sub_topic": "Electromagnetic Induction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "the rectangular, circular and elliptical loops",
+            "the circular and the elliptical loops",
+            "only the elliptical loop",
+            "any of the four loops"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 459,
+        "correct_answer": "the circular and the elliptical loops",
+        "basic_answer": "Induced emf is given by Faraday’s law: emf = -dΦ/dt = -B(dA/dt) when the magnetic field is uniform. If the loop moves with constant velocity, the induced emf remains constant only when the rate at which the area leaves the magnetic field is constant. For rectangular and square loops this rate is constant, but for circular and elliptical loops it changes continuously. Therefore the emf is not constant for circular and elliptical loops.",
+        "explanation": "CORE CONCEPT. According to Faraday's law, the induced emf in a loop is. emf = - dΦ/dt. For a uniform magnetic field perpendicular to the loop:. Φ = BA. Thus. emf = -B (dA/dt). So the emf depends on how fast the area of the loop inside the magnetic field changes with time.. STEP BY STEP UNDERSTANDING. 1. The loops move out of a uniform magnetic field with constant velocity. 2. Magnetic field B is constant and directed along the negative z axis. 3. The induced emf depends on the rate of change of the area inside the field. 4. If the boundary of the loop crossing the field edge has constant width, then dA/dt remains constant and emf remains constant.. SHAPE ANALYSIS. Rectangular loop: The width of the loop cutting the boundary remains constant → dA/dt constant → emf constant.. Square loop: Same reasoning as rectangle → dA/dt constant → emf constant.. Circular loop: The chord length at the boundary changes as the loop exits → dA/dt varies → emf not constant.. Elliptical loop: The width across the boundary also changes continuously → dA/dt varies → emf not constant.. FINAL RESULT. The induced emf will not remain constant for the circular and the elliptical loops.",
+        "keywords": {}
+    },
+    {
+        "id": 85,
+        "question_number": "170",
+        "text": "The electric field part of an electromagnetic wave in a medium is represented by E_x = 0; E_y = 5 cos[(2π × 10⁶)t −(π × 10⁻²)x] N/C. The wave is",
+        "subject": "Physics",
+        "sub_topic": "Waves",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Moving along y-direction with frequency 21 x 10⁶ Hz and wavelength 200 m.",
+            "Moving along x-direction with frequency 10⁶ Hz and wavelength 100m",
+            "Moving along x-direction with frequency 10⁶ Hz and wavelength 200m",
+            "Moving along x-direction with frequency 10⁶ Hz and wavelength 800m"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 460,
+        "correct_answer": "Moving along x-direction with frequency 10⁶ Hz and wavelength 200m",
+        "basic_answer": "Comparing Ey = 5 cos[(2π × 10⁶)t − (π × 10⁻²)x] with the standard wave equation E = E0 cos(ωt − kx), we identify ω = 2π × 10⁶ and k = π × 10⁻². The frequency is f = ω/(2π) = 10⁶ Hz. The wavelength is λ = 2π/k = 200 m. Since the phase is (ωt − kx), the wave propagates in the positive x direction.",
+        "explanation": "CORE CONCEPT. The electric field of a plane electromagnetic wave can be written as:. E = E0 cos(ωt − kx). where ω is the angular frequency and k is the wave number. The frequency and wavelength are related by:. f = ω/(2π) λ = 2π/k. A phase of the form (ωt − kx) indicates that the wave travels in the positive x direction.. STEP BY STEP SOLUTION. Given: Ey = 5 cos[(2π × 10⁶)t − (π × 10⁻²)x]. Comparing with E = E0 cos(ωt − kx):. ω = 2π × 10⁶ rad/s k = π × 10⁻² m⁻¹. Frequency:. f = ω/(2π). f = (2π × 10⁶)/(2π). f = 10⁶ Hz. Wavelength:. λ = 2π/k. λ = 2π/(π × 10⁻²). λ = 200 m. Direction:. The term (ωt − kx) shows that the wave propagates in the positive x direction.. FINAL RESULT. The electromagnetic wave moves along the x direction with frequency 10⁶ Hz and wavelength 200 m.",
+        "keywords": {
+            "Hz": "hertz",
+            "x-direction": "x minus d i r e c t i o n",
+            "y-direction": "y minus d i r e c t i o n",
+            "m⁻¹": "m powered minus 1",
+            "E0": "E 0"
+        }
+    },
+    {
+        "id": 86,
+        "question_number": "168",
+        "text": "A particle starts its motion from rest under the action of a constant force. If the distance covered in the first 10 sec is S₁ and that covered in the first 20 sec is S₂, then",
+        "subject": "Physics",
+        "sub_topic": "Kinematics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "S₂ = 2S₁",
+            "S₂ = 3S₁",
+            "S₂ = 4S₁",
+            "S₂ = S₁"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 461,
+        "correct_answer": "S₂ = 4S₁",
+        "basic_answer": "When a particle moves from rest under a constant force, it speeds up uniformly. The distance covered is directly related to the square of the time. In the first 10 seconds, the distance is S₁. In the first 20 seconds, it covers more distance, specifically 4 times S₁. So we say S₂ = 4S₁ is correct.",
+        "explanation": "CORE CONCEPT. When an object starts from rest and moves under a constant force, it accelerates uniformly. The distance covered in a given time can be calculated using the formula: Distance = 1/2 × Acceleration × Time². As time increases, the distance increases with the square of the time.. Real Life Example: Think of a car that starts from a stoplight. At first, it goes slow, but as time passes, it speeds up more and more. After 20 seconds, it covers much more ground than it did in the first 10 seconds..  STEP BY STEP SOLUTION. For the first 10 seconds: S₁ = 1/2 × a × (10)² = 50a. For the first 20 seconds: S₂ = 1/2 × a × (20)² = 200a. Now if we compare S₂ and S₁: S₂ = 4 × S₁ (because 200a = 4 × 50a)..  WHY THIS ANSWER. We found S₂ = 4S₁ by using the time squared relationship. This matches option C, which states S₂ = 4S₁. Other options are incorrect because they do not follow the proper relationship of uniform acceleration..  COMMON MISTAKES. A common mistake is thinking that the distance covered in equal time intervals is the same. Students might assume linear growth instead of recognizing that distance grows with the square of time during uniform acceleration. To avoid this, always remember the formula and that time squared plays a key role.",
+        "keywords": {
+            "Time²": "T i m e powered 2",
+            "S₁": "S 1",
+            "S₂": "S 2"
+        }
+    },
+    {
+        "id": 87,
+        "question_number": "172",
+        "text": "A transistor is operated in common emitter configuration at Vc = 2 V such that a change in the base current from 100 μA to 200 μA produces a change in the collector current from 5 mA to 10 mA. The current gain is:",
+        "subject": "Physics",
+        "sub_topic": "Transistors",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 21,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "75",
+            "100",
+            "150",
+            "50"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 462,
+        "correct_answer": "50",
+        "basic_answer": "In common emitter configuration, the current gain (β) is defined as β = ΔIc / ΔIb. The collector current changes from 5 mA to 10 mA, so ΔIc = 5 mA. The base current changes from 100 μA to 200 μA, so ΔIb = 100 μA. Converting 5 mA to microampere gives 5000 μA. Therefore, β = 5000 / 100 = 50.",
+        "explanation": "CORE CONCEPT. In a transistor operating in common emitter configuration, the current gain (β) is defined as the ratio of change in collector current to the change in base current. β = ΔIc / ΔIb. STEP BY STEP SOLUTION. \nCollector current changes from 5 mA to 10 mA.    ΔIc = 10 mA − 5 mA = 5 mA\nBase current changes from 100 μA to 200 μA.    ΔIb = 200 μA − 100 μA = 100 μA\nConvert ΔIc to the same unit as ΔIb:    5 mA = 5000 μA\nCalculate current gain:    β = ΔIc / ΔIb    β = 5000 / 100 = 50. WHY THIS ANSWER. The collector current increases 50 times the change in base current, so the current gain of the transistor in common emitter configuration is 50. COMMON MISTAKES. Students often forget to convert mA to μA before calculating the ratio. Also, the question originally contained a unit error: the base current should be written as μA, not A.",
+        "keywords": {
+            "mA": "milliampere",
+            "μA": "microampere",
+            "β": "beta",
+            "V": "volt",
+            "μ": "mu",
+            "Δ": "delta"
+        }
+    },
+    {
+        "id": 88,
+        "question_number": "176",
+        "text": "The internal energy change in a system that has absorbed 2 kcal of heat and done 500 J of work is:",
+        "subject": "Physics",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 21,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "8900 J",
+            "6400 J",
+            "5400 J",
+            "7900 J"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 463,
+        "correct_answer": "7900 J",
+        "basic_answer": "Using the first law of thermodynamics, ΔU = Q − W. The system absorbs 2 kcal of heat and performs 500 J of work. Converting heat into joules and applying the formula gives ΔU ≈ 7900 J.",
+        "explanation": "CORE CONCEPT. The first law of thermodynamics states: ΔU = Q − W. where Q is the heat supplied to the system and W is the work done by the system. If the system absorbs heat, Q is positive. If the system performs work, W is subtracted from the internal energy.. STEP BY STEP SOLUTION. 1. Heat absorbed: Q = 2 kcal. 2. Convert kcal to joules:    1 kcal = 4184 J    Q = 2 × 4184 = 8368 J. 3. Work done by the system: W = 500 J. 4. Apply the first law:    ΔU = Q − W    ΔU = 8368 − 500    ΔU = 7868 J.. 5. Rounding to the nearest option:    ΔU ≈ 7900 J.. WHY THIS ANSWER. The internal energy increases because the system absorbs heat. However, some energy is lost as work done by the system. The remaining energy increases the internal energy to approximately 7900 J.. COMMON MISTAKES. Students often forget to convert kcal into joules or use the wrong sign for work. Work done by the system must be subtracted in the equation ΔU = Q − W.",
+        "keywords": {}
+    },
+    {
+        "id": 89,
+        "question_number": "174",
+        "text": "A student measures the terminal potential difference (V) of a cell (of emf E and internal resistance r) as a function of the current (I) flowing through it. The slope and intercept of the graph between V and I, respectively, equal to:",
+        "subject": "Physics",
+        "sub_topic": "Electromotive Force",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 21,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "E and -r",
+            "-r and E",
+            "r and -E",
+            "-E and r"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 464,
+        "correct_answer": "-r and E",
+        "basic_answer": "The relation between terminal potential difference and current is V = E − rI. When V is plotted against I, the equation is in the form y = mx + c. Therefore, the slope is −r and the intercept is E.",
+        "explanation": "CORE CONCEPT. The terminal potential difference of a cell is given by the equation: V = E − rI. where E is the emf of the cell, r is the internal resistance, and I is the current. This equation shows that the terminal voltage decreases linearly as current increases due to the voltage drop across the internal resistance.. STEP BY STEP SOLUTION. 1. Write the relation: V = E − rI. 2. Compare it with the straight line form y = mx + c. 3. Here, V corresponds to y and I corresponds to x. 4. Therefore:    - Slope (m) = −r    - Intercept (c) = E. WHY THIS ANSWER. The graph of V versus I is a straight line with negative slope because increasing current causes a voltage drop across the internal resistance. The intercept represents the emf E when current is zero.. COMMON MISTAKES. Students sometimes reverse the order of slope and intercept or forget the negative sign associated with internal resistance. The slope must be −r because voltage decreases as current increases.",
+        "keywords": {}
+    },
+    {
+        "id": 90,
+        "question_number": "178",
+        "text": "The driver of a car travelling with speed 30 m/s towards a hill sounds a horn of frequency 600 Hz. If the velocity of sound in air is 330 m/s the frequency of reflected sound as heard by the driver is:",
+        "subject": "Physics",
+        "sub_topic": "Sound Waves",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 21,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "550 Hz",
+            "555.5 Hz",
+            "720 Hz",
+            "500 Hz"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 465,
+        "correct_answer": "720 Hz",
+        "basic_answer": "When sound reflects from a stationary object, the Doppler effect occurs twice: first when the moving source approaches the hill and second when the reflected sound is heard by the moving observer. The resulting frequency is 720 Hz.",
+        "explanation": "CORE CONCEPT. In echo problems involving a moving source and stationary reflector, Doppler shift occurs twice: 1. Between the moving source and the reflector. 2. Between the reflected wave and the moving observer.. STEP BY STEP SOLUTION. Given: Source frequency f = 600 Hz Speed of sound v = 330 m/s Speed of car = 30 m/s. First Doppler shift (source moving toward hill):. f1 = f × v/(v − vs). f1 = 600 × 330/(330 − 30). f1 = 600 × 330/300. f1 = 660 Hz. Second Doppler shift (driver moving toward reflected sound):. f' = f1 × (v + vo)/v. f' = 660 × (330 + 30)/330. f' = 660 × 360/330. f' = 720 Hz. WHY THIS ANSWER. The driver hears a higher frequency because both Doppler shifts increase the frequency as the car moves toward the hill.. COMMON MISTAKES. Students often apply the Doppler formula only once. In echo problems, the Doppler effect must be applied twice.",
+        "keywords": {
+            "m/s": "meters per second",
+            "Hz": "hertz",
+            "f1": "f 1"
+        }
+    },
+    {
+        "id": 132,
+        "question_number": "135",
+        "text": "How many stereoisomers does this molecule have?  CH₃–CH=CH–CH₂–CHBr–CH₃",
+        "subject": "Chemistry",
+        "sub_topic": "Stereochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 16,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "4",
+            "6",
+            "8",
+            "2"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 16,
+            "type": "MCQ"
+        },
+        "original_id": 598,
+        "correct_answer": "4",
+        "basic_answer": "Stereoisomers arise from double bond geometrical isomerism and chiral centers. In CH₃–CH=CH–CH₂–CHBr–CH₃, the double bond (C2=C3) shows E/Z isomerism, giving 2 possibilities. Carbon 5 (CHBr) is a chiral center with four different groups, giving 2 configurations (R and S). Therefore, total stereoisomers = 2 × 2 = 4. Hence, the correct answer is 4.",
+        "explanation": "CORE CONCEPT. Stereoisomers are compounds with the same molecular formula and connectivity but different spatial arrangements of atoms. They arise mainly from two sources: chiral centers (optical isomerism) and restricted rotation around double bonds (geometrical or E/Z isomerism). Each independent stereogenic element generally doubles the number of possible stereoisomers..  STEP BY STEP SOLUTION. 1. Consider the molecule: CH₃–CH=CH–CH₂–CHBr–CH₃.. 2. Check for geometrical isomerism. The double bond between C2 and C3 has two different groups on each carbon (H/CH₃ and H/CH₂CHBrCH₃), so it shows E/Z isomerism. This gives 2 possible configurations.. 3. Identify chiral centers. Carbon 5 (CHBr) is attached to four different groups: Br, H, CH₃, and CH₂–CH=CH–CH₃. Therefore, it is a chiral center and can exist in two configurations (R and S).. 4. Multiply independent stereogenic elements. E/Z isomerism = 2 Chiral center = 2 Total stereoisomers = 2 × 2 = 4..  WHY THIS ANSWER. The molecule contains one double bond capable of E/Z isomerism and one chiral center capable of optical isomerism. These act independently, producing four distinct stereoisomers..  COMMON MISTAKES. Students often incorrectly count additional chiral centers or assume that every carbon near a double bond is stereogenic. Careful identification of stereogenic elements is required before applying the 2ⁿ rule.",
+        "keywords": {
+            "CH₂": "C H 2",
+            "CH₃": "C H 3",
+            "C2": "C 2",
+            "C3": "C 3",
+            "CH₂CHBrCH₃": "C H 2 C H B r C H 3"
+        }
+    },
+    {
+        "id": 133,
+        "question_number": "137",
+        "text": "Four diatomic species are listed below in different sequences. Which of these presents the correct order of their increasing bond order?",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Bonding",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 16,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "O₂⁻ < NO < C₂²⁻ < He₂⁺",
+            "NO < C₂²⁻ < O₂⁻ < He₂⁺",
+            "C₂²⁻ < He₂²⁺ < NO < O₂⁻",
+            "He₂⁺ < O₂⁻ < NO < C₂²⁻"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 16,
+            "type": "MCQ"
+        },
+        "original_id": 600,
+        "correct_answer": "He₂⁺ < O₂⁻ < NO < C₂²⁻",
+        "basic_answer": "Bond order indicates the strength of a bond between two atoms. A higher bond order means a stronger and shorter bond. For these species, the bond orders are: He₂⁺ (0.5), O₂⁻ (1.5), NO (2.5), and C₂²⁻ (3). Arranging them in increasing order of bond order gives: He₂⁺ < O₂⁻ < NO < C₂²⁻. Therefore, the correct option is D.",
+        "explanation": "CORE CONCEPT Bond order represents the strength of a bond between two atoms and is calculated using Molecular Orbital theory.. Bond Order = (Number of bonding electrons − Number of antibonding electrons) / 2 . . A higher bond order means a stronger and shorter bond.. STEP BY STEP SOLUTION.  Calculate bond order for each species using molecular orbital theory..  He₂⁺: Total electrons = 3 . Configuration: σ1s² σ*1s¹ Bond order = (2 − 1) / 2 = 0.5.  O₂⁻: O₂ normally has bond order 2. Adding one electron places it in an antibonding orbital. Bond order = (8 − 5) / 2 = 1.5 ..  NO: Total electrons = 15 Bond order = (8 − 3) / 2 = 2.5 ..  C₂²⁻: Total electrons = 14 Configuration: σ2s² σ*2s² π2p⁴ σ2p² Bond order = (8 − 2) / 2 = 3 .. Thus, increasing bond order: He₂⁺ (0.5) < O₂⁻ (1.5) < NO (2.5) < C₂²⁻ (3) .. Therefore option D is correct.. WHY THIS ANSWER The order follows increasing bond order calculated using molecular orbital theory, which directly reflects increasing bond strength.. COMMON MISTAKES  Estimating bond order using Lewis structures instead of molecular orbital theory.  Forgetting that electrons entering antibonding orbitals decrease bond order.  Ignoring the extra electrons in ions such as O₂⁻ or C₂²⁻.",
+        "keywords": {
+            "He₂²⁺": "H e ₂ 2 plus",
+            "C₂²⁻": "C ₂ 2 minus",
+            "He₂⁺": "H e ₂ plus",
+            "O₂⁻": "O ₂ minus",
+            "O₂": "O 2"
+        }
+    },
+    {
+        "id": 134,
+        "question_number": "138",
+        "text": "Bond dissociation enthalpy of H2, Cl2 and HCl are 434, 242 and 431 kJ mol-1 respectively. Enthalpy of formation of HCl is",
+        "subject": "Chemistry",
+        "sub_topic": "Thermochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 17,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "93 kJ mol-1",
+            "-245 kJ mol-1",
+            "-93 kJ mol-1",
+            "245 kJ mol-1"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 601,
+        "correct_answer": "-93 kJ mol-1",
+        "basic_answer": "To determine the enthalpy of formation of HCl, bond dissociation enthalpies are used. Hydrogen and chlorine molecules first dissociate into atoms and then combine to form HCl. The relation used is:. ΔH = Σ(Bond dissociation enthalpies of bonds broken) − Σ(Bond dissociation enthalpies of bonds formed).. Bonds broken: H₂ → 2H  Bond enthalpy = 434 kJ mol⁻¹ Cl₂ → 2Cl Bond enthalpy = 242 kJ mol⁻¹. Bonds formed: 2H + 2Cl → 2HCl Bond enthalpy of H–Cl = 431 kJ mol⁻¹. Substituting values:. ΔH = (434 + 242 − 2 × 431) kJ mol⁻¹. ΔH = 676 − 862. ΔH = −186 kJ mol⁻¹. This corresponds to the formation of 2 mol of HCl. Therefore, for 1 mol of HCl:. ΔH = −186/2 = −93 kJ mol⁻¹.",
+        "explanation": "CORE CONCEPT. Enthalpy of formation (ΔHᶠ) is the enthalpy change when one mole of a compound is formed from its constituent elements in their standard states. Bond dissociation enthalpy represents the energy required to break one mole of a bond in gaseous molecules.. The enthalpy change of a reaction can be estimated using bond enthalpies:. ΔH = Σ(Bond enthalpies of bonds broken) − Σ(Bond enthalpies of bonds formed).. STEP BY STEP SOLUTION. Reaction for formation:. H₂(g) + Cl₂(g) → 2HCl(g). 1. Bonds broken:. H–H bond energy = 434 kJ mol⁻¹ Cl–Cl bond energy = 242 kJ mol⁻¹. Total energy absorbed = 434 + 242 = 676 kJ mol⁻¹. 2. Bonds formed:. Two H–Cl bonds are formed.. Bond energy of H–Cl = 431 kJ mol⁻¹ Energy released = 2 × 431 = 862 kJ mol⁻¹. 3. Net enthalpy change:. ΔH = 676 − 862. ΔH = −186 kJ mol⁻¹. This corresponds to the formation of 2 mol of HCl.. 4. Enthalpy of formation of 1 mol HCl:. ΔHᶠ = −186 / 2 = −93 kJ mol⁻¹. WHY THIS ANSWER. The calculation accounts for the energy required to break H–H and Cl–Cl bonds and the energy released when H–Cl bonds form. After adjusting for one mole of HCl, the enthalpy of formation equals −93 kJ mol⁻¹.. COMMON MISTAKES. Common errors include forgetting that two HCl molecules form in the reaction, not multiplying the H–Cl bond energy by 2, or not converting the final value to the enthalpy for one mole of HCl.",
+        "keywords": {
+            "mol-1": "m o l powered minus 1",
+            "mol⁻¹": "m o l powered minus 1",
+            "Cl2": "C l 2",
+            "Cl₂": "C l 2",
+            "H2": "H 2",
+            "H₂": "H 2"
+        }
+    },
+    {
+        "id": 135,
+        "question_number": "139",
+        "text": "The dissociation equilibrium of a gas AB₂ can be represented as:. 2AB₂(g) ⇌ 2AB(g) + B₂(g). The degree of dissociation is x and is small compared to 1. The expression relating the degree of dissociation (x) with equilibrium constant Kₚ and total pressure p is:",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Equilibrium",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 17,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "(2Kₚ/p)",
+            "(2Kₚ/p)¹ᐟ³",
+            "(2Kₚ/p)¹ᐟ²",
+            "(Kₚ/p)"
+        ],
+        "metadata": {
+            "source": "questions/PAPAER (12).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 602,
+        "correct_answer": "(2Kₚ/p)¹ᐟ²",
+        "basic_answer": "The degree of dissociation of the gas AB₂ is denoted by x. For small x, it can be related to the equilibrium constant Kₚ and the total pressure p using the equilibrium constant expression. Therefore, x = (2Kₚ/p)¹ᐟ².",
+        "explanation": "CORE CONCEPT. Dissociation equilibrium occurs when a compound splits into simpler substances while the forward and reverse reactions proceed simultaneously. In this system, the gas AB₂ dissociates according to:. 2AB₂(g) ⇌ 2AB(g) + B₂(g). The degree of dissociation (x) represents the fraction of AB₂ molecules that dissociate at equilibrium. When x is very small compared to 1, higher order terms of x can be neglected, simplifying the equilibrium expression.. STEP BY STEP SOLUTION. 1. Consider the reaction:. 2AB₂(g) ⇌ 2AB(g) + B₂(g). 2. Let the initial pressure of AB₂ be p.. 3. At equilibrium:. AB₂ → p(1 − x) AB → px B₂ → (px)/2. 4. Write the equilibrium constant expression in terms of partial pressures:. Kₚ = (P_AB² × P_B₂) / (P_AB₂²). 5. Substituting equilibrium pressures and simplifying while neglecting higher powers of x (since x ≪ 1) gives:. x = (2Kₚ/p)¹ᐟ². WHY THIS ANSWER. This expression correctly relates the degree of dissociation with the equilibrium constant Kₚ and total pressure p when the dissociation is small.. COMMON MISTAKES. Errors often occur when the total pressure relation is ignored or when the approximation x ≪ 1 is not applied correctly during simplification.",
+        "keywords": {
+            "AB²": "A B powered 2",
+            "AB₂": "A B 2",
+            "B₂": "B 2",
+            "AB₂²": "A B 2 powered 2"
+        }
+    },
+    {
+        "id": 136,
+        "question_number": "140",
+        "text": "A strong base can abstract an α-hydrogen from",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Aldehydes and Ketones",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 17,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "alkene",
+            "amine",
+            "ketone",
+            "alkane"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 603,
+        "correct_answer": "ketone",
+        "basic_answer": "A strong base can remove an α-hydrogen from ketones. This means that ketones have hydrogen atoms that are easy to remove. The presence of the carbonyl group (C=O) makes these hydrogens acidic. This is why ketones are reactive in chemical reactions with strong bases.",
+        "explanation": "CORE CONCEPT. A strong base is a substance that can accept protons (H+ ions) or donate electrons. In organic chemistry, some hydrogen atoms connected to carbon atoms are more acidic due to nearby functional groups. In the case of ketones, the carbonyl group (C=O) pulls electron density away, making the adjacent hydrogens easier to remove.. Real Life Example: Think of a strong base like a powerful magnet that can pull a weak metal near it. The α-hydrogens in ketones are like weakly held metals, susceptible to the strong pull of strong bases..  STEP BY STEP SOLUTION. 1. Identify the functional group: Ketones have a carbonyl group (C=O) with an α-carbon next to it.   2. Determine the acidity: The hydrogen attached to the α-carbon is weakly acidic because of the carbonyl's influence. 3. Understand the reaction: A strong base can abstract, or remove, this α-hydrogen (H) from the ketone. This is a key step in many reactions like the aldol condensation..  WHY THIS ANSWER. Ketones are indeed the correct answer because they have α-hydrogens that can be removed by strong bases. In contrast, alkenes, amines, and alkanes do not have suitable α-hydrogens for this reaction under normal conditions..  COMMON MISTAKES. A common mistake is to assume that all organic compounds can have hydrogen removed by bases. However, the key lies in the structure of the compound and the presence of functional groups. Make sure to recognize the acidic nature of α-hydrogens in carbonyl compounds specifically.",
+        "keywords": {
+            "H+": "H plus"
+        }
+    },
+    {
+        "id": 137,
+        "question_number": "144",
+        "text": "Which one of the following statements is not true?",
+        "subject": "Chemistry",
+        "sub_topic": "Polymer Chemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 17,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "In vulcanisation, the formation of sulphur bridges between different chains makes rubber harder and stronger",
+            "Natural rubber has the trans configuration at every double bond",
+            "Buna S is a copolymer of butadiene and styrene",
+            "Natural rubber is a 1,4 polymer of isoprene"
+        ],
+        "metadata": {
+            "source": "questions/PAPAER (12).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 605,
+        "correct_answer": "Natural rubber has the trans configuration at every double bond",
+        "basic_answer": "Natural rubber is composed of cis-1,4-polyisoprene. The double bonds in natural rubber have the cis configuration, which gives the polymer its elastic nature. Therefore the statement that natural rubber has the trans configuration at every double bond is incorrect.",
+        "explanation": "CORE CONCEPT. Natural rubber is a polymer obtained from isoprene (2-methyl-1,3-butadiene). During polymerisation, the monomers join mainly through 1,4 addition to produce cis-1,4-polyisoprene. The cis arrangement of substituents allows the polymer chains to coil and stretch easily, producing elasticity.. Vulcanisation is a process in which sulphur forms cross links between polymer chains of rubber. These sulphur bridges increase the strength, elasticity, and durability of rubber.. SOLUTION. Evaluate each statement.. 1. In vulcanisation, sulphur bridges form between polymer chains, increasing hardness and strength. This statement is correct.. 2. Natural rubber has the trans configuration at every double bond. This statement is incorrect because natural rubber has cis configuration.. 3. Buna S is produced by copolymerisation of 1,3 butadiene and styrene. This statement is correct.. 4. Natural rubber is a 1,4 polymer of isoprene. This statement is correct.. WHY THIS ANSWER. Natural rubber consists of cis-1,4-polyisoprene. The statement claiming trans configuration contradicts the known structure of natural rubber, so it is the incorrect statement.. COMMON MISTAKES. Confusing cis and trans configurations of polyisoprene. Cis configuration produces elastic natural rubber, while trans configuration forms a more rigid material such as gutta percha.",
+        "keywords": {
+            "methyl-1": "m e t h y l minus 1",
+            "cis-1": "c i s minus 1"
+        }
+    },
+    {
+        "id": 138,
+        "question_number": "154",
+        "text": "In which of the following coordination entities will the magnitude of Δ₀ (crystal field splitting in an octahedral field) be maximum? (Atomic number of Co = 27)",
+        "subject": "Chemistry",
+        "sub_topic": "Coordination Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 19,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "[Co(H₂O)₆]³⁺",
+            "[Co(NH₃)₆]³⁺",
+            "[Co(CN)₆]³⁻",
+            "[Co(C₂O₄)₃]³⁻"
+        ],
+        "metadata": {
+            "source": "questions/PAPAER (12).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 607,
+        "correct_answer": "[Co(CN)₆]³⁻",
+        "basic_answer": "The magnitude of octahedral crystal field splitting (Δ₀) depends on ligand strength according to the spectrochemical series. CN⁻ is a very strong field ligand and produces the largest splitting of d orbitals. Therefore the complex [Co(CN)₆]³⁻ shows the maximum Δ₀.",
+        "explanation": "CORE CONCEPT. In coordination compounds, the d orbitals of a metal ion split into two sets in an octahedral field: t₂g and e_g. The energy difference between these sets is called octahedral crystal field splitting (Δ₀).. The magnitude of Δ₀ depends mainly on the strength of the ligand. According to the spectrochemical series:. CN⁻ > NH₃ > C₂O₄²⁻ > H₂O. Strong field ligands produce larger splitting of d orbitals and therefore larger Δ₀.. SOLUTION. Central metal: Co (Z = 27). For Co³⁺ configuration:. Co: [Ar]3d⁷4s² Co³⁺: 3d⁶. The magnitude of Δ₀ depends on the ligand field strength.. Compare ligands present in the complexes:. H₂O → weak field ligand NH₃ → stronger than H₂O C₂O₄²⁻ → moderate field ligand CN⁻ → very strong field ligand. Since CN⁻ is the strongest ligand among the given options, it produces the largest splitting of d orbitals.. Therefore the complex with maximum Δ₀ is:. [Co(CN)₆]³⁻. WHY THIS ANSWER. The magnitude of crystal field splitting increases with ligand field strength. CN⁻ lies at the strong field end of the spectrochemical series, so the complex [Co(CN)₆]³⁻ has the maximum Δ₀.. COMMON MISTAKES. Students often assume NH₃ produces the largest splitting. However CN⁻ is significantly stronger in the spectrochemical series and gives a larger crystal field splitting.",
+        "keywords": {
+            "C₂O₄²⁻": "C ₂ O ₄ 2 minus",
+            "Co³⁺": "C o 3 plus",
+            "CN⁻": "C N minus",
+            "H₂O": "H 2 O",
+            "NH₃": "N H 3",
+            "t₂g": "t 2 g"
+        }
+    },
+    {
+        "id": 140,
+        "question_number": "106",
+        "text": "Identify the incorrect statement among the following:",
+        "subject": "Chemistry",
+        "sub_topic": "Periodic Table",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 10,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "There is a decrease in the radii of the atoms or ions as one proceeds from La to Lu.",
+            "Lanthanoid contraction is the accumulation of successive shrinkages",
+            "As a result of lanthanoid contraction, the properties of 4d series of the transition elements have no similarities with the 5d series of elements",
+            "Shielding power of 4f electrons is quite weak."
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 10,
+            "type": "MCQ"
+        },
+        "original_id": 741,
+        "correct_answer": "As a result of lanthanoid contraction, the properties of 4d series of the transition elements have no similarities with the 5d series of elements",
+        "basic_answer": "Lanthanoid contraction means the atoms get smaller as we go from La to Lu. This happens due to the poor shielding of the nucleus by f electrons. Statement C is incorrect because the properties of 4d and 5d series are similar. Other statements A, B, and D are correct regarding lanthanoid contraction.",
+        "explanation": "CORE CONCEPT. Lanthanoid contraction refers to the gradual decrease in size of lanthanide elements from lanthanum (La) to lutetium (Lu). This contraction occurs because the 4f electrons do not shield the nucleus well. As a result, the attraction between the nucleus and the other electrons increases, causing a decrease in atomic size.   Real Life Example: Think of it like a stronger magnet pulling metal objects closer as its field gets more focused. The more focused the field, the closer and tighter the objects come to it..  STEP BY STEP SOLUTION. When going from La to Lu, each element has more protons and electrons. As we add f electrons, the effective shielding does not increase sufficiently to counteract the added positive charge from the protons. Therefore, the atoms get smaller in size. Statement C claims that properties of 4d and 5d elements are very different due to lanthanoid contraction, which is not true as the d block elements show similarities..  WHY THIS ANSWER. Statement C is incorrect because, despite the lanthanoid contraction, the 4d and 5d series still have similar properties in many cases, contrasting with the claims made. Statements A, B, and D correctly outline the behavior and effects of lanthanoid contraction..  COMMON MISTAKES. A common mistake is assuming that lanthanoid contraction completely alters the properties between different series. Students might also misinterpret shielding effects, believing that more f electrons lead to better shielding, which is actually the opposite. It's essential to remember that 4f electrons are poor at shielding and that this directly influences atomic size and properties.",
+        "keywords": {}
+    },
+    {
+        "id": 141,
+        "question_number": "107",
+        "text": "Which of the following oxidation states are the most characteristic for lead and tin respectively?",
+        "subject": "Chemistry",
+        "sub_topic": "Inorganic Chemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 10,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "+4, +2",
+            "+2, +4",
+            "+4, +4",
+            "+2, +2"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 10,
+            "type": "MCQ"
+        },
+        "original_id": 742,
+        "correct_answer": "+4, +2",
+        "basic_answer": "Lead commonly has oxidation states of +2 and +4, but +2 is more stable. Tin has +2 and +4 oxidation states too, but +2 is more typical for it. Therefore, for lead, +4 is characteristic and for tin, +2 is characteristic.",
+        "explanation": "CORE CONCEPT. Oxidation states show how many electrons an element can lose, gain, or share. For lead (Pb), the +4 oxidation state is common, but it often exists in the +2 state because it is more stable. Tin (Sn) also has +2 and +4 states, with +2 being more frequently seen.. Real Life Example: Think of lead like a person who can wear two types of hats (2 states), but prefers the more comfortable and familiar one (the +2 state). Tin is like someone who has the option to wear one of two hats but often sticks with the lighter one (the +2 state)..  STEP BY STEP SOLUTION. 1. Lead +4 state occurs in some compounds like lead(IV) oxide, but lead(II) compounds are more common. 2. For Tin, the +2 state is more stable in most of its compounds, like in tin(II) chloride. 3. In conclusion, lead's stable state is +4 but the most characteristic state is +2, while tin's most common and characteristic state is +2..  WHY THIS ANSWER. The correct option is +4 for lead and +2 for tin. Lead commonly shows +2 in many reactions, while for tin, +2 is more reliable due to its chemistry. Thus, +4 for lead and +2 for tin is the most accurate pairing..  COMMON MISTAKES. A common mistake is mixing up the oxidation states, especially thinking that the higher state is always more characteristic. Remember that stability can often lead to a more predominant state. Focus on how the atoms behave in their most stable compounds.",
+        "keywords": {}
+    },
+    {
+        "id": 142,
+        "question_number": "108",
+        "text": "If there is no rotation of plane polarized light by a compound in a specific solvent, thought to be chiral, it may mean that:",
+        "subject": "Chemistry",
+        "sub_topic": "Stereochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (13)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "the compound is certainly a chiral",
+            "the compound is certainly meso",
+            "there is no compound in the solvent",
+            "the compound may be a recemic mixture"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (13).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 743,
+        "correct_answer": "the compound may be a recemic mixture",
+        "basic_answer": "If plane polarized light is not rotated by a compound in a solvent, it might mean that the compound is a racemic mixture. A racemic mixture contains equal amounts of left handed and right handed molecules. This balance leads to no net rotation of light. Thus, it's not chiral overall.",
+        "explanation": "CORE CONCEPT. Chirality is when a molecule is not superimposable on its mirror image, much like left and right hands. Some compounds can have two forms: one that rotates light clockwise and another that rotates it counterclockwise. When these two types are present in equal amounts, they cancel each other out.. Real Life Example: Think of mixing red and blue paint in equal amounts. The result is purple, as the colors cancel each other out. Similarly, a racemic mixture cancels out the light rotation due to equal chiral molecules..  STEP BY STEP SOLUTION. Since no rotation of polarized light occurs, it means the solution does not show optical activity. This lack of rotation can happen if there is a balance of chiral forms. A racemic mixture contains both forms; thus, it shows no net rotation of light..  WHY THIS ANSWER. Since there is no rotation of light, it implies that there are equal amounts of both chiral forms present, suggesting a racemic mixture. The other options are incorrect because: (A) a chiral molecule would rotate the light; (B) a meso compound typically has an internal plane of symmetry and can exhibit no rotation but is specific; (C) we cannot conclude there's no compound without further evidence..  COMMON MISTAKES. Students might think that no rotation means there is no compound at all. This is wrong since a racemic mixture can exist and lead to no net optical activity. Also, confusing chiral and achiral concepts can lead to wrong choices.",
+        "keywords": {}
+    },
+    {
+        "id": 100,
+        "question_number": "8",
+        "text": "Ringworm in humans is caused by",
+        "subject": "Botany",
+        "sub_topic": "Pathology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 1,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "bacteria",
+            "fungi",
+            "nematodes",
+            "viruses"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 166,
+        "correct_answer": "fungi",
+        "basic_answer": "Ringworm is a skin infection caused by fungi, not bacteria, viruses, or nematodes. It appears as red, itchy, scaly patches on the skin. Fungi thrive in warm, moist conditions. This is why it's important to keep your skin dry and clean to avoid such infections.",
+        "explanation": "CORE CONCEPT. Ringworm is a skin infection that is caused by fungi. Fungi are living organisms, similar to plants but usually microscopic. They thrive in warm and moist environments. When they infect the skin, they cause redness, itching, and sometimes flaking. Real Life Example: Think of how mold grows in damp areas of your home; similarly, fungi can grow on our skin in damp conditions..  STEP BY STEP SOLUTION. In this case, we are identifying the cause of a disease. We look at the options provided: bacteria, fungi, nematodes, and viruses. We know that ringworm is a fungal infection, which means fungi are the correct choice. Other options don't typically cause such skin infections..  WHY THIS ANSWER. Fungi are responsible for causing ringworm, which is why 'fungi' is the correct answer. The other options, such as bacteria and viruses, usually cause different types of infections. Nematodes are a type of worm and are unrelated to skin infections like ringworm..  COMMON MISTAKES. A common mistake is to confuse ringworm with a bacterial infection, leading to the wrong choice of 'bacteria'. To avoid this mistake, it's essential to study the characteristics of different pathogens and remember that ringworm is specifically caused by fungi.",
+        "keywords": {}
+    },
+    {
+        "id": 101,
+        "question_number": "1",
+        "text": "Keel is characteristic of the flowers of:",
+        "subject": "Botany",
+        "sub_topic": "Flower Morphology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Gulmohur",
+            "Cassia",
+            "Calotropis",
+            "Bean"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 167,
+        "correct_answer": "Bean",
+        "basic_answer": "Keel is a characteristic feature of papilionaceous flowers found in plants of the Fabaceae family such as bean. The keel is formed by the fusion of two lower petals that enclose the reproductive organs. Therefore, the correct answer is bean.",
+        "explanation": "CORE CONCEPT\n\nIn papilionaceous flowers of the Fabaceae family, the corolla consists of five petals arranged as standard (vexillum), two wings, and two fused petals forming the keel. The keel encloses the stamens and pistil and plays an important role in pollination.\n\nReal Life Example: Flowers of pea or bean plants show this papilionaceous arrangement clearly, where the two lower fused petals form a boat-shaped keel.\n\nSTEP BY STEP SOLUTION\n\n1. Identify the floral structure called keel.\n2. The keel is formed by fusion of two petals in papilionaceous flowers.\n3. Such flowers are typical of Fabaceae plants like pea and bean.\n4. Among the options given, bean shows this floral structure.\n\nWHY THIS ANSWER\n\nBean belongs to the Fabaceae family and has a papilionaceous corolla where two petals fuse to form the keel. The other options do not possess this floral structure.\n\nCOMMON MISTAKES\n\nStudents often confuse other leguminous plants like Cassia or Gulmohur with papilionaceous flowers. Cassia and Gulmohur have irregular flowers but lack the typical keel structure found in bean or pea.",
+        "keywords": {
+            "boat-shaped": "boat shaped"
+        }
+    },
+    {
+        "id": 108,
+        "question_number": "8",
+        "text": "The genotype of a plant showing the dominant phenotype can be determined by",
+        "subject": "Botany",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "test cross",
+            "dihybrid cross",
+            "pedigree analysis",
+            "back cross"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 174,
+        "correct_answer": "test cross",
+        "basic_answer": "To find the genotype of a plant with a dominant appearance, we use a test cross. This means breeding the plant with a homozygous recessive plant. If all offspring show the dominant trait, the plant is homozygous dominant. If some show the recessive trait, it is heterozygous. So, the test cross is the right method.",
+        "explanation": "CORE CONCEPT. A test cross is a way to determine the genotype of an organism with a dominant phenotype. In simple terms, it involves crossing the organism with a known recessive partner. This helps us understand if the organism carries one or two dominant alleles.. Real Life Example: Imagine a box of chocolates where some chocolates are dark (dominant) and some are white (recessive). If you take one dark chocolate and mix it with a white chocolate, you can see what kind of chocolates come out. If all are dark, the dark one might be pure dark; if some are white, it’s mixed..  STEP BY STEP SOLUTION. 1. We have a plant with a dominant trait (let's say tall). We don’t know if it is homozygous dominant (TT) or heterozygous (Tt). 2. We perform a test cross by mating it with a homozygous recessive plant (tt). 3. If all offspring are tall, the unknown plant is likely TT. 4. If we get some short plants, the unknown plant is Tt..  WHY THIS ANSWER. The test cross effectively reveals the unknown genotype based on the offspring produced. Other options like dihybrid cross or pedigree analysis relate to different genetic principles and do not specifically determine a single dominant phenotype's genotype directly..  COMMON MISTAKES. A common mistake is confusing the test cross with a back cross. A back cross is used for breeding purposes and might not focus solely on the genotype determination. To avoid confusion, remember that a test cross is specifically for identifying unknown genotypes by using a recessive counterpart.",
+        "keywords": {}
+    },
+    {
+        "id": 109,
+        "question_number": "9",
+        "text": "Breeding of crops with high levels of minerals, vitamins and proteins is called",
+        "subject": "Botany",
+        "sub_topic": "Plant Breeding",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "somatic hybridization",
+            "biofortification",
+            "biomagnification",
+            "micropropagation"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 175,
+        "correct_answer": "biofortification",
+        "basic_answer": "Biofortification is the process of breeding crops to have higher levels of important nutrients like vitamins and minerals. This helps improve people's diet. Farmers can grow these enhanced crops, which are better for health. So, biofortification is important for tackling malnutrition.",
+        "explanation": "CORE CONCEPT. Biofortification is improving crops by increasing their nutrient content. This means the crops will have more vitamins, minerals, and proteins. The goal is to help people get the nutrition they need, especially in areas where diets are lacking.  . Real Life Example: Think of carrots that have extra vitamin A, which helps you see better. If farmers grow these special carrots, people in their community can eat them for better health..  STEP BY STEP SOLUTION. Here, we do not have a formula to calculate but instead focus on the definition and reasoning. Biofortification takes natural breeding techniques to enhance the nutritional value of common crops. It doesn't mean adding vitamins artificially but rather breeding plants to have more of them naturally..  WHY THIS ANSWER. The option \"biofortification\" is correct because it directly describes the process of enhancing crops with essential nutrients. Other options are not related to this concept. Somatic hybridization is about merging plant cells. Biomagnification deals with toxins in food chains. Micropropagation is about growing plants from small pieces..  COMMON MISTAKES. A common mistake is confusing biofortification with other techniques of enhancing crops. Students might think it's the same as adding fertilizers or chemicals, which is incorrect. To avoid this, remember that biofortification focuses on genetic improvement for nutrient density, not external chemical input.",
+        "keywords": {}
+    },
+    {
+        "id": 103,
+        "question_number": "3",
+        "text": "The kind of epithelium which forms the inner walls of blood vessels is:",
+        "subject": "Botany",
+        "sub_topic": "Histology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "cuboidal epithelium",
+            "columnar epithelium",
+            "ciliated columnar epithelium",
+            "squamous epithelium"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 169,
+        "correct_answer": "squamous epithelium",
+        "basic_answer": "The inner walls of blood vessels are lined by simple squamous epithelium, known as endothelium. These cells are thin and flat, forming a smooth lining that minimizes friction and allows efficient diffusion of substances between blood and surrounding tissues. Therefore, the correct answer is squamous epithelium.",
+        "explanation": "CORE CONCEPT. Epithelium is a protective tissue that covers body surfaces and lines internal cavities. Simple squamous epithelium consists of a single layer of flat cells. In blood vessels, this specialized lining is called endothelium.. STEP BY STEP SOLUTION. 1. Blood vessels require a lining that provides minimal resistance to blood flow. 2. Simple squamous epithelium is extremely thin and smooth. 3. This thin structure allows efficient diffusion of gases, nutrients, and waste materials between blood and tissues. 4. Therefore, the inner walls of blood vessels are lined by simple squamous epithelium (endothelium).. WHY THIS ANSWER. Squamous epithelium is adapted for rapid exchange and smooth fluid movement. Cuboidal and columnar epithelia are thicker and mainly involved in secretion or absorption, while ciliated columnar epithelium functions in moving substances such as mucus. Hence, they are not suitable for lining blood vessels.. COMMON MISTAKES. 1. Confusing cuboidal epithelium with squamous epithelium. 2. Assuming any epithelial tissue can line blood vessels. 3. Forgetting that the blood vessel lining specifically consists of simple squamous epithelium called endothelium.",
+        "keywords": {}
+    },
+    {
+        "id": 104,
+        "question_number": "4",
+        "text": "Which one of the following has its own DNA?",
+        "subject": "Botany",
+        "sub_topic": "Cell Biology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Mitochondria",
+            "Dictyosome",
+            "Lysosome",
+            "Peroxisome"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 170,
+        "correct_answer": "Mitochondria",
+        "basic_answer": "Mitochondria are known as the powerhouses of the cell. They have their own DNA, which is different from the cell's nuclear DNA. This DNA helps mitochondria make their own proteins. It's important for energy production in the cell.",
+        "explanation": "CORE CONCEPT. Mitochondria are tiny structures inside cells that produce energy. They have their own DNA, which is different from the DNA in the cell’s nucleus. This is important because it allows mitochondria to create the proteins they need to function. The presence of their own DNA suggests that mitochondria may have started as independent organisms.. Real Life Example: Think of mitochondria as a small factory that not only generates energy but can also make its own tools using its unique instructions (DNA) without relying on the main office (nucleus)..  STEP BY STEP SOLUTION. - In this question, we are identifying which cell structure has its own DNA. - Mitochondria, dictyosomes, lysosomes, and peroxisomes are all parts of a cell. - Only mitochondria have been identified as having their own unique set of DNA..  WHY THIS ANSWER. The correct answer is mitochondria because they contain their own DNA, allowing them to produce the energy needed for the cell. The other options (dictyosome, lysosome, and peroxisome) do not have their own DNA, so they cannot generate their own proteins independently..  COMMON MISTAKES. A common mistake is thinking that all cell organelles have their own DNA. Students might confuse mitochondria with other organelles that do not possess their genetic material. To avoid this, remember that mitochondria are special because they are the only ones among these organelles that have their own DNA.",
+        "keywords": {}
+    },
+    {
+        "id": 105,
+        "question_number": "5",
+        "text": "Seminal plasma in human males is rich in",
+        "subject": "Botany",
+        "sub_topic": "Reproductive Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "fructose and calcium",
+            "glucose and calcium",
+            "DNA and testosterone",
+            "ribose and potassium"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 171,
+        "correct_answer": "fructose and calcium",
+        "basic_answer": "Seminal plasma is the fluid part of semen. It contains important nutrients. Fructose provides energy for sperm. Calcium helps with sperm movement. This makes option A correct.",
+        "explanation": "CORE CONCEPT. Seminal plasma is a fluid found in semen. It nourishes sperm and helps them move. The two main nutrients found in it are fructose and calcium. Fructose gives energy to sperm, while calcium is important for muscle function and movement.  . Real Life Example: Think of fructose as fuel for a car. Just like a car needs fuel to run, sperm need fructose to swim effectively. .  STEP BY STEP SOLUTION. We analyze the composition of seminal plasma. It is rich in nutrients that sustain sperm. Fructose is a sugar that provides energy. Calcium is a mineral that supports muscle activity, including the movement of sperm. The question asks for what seminal plasma is rich in, and based on biological understanding, fructose and calcium are well known components. .  WHY THIS ANSWER. Option A is correct because seminal plasma is recognized for containing significant amounts of fructose and calcium. Other options include substances that are not characteristic of seminal plasma's composition, like glucose, DNA, testosterone, ribose, and potassium, which are not in high concentration compared to fructose and calcium. .  COMMON MISTAKES. Students often confuse quintessential nutrients in seminal plasma. They might think glucose is included, but it's not as prevalent as fructose. To avoid this mistake, remember that fructose is specially noted for energy supply in sperm, unlike glucose which is a different type of sugar.",
+        "keywords": {}
+    },
+    {
+        "id": 106,
+        "question_number": "6",
+        "text": "Transfer of pollen grains from the anther to the stigma of another flower of the same plant is called",
+        "subject": "Botany",
+        "sub_topic": "Pollination",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "xenogamy",
+            "geitonogamy",
+            "karyogamy",
+            "autogamy"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 172,
+        "correct_answer": "geitonogamy",
+        "basic_answer": "Geitonogamy is the transfer of pollen grains from the anther of one flower to the stigma of another flower on the same plant. This means that the flowers are separate but belong to the same organism. It usually happens in plants that have many flowers. It helps in fertilization without needing flowers from different plants.",
+        "explanation": "CORE CONCEPT. Geitonogamy is a type of pollination where pollen from one flower's anther gets transferred to another flower's stigma, but both flowers are on the same plant. This increases genetic variability while not requiring two different plants. It often occurs when plants have multiple flowers that can be visited by pollinators like bees.. Real Life Example: Think of a plant with many blossoms, like a hibiscus. When a bee visits one blossom and then moves to another one on the same plant, it transfers pollen from the first to the second, a classic case of geitonogamy..  STEP BY STEP SOLUTION. In this question, we recognize the definitions of pollination types. Geitonogamy specifically refers to the process occurring within one plant. Other forms are distinct: xenogamy involves two different plants, karyogamy refers to nucleus fusion in cells, and autogamy is self pollination. As we analyze the terms, we can clearly see that only geitonogamy fits the description of pollen transfer between flowers of the same plant..  WHY THIS ANSWER. The result matches geitonogamy because it directly relates to the process described in the question. Other options are incorrect as they involve different scenarios or definitions: xenogamy means cross pollination between different plants, autogamy means self pollination within a single flower, and karyogamy relates to cell biology..  COMMON MISTAKES. Some students may confuse geitonogamy with autogamy due to both being related to the same plant. To avoid this, remember that geitonogamy involves different flowers on the same plant, while autogamy is about a single flower being pollinated by its own pollen. Understanding the distinct definitions is key to answering correctly.",
+        "keywords": {}
+    },
+    {
+        "id": 108,
+        "question_number": "8",
+        "text": "The genotype of a plant showing the dominant phenotype can be determined by",
+        "subject": "Botany",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "test cross",
+            "dihybrid cross",
+            "pedigree analysis",
+            "back cross"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 174,
+        "correct_answer": "test cross",
+        "basic_answer": "To find the genotype of a plant with a dominant appearance, we use a test cross. This means breeding the plant with a homozygous recessive plant. If all offspring show the dominant trait, the plant is homozygous dominant. If some show the recessive trait, it is heterozygous. So, the test cross is the right method.",
+        "explanation": "CORE CONCEPT. A test cross is a way to determine the genotype of an organism with a dominant phenotype. In simple terms, it involves crossing the organism with a known recessive partner. This helps us understand if the organism carries one or two dominant alleles.. Real Life Example: Imagine a box of chocolates where some chocolates are dark (dominant) and some are white (recessive). If you take one dark chocolate and mix it with a white chocolate, you can see what kind of chocolates come out. If all are dark, the dark one might be pure dark; if some are white, it’s mixed..  STEP BY STEP SOLUTION. 1. We have a plant with a dominant trait (let's say tall). We don’t know if it is homozygous dominant (TT) or heterozygous (Tt). 2. We perform a test cross by mating it with a homozygous recessive plant (tt). 3. If all offspring are tall, the unknown plant is likely TT. 4. If we get some short plants, the unknown plant is Tt..  WHY THIS ANSWER. The test cross effectively reveals the unknown genotype based on the offspring produced. Other options like dihybrid cross or pedigree analysis relate to different genetic principles and do not specifically determine a single dominant phenotype's genotype directly..  COMMON MISTAKES. A common mistake is confusing the test cross with a back cross. A back cross is used for breeding purposes and might not focus solely on the genotype determination. To avoid confusion, remember that a test cross is specifically for identifying unknown genotypes by using a recessive counterpart.",
+        "keywords": {}
+    },
+    {
+        "id": 121,
+        "question_number": "10",
+        "text": "Ovary is half inferior in the flowers of",
+        "subject": "Botany",
+        "sub_topic": "Plant Morphology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "guava",
+            "plum",
+            "brinjal",
+            "cucumber"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 187,
+        "correct_answer": "guava",
+        "basic_answer": "In plant morphology, the term 'half inferior ovary' means that the ovary is situated below the attachment of the other flower parts. Guava is a flower that has this feature. This means that the ovary is partially embedded in the flower base. Understanding this helps us categorize plants based on their floral structures.",
+        "explanation": "CORE CONCEPT. In flowers, the ovary is part of the female reproductive organ. When we say an ovary is 'half inferior,' it means that some parts of the flower, like the petals and stamens, are attached above the ovary, but the ovary is still partly below. This structure affects how the flower develops and the fruit forms. . Real Life Example: Think of a cupcake, where the cake (the ovary) is at the bottom and the icing (the flower parts) sits on top. .  STEP BY STEP SOLUTION. - The flower of guava has a half inferior ovary. - Other options like plum, brinjal, and cucumber do not have this specific structure. - Therefore, we identify guava correctly as having a half inferior ovary. .  WHY THIS ANSWER. Guava is definitely categorized as having a half inferior ovary. This is due to how its floral organs are arranged. Other options like plum and cucumber don't fit this definition completely. This makes them incorrect choices. .  COMMON MISTAKES. Students might confuse the types of ovaries in different flowers. To avoid that, focus on the arrangement of flower parts carefully. It helps to visualize with real flowers or images.",
+        "keywords": {}
+    },
+    {
+        "id": 107,
+        "question_number": "7",
+        "text": "ABO blood groups in humans are controlled by the gene I. It has three alleles – I A  I B  and i. Since there are three different alleles, six different genotypes are possible. How many phenotypes can occur?",
+        "subject": "Zoology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Three",
+            "One",
+            "Four",
+            "Two"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 173,
+        "correct_answer": "Four",
+        "basic_answer": "The ABO blood group system is controlled by three alleles: IA, IB and i. IA and IB are codominant, while i is recessive. The possible genotypes are IAIA, IAi, IBIB, IBi, IAIB and ii. These produce four observable blood group phenotypes: A, B, AB and O. Therefore, four phenotypes occur.",
+        "explanation": "CORE CONCEPT. The ABO blood group system in humans is an example of multiple allelism and codominance. A single gene (I) has three alleles: IA, IB and i. IA and IB are codominant to each other, and both are dominant over i.. STEP BY STEP ANALYSIS. Possible genotypes:. IAIA → Blood group A IAi → Blood group A IBIB → Blood group B IBi → Blood group B IAIB → Blood group AB Ii → Blood group O. Although six genotypes exist, they produce only four phenotypes.. Phenotypes: A B AB O. WHY THIS ANSWER. Because multiple genotypes correspond to the same phenotype (IAIA and IAi → A; IBIB and IBi → B), the total number of observable blood group phenotypes is four.. COMMON MISTAKES. 1. Confusing number of genotypes with number of phenotypes. 2. Forgetting that IA and IB are codominant. 3. Missing that allele i is recessive and produces blood group O only in genotype ii.",
+        "keywords": {}
+    },
+    {
+        "id": 110,
+        "question_number": "10",
+        "text": "PGA as the first CO2 fixation product was discovered in photosynthesis of –",
+        "subject": "Zoology",
+        "sub_topic": "Photosynthesis",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Bryophyte",
+            "Gymnosperm",
+            "Angiosperm",
+            "Algae"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 176,
+        "correct_answer": "Algae",
+        "basic_answer": "PGA (3-phosphoglyceric acid) was identified as the first stable product of CO2 fixation during photosynthesis in experiments conducted on the green alga Chlorella. Therefore, the correct answer is algae.",
+        "explanation": "CORE CONCEPT. PGA (3-phosphoglyceric acid) is the first stable product formed during CO2 fixation in the Calvin cycle. This discovery was made by Melvin Calvin and his colleagues using the green alga Chlorella with radioactive carbon (14C) tracing techniques.. Real Life Example: In laboratory studies of photosynthesis, algae such as Chlorella are commonly used because they carry out photosynthesis efficiently and help scientists track intermediate compounds formed during the process..  STEP BY STEP SOLUTION. During photosynthesis, CO2 is fixed in the Calvin cycle. The first stable compound formed after CO2 fixation is 3-phosphoglyceric acid (PGA). This was experimentally demonstrated using the green alga Chlorella. Therefore, the discovery of PGA as the first CO2 fixation product is associated with algae..  WHY THIS ANSWER. The experiments that identified PGA as the first stable product of CO2 fixation were performed on the green alga Chlorella. Hence, the correct option is D: Algae..  COMMON MISTAKES. Students often assume the discovery was made in flowering plants because the Calvin cycle occurs in higher plants. However, the original experiments that identified PGA were conducted using algae.",
+        "keywords": {
+            "CO2": "C O 2"
+        }
+    },
+    {
+        "id": 111,
+        "question_number": "11",
+        "text": "A common biocontrol agent for the control of plant diseases is",
+        "subject": "Zoology",
+        "sub_topic": "Biocontrol",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Baculovirus",
+            "Bacillus thuringiensis",
+            "Glomus",
+            "Trichoderma"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 177,
+        "correct_answer": "Trichoderma",
+        "basic_answer": "Trichoderma is a type of fungus used to fight plant diseases. It protects plants by attacking harmful fungi and bacteria. This helps in reducing the need for chemical pesticides. Trichoderma works naturally, so it's good for the environment. So, the correct option is Trichoderma.",
+        "explanation": "CORE CONCEPT. Trichoderma is a beneficial fungus used in biocontrol. It helps plants by fighting off harmful pathogens like diseases caused by other fungi. This is important because it means we can use fewer chemicals on crops, which is better for nature. . Real Life Example: Think of Trichoderma as a guard dog that protects your garden from bad animals. Just like a guard dog keeps the harmful animals away, Trichoderma keeps the harmful fungi away from plants..  STEP BY STEP SOLUTION. To understand why Trichoderma is the right choice, we look at what it does. It fights against plant diseases caused by bad fungi. Other options like Bacillus thuringiensis are great but focus more on insects. Trichoderma specifically targets harmful microbes related to plant diseases..  WHY THIS ANSWER. Trichoderma is known for being effective in controlling plant diseases, making it the correct answer. Other options mentioned are biocontrol agents too, but they focus on different pests or not directly on plant diseases like Trichoderma does..  COMMON MISTAKES. One common mistake is confusing biocontrol agents with chemical pesticides. Remember, biocontrol agents like Trichoderma act naturally and help protect plants without chemicals. Another mistake is assuming that any fungus can do the same job; only specific types like Trichoderma are effective against plant diseases.",
+        "keywords": {}
+    },
+    {
+        "id": 112,
+        "question_number": "1",
+        "text": "Which one of the following statements regards to the excretion by the human kidneys is correct?",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Excretion",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Descending limb of Loop of Henly is impermeable to water",
+            "Distal convoluted tubule is incapable in reabsorbing HCO3",
+            "Nearly 99 percent of the glomerular filtrate is reabsorbed by the renal tube",
+            "Ascending limb of Loop of Henly is impermeable to electrolytes"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 178,
+        "correct_answer": "Nearly 99 percent of the glomerular filtrate is reabsorbed by the renal tube",
+        "basic_answer": "The kidneys filter blood to remove waste and tiny substances. Almost all of the fluid that gets filtered, about 99%, is reabsorbed back into the blood by different parts of the renal tubule. This is important to keep the body balanced and prevent loss of too much water or essential nutrients.",
+        "explanation": "CORE CONCEPT. The kidneys play a critical role in excretion. They filter blood to produce urine and reabsorb most of the useful substances, like water and nutrients, back into the bloodstream. Only about 1% of the filtrate becomes urine. This helps our bodies keep necessary things while getting rid of waste.. Real Life Example: Imagine a sponge soaking up water. If you squeeze it lightly, most of the water goes back into the sponge, leaving only a little bit to drip out. This is similar to how kidneys work..  STEP BY STEP SOLUTION. The kidneys produce a fluid called glomerular filtrate, which contains water, electrolytes, glucose, and waste. Almost all of this fluid is reabsorbed back into the blood in the renal tubule. This means that out of all the filtered fluid, around 99% is reabsorbed, leaving only a small percentage to form urine..  WHY THIS ANSWER. This answer is correct because it accurately reflects how the kidneys function. The other options are incorrect. For example, the descending limb of the Loop of Henle is permeable to water, and the distal convoluted tubule can reabsorb HCO3. The ascending limb is impermeable to water but can reabsorb electrolytes..  COMMON MISTAKES. Students might confuse the functions of different parts of the nephron, like the Loop of Henle and the distal tubule. A common error is thinking that a section is impermeable to all substances when it is only true for specific ones. Careful memorization of each part's function helps avoid this.",
+        "keywords": {
+            "HCO3": "H C O 3"
+        }
+    },
+    {
+        "id": 113,
+        "question_number": "2",
+        "text": "Widal test is used for the diagnosis of",
+        "subject": "Zoology",
+        "sub_topic": "Microbiology - Diagnostic Tests",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "malaria",
+            "pneumonia",
+            "tuberculosis",
+            "typhoid"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 179,
+        "correct_answer": "typhoid",
+        "basic_answer": "The Widal test is a serological test used to diagnose typhoid fever. It detects antibodies in the patient's blood against antigens of the bacterium Salmonella typhi, the organism responsible for typhoid. Therefore, the correct answer is typhoid.",
+        "explanation": "CORE CONCEPT. The Widal test is a diagnostic test used to detect antibodies produced against Salmonella typhi in the blood of infected individuals. It is commonly used to help diagnose typhoid fever.. STEP BY STEP ANALYSIS. 1. Typhoid fever is caused by the bacterium Salmonella typhi. 2. During infection, the immune system produces antibodies against specific bacterial antigens (O and H antigens). 3. The Widal test detects these antibodies in the patient's serum through an agglutination reaction. 4. A significant antibody titre suggests infection with Salmonella typhi.. WHY THIS ANSWER. Because the Widal test specifically detects antibodies against Salmonella typhi, it is used for diagnosing typhoid fever.. COMMON MISTAKES. 1. Confusing the Widal test with diagnostic tests for other infections. 2. Assuming it is used for malaria or tuberculosis. 3. Forgetting that it detects antibodies rather than the bacteria directly.",
+        "keywords": {}
+    },
+    {
+        "id": 114,
+        "question_number": "3",
+        "text": "Injury to adrenal cortex is not likely to affect the secretion of which one of the following?",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Endocrine System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Aldosterone",
+            "Both androstenedione and dehydroepiandrosterone",
+            "Adrenalin",
+            "Cortisol"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 180,
+        "correct_answer": "Adrenalin",
+        "basic_answer": "The adrenal cortex produces hormones like cortisol and aldosterone. Adrenaline is made by the adrenal medulla, not the cortex. So, if the adrenal cortex is injured, it won't affect adrenaline levels. Therefore, C. Adrenalin is the correct answer.",
+        "explanation": "CORE CONCEPT. The adrenal glands have two parts: the cortex and the medulla. The cortex makes hormones like cortisol and aldosterone. The medulla makes adrenaline. Injury to the adrenal cortex mainly affects the secretion of hormones produced there, not those from the medulla. . Real Life Example: Think of the adrenal gland like a factory with two sections. If one section stops working, the other can still produce its goods, like the medulla can still make adrenaline even if the cortex is damaged..  STEP BY STEP SOLUTION. 1. Identify the parts of the adrenal gland: cortex and medulla.   2. Understand that adrenaline is secreted by the medulla while cortisol and aldosterone are from the cortex.  3. Owing to injury in the cortex, only hormones from that area will be affected. Thus, adrenaline (from the medulla) will continue to be secreted..  WHY THIS ANSWER. The correct answer is C. Adrenalin because injury to the adrenal cortex does not affect the secretion of adrenaline. The other options (aldosterone, androstenedione, and cortisol) all come from the adrenal cortex, so their production would be affected if the cortex is injured..  COMMON MISTAKES. A common mistake is to think all hormones come from the same area of the gland. Students may confuse which hormones are produced in the cortex versus the medulla, leading to incorrect answers. Remembering the specific hormones associated with each part helps avoid this error.",
+        "keywords": {}
+    },
+    {
+        "id": 115,
+        "question_number": "4",
+        "text": "The nerve centres which control the body temperature and the urge for eating are contained in",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Nervous System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "hypothalamus",
+            "pons",
+            "cerebellum",
+            "thalamus"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 181,
+        "correct_answer": "hypothalamus",
+        "basic_answer": "The hypothalamus is a small part of the brain that controls body temperature and hunger. It helps keep your body stable. When you are too hot, it makes you sweat. When you are hungry, it makes you feel like eating. So, the hypothalamus is the right answer.",
+        "explanation": "CORE CONCEPT. The hypothalamus is a small area in the brain that manages many body processes. It regulates temperature, hunger, thirst, and sleep. It works like a thermostat to keep our body comfortable. When we get cold, it makes us shiver to warm up. When we feel hungry, it signals us to eat.  . Real Life Example: Think of it like the control center of a house's heating and cooling system. Just as the thermostat keeps a comfortable temperature, the hypothalamus maintains the body's internal balance..  STEP BY STEP SOLUTION. 1. Identify the functions of different brain areas. 2. The hypothalamus is known for controlling body temperature and appetite. 3. The other options are not primarily responsible for these functions..  WHY THIS ANSWER. The hypothalamus is the correct answer because it specifically controls important body functions like temperature and hunger. The pons, cerebellum, and thalamus have different roles that do not include these specific functions, which makes them incorrect options..  COMMON MISTAKES. A common mistake is confusing the hypothalamus with other parts of the brain. Students might think the cerebellum or pons are responsible, but they control balance and motor functions instead. To avoid this confusion, remember the specific roles of each brain part.",
+        "keywords": {}
+    },
+    {
+        "id": 116,
+        "question_number": "5",
+        "text": "Low Ca2+ in the body fluid may be the cause of",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Calcium Homeostasis",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "tetany",
+            "anaemia",
+            "angina pectoris",
+            "gout"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 182,
+        "correct_answer": "tetany",
+        "basic_answer": "Low levels of calcium ions (Ca²⁺) in the body lead to a condition called tetany, which is characterized by muscle spasms and cramps. Calcium ions play a crucial role in muscle contraction and nerve function. When calcium levels fall below normal, nerve excitability increases and muscles contract involuntarily, resulting in painful spasms.",
+        "explanation": "CORE CONCEPT. Calcium ions (Ca²+) are essential for various bodily functions, especially in muscles and nerves. When calcium levels drop too low, it can disrupt normal muscle contractions and lead to spasms. This condition is known as tetany. The low Ca²+ causes the nerves to get overly excited, triggering muscles to contract uncontrollably.. Real Life Example: Think of calcium like the oil in a car engine. If there's not enough oil, the engine (or muscles) can’t work smoothly and might even seize up..  STEP BY STEP SOLUTION. 1. Understand that low Ca²+ leads to muscle dysfunction. 2. Recognize that calcium is crucial for nerve signaling and muscle relaxation. 3. Remember that the absence of enough calcium results in muscles getting stuck in a cycle of contraction, causing spasms (tetany)..  WHY THIS ANSWER. Tetany occurs specifically due to low Ca²+. Therefore, option A is correct. The other options like anaemia, angina pectoris, and gout are unrelated to calcium levels and their effects on muscle contraction..  COMMON MISTAKES. Students often confuse tetany with other muscle related issues. They might think tetany is a type of pain or fatigue. To avoid confusion, always remember that tetany is characterized by spasms due to low calcium levels, not fatigue or overuse.",
+        "keywords": {
+            "Ca²+": "C a powered 2 +",
+            "Ca2+": "C a 2 plus",
+            "Ca²⁺": "C a 2 plus"
+        }
+    },
+    {
+        "id": 117,
+        "question_number": "6",
+        "text": "The biomass available for consumption by the herbivores and the decomposers is called",
+        "subject": "Zoology",
+        "sub_topic": "Ecology - Productivity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "net primary productivity",
+            "secondary productivity",
+            "standing crop",
+            "gross primary productivity"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 183,
+        "correct_answer": "net primary productivity",
+        "basic_answer": "Net primary productivity is the biomass available for animals that eat plants (herbivores) and for decomposers. It is the amount of energy plants pass on after using some for themselves. This productivity is essential for the food chain, as it shows how much energy is available to support life. Without this, herbivores and decomposers would have no food, disrupting the ecosystem.",
+        "explanation": "CORE CONCEPT. Net primary productivity (NPP) refers to the amount of biomass, or organic matter, that plants produce after they use some for their own growth. It's the energy that remains for other organisms, including herbivores and decomposers. This is crucial for ecosystems, as it forms the base of the food chain.. Real Life Example: Think of a garden where plants grow. The food the plants make is their own energy, but they also provide fruits and vegetables that we can eat. The surplus energy from plants that we don't take is what other animals depend on..  STEP BY STEP SOLUTION. 1. Understand that net primary productivity represents the remaining biomass after plants have used some for their own growth. 2. The energy that plants capture from the sun (through photosynthesis) gets divided into what they keep and what they share with herbivores and decomposers through 'NPP'. 3. NPP is calculated by subtracting the energy used by plants from the total energy captured..  WHY THIS ANSWER. The net primary productivity describes the energy left over after plant respiration, which is exactly the biomass available for herbivores and decomposers. Other options refer to different aspects of ecosystem productivity, but only NPP directly addresses the biomass available for consumption..  COMMON MISTAKES. A common mistake is confusing net primary productivity with gross primary productivity (GPP). GPP is the total amount of energy produced by plants, while NPP is what remains after energy loss. To avoid this, always remember that NPP is the usable energy left after losses.",
+        "keywords": {}
+    },
+    {
+        "id": 119,
+        "question_number": "8",
+        "text": "If due to some injury the chordae tendinae of the tricuspid valve of the human heart is partially non functional, what will be the immediate effect?",
+        "subject": "Zoology",
+        "sub_topic": "Human Physiology - Circulatory System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "The flow of blood into the aorta will be slowed down",
+            "The 'pacemaker' will stop working",
+            "The blood will tend to flow back into the right atrium",
+            "The flow of blood into the pulmonary artery will be reduced"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 185,
+        "correct_answer": "The blood will tend to flow back into the right atrium",
+        "basic_answer": "The tricuspid valve lies between the right atrium and the right ventricle. The chordae tendinae help keep this valve closed during ventricular contraction. If the chordae tendinae become non functional, the valve cannot close properly and blood may flow backward from the right ventricle into the right atrium.",
+        "explanation": "CORE CONCEPT. The human heart contains valves that ensure one way flow of blood. The tricuspid valve is located between the right atrium and right ventricle. Chordae tendinae are fibrous cords that connect the valve flaps to papillary muscles and prevent the valve from turning inside out during ventricular contraction.. STEP BY STEP ANALYSIS. 1. Blood normally flows from the right atrium to the right ventricle through the tricuspid valve. 2. During ventricular contraction, the tricuspid valve closes to prevent backflow. 3. Chordae tendinae hold the valve flaps in position and prevent them from prolapsing. 4. If the chordae tendinae are damaged, the valve cannot close tightly. 5. As a result, blood regurgitates from the right ventricle back into the right atrium.. WHY THIS ANSWER. Damage to the chordae tendinae prevents proper closure of the tricuspid valve. This causes backward flow (regurgitation) of blood into the right atrium.. COMMON MISTAKES. 1. Confusing the tricuspid valve with the mitral valve (which lies between the left atrium and left ventricle). 2. Assuming the pacemaker is affected; it controls heart rhythm, not valve function. 3. Thinking the immediate effect involves the aorta or pulmonary artery rather than backward flow into the atrium.",
+        "keywords": {}
+    }
+]

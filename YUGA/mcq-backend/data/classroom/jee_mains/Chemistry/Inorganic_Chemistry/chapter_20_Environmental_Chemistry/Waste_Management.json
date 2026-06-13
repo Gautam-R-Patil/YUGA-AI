@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Environmental Chemistry",
+    "chapter_number": 20,
+    "topic": "Waste Management",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:23:29.601497",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about waste management in environmental chemistry. This is important for JEE Main. Let's start by understanding the types of waste. Waste can be solid, liquid, or gas. Solid waste includes household garbage. Liquid waste comes from industries and homes. Gas waste is from factories and cars. \n\nNow, let's talk about sources of waste. Waste comes from homes, industries, agriculture, and construction sites. Each source produces different types of waste. For example, homes produce kitchen waste. Industries produce chemical waste. \n\nNext, we will discuss waste disposal methods. One method is recycling. Recycling means using waste materials again. For example, we can recycle paper and plastic. This saves resources and energy. \n\nAnother method is composting. Composting is turning organic waste into fertilizer. It is good for plants and reduces waste. \n\nWe also have incineration. Incineration means burning waste. It reduces waste volume but can cause air pollution. \n\nLandfills are places where we bury waste. They are common but can pollute soil and water. \n\nHazardous waste needs special care. It includes chemicals and batteries. We must handle it carefully to avoid harm. \n\nE-waste is electronic waste. It includes old phones and computers. We should recycle e-waste to recover valuable materials. \n\nLet's understand biodegradable vs non-biodegradable waste. Biodegradable waste breaks down naturally, like food scraps. Non-biodegradable waste does not break down easily, like plastic. \n\nWaste minimization means reducing waste creation. We can do this by using less and recycling more. \n\nIntegrated waste management combines all methods. It uses recycling, composting, and other ways to manage waste efficiently. \n\nGovernment laws and policies help manage waste. They set rules for disposal and recycling. \n\nRemember, in JEE Main, focus on understanding concepts and common waste management methods. Be careful with calculation mistakes, especially in questions about waste volume and recycling rates. \n\nKey takeaways: Know types and sources of waste. Understand methods like recycling and composting. Remember the importance of hazardous and e-waste management. \n\nTo summarize, waste management is crucial for a clean environment. It involves many methods and careful handling of different waste types. \n\nThat's all for today. Keep practicing and reviewing these concepts for your JEE Main exam. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Waste Management",
+    "Recycling",
+    "Composting",
+    "Incineration",
+    "Landfills",
+    "Hazardous Waste"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Recycling",
+      "definition": "Using waste materials again to save resources and energy"
+    },
+    {
+      "term": "Composting",
+      "definition": "Turning organic waste into fertilizer for plants"
+    },
+    {
+      "term": "Incineration",
+      "definition": "Burning waste to reduce its volume"
+    },
+    {
+      "term": "Biodegradable Waste",
+      "definition": "Waste that breaks down naturally over time"
+    },
+    {
+      "term": "Non-biodegradable Waste",
+      "definition": "Waste that does not break down easily, like plastic"
+    }
+  ]
+}

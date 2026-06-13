@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Wave Optics",
+    "chapter_number": "25",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:16:10.272227",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly dive into Wave Optics, a pivotal chapter for NEET. Wave Optics explains the nature of electromagnetic waves through phenomena like interference and diffraction, giving us deeper insights into light behavior. \n\n1. Interference of Light:\nInterference is when two or more light waves overlap, resulting in a new wave pattern. The famous Young\u2019s Double Slit Experiment demonstrated interference and was key in showing light\u2019s wave nature. The condition for constructive interference (bright fringe) is when the path difference is an integral multiple of the wavelength, i.e., $d \times \\sin{\\theta} = n\\lambda$, where 'n' is an integer representing the order of the fringe.\n\n2. Diffraction of Light:\nDiffraction refers to the bending of waves around obstacles. When light passes through a narrow slit, it spreads out instead of travelling in a straight line. The condition for the first minimum in a single slit diffraction pattern is $a \\times \\sin{\\theta} = m\\lambda$, where 'a' is the slit width, 'm' is the order of the minima.\n\n3. Polarization:\nPolarization is the orientation of the oscillations of light waves in specific directions. Only transverse waves can be polarized. It's a feature that supports light's wave theory. Polarized sunglasses use this principle to block glare.\n\n4. Huygens' Principle:\nThis principle states that every point on a wavefront acts as a source of secondary wavelets. The new wavefront at any subsequent time is the envelope of these secondary wavelets. It helps in explaining both the reflection and refraction of light.\n\n5. Applications and NEET Relevance:\nFor NEET, focus on understanding Young\u2019s experiment and deriving formulas for fringe width, calculate path differences, and use Huygens' principle to derive laws of refraction and reflection. Past NEET questions often deal with finding angles, wavelengths, and path differences in interference and diffraction problems.\n\nQuick Revision Points:\n- Interference & its conditions for constructive and destructive interference.\n- Diffraction pattern and its intensity conditions.\n- Importance of Huygens' Principle in wave propagation.\n- Polarization and its practical applications, like sunglasses.\n\nRemember, practice problems on interference and diffraction are key! Master these concepts and the formulas mentioned, as they are frequently tested in NEET.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Wave Optics",
+    "Interference",
+    "Diffraction",
+    "Polarization",
+    "Young\u2019s Double Slit Experiment",
+    "Huygens' Principle",
+    "Electromagnetic Waves",
+    "Fringe Width",
+    "Path Difference",
+    "Constructive Interference"
+  ],
+  "formulas": [
+    "$d \\times \\sin{\\theta} = n\\lambda$",
+    "$a \\times \\sin{\\theta} = m\\lambda$"
+  ],
+  "definitions": [
+    {
+      "term": "Wave Optics",
+      "definition": "A branch of optics that explains the wave nature of light, particularly when it interacts with objects smaller than the wavelength."
+    },
+    {
+      "term": "Interference",
+      "definition": "The phenomenon where two or more overlapping waves combine to form a new wave pattern."
+    },
+    {
+      "term": "Diffraction",
+      "definition": "The bending of waves around obstacles or the spreading of waves as they pass through small openings."
+    },
+    {
+      "term": "Polarization",
+      "definition": "The process by which oscillations of transverse waves, such as light, are aligned in particular directions."
+    },
+    {
+      "term": "Young\u2019s Double Slit Experiment",
+      "definition": "An experiment that demonstrated the wave nature of light by showing an interference pattern when light passed through two closely spaced slits."
+    },
+    {
+      "term": "Huygens' Principle",
+      "definition": "A principle that states every point on a wavefront can be considered as a source of secondary wavelets."
+    },
+    {
+      "term": "Electromagnetic Waves",
+      "definition": "Waves of electric and magnetic fields that move through space carrying energy, such as light waves."
+    },
+    {
+      "term": "Fringe Width",
+      "definition": "The distance between two successive identical points, such as two consecutive maxima or minima, in an interference pattern."
+    },
+    {
+      "term": "Path Difference",
+      "definition": "The difference in distance traveled by two waves arriving at a point, leading to interference."
+    },
+    {
+      "term": "Constructive Interference",
+      "definition": "Occurs when two or more waves meet at a point and combine, resulting in a wave with greater amplitude."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Probability",
+    "chapter_number": 21,
+    "topic": "Theoretical Distributions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:03:18.157561",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about theoretical distributions in probability. This is important for your JEE Main exam. We will cover Binomial Distribution, Poisson Distribution, and Normal Distribution. Let's start with Binomial Distribution.\n\nBinomial Distribution is used when there are two possible outcomes, like success or failure. For example, flipping a coin has two outcomes: heads or tails. The formula for Binomial Distribution is P(X = k) = nCk * p^k * (1-p)^(n-k). Here, n is the number of trials, k is the number of successes, and p is the probability of success.\n\nLet's see an example. Suppose you flip a coin 5 times. What is the probability of getting exactly 3 heads? Here, n = 5, k = 3, and p = 0.5. Plug these into the formula: P(X = 3) = 5C3 * (0.5)^3 * (0.5)^(5-3). Calculate to find the answer.\n\nA common mistake is forgetting to use the correct value for nCk. Remember, nCk means the number of combinations of n items taken k at a time.\n\nNext, let's discuss Poisson Distribution. This is used for events happening over a fixed interval of time or space. For example, the number of cars passing a signal in an hour. The formula is P(X = k) = (e^-λ * λ^k) / k!. Here, λ is the average number of events, and k is the number of events you want the probability for.\n\nImagine a call center receives 5 calls per hour on average. What is the probability of getting exactly 3 calls in an hour? Here, λ = 5 and k = 3. Use the formula: P(X = 3) = (e^-5 * 5^3) / 3!. Calculate this to get the probability.\n\nA JEE Main mistake is mixing up λ and k. Always double-check these values.\n\nNow, let's move to Normal Distribution. This distribution is for continuous data and is bell-shaped. It is used for things like heights or test scores. The formula involves the mean (μ) and standard deviation (σ). The probability is found using tables or calculators.\n\nConsider a class where the average score is 70 with a standard deviation of 10. What is the probability of a student scoring between 60 and 80? Use the Z-score formula: Z = (X - μ) / σ. Find Z for 60 and 80, then use a Z-table to find the probabilities.\n\nA common trap is using wrong Z-table values. Always check if it's a left-tail or right-tail table.\n\nTo summarize, Binomial Distribution is for two outcomes, Poisson for events over time, and Normal for continuous data. Practice using these formulas and be careful with calculations.\n\nThat's all for today. Remember to review these concepts and practice problems. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Binomial Distribution",
+    "Poisson Distribution",
+    "Normal Distribution",
+    "Probability",
+    "JEE Main"
+  ],
+  "formulas": [
+    {
+      "formula": "P(X = k) = nCk * p^k * (1-p)^(n-k)",
+      "description": "Used for finding the probability of k successes in n trials in a Binomial Distribution"
+    },
+    {
+      "formula": "P(X = k) = (e^-λ * λ^k) / k!",
+      "description": "Used for finding the probability of k events in a Poisson Distribution"
+    },
+    {
+      "formula": "Z = (X - μ) / σ",
+      "description": "Used to find the Z-score in a Normal Distribution for probability calculations"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Binomial Distribution",
+      "definition": "A probability distribution with two possible outcomes, like success or failure"
+    },
+    {
+      "term": "Poisson Distribution",
+      "definition": "A distribution used for counting the number of events over a fixed interval"
+    },
+    {
+      "term": "Normal Distribution",
+      "definition": "A continuous probability distribution that is symmetrical and bell-shaped"
+    }
+  ]
+}

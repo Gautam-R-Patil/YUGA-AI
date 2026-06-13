@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Organic Compounds Containing Nitrogen (Amines)",
+    "chapter_number": "27",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:26:21.323251",
+    "model_used": "gpt-4o",
+    "category": "Organic"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts in Organic Chemistry\u2014Amines.\n\nAmines are organic compounds derived from ammonia by the replacement of one or more hydrogen atoms with alkyl or aryl groups. They are classified based on the number of alkyl or aryl groups attached to the nitrogen atom.\n\n### Classification of Amines:\n1. Primary (1\u00b0) Amines: One alkyl or aryl group attached.\n2. Secondary (2\u00b0) Amines: Two alkyl or aryl groups attached.\n3. Tertiary (3\u00b0) Amines: Three alkyl or aryl groups attached.\n\n### Key Formulas / Ideas:\n- The general formula for primary amines: R-NH\u2082\n- Secondary amines: R\u2082NH\n- Tertiary amines: R\u2083N\n\n### Properties of Amines:\n- Basicity: Amines act as bases and can accept protons due to the lone pair on nitrogen. The order of basicity often follows: 2\u00b0 > 1\u00b0 > 3\u00b0 amines.\n- Solubility: Lower amines are soluble in water due to hydrogen bonding.\n- Boiling Point: Primary and secondary amines have higher boiling points than tertiary because they can form hydrogen bonds.\n\n### Preparation of Amines:\n- Gabriel Phthalimide Synthesis: Used to prepare primary amines by using phthalimide.\n- Hoffmann Bromamide Degradation Reaction: Converts an amide into a primary amine with one carbon atom less.\n\n### Reactions involving Amines:\n- Alkylation: Amines react with haloalkanes to form substituted amines.\n- Acylation: Amines react with acyl chlorides to form amides.\n- Reaction with Nitrous Acid: Primary amines form alcohols while secondary form nitrosoamines.\n\n### NEET Question Pattern:\nNEET commonly asks questions about the classification, basicity, and preparation methods of amines, especially focusing on reaction mechanisms and distinguishing between primary, secondary, and tertiary amines.\n\n### Quick Revision Points:\n1. Amines are classified into primary, secondary, and tertiary.\n2. Basicity is a standout property due to the lone pair on nitrogen.\n3. Remember key preparation methods: Gabriel Synthesis and Hoffmann Bromamide.\n4. Understand reactions: Alkylation, Acylation, and reaction with Nitrous Acid.\n5. Learn structure-property relationships, especially in terms of hydrogen bonding and physical properties.",
+  "duration_minutes": "10",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Amines",
+    "Primary amine",
+    "Secondary amine",
+    "Tertiary amine",
+    "Gabriel phthalimide synthesis",
+    "Hoffmann bromamide reaction",
+    "Basicity",
+    "Hydrogen bonding",
+    "Nitrous acid reaction",
+    "Acylation"
+  ],
+  "formulas": [
+    "R-NH\u2082 (Primary Amines)",
+    "R\u2082NH (Secondary Amines)",
+    "R\u2083N (Tertiary Amines)"
+  ],
+  "definitions": [
+    {
+      "term": "Amines",
+      "definition": "Organic compounds derived from ammonia with one or more hydrogen atoms replaced by alkyl or aryl groups."
+    },
+    {
+      "term": "Primary amine",
+      "definition": "An amine with one alkyl or aryl group attached to the nitrogen atom."
+    },
+    {
+      "term": "Secondary amine",
+      "definition": "An amine with two alkyl or aryl groups attached to the nitrogen atom."
+    },
+    {
+      "term": "Tertiary amine",
+      "definition": "An amine with three alkyl or aryl groups attached to the nitrogen atom."
+    },
+    {
+      "term": "Gabriel phthalimide synthesis",
+      "definition": "A method to prepare primary amines using potassium phthalimide and alkyl halides."
+    },
+    {
+      "term": "Hoffmann bromamide reaction",
+      "definition": "A reaction where an amide is degraded to a primary amine with one less carbon atom."
+    },
+    {
+      "term": "Basicity",
+      "definition": "A property of amines due to the lone pair on the nitrogen atom which allows them to accept protons."
+    },
+    {
+      "term": "Hydrogen bonding",
+      "definition": "Intermolecular attraction between molecules containing an electronegative atom and hydrogen, affecting boiling points."
+    },
+    {
+      "term": "Nitrous acid reaction",
+      "definition": "A reaction of amines with nitrous acid, where primary amines form alcohols and secondary form nitrosoamines."
+    },
+    {
+      "term": "Acylation",
+      "definition": "A reaction where amines react with acyl chlorides to form amides."
+    }
+  ]
+}

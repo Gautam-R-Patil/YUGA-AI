@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Haloalkanes and Haloarenes",
+    "chapter_number": 23,
+    "topic": "Reactivity and Mechanism",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:26:27.516142",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about Haloalkanes and Haloarenes. This is an important topic in Organic Chemistry. Let's start by understanding some basic terms. Haloalkanes are compounds where a halogen atom, like chlorine or bromine, replaces a hydrogen atom in an alkane. Haloarenes are similar, but the halogen replaces a hydrogen in an aromatic ring, like benzene.\n\nFirst, let's discuss factors affecting reactivity. Reactivity means how easily a chemical reaction happens. In haloalkanes, reactivity depends on the type of carbon-halogen bond. A weaker bond means higher reactivity. For example, a C-I bond is weaker than a C-Cl bond, so iodoalkanes are more reactive than chloroalkanes.\n\nNow, let's compare haloalkanes and haloarenes. Haloalkanes are more reactive than haloarenes. This is because the aromatic ring in haloarenes is very stable. The stability makes it harder for reactions to occur. For JEE Main, remember that haloarenes are less reactive due to resonance in the ring.\n\nNext, we talk about the role of the leaving group. A leaving group is an atom or group that leaves the molecule during a reaction. A good leaving group makes the reaction faster. Halogens like iodine are good leaving groups because they can easily leave the molecule.\n\nThe effect of the solvent is also important. A solvent is a liquid in which the reaction happens. Polar solvents, like water, help polar reactions. Non-polar solvents, like hexane, help non-polar reactions. In JEE Main, note that polar solvents often increase the reaction rate for haloalkanes.\n\nLet's look at steric and electronic effects. Steric effects are about the size of groups around the reaction site. Bigger groups can block reactions. Electronic effects involve electron distribution. Electronegative atoms can pull electrons towards them, affecting reactivity. For example, in haloalkanes, if there are bulky groups, the reaction is slower due to steric hindrance.\n\nNow, we move to substitution reactions. In substitution, one atom or group replaces another. The SN1 and SN2 are two types of substitution mechanisms. SN1 involves two steps and often happens in tertiary haloalkanes. SN2 is a single-step reaction, common in primary haloalkanes. For JEE Main, remember SN1 is favored by polar solvents, while SN2 prefers less crowded environments.\n\nLet's discuss elimination reactions. In elimination, atoms are removed from a molecule, forming a double bond. There are E1 and E2 mechanisms. E1 is a two-step process, often in tertiary haloalkanes. E2 is a one-step process and occurs in primary haloalkanes. For JEE Main, note that elimination often competes with substitution.\n\nFinally, let's talk about common reagents and conditions. Reagents are substances used to cause a reaction. For substitution, common reagents include nucleophiles like OH-. For elimination, bases like KOH are used. Conditions like temperature and solvent also affect the reaction.\n\nRemember, common JEE Main mistakes include confusing SN1 with SN2, or E1 with E2. Always check the type of haloalkane and the solvent used.\n\nKey takeaways: Haloalkanes are more reactive than haloarenes. Good leaving groups and polar solvents increase reaction rates. Understand the difference between substitution and elimination mechanisms.\n\nIn summary, understanding these concepts will help you solve JEE Main problems efficiently. Practice is key. Keep revising these points and you will do great!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Reactivity",
+    "Haloalkanes",
+    "Haloarenes",
+    "Substitution",
+    "Elimination"
+  ],
+  "formulas": [
+    {
+      "formula": "Rate = k[Substrate][Nucleophile]",
+      "description": "Used for SN2 reactions where rate depends on both substrate and nucleophile concentration"
+    },
+    {
+      "formula": "Rate = k[Substrate]",
+      "description": "Used for SN1 reactions where rate depends only on substrate concentration"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Haloalkane",
+      "definition": "An organic compound where a halogen atom replaces a hydrogen in an alkane"
+    },
+    {
+      "term": "Haloarene",
+      "definition": "An organic compound where a halogen atom replaces a hydrogen in an aromatic ring"
+    },
+    {
+      "term": "Leaving Group",
+      "definition": "An atom or group that departs from the molecule during a chemical reaction"
+    },
+    {
+      "term": "Solvent",
+      "definition": "A liquid in which substances are dissolved to form a solution"
+    }
+  ]
+}

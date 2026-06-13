@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations",
+    "chapter_number": 14,
+    "topic": "Simple Harmonic Motion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:03:41.019342",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Simple Harmonic Motion, or SHM. SHM is an important concept in physics. It helps us understand many natural and man-made systems. Let's start by understanding what SHM is.\n\n**Definition and Characteristics of SHM**\nSimple Harmonic Motion is a type of periodic motion. This means the motion repeats itself after a fixed time. In SHM, an object moves back and forth in a straight line. A common example is a pendulum swinging. The motion is smooth and regular. If you pull a spring and let it go, it moves in SHM.\n\nSHM has some key features. First, the motion is symmetrical. This means it looks the same on both sides of the center point. Second, the force that brings the object back is always directed towards the center. This force is called the restoring force.\n\n**Equation of Motion for SHM**\nThe equation of motion for SHM is simple. It is given by:\n\nx(t) = A cos(ωt + φ)\n\nHere, x(t) is the position of the object at time t. A is the amplitude, which is the maximum distance from the center. ω is the angular frequency. It tells us how fast the object moves. φ is the phase constant. It tells us the starting point of the motion.\n\n**Examples of SHM in Physics**\nThere are many examples of SHM in physics. A simple pendulum is one. If you swing a pendulum, it moves in SHM. Another example is a mass on a spring. If you stretch a spring and let it go, it moves in SHM. These examples are often asked in exams like NEET.\n\n**Applications of SHM in Engineering**\nSHM is not just in nature. It is used in engineering too. Engineers use SHM to design clocks and watches. They also use it in building bridges and cars. Understanding SHM helps make these structures safe and efficient.\n\n**Solving Problems on SHM**\nWhen solving SHM problems, remember these steps. First, identify the system. Is it a pendulum or a spring? Next, write down the given values. Use the SHM formula to find what you need. Check your units. Common mistakes include using the wrong units or forgetting the phase constant.\n\n**Key Points to Remember**\n1. SHM is a type of periodic motion.\n2. The restoring force is always towards the center.\n3. The equation of motion is x(t) = A cos(ωt + φ).\n4. Common examples include pendulums and springs.\n5. SHM is used in clocks, bridges, and cars.\n\n**Summary**\nIn summary, Simple Harmonic Motion is a fundamental concept in physics. It helps us understand many systems in nature and engineering. Remember the key features and the equation of motion. Practice with examples to do well in exams like NEET.\n\nThat's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Simple Harmonic Motion",
+    "Periodic Motion",
+    "Restoring Force",
+    "Amplitude",
+    "Angular Frequency"
+  ],
+  "formulas": [
+    {
+      "formula": "x(t) = A cos(ωt + φ)",
+      "description": "Position of the object at any time t in SHM"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Simple Harmonic Motion",
+      "definition": "A type of periodic motion where an object moves back and forth in a straight line."
+    },
+    {
+      "term": "Amplitude",
+      "definition": "The maximum distance from the center in SHM."
+    },
+    {
+      "term": "Angular Frequency",
+      "definition": "A measure of how fast the object moves in SHM."
+    },
+    {
+      "term": "Restoring Force",
+      "definition": "The force that brings the object back towards the center in SHM."
+    }
+  ]
+}

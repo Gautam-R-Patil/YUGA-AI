@@ -1,0 +1,320 @@
+[
+    {
+        "id": 80,
+        "question_number": "2",
+        "text": "Lungs are made up of air-filled sacs, the alveoli. They do not collapse even after forceful expiration, because of:",
+        "subject": "Biology",
+        "sub_topic": "Respiratory System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Inspiratory Reserve Volume",
+            "Tidal Volume",
+            "Expiratory Reserve Volume",
+            "Residual Volume"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 41,
+        "correct_answer": "Residual Volume",
+        "basic_answer": "Residual Volume prevents the alveoli from collapsing during forceful expiration by ensuring that some air remains in the lungs at all times.",
+        "explanation": "### Core Concept\n\nThe stability of the lungs is maintained by ensuring that the alveoli (air sacs) are never completely empty. This is achieved through a specific volume of air that cannot be voluntarily exhaled and the presence of surfactant which reduces surface tension.\n\n### Solution Approach\n\nEven after a person performs a maximum, forceful expiration (expelling the Expiratory Reserve Volume), a significant amount of air remains trapped in the lungs. This volume, known as Residual Volume (RV), keeps the lungs partially inflated and prevents the walls of the alveoli from sticking together (collapsing).\n\n### Why This Answer\n\nResidual Volume is the only lung volume that remains in the respiratory system after maximal effort exhalation. Without this 1.1 to 1.2 liters of air, the lungs would collapse completely, and the effort required to re-inflate them with the next breath would be physiologically impossible.\n\n### Common Mistakes\n\n* Confusing ERV with RV: Thinking that Expiratory Reserve Volume is what stays in the lungs; however, ERV is the air you *can* force out, while RV is what you *cannot*.\n* Ignoring Surfactant: While surfactant is critical for reducing tension, the question asks specifically about why they don't collapse *due to volumes*, making Residual Volume the correct anatomical answer.",
+        "keywords": {
+            "RV": "Residual Volume",
+            "L": "liters"
+        }
+    },
+    {
+        "id": 81,
+        "question_number": "3",
+        "text": "Fruit and leaf drop at early stages can be prevented by the application of:",
+        "subject": "Botany",
+        "sub_topic": "Plant Hormones",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Ethylene",
+            "Auxins",
+            "Gibberellic acid",
+            "Cytokinins"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 42,
+        "correct_answer": "Auxins",
+        "basic_answer": "Auxins promote cell elongation and development in plants, which can help prevent fruit and leaf drop at early stages. They inhibit the abscission process and support the retention of plant organs. \n\nHence the answer is Auxins.",
+        "explanation": "### Core Concept\n\nAbscission is the natural process by which a plant drops its parts, such as leaves and fruits. This process is regulated by a balance of different phytohormones that either promote or inhibit the formation of an abscission layer at the base of the petiole or fruit stalk.\n\n### Solution Approach\n\nAuxins are known to prevent the premature abscission of young leaves and fruits. By maintaining a high concentration of auxin in these organs relative to the stem, the formation of the abscission zone is inhibited, keeping the parts attached to the plant.\n\n### Why This Answer\n\nIn agricultural and horticultural practices, synthetic auxins (like NAA or 2,4-D in low concentrations) are sprayed on crops to prevent \"early drop,\" which ensures a higher harvest yield. Other hormones like ethylene and abscisic acid actually have the opposite effect and promote the dropping of plant parts.\n\n### Common Mistakes\n\n* Choosing Ethylene: This is a common error because ethylene is the \"ripening hormone\"; however, it is the primary hormone that *causes* fruits and leaves to fall off (promotes abscission).\n* Confusion with Gibberellins: Thinking that since gibberellins promote growth, they must prevent drop, but their role is primarily in stem elongation and seed germination.",
+        "keywords": {}
+    },
+    {
+        "id": 82,
+        "question_number": "4",
+        "text": "Presence of plants arranged into well-defined vertical layers depending on their height can be seen best in:",
+        "subject": "Botany",
+        "sub_topic": "Ecology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Tropical Rain Forest",
+            "Grassland",
+            "Temperate Forest",
+            "Tropical Savannah"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 43,
+        "correct_answer": "Tropical Rain Forest",
+        "basic_answer": "Plants in a tropical rain forest exhibit a distinct layering structure, including emergent trees, a canopy, understory, and forest floor. This stratification occurs because different plant species occupy specific height zones, optimizing light capture and resource use.",
+        "explanation": "### Core Concept\n\nVertical stratification is the arrangement of vegetation in an ecosystem into distinct layers based on height. This structure is an evolutionary response to competition for sunlight, where different species occupy different vertical niches.\n\n### Solution Approach\n\nThe complexity of stratification depends on the biodiversity and the abundance of resources like water and heat. In a multi-layered forest, you typically see emergent trees (the tallest), the canopy (the main layer), the understory (smaller trees), the shrub layer, and the forest floor (herbs and mosses).\n\n### Why This Answer\n\nTropical rain forests possess the most diverse and clearly defined vertical layers (strata) of any terrestrial ecosystem. Because of the high density of life, plants must reach different heights to survive, creating a \"multi-story\" biological structure that is far more complex than that of a grassland or a temperate forest.\n\n### Common Mistakes\n\n* Assuming all forests are the same: While temperate forests have some layering, it is usually just a canopy and a ground layer, lacking the 5+ distinct tiers found in the tropics.\n* Confusing layers with ground cover: Thinking a dense grassland is stratified; grasslands are essentially single-layered systems because the dominant plants all exist at roughly the same height.",
+        "keywords": {
+            "TL": "Tropical Layering",
+            "P": "Plants",
+            "C": "Canopy",
+            "UL": "Understory Layer",
+            "E": "Emergent Layer"
+        }
+    },
+    {
+        "id": 83,
+        "question_number": "5",
+        "text": "Select the correct route for the passage of sperms in male frogs:",
+        "subject": "Zoology",
+        "sub_topic": "Reproductive System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Testes, Vasa efferentia, Kidney, Seminal Vesicle, Urinogenital duct, Cloaca",
+            "Testes, Vasa efferentia, Bidder's canal, Uretar, Cloaca",
+            "Testes, Vasa efferentia, Kidney, Urinogenital duct, Cloaca",
+            "Testes, Bidder's canal, Kidney, Vasa efferentia, Urinogenital duct, Cloaca"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 44,
+        "correct_answer": "Testes, Vasa efferentia, Kidney, Urinogenital duct, Cloaca",
+        "basic_answer": "The correct route of sperm passage in male frogs is: Testes -> Vasa efferentia -> Kidney -> Urinogenital duct -> Cloaca. The vasa efferentia enter the kidneys and communicate with the urinogenital duct.",
+        "explanation": "### Core Concept\n\nThe male reproductive system of a frog (e.g., *Rana tigrina*) is uniquely integrated with the excretory system. The path taken by the sperm involves passing through the internal structures of the kidney before reaching the final exit duct.\n\n### Solution Approach\n\n1.  Testes: Sperm are produced in the paired testes.\n2.  Vasa efferentia: About 10-12 fine ducts carry sperm from the testes to the kidneys.\n3.  Kidney: The sperm enter the kidneys and pass through Bidder's canal.\n4.  Urinogenital duct: Sperm and urine both travel through this common duct once it exits the kidney.\n5.  Cloaca: This is the final common chamber where the duct opens before exiting the body.\n\n### Why This Answer\n\nThe sequence \"Testes -> Vasa efferentia -> Kidney -> Urinogenital duct -> Cloaca\" represents the standard anatomical pathway described in biology. While Bidder's canal is an internal structure of the kidney, the broad external pathway must include the kidney as a mandatory checkpoint for the sperm.\n\n### Common Mistakes\n\n* Confusing with mammals: Thinking there is a separate vas deferens; in male frogs, the ureter and sperm duct are fused into the urinogenital duct.\n* Bidder's Canal position: Mistakenly placing Bidder's canal *before* the kidney; it is actually a structure found *within* the kidney through which sperm must pass.",
+        "keywords": {}
+    },
+    {
+        "id": 84,
+        "question_number": "6",
+        "text": "Which of the following statements is correct?",
+        "subject": "Biology",
+        "sub_topic": "Excretory System",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "The descending limb of loop of Henle is impermeable to water.",
+            "The ascending limb of loop of Henle is permeable to water.",
+            "The descending limb of loop of Henle is permeable to electrolytes.",
+            "The ascending limb of loop of Henle is impermeable to water."
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 45,
+        "correct_answer": "The ascending limb of loop of Henle is impermeable to water.",
+        "basic_answer": "The ascending limb of the loop of Henle is impermeable to water. This structure plays a crucial role in the reabsorption of sodium and chloride ions, actively transporting them out into the interstitial fluid. This is essential for creating a concentration gradient in the kidney, but it does not allow water to follow due to its impermeability.",
+        "explanation": "### Core Concept\n\nThe Loop of Henle functions to create an osmotic gradient in the kidney medulla through a countercurrent multiplier system. The efficiency of this system relies on the specific and opposite permeability characteristics of the descending and ascending limbs.\n\n### Solution Approach\n\n* Descending Limb: Highly permeable to water but almost impermeable to electrolytes. As filtrate moves down, water leaves, making the urine more concentrated.\n* Ascending Limb: Completely impermeable to water but allows for the transport (active or passive) of electrolytes (like NaCl). As filtrate moves up, salts leave but water cannot, making the urine more dilute.\n\n### Why This Answer\n\nStatement D is the only physiologically correct fact. The impermeability to water in the ascending limb is what allows the kidney to pump out salt into the medulla without the water following by osmosis, which is the foundational step for producing concentrated urine elsewhere.\n\n### Common Mistakes\n\n* Swapping the properties: A very common mistake is confusing which limb is permeable to water and which is permeable to salt.\n* Thinking both are the same: Assuming the entire loop of Henle has the same properties, whereas they must be different for the countercurrent mechanism to work.",
+        "keywords": {
+            "LOH": "Loop of Henle",
+            "Na+": "Sodium ion",
+            "Cl-": "Chloride ion"
+        }
+    },
+    {
+        "id": 85,
+        "question_number": "7",
+        "text": "In case of a couple where the male is having a very low sperm count, which technique will be suitable for fertilization?",
+        "subject": "Zoology",
+        "sub_topic": "Reproductive Techniques",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Gamete intracytoplasmic fallopian transfer",
+            "Aritificial insemination",
+            "Intracytoplasmic sperm injection",
+            "Intrauterine transfer"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 46,
+        "correct_answer": "Intracytoplasmic sperm injection",
+        "basic_answer": "Intracytoplasmic sperm injection (ICSI) is a technique used to inject a single sperm directly into an egg, making it suitable for cases of low sperm count. This method is highly effective as it bypasses many barriers to natural fertilization. \n\nHence the answer is C.",
+        "explanation": "### Core Concept\n\nAssisted Reproductive Technology (ART) offers various methods to help couples conceive based on the specific cause of infertility. When the male partner has severe oligospermia (very low sperm count), techniques that rely on the sperm swimming to the egg are often unsuccessful.\n\n### Solution Approach\n\nIntracytoplasmic Sperm Injection (ICSI) is a specialized form of IVF. In this procedure, a single viable sperm is selected and manually injected directly into the cytoplasm of the egg using a micro-needle. This completely bypasses the need for the sperm to navigate the female reproductive tract or penetrate the egg's outer layers on its own.\n\n### Why This Answer\n\nICSI is the most effective solution for male-factor infertility. While Artificial Insemination (AI) or GIFT might work for mild cases, they still require a significant number of motile sperm to successfully reach the egg. ICSI requires only one functional sperm per egg.\n\n### Common Mistakes\n\n* Choosing Artificial Insemination: AI involves placing a sperm sample in the uterus, but if the count is \"very low,\" there are still not enough sperm to ensure fertilization.\n* Confusing IUT and ICSI: Intrauterine Transfer (IUT) is the process of putting an embryo into the uterus, which happens *after* fertilization has already been achieved (potentially by ICSI).",
+        "keywords": {}
+    },
+    {
+        "id": 86,
+        "question_number": "8",
+        "text": "Alexander Von Humboldt described for the first time:",
+        "subject": "Biology",
+        "sub_topic": "Ecology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Laws of limiting factor",
+            "Species-Area relationships",
+            "Population Growth equations",
+            "Ecological Biodiversity"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 47,
+        "correct_answer": "Species-Area relationships",
+        "basic_answer": "Alexander von Humboldt is credited with describing the species–area relationship, showing that species richness increases with the area sampled. Laws of limiting factors are associated with Liebig and Shelford, not Humboldt.",
+        "explanation": "### Core Concept\n\nBiogeography is the study of how species are distributed across the planet. Alexander von Humboldt, while exploring the South American jungles, noticed a mathematical pattern in how the number of species changes as the size of the study area increases.\n\n### Solution Approach\n\nHumboldt formulated the \"Species-Area Relationship,\" which states that within a region, species richness increases with increasing explored area, but only up to a certain limit. On a log scale, this relationship is represented by a straight line with the equation: $log S = log C + Z log A$.\n\n### Why This Answer\n\nThis is a specific historical and scientific fact within ecology. The other options belong to different scientists: Laws of Limiting Factors (Blackman), Population Growth (Verhulst-Pearl), and while many studied biodiversity, Humboldt was the first to quantitatively link it to land area.\n\n### Common Mistakes\n\n* Confusing with Limiting Factors: Students often mix up names like Blackman (Law of Limiting Factors) with Humboldt.\n* Vague terminology: Choosing \"Ecological Biodiversity\" because it sounds like a broad enough answer, but Humboldt's contribution was a specific mathematical relationship.",
+        "keywords": {}
+    },
+    {
+        "id": 87,
+        "question_number": "9",
+        "text": "Zygotic meiosis is characteristic of",
+        "subject": "Botany",
+        "sub_topic": "Reproduction in Plants",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Fucus",
+            "Funaria",
+            "Chlamydomonas",
+            "Marchantia"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 48,
+        "correct_answer": "Chlamydomonas",
+        "basic_answer": "Chlamydomonas exhibits zygotic meiosis as part of its reproductive cycle. It is characterized by the formation of a zygote that undergoes meiosis to produce haploid vegetative cells. \n\nHence the answer is C.",
+        "explanation": "### Core Concept\n\nIn the haplontic life cycle, the dominant stage of the organism is haploid (n). In such organisms, meiosis does not occur during gamete formation; instead, it occurs immediately after fertilization when the diploid zygote (2n) is formed.\n\n### Solution Approach\n\nZygotic meiosis occurs when the zygote is the only diploid stage in the entire life cycle. Upon formation, the zygote undergo meiosis to produce haploid spores that grow into the main haploid body. This is a hallmark of green algae like *Chlamydomonas*, *Volvox*, and *Spirogyra*.\n\n### Why This Answer\n\n* Chlamydomonas: Haplontic cycle (Zygotic meiosis).\n* Fucus: Diplontic cycle (Gametic meiosis).\n* Funaria/Marchantia: Haplo-diplontic cycle (Sporic meiosis), where meiosis occurs in the capsule of the sporophyte to produce spores.\n\n### Common Mistakes\n\n* Generalizing all algae: Thinking all algae have the same cycle; for example, *Fucus* is an exception that has a diplontic life cycle.\n* Confusing plant groups: Mixing up mosses (*Funaria*) with algae; mosses have a distinct multicellular sporophyte stage where meiosis occurs, not in the zygote.",
+        "keywords": {
+            "Z": "Zygote",
+            "M": "Meiosis",
+            "H": "Haploid",
+            "N": "Diploid"
+        }
+    },
+    {
+        "id": 88,
+        "question_number": "10",
+        "text": "Which ecosystem has the maximum biomass?",
+        "subject": "Biology",
+        "sub_topic": "Ecosystems",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Grassland ecosystem",
+            "Pond ecosystem",
+            "Lake ecosystem",
+            "Forest ecosystem"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 49,
+        "correct_answer": "Forest ecosystem",
+        "basic_answer": "In forest ecosystems, which consist of large amounts of plant biomass like trees and undergrowth, the total biomass is significantly high compared to other ecosystems. Forests provide a wide range of habitats and are primary producers of organic matter through photosynthesis. Hence, forest ecosystems typically contain the maximum biomass.",
+        "explanation": "### Core Concept\n\nBiomass is the total dry mass of all living organisms in a given area at a given time. It is essentially a measure of the \"standing crop\" of organic material accumulated by the producers and consumers in that system.\n\n### Solution Approach\n\nTo determine maximum biomass, we look at the size, density, and lifespan of the primary producers. Woody plants like trees store massive amounts of carbon and organic matter in their trunks and roots over long periods, whereas producers in aquatic or grassland systems are often small and short-lived.\n\n### Why This Answer\n\nA forest ecosystem has a much higher standing biomass per square meter than any other listed system. In a forest, the organic material is \"locked\" in massive tree structures. In contrast, ponds and lakes often have an inverted biomass pyramid where the standing mass of phytoplankton is very small because they are eaten almost as fast as they reproduce.\n\n### Common Mistakes\n\n* Confusing Productivity with Biomass: Thinking that because a pond grows things quickly, it has more mass. Productivity is the *rate* of production; biomass is the *amount* present at one moment.\n* Oceanic misconception: Assuming the vast ocean has the most biomass per unit area; while the total global biomass is high, the *density* of biomass in a forest is significantly greater.",
+        "keywords": {}
+    },
+    {
+        "id": 89,
+        "question_number": "1",
+        "text": "If there are 999 bases in an RNA that codes for a protein with 333 amino acids, and the base at position 901 is deleted such that the length of the RNA becomes 998 bases, how many codons will be altered?",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "1",
+            "11",
+            "33",
+            "333"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 50,
+        "correct_answer": "33",
+        "basic_answer": "An RNA with 999 bases codes for 333 codons. Deletion of one base at position 901 creates a frameshift starting from the 301st codon. Thus, codons 301 to 333 (total 33) are altered. \n\nHence the answer is 33.",
+        "explanation": "### Core Concept\n\nThe genetic code is read in discrete, non-overlapping sets of three bases called codons. A deletion or insertion of a base (not in a multiple of three) causes a frameshift mutation, which changes the reading frame for all subsequent codons from the point of mutation.\n\n### Solution Approach\n\n1.  Total Codons: 999 bases / 3 = 333 codons.\n2.  Locate Mutation: The first 900 bases comprise the first 300 codons ($300 \\times 3 = 900$).\n3.  Identify Affected Start: Base 901 is the first base of the 301st codon. Therefore, the mutation starts at codon 301.\n4.  Count Affected Codons: Since the reading frame is shifted for all remaining bases, codons 301 through 333 are all altered.\n5.  Calculation: $333 - 301 + 1 = 33$ codons.\n\n### Why This Answer\n\nBecause the deletion occurs at the start of the 301st codon, every codon from that point until the end of the RNA string is scrambled. The simple subtraction of the starting codon from the total gives us 33 affected triplets.\n\n### Common Mistakes\n\n* Thinking only one codon changes: Forgetting that a deletion shifts the entire sequence (frameshift), not just a single point.\n* Calculation error: Misidentifying which codon base 901 belongs to. Dividing 901 by 3 gives 300.33, meaning it is past the 300th codon and part of the 301st.",
+        "keywords": {}
+    }
+]

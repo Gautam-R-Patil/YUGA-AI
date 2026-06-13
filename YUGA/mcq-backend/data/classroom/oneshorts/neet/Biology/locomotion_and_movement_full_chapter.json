@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Locomotion and Movement",
+    "chapter_number": "20",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:34:35.050350",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most essential topics in Biology: Locomotion and Movement.\n\nConcept Name: Locomotion and Movement\n\nSimple Explanation:\nMovement is a fundamental characteristic of all living organisms. Locomotion is a specialized form of movement that results in a change of place or location. It involves coordinated activities of muscles, bones, and joints in many animals.\n\nKey Ideas:\n1. Types of Movement: Amoeboid, ciliary, and muscular.\n2. Muscular System: Understanding of muscle structure and contraction (actin and myosin filaments).\n3. Skeletal System: Types of bones and joints facilitating movement.\n4. Body Movements: Flexion, extension, abduction, and adduction.\n\nNEET Question Pattern: NEET often asks about muscle structure (sarcomere, sliding filament theory), types of joints, bone composition, and different types of movements. Be familiar with diagrams and labeling structures like the sarcomere and bones.\n\nQuick Revision Points:\n1. Movement involves both voluntary and involuntary activities.\n2. Types of muscles: Skeletal, smooth, and cardiac, each with distinct structures and functions.\n3. Joint types: Fibrous, cartilaginous, and synovial, each allowing different movements.\n4. Sliding Filament Theory: Describes how muscles contract at the molecular level using actin and myosin.\n5. Common NEET questions include diagrams and functions of joints and muscle contraction.\n\nRemember, movement is essential for various physiological activities, and understanding the proper mechanics of how muscles work is critical for solving NEET questions related to human physiology.",
+  "duration_minutes": "10",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Locomotion",
+    "Movement",
+    "Muscular System",
+    "Skeletal System",
+    "Joint Types",
+    "Sliding Filament Theory",
+    "Actin and Myosin",
+    "Sarcomere",
+    "Voluntary Muscles",
+    "Involuntary Muscles"
+  ],
+  "formulas": [
+    "Muscle contraction: Actin + Myosin + ATP = Muscle movement (through sliding of filaments)"
+  ],
+  "definitions": [
+    {
+      "term": "Locomotion",
+      "definition": "A type of movement that results in a change of location using limbs or other specialized organs."
+    },
+    {
+      "term": "Movement",
+      "definition": "A characteristic of life enabling organisms to reposition parts of their body."
+    },
+    {
+      "term": "Muscular System",
+      "definition": "A body system comprised of muscles that allows movement and stability of the body."
+    },
+    {
+      "term": "Skeletal System",
+      "definition": "The framework of bones that supports body structure and protects vital organs."
+    },
+    {
+      "term": "Joint Types",
+      "definition": "Classifications of joints based on their structure and movement capability, including fibrous, cartilaginous, and synovial joints."
+    },
+    {
+      "term": "Sliding Filament Theory",
+      "definition": "A theory explaining muscle contraction where actin and myosin filaments slide past each other."
+    },
+    {
+      "term": "Actin and Myosin",
+      "definition": "Proteins that interact to cause muscle contraction through a cyclic interaction."
+    },
+    {
+      "term": "Sarcomere",
+      "definition": "The structural unit of a myofibril in a muscle cell, composed of actin and myosin filaments."
+    },
+    {
+      "term": "Voluntary Muscles",
+      "definition": "Muscles that can be moved consciously, primarily skeletal muscles."
+    },
+    {
+      "term": "Involuntary Muscles",
+      "definition": "Muscles that operate without voluntary control, such as cardiac and smooth muscles."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Waves",
+    "chapter_number": 15,
+    "topic": "Reflection of Waves",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:05:34.065455",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the reflection of waves. This is an important topic in physics and often appears in NEET exams. Let's start with the basics. \n\nReflection of waves happens when a wave hits a surface and bounces back. Just like when you shout in a valley and hear your voice again. This is called an echo. Waves can be sound, light, or water waves. \n\nFirst, let's talk about the laws of reflection for waves. There are two main laws. The first law says the angle of incidence is equal to the angle of reflection. This means the angle at which the wave hits the surface is the same as the angle it bounces off. The second law says the incident wave, reflected wave, and the normal (an imaginary line at 90 degrees to the surface) all lie in the same plane. \n\nNow, let's see some examples of wave reflection in physics. Mirrors reflect light waves. This is why you can see yourself in a mirror. Sound waves reflect off walls, which is why you can hear echoes. Water waves reflect off the sides of a pool or a riverbank. \n\nIn engineering, wave reflection has many uses. Engineers use it in designing buildings to control sound. It is also used in sonar technology, which helps submarines find objects underwater by sending sound waves and listening for echoes. \n\nLet's solve a simple problem on wave reflection. Imagine a light wave hits a mirror at a 30-degree angle. What is the angle of reflection? According to the first law of reflection, the angle of incidence equals the angle of reflection. So, the angle of reflection is also 30 degrees.\n\nA common mistake students make is confusing the angle of incidence with the angle of reflection. Remember, they are always equal.\n\nNext, let's talk about the graphical representation of wave reflection. Imagine a straight line representing the wave hitting the surface. This line is the incident wave. The line that bounces back is the reflected wave. The normal line is at 90 degrees to the surface. \n\nKey points to remember: \n- The angle of incidence equals the angle of reflection.\n- Incident wave, reflected wave, and normal are in the same plane.\n- Wave reflection is used in mirrors, sound control, and sonar.\n\nIn summary, reflection of waves is when waves bounce back after hitting a surface. It follows two main laws and has many practical uses. Understanding this concept is important for NEET exams. \n\nKeep practicing problems and remember the laws of reflection. This will help you in exams and in understanding how waves behave in the real world.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Reflection of Waves",
+    "Angle of Incidence",
+    "Angle of Reflection",
+    "Normal Line",
+    "Echo"
+  ],
+  "formulas": [
+    {
+      "formula": "Angle of Incidence = Angle of Reflection",
+      "description": "This formula shows that the angle at which the wave hits the surface is equal to the angle at which it reflects."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Reflection of Waves",
+      "definition": "When a wave hits a surface and bounces back."
+    },
+    {
+      "term": "Angle of Incidence",
+      "definition": "The angle at which a wave hits a surface."
+    },
+    {
+      "term": "Angle of Reflection",
+      "definition": "The angle at which a wave bounces off a surface."
+    },
+    {
+      "term": "Normal Line",
+      "definition": "An imaginary line at 90 degrees to the surface where the wave hits."
+    }
+  ]
+}

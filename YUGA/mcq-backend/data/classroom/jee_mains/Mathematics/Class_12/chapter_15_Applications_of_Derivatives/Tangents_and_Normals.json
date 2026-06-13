@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Applications of Derivatives",
+    "chapter_number": 15,
+    "topic": "Tangents and Normals",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:58:12.541165",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about tangents and normals to curves. This topic is part of the 'Applications of Derivatives' chapter in Class 12 Mathematics. Understanding this is important for solving JEE Main problems. Let's start with the basics.\n\nFirst, what is a tangent? A tangent is a straight line that touches a curve at one point. This point is called the point of tangency. The tangent line shows the direction of the curve at that point.\n\nTo find the equation of a tangent to a curve y = f(x) at a point (x_1, y_1), we use the derivative. The formula is:\n\nEquation of Tangent: y - y_1 = f'(x_1)(x - x_1)\n\nHere, f'(x_1) is the derivative of f(x) at x = x_1. It gives the slope of the tangent.\n\nLet's take an example. Find the tangent to the curve y = x^2 at the point (1, 1). First, find the derivative: f'(x) = 2x. At x = 1, f'(1) = 2. So, the equation is y - 1 = 2(x - 1) or y = 2x - 1.\n\nNow, what is a normal? A normal is a line perpendicular to the tangent at the point of tangency. The slope of the normal is the negative reciprocal of the tangent's slope.\n\nEquation of Normal: y - y_1 = -1/f'(x_1)(x - x_1)\n\nUsing our previous example, the slope of the tangent was 2. So, the slope of the normal is -1/2. The normal's equation is y - 1 = -1/2(x - 1) or y = -1/2x + 3/2.\n\nNext, let's discuss the angle between two curves. If two curves intersect, the angle between them is the angle between their tangents at the point of intersection.\n\nAngle θ between two curves: tan θ = |(m_1 - m_2) / (1 + m_1 * m_2)|\n\nHere, m_1 and m_2 are the slopes of the tangents to the curves.\n\nA common mistake in JEE Main is forgetting to use absolute value. Remember, angles are positive.\n\nLet's talk about the condition for tangency. For a line to be tangent to a curve, it must touch the curve at exactly one point.\n\nNow, parametric form of tangents. Sometimes, curves are given in parametric form, like x = g(t) and y = h(t). For such curves, the tangent is:\n\nEquation of Tangent: (y - h(t)) = (dy/dt) / (dx/dt) * (x - g(t))\n\nLastly, tangents and normals in polar coordinates. For curves in polar form r = f(θ), the tangent is:\n\nEquation of Tangent: r * sin(θ - α) = (dr/dθ)\n\nHere, α is the angle the tangent makes with the radius vector.\n\nIn summary, remember these key points: \n- Use derivatives to find slopes.\n- Tangent and normal equations are important.\n- Angle between curves uses tangent of angle formula.\n\nPractice these concepts with different examples to get better. Watch out for calculation errors, especially with slopes and angles. Good luck with your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Tangent",
+    "Normal",
+    "Slope",
+    "Angle",
+    "Derivative"
+  ],
+  "formulas": [
+    {
+      "formula": "y - y_1 = f'(x_1)(x - x_1)",
+      "description": "Used to find the equation of the tangent to a curve at a point"
+    },
+    {
+      "formula": "y - y_1 = -1/f'(x_1)(x - x_1)",
+      "description": "Used to find the equation of the normal to a curve at a point"
+    },
+    {
+      "formula": "tan θ = |(m_1 - m_2) / (1 + m_1 * m_2)|",
+      "description": "Used to find the angle between two curves"
+    },
+    {
+      "formula": "r * sin(θ - α) = (dr/dθ)",
+      "description": "Used to find the tangent in polar coordinates"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Tangent",
+      "definition": "A straight line that touches a curve at one point"
+    },
+    {
+      "term": "Normal",
+      "definition": "A line perpendicular to the tangent at the point of tangency"
+    }
+  ]
+}

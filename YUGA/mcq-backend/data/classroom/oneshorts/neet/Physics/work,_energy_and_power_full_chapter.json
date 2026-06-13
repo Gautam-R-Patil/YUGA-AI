@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Work, Energy and Power",
+    "chapter_number": "6",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:10:19.407688",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts - Work, Energy, and Power. \n\nWork is done when a force causes a displacement. Simply put, work is the product of the force applied and the distance moved in the direction of the force. If you apply a force and nothing moves, no work is done. \n\nThe formula for work is: \\(W = F \\cdot d \\cdot \\cos\\theta\\), where \\(F\\) is force, \\(d\\) is displacement, and \\(\\theta\\) is the angle between force and displacement.\n\nNext, let's talk about Energy. Energy is the capacity to do work. It's present in many forms, but the primary focus here is on kinetic and potential energy. Kinetic energy is the energy of a moving object and is given by \\(KE = \\frac{1}{2}mv^2\\), where \\(m\\) is mass and \\(v\\) is velocity. Potential energy, specifically gravitational potential energy, is stored energy owing to position and is given by \\(PE = mgh\\), where \\(h\\) is the height from the ground.\n\nNow onto Power. Power measures how fast work is done or energy is transferred. The formula for power is \\(P = \\frac{W}{t}\\), where \\(W\\) is work done and \\(t\\) is time taken.\n\nNEET often asks questions that involve calculating work using forces, energy changes in mechanical systems, or the efficiency of machines using power. Questions may involve scenarios like determining the work done by a variable force or finding total mechanical energy in a system.\n\nQuick Revision Points:\n1. Work is force times displacement in the direction of the force, \\(W = F \\cdot d \\cdot \\cos\\theta\\).\n2. Kinetic energy is \\(KE = \\frac{1}{2}mv^2\\).\n3. Potential energy is \\(PE = mgh\\).\n4. Power is the rate of doing work, \\(P = \\frac{W}{t}\\).\n5. Understand the conservation of energy in isolated systems.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Work",
+    "Energy",
+    "Power",
+    "Kinetic Energy",
+    "Potential Energy",
+    "Conservation of Energy",
+    "Mechanical Energy",
+    "Work-Energy Theorem",
+    "Variable Force",
+    "Efficiency"
+  ],
+  "formulas": [
+    "W = F \\cdot d \\cdot \\cos\\theta",
+    "KE = \\frac{1}{2}mv^2",
+    "PE = mgh",
+    "P = \\frac{W}{t}"
+  ],
+  "definitions": [
+    {
+      "term": "Work",
+      "definition": "Work is the product of force acting on an object and the displacement caused, factoring the angle between force and displacement."
+    },
+    {
+      "term": "Energy",
+      "definition": "Energy is the capacity to perform work, available in different forms such as kinetic and potential energy."
+    },
+    {
+      "term": "Power",
+      "definition": "Power is the rate at which work is done or energy is transferred over time."
+    },
+    {
+      "term": "Kinetic Energy",
+      "definition": "The energy possessed by an object due to its motion, given as KE = 1/2 mv^2."
+    },
+    {
+      "term": "Potential Energy",
+      "definition": "Energy stored in a body due to its position relative to others, stresses within itself, or electric charge."
+    },
+    {
+      "term": "Conservation of Energy",
+      "definition": "A principle stating that total energy of an isolated system remains constant unless external work is done."
+    },
+    {
+      "term": "Mechanical Energy",
+      "definition": "The sum of kinetic and potential energy in a physical system."
+    },
+    {
+      "term": "Work-Energy Theorem",
+      "definition": "The concept that the work done by the sum of all forces acting on a particle equals the change in the kinetic energy of the particle."
+    },
+    {
+      "term": "Variable Force",
+      "definition": "A force that varies in magnitude and/or direction over the path of the motion."
+    },
+    {
+      "term": "Efficiency",
+      "definition": "A measure of how much work or energy is conserved in a process, often expressed as a percentage."
+    }
+  ]
+}

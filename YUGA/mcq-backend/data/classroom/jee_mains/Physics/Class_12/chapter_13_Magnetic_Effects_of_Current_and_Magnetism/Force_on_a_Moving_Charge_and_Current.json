@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Magnetic Effects of Current and Magnetism",
+    "chapter_number": 13,
+    "topic": "Force on a Moving Charge and Current",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:57:32.170982",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the force on a moving charge and current. This is part of the chapter on Magnetic Effects of Current and Magnetism. Understanding these forces is crucial for solving JEE Main problems. Let's begin with the Lorentz force.\n\n### Lorentz Force\nThe Lorentz force is the force on a charged particle moving in a magnetic field. It is given by the formula F = q(v x B). Here, F is the force, q is the charge, v is the velocity of the charge, and B is the magnetic field. The symbol 'x' represents the cross product, which means the direction of F is perpendicular to both v and B.\n\n**Example:** If a proton moves with a velocity of 2 m/s in a magnetic field of 3 T, the force on it is F = q(v x B). Substitute q = 1.6 x 10^-19 C, v = 2 m/s, B = 3 T. Calculate F.\n\n**JEE Main Mistake Note:** Students often forget that the force direction is given by the right-hand rule. Always check the direction when solving problems.\n\n### Force on a Current-Carrying Conductor\nWhen a conductor with current I is placed in a magnetic field B, it experiences a force. The formula is F = I(L x B). Here, L is the length of the conductor.\n\n**Example:** A wire with a current of 5 A and length 0.5 m is in a 2 T magnetic field. Use F = I(L x B) to find the force.\n\n**JEE Main Mistake Note:** Many students confuse the angle in the cross product. Remember, it is the angle between L and B.\n\n### Force Between Parallel Conductors\nTwo parallel conductors carrying currents exert a force on each other. If currents are in the same direction, they attract. If opposite, they repel. The force per unit length is F/L = (μ₀/2π) x (I₁I₂/d), where μ₀ is the permeability of free space, I₁ and I₂ are currents, and d is the distance between them.\n\n**Example:** Two wires 1 m apart carry 10 A each. Find the force per meter.\n\n**JEE Main Mistake Note:** Watch out for units, especially when calculating μ₀.\n\n### Torque on a Current Loop\nA current loop in a magnetic field experiences torque. It is given by τ = nIAB sin θ. Here, n is the number of turns, I is the current, A is the area, B is the magnetic field, and θ is the angle between the normal to the loop and B.\n\n**Example:** A loop with 5 turns, area 0.1 m², and current 2 A in a 0.3 T field. Calculate the torque.\n\n**JEE Main Mistake Note:** Students often forget to multiply by the number of turns n.\n\n### Magnetic Dipole Moment\nThe magnetic dipole moment (μ) is a measure of the strength of a magnet. For a current loop, μ = nIA, where n is the number of turns, I is the current, and A is the area.\n\n**Example:** Calculate the magnetic dipole moment of a loop with 3 turns, current 4 A, and area 0.2 m².\n\n**JEE Main Mistake Note:** Remember, μ is a vector quantity, and its direction is given by the right-hand rule.\n\n### Key Takeaways\n- Lorentz force depends on charge, velocity, and magnetic field.\n- Force on a conductor depends on current, length, and magnetic field.\n- Parallel conductors attract or repel based on current direction.\n- Torque on a loop depends on number of turns, current, area, and magnetic field.\n- Magnetic dipole moment is important for understanding magnets.\n\n### Summary\nWe have covered how moving charges and currents interact with magnetic fields. Remember the formulas and the right-hand rule for directions. Practice these concepts with examples to excel in JEE Main.\n\nThat's it for today. Keep practicing and see you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Lorentz Force",
+    "Current-Carrying Conductor",
+    "Parallel Conductors",
+    "Torque",
+    "Magnetic Dipole Moment"
+  ],
+  "formulas": [
+    {
+      "formula": "F = q(v x B)",
+      "description": "Used to calculate the force on a charged particle in a magnetic field"
+    },
+    {
+      "formula": "F = I(L x B)",
+      "description": "Used for finding the force on a current-carrying conductor in a magnetic field"
+    },
+    {
+      "formula": "F/L = (μ₀/2π) x (I₁I₂/d)",
+      "description": "Calculates the force per unit length between two parallel conductors"
+    },
+    {
+      "formula": "τ = nIAB sin θ",
+      "description": "Used to find the torque on a current loop in a magnetic field"
+    },
+    {
+      "formula": "μ = nIA",
+      "description": "Calculates the magnetic dipole moment of a current loop"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Lorentz Force",
+      "definition": "The force on a charged particle moving in a magnetic field"
+    },
+    {
+      "term": "Magnetic Dipole Moment",
+      "definition": "A measure of the strength of a magnet, given by nIA for a current loop"
+    }
+  ]
+}

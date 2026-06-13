@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "chapter_number": 25,
+    "topic": "Reactions of Aldehydes and Ketones",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:28:05.733111",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the reactions of aldehydes and ketones. These reactions are very important for JEE Main. Let's start with nucleophilic addition reactions. \n\nA nucleophile is a chemical that loves positive charges. Aldehydes and ketones have a carbon-oxygen double bond. This bond is called a carbonyl group. The carbon in this group is slightly positive. So, nucleophiles can easily attack it. \n\nIn JEE Main, you may see questions where you add a nucleophile to an aldehyde or ketone. Remember, the nucleophile attacks the carbon, breaking the double bond. Then, you get an alcohol. \n\nNext, let's talk about Grignard reagent reactions. Grignard reagents are compounds with magnesium. They are very reactive. When a Grignard reagent reacts with an aldehyde or ketone, it forms an alcohol. \n\nFor example, if you react a Grignard reagent with formaldehyde, you get a primary alcohol. If you react it with other aldehydes, you get secondary alcohols. With ketones, you get tertiary alcohols. \n\nNow, let's move to aldol condensation. This reaction happens when two aldehyde or ketone molecules join. They form a larger molecule called an aldol. This is important in making complex molecules. \n\nIn JEE Main, you should know that aldol condensation needs a base. The base removes a hydrogen from one molecule. This makes it easier for the two molecules to join. \n\nNext is the Cannizzaro reaction. This reaction happens with aldehydes that do not have a hydrogen next to the carbonyl group. In this reaction, one molecule of aldehyde is oxidized, and another is reduced. \n\nIn simple words, one molecule becomes an alcohol, and another becomes a carboxylic acid. Remember, this reaction needs a strong base like NaOH. \n\nLet's talk about Clemmensen reduction. This reaction changes a carbonyl group into a CH2 group. It uses zinc and hydrochloric acid. This is useful when you want to remove oxygen from a molecule. \n\nFinally, we have Wolff-Kishner reduction. This reaction also removes the oxygen from a carbonyl group. But it uses hydrazine and a base. It is useful when you cannot use acids. \n\nIn JEE Main, remember that Clemmensen reduction is for acidic conditions, and Wolff-Kishner is for basic conditions. \n\nCommon mistakes in JEE Main include confusing these two reductions. Always check if the conditions are acidic or basic. \n\nKey takeaways: \n- Nucleophilic addition is common and involves breaking the carbonyl bond. \n- Grignard reagents make alcohols from carbonyl compounds. \n- Aldol condensation needs a base and forms larger molecules. \n- Cannizzaro reaction turns aldehydes into alcohols and acids. \n- Clemmensen and Wolff-Kishner reductions remove oxygen but require different conditions. \n\nIn summary, understanding these reactions helps in solving many JEE Main problems. Practice identifying the type of reaction and the conditions needed. This will help you avoid mistakes. \n\nThank you for listening. Let's practice some questions now!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Nucleophile",
+    "Grignard Reagent",
+    "Aldol Condensation",
+    "Cannizzaro Reaction",
+    "Clemmensen Reduction"
+  ],
+  "formulas": [
+    {
+      "formula": "R-MgX + R'CHO -> R-CH(OH)-R'",
+      "description": "Grignard reagent reacts with aldehydes to form secondary alcohols"
+    },
+    {
+      "formula": "R-CHO + R'-CHO + Base -> R-CH(OH)-CH2-R'",
+      "description": "Aldol condensation forms a beta-hydroxy aldehyde or ketone"
+    },
+    {
+      "formula": "R-CHO + R-CHO + NaOH -> R-CH2OH + R-COOH",
+      "description": "Cannizzaro reaction converts aldehydes to alcohol and acid"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nucleophile",
+      "definition": "A chemical that donates an electron pair to form a chemical bond."
+    },
+    {
+      "term": "Carbonyl Group",
+      "definition": "A functional group composed of a carbon atom double-bonded to an oxygen atom."
+    },
+    {
+      "term": "Aldol",
+      "definition": "A compound with both an aldehyde and an alcohol group."
+    }
+  ]
+}

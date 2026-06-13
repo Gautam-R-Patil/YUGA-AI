@@ -1,0 +1,357 @@
+[
+    {
+        "id": 40,
+        "question_number": "113",
+        "text": "For an endothermic reaction, the energy of activation is E a, and the enthalpy of reaction is ΔH (both of these in kJ/mol). The minimum value of E a will be",
+        "subject": "Chemistry",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "less than H",
+            "equal to H",
+            "more than H",
+            "equal to zero"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 249,
+        "correct_answer": "more than H",
+        "basic_answer": "Given: Endothermic reaction (ΔH > 0).\n\nSolution: From Arrhenius equation concepts: Ea(forward) = Ea(reverse) + ΔH.\nSince ΔH is positive and Ea(reverse) cannot be negative, Ea(forward) must be greater than ΔH.",
+        "explanation": "**Core Concept**\n\nIn an endothermic reaction, the products lie higher in energy than the reactants, so the enthalpy change ΔH is positive. The activation energy Eₐ is the energy difference between the reactants and the transition state. For a reversible reaction the relation is:\n\n$E_{a(forward)}$ = Eₐ₍ᵣₑᵥₑᵣₛₑ₎ + ΔH.\n\n**Solution **\n\nBecause ΔH > 0 for an endothermic process, $E_{a(forward)}$ must always exceed ΔH by the amount Eₐ₍ᵣₑᵥₑᵣₛₑ₎. Even in the limiting case where the reverse activation energy is very small, the forward activation energy cannot be less than ΔH. Therefore, the minimum possible value of Eₐ for an endothermic reaction is greater than ΔH.\n\n**Why This Answer**\n\nAmong the options given, only \"more than H\" correctly reflects that the activation energy for an endothermic reaction must be numerically greater than its enthalpy change. Hence, the correct choice is \"more than H\" (option C).",
+        "keywords": {
+            "Eₐ": "Activation energy",
+            "ΔH": "Enthalpy change",
+            "kJ/mol": "Kilojoules per mole"
+        }
+    },
+    {
+        "id": 41,
+        "question_number": "102",
+        "text": "Which of the following reactions is an example of nucleophilic substitution reaction?",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Reactions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "RX + KOH → ROH + KX",
+            "2RX + 2Na → R — R + 2NaX",
+            "RX + H₂ → RH + HX",
+            "RX + Mg → RMg X"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 409,
+        "correct_answer": "RX + KOH → ROH + KX",
+        "basic_answer": "Given: Reaction RX + KOH → ROH + KX.\n\nSolution: The reagent KOH provides the nucleophile OH⁻, which attacks the alkyl group R and displaces the leaving group X⁻. This is the definition of a Nucleophilic Substitution reaction.",
+        "explanation": "**Core Concept**\n\nNucleophilic substitution reactions involve the substitution of a leaving group with a nucleophile. In these reactions, the nucleophile attacks an electrophilic center, leading to the replacement of the leaving group.\n\n**Solution **\n\nIn the reaction RX + KOH → ROH + KX, the hydroxide ion (OH-) serves as a nucleophile that attacks the carbon atom attached to the halide (X). This causes the halide to leave, forming an alcohol (ROH) and a potassium salt (KX). \n\n**Why This Answer**\n\nThe presence of KOH provides hydroxide ions which directly participate as nucleophiles, making this reaction a classic example of nucleophilic substitution. Other options describe reactions that do not fit this description.",
+        "keywords": {
+            "RX": "alkyl halide",
+            "KOH": "potassium hydroxide",
+            "ROH": "alcohol",
+            "KX": "potassium halide",
+            "OH-": "hydroxide ion"
+        }
+    },
+    {
+        "id": 42,
+        "question_number": "115",
+        "text": "For the reduction of silver ions with copper metal, the standard cell potential was found to be + 0.46 V at 25 °C. The value of standard Gibbs energy, ΔG o will be (F = 96500C mol⁻¹ )",
+        "subject": "Chemistry",
+        "sub_topic": "Electrochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "-89.0 kJ",
+            "-89.0 J",
+            "-44.5 kJ",
+            "-98.0 kJ"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 251,
+        "correct_answer": "-89.0 kJ",
+        "basic_answer": "Given: Reaction Cu + 2Ag⁺ → Cu²⁺ + 2Ag. Standard Cell Potential E° = +0.46 V.\n\nSolution: Number of electrons transferred (n) = 2 (Cu → Cu²⁺ + 2e⁻).\nStandard Gibbs Energy ΔG° = -nFE°\n= -2 × 96500 C/mol × 0.46 V\n= -88780 J/mol\n≈ -89.0 kJ/mol.",
+        "explanation": "**Core Concept**\n\nThe standard Gibbs free energy change for a cell reaction is related to the standard cell potential by ΔG° = −n F E°, where n is the number of moles of electrons transferred and F is Faraday's constant. A positive E° gives a negative ΔG°, indicating a spontaneous reaction under standard conditions.\n\n**Solution **\n\nThe reduction of silver ions by copper metal can be written as: Cu(s) + 2Ag⁺(aq) → Cu²⁺(aq) + 2Ag(s). Copper is oxidised from 0 to +2 and each Ag⁺ is reduced from +1 to 0, so a total of n = 2 moles of electrons are transferred. Substituting in ΔG° = −n F E° with E° = 0.46 V and F = 96500 C mol⁻¹ gives:\n\nΔG° = −2 × 96500 × 0.46 J mol⁻¹ = −88780 J mol⁻¹ ≈ −89.0 kJ mol⁻¹.\n\n**Why This Answer**\n\nThe calculated ΔG° is approximately −89.0 kJ mol⁻¹, matching option A. Using n = 2 (not 1) correctly accounts for the two‑electron transfer in the cell reaction and yields the NEET/NCERT‑consistent value.",
+        "keywords": {
+            "ΔG°": "Gibbs free energy change",
+            "n": "number of moles of electrons",
+            "F": "Faraday's constant",
+            "E°": "standard cell potential",
+            "V": "Volts",
+            "C": "Coulombs",
+            "kJ": "kilojoules"
+        }
+    },
+    {
+        "id": 43,
+        "question_number": "198",
+        "text": "Sodium has body centered packing. Distance between two nearest atoms is 3.7 A. The lattice parameter is",
+        "subject": "Chemistry",
+        "sub_topic": "Solid State",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 24,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "6.8 Å",
+            "4.3 Å",
+            "3.0 Å",
+            "8.5 Å"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 24,
+            "type": "MCQ"
+        },
+        "original_id": 479,
+        "correct_answer": "4.3 Å",
+        "basic_answer": "Given: Sodium has Body Centered Packing (BCC). Nearest neighbor distance (d) = 3.7 Å.\n\nSolution: In BCC, nearest neighbor distance d = (√3 / 2) × a.\nLattice parameter a = (2 × d) / √3\n= (2 × 3.7) / 1.732\n= 4.27 ≈ 4.3 Å.",
+        "explanation": "**Core Concept**\n\nIn a BCC structure, atoms touch along the body diagonal. The body diagonal length is √3 a and this line passes through two corner atoms and one body‑centre atom, giving a total of 4 atomic radii: √3 a = 4r. The nearest neighbours are a corner and the body‑centre atom, separated by a distance d = 2r.\n\n**Solution **\n\nFrom √3 a = 4r we have a = 4r/√3. Since d = 2r, r = d/2 and therefore a = 4(d/2)/√3 = 2d/√3. Substituting d = 3.7 Å gives:\n\n a = (2 × 3.7)/√3 ≈ 7.4/1.732 ≈ 4.27 Å.\n\nRounding to the nearest option yields a ≈ 4.3 Å.\n\n**Why This Answer**\n\nThe correct BCC geometry leads to a lattice parameter of about 4.3 Å for a nearest‑neighbour distance of 3.7 Å, so option B is the NCERT‑consistent answer.",
+        "keywords": {
+            "d": "nearest neighbor distance",
+            "a": "lattice parameter",
+            "Å": "Angstrom"
+        }
+    },
+    {
+        "id": 44,
+        "question_number": "117",
+        "text": "Which of the following ions will exhibit colour in aqueous solutions? 1. La³⁺ (Z=57) 2. Ti₃⁺ (Z=22) 3. Lu₃⁺ (Z=71) 4. Sc₃⁺ (Z=21)",
+        "subject": "Chemistry",
+        "sub_topic": "Transition Elements",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "La³⁺ (Z=57)",
+            "Ti₃⁺ (Z=22)",
+            "Lu₃⁺ (Z=71)",
+            "Sc₃⁺ (Z=21)"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 253,
+        "correct_answer": "Ti₃⁺ (Z=22)",
+        "basic_answer": "Given: Ions La³⁺ (Z=57), Ti³⁺ (Z=22), Lu³⁺ (Z=71), Sc³⁺ (Z=21).\n\nSolution: Color in transition metal ions is due to d-d transitions, which require unpaired d-electrons.\nTi³⁺ (3d¹) has 1 unpaired electron.\nLa³⁺ (f⁰), Lu³⁺ (f¹⁴), Sc³⁺ (d⁰) have empty or fully filled subshells and are colorless.",
+        "explanation": "**Core Concept**\n\nTransition metals and certain metal ions exhibit color in solution primarily due to the presence of partially filled d-orbitals allowing d-d transitions when they absorb visible light.\n\n**Solution **\n\nAmong the given ions, La³⁺, Lu₃⁺, and Sc₃⁺ have filled d-orbitals and thus do not absorb visible light. In contrast, Ti₃⁺ has a partially filled 3d orbital, permitting electronic transitions that result in the absorption of specific wavelengths, producing a color in solution.\n\n**Why This Answer**\n\nThe reasoning reveals that only Ti₃⁺ allows for coloration due to its electronic configuration, while the others, featuring completely filled d-orbitals, do not exhibit such properties. Therefore, Ti₃⁺ is the ion that shows color in aqueous solutions.",
+        "keywords": {
+            "La³⁺": "Lanthanum ion",
+            "Ti₃⁺": "Titanium ion",
+            "Lu₃⁺": "Lutetium ion",
+            "Sc₃⁺": "Scandium ion",
+            "Z": "Atomic number"
+        }
+    },
+    {
+        "id": 45,
+        "question_number": "45",
+        "text": "Modern detergents contain enzyme preparations of",
+        "subject": "Chemistry",
+        "sub_topic": "Biochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 5,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "acidophiles",
+            "alkaliphiles",
+            "thermoacidophiles",
+            "thermophiles"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 5,
+            "type": "MCQ"
+        },
+        "original_id": 520,
+        "correct_answer": "alkaliphiles",
+        "basic_answer": "Given: Modern detergents containing enzymes.\n\nSolution: Washing clothes is typically done in alkaline conditions (soaps/detergents are basic). Therefore, enzymes added to detergents must be stable and active at high pH. These are obtained from 'alkaliphiles' (alkali-loving microorganisms).",
+        "explanation": "**Core Concept**\n\nEnzymes used in modern detergents must remain active and stable under the typical conditions of washing, which are mildly to strongly alkaline. Alkaliphilic microorganisms produce enzymes optimised for high‑pH environments, making them ideal sources for detergent formulations.\n\n**Solution **\n\nMost household detergents are formulated to give an alkaline solution in water. Enzymes such as proteases, amylases and lipases from alkaliphiles retain their activity and structure in this pH range, so they can effectively remove protein‑based and greasy stains during washing. Acidophiles and thermoacidophiles prefer low pH, while thermophiles are selected primarily for high‑temperature stability rather than alkaline pH.\n\n**Why This Answer**\n\nBecause detergent wash liquors are alkaline, the enzyme preparations are sourced from alkaliphiles whose enzymes function optimally at high pH. Hence, \"alkaliphiles\" is the NCERT‑consistent choice (option B).",
+        "keywords": {}
+    },
+    {
+        "id": 46,
+        "question_number": "108",
+        "text": "Which one of the following is employed as a tranquilizer?",
+        "subject": "Chemistry",
+        "sub_topic": "Pharmaceutical Chemistry",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 12,
+        "source_pdf": "PAPAER (11)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "set5_id_46.png",
+                "path": "mcq-backend\\data\\questions\\mcq_practice\\chemistry\\Set5\\images\\set5_id_46.png",
+                "base64": ""
+            }
+        ],
+        "options": [
+            "Equanil",
+            "Naproxen",
+            "Tetracycline",
+            "Chlorpheninamine"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 414,
+        "correct_answer": "Equanil",
+        "basic_answer": "Solution: Equanil (Meprobamate) is a well-known tranquilizer used for control of anxiety and tension. Naproxen is an analgesic, Tetracycline is an antibiotic, Chlorpheniramine is an antihistamine.",
+        "explanation": "**Core Concept**\n\nEquanil is classified as a tranquilizer because it acts on the central nervous system to promote relaxation and reduce anxiety levels.\n\n**Solution **\n\nAmong the options provided, only Equanil is recognized for its use in treating anxiety and related disorders as a tranquilizer, unlike Naproxen, which is an anti-inflammatory drug, Tetracycline, which is an antibiotic, and Chlorpheniramine, which is an antihistamine.\n\n**Why This Answer**\n\nMentioned that tranquilizers specifically help in the management of anxiety and stress, Equanil fits this category, while the other options do not possess these sedative properties. Therefore, the option that directly relates to tranquilizing effects is Equanil.",
+        "keywords": {}
+    },
+    {
+        "id": 47,
+        "question_number": "121",
+        "text": "A solution of sucrose (molar mass = 342 g mol⁻¹) has been prepared by dissolving 68.5 g of sucrose in 1000 g of water. The freezing point of the solution obtained will be (kf for water = 1.86 K kg mol⁻¹).",
+        "subject": "Chemistry",
+        "sub_topic": "Solutions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "-0.372 °C",
+            "-0.520 °C",
+            "-0.570 °C",
+            "-0.6 °C"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 256,
+        "correct_answer": "-0.372 °C",
+        "basic_answer": "Given: 68.5 g Sucrose (M=342) in 1000 g Water. Kf (water) = 1.86 K kg mol⁻¹.\n\nSolution: Moles Sucrose = 68.5 / 342 = 0.2 mol.\nMass of solvent = 1 kg.\nMolality (m) = 0.2 mol / 1 kg = 0.2 m.\nDepression in Freezing Point ΔTf = Kf × m\n= 1.86 × 0.2 = 0.372 K.\nFreezing Point = 0°C - 0.372°C = -0.372°C.",
+        "explanation": "**Core Concept**\n\nThe freezing point depression is a colligative property that depends on the number of solute particles in solution. The formula used is ΔTf = kf × m, where kf is the freezing point depression constant and m is the molality.\n\n**Solution **\n\nTo find the molality, first calculate the moles of sucrose dissolved. Then use the freezing point depression formula to determine how much the freezing point lowers. Moles of sucrose = 68.5 g / 342 g mol⁻¹ = 0.200 mol, and molality = 0.200 mol / 1 kg = 0.200 mol kg⁻¹. Applying the formula gives ΔTf = 1.86 K kg mol⁻¹ × 0.200 mol kg⁻¹ = 0.372 K.\n\n**Why This Answer**\n\nThe calculation shows the freezing point drops to -0.372 °C, aligning with option A. Therefore, the reasoning supports that the solution's freezing point, calculated accurately based on colligative properties, matches this value.",
+        "keywords": {
+            "m": "moles",
+            "g": "grams",
+            "kg": "kilograms",
+            "mol": "moles",
+            "K": "Kelvin",
+            "cf": "freezing point depression constant",
+            "ΔTf": "freezing point depression"
+        }
+    },
+    {
+        "id": 48,
+        "question_number": "102",
+        "text": "Equal volumes of three acid solutions of pH 3, 4 and 5 are mixed in a vessel. What will be the H+ ion concentration in the mixture?",
+        "subject": "Chemistry",
+        "sub_topic": "Acid-Base Equilibria",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "1.11 × 10⁻⁴ M",
+            "3.7 × 10⁻⁴ M",
+            "3.7 × 10⁻³ M",
+            "1.11 × 10⁻³ M"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 573,
+        "correct_answer": "3.7 × 10⁻⁴ M",
+        "basic_answer": "Given: Equal volumes of acid solutions with pH 3, 4, and 5.\n\nSolution: [H⁺]₁ = 10⁻³, [H⁺]₂ = 10⁻⁴, [H⁺]₃ = 10⁻⁵.\nWhen equal volumes are mixed, the concentration averages:\n[H⁺]mix = (10⁻³ + 10⁻⁴ + 10⁻⁵) / 3\n= (0.001 + 0.0001 + 0.00001) / 3\n= 0.00111 / 3\n= 3.7 × 10⁻⁴ M.",
+        "explanation": "**Core Concept**\n\nFor solutions of equal volume mixed together, concentrations (not pH values) are additive. The hydrogen ion concentration for a solution of pH = x is [H⁺] = 10⁻ˣ. When equal volumes are mixed, the resulting [H⁺] is the average of the individual [H⁺] values.\n\n**Solution **\n\nCompute [H⁺] for each solution: for pH 3, [H⁺] = 10⁻³ M = 0.001 M; for pH 4, [H⁺] = 10⁻⁴ M = 0.0001 M; for pH 5, [H⁺] = 10⁻⁵ M = 0.00001 M. Because the volumes are equal, the total [H⁺] in the mixture divided by three gives the final concentration:\n\n[H⁺]mixture = (0.00100 + 0.00010 + 0.00001)/3 = 0.00111/3 ≈ 3.7 × 10⁻⁴ M.\n\n**Why This Answer**\n\nThe correctly averaged hydrogen ion concentration is about 3.7 × 10⁻⁴ M, which corresponds to option B. The previous key 1.11 × 10⁻⁴ M was inconsistent with this calculation and is not NCERT‑aligned.",
+        "keywords": {
+            "pH": "power of hydrogen ion concentration",
+            "H+": "hydrogen ion concentration",
+            "M": "molarity",
+            "10^(-3)": "ten raised to the negative three",
+            "10^(-4)": "ten raised to the negative four",
+            "10^(-5)": "ten raised to the negative five"
+        }
+    },
+    {
+        "id": 49,
+        "question_number": "103",
+        "text": "Green chemistry means such reactions which",
+        "subject": "Chemistry",
+        "sub_topic": "Green Chemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (12)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "set5_id_49.png",
+                "path": "mcq-backend\\data\\questions\\mcq_practice\\chemistry\\Set5\\images\\set5_id_49.png",
+                "base64": ""
+            }
+        ],
+        "options": [
+            "produce colour during reactions",
+            "reduce the use and production of hazardous chemicals",
+            "are related to the depletion of ozone layer",
+            "study the reactions in plants"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 574,
+        "correct_answer": "reduce the use and production of hazardous chemicals",
+        "basic_answer": "Solution: Green Chemistry is defined as the design of chemical products and processes that reduce or eliminate the use and generation of hazardous substances.",
+        "explanation": "**Core Concept**\n\nGreen chemistry aims at designing chemical processes that reduce or eliminate the use and generation of hazardous substances. This  is essential for environmental protection and health safety.\n\n**Solution **\n\nWhen considering the definitions and principles of green chemistry, the focus is on the sustainable use of resources while avoiding harm to human health and the environment. Thus, reducing hazardous chemical usage aligns with green chemistry principles.\n\n**Why This Answer**\n\nThe core principle of green chemistry seeks to minimize environmental impact by reducing the production of hazardous chemicals. Options A, C, and D do not align with this central aim but rather focus on non-sustainable aspects. Therefore, option B directly meets the criteria set by green chemistry practices.",
+        "keywords": {}
+    }
+]

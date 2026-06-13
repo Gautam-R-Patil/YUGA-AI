@@ -1,0 +1,352 @@
+[
+    {
+        "id": 30,
+        "question_number": "137",
+        "text": "Which one is most reactive towards electrophilic reagent?",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Electrophilic Reactions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 16,
+        "source_pdf": "PAPAER (10)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "set4_id_30.png",
+                "path": "mcq-backend\\data\\questions\\mcq_practice\\chemistry\\Set4\\images\\set4_id_30.png",
+                "base64": ""
+            }
+        ],
+        "options": [
+            "SF₄",
+            "I⁻",
+            "SbCl₂⁻",
+            "PCl₅"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 16,
+            "type": "MCQ"
+        },
+        "original_id": 266,
+        "correct_answer": "I⁻",
+        "basic_answer": "Given: Reactants SF₄, I⁻, SbCl2⁻, PCl₅ with electrophilic reagent.\n\nSolution: I⁻ is a soft, highly polarizable anion, which makes it a very strong nucleophile. Since electrophiles react with nucleophiles, the strongest nucleophile (I⁻) reacts most readily.",
+        "explanation": "**Core Concept**\n\nElectrophiles seek electron‑rich centres, so the species that will react fastest with an electrophilic reagent is a strong nucleophile: one that can donate electron density easily. Soft, highly polarizable anions such as I⁻ are typically very good nucleophiles.\n\n**Solution **\n\nCompare the given species as nucleophiles:\n- I⁻ is a soft, large halide ion with loosely held valence electrons and high polarizability, making it a strong nucleophile.\n- SF₄ and PCl₅ are neutral, electron‑deficient covalent molecules that themselves often behave as electrophiles or Lewis acids, not as nucleophiles toward electrophiles.\n- SbCl₂⁻ is an anion but is bulkier and less nucleophilic than I⁻ in typical solution reactions.\n\n**Why This Answer**\n\nSince electrophilic reagents react with nucleophiles, and I⁻ is the strongest nucleophile among the options, it will be most reactive toward an electrophilic reagent. Therefore, I⁻ is the correct choice.",
+        "keywords": {
+            "SF₄": "sulfur tetrafluoride",
+            "I⁻": "iodide ion",
+            "SbCl₂⁻": "antimony dichloride ion",
+            "PCl₅": "phosphorus pentachloride"
+        }
+    },
+    {
+        "id": 31,
+        "question_number": "146",
+        "text": "The energy absorbed by each molecule (A²) of a substance is 4.4 x₁₀⁻¹⁹ J and bond energy per molecule is 4.0 x₁₀⁻¹⁹ J. The kinetic energy of the molecule per atom will be",
+        "subject": "Chemistry",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 17,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "2.0 × 10⁻²⁰ J",
+            "2.2 × 10⁻¹⁹ J",
+            "2.0 × 10⁻¹⁹ J",
+            "4.0 × 10⁻²⁰ J"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 440,
+        "correct_answer": "2.0 × 10⁻²⁰ J",
+        "basic_answer": "Given: Energy absorbed = 4.4 × 10⁻¹⁹ J per molecule, Bond energy = 4.0 × 10⁻¹⁹ J.\n\nSolution: Excess energy = Energy Absorbed - Bond Energy\n= 4.4 × 10⁻¹⁹ - 4.0 × 10⁻¹⁹ = 0.4 × 10⁻¹⁹ J\n= 4.0 × 10⁻²⁰ J (for the whole molecule).\nSince the molecule dissociates into 2 atoms, KE per atom = (4.0 × 10⁻²⁰) / 2 = 2.0 × 10⁻²⁰ J.",
+        "explanation": "**Core Concept**\n\nWhen a diatomic molecule A² absorbs energy, part of that energy is used to overcome the bond energy and dissociate the molecule, and any remaining energy appears as translational kinetic energy of the product atoms. If the molecule splits symmetrically, the excess energy is shared between the two atoms.\n\n**Solution **\n\nTotal energy absorbed per A² molecule = 4.4 × 10⁻¹⁹ J. Bond energy per molecule = 4.0 × 10⁻¹⁹ J. Excess energy available for kinetic motion of the fragments is:\n\n4.4 × 10⁻¹⁹ − 4.0 × 10⁻¹⁹ = 0.4 × 10⁻¹⁹ J = 4.0 × 10⁻²⁰ J.\n\nThis is the kinetic energy of both atoms together. Since A² → 2A, the kinetic energy per atom is half of this: (4.0 × 10⁻²⁰)/2 = 2.0 × 10⁻²⁰ J.\n\n**Why This Answer**\n\nIncluding the division by 2 for the two atoms gives a per‑atom kinetic energy of 2.0 × 10⁻²⁰ J, matching option A.",
+        "keywords": {
+            "A²": "molecule A²",
+            "E": "energy",
+            "J": "Joules"
+        }
+    },
+    {
+        "id": 32,
+        "question_number": "101",
+        "text": "The two gases making highest relative contribution to the greenhouse gases are",
+        "subject": "Chemistry",
+        "sub_topic": "Environmental Chemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 10,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "CO₂ and CH₄",
+            "CH₄ and NO₂",
+            "CFCs and N₂O",
+            "CO₂ and N₂O"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 10,
+            "type": "MCQ"
+        },
+        "original_id": 237,
+        "correct_answer": "CO₂ and CH₄",
+        "basic_answer": "Solution: CO₂ (Carbon Dioxide) and CH₄ (Methane) are the two major greenhouse gases. CO₂ is from fossil fuel combustion and CH₄ is from agriculture/gut of ruminants. They make the highest contribution to global warming.",
+        "explanation": "**Core Concept**\n\nGreenhouse gases trap heat in the atmosphere, contributing significantly to the greenhouse effect and global warming. CO₂ and CH₄ are two of the most prevalent and impactful greenhouse gases.\n\n**Solution **\n\nConsidering the sources and abundance of greenhouse gases, carbon dioxide (CO₂) is primarily produced from burning fossil fuels, while methane (CH₄) is emitted during the production and transport of coal, oil, and natural gas, as well as from livestock and other agricultural practices. Their combined contributions significantly elevate the greenhouse effect.\n\n**Why This Answer**\n\n As provided, their high levels of emissions and global warming potential, CO₂ and CH₄ collectively play the most crucial role in enhancing the greenhouse effect compared to other gases listed in the options. This justifies why option A is the correct choice.",
+        "keywords": {
+            "CO₂": "Carbon Dioxide",
+            "CH₄": "Methane",
+            "N₂O": "Nitrous Oxide",
+            "CFCs": "Chlorofluorocarbons"
+        }
+    },
+    {
+        "id": 33,
+        "question_number": "147",
+        "text": "What is the dominant intermolecular force or bond that must be overcome in converting liquid CH3OH to a gas?",
+        "subject": "Chemistry",
+        "sub_topic": "Intermolecular Forces",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 17,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Hydrogen bonding",
+            "Dipole-dipole interaction",
+            "Covalent bonds",
+            "London dispersion force"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 441,
+        "correct_answer": "Hydrogen bonding",
+        "basic_answer": "Given: Liquid Methanol (CH3OH) converting to gas.\n\nSolution: Methanol molecules are associated via strong Intermolecular Hydrogen Bonding (due to the -OH group). To vaporize it, this hydrogen bonding must be overcome, which is the dominant force.",
+        "explanation": "**Core Concept**\n\nIn methanol (CH3OH), hydrogen bonding occurs because of the presence of -OH groups, where hydrogen atoms form strong attractions with electronegative oxygen atoms.\n\n**Solution **\n\nTo convert liquid CH3OH to gas, energy must be supplied to break these hydrogen bonds which hold the molecules together. This is the primary intermolecular force that needs to be overcome during the phase transition from liquid to gas.\n\n**Why This Answer**\n\nSince hydrogen bonds are significantly stronger than dipole-dipole interactions and London dispersion forces, the energy required to break these bonds is crucial for the conversion process. Therefore, overcoming hydrogen bonding is the key to vaporizing methanol. Hence Option A is the correct answer.",
+        "keywords": {
+            "CH3OH": "Methanol",
+            "H": "Hydrogen",
+            "O": "Oxygen"
+        }
+    },
+    {
+        "id": 34,
+        "question_number": "133",
+        "text": "How many moles of lead (II) chloride will be formed from a reaction between 6.5 g of PbO and 3.2 g of HCl?",
+        "subject": "Chemistry",
+        "sub_topic": "Stoichiometry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 16,
+        "source_pdf": "PAPAER (12)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "0.044",
+            "0.333",
+            "0.011",
+            "0.029"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (12).pdf",
+            "page": 16,
+            "type": "MCQ"
+        },
+        "original_id": 596,
+        "correct_answer": "0.029",
+        "basic_answer": "Given: 6.5 g PbO, 3.2 g HCl. Reaction: PbO + 2HCl → PbCl₂ + H2O.\n\nSolution: Moles PbO = 6.5 / 223.2 ≈ 0.029 mol.\nMoles HCl = 3.2 / 36.5 ≈ 0.088 mol.\nStoichiometry: 1 mol PbO reacts with 2 mol HCl.\nRequired HCl for 0.029 mol PbO = 2 × 0.029 = 0.058 mol.\nAvailable HCl (0.088) > Required (0.058), so HCl is in excess and PbO is the limiting reagent.\nMoles PbCl₂ formed = Moles PbO = 0.029 mol.",
+        "explanation": "**Core Concept**\n\nThe amount of product formed in a reaction is controlled by the limiting reagent, determined from the stoichiometric coefficients in the balanced equation. For PbO + 2HCl → PbCl₂ + H2O, 1 mol PbO produces 1 mol PbCl₂ if sufficient HCl is present.\n\n**Solution **\n\nCalculate moles of each reactant:\n- Moles PbO = 6.5 g / 223.2 g mol⁻¹ ≈ 0.029 mol.\n- Moles HCl = 3.2 g / 36.5 g mol⁻¹ ≈ 0.088 mol.\n\nFrom the equation, 1 mol PbO needs 2 mol HCl. For 0.029 mol PbO, the HCl required is 2 × 0.029 = 0.058 mol, which is less than 0.088 mol available, so HCl is in excess and PbO is limiting. Hence moles of PbCl₂ formed = moles of PbO consumed ≈ 0.029 mol.\n\n**Why This Answer**\n\nThe limiting‑reagent calculation shows that about 0.029 mol of PbCl₂ are produced, corresponding to option D (0.029).",
+        "keywords": {
+            "PbO": "Lead(II) oxide",
+            "HCl": "Hydrochloric acid",
+            "g": "grams",
+            "mol": "moles",
+            "g/mol": "grams per mole"
+        }
+    },
+    {
+        "id": 35,
+        "question_number": "143",
+        "text": "In the following the most stable conformation of n-butane is",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Alkanes",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 17,
+        "source_pdf": "PAPAER (10)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "set4_id_35.png",
+                "path": "mcq-backend\\data\\questions\\mcq_practice\\chemistry\\Set4\\images\\set4_id_35.png",
+                "base64": ""
+            }
+        ],
+        "options": [
+            "Anti conformation",
+            "Gauche conformation",
+            "Eclipsed conformation",
+            "Staggered conformation"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 272,
+        "correct_answer": "Anti conformation",
+        "basic_answer": "Given: n-butane conformations.\n\nSolution: In the Anti conformation, the two large methyl (-CH3) groups are 180° apart (dihedral angle). This position minimizes steric repulsion (van der Waals strain) and torsional strain, making it the most stable conformation.",
+        "explanation": "**Core Concept**\n\nThe stability of different conformations in alkanes depends primarily on the steric interactions between the substituents. The anti conformation reduces steric strain by positioning bulky groups opposite to each other.\n\n**Solution **\n\nIn n-butane, various conformations can exist such as staggered and eclipsed. The staggered conformation can further be categorized into anti and gauche, with anti being where large groups (methyls) are positioned 180 degrees apart, thus stabilizing the molecule more compared to gauche (60 degrees apart) or eclipsed configurations, which are higher in energy due to torsional strain.\n\n**Why This Answer**\n\nThe anti conformation of n-butane is favored because it minimizes repulsive interactions between the larger groups, which results in lower potential energy. Thereby, the anti conformation represents the most stable state for n-butane, confirming that it is the most favorable among the given options.",
+        "keywords": {
+            "C": "carbon",
+            "H": "hydrogen"
+        }
+    },
+    {
+        "id": 36,
+        "question_number": "147",
+        "text": "AB crystallizes in a body-centered cubic lattice with edge length 'a' equal to 387 pm. The distance between two oppositely charged ions in the lattice is",
+        "subject": "Chemistry",
+        "sub_topic": "Solid State",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 17,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "335 pm",
+            "250 pm",
+            "200 pm",
+            "300 pm"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 275,
+        "correct_answer": "335 pm",
+        "basic_answer": "Given: Body Centered Cubic (BCC) lattice, edge length a = 387 pm.\n\nSolution: In BCC, atoms touch along the body diagonal.\nDistance between centered ion and corner ion = Body Diagonal / 2\n= (√3 × a) / 2\n= (1.732 × 387) / 2\n≈ 335 pm.",
+        "explanation": "**Core Concept**\n\nIn a body-centered cubic lattice, the ions are situated at the corners of the³ and one ion is located at the body center. The distance between two oppositely charged ions is derived from the spatial arrangement of the ions as influenced by the cubic geometry.\n\n**Solution **\n\nThe distance can be calculated using the formula: Distance = a × √3/2, where 'a' is the edge length of the³. Substituting the given value: Distance = 387 pm × √3/2 = approximately 335 pm.\n\n**Why This Answer**\n\nThe calculation of the distance gives us a result of 335 pm, which directly corresponds to option A. This factor considers the three-dimensional geometry of BCC, leading us to the nearest significant distance between the ions.",
+        "keywords": {
+            "a": "edge length",
+            "pm": "picometers"
+        }
+    },
+    {
+        "id": 37,
+        "question_number": "108",
+        "text": "If pH of a saturated solution of Ba(OH)₂ is 12, the value of its Ksp is",
+        "subject": "Chemistry",
+        "sub_topic": "Ionic Equilibrium",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 11,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "4.00 × 10−6 M3",
+            "4.00 × 10−7 M3",
+            "5.00 × 10−6 M3",
+            "5.00 × 10−7 M3"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 246,
+        "correct_answer": "5.00 × 10−7 M3",
+        "basic_answer": "Given: Saturated solution of Ba(OH)₂, pH = 12.\n\nSolution: pOH = 14 - pH = 14 - 12 = 2.\n[OH⁻] = 10⁻² = 0.01 M.\nEquilibrium: Ba(OH)₂ ⇌ Ba²⁺ + 2OH⁻\nIf solubility is 's', then [OH⁻] = 2s = 0.01 ⇒ s = 0.005 M.\nKsp = [Ba²⁺][OH⁻]² = (s)(2s)² = 4s³\n= 4 × (0.005)³ = 4 × 125 × 10⁻⁹\n= 5.0 × 10⁻⁷ M³.",
+        "explanation": "**Core Concept**\n\nThe solubility product Ksp for Ba(OH)₂ is defined as Ksp = [Ba²⁺][OH⁻]² for a saturated solution at equilibrium. The hydroxide concentration is related to the solubility s by the stoichiometry Ba(OH)₂(s) ⇌ Ba²⁺(aq) + 2OH⁻(aq).\n\n**Solution **\n\nFrom pH = 12 we obtain pOH = 14 − 12 = 2, so [OH⁻] = 10⁻² M. \n\nLet the solubility of Ba(OH)₂ be s mol L⁻¹\n\n Dissociation gives [Ba²⁺] = s and [OH⁻] = 2s. \n\nEquating 2s to the known hydroxide concentration gives \n\n2s = 0.01 → s = 0.005 M.\n\n Then:\n\nKsp = [Ba²⁺][OH⁻]² = s(2s)² = 4s³ = 4(0.005)³ = 4 × 125 × 10⁻⁹ = 5.0 × 10⁻⁷ M³\n\n**Why This Answer**\n\nUsing the correct relationship [OH⁻] = 2s and the given pH leads to Ksp = 5.0 × 10⁻⁷ M³, which corresponds to option D. Treating [OH⁻] as equal to s would overestimate Ksp and is not consistent with the stoichiometry of Ba(OH)₂.",
+        "keywords": {
+            "pH": "potential of hydrogen",
+            "OH-": "hydroxide ion",
+            "Ksp": "solubility product constant",
+            "s": "solubility"
+        }
+    },
+    {
+        "id": 38,
+        "question_number": "148",
+        "text": "The number of atoms in 0.1 mole of a triatomic gas is (NA = 6.02 x₁₀²³ mol⁻¹)",
+        "subject": "Chemistry",
+        "sub_topic": "Mole Concept",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 17,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "6.026 × 10²²",
+            "1.806 × 10²³",
+            "3.600 × 10²³",
+            "1.800 × 10²²"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 276,
+        "correct_answer": "1.806 × 10²³",
+        "basic_answer": "Given: 0.1 mole of a triatomic gas.\n\nSolution: Total Atoms = Moles × Avogadro's Number (NA) × Atomicity\n= 0.1 × 6.02 × 10²³ × 3\n= 1.806 × 10²³ atoms.",
+        "explanation": "**Core Concept**\n\nThe number of atoms in a sample can be calculated using Avogadro's number and the number of moles present, taking into account the number of atoms per molecule of the substance.\n\n**Solution **\n\nTo find the total number of atoms in 0.1 moles of a triatomic gas, we first recognize that each molecule contains 3 atoms.\n\n We then multiply the number of moles by Avogadro's number and the number of atoms per molecule:\n\n 0.1 × 6.02 × 10²³ × 3 = 1.806 × 10²³.\n\n**Why This Answer**\n\nThe calculated total of 1.806 × 10²³ closely matches option B, demonstrating that for 0.1 moles of a triatomic molecule, the total atom count is accurately represented by this option.",
+        "keywords": {
+            "NA": "Avogadro's number",
+            "mol": "mole"
+        }
+    },
+    {
+        "id": 39,
+        "question_number": "112",
+        "text": "What is [H + ] in mol/L of a solution that is 0.20 M in CH₃COONa and 0.10 M in CH₃COOH ?(K a for CH₃COOH = 1.8 x₁₀ -5 )",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Equilibrium",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "3. 5 × 10 −4",
+            "1. 1 × 10 −5",
+            "1. 8 × 10 −5",
+            "9. 0 × 10 −6"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 248,
+        "correct_answer": "9. 0 × 10 −6",
+        "basic_answer": "Given: Buffer with 0.20 M CH₃COONa (Salt) and 0.10 M CH₃COOH (Acid). Ka = 1.8 × 10⁻⁵.\n\nSolution: Use Henderson-Hasselbalch equation:\npH = pKa + log([Salt]/[Acid])\n= -log(1.8 × 10⁻⁵) + log(0.20/0.10)\n= 4.74 + log(2)\n= 4.74 + 0.301 = 5.04\n[H⁺] = 10^(-pH) = 10^(-5.04) ≈ 9.0 × 10⁻⁶ M.",
+        "explanation": "**Core Concept**\n\nA solution containing a weak acid (CH₃COOH) and its salt (CH₃COONa) acts as a buffer. The hydrogen ion concentration is obtained conveniently using the Henderson–Hasselbalch equation: \n\npH = pKa + log([A⁻]/[HA]).\n\n**Solution **\n\nFor acetic acid, Ka = 1.8 × 10⁻⁵ \n\nso pKa ≈ 4.74. \n\nHere [A⁻] = [CH₃COO⁻] = 0.20 M and [HA] = [CH₃COOH] = 0.10 M.\n\nThus:\n\n pH = 4.74 + log(0.20/0.10) \n\n= 4.74 + log 2 \n\n≈ 4.74 + 0.30 \n\n≈ 5.04.\n\nThe hydrogen‑ion concentration is then [H⁺] = 10⁻⁵·⁰⁴ ≈ 9.1 × 10⁻⁶ mol L⁻¹.\n\n**Why This Answer**\n\nThe computed [H⁺] ≈ 9.1 × 10⁻⁶ mol L⁻¹ is closest to 9.0 × 10⁻⁶ given in the options, so option D is the correct, NCERT‑consistent answer.",
+        "keywords": {}
+    }
+]

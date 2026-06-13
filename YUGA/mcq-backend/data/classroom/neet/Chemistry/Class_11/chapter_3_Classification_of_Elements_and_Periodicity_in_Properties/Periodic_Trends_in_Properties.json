@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "chapter_number": 3,
+    "topic": "Periodic Trends in Properties",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:13:06.564225",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we're diving into an exciting topic: Periodic Trends in Properties. This is important for your NEET exam. Let's start with Atomic and Ionic Radii. The atomic radius is the distance from the center of an atom's nucleus to the outermost electron. Think of it like the size of a balloon. As we move across a period from left to right, the atomic radius decreases. Why? Because more protons pull the electrons closer. But, as we go down a group, the atomic radius increases. This is because new electron shells are added. \n\nNow, let's talk about Ionic Radii. When an atom loses an electron, it becomes a positive ion and smaller. When it gains an electron, it becomes a negative ion and larger. Here's a quick check: If an atom becomes a positive ion, does its size increase or decrease? It decreases! \n\nNext up is Ionization Enthalpy. This is the energy needed to remove an electron from an atom. Higher ionization enthalpy means it's harder to remove an electron. As we move across a period, ionization enthalpy increases. This is because atoms hold onto their electrons more tightly. But as we go down a group, ionization enthalpy decreases. Electrons are farther from the nucleus and easier to remove. \n\nLet's move to Electron Gain Enthalpy. This is the energy change when an atom gains an electron. If energy is released, we say the electron gain enthalpy is negative. Elements like chlorine have high electron gain enthalpy because they easily gain electrons. A common mistake is to confuse electron gain enthalpy with ionization enthalpy. Remember, one is about gaining electrons, the other is about losing them. \n\nFinally, we have Electronegativity. Electronegativity is how strongly an atom attracts electrons in a bond. Fluorine is the most electronegative element. As we move across a period, electronegativity increases. But as we go down a group, it decreases. A simple analogy: Imagine a tug-of-war. The stronger the team, the more they pull the rope towards them. \n\nKey points to remember: Atomic and ionic radii change across periods and groups. Ionization enthalpy and electronegativity increase across periods but decrease down groups. Electron gain enthalpy can be negative, meaning energy is released. \n\nIn summary, understanding these trends helps us predict how elements behave. This knowledge is crucial for NEET. Keep practicing and you'll do great!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Atomic Radius",
+    "Ionic Radius",
+    "Ionization Enthalpy",
+    "Electron Gain Enthalpy",
+    "Electronegativity"
+  ],
+  "formulas": [
+    {
+      "formula": "Ionization Enthalpy = Energy required to remove 1 electron",
+      "description": "This formula shows how much energy is needed to remove an electron from an atom."
+    },
+    {
+      "formula": "Electron Gain Enthalpy = Energy change when 1 electron is added",
+      "description": "This formula shows the energy change when an atom gains an electron."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Atomic Radius",
+      "definition": "Distance from the center of an atom's nucleus to the outermost electron."
+    },
+    {
+      "term": "Ionic Radius",
+      "definition": "Size of an ion compared to its neutral atom."
+    },
+    {
+      "term": "Ionization Enthalpy",
+      "definition": "Energy needed to remove an electron from an atom."
+    },
+    {
+      "term": "Electron Gain Enthalpy",
+      "definition": "Energy change when an atom gains an electron."
+    },
+    {
+      "term": "Electronegativity",
+      "definition": "Ability of an atom to attract electrons in a bond."
+    }
+  ]
+}

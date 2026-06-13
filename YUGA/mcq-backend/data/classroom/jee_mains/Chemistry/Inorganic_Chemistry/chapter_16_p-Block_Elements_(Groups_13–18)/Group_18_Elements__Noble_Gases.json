@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "p-Block Elements (Groups 13–18)",
+    "chapter_number": 16,
+    "topic": "Group 18 Elements: Noble Gases",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:18:40.868322",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Group 18 elements. These are also known as noble gases. They include helium, neon, argon, krypton, xenon, and radon. These gases are special because they are very stable. They do not react easily with other elements. This is why they are called 'noble'.\n\nLet's start with helium. Helium is the lightest noble gas. It is used in balloons because it is lighter than air. Helium does not catch fire, so it is safe to use. Helium is also used in cooling systems. It can cool things down to very low temperatures.\n\nNext is neon. Neon is famous for its bright lights. When electricity passes through neon gas, it glows. Neon lights are used in signs and decorations. Argon is another noble gas. It is used in light bulbs. Argon stops the filament in bulbs from burning out quickly.\n\nKrypton and xenon are also used in lighting. Krypton is used in flashlights and camera flashes. Xenon is used in car headlights. It produces a bright and clear light. Radon is different from other noble gases. It is radioactive. This means it can be harmful.\n\nNow, let's talk about trends in boiling and melting points. As we go down the group, the boiling and melting points increase. Helium has the lowest boiling point. Radon has the highest. This is because the atoms get heavier as we move down the group.\n\nXenon is unique among noble gases. It can form compounds. The most common xenon compounds are XeF2, XeF4, and XeF6. These are xenon fluorides. They are used in chemistry to study reactions.\n\nNoble gases have many applications. Helium is used in medical machines like MRI scanners. Argon is used in welding. It creates a shield around the weld to protect it from air.\n\nA common mistake in exams is thinking noble gases cannot form any compounds. Remember, xenon can form compounds. Also, do not confuse the uses of different noble gases. Each has its own special use.\n\nIn summary, noble gases are stable and have low reactivity. They are used in lighting, cooling, and other industries. Helium is light and safe, while xenon can form compounds. Remember these points for your exams. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Noble Gases",
+    "Helium",
+    "Neon",
+    "Argon",
+    "Xenon"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Noble Gases",
+      "definition": "Elements in Group 18 of the periodic table known for their stability and low reactivity."
+    },
+    {
+      "term": "Radioactive",
+      "definition": "A property of certain elements that emit radiation and can be harmful."
+    },
+    {
+      "term": "Xenon Fluorides",
+      "definition": "Compounds formed by xenon and fluorine, such as XeF2, XeF4, and XeF6."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Hydrocarbons",
+    "chapter_number": 22,
+    "topic": "Alkynes",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:25:27.418111",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Alkynes. Alkynes are a type of Hydrocarbon. Hydrocarbons are compounds made of Hydrogen and Carbon. Alkynes have a special bond called a Triple Bond. This means three pairs of electrons are shared between two Carbon atoms. \n\nLet's start with the Structure and Bonding of Alkynes. Alkynes have the general formula CnH2n-2. The simplest alkyne is Ethyne, also known as Acetylene, with the formula C2H2. The triple bond makes alkynes linear. This means the atoms are in a straight line. \n\nNext, we have Nomenclature. Naming alkynes is simple. Find the longest chain with the triple bond. Change the ending of the alkane name from '-ane' to '-yne'. For example, if there are four Carbon atoms, it is Butyne. If the triple bond is at the first Carbon, it is 1-Butyne. \n\nNow, let's discuss Physical Properties. Alkynes are usually gases or liquids. They are less dense than water. They do not mix well with water. Alkynes have higher boiling points than alkenes because of the triple bond. \n\nNow, let's look at Chemical Reactions. One important reaction is Hydrogenation. In Hydrogenation, alkynes gain hydrogen (H2) and become alkanes. Halogenation is when alkynes react with halogens like Chlorine (Cl2) or Bromine (Br2). Hydrohalogenation is when alkynes react with hydrogen halides like HCl or HBr. \n\nLet's learn about Preparation Methods. One common method is Dehydrohalogenation of Dihalides. Here, a dihalide loses two halogen atoms and forms an alkyne. This is often done using a strong base like KOH. \n\nAlkynes are also known for their Acidity. Terminal alkynes, which have a triple bond at the end of the chain, are more acidic than alkenes and alkanes. They can react with strong bases to form salts. \n\nAnother interesting reaction is Polymerization. Alkynes can join together to form long chains called polymers. This is useful in making plastics. \n\nFinally, let's compare Terminal vs Internal Alkynes. Terminal alkynes have the triple bond at the end. Internal alkynes have the triple bond in the middle. Terminal alkynes are more reactive because of their acidity. \n\nNow, let's discuss some common mistakes. In JEE Main, students often confuse the triple bond with a double bond. Remember, triple bonds are linear. Also, when naming, ensure you number the chain correctly. \n\nFor quick revision, remember these key points: Alkynes have a triple bond, are linear, and are more acidic than alkenes. They react with hydrogen, halogens, and hydrogen halides. \n\nIn summary, alkynes are important hydrocarbons with unique properties and reactions. Understanding these concepts will help you solve JEE Main problems effectively.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Alkynes",
+    "Triple Bond",
+    "Hydrogenation",
+    "Dehydrohalogenation",
+    "Acidity"
+  ],
+  "formulas": [
+    {
+      "formula": "CnH2n-2",
+      "description": "General formula for alkynes, used to determine the number of hydrogen atoms in the compound"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alkynes",
+      "definition": "A type of hydrocarbon with at least one carbon-carbon triple bond"
+    },
+    {
+      "term": "Hydrogenation",
+      "definition": "A chemical reaction where hydrogen is added to a compound, often converting alkynes to alkanes"
+    },
+    {
+      "term": "Dehydrohalogenation",
+      "definition": "A chemical reaction where a dihalide loses halogen atoms to form an alkyne"
+    }
+  ]
+}

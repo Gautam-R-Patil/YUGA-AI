@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Motion in a Straight Line",
+    "chapter_number": 3,
+    "topic": "Average Velocity and Average Speed",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:49:19.996636",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are learning about motion in a straight line. Our focus is on average speed and average velocity. These are important topics for your NEET exam. Let's start with some basic definitions. \n\nSpeed is how fast something moves. It is the distance covered in a certain time. We measure it in meters per second (m/s). Velocity is speed with direction. If a car moves north at 60 km/h, that's its velocity. Now, average speed is the total distance divided by total time. Average velocity is the total displacement divided by total time. Displacement is the shortest path between start and end points. \n\nLet's see how to calculate these. For average speed, use the formula: total distance / total time. For average velocity, use: total displacement / total time. Remember, displacement can be zero if you return to the start point. \n\nConsider a car that travels 100 km north and then 100 km south in 4 hours. The average speed is (100 km + 100 km) / 4 hours = 50 km/h. The average velocity is 0 km / 4 hours = 0 km/h because the car returns to the start point. \n\nNow, let's talk about graphs. On a distance-time graph, the slope shows speed. A steep slope means high speed. On a displacement-time graph, the slope shows velocity. A flat line means zero velocity. \n\nInstantaneous speed is the speed at a specific moment. Instantaneous velocity is velocity at a specific time. It's like checking your speedometer while driving. \n\nRemember, speed is scalar. It has no direction. Velocity is vector. It has direction. A common mistake is to confuse speed with velocity. Always check if direction matters. \n\nIn summary, average speed is total distance over time. Average velocity is total displacement over time. Use graphs to see changes in speed and velocity. Practice these concepts with examples. They are key for NEET exams.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Average Speed",
+    "Average Velocity",
+    "Displacement",
+    "Instantaneous Speed",
+    "Instantaneous Velocity"
+  ],
+  "formulas": [
+    {
+      "formula": "Average Speed = Total Distance / Total Time",
+      "description": "Calculates the average speed of an object over a period of time"
+    },
+    {
+      "formula": "Average Velocity = Total Displacement / Total Time",
+      "description": "Calculates the average velocity considering direction"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Speed",
+      "definition": "The distance traveled per unit of time"
+    },
+    {
+      "term": "Velocity",
+      "definition": "The speed of something in a given direction"
+    },
+    {
+      "term": "Displacement",
+      "definition": "The shortest distance from the initial to the final position"
+    }
+  ]
+}

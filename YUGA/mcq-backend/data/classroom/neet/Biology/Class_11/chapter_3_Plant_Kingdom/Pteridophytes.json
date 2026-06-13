@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Plant Kingdom",
+    "chapter_number": 3,
+    "topic": "Pteridophytes",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:34:26.091136",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, everyone! Today, we are going to learn about an interesting group of plants called pteridophytes. Let's dive in! \n\nPteridophytes are special because they are vascular. This means they have tubes inside them. These tubes help move water and nutrients. Unlike other plants, pteridophytes do not have seeds. They use spores to reproduce. Spores are tiny, like dust, and can grow into new plants. \n\nSome common examples of pteridophytes are ferns and horsetails. You might have seen ferns in gardens or forests. They have beautiful, feathery leaves. Horsetails look like green, jointed sticks. Both are important in nature. \n\nNow, let's talk about how pteridophytes reproduce. They use spores. Spores are different from seeds. They are smaller and do not have food inside. When spores land in a good place, they grow into new plants. This process is called spore formation. \n\nPteridophytes play a big role in the ecosystem. They help stop soil from washing away. This is called soil stabilization. Many people also use them as ornamental plants. Ornamental plants are used to make places look pretty. \n\nPteridophytes are also important for humans. Some have medicinal uses. For example, some ferns are used in traditional medicine. They can help treat wounds or stomach problems. \n\nLet's remember some key points. Pteridophytes are vascular and seedless. They reproduce by spores. Ferns and horsetails are common examples. They help stabilize soil and are used in medicine. \n\nA common mistake is thinking pteridophytes have seeds. Remember, they use spores, not seeds. \n\nIn summary, pteridophytes are fascinating plants. They have many uses and play important roles in nature. Keep these points in mind, especially for NEET exams. \n\nThank you for listening! I hope you enjoyed learning about pteridophytes.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Pteridophytes",
+    "Vascular",
+    "Spores",
+    "Ferns",
+    "Horsetails"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Pteridophytes",
+      "definition": "A group of vascular, seedless plants that reproduce by spores."
+    },
+    {
+      "term": "Vascular",
+      "definition": "Having tubes that transport water and nutrients inside a plant."
+    },
+    {
+      "term": "Spores",
+      "definition": "Tiny reproductive units that can grow into a new plant."
+    },
+    {
+      "term": "Soil stabilization",
+      "definition": "The process of preventing soil from being washed away."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Physical World",
+    "chapter_number": 1,
+    "topic": "Nature of Physical Laws",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:47:31.320688",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about the nature of physical laws. These laws are like rules of the universe. They help us understand how everything works. Let's start with conservation laws. \n\nConservation laws are important in physics. They tell us that certain things stay the same in a closed system. The first one is the conservation of energy. It means that energy cannot be created or destroyed. It can only change forms. For example, when you turn on a fan, electrical energy turns into kinetic energy. But the total energy stays the same.\n\nNext is the conservation of momentum. Momentum is the quantity of motion an object has. If no external force acts on a system, the total momentum stays the same. Imagine two ice skaters pushing off each other. They move in opposite directions, but their total momentum does not change.\n\nThe third is the conservation of charge. Electric charge in a closed system stays the same. This means the total positive charge and negative charge are constant. For example, in a closed circuit, the total charge remains the same even if it moves around.\n\nNow, let's talk about symmetry in physical laws. Symmetry means balance or harmony. In physics, symmetry helps us understand why laws are the same everywhere. If you look at a circle, it looks the same from any angle. This is symmetry. In physics, if a law looks the same in different situations, it shows symmetry.\n\nSymmetry is important because it leads to conservation laws. For example, the symmetry of time leads to energy conservation. This means if you perform an experiment today or tomorrow, the energy will be conserved.\n\nLet's see some examples of conservation laws in mechanics. When you drop a ball, it falls due to gravity. Its potential energy changes to kinetic energy. But the total energy remains the same. Another example is a car crash. The total momentum before and after the crash is the same if no external forces act.\n\nRemember, universal laws are important. They apply everywhere, from tiny atoms to huge galaxies. They help scientists predict what will happen in different situations. This is why understanding these laws is important for NEET.\n\nLet's recap the key points. Conservation laws tell us what stays the same in a system. Energy, momentum, and charge are conserved. Symmetry in laws helps us understand these rules. Universal laws apply everywhere and help us predict outcomes.\n\nCommon mistake: Students often think energy can disappear. Remember, it only changes form. Another mistake is forgetting that momentum is conserved only without external forces.\n\nI hope this lecture helps you understand the nature of physical laws. Keep these concepts in mind as they are important for NEET.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Conservation laws",
+    "Energy",
+    "Momentum",
+    "Charge",
+    "Symmetry"
+  ],
+  "formulas": [
+    {
+      "formula": "Total Energy = Kinetic Energy + Potential Energy",
+      "description": "In a closed system, the total energy is the sum of kinetic and potential energy."
+    },
+    {
+      "formula": "Momentum = mass x velocity",
+      "description": "Momentum is calculated by multiplying mass and velocity."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Conservation of Energy",
+      "definition": "Energy cannot be created or destroyed, only changed in form."
+    },
+    {
+      "term": "Momentum",
+      "definition": "The quantity of motion an object has."
+    },
+    {
+      "term": "Symmetry",
+      "definition": "Balance or harmony in a system, where a law looks the same in different situations."
+    }
+  ]
+}

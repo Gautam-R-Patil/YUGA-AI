@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "chapter_number": 2,
+    "topic": "Structure of Flower",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:38:59.038785",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the structure of a flower. Flowers are important for plant reproduction. Let's start with the main parts of a flower. A flower has four main parts: sepals, petals, stamens, and carpels. \n\nSepals are the green leaf-like parts at the base of the flower. They protect the flower bud before it opens. Petals are the colorful parts of the flower. They attract insects and birds for pollination. \n\nNow, let's talk about stamens. A stamen is the male part of the flower. It has two parts: anther and filament. The anther is where pollen grains are made. Pollen grains are tiny structures that carry male gametes. \n\nInside the anther, pollen grains develop through a process called microsporogenesis. This process forms pollen grains from microspores. A common mistake is to confuse pollen grains with seeds. Remember, pollen grains are not seeds. \n\nNext, let's look at the carpel, the female part of the flower. It has three parts: stigma, style, and ovary. The ovary contains ovules. An ovule is where the female gametophyte develops. This process is called megasporogenesis. \n\nInside the ovule, we find the embryo sac. The embryo sac is the female gametophyte. It has one egg cell, two synergids, three antipodals, and two polar nuclei. The synergids help guide the pollen tube to the egg. \n\nPollination is the transfer of pollen from anther to stigma. There are two types of pollination: self-pollination and cross-pollination. In self-pollination, pollen lands on the same flower. In cross-pollination, pollen goes to a different flower. \n\nPollination agents include wind, water, insects, and animals. Bees are common pollinators. A common misconception is thinking all flowers need insects. Some flowers use wind or water. \n\nAfter pollination, fertilization happens. In flowering plants, we have double fertilization. This means two fertilization events occur. One male gamete fuses with the egg cell to form a zygote. The other male gamete fuses with the polar nuclei to form the endosperm. \n\nPost-fertilization, the zygote develops into a seed. The ovary becomes a fruit. Seeds help in the spread of plants. Fruits protect seeds and help in their dispersal. \n\nRemember, double fertilization is unique to flowering plants. It leads to the formation of both zygote and endosperm. This is frequently asked in NEET exams. \n\nTo summarize, flowers have four main parts: sepals, petals, stamens, and carpels. Anthers produce pollen grains. Ovules develop into seeds after fertilization. Pollination can be self or cross, with various agents. Double fertilization is a key process in flowering plants. \n\nThank you for listening! Make sure to review these key concepts for your NEET exam.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Flower Structure",
+    "Pollination",
+    "Double Fertilization",
+    "Pollen Grains",
+    "Embryo Sac"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Microsporogenesis",
+      "definition": "The process of forming pollen grains from microspores in the anther."
+    },
+    {
+      "term": "Megasporogenesis",
+      "definition": "The process of forming the female gametophyte in the ovule."
+    },
+    {
+      "term": "Synergids",
+      "definition": "Cells in the embryo sac that help guide the pollen tube to the egg."
+    },
+    {
+      "term": "Antipodals",
+      "definition": "Three cells in the embryo sac with no known function in fertilization."
+    }
+  ]
+}

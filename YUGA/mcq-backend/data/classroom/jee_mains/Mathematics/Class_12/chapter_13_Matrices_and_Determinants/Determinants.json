@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Matrices and Determinants",
+    "chapter_number": 13,
+    "topic": "Determinants",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:56:44.497590",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about determinants. Determinants are important in matrices. They help us solve equations and find inverses of matrices. Let's start with the definition.\n\nA determinant is a special number. It is calculated from a square matrix. A square matrix has the same number of rows and columns. Determinants tell us if a matrix has an inverse.\n\nFirst, let's explore the determinant of a 2x2 matrix. A 2x2 matrix looks like this: \n\n| a  b |\n| c  d |\n\nThe formula for its determinant is: `Determinant = ad - bc`. For example, if the matrix is:\n\n| 1  2 |\n| 3  4 |\n\nThe determinant is: `1*4 - 2*3 = 4 - 6 = -2`. This number helps us understand the matrix better.\n\nNext, let's move to a 3x3 matrix. A 3x3 matrix looks like this:\n\n| a  b  c |\n| d  e  f |\n| g  h  i |\n\nThe determinant of a 3x3 matrix is a bit more complex. We use a formula:\n\n`Determinant = a(ei - fh) - b(di - fg) + c(dh - eg)`\n\nLet's take an example:\n\n| 1  2  3 |\n| 4  5  6 |\n| 7  8  9 |\n\nUsing the formula, the determinant is: `1(5*9 - 6*8) - 2(4*9 - 6*7) + 3(4*8 - 5*7)`. Calculate each part step by step.\n\nNow, let's talk about properties of determinants. These properties help solve problems faster:\n\n1. If two rows or columns are identical, the determinant is zero.\n2. Swapping two rows or columns changes the sign of the determinant.\n3. If a row or column is multiplied by a number, the determinant is also multiplied by that number.\n\nNext, we discuss minors and cofactors. A minor is the determinant of a smaller matrix. It is made by removing one row and one column. A cofactor is the minor times a sign (+ or -). The sign depends on the position.\n\nFor example, in a 3x3 matrix, the cofactor of the first element `a` is the determinant of the matrix formed by removing the first row and first column. Multiply this by +1.\n\nThe adjoint of a matrix is the transpose of the cofactor matrix. It is important for finding the inverse of a matrix. The inverse of a matrix exists only if the determinant is not zero. The formula for the inverse is:\n\n`Inverse = 1/Determinant * Adjoint`\n\nRemember, if the determinant is zero, the matrix does not have an inverse.\n\nCommon mistakes in JEE Main include calculation errors and wrong signs in cofactors. Always double-check your calculations.\n\nKey takeaways: Know the formulas for 2x2 and 3x3 determinants. Understand properties and how to find minors and cofactors. Practice finding adjoints and inverses.\n\nIn summary, determinants are key in solving matrix problems. They help find inverses and solve equations. Practice these concepts to do well in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Determinant",
+    "Matrix",
+    "Inverse",
+    "Cofactor",
+    "Adjoint"
+  ],
+  "formulas": [
+    {
+      "formula": "Determinant = ad - bc",
+      "description": "Used to find the determinant of a 2x2 matrix in JEE Main questions"
+    },
+    {
+      "formula": "Determinant = a(ei - fh) - b(di - fg) + c(dh - eg)",
+      "description": "Used to calculate the determinant of a 3x3 matrix"
+    },
+    {
+      "formula": "Inverse = 1/Determinant * Adjoint",
+      "description": "Used to find the inverse of a matrix when the determinant is not zero"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Determinant",
+      "definition": "A special number calculated from a square matrix that helps determine if the matrix has an inverse"
+    },
+    {
+      "term": "Matrix",
+      "definition": "A rectangular array of numbers arranged in rows and columns"
+    },
+    {
+      "term": "Cofactor",
+      "definition": "A minor of a matrix element multiplied by a sign based on its position"
+    },
+    {
+      "term": "Adjoint",
+      "definition": "The transpose of the cofactor matrix, used in finding the inverse of a matrix"
+    }
+  ]
+}

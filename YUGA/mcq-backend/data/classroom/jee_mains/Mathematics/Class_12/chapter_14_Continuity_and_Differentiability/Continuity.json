@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Continuity and Differentiability",
+    "chapter_number": 14,
+    "topic": "Continuity",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:57:10.523305",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about continuity in mathematics. This is an important topic for JEE Main. Let's start with the definition of continuity. A function is continuous if you can draw its graph without lifting your pen. This means no breaks or holes in the graph.\n\nFirst, let's discuss continuity at a point. A function is continuous at a point x = c if three conditions are met. One, the function is defined at x = c. Two, the limit of the function as x approaches c exists. Three, the limit of the function as x approaches c is equal to the function value at c. If all these are true, the function is continuous at that point.\n\nNow, let's talk about continuity over an interval. A function is continuous over an interval if it is continuous at every point in that interval. For example, the function f(x) = x^2 is continuous over the interval [-2, 2]. You can draw its graph from -2 to 2 without lifting your pen.\n\nNext, we have types of discontinuities. There are three main types. First, removable discontinuity, where a point on the graph is missing. Second, jump discontinuity, where the graph jumps from one point to another. Third, infinite discontinuity, where the graph goes to infinity at a point.\n\nLet's look at the algebra of continuous functions. If two functions f(x) and g(x) are continuous, then their sum f(x) + g(x), difference f(x) - g(x), product f(x) * g(x), and quotient f(x) / g(x) are also continuous, provided g(x) is not zero.\n\nComposite functions and continuity is another key point. If f(x) is continuous at x = a and g(x) is continuous at f(a), then the composite function g(f(x)) is continuous at x = a.\n\nNow, let's discuss the Intermediate Value Theorem. This theorem states that if a function is continuous on a closed interval [a, b], and k is any value between f(a) and f(b), then there is at least one c in the interval [a, b] such that f(c) = k.\n\nLet's do a quick example. Check if the function f(x) = 2x + 3 is continuous at x = 1. First, f(1) = 2(1) + 3 = 5. The limit of f(x) as x approaches 1 is also 5. Since these values are equal, the function is continuous at x = 1.\n\nA common mistake in JEE Main is not checking all conditions for continuity. Remember to check the function value, the limit, and their equality.\n\nIn summary, continuity means no breaks in the graph. Check for continuity at a point using three conditions. Use the algebra of continuous functions to combine functions. Apply the Intermediate Value Theorem to find values within an interval.\n\nThat's all for today. Keep practicing, and see you next time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Continuity",
+    "Interval",
+    "Discontinuity",
+    "Composite Functions",
+    "Intermediate Value Theorem"
+  ],
+  "formulas": [
+    {
+      "formula": "f(x) is continuous at x=c if lim(x→c) f(x) = f(c)",
+      "description": "Used to check if a function is continuous at a specific point in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Continuity",
+      "definition": "A function is continuous if you can draw its graph without lifting your pen."
+    },
+    {
+      "term": "Removable Discontinuity",
+      "definition": "A point on the graph is missing, but the function can be redefined to make it continuous."
+    },
+    {
+      "term": "Jump Discontinuity",
+      "definition": "The graph jumps from one point to another, creating a break."
+    },
+    {
+      "term": "Infinite Discontinuity",
+      "definition": "The graph goes to infinity at a point, causing a break."
+    },
+    {
+      "term": "Intermediate Value Theorem",
+      "definition": "If a function is continuous on [a, b], it takes every value between f(a) and f(b)."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Magnetic Effects of Current and Magnetism",
+    "chapter_number": 13,
+    "topic": "Biot–Savart Law",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:56:56.667385",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today we will learn about the Biot–Savart Law. This is a key topic in the chapter on Magnetic Effects of Current and Magnetism. We will explore how electric currents create magnetic fields. Let's start with the basics.\n\nThe Biot–Savart Law helps us find the magnetic field at a point due to a small part of a current-carrying wire. Imagine a small piece of wire carrying current. This piece is called a current element. The magnetic field created by this element can be calculated using the Biot–Savart Law.\n\n**Statement and Mathematical Form**\nThe Biot–Savart Law states that the magnetic field (dB) due to a current element is directly proportional to the current (I), the length of the element (dl), and the sine of the angle (θ) between dl and the line joining the element to the point. It is inversely proportional to the square of the distance (r) from the element to the point.\n\nThe mathematical form is:\n\n`dB = (μ₀/4π) * (I * dl * sinθ) / r²`\n\nHere, μ₀ is the permeability of free space. It is a constant value.\n\n**Magnetic Field Due to a Current Element**\nThe direction of the magnetic field is given by the right-hand rule. Point your thumb in the direction of the current. Your fingers curl in the direction of the magnetic field lines.\n\n**Field Due to a Straight Current-Carrying Conductor**\nFor a long straight wire, the total magnetic field at a distance (r) from the wire is:\n\n`B = (μ₀ * I) / (2π * r)`\n\nThis formula is important for JEE Main. Remember, the field decreases as you move away from the wire.\n\n**Field on the Axis of a Circular Loop**\nFor a circular loop of radius (a) carrying current (I), the magnetic field at the center is:\n\n`B = (μ₀ * I) / (2 * a)`\n\nOn the axis at a distance (x) from the center, the field is:\n\n`B = (μ₀ * I * a²) / (2 * (a² + x²)^(3/2))`\n\n**Comparison with Coulomb's Law**\nBiot–Savart Law is similar to Coulomb's Law for electric fields. Both involve inverse square relationships. But remember, Coulomb's Law is for electric fields, while Biot–Savart is for magnetic fields.\n\n**Common Mistakes and Exam Traps**\n- Forgetting the angle θ in the Biot–Savart formula.\n- Mixing up the direction of the magnetic field. Use the right-hand rule.\n- Confusing the formulas for straight wires and circular loops.\n\n**Key Takeaways**\n- Use Biot–Savart Law for small current elements.\n- Remember the formulas for straight wires and loops.\n- Practice the right-hand rule for directions.\n\n**Summary**\nBiot–Savart Law helps us find magnetic fields from currents. It is important for JEE Main. Focus on the formulas and practice using them in problems. Watch out for common mistakes. Use the right-hand rule to find directions.\n\nThat's all for today. Keep practicing, and see you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Biot–Savart Law",
+    "Magnetic Field",
+    "Current Element",
+    "Circular Loop",
+    "Right-Hand Rule"
+  ],
+  "formulas": [
+    {
+      "formula": "dB = (μ₀/4π) * (I * dl * sinθ) / r²",
+      "description": "Used to calculate the magnetic field due to a small current element"
+    },
+    {
+      "formula": "B = (μ₀ * I) / (2π * r)",
+      "description": "Used to find the magnetic field at a distance from a long straight wire"
+    },
+    {
+      "formula": "B = (μ₀ * I * a²) / (2 * (a² + x²)^(3/2))",
+      "description": "Used to calculate the magnetic field on the axis of a circular loop"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Current Element",
+      "definition": "A small segment of a current-carrying wire used in Biot–Savart Law calculations"
+    },
+    {
+      "term": "Right-Hand Rule",
+      "definition": "A method to find the direction of the magnetic field around a current-carrying wire"
+    }
+  ]
+}

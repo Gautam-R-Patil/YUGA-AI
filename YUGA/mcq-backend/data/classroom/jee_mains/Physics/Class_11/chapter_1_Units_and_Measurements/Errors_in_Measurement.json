@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Units and Measurements",
+    "chapter_number": 1,
+    "topic": "Errors in Measurement",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:46:49.377445",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about errors in measurement. This is a very important topic in Physics. We often measure things in experiments, but measurements are not always perfect. Understanding errors helps us know how accurate our measurements are.\n\nFirst, let's discuss the types of errors. There are two main types: systematic and random errors. Systematic errors happen because of a problem with the measuring device or method. For example, if a scale is not set to zero, it gives wrong readings every time. Random errors are different. They happen by chance and vary each time. For example, if you measure the same thing multiple times, the readings might be slightly different.\n\nNow, let’s learn about absolute error. Absolute error is the difference between the measured value and the true value. For example, if the true length is 10 cm and you measure 9.8 cm, the absolute error is 0.2 cm.\n\nNext is relative error. Relative error is the absolute error divided by the true value. It shows how large the error is compared to the true value. In our example, the relative error is 0.2 cm divided by 10 cm, which equals 0.02.\n\nPercentage error is another way to express error. It is the relative error multiplied by 100. So, in our example, the percentage error is 2%.\n\nLet's move on to propagation of errors. This is how errors affect calculations. In addition, when adding two measurements, the absolute errors add up. For example, if you add 10 cm ± 0.2 cm and 5 cm ± 0.1 cm, the total is 15 cm ± 0.3 cm.\n\nIn multiplication, errors are a bit different. The relative errors add up. For example, if you multiply 10 cm ± 0.2 cm and 5 cm ± 0.1 cm, the relative error is 0.02 + 0.02 = 0.04, or 4%.\n\nSignificant figures are important in error analysis. They show how precise a measurement is. Always use significant figures in your final answer. For example, if a measurement is 3.45, it has three significant figures.\n\nTo reduce errors in experiments, use good quality instruments and repeat measurements. This helps to find and reduce errors.\n\nCommon mistakes in JEE Main include ignoring significant figures and mixing up absolute and relative errors. Always check which type of error the question is asking about.\n\nKey takeaways: Understand types of errors, use formulas correctly, and watch out for common mistakes.\n\nIn summary, errors in measurement are important to understand. They help us know how accurate our measurements are. Practice using these concepts to do well in JEE Main. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Systematic Error",
+    "Random Error",
+    "Absolute Error",
+    "Relative Error",
+    "Significant Figures"
+  ],
+  "formulas": [
+    {
+      "formula": "Absolute Error = |Measured Value - True Value|",
+      "description": "Used to find the difference between measured and true values"
+    },
+    {
+      "formula": "Relative Error = Absolute Error / True Value",
+      "description": "Used to compare the size of the error to the true value"
+    },
+    {
+      "formula": "Percentage Error = Relative Error x 100",
+      "description": "Used to express relative error as a percentage"
+    },
+    {
+      "formula": "Propagation in Addition: ∆Z = ∆A + ∆B",
+      "description": "Used when adding measurements, add absolute errors"
+    },
+    {
+      "formula": "Propagation in Multiplication: (∆Z/Z) = (∆A/A) + (∆B/B)",
+      "description": "Used when multiplying measurements, add relative errors"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Systematic Error",
+      "definition": "An error that occurs consistently in the same direction"
+    },
+    {
+      "term": "Random Error",
+      "definition": "An error that varies in an unpredictable way"
+    },
+    {
+      "term": "Absolute Error",
+      "definition": "The difference between the measured value and the true value"
+    },
+    {
+      "term": "Relative Error",
+      "definition": "The absolute error divided by the true value"
+    },
+    {
+      "term": "Percentage Error",
+      "definition": "The relative error multiplied by 100"
+    }
+  ]
+}

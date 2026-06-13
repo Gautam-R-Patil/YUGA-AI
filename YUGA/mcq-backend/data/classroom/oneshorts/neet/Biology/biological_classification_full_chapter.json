@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Biological Classification",
+    "chapter_number": "2",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:28:17.603473",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: Biological Classification. We classify living organisms to make it easier to study, understand, and specify them. In this system, Carolus Linnaeus first proposed the Binomial Nomenclature system, and the Five Kingdom Classification by R.H. Whittaker is crucial here, categorizing life into Monera, Protista, Fungi, Plantae, and Animalia. Each kingdom is defined by cell type, cell wall composition, body organization, nutrition, and reproduction.\n\nStarting with Kingdom Monera, it includes prokaryotic organisms like bacteria. Key characteristics include unicellularity and a lack of a true nucleus. Next is Kingdom Protista, encompassing primarily unicellular eukaryotes such as amoebas. Kingdom Fungi includes molds and mushrooms characterized by chitinous cell walls and absorptive heterotrophic nutrition.\n\nThe Plantae kingdom comprises multicellular, photosynthetic organisms with cellulosic cell walls. Kingdom Animalia includes multicellular, eukaryotic organisms with distinct differentiation of tissues.\n\nA very important concept is the hierarchy of classification which includes various ranks like Domain, Kingdom, Phylum, Class, Order, Family, Genus, and Species. Additionally, the concept of three domains (Bacteria, Archaea, Eukarya) introduced by Carl Woese is pivotal for understanding cellular diversity.\n\nKey Points for NEET Questions:\n1. Five Kingdom Characteristics: Cell type, Nature of Cell Wall, Body Organization\n2. Differences between Prokaryotes and Eukaryotes\n3. Hierarchical Taxonomic Categories\n4. Kingdom-specific Features: Nutrition, Reproduction\n\nCommon NEET Patterns:\n- Distinguishing features of kingdoms\n- Matching organisms to their respective kingdom or domain\n- Multiple choice questions on hierarchical taxonomy\n\nTo summarize:\n- Understand the Five Kingdom Classification and their main characteristics.\n- Remember hierarchy: Domain > Kingdom > Phylum > Class > Order > Family > Genus > Species.\n- Distinguish prokaryotic and eukaryotic cell structures.\n- Focus on Carl Woese's three-domain classification.\n\nWith these points in mind, you should be well-prepared for related NEET questions!",
+  "duration_minutes": "12",
+  "difficulty_level": "Intermediate",
+  "images": [],
+  "keywords": [
+    "Biological Classification",
+    "Binomial Nomenclature",
+    "Five Kingdom Classification",
+    "Monera",
+    "Protista",
+    "Fungi",
+    "Plantae",
+    "Animalia",
+    "Prokaryotes",
+    "Eukaryotes",
+    "Domain",
+    "Carl Woese"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Biological Classification",
+      "definition": "It's a scientific method of grouping organisms into hierarchical categories based on their similarities and differences."
+    },
+    {
+      "term": "Binomial Nomenclature",
+      "definition": "A two-term naming system for species using Latin words, established by Carolus Linnaeus."
+    },
+    {
+      "term": "Five Kingdom Classification",
+      "definition": "A system introduced by R.H. Whittaker dividing organisms into five kingdoms: Monera, Protista, Fungi, Plantae, and Animalia."
+    },
+    {
+      "term": "Monera",
+      "definition": "A kingdom comprising unicellular prokaryotic organisms, such as bacteria."
+    },
+    {
+      "term": "Protista",
+      "definition": "A kingdom including mostly unicellular eukaryotes like amoebae and algae."
+    },
+    {
+      "term": "Fungi",
+      "definition": "A group of eukaryotic organisms characterized by a chitinous cell wall and absorptive nutrition, like molds and mushrooms."
+    },
+    {
+      "term": "Plantae",
+      "definition": "Kingdom consisting of multicellular photosynthesizing organisms with cellulose cell walls."
+    },
+    {
+      "term": "Animalia",
+      "definition": "A kingdom of multicellular eukaryotes with specialized tissues, capable of voluntary movement."
+    },
+    {
+      "term": "Prokaryotes",
+      "definition": "Organisms without a true nucleus or membrane-bound organelles, typically unicellular."
+    },
+    {
+      "term": "Eukaryotes",
+      "definition": "Organisms whose cells have a true nucleus and membrane-bound organelles."
+    },
+    {
+      "term": "Domain",
+      "definition": "The highest taxonomic rank in the biological classification system, above kingdom."
+    },
+    {
+      "term": "Carl Woese",
+      "definition": "A microbiologist who introduced the three-domain system: Bacteria, Archaea, and Eukarya."
+    }
+  ]
+}

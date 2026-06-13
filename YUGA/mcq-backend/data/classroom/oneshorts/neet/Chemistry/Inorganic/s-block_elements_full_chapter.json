@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "s-Block Elements",
+    "chapter_number": "15",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:22:16.299494",
+    "model_used": "gpt-4o",
+    "category": "Inorganic"
+  },
+  "lecture_script": "Let's quickly revise the important concepts related to s-Block Elements for NEET. The s-Block is comprised of Group 1 (alkali metals) and Group 2 (alkaline earth metals). These elements have their outermost electron in an s-orbital. \n\nAlkali Metals: Highly reactive, they include Lithium (Li), Sodium (Na), Potassium (K), Rubidium (Rb), Cesium (Cs), and Francium (Fr). They are characterized by low ionization energies, softness, and high electrical conductivity. Alkali metals form ionic compounds and show +1 oxidation state. The reactivity increases down the group.\n\nAlkaline Earth Metals: Less reactive than alkali metals, these include Beryllium (Be), Magnesium (Mg), Calcium (Ca), Strontium (Sr), Barium (Ba), and Radium (Ra). They typically form +2 oxidation states and ionic compounds, except for beryllium that forms covalent compounds.\n\nProperties: s-Block elements are known for their metallic nature, conductivity, and are typically stored under oil to prevent reactions with moisture and oxygen. \n\nKey Concept: Flame test is crucial here. Alkali metals impart distinctive colors to flame due to electron transitions.\n- Na: Yellow\n- K: Lilac\n- Li: Red\n\nNEET focuses on questions such as identifying properties, reactions, and trends across the groups. Common mistakes include confusing alkali and alkaline earth characteristics or the trends in ionization energy.\n\nQuick revision: \n1. Group 1 & 2 elements are the s-block.\n2. Reactivity increases down the Group (both alkali and alkaline earth). \n3. Flame tests distinguish alkali metals.\n4. Alkaline earth metals are less reactive than alkalis.\n5. Focus on ionic bond formation and oxidation states (+1, +2).",
+  "duration_minutes": "10",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "s-Block Elements",
+    "Alkali Metals",
+    "Alkaline Earth Metals",
+    "Ionization Energy",
+    "Reactivity",
+    "Flame Test",
+    "Ionic Compounds",
+    "Oxidation State",
+    "Metallic Nature",
+    "Electron Configuration"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "s-Block Elements",
+      "definition": "Elements in Group 1 and Group 2 where outer electrons occupy an s-orbital."
+    },
+    {
+      "term": "Alkali Metals",
+      "definition": "Highly reactive metals in Group 1 of the periodic table with a +1 oxidation state."
+    },
+    {
+      "term": "Alkaline Earth Metals",
+      "definition": "Elements in Group 2, less reactive than alkali metals, and typically have a +2 oxidation state."
+    },
+    {
+      "term": "Ionization Energy",
+      "definition": "The energy required to remove the outermost electron from an atom in a gaseous state."
+    },
+    {
+      "term": "Reactivity",
+      "definition": "Tendency of a substance to engage in chemical reactions."
+    },
+    {
+      "term": "Flame Test",
+      "definition": "A procedure to identify a metal or metalloid in a compound based on the color it imparts to a flame."
+    },
+    {
+      "term": "Ionic Compounds",
+      "definition": "Compounds composed of ions held together by electrostatic forces termed ionic bonding."
+    },
+    {
+      "term": "Oxidation State",
+      "definition": "An indicator of the degree of oxidation of an atom in a chemical compound."
+    },
+    {
+      "term": "Metallic Nature",
+      "definition": "Properties associated with metals like conductivity, ductility, and luster."
+    },
+    {
+      "term": "Electron Configuration",
+      "definition": "The distribution of electrons of an atom or molecule in atomic or molecular orbitals."
+    }
+  ]
+}

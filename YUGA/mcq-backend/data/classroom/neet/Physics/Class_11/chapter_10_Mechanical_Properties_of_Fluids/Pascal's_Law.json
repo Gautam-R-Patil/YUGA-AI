@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Mechanical Properties of Fluids",
+    "chapter_number": 10,
+    "topic": "Pascal's Law",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:58:16.992436",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Pascal's Law. This is a very important topic in physics, especially for NEET exams. Let's start with what Pascal's Law is. \n\nPascal's Law states that when you apply pressure to a fluid in a closed container, the pressure increases equally in all directions. This means if you push on one side of a liquid, the push spreads everywhere inside the container. \n\nNow, let's talk about where we see Pascal's Law in real life. One main use is in hydraulics. Hydraulics are systems that use liquid to move or lift things. For example, hydraulic brakes in cars use this law. When you press the brake pedal, the force is sent through the brake fluid to stop the car. \n\nAnother example is a hydraulic lift. This is used to raise cars in garages. When a small force is applied to the fluid, it lifts the car with a much bigger force. \n\nTo understand Pascal's Law better, let's look at a simple formula: P = F/A. Here, P stands for pressure, F is the force applied, and A is the area where the force is applied. This formula helps us calculate how much pressure is applied in a system. \n\nLet's solve a quick problem. If you apply a force of 10 newtons on an area of 2 square meters, what is the pressure? Using the formula P = F/A, we get P = 10/2 = 5 pascals. \n\nA common mistake is thinking the pressure changes only where force is applied. Remember, the pressure spreads equally in all directions. \n\nNow, let's summarize what we've learned. Pascal's Law tells us that pressure applied to a fluid spreads equally everywhere. This is very useful in hydraulic systems like car brakes and lifts. Always use the formula P = F/A to find pressure. \n\nIn NEET exams, remember to think about how pressure spreads in fluids. This will help you solve questions quickly. \n\nThat's it for today! Keep practicing, and you'll master Pascal's Law in no time.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Pascal's Law",
+    "Hydraulics",
+    "Pressure",
+    "Hydraulic brakes",
+    "Hydraulic lift"
+  ],
+  "formulas": [
+    {
+      "formula": "P = F/A",
+      "description": "Pressure (P) is equal to the force (F) applied divided by the area (A) over which the force is applied."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Pascal's Law",
+      "definition": "A principle stating that pressure applied to a fluid in a closed container is transmitted equally in all directions."
+    },
+    {
+      "term": "Hydraulics",
+      "definition": "A technology that uses the mechanical properties of liquids to perform work."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Environmental Chemistry",
+    "chapter_number": 20,
+    "topic": "Soil Chemistry",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:22:44.228691",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about soil chemistry. Soil is very important for plants. It gives them water and nutrients. Let's start by understanding the composition of soil. Soil is made of minerals, organic matter, air, and water. Minerals come from rocks. Organic matter comes from dead plants and animals.\n\nNow, let's talk about soil pollution. Pollution means making something dirty. Soil pollution happens when harmful chemicals get into the soil. These chemicals can come from factories, pesticides, and waste. They make the soil less healthy.\n\nThe sources of soil pollution include industrial waste, agricultural chemicals, and household waste. Industrial waste comes from factories. Agricultural chemicals include pesticides and fertilizers. Household waste is the garbage from our homes.\n\nSoil pollution has many effects. It can harm plants, animals, and humans. Plants may not grow well. Animals can get sick if they eat polluted plants. Humans can also get sick if they eat food grown in polluted soil.\n\nTo protect soil, we need soil conservation. Conservation means saving something. We can conserve soil by planting trees and using less chemicals. Trees hold the soil together and stop erosion.\n\nSoil fertility is the soil's ability to grow plants. Fertile soil has lots of nutrients. Nutrients are like food for plants. Without them, plants cannot grow well.\n\nSoil pH is a measure of how acidic or basic the soil is. It is important for plant growth. Most plants like soil with a pH between 6 and 7. If the pH is too high or too low, plants may not grow well.\n\nNutrient cycles are the movement of nutrients in the environment. Plants take nutrients from the soil. When plants die, the nutrients go back into the soil.\n\nBioremediation is using living things to clean the soil. Microorganisms, like bacteria, can break down pollutants. This helps make the soil healthy again.\n\nPhytoremediation is using plants to clean the soil. Some plants can absorb harmful chemicals. These plants help remove pollution from the soil.\n\nSoil erosion is when soil is moved by wind or water. This can happen if there are no plants to hold the soil. Erosion makes the soil less fertile.\n\nSoil salinity is when there is too much salt in the soil. Salt can harm plants. This often happens in dry areas where water evaporates quickly.\n\nSoil testing methods help us know what is in the soil. We can test for pH, nutrients, and pollutants. Testing helps farmers grow better crops.\n\nRemember, in JEE Main, questions may ask about soil pollution sources or effects. Be careful with terms like bioremediation and phytoremediation. They are often confused.\n\nIn summary, soil is vital for life. It supports plants and provides food. Protecting soil from pollution is important. Understanding soil chemistry helps us do this.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Soil Composition",
+    "Soil Pollution",
+    "Soil Conservation",
+    "Soil Fertility",
+    "Soil pH"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Soil Pollution",
+      "definition": "The presence of harmful chemicals in soil, making it less healthy."
+    },
+    {
+      "term": "Soil Fertility",
+      "definition": "The ability of soil to provide nutrients to plants."
+    },
+    {
+      "term": "Bioremediation",
+      "definition": "Using living organisms to clean polluted soil."
+    },
+    {
+      "term": "Phytoremediation",
+      "definition": "Using plants to remove pollutants from soil."
+    }
+  ]
+}

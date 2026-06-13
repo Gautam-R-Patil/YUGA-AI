@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Electrochemistry",
+    "chapter_number": 9,
+    "topic": "Nernst Equation",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:09:37.779846",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Nernst Equation in electrochemistry. This is an important topic for JEE Main. Let's start by understanding what the Nernst Equation is. \n\nThe Nernst Equation helps us find the cell potential of an electrochemical cell. Cell potential is the voltage or electric potential difference of the cell. It changes with concentration, temperature, and pressure. \n\nFirst, let's derive the Nernst Equation. The equation is: E = E° - (RT/nF) * ln(Q). Here, E is the cell potential. E° is the standard cell potential. R is the gas constant, T is the temperature in Kelvin, n is the number of electrons transferred, F is the Faraday constant, and Q is the reaction quotient. \n\nNow, let's see how concentration affects cell potential. If the concentration of reactants increases, the cell potential increases. If the concentration of products increases, the cell potential decreases. Remember, if Q < 1, E > E°. If Q > 1, E < E°. \n\nThe Nernst Equation is useful for many applications. One important use is calculating pH. For this, we use the Nernst Equation for hydrogen ion concentration. \n\nLet's solve an example. Calculate the cell potential for a cell with E° = 1.1 V, T = 298 K, n = 2, and Q = 0.01. Use the formula: E = E° - (0.059/n) * log(Q). So, E = 1.1 - (0.059/2) * log(0.01) = 1.1 - 0.059 * (-2) = 1.1 + 0.118 = 1.218 V. \n\nBe careful with logarithms. A common mistake is forgetting the negative sign in log(Q) when Q < 1. \n\nThe Nernst Equation also shows the temperature dependence of cell potential. As temperature increases, the cell potential can change. \n\nNext, let's talk about concentration cells. These are cells with the same electrodes but different ion concentrations. The Nernst Equation helps calculate the potential of these cells. \n\nThe Nernst Equation is also related to Gibbs free energy. The formula is: ∆G = -nFE. This shows the energy change in a reaction. \n\nFinally, let's discuss the limitations of the Nernst Equation. It assumes ideal conditions. In real life, deviations occur. It works best for dilute solutions and low temperatures. \n\nKey takeaways: \n- The Nernst Equation helps calculate cell potential. \n- It depends on concentration and temperature. \n- Use it to calculate pH and understand concentration cells. \n- Remember its limitations and common mistakes. \n\nThat's all for today. Keep practicing problems, and you'll master this topic! Good luck with your JEE Main preparation.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Nernst Equation",
+    "Cell Potential",
+    "Concentration",
+    "Gibbs Free Energy",
+    "PH"
+  ],
+  "formulas": [
+    {
+      "formula": "E = E° - (RT/nF) * ln(Q)",
+      "description": "Used to calculate the cell potential under non-standard conditions in JEE Main problems"
+    },
+    {
+      "formula": "E = E° - (0.059/n) * log(Q)",
+      "description": "Simplified form at 298 K, often used in JEE Main for quick calculations"
+    },
+    {
+      "formula": "∆G = -nFE",
+      "description": "Relates cell potential to Gibbs free energy change, useful in thermodynamics questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cell Potential",
+      "definition": "The voltage or electric potential difference of an electrochemical cell"
+    },
+    {
+      "term": "Reaction Quotient (Q)",
+      "definition": "A measure of the relative amounts of products and reactants present during a reaction"
+    },
+    {
+      "term": "Standard Cell Potential (E°)",
+      "definition": "The cell potential when all reactants and products are in their standard states"
+    }
+  ]
+}

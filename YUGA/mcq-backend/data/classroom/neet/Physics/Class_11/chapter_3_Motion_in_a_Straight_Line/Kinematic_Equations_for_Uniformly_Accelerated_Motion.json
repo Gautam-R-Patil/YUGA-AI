@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Motion in a Straight Line",
+    "chapter_number": 3,
+    "topic": "Kinematic Equations for Uniformly Accelerated Motion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:49:46.345794",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today we will learn about motion in a straight line. Our focus is on kinematic equations for uniformly accelerated motion. These equations help us understand how objects move when they speed up or slow down at a constant rate. \n\nFirst, let's talk about the basic terms. 'Velocity' is the speed of an object in a specific direction. 'Acceleration' is the change in velocity over time. If an object moves faster, it accelerates. If it slows down, it decelerates. \n\nNow, let’s derive our first equation: v = u + at. Here, 'v' is the final velocity, 'u' is the initial velocity, 'a' is acceleration, and 't' is time. This equation tells us how the velocity changes when there is constant acceleration. \n\nNext, we have the equation: s = ut + 1/2at². 's' stands for displacement, which is the distance covered in a specific direction. This equation helps us find out how far an object travels during acceleration. \n\nFinally, the third equation is: v² = u² + 2as. This equation relates the velocities, acceleration, and displacement. It is helpful when you do not know the time. \n\nLet's see some examples. Imagine a car starting from rest, so u = 0, and it accelerates at 2 m/s² for 5 seconds. Using v = u + at, we find v = 0 + 2*5 = 10 m/s. The car's velocity after 5 seconds is 10 m/s. \n\nNow, for displacement, use s = ut + 1/2at². Here, s = 0*5 + 1/2*2*5² = 25 meters. The car travels 25 meters in 5 seconds. \n\nA common mistake is mixing up velocity and acceleration. Remember, velocity is how fast, and acceleration is how fast the speed changes. \n\nGraphical analysis is also important. If we plot velocity vs. time for uniformly accelerated motion, we get a straight line. The slope of this line gives acceleration. A position vs. time graph for the same motion is a curve. \n\nIn NEET exams, questions often ask about these equations. Practice solving problems using these formulas. Also, remember that acceleration is constant in these cases. \n\nTo summarize, we learned three key equations for uniformly accelerated motion. They help us calculate velocity, displacement, and the relation between them. Practice these concepts, and you’ll be ready for any NEET question on this topic. \n\nThank you, and keep practicing!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Velocity",
+    "Acceleration",
+    "Displacement",
+    "Kinematic Equations",
+    "Uniform Motion"
+  ],
+  "formulas": [
+    {
+      "formula": "v = u + at",
+      "description": "Final velocity (v) is initial velocity (u) plus acceleration (a) times time (t)."
+    },
+    {
+      "formula": "s = ut + 1/2at²",
+      "description": "Displacement (s) is initial velocity (u) times time (t) plus half of acceleration (a) times time squared (t²)."
+    },
+    {
+      "formula": "v² = u² + 2as",
+      "description": "Final velocity squared (v²) is initial velocity squared (u²) plus two times acceleration (a) times displacement (s)."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Velocity",
+      "definition": "Speed of an object in a specific direction."
+    },
+    {
+      "term": "Acceleration",
+      "definition": "Change in velocity over time."
+    },
+    {
+      "term": "Displacement",
+      "definition": "Distance covered in a specific direction."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Current Electricity",
+    "chapter_number": 12,
+    "topic": "Electrical Instruments",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:56:41.363434",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today we will learn about electrical instruments. These tools help us measure electric current, voltage, and resistance. Let's start with the galvanometer. A galvanometer is a device that detects small electric currents. It works on the principle of a moving coil. When current flows through the coil, it moves in a magnetic field. This movement shows us the presence of current. \n\nNow, how do we use a galvanometer as an ammeter or voltmeter? An ammeter measures current. To convert a galvanometer to an ammeter, we connect a small resistor, called a shunt, in parallel. This allows most of the current to pass through the shunt. The formula to find the shunt resistance is Rs = (Ig * Rg) / (I - Ig), where Rs is the shunt resistance, Ig is the galvanometer current, Rg is the resistance of the galvanometer, and I is the total current. Remember, an ammeter is always connected in series in a circuit. \n\nA voltmeter measures voltage. To convert a galvanometer to a voltmeter, we connect a large resistor in series. This limits the current through the galvanometer. The formula for the series resistance is Rs = (V - Ig * Rg) / Ig, where V is the voltage to be measured. A voltmeter is always connected in parallel with the component. \n\nNext, let's talk about the potentiometer. The potentiometer is a device that measures the potential difference or voltage. It works on the principle that the potential drop across a wire is directly proportional to its length. This means longer wires have more voltage drop. In JEE Main, you might see questions about comparing EMFs or finding unknown resistances using a potentiometer. \n\nThe Wheatstone bridge is another important topic. It is a circuit used to measure unknown resistances. It has four resistors in a diamond shape. The formula for balance is R1/R2 = R3/R4, where R1, R2, R3, and R4 are the resistances. When the bridge is balanced, no current flows through the galvanometer. This concept is useful for solving many JEE Main problems. \n\nNow, let's look at some common mistakes in JEE Main. Students often connect an ammeter in parallel by mistake. Remember, it must be in series. Also, don't forget to zero the galvanometer before using it. In potentiometer problems, ensure the wire is uniform. Otherwise, the results will be wrong. \n\nKey takeaways for today: understand how to convert a galvanometer into an ammeter or voltmeter. Know the formulas for shunt and series resistances. Practice using the potentiometer and Wheatstone bridge. These concepts are crucial for JEE Main. \n\nIn summary, electrical instruments help us measure current, voltage, and resistance. The galvanometer, ammeter, voltmeter, potentiometer, and Wheatstone bridge are essential tools. Practice problems using these tools to do well in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Galvanometer",
+    "Ammeter",
+    "Voltmeter",
+    "Potentiometer",
+    "Wheatstone Bridge"
+  ],
+  "formulas": [
+    {
+      "formula": "Rs = (Ig * Rg) / (I - Ig)",
+      "description": "Formula to calculate shunt resistance when converting a galvanometer to an ammeter"
+    },
+    {
+      "formula": "Rs = (V - Ig * Rg) / Ig",
+      "description": "Formula to calculate series resistance when converting a galvanometer to a voltmeter"
+    },
+    {
+      "formula": "R1/R2 = R3/R4",
+      "description": "Balance condition formula for a Wheatstone bridge"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Galvanometer",
+      "definition": "An instrument that detects small electric currents"
+    },
+    {
+      "term": "Ammeter",
+      "definition": "A device used to measure electric current"
+    },
+    {
+      "term": "Voltmeter",
+      "definition": "A device used to measure electric voltage"
+    },
+    {
+      "term": "Potentiometer",
+      "definition": "An instrument used to measure potential difference or voltage"
+    },
+    {
+      "term": "Wheatstone Bridge",
+      "definition": "A circuit used to measure unknown resistances"
+    }
+  ]
+}

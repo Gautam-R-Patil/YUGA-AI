@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Biomolecules",
+    "chapter_number": 27,
+    "topic": "Proteins",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:29:27.500419",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about proteins, an important topic in organic chemistry. Proteins are large molecules found in our body. They help in many functions like building muscles and fighting diseases. Let's start by understanding the building blocks of proteins, called amino acids. \n\nAmino acids are small molecules that join together to form proteins. Each amino acid has a basic structure. It has a central carbon atom, called the alpha carbon. This carbon is bonded to four groups: an amino group (-NH2), a carboxyl group (-COOH), a hydrogen atom, and an R group or side chain. The R group is different for each amino acid and gives it unique properties. \n\nAmino acids can be classified based on the nature of their R group. They can be non-polar, polar, acidic, or basic. For example, glycine is non-polar, while serine is polar. These properties affect how amino acids interact with each other. \n\nNext, let's talk about peptide bonds. When two amino acids join, they form a peptide bond. This bond is formed by a reaction between the amino group of one amino acid and the carboxyl group of another. Water is released in this reaction. Peptide bonds link amino acids in a chain, forming a polypeptide. \n\nProteins have different levels of structure. The primary structure is the sequence of amino acids in a chain. The secondary structure is formed when the chain folds into shapes like alpha-helices or beta-sheets. These shapes are held by hydrogen bonds. The tertiary structure is the overall 3D shape of a single protein molecule. It is stabilized by interactions like hydrogen bonds and disulfide bridges. Finally, the quaternary structure is when multiple protein molecules join together. \n\nLet's move on to denaturation. Denaturation is when a protein loses its shape. This can happen due to heat, pH changes, or chemicals. When a protein is denatured, it cannot function properly. For example, cooking an egg causes the proteins to denature and solidify. \n\nNow, let's discuss enzyme action. Enzymes are proteins that speed up chemical reactions in our body. They work on specific molecules called substrates. The enzyme binds to the substrate at the active site. This forms an enzyme-substrate complex, which helps the reaction to occur faster. After the reaction, the enzyme is free to work on another substrate. \n\nAnother important concept is the isoelectric point. The isoelectric point is the pH at which an amino acid or protein has no net charge. At this point, the positive and negative charges are balanced. This is important for protein purification techniques. \n\nLet's look at some common mistakes in the JEE Main exam. Students often confuse the structures of amino acids. Remember, the alpha carbon is bonded to four groups: amino, carboxyl, hydrogen, and R group. Also, be careful with peptide bond formation. It's a dehydration reaction, meaning water is released. \n\nIn summary, proteins are made of amino acids linked by peptide bonds. They have different structures, from primary to quaternary. Denaturation affects protein function. Enzymes are proteins that speed up reactions. The isoelectric point is where a protein has no net charge. \n\nKeep these key points in mind for your JEE Main exam. Practice identifying amino acids and understanding protein structures. This will help you solve related questions easily. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Amino acids",
+    "Peptide bond",
+    "Denaturation",
+    "Enzyme action",
+    "Isoelectric point"
+  ],
+  "formulas": [
+    {
+      "formula": "pI = (pKa1 + pKa2) / 2",
+      "description": "Used to calculate the isoelectric point of amino acids, where pKa1 and pKa2 are the dissociation constants of the amino acid"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Amino acid",
+      "definition": "A molecule with an amino group, a carboxyl group, a hydrogen atom, and an R group attached to a central carbon"
+    },
+    {
+      "term": "Peptide bond",
+      "definition": "A bond formed between the carboxyl group of one amino acid and the amino group of another, releasing water"
+    },
+    {
+      "term": "Denaturation",
+      "definition": "The process where a protein loses its shape due to external factors like heat or pH changes"
+    },
+    {
+      "term": "Enzyme",
+      "definition": "A protein that speeds up chemical reactions in the body by binding to substrates"
+    },
+    {
+      "term": "Isoelectric point",
+      "definition": "The pH at which an amino acid or protein has no net electric charge"
+    }
+  ]
+}

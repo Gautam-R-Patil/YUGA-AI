@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Coordination Compounds",
+    "chapter_number": "19",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:23:37.236508",
+    "model_used": "gpt-4o",
+    "category": "Inorganic"
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts, 'Coordination Compounds' from Class 12 Chemistry. Coordination compounds are central to many biological processes and industrial applications.\n\nCoordination compounds consist of a central metal atom or ion bonded to a surrounding array of molecules or anions called ligands. This structure is maintained by coordinate bonds, where both shared electrons come from the ligand.\n\nKey Ideas:\n- **Coordination Sphere** includes the central metal ion and its attached ligands.\n- **Coordination Number** refers to the number of ligand bonds to the metal atom, which affects the geometry of the compound.\n- **Ligands** can be mono-, bi-, or polydentate, meaning they can bind through one or more sites.\n\nA major component is the nomenclature that uses specific rules such as naming cations first, followed by anions, with ligands presented alphabetically and using prefixes like di-, tri- etc., for multiple identical ligands.\n\nKey Formula:\n- The formula for complex compounds is written as [Metal(Ligand)n]X, where X is the outside ion completing the charge.\n\nNEET Question Patterns often focus on identifying charge on complex ions, coordination numbers, naming compounds correctly, and recognizing geometries like octahedral, tetrahedral, and square planar structures.\n\nQuick Revision Points:\n1. Coordination compounds involve metal ions surrounded by ligands.\n2. Coordination number determines geometry.\n3. Naming rules are crucial for these compounds.\n4. Understand different types of ligands and their bonding.\n5. Commonly involve charges and oxidation states in questions.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Coordination Sphere",
+    "Coordination Number",
+    "Ligands",
+    "Nomenclature",
+    "Octahedral",
+    "Tetrahedral",
+    "Square Planar",
+    "Complex Ion",
+    "Oxidation State",
+    "Chelation"
+  ],
+  "formulas": [
+    "\\text{Formula of a coordination compound: } [\\text{Metal(Ligand)}_n]\\text{X}",
+    "Oxidation \\; State = \\text{Total charge} - \\text{Charge contributed by ligands}"
+  ],
+  "definitions": [
+    {
+      "term": "Coordination Sphere",
+      "definition": "The region in a coordination compound comprising the central metal ion and its directly bonded ligands."
+    },
+    {
+      "term": "Coordination Number",
+      "definition": "The total number of ligand attachments to the central metal ion in a coordination compound."
+    },
+    {
+      "term": "Ligands",
+      "definition": "Atoms, ions, or molecules that donate a pair of electrons to the central atom or ion in a coordination complex."
+    },
+    {
+      "term": "Nomenclature",
+      "definition": "The systematic method of naming coordination compounds according to IUPAC rules."
+    },
+    {
+      "term": "Octahedral",
+      "definition": "A geometry of coordination compound where six ligands symmetrically surround the central metal ion."
+    },
+    {
+      "term": "Tetrahedral",
+      "definition": "A molecular geometry where four ligands form a tetrahedron around a central metal ion."
+    },
+    {
+      "term": "Square Planar",
+      "definition": "A geometric arrangement in coordination complexes with four ligands positioned at the corners of a square around the central atom."
+    },
+    {
+      "term": "Complex Ion",
+      "definition": "A charged species consisting of a metal ion bonded to one or more ligands."
+    },
+    {
+      "term": "Oxidation State",
+      "definition": "The hypothetical charge that an atom would have if all bonds to atoms of different elements were completely ionic."
+    },
+    {
+      "term": "Chelation",
+      "definition": "The process by which a ligand forms multiple bonds with a single central metal ion."
+    }
+  ]
+}

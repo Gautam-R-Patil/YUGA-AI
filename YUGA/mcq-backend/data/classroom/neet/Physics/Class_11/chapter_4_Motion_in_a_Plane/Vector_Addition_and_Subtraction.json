@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Motion in a Plane",
+    "chapter_number": 4,
+    "topic": "Vector Addition and Subtraction",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:50:28.572858",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about vector addition and subtraction. This is an important topic in physics, especially for NEET exams. We will discuss how to add and subtract vectors using simple methods. Let's start with understanding what a vector is. A vector is a quantity that has both size and direction. For example, wind blowing at 10 km/h towards the north is a vector.\n\nFirst, let's talk about the Triangle Law of vector addition. If you have two vectors, say A and B, you can place them head to tail. The vector from the tail of the first vector to the head of the second vector is the result. This is called the resultant vector. Imagine walking 3 km east and then 4 km north. Your total movement is like the third side of a triangle.\n\nNext, we have the Parallelogram Law of vector addition. Here, you place both vectors A and B starting from the same point. Then, complete a parallelogram. The diagonal from the common starting point gives the resultant vector. This is like adding forces acting on a point.\n\nNow, let's resolve vectors into components. This means breaking a vector into two parts, usually along the x and y axes. For example, a vector at an angle can be split into horizontal and vertical parts. This helps in solving problems easily.\n\nTo add vectors by components, break each vector into x and y parts. Add all x components together and all y components together. This gives the resultant vector in component form. For instance, if one vector is 3i + 4j and another is 5i + 2j, add the i parts and j parts separately.\n\nLet's see some examples. Suppose you walk 5 km east and then 5 km north. Using the Triangle Law, the resultant vector is 5√2 km northeast. In another example, consider forces acting on a point. If one force is 10 N east and another is 10 N north, the resultant force is 10√2 N northeast.\n\nCommon mistakes include forgetting to use the correct angle or direction. Always check the direction of your vectors. Also, remember to use the right units.\n\nIn summary, vector addition helps us find the total effect of multiple movements or forces. Use the Triangle or Parallelogram Law to find the resultant vector. Break vectors into components for easier calculations.\n\nRemember, practice is key. Try solving different problems to get comfortable with these concepts. Good luck with your studies!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Vector",
+    "Triangle Law",
+    "Parallelogram Law",
+    "Resolution of Vectors",
+    "Resultant Vector"
+  ],
+  "formulas": [
+    {
+      "formula": "R = √(A^2 + B^2 + 2AB cos θ)",
+      "description": "Resultant vector R using the Parallelogram Law when angle θ is between vectors A and B"
+    },
+    {
+      "formula": "R = A + B",
+      "description": "Resultant vector R using the Triangle Law when vectors A and B are head-to-tail"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vector",
+      "definition": "A quantity with both magnitude (size) and direction"
+    },
+    {
+      "term": "Resultant Vector",
+      "definition": "The single vector which has the same effect as the original vectors combined"
+    },
+    {
+      "term": "Resolution of Vectors",
+      "definition": "Breaking down a vector into two perpendicular components"
+    }
+  ]
+}

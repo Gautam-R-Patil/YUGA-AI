@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Solutions",
+    "chapter_number": 8,
+    "topic": "Concentration Terms",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:08:46.608617",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about concentration terms in solutions. This is an important topic in Physical Chemistry and is often asked in JEE Main. Let's start with some basic ideas. When we talk about solutions, we mean a mixture of two or more substances. The substance in the largest amount is called the solvent. The other substances are solutes.\n\nFirst, let's discuss Molarity. Molarity is the number of moles of solute per liter of solution. The formula for Molarity is M = n/V, where 'M' is molarity, 'n' is the number of moles of solute, and 'V' is the volume of the solution in liters. For example, if you dissolve 1 mole of salt in 1 liter of water, the molarity is 1 M. In JEE Main, make sure to convert volume to liters if it’s given in milliliters.\n\nNext is Molality. Molality is the number of moles of solute per kilogram of solvent. The formula for Molality is m = n/m_solvent, where 'm' is molality and 'm_solvent' is the mass of the solvent in kilograms. Molality is useful because it does not change with temperature. Remember, in JEE Main, always check if the mass is in kilograms.\n\nNow, let's look at Normality. Normality is the number of gram equivalents of solute per liter of solution. The formula is N = eq/V, where 'N' is normality and 'eq' is the gram equivalent of solute. Normality is used in acid-base reactions. Be careful with the equivalents. For example, 1 mole of H2SO4 gives 2 equivalents of H+ ions.\n\nMole Fraction is another term. It is the ratio of the number of moles of one component to the total number of moles in the solution. The formula is X = n_component/n_total. Mole Fraction is important in vapor pressure calculations.\n\nParts per million (ppm) is used for very dilute solutions. It is the number of parts of solute per million parts of solution. The formula is ppm = (mass of solute/mass of solution) x 10^6. This is often used in pollution studies.\n\nNow, let's talk about converting between concentration units. Sometimes, you need to convert molarity to molality or vice versa. Remember, molarity depends on volume, while molality depends on mass. Use the density of the solution if needed.\n\nLet's solve a quick example. If you have 10 grams of NaCl in 500 mL of water, calculate the molarity. First, find moles of NaCl: moles = mass/molar mass = 10/58.5 = 0.171 moles. Volume in liters = 500/1000 = 0.5 L. Molarity = 0.171/0.5 = 0.342 M.\n\nCommon mistakes in JEE Main include not converting units correctly. Always check if the volume is in liters and mass is in kilograms. Also, be careful with significant figures.\n\nIn summary, remember these key points: Molarity is moles per liter, Molality is moles per kilogram, Normality is equivalents per liter, Mole Fraction is a ratio, and ppm is parts per million. Practice converting these units and solving problems.\n\nThat's all for today. Keep practicing, and you'll do great in JEE Main!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Molarity",
+    "Molality",
+    "Normality",
+    "Mole Fraction",
+    "Parts per million"
+  ],
+  "formulas": [
+    {
+      "formula": "M = n/V",
+      "description": "Molarity formula, used to find concentration in moles per liter"
+    },
+    {
+      "formula": "m = n/m_solvent",
+      "description": "Molality formula, used to find concentration in moles per kilogram"
+    },
+    {
+      "formula": "N = eq/V",
+      "description": "Normality formula, used in acid-base reactions"
+    },
+    {
+      "formula": "X = n_component/n_total",
+      "description": "Mole Fraction formula, used in vapor pressure calculations"
+    },
+    {
+      "formula": "ppm = (mass of solute/mass of solution) x 10^6",
+      "description": "Parts per million formula, used for very dilute solutions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Molarity",
+      "definition": "Number of moles of solute per liter of solution"
+    },
+    {
+      "term": "Molality",
+      "definition": "Number of moles of solute per kilogram of solvent"
+    },
+    {
+      "term": "Normality",
+      "definition": "Number of gram equivalents of solute per liter of solution"
+    },
+    {
+      "term": "Mole Fraction",
+      "definition": "Ratio of moles of one component to total moles in solution"
+    },
+    {
+      "term": "Parts per million",
+      "definition": "Number of parts of solute per million parts of solution"
+    }
+  ]
+}

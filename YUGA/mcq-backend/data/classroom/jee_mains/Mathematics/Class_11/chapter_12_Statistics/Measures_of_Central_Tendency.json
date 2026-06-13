@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Statistics",
+    "chapter_number": 12,
+    "topic": "Measures of Central Tendency",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:55:12.438766",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Measures of Central Tendency in Statistics. These measures help us understand data better by showing the center of a data set. Let's start with the Arithmetic Mean. The Arithmetic Mean is the sum of all numbers divided by the count of numbers. For example, if we have the numbers 2, 4, and 6, the mean is (2 + 4 + 6) / 3 = 4. This is a simple way to find the average.\n\nNext, we have the Median. The Median is the middle number in a sorted list. If the list has an odd number of values, the median is the middle one. If even, it's the average of the two middle numbers. For example, in 1, 3, 3, 6, 7, 8, 9, the median is 6. If we add a number, making it 1, 3, 3, 6, 7, 8, 9, 10, the median is (6 + 7) / 2 = 6.5.\n\nNow, let's talk about the Mode. The Mode is the number that appears most often. In the list 1, 2, 2, 3, 4, the mode is 2 because it appears twice. Sometimes, there can be more than one mode or no mode at all.\n\nThe Weighted Mean is used when some values are more important than others. It is calculated by multiplying each number by its weight, adding these products, and then dividing by the total weight. For example, if you have grades with different credits, use this to find your overall score.\n\nThe Geometric Mean is used for data that changes exponentially, like growth rates. It is the nth root of the product of n numbers. For example, for 2, 8, the geometric mean is √(2×8) = 4.\n\nThe Harmonic Mean is used for rates, like speed. It is the reciprocal of the average of reciprocals. For example, for speeds 60 km/h and 40 km/h, the harmonic mean is 2 / (1/60 + 1/40) = 48 km/h.\n\nLet's discuss some properties of the Mean. The mean is affected by every number in the data set. If you change a number, the mean changes. Also, the mean is sensitive to outliers, which are numbers much larger or smaller than the rest. For example, in 1, 2, 3, 100, the mean is 26.5, which doesn't represent most numbers well.\n\nComparing Mean, Median, and Mode, the mean is best for no outliers, the median is best with outliers, and the mode is best for categorical data. In JEE Main, knowing when to use each is key.\n\nIn data analysis, these measures help summarize data quickly. For example, to find the average score of a class, you'd use the mean. For income data, the median is often better due to outliers.\n\nA common JEE Main mistake is not sorting data before finding the median. Always remember to sort first! Also, watch out for calculation errors when finding the mean.\n\nKey takeaways: Use the mean for numerical data without outliers, the median for skewed data, and the mode for categorical data. Always check your calculations.\n\nIn summary, understanding these measures helps you analyze data effectively. Practice using these concepts with different data sets to prepare for JEE Main. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Arithmetic Mean",
+    "Median",
+    "Mode",
+    "Weighted Mean",
+    "Geometric Mean"
+  ],
+  "formulas": [
+    {
+      "formula": "Mean = (Σx) / n",
+      "description": "Used to calculate the average of a set of numbers in JEE Main problems"
+    },
+    {
+      "formula": "Median = middle value of sorted data",
+      "description": "Used to find the middle value in a data set, especially with outliers"
+    },
+    {
+      "formula": "Mode = most frequent value",
+      "description": "Used to find the most common value in a data set"
+    },
+    {
+      "formula": "Weighted Mean = (Σwx) / (Σw)",
+      "description": "Used when different numbers have different levels of importance"
+    },
+    {
+      "formula": "Geometric Mean = (Πx)^(1/n)",
+      "description": "Used for data that involves growth rates or exponential changes"
+    },
+    {
+      "formula": "Harmonic Mean = n / (Σ(1/x))",
+      "description": "Used for calculating averages of rates, like speed"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Arithmetic Mean",
+      "definition": "The sum of all numbers divided by the count of numbers"
+    },
+    {
+      "term": "Median",
+      "definition": "The middle value in a sorted list of numbers"
+    },
+    {
+      "term": "Mode",
+      "definition": "The number that appears most often in a data set"
+    },
+    {
+      "term": "Weighted Mean",
+      "definition": "An average where each number has a different level of importance"
+    },
+    {
+      "term": "Geometric Mean",
+      "definition": "The nth root of the product of n numbers, used for growth rates"
+    },
+    {
+      "term": "Harmonic Mean",
+      "definition": "The reciprocal of the average of reciprocals, used for rates"
+    }
+  ]
+}

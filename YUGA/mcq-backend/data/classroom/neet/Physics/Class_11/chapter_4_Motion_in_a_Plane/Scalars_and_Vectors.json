@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Motion in a Plane",
+    "chapter_number": 4,
+    "topic": "Scalars and Vectors",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:50:11.657626",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Scalars and Vectors. These are important in physics and often appear in NEET exams. Let's start with Scalars. Scalars are quantities with only magnitude. Magnitude is the size or amount of something. For example, distance, speed, and mass are scalars. If you say a car moves 60 km, that's a scalar.\n\nNow, let's talk about Vectors. Vectors have both magnitude and direction. This means they tell you how much and which way. Velocity is a vector. If a car moves 60 km north, that's a vector. See the difference? Scalars are like saying 'how much', vectors are like saying 'how much and where'.\n\nVectors are shown with arrows. The length of the arrow shows the magnitude. The arrowhead shows the direction. Imagine a map. An arrow pointing north with a length of 5 cm could mean 5 km north.\n\nLet's learn how to add vectors. Use the 'tip-to-tail' method. Place the tail of the second vector at the tip of the first. Draw a new vector from the start of the first to the end of the last. This new vector is the sum. For subtraction, reverse the direction of the vector you subtract and then add.\n\nVectors can also be multiplied by a scalar. This changes the magnitude but not the direction. If you double a vector's magnitude, you just make the arrow twice as long.\n\nVectors are used in many physics problems. For example, forces acting on a body are vectors. They help us find the net force, which tells us how an object will move.\n\nRemember these key points: Scalars have only magnitude. Vectors have magnitude and direction. Use arrows to show vectors. Add vectors using the tip-to-tail method. Multiply vectors by scalars to change their size.\n\nIn summary, understanding scalars and vectors is crucial. They help us describe physical quantities and solve problems. Practice with examples to get better. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Scalars",
+    "Vectors",
+    "Magnitude",
+    "Direction",
+    "Tip-to-tail method"
+  ],
+  "formulas": [
+    {
+      "formula": "A + B = C",
+      "description": "Vector addition using the tip-to-tail method"
+    },
+    {
+      "formula": "kA",
+      "description": "Multiplication of vector A by a scalar k, changing its magnitude"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Scalar",
+      "definition": "A quantity with only magnitude"
+    },
+    {
+      "term": "Vector",
+      "definition": "A quantity with both magnitude and direction"
+    },
+    {
+      "term": "Magnitude",
+      "definition": "The size or amount of a quantity"
+    },
+    {
+      "term": "Direction",
+      "definition": "The line or path along which something moves"
+    }
+  ]
+}

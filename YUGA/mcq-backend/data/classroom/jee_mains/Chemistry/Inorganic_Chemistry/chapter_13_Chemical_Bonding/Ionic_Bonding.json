@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapter_number": 13,
+    "topic": "Ionic Bonding",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:13:30.908264",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Ionic Bonding. This is a key topic in Chemical Bonding. Let's start by understanding what an Ionic Bond is. An Ionic Bond is a type of chemical bond. It forms when one atom gives an electron to another atom. This transfer of electrons creates ions. Ions are charged particles. The atom that gives away an electron becomes a positive ion. The atom that receives an electron becomes a negative ion. These opposite charges attract each other. This attraction forms an Ionic Bond.\n\nNow, let's talk about Lattice Energy. Lattice Energy is the energy needed to separate one mole of an ionic solid into its ions. It is a measure of bond strength in ionic compounds. The formula for Lattice Energy is: E = k(Q1Q2/r). Here, E is the Lattice Energy, Q1 and Q2 are the charges of the ions, r is the distance between the ions, and k is a constant.\n\nFactors affecting the strength of Ionic Bonds include the charge of the ions and the size of the ions. Higher charges lead to stronger bonds. Smaller ions also form stronger bonds because they are closer together.\n\nIonic compounds have several properties. They have high melting and boiling points. They are usually solid at room temperature. They conduct electricity when melted or dissolved in water.\n\nThe Born-Haber Cycle is a way to calculate Lattice Energy. It involves several steps, such as ionization energy and electron affinity. Each step has an energy change. By adding these energy changes, we can find the Lattice Energy.\n\nLet's compare Ionic Bonds with Covalent Bonds. Ionic Bonds involve the transfer of electrons. Covalent Bonds involve the sharing of electrons. Ionic Bonds are generally stronger than Covalent Bonds.\n\nIn JEE Main, you may need to predict the stability of compounds. Ionic compounds are usually stable if they have high Lattice Energy. Remember, high charges and small sizes lead to high Lattice Energy.\n\nExamples of Ionic Compounds include sodium chloride (NaCl) and magnesium oxide (MgO). These compounds are common in nature and have typical ionic properties.\n\nA common mistake in JEE Main is confusing Ionic Bonds with Covalent Bonds. Remember, Ionic Bonds involve electron transfer, not sharing. Also, be careful with units when calculating Lattice Energy.\n\nKey takeaways: Ionic Bonds form by electron transfer, Lattice Energy measures bond strength, and high charges and small sizes strengthen Ionic Bonds.\n\nIn summary, Ionic Bonding is an important concept in chemistry. It helps us understand the properties and stability of compounds. Practice problems on Lattice Energy and identify Ionic Bonds in compounds to prepare well for JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Ionic Bond",
+    "Lattice Energy",
+    "Ions",
+    "Born-Haber Cycle",
+    "Covalent Bonds"
+  ],
+  "formulas": [
+    {
+      "formula": "E = k(Q1Q2/r)",
+      "description": "Used to calculate the Lattice Energy of an ionic compound, where Q1 and Q2 are ion charges and r is the distance between ions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ionic Bond",
+      "definition": "A chemical bond formed by the transfer of electrons from one atom to another"
+    },
+    {
+      "term": "Lattice Energy",
+      "definition": "The energy required to separate one mole of an ionic solid into its ions"
+    },
+    {
+      "term": "Ion",
+      "definition": "A charged particle that forms when an atom gains or loses electrons"
+    }
+  ]
+}

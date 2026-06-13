@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Current Electricity",
+    "chapter_number": 12,
+    "topic": "Kirchhoff’s Laws",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:56:24.281943",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Kirchhoff’s Laws in Current Electricity. These laws help us understand how current and voltage work in circuits. Let's start with Kirchhoff's Current Law, or KCL. KCL says that the total current entering a junction equals the total current leaving it. Imagine water flowing in pipes. The amount of water entering a junction equals the amount leaving it. \n\nNow, let's see a simple example. If 2A current enters a junction and 1A leaves, then another 1A must leave to balance it. This is KCL. Remember, a junction is a point where three or more wires meet. \n\nNext, we have Kirchhoff's Voltage Law, or KVL. KVL says that the total voltage around a closed loop in a circuit is zero. Think of a loop as a race track. The energy you gain must equal the energy you lose to complete the loop. \n\nFor example, if you have a loop with a 10V battery and two resistors using 4V and 6V, the total voltage is 10V - 4V - 6V = 0V. This satisfies KVL. A loop is any closed path in a circuit. \n\nLet's apply these laws to simple circuits. Consider a circuit with one battery and two resistors. Use KVL to find unknown voltages. Use KCL to find unknown currents. \n\nIn JEE Main, you might see complex circuits. Break them into simple loops and junctions. Use KCL and KVL to solve. \n\nHere is a common mistake. Students often forget to consider the direction of current. Always choose a direction and stick to it. If your answer is negative, it means the current flows opposite to your choice. \n\nAnother trap is sign errors in KVL. If you move against the battery, subtract voltage. If you move with it, add voltage. \n\nTo solve problems, follow these steps: \n1. Identify junctions and loops. \n2. Apply KCL at junctions. \n3. Apply KVL in loops. \n4. Solve equations for unknowns. \n\nKey takeaways: KCL is about current at junctions. KVL is about voltage in loops. Practice these steps to master circuit problems. \n\nIn summary, Kirchhoff’s Laws are powerful tools. They help us analyze circuits easily. Use them to find unknown currents and voltages. Practice regularly to avoid common mistakes. \n\nThat's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Kirchhoff's Current Law",
+    "Kirchhoff's Voltage Law",
+    "Junction",
+    "Loop",
+    "Circuit"
+  ],
+  "formulas": [
+    {
+      "formula": "ΣI_in = ΣI_out",
+      "description": "Use this formula for current at a junction to apply KCL in JEE Main questions"
+    },
+    {
+      "formula": "ΣV = 0",
+      "description": "Use this formula for voltage around a loop to apply KVL in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Junction",
+      "definition": "A point where three or more wires meet in a circuit"
+    },
+    {
+      "term": "Loop",
+      "definition": "A closed path in a circuit where you can apply KVL"
+    }
+  ]
+}

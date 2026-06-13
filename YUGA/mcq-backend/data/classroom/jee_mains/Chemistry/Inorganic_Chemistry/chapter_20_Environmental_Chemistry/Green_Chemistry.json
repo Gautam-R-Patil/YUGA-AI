@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Environmental Chemistry",
+    "chapter_number": 20,
+    "topic": "Green Chemistry",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:22:20.963150",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Green Chemistry. Green Chemistry is about making chemicals in a safe and eco-friendly way. It helps protect our environment.\n\nLet's start with the Principles of Green Chemistry. These are rules to make chemical processes safer and cleaner. One key principle is Atom Economy. Atom Economy means using all atoms in a reaction. This reduces waste. For example, if you bake a cake, Atom Economy is like using all ingredients without any leftovers.\n\nNext, we have Sustainable Development. This means meeting our needs without harming future generations. Green Chemistry supports this by reducing pollution and saving resources.\n\nNow, let's talk about Renewable Feedstocks. Feedstocks are raw materials used to make products. Renewable Feedstocks come from natural sources, like plants, that can grow back quickly. Using them helps reduce our dependence on non-renewable resources like coal and oil.\n\nDesign for Degradation is another principle. It means making products that break down easily after use. This helps reduce waste in the environment. Imagine a plastic bag that disappears after a few weeks instead of staying around for years.\n\nReal-time Analysis for Pollution Prevention is important too. This means checking for pollution during a chemical process, not after. It helps fix problems early and keeps the environment clean.\n\nSafer Solvents and Auxiliaries are chemicals used in reactions. Green Chemistry suggests using safer ones. For instance, water is a safer solvent than many others.\n\nEnergy Efficiency is about using less energy. Green Chemistry designs processes that need less heat or electricity. This saves energy and reduces pollution.\n\nCatalysis is a process that speeds up chemical reactions. Using catalysts can make reactions faster and cleaner. For example, enzymes in our body act as catalysts.\n\nWaste Prevention is about making less waste from the start. It's better than cleaning up later. Think of it like not making a mess instead of cleaning it up.\n\nFinally, Inherently Safer Chemistry for Accident Prevention means designing chemicals that are less likely to cause accidents. This keeps people and the environment safe.\n\nLet's look at a quick example. If a JEE Main question asks about Atom Economy, remember to calculate it using the formula: Atom Economy = (Molecular weight of desired product / Total molecular weight of all reactants) x 100. This tells you how efficient a reaction is.\n\nA common mistake in JEE Main is forgetting to convert units or missing a step in calculations. Always double-check your work.\n\nIn summary, Green Chemistry is about making chemistry safer and better for the environment. Remember the key principles: Atom Economy, Renewable Feedstocks, and Waste Prevention.\n\nThank you for listening! Keep practicing these concepts for your JEE Main exam.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Green Chemistry",
+    "Atom Economy",
+    "Sustainable Development",
+    "Renewable Feedstocks",
+    "Waste Prevention"
+  ],
+  "formulas": [
+    {
+      "formula": "Atom Economy = (Molecular weight of desired product / Total molecular weight of all reactants) x 100",
+      "description": "Used to calculate the efficiency of a chemical reaction in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Green Chemistry",
+      "definition": "The practice of designing chemical products and processes that reduce or eliminate the use and generation of hazardous substances."
+    },
+    {
+      "term": "Atom Economy",
+      "definition": "A measure of the efficiency of a reaction in using all atoms of reactants to form the desired product."
+    },
+    {
+      "term": "Sustainable Development",
+      "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs."
+    }
+  ]
+}

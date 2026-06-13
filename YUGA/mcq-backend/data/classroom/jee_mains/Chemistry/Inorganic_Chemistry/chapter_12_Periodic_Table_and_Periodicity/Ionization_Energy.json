@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Periodic Table and Periodicity",
+    "chapter_number": 12,
+    "topic": "Ionization Energy",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:12:00.832626",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Ionization Energy. Ionization Energy is the energy needed to remove an electron from an atom. This is important because it tells us how strongly an atom holds onto its electrons. \n\nLet's start with the types of Ionization Energy. The first type is First Ionization Energy. This is the energy needed to remove the first electron from a neutral atom. For example, removing one electron from a sodium atom. The Second Ionization Energy is the energy needed to remove a second electron after the first one is gone. Successive Ionization Energies refer to removing more electrons, one after another. \n\nNow, let's discuss trends in Ionization Energy. Across a period, Ionization Energy increases. This is because atoms have more protons and hold their electrons tighter. Down a group, Ionization Energy decreases. Atoms get bigger, so electrons are further away from the nucleus and easier to remove. \n\nSeveral factors affect Ionization Energy. The main ones are atomic size, nuclear charge, and electron shielding. A smaller atom or a higher nuclear charge means higher Ionization Energy. More electron shielding means lower Ionization Energy. \n\nThere are exceptions to these trends. For example, Boron has a lower Ionization Energy than Beryllium. This is because the electron removed from Boron is in a higher energy level. \n\nIonization Energy is related to reactivity. Elements with low Ionization Energy, like alkali metals, are very reactive. They lose electrons easily. Nonmetals with high Ionization Energy, like halogens, are less reactive. \n\nGraphical representation can help us see these trends. A graph of Ionization Energy across periods shows an upward trend. A graph down groups shows a downward trend. \n\nIn JEE Main, understanding these trends helps predict chemical behavior. For example, knowing that Cesium has low Ionization Energy explains why it reacts easily with water. \n\nHere are some quick checks: If an element is on the left side of the periodic table, then its Ionization Energy is usually low. If it's on the right side, then it is usually high. \n\nCommon mistakes in JEE Main include confusing Ionization Energy trends with atomic size trends. Remember, smaller size means higher Ionization Energy. \n\nKey takeaways: Ionization Energy is crucial in understanding how atoms interact. Learn the trends and exceptions well. Practice problems to avoid common mistakes. \n\nIn summary, Ionization Energy helps us understand atomic structure and reactivity. It has clear trends and exceptions. Knowing these will help you in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Ionization Energy",
+    "First Ionization Energy",
+    "Trends",
+    "Reactivity",
+    "Periodic Table"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Ionization Energy",
+      "definition": "The energy needed to remove an electron from an atom."
+    },
+    {
+      "term": "First Ionization Energy",
+      "definition": "The energy needed to remove the first electron from a neutral atom."
+    },
+    {
+      "term": "Second Ionization Energy",
+      "definition": "The energy needed to remove a second electron after the first one is removed."
+    }
+  ]
+}

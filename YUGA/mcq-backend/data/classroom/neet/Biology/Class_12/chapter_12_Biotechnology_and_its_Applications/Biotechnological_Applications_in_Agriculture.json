@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Biotechnology and its Applications",
+    "chapter_number": 12,
+    "topic": "Biotechnological Applications in Agriculture",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:44:25.583487",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about biotechnology applications in agriculture. This is an important topic for your NEET exam. Let's start with Genetically Modified Organisms or GMOs. GMOs are plants or animals changed by scientists. They add new genes to improve crops. \n\nOne common GMO is Bt crops. Bt stands for Bacillus thuringiensis, a bacteria. Scientists use cry genes from this bacteria. These genes help plants make a protein that kills pests. Bt crops are useful because they reduce the need for chemical pesticides. If pests eat Bt crops, they die. This protects the crops and helps farmers. \n\nAnother type of GMO is herbicide-resistant plants. These plants can survive chemicals that kill weeds. Farmers spray herbicides to kill weeds without harming the crops. This makes farming easier and increases crop yield. \n\nNow, let's talk about biofortification. Biofortification means making crops more nutritious. Scientists add vitamins and minerals to crops. This helps people get more nutrients from their food. For example, Golden Rice is a type of rice with more vitamin A. \n\nIt's important to remember the impact of GMOs on agriculture. GMOs can increase food production and reduce hunger. But, some people worry about their safety. Scientists test GMOs to make sure they are safe to eat. \n\nCommon mistake: Some students think all GMOs are harmful. But, GMOs can be safe and helpful if tested well. \n\nLet's review the key points: GMOs are modified organisms. Bt crops use cry genes to kill pests. Herbicide-resistant plants survive weed killers. Biofortification adds nutrients to crops. \n\nIn summary, biotechnology helps agriculture by making better crops. These crops can produce more food and need fewer chemicals. Remember these points for your NEET exam. Good luck studying!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Genetically Modified Organisms",
+    "Bt Crops",
+    "Herbicide-resistant Plants",
+    "Biofortification",
+    "Cry Genes"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Genetically Modified Organisms",
+      "definition": "Organisms changed by scientists to have new traits."
+    },
+    {
+      "term": "Bt Crops",
+      "definition": "Crops modified with Bacillus thuringiensis genes to kill pests."
+    },
+    {
+      "term": "Cry Genes",
+      "definition": "Genes from bacteria used in Bt crops to produce pest-killing proteins."
+    },
+    {
+      "term": "Biofortification",
+      "definition": "Process of making crops more nutritious by adding vitamins and minerals."
+    }
+  ]
+}

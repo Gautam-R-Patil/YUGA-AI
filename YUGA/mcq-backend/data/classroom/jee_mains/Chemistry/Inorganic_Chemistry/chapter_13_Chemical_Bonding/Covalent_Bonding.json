@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapter_number": 13,
+    "topic": "Covalent Bonding",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:13:50.098570",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about covalent bonding. This is an important topic in chemical bonding. It helps us understand how atoms join together to form molecules.\n\nFirst, let's define what a covalent bond is. A covalent bond is a type of chemical bond. It forms when two atoms share one or more pairs of electrons. This sharing helps the atoms achieve a full outer shell, making them stable.\n\nNow, how do covalent bonds form? Imagine two hydrogen atoms. Each has one electron. When they come close, they share their electrons. This sharing creates a covalent bond. The shared electrons move around both nuclei. This holds the atoms together.\n\nLet's talk about bond length. Bond length is the distance between the nuclei of two bonded atoms. It is measured in picometers (pm). Shorter bond lengths mean stronger bonds. For example, a single bond is longer and weaker than a double bond.\n\nNext is bond energy. Bond energy is the energy needed to break a bond. Stronger bonds have higher bond energy. In JEE Main, you may need to compare bond energies. Remember, shorter bonds usually have higher bond energy.\n\nMany factors affect covalent bond strength. The most important is the size of the atoms. Smaller atoms form stronger bonds. Electronegativity also plays a role. More electronegative atoms attract electrons more strongly, forming stronger bonds.\n\nLet's discuss the properties of covalent compounds. These compounds usually have low melting and boiling points. They are often gases or liquids at room temperature. They do not conduct electricity because they do not have free ions.\n\nPolarity is another key concept. A covalent bond can be polar or non-polar. In a polar bond, electrons are shared unequally. This happens when one atom is more electronegative than the other. If the bond is non-polar, electrons are shared equally.\n\nDipole moment helps us measure polarity. It is a vector quantity. It has both direction and magnitude. A higher dipole moment means a more polar bond. In JEE Main, you might need to predict the polarity of a molecule.\n\nHow do covalent bonds compare with ionic bonds? Ionic bonds form when electrons are transferred, not shared. They usually form between metals and non-metals. Covalent bonds form between non-metals. Ionic compounds are usually solids with high melting points.\n\nCovalent bonds help predict molecular properties. For example, knowing the type of bonding helps us predict the state of a substance at room temperature. It also helps us understand solubility and reactivity.\n\nLet's look at some examples of covalent compounds. Water (H2O) is a common example. It has polar covalent bonds. Methane (CH4) has non-polar covalent bonds. Carbon dioxide (CO2) is another example.\n\nNow, let's discuss some common mistakes in JEE Main. Students often confuse bond length with bond energy. Remember, shorter bonds are stronger and have higher bond energy. Also, do not forget to consider electronegativity when predicting polarity.\n\nKey takeaways for quick revision: Covalent bonds involve sharing electrons. Bond length and bond energy are important properties. Polarity depends on electronegativity. Covalent compounds usually have low melting points and do not conduct electricity.\n\nIn summary, understanding covalent bonding is crucial for predicting molecular behavior. It also helps us compare different types of chemical bonds. Keep practicing and reviewing these concepts for JEE Main success.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Covalent Bond",
+    "Bond Length",
+    "Bond Energy",
+    "Polarity",
+    "Dipole Moment"
+  ],
+  "formulas": [
+    {
+      "formula": "Dipole Moment (μ) = Charge (Q) x Distance (d)",
+      "description": "Used to calculate the dipole moment, indicating bond polarity in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Covalent Bond",
+      "definition": "A chemical bond formed by the sharing of electron pairs between atoms."
+    },
+    {
+      "term": "Bond Length",
+      "definition": "The distance between the nuclei of two bonded atoms."
+    },
+    {
+      "term": "Bond Energy",
+      "definition": "The energy required to break a chemical bond."
+    },
+    {
+      "term": "Polarity",
+      "definition": "A property of a bond where electrons are shared unequally, causing a dipole."
+    },
+    {
+      "term": "Dipole Moment",
+      "definition": "A measure of the separation of positive and negative charges in a molecule."
+    }
+  ]
+}

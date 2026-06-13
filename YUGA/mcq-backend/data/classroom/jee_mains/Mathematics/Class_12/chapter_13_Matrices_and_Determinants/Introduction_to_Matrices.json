@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Matrices and Determinants",
+    "chapter_number": 13,
+    "topic": "Introduction to Matrices",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:56:03.996833",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about matrices. Matrices are a way to organize numbers in rows and columns. They help in solving many math problems. First, let's understand the definition of a matrix. A matrix is a rectangular array of numbers arranged in rows and columns. Each number in a matrix is called an element.\n\nNow, let's talk about the types of matrices. A row matrix has only one row. For example, [3, 5, 7] is a row matrix. A column matrix has only one column. An example is [2, 4, 6] with each number in a different row.\n\nA square matrix has the same number of rows and columns. For example, a 2x2 matrix like [1, 2; 3, 4] is a square matrix. Square matrices are special because they have a diagonal. The diagonal is the line of elements from the top left to the bottom right.\n\nNext, we have diagonal, scalar, and identity matrices. A diagonal matrix has non-zero elements only on the diagonal. For example, [5, 0; 0, 3] is diagonal. A scalar matrix is a diagonal matrix where all diagonal elements are the same, like [2, 0; 0, 2]. An identity matrix is a scalar matrix with ones on the diagonal, like [1, 0; 0, 1].\n\nA zero matrix has all elements as zero. For example, [0, 0; 0, 0] is a zero matrix. It is also called a null matrix. Zero matrices are important in matrix operations.\n\nThe transpose of a matrix is found by swapping rows with columns. For example, the transpose of [1, 2; 3, 4] is [1, 3; 2, 4]. Transpose is useful in many calculations.\n\nNow, let's learn about symmetric and skew-symmetric matrices. A symmetric matrix is equal to its transpose. For example, [2, 3; 3, 4] is symmetric. A skew-symmetric matrix has elements that change sign when transposed. For example, [0, 2; -2, 0] is skew-symmetric.\n\nTwo matrices are equal if they have the same size and same elements. For example, [1, 2; 3, 4] is equal to [1, 2; 3, 4]. Equality of matrices is simple but important.\n\nLet's do a quick check. If a matrix has 2 rows and 3 columns, it is a 2x3 matrix. If it has 3 rows and 3 columns, it is a square matrix.\n\nIn JEE Main, remember these common mistakes. Do not confuse row and column matrices. Also, check if matrices are equal by comparing each element.\n\nKey takeaways: Matrices organize numbers. Know the types of matrices. Understand transpose and equality. Practice these concepts for JEE Main.\n\nTo summarize, matrices are important in math. They have different types like row, column, and square matrices. Remember to practice and avoid common mistakes. Good luck with your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Matrix",
+    "Row Matrix",
+    "Column Matrix",
+    "Square Matrix",
+    "Transpose"
+  ],
+  "formulas": [
+    {
+      "formula": "A^T",
+      "description": "Transpose of matrix A, used when rows and columns are swapped"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Matrix",
+      "definition": "A rectangular array of numbers arranged in rows and columns"
+    },
+    {
+      "term": "Row Matrix",
+      "definition": "A matrix with only one row"
+    },
+    {
+      "term": "Column Matrix",
+      "definition": "A matrix with only one column"
+    },
+    {
+      "term": "Square Matrix",
+      "definition": "A matrix with the same number of rows and columns"
+    },
+    {
+      "term": "Transpose",
+      "definition": "A new matrix created by swapping the rows and columns of the original matrix"
+    }
+  ]
+}

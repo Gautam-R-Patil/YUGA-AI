@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Animal Kingdom",
+    "chapter_number": 4,
+    "topic": "Phylum Nematoda",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:36:48.294168",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Phylum Nematoda. These are also known as roundworms. Let's start with their characteristics. Roundworms have a simple body shape. They are long and thin like a thread. They have a tube-like digestive system. This means they have a mouth and an anus. \n\nRoundworms are pseudocoelomates. This means they have a body cavity. But it is not fully lined with tissue. This is different from true coelomates. A common mistake is thinking they have no cavity at all. \n\nNow, let's look at some examples. Ascaris is a type of roundworm. It lives in the intestines of humans. Hookworms are another example. They attach to the intestines and suck blood. \n\nNext, let's talk about reproduction. Roundworms show sexual dimorphism. This means males and females look different. Males are usually smaller than females. This helps them in reproduction. \n\nRoundworms play a role in ecosystems. They help keep soil healthy. They break down dead plants and animals. But some roundworms are parasites. They live in or on other animals and cause harm. \n\nLet's discuss diseases caused by nematodes. Ascariasis is caused by Ascaris. It can make your stomach hurt. Filariasis is another disease. It is spread by mosquitoes. It can cause swelling in the arms and legs. \n\nRemember, roundworms are important for NEET exams. A key point is their pseudocoelomate body. Also, know examples like Ascaris and hookworms. \n\nIn summary, roundworms have simple bodies. They can be helpful or harmful. Understanding these points will help you in your NEET exams. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Roundworms",
+    "Pseudocoelomate",
+    "Ascaris",
+    "Hookworms",
+    "Sexual Dimorphism"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Roundworms",
+      "definition": "Simple, long, and thin worms with a tube-like digestive system."
+    },
+    {
+      "term": "Pseudocoelomate",
+      "definition": "An organism with a body cavity not fully lined with tissue."
+    },
+    {
+      "term": "Sexual Dimorphism",
+      "definition": "A condition where males and females of a species look different."
+    },
+    {
+      "term": "Ascariasis",
+      "definition": "A disease caused by the roundworm Ascaris, affecting the intestines."
+    },
+    {
+      "term": "Filariasis",
+      "definition": "A disease caused by filarial worms, leading to swelling in limbs."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "s-Block Elements",
+    "chapter_number": 15,
+    "topic": "Compounds of s-Block Elements",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:16:51.476524",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about compounds of s-block elements. This topic is important for JEE Main. Let's start with oxides and hydroxides. Oxides are compounds with oxygen. Hydroxides are compounds with OH, which means one oxygen and one hydrogen. For example, sodium oxide (Na2O) and sodium hydroxide (NaOH) are common. These compounds are basic. They react with acids to form salt and water. For example, NaOH reacts with HCl to form NaCl and water. \n\nNext, let's talk about carbonates and bicarbonates. Carbonates have CO3, and bicarbonates have HCO3. Sodium carbonate (Na2CO3) and sodium bicarbonate (NaHCO3) are examples. Carbonates react with acids to release carbon dioxide. For instance, Na2CO3 with HCl gives CO2, water, and NaCl. Bicarbonates also release CO2 with acids. \n\nNow, we move to chlorides and sulfates. Chlorides have Cl, and sulfates have SO4. Sodium chloride (NaCl) is common table salt. It is used in food. Sodium sulfate (Na2SO4) is used in detergents. These compounds are soluble in water. \n\nLet's discuss preparation methods. Oxides form by heating metals with oxygen. Hydroxides form by reacting oxides with water. Carbonates form by reacting hydroxides with CO2. Bicarbonates form by reacting carbonates with water and CO2. Chlorides form by reacting metals with hydrochloric acid. Sulfates form by reacting metals with sulfuric acid. \n\nNow, let's understand properties and uses. Oxides and hydroxides are basic. They neutralize acids. Carbonates and bicarbonates release CO2 with acids. Chlorides are soluble and used in food. Sulfates are used in industry. \n\nLet's see reactions with acids and bases. Oxides and hydroxides react with acids to form salt and water. Carbonates and bicarbonates release CO2 with acids. Chlorides do not react with acids. Sulfates do not react with acids. \n\nNow, applications in industry. NaOH is used in making soap. Na2CO3 is used in glass making. NaCl is used in food. Na2SO4 is used in detergents. \n\nLet's talk about environmental impact. Sodium compounds can affect water quality. They make water salty. This harms plants and animals. \n\nNow, let's do a quick check. If NaOH reacts with HCl, what forms? Yes, NaCl and water. If Na2CO3 reacts with HCl, what gas forms? Correct, CO2. \n\nCommon JEE Main mistakes: Students often confuse oxides and hydroxides. Remember, oxides have O, hydroxides have OH. Also, don't forget CO2 formation from carbonates. \n\nKey takeaways: Remember the basic nature of oxides and hydroxides. Know CO2 release from carbonates and bicarbonates. Remember uses of NaCl, NaOH, and Na2CO3. \n\nIn summary, we covered compounds of s-block elements, their preparation, properties, and uses. We also discussed reactions and environmental impact. Remember these points for JEE Main. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Oxides",
+    "Hydroxides",
+    "Carbonates",
+    "Bicarbonates",
+    "Chlorides",
+    "Sulfates"
+  ],
+  "formulas": [
+    {
+      "formula": "NaOH + HCl -> NaCl + H2O",
+      "description": "This formula is used to show the neutralization reaction of a hydroxide with an acid in JEE Main questions"
+    },
+    {
+      "formula": "Na2CO3 + 2HCl -> 2NaCl + H2O + CO2",
+      "description": "This formula shows the reaction of a carbonate with an acid, releasing CO2, which is often asked in JEE Main"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Oxide",
+      "definition": "A compound containing oxygen with another element, often basic in nature"
+    },
+    {
+      "term": "Hydroxide",
+      "definition": "A compound containing OH group, usually forms by reacting oxides with water"
+    },
+    {
+      "term": "Carbonate",
+      "definition": "A compound containing CO3 group, reacts with acids to release CO2"
+    },
+    {
+      "term": "Bicarbonate",
+      "definition": "A compound containing HCO3 group, also releases CO2 with acids"
+    }
+  ]
+}

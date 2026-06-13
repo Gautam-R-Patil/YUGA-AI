@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Current Electricity",
+    "chapter_number": 12,
+    "topic": "Electric Current",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:55:51.968563",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about Electric Current. This is an important topic in the JEE Main exam. Let's start with the basics. \n\nElectric Current is the flow of electric charge. In simple words, it is how electricity moves through a wire. The unit of current is the Ampere, written as 'A'. One Ampere means one coulomb of charge passing through a point in one second. \n\nNow, let's talk about Drift Velocity. Drift Velocity is the average speed of electrons moving in a conductor. It is very small, but it helps us understand current flow. Mobility is how easily electrons can move in a material. Higher mobility means electrons move faster. \n\nNext, we have Current Density. Current Density is the amount of current flowing per unit area. It is measured in Amperes per square meter (A/m²). It tells us how dense the current is in a conductor. \n\nThere is a relation between Current and Drift Velocity. The formula is I = nAve. 'I' is the current, 'n' is the number of electrons per unit volume, 'A' is the cross-sectional area, 'v' is the drift velocity, and 'e' is the charge of an electron. This formula is important for JEE Main problems. \n\nLet's move to Ohm's Law. Ohm's Law states that the current through a conductor is directly proportional to the voltage across it, if the temperature is constant. The formula is V = IR. 'V' is the voltage, 'I' is the current, and 'R' is the resistance. This is a key formula in solving many problems. \n\nHowever, Ohm's Law has limitations. It does not work for all materials. For example, it is not valid for semiconductors or diodes. Be careful about this in exams. \n\nLet's solve a simple example. Suppose you have a wire with a resistance of 5 ohms and a voltage of 10 volts. What is the current? Using Ohm's Law, I = V/R. So, I = 10/5 = 2 Amperes. \n\nCommon mistakes in JEE Main include not converting units properly. Always check if you need to convert milliamperes to amperes or vice versa. \n\nKey takeaways: Electric Current is measured in Amperes. Drift Velocity and Mobility help us understand electron movement. Current Density tells us how much current flows through an area. Use I = nAve to find current from drift velocity. Ohm's Law is V = IR, but it has limits. \n\nIn summary, understanding these concepts and formulas will help you solve JEE Main questions. Practice using different values and remember to check your units. \n\nThank you for listening, and keep practicing!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electric Current",
+    "Drift Velocity",
+    "Current Density",
+    "Ohm's Law",
+    "Resistance"
+  ],
+  "formulas": [
+    {
+      "formula": "I = nAve",
+      "description": "Used to calculate current based on drift velocity and number of electrons"
+    },
+    {
+      "formula": "V = IR",
+      "description": "Ohm's Law formula to find voltage, current, or resistance in a circuit"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electric Current",
+      "definition": "The flow of electric charge, measured in Amperes"
+    },
+    {
+      "term": "Drift Velocity",
+      "definition": "The average speed of electrons moving through a conductor"
+    },
+    {
+      "term": "Current Density",
+      "definition": "The amount of current flowing per unit area in a conductor"
+    },
+    {
+      "term": "Ohm's Law",
+      "definition": "States that current is directly proportional to voltage across a conductor at constant temperature"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Plant Kingdom",
+    "chapter_number": 3,
+    "topic": "Algae",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:33:49.890721",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we are going to learn about algae. Algae are very interesting and important. They are simple plants that live mostly in water. Let's dive in and explore their world.\n\nFirst, let's talk about the characteristics of algae. Algae are photosynthetic. This means they make their own food using sunlight. They have a green pigment called chlorophyll that helps them do this. Algae are also aquatic. This means they live in water, like ponds, lakes, and oceans.\n\nNow, let's look at some examples of algae. Chlamydomonas is a small, single-celled algae. It swims using two tiny hair-like structures called flagella. Spirogyra is another example. It forms long, thread-like structures and looks like green silk in water. Laminaria is a type of brown algae. It is large and often found in the sea.\n\nAlgae reproduce in different ways. They can reproduce vegetatively. This means a part of the algae breaks off and grows into a new one. They also reproduce asexually. This means they create spores that grow into new algae. Lastly, they can reproduce sexually. This involves the fusion of male and female cells to form a new algae.\n\nAlgae play a big role in ecosystems. They produce oxygen through photosynthesis. This oxygen is crucial for all living things. Algae are also a food source for many aquatic animals, like fish and snails.\n\nAlgae are important for humans too. They can be used to make biofuels, which are a type of renewable energy. Some algae are used as food supplements because they are rich in nutrients. For example, Spirulina is a popular health supplement.\n\nA common mistake is thinking all algae are harmful. While some can cause problems, most are beneficial.\n\nLet's remember these key points: Algae are photosynthetic and aquatic. They reproduce in various ways. They are crucial for oxygen production and are a food source in ecosystems. Algae are also economically important.\n\nIn summary, algae are simple but vital organisms. They help balance nature and provide resources for humans. Understanding algae helps us appreciate their role in the world.",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Algae",
+    "Photosynthesis",
+    "Aquatic",
+    "Chlorophyll",
+    "Biofuels"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Photosynthesis",
+      "definition": "The process by which plants and algae make food using sunlight."
+    },
+    {
+      "term": "Aquatic",
+      "definition": "Living or growing in water."
+    },
+    {
+      "term": "Chlorophyll",
+      "definition": "The green pigment in plants and algae that helps in photosynthesis."
+    },
+    {
+      "term": "Vegetative reproduction",
+      "definition": "A type of reproduction where a part of the plant grows into a new plant."
+    },
+    {
+      "term": "Asexual reproduction",
+      "definition": "A type of reproduction that does not involve the fusion of male and female cells."
+    }
+  ]
+}

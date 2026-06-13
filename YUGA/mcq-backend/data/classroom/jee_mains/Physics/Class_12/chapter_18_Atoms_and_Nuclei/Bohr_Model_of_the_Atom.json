@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Atoms and Nuclei",
+    "chapter_number": 18,
+    "topic": "Bohr Model of the Atom",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:01:32.782324",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Bohr Model of the Atom. This model helps us understand how electrons move around the nucleus. Let's start with the basics. \n\nThe Bohr Model was proposed by Niels Bohr in 1913. It explains how electrons orbit a nucleus. First, let's talk about the main ideas, or postulates, of the Bohr Model. \n\n1. **Postulates of Bohr Model**: \n   - Electrons move in fixed paths called orbits or shells. These orbits have specific energies. \n   - An electron in an orbit does not lose energy. It stays in its orbit unless it gains or loses energy. \n   - Energy is absorbed or emitted when an electron jumps from one orbit to another. \n\n2. **Energy Levels**: \n   - Each orbit has a specific energy level. The lowest energy level is closest to the nucleus. \n   - Energy levels are like steps on a ladder. Electrons can jump from one step to another. \n   - If an electron moves to a higher energy level, it absorbs energy. If it moves to a lower energy level, it emits energy. \n\n3. **Quantization of Angular Momentum**: \n   - Bohr said that the angular momentum of an electron is quantized. This means it can only have certain values. \n   - The formula is: L = n(h/2π), where L is angular momentum, n is an integer (1, 2, 3,...), and h is Planck's constant. \n\n4. **Radius of Electron Orbits**: \n   - The radius of an electron's orbit is also quantized. It depends on the energy level. \n   - The formula for the radius is: r = n^2(h^2/4π^2mZe^2), where r is the radius, n is the orbit number, m is the mass of the electron, Z is the atomic number, and e is the charge of the electron. \n\n5. **Limitations of Bohr Model**: \n   - Bohr's model works well for hydrogen but not for larger atoms. \n   - It does not explain the spectra of atoms with more than one electron. \n   - It does not consider electron-electron interactions. \n\n**Common Mistakes in JEE Main**: \n- Forgetting the units in formulas can lead to wrong answers. Always check units. \n- Mixing up energy levels. Remember, higher n means higher energy. \n\n**Key Takeaways**: \n- Remember the main postulates: fixed orbits, quantized energy, and angular momentum. \n- Know the formulas for angular momentum and radius. \n- Understand the limitations of the Bohr Model. \n\n**Summary**: \nThe Bohr Model is a simple way to understand atomic structure. It introduces the idea of quantized orbits and energy levels. While it has limitations, it is a key concept for JEE Main. Practice using the formulas and remember the common mistakes. \n\nThat's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Bohr Model",
+    "Energy Levels",
+    "Quantization",
+    "Angular Momentum",
+    "Electron Orbits"
+  ],
+  "formulas": [
+    {
+      "formula": "L = n(h/2π)",
+      "description": "This formula calculates the quantized angular momentum of an electron in an orbit."
+    },
+    {
+      "formula": "r = n^2(h^2/4π^2mZe^2)",
+      "description": "This formula is used to find the radius of an electron's orbit in the Bohr model."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bohr Model",
+      "definition": "A model of the atom where electrons move in fixed orbits around the nucleus."
+    },
+    {
+      "term": "Energy Level",
+      "definition": "The specific energy that an electron in an atom can have."
+    },
+    {
+      "term": "Quantization",
+      "definition": "The idea that some properties, like energy or angular momentum, can only have certain values."
+    }
+  ]
+}

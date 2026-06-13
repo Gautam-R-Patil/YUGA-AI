@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Chemical Bonding",
+    "chapter_number": 13,
+    "topic": "Molecular Orbital Theory",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:14:39.508990",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Molecular Orbital Theory, or MOT. This theory helps us understand how atoms combine to form molecules. Let's start with the basics. \n\nMOT is based on some simple ideas. First, electrons in atoms can mix and form new orbitals when atoms come close. These new orbitals are called molecular orbitals. They belong to the whole molecule, not just one atom. \n\nTo form molecular orbitals, atomic orbitals from each atom combine. There are two types of molecular orbitals: bonding and antibonding. Bonding orbitals hold atoms together, while antibonding orbitals can push them apart. \n\nNow, let's learn how to calculate bond order. Bond order tells us how strong a bond is. The formula is: \n\nBond Order = (Number of electrons in bonding orbitals - Number of electrons in antibonding orbitals) / 2 \n\nA higher bond order means a stronger bond. For example, if a molecule has 8 electrons in bonding orbitals and 4 in antibonding, the bond order is (8 - 4) / 2 = 2. \n\nMOT also helps us predict if a molecule is magnetic. If a molecule has unpaired electrons, it is paramagnetic and attracted to magnets. If all electrons are paired, it is diamagnetic and not attracted to magnets. \n\nLet's compare MOT with Valence Bond Theory, or VBT. VBT focuses on individual atoms and their orbitals. It explains bonds using hybridization. MOT, on the other hand, looks at the whole molecule and uses molecular orbitals. \n\nHere is a common JEE Main mistake. Students often forget to count all electrons when calculating bond order. Always double-check your electron count. \n\nNow, let's see a molecular orbital diagram. Imagine two hydrogen atoms coming together. Their 1s orbitals combine to form one bonding and one antibonding orbital. The bonding orbital is lower in energy, so electrons fill it first. \n\nMOT has some limitations. It is complex for large molecules and doesn't explain everything. But it is very useful for small molecules and predicting magnetic properties. \n\nFinally, remember that bond strength is related to bond order. Higher bond order means stronger bonds and shorter bond lengths. \n\nTo sum up, MOT helps us understand how molecules form and behave. It uses molecular orbitals to explain bond strength and magnetic properties. Always remember to check your electron count and bond order calculations in exams. \n\nThank you for listening! I hope you now have a better understanding of Molecular Orbital Theory.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Molecular Orbital",
+    "Bond Order",
+    "Bonding Orbital",
+    "Antibonding Orbital",
+    "Paramagnetic"
+  ],
+  "formulas": [
+    {
+      "formula": "Bond Order = (Nb - Na) / 2",
+      "description": "Nb is the number of electrons in bonding orbitals, Na is the number of electrons in antibonding orbitals. Used to calculate bond strength."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Molecular Orbital",
+      "definition": "An orbital that belongs to the whole molecule, not just one atom."
+    },
+    {
+      "term": "Bonding Orbital",
+      "definition": "A molecular orbital that helps hold atoms together in a molecule."
+    },
+    {
+      "term": "Antibonding Orbital",
+      "definition": "A molecular orbital that can weaken or break a bond between atoms."
+    },
+    {
+      "term": "Paramagnetic",
+      "definition": "A property of a molecule with unpaired electrons that is attracted to magnets."
+    }
+  ]
+}

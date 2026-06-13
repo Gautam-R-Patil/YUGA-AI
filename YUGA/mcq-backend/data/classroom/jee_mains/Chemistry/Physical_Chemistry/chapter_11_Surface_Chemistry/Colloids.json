@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Surface Chemistry",
+    "chapter_number": 11,
+    "topic": "Colloids",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:11:35.294166",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about colloids in surface chemistry. Colloids are mixtures where tiny particles are spread throughout another substance. These particles are bigger than molecules but too small to be seen with the naked eye. Let's look at the classification of colloids. Colloids can be classified based on the state of the dispersed phase and the dispersion medium. For example, if the dispersed phase is solid and the medium is liquid, it is called a sol. If both are liquids, it's called an emulsion. Now, how do we prepare colloids? One common method is the dispersion method, where large particles are broken into colloidal size. Another is the condensation method, where small particles combine to form colloids. After preparation, we need to purify colloids. This can be done using dialysis, which removes impurities by passing the colloid through a semipermeable membrane. Let's discuss some properties of colloids. Colloids show the Tyndall effect, where light scatters when it hits the particles. This is why we see beams of light in fog. Colloids also show Brownian movement, which is the random movement of particles. This happens because particles are constantly hit by molecules in the medium. Emulsions are special types of colloids where both phases are liquids. Milk is a common example. Gels are another type, where a liquid is trapped in a solid network, like jelly. Colloids have many applications. They are used in medicines, food products, and even in industrial processes. The stability of colloids is important. It means how well the particles stay spread out without settling. Coagulation or flocculation can occur when particles clump together. This can be caused by adding electrolytes. Remember, in JEE Main, questions often ask about the Tyndall effect or how to purify colloids. Be careful with units and calculations. A common mistake is mixing up the dispersed phase and medium. Always double-check your answers. Key takeaways: understand types of colloids, know preparation methods, and remember properties like the Tyndall effect. In summary, colloids are important in chemistry and everyday life. They have unique properties and many uses. Practice problems to get comfortable with these concepts. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Colloids",
+    "Tyndall Effect",
+    "Brownian Movement",
+    "Emulsions",
+    "Coagulation"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Colloids",
+      "definition": "Mixtures where tiny particles are spread throughout another substance."
+    },
+    {
+      "term": "Tyndall Effect",
+      "definition": "The scattering of light by particles in a colloid."
+    },
+    {
+      "term": "Brownian Movement",
+      "definition": "The random movement of particles in a colloid."
+    },
+    {
+      "term": "Emulsions",
+      "definition": "Colloids where both the dispersed phase and medium are liquids."
+    },
+    {
+      "term": "Coagulation",
+      "definition": "The process where particles in a colloid clump together."
+    }
+  ]
+}

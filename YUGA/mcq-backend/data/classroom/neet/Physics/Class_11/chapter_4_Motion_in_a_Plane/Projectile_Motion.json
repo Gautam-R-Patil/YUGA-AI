@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Motion in a Plane",
+    "chapter_number": 4,
+    "topic": "Projectile Motion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:50:48.719877",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about projectile motion. Have you ever thrown a ball or watched a cricket match? If yes, you have seen projectile motion in action. \n\nLet's start with the concept. Projectile motion is the motion of an object thrown into the air. This object moves under the influence of gravity. It follows a curved path. This path is called a trajectory. A simple example is when you throw a stone. It goes up, curves, and then comes down. \n\nNext, let's talk about the characteristics of projectile motion. First, it has two components: horizontal and vertical. The horizontal motion is uniform. This means the speed is constant. The vertical motion is affected by gravity. This means the object speeds up as it falls down.\n\nNow, let's look at the equations of motion for a projectile. These equations help us find different things like range, time of flight, and maximum height. The range is how far the object travels. The time of flight is how long it stays in the air. The maximum height is how high it goes. \n\nHere are some important formulas:\n1. Range (R) = (u^2 * sin(2θ)) / g\n   - R is the range, u is the initial speed, θ is the angle of projection, and g is the acceleration due to gravity.\n2. Time of Flight (T) = (2u * sinθ) / g\n   - T is the time of flight.\n3. Maximum Height (H) = (u^2 * sin^2θ) / (2g)\n   - H is the maximum height.\n\nLet's use an example to understand better. Imagine a cricket player hitting a ball. The ball follows a curved path. This is projectile motion. The ball has an initial speed and angle. Using the formulas, we can find how far the ball goes, how long it stays in the air, and how high it reaches.\n\nBe careful of common mistakes. Many students forget that the horizontal speed is constant. They also mix up the angle in the formulas. Always use the angle of projection correctly.\n\nIn sports, basketball and football also show projectile motion. In nature, water from a fountain follows a projectile path.\n\nTo solve numerical problems, follow these steps. First, identify what you need to find. Then, use the right formula. Substitute the values and solve. Check your units and calculations.\n\nKey points to remember: Projectile motion has two parts - horizontal and vertical. Use the formulas to find range, time of flight, and maximum height. Always check your angle and units.\n\nIn summary, projectile motion is everywhere around us. Understanding it helps in solving problems in physics and real life. Keep practicing with different examples. This will make you ready for NEET exams.\n\nThank you for listening. Keep exploring physics, and see you in the next class!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Projectile Motion",
+    "Trajectory",
+    "Range",
+    "Time of Flight",
+    "Maximum Height"
+  ],
+  "formulas": [
+    {
+      "formula": "R = (u^2 * sin(2θ)) / g",
+      "description": "Formula to calculate the range of a projectile"
+    },
+    {
+      "formula": "T = (2u * sinθ) / g",
+      "description": "Formula to calculate the time of flight of a projectile"
+    },
+    {
+      "formula": "H = (u^2 * sin^2θ) / (2g)",
+      "description": "Formula to calculate the maximum height of a projectile"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Projectile Motion",
+      "definition": "The motion of an object thrown into the air, moving under the influence of gravity."
+    },
+    {
+      "term": "Trajectory",
+      "definition": "The curved path followed by a projectile."
+    }
+  ]
+}

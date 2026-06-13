@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Magnetic Effects of Current and Magnetism",
+    "chapter_number": 13,
+    "topic": "Magnetic Materials",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:57:48.832997",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about magnetic materials. This is an important topic in JEE Main. Let's start with the basics. \n\nMagnetic materials are materials that respond to a magnetic field. There are three types: diamagnetic, paramagnetic, and ferromagnetic. \n\nDiamagnetism is a weak form of magnetism. All materials show some diamagnetism. In diamagnetic materials, the magnetic field repels them. An example is bismuth. If you place bismuth in a magnetic field, it moves away. \n\nParamagnetism is stronger than diamagnetism. In paramagnetic materials, the magnetic field attracts them. Examples include aluminum and platinum. These materials have unpaired electrons. This makes them magnetic in an external field. \n\nFerromagnetism is the strongest form. Ferromagnetic materials stay magnetic even after you remove the field. Iron, cobalt, and nickel are ferromagnetic. They have magnetic domains. These are small areas where magnetic moments align. \n\nNow, let's talk about hysteresis. Hysteresis is a lag between magnetization and the magnetic field. It happens in ferromagnetic materials. When you change the magnetic field, the magnetization does not change right away. \n\nMagnetic domains are important here. They can rotate and grow. When the field changes, domains adjust slowly. This causes hysteresis. \n\nCurie temperature is the temperature above which ferromagnetic materials lose their magnetism. For example, iron's Curie temperature is 770°C. Above this, iron becomes paramagnetic. \n\nMagnetic susceptibility shows how much a material will become magnetized in a field. It is the ratio of magnetization to the applied magnetic field. \n\nPermeability is how easily a material can support a magnetic field. It is the measure of the magnetic field inside a material. \n\nLet's see some formulas. The formula for magnetic susceptibility (χ) is: χ = M/H, where M is magnetization and H is the magnetic field. \n\nPermeability (μ) is given by the formula: μ = B/H, where B is the magnetic flux density. \n\nIn JEE Main, you may face problems using these formulas. Make sure to use the correct units. \n\nNow, let's look at some applications of magnetic materials. They are used in transformers, electric motors, and magnetic storage. \n\nA common mistake in JEE Main is confusing susceptibility and permeability. Remember, susceptibility is about magnetization. Permeability is about the magnetic field. \n\nIn summary, we learned about magnetic materials: diamagnetic, paramagnetic, and ferromagnetic. We discussed hysteresis, Curie temperature, susceptibility, and permeability. Remember to practice problems using these concepts. \n\nThat's all for today. Keep practicing and good luck with your preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Diamagnetism",
+    "Paramagnetism",
+    "Ferromagnetism",
+    "Hysteresis",
+    "Curie Temperature",
+    "Magnetic Susceptibility"
+  ],
+  "formulas": [
+    {
+      "formula": "χ = M/H",
+      "description": "Magnetic susceptibility formula used to find how much a material will become magnetized in a magnetic field"
+    },
+    {
+      "formula": "μ = B/H",
+      "description": "Permeability formula used to measure how easily a material can support a magnetic field"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Diamagnetism",
+      "definition": "A type of magnetism where materials are weakly repelled by a magnetic field."
+    },
+    {
+      "term": "Paramagnetism",
+      "definition": "A type of magnetism where materials are attracted to a magnetic field due to unpaired electrons."
+    },
+    {
+      "term": "Ferromagnetism",
+      "definition": "A strong type of magnetism where materials remain magnetic even after the external field is removed."
+    },
+    {
+      "term": "Hysteresis",
+      "definition": "The lag between changes in magnetization and changes in the magnetic field."
+    },
+    {
+      "term": "Curie Temperature",
+      "definition": "The temperature above which ferromagnetic materials lose their permanent magnetism."
+    }
+  ]
+}

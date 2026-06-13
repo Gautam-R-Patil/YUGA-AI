@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermal Properties of Matter",
+    "chapter_number": 11,
+    "topic": "Calorimetry",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:59:49.370819",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Calorimetry. It's a part of thermal physics. Calorimetry helps us measure heat. When two objects touch, heat moves from hot to cold. Calorimetry tells us how much heat moves. \n\nLet's start with the principle of calorimetry. It is based on the law of conservation of energy. This law says energy cannot be created or destroyed. It only changes form. In calorimetry, the heat lost by a hot object equals the heat gained by a cold object. \n\nNow, let's look at some examples. Imagine you have a hot cup of tea. If you put a metal spoon in it, the spoon gets warm. Here, the tea loses heat, and the spoon gains heat. Calorimetry helps us measure this heat change. \n\nIn physics, calorimetry is used in experiments. For example, when you mix hot and cold water, you can use calorimetry to find the final temperature. This is important in NEET exams. \n\nCalorimetry is also useful in engineering. Engineers use it to test materials. They see how materials react to heat. This helps in making better engines and machines. \n\nLet's solve a simple problem. If 100g of water at 80°C is mixed with 100g of water at 20°C, what is the final temperature? According to calorimetry, the heat lost by hot water equals the heat gained by cold water. Using the formula, we can find the answer. \n\nNow, let's look at a graph. A graph in calorimetry can show temperature changes over time. It helps us see how fast or slow heat moves. \n\nHere are some key points to remember: \n- Calorimetry measures heat transfer. \n- It follows the conservation of energy. \n- Heat lost equals heat gained. \n- Common mistake: Forgetting to use the same units for mass and temperature. \n\nIn summary, calorimetry is a useful tool in physics and engineering. It helps us understand heat transfer. Remember, practice solving problems to do well in NEET exams. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Calorimetry",
+    "Heat transfer",
+    "Conservation of energy",
+    "Temperature",
+    "Calorimeter"
+  ],
+  "formulas": [
+    {
+      "formula": "Q = mc∆T",
+      "description": "Heat (Q) is the product of mass (m), specific heat capacity (c), and change in temperature (∆T)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Calorimetry",
+      "definition": "The science of measuring the amount of heat."
+    },
+    {
+      "term": "Heat Transfer",
+      "definition": "The movement of heat from a hot object to a cooler one."
+    },
+    {
+      "term": "Conservation of Energy",
+      "definition": "A principle stating energy cannot be created or destroyed."
+    }
+  ]
+}

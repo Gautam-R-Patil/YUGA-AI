@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electrostatics",
+    "chapter_number": 11,
+    "topic": "Electric Charge",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:54:42.880193",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about electric charge. This topic is part of electrostatics. You have seen static electricity when you rub a balloon on your hair. Let's start by understanding the types of charges. There are two types: positive and negative. A positive charge is like the charge on a glass rod when rubbed with silk. A negative charge is like the charge on a plastic rod when rubbed with wool. Remember, like charges repel each other, and unlike charges attract.\n\nNext, let's talk about the conservation of charge. This means the total charge in a closed system stays the same. If you rub two objects together, they exchange charges, but the total charge remains constant. This is important in many JEE Main problems.\n\nNow, we will discuss the quantization of charge. Charge comes in small packets. The smallest unit is the charge of an electron, e, which is approximately 1.6 x 10^-19 coulombs. So, any charge is a multiple of this value.\n\nLet's move on to Coulomb's law. This law tells us how strong the force is between two charges. The formula is F = k * (|q1 * q2| / r^2). Here, F is the force, q1 and q2 are the charges, r is the distance between them, and k is a constant. This formula is used in many JEE Main questions to find force between charges.\n\nNow, let's look at charge distribution. Charges can be spread out in different ways: linear, surface, and volume. Linear means along a line, surface means on a surface, and volume means in a space. Understanding these helps solve problems involving electric fields.\n\nNext, we have conductors and insulators. Conductors allow charges to move freely. Metals are good conductors. Insulators do not let charges move easily. Rubber and glass are insulators. Knowing this helps us understand how materials behave in electric fields.\n\nFinally, let's discuss charging by induction. This is a way to charge an object without touching it. You bring a charged object near a neutral object. The charges in the neutral object rearrange. This is useful in understanding how charges interact.\n\nIn JEE Main, remember to read questions carefully. A common mistake is mixing up signs of charges. Also, watch out for units. Always convert to the standard unit, coulombs.\n\nKey takeaways: Charges can be positive or negative. Total charge is conserved. Charges are quantized. Coulomb's law helps find force between charges. Charge distribution can be linear, surface, or volume. Conductors allow charge flow; insulators do not. Charging by induction does not need contact.\n\nTo summarize, understanding electric charge is crucial. It helps in solving many physics problems. Keep practicing, and you will do well in JEE Main!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electric Charge",
+    "Coulomb's Law",
+    "Conservation",
+    "Quantization",
+    "Induction"
+  ],
+  "formulas": [
+    {
+      "formula": "F = k * (|q1 * q2| / r^2)",
+      "description": "Used to calculate the force between two point charges in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Positive Charge",
+      "definition": "Type of electric charge with a deficiency of electrons"
+    },
+    {
+      "term": "Negative Charge",
+      "definition": "Type of electric charge with an excess of electrons"
+    },
+    {
+      "term": "Conservation of Charge",
+      "definition": "The principle that the total electric charge in an isolated system remains constant"
+    },
+    {
+      "term": "Quantization of Charge",
+      "definition": "The concept that charge exists in discrete packets, multiples of the electron charge"
+    },
+    {
+      "term": "Conductors",
+      "definition": "Materials that allow electric charges to flow freely"
+    },
+    {
+      "term": "Insulators",
+      "definition": "Materials that do not allow electric charges to flow freely"
+    }
+  ]
+}

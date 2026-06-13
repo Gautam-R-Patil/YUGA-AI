@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Reproduction in Organisms",
+    "chapter_number": 1,
+    "topic": "Sexual Reproduction",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:38:42.968524",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about sexual reproduction in organisms. This is a very important topic for your NEET exams. Let's begin with the life cycle phases of an organism. There are three main phases: juvenile, reproductive, and senescent. The juvenile phase is when an organism grows and matures. Think of it like a child growing into a teenager. The reproductive phase is when the organism can produce offspring. Finally, the senescent phase is when the organism ages and stops reproducing.\n\nNow, let's talk about the events in sexual reproduction. There are three main events: pre-fertilization, fertilization, and post-fertilization. Pre-fertilization includes all the steps before the sperm and egg meet. Fertilization is when the sperm and egg join. Post-fertilization is what happens after they join, like forming a zygote and developing into an embryo.\n\nGametogenesis is a big word, but it's simple. It means the formation of gametes, which are the sperm and egg cells. In males, this process is called spermatogenesis. In females, it's called oogenesis. Spermatogenesis makes sperm, and oogenesis makes eggs.\n\nFertilization can happen in two ways: externally or internally. In external fertilization, the sperm and egg meet outside the body. This happens in many fish and amphibians. In internal fertilization, they meet inside the body. Humans and most animals use internal fertilization.\n\nAfter fertilization, the zygote forms. This is the first cell of a new organism. Then, embryogenesis begins. This is the process where the zygote grows into an embryo.\n\nLet's look at some examples. In humans, sexual reproduction involves internal fertilization. Flowering plants also have sexual reproduction. They have male and female parts in flowers. Some plants are dioecious, meaning they have separate male and female plants. Others are monoecious, meaning one plant has both male and female parts. Hermaphrodite organisms have both male and female reproductive organs in one body.\n\nIt's important to know the differences between asexual and sexual reproduction. Asexual reproduction involves one parent and no gametes. Sexual reproduction involves two parents and gametes. Remember, sexual reproduction increases genetic diversity.\n\nCommon mistake alert! Some students think all plants are either dioecious or monoecious, but it's not true. Always check the plant type.\n\nLet's look at some diagrams. First, the human reproductive system. It shows male and female reproductive organs. Next, the structure of a flower. It shows the male and female parts.\n\nKey points to remember: Sexual reproduction includes pre-fertilization, fertilization, and post-fertilization. Gametogenesis creates sperm and eggs. Fertilization can be external or internal. Zygote formation and embryogenesis are post-fertilization events.\n\nIn summary, sexual reproduction is a complex but fascinating process. Understanding it is crucial for NEET success. Remember to review these concepts and diagrams. Good luck!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Sexual Reproduction",
+    "Gametogenesis",
+    "Fertilization",
+    "Zygote",
+    "Embryogenesis"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Gametogenesis",
+      "definition": "The process of forming gametes, like sperm and eggs, in organisms."
+    },
+    {
+      "term": "Zygote",
+      "definition": "The first cell formed when a sperm and egg join together."
+    },
+    {
+      "term": "Dioecious",
+      "definition": "Having separate male and female plants."
+    },
+    {
+      "term": "Monoecious",
+      "definition": "Having both male and female reproductive parts on the same plant."
+    },
+    {
+      "term": "Hermaphrodite",
+      "definition": "An organism having both male and female reproductive organs."
+    }
+  ]
+}

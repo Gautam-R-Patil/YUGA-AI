@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Biodiversity and Conservation",
+    "chapter_number": 15,
+    "topic": "Biodiversity",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:45:48.955306",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about biodiversity. Biodiversity means the variety of life on Earth. It includes all plants, animals, and microorganisms. Let's explore its levels, patterns, and importance.\n\nFirst, let's talk about the levels of biodiversity. There are three main levels: genetic, species, and ecosystem. Genetic diversity is the variety of genes within a species. For example, different breeds of dogs have different genes. Species diversity is the number of different species in an area. A forest with many kinds of trees and animals shows high species diversity. Ecosystem diversity refers to the variety of ecosystems, like forests, deserts, and oceans.\n\nNow, let's look at patterns of biodiversity. One important pattern is the latitudinal gradient. This means biodiversity is higher near the equator and lower towards the poles. Tropical rainforests near the equator have many species. Another pattern is the species-area relationship. This means larger areas tend to have more species. If you protect a big forest, it can support more species than a small patch.\n\nBiodiversity is important for many reasons. It helps ecosystems stay healthy and balanced. It provides us with food, medicine, and clean air. Imagine a world with fewer plants and animals. It would be harder to survive.\n\nLet's define some key terms. Endemism means a species is found only in one place. For example, the kangaroo is endemic to Australia. Biodiversity hotspots are areas with high biodiversity but are threatened. These places need urgent protection. Extinction is when a species no longer exists. It's important to prevent extinctions to keep our planet healthy.\n\nA commonly tested concept is the species-area curve. This curve shows the relationship between the area of a habitat and the number of species it can support. The curve usually rises quickly at first and then levels off. If you increase the area, more species can live there, but only up to a point.\n\nRemember, conserving biodiversity is crucial. It ensures the survival of all life forms. A common mistake is thinking only big animals matter. All species, big or small, play a role in the ecosystem.\n\nTo sum up, biodiversity is the variety of life. It exists at genetic, species, and ecosystem levels. Biodiversity is richer near the equator and in larger areas. It's vital for health, resources, and balance. Protecting biodiversity is essential for our future.\n\nThank you for listening! I hope you understand why biodiversity is so important. Let's work together to conserve it.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Biodiversity",
+    "Genetic diversity",
+    "Species diversity",
+    "Ecosystem diversity",
+    "Endemism",
+    "Biodiversity hotspots",
+    "Extinction"
+  ],
+  "formulas": [
+    {
+      "formula": "S = cA^z",
+      "description": "Species-area relationship formula where S is the number of species, A is the area, c and z are constants"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Biodiversity",
+      "definition": "The variety of life forms on Earth, including plants, animals, and microorganisms"
+    },
+    {
+      "term": "Endemism",
+      "definition": "A condition where a species is found only in a specific geographic area"
+    },
+    {
+      "term": "Biodiversity hotspots",
+      "definition": "Regions with a high level of biodiversity that are under threat from humans"
+    },
+    {
+      "term": "Extinction",
+      "definition": "The state when a species no longer exists anywhere on Earth"
+    }
+  ]
+}

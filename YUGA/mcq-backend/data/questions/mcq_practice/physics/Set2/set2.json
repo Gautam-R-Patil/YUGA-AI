@@ -1,0 +1,381 @@
+[
+    {
+        "id": 10,
+        "question_number": "150",
+        "text": "Preeti reached the metro station and found that the escalator was not working. She walked up the stationary escalator in time t1. On other days, if she remains stationary on the moving escalator, then the escalator takes her up in time t2. The time taken by her to walk upon the moving escalator will be:",
+        "subject": "Physics",
+        "sub_topic": "Kinematics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "(t1 + t2) / 2",
+            "(t1 * t2) / (t2 - t1)",
+            "(t1 * t2) / (t2 + t1)",
+            "t1 - t2"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 127,
+        "correct_answer": "(t1 * t2) / (t2 + t1)",
+        "explanation": "### Core Concept\nThis problem is a classic application of Relative Velocity in one dimension. When Preeti walks on a moving escalator, her velocity relative to the ground is the sum of her walking velocity and the escalator's velocity.\n\nKey Principles:\n\nVelocity-Time Relationship:\n\nVelocity (V) is defined as distance (d) divided by time (t). Since the distance (the length of the escalator) is constant, we can use it as a reference.\nEffective Velocity: If two motions occur in the same direction, their velocities add up: V₍effective₎ = V₁ + v2.\n3. Harmonic Relationship: Because time is inversely proportional to velocity, the combined time is related to the individual time s through their reciprocals.\n\n### Solution\n\nStep 1: Define Individual Velocities\nLet L be the constant length of the escalator.\n• Preeti's walking speed (V₁): She covers distance L in time T₁.\n V₁ = L / T₁* Escalator's speed (V₂): It covers distance Lin time T₂.\n V₂ = L / T₂\n\nStep 2: Determine Effective Velocity (V₍eff₎)\nWhen Preeti walks on the moving escalator, both speeds work together in the same direction to move her toward the top:\nV₍eff₎ = V₁ + V₂\nV₍eff₎ = (L / T₁) + (L / T₂)Step 3: Calculate the Resulting Time (t)\nThe time taken (t) to cover the same distance Lat the new speed V₍eff₎ is:\nt = L / v₍eff₎\nt = L / [(L / T₁) + (L / T₂)]\n\nStep 4: Simplify the Expression\nFactor out L from the denominator to cancel it out:\nt = L / [L * (1/T₁ + 1/T₂)]\nt = 1 / [(T₂ + T₁) / (T₁ * T₂)]\nt = (T₁ * T₂) / (T₁ + T₂)\n\n### Why This Answer?\nThe resulting formula (T₁ * T₂) / (T₁ + T₂) shows that the combined time is always shorter than either T₁ or T₂. This aligns with physical intuition: if both Preeti and the escalator are moving, she should reach the top faster than if only one of them were moving. This specific mathematical form is known as the product over the sum.\n\n### Common Mistakes\n• Arithmetic Mean Error: Students often instinctively choose (T₁ + T₂) / 2\n. This is incorrect because you cannot average time s when the distance is the constant; you must average the rates (velocities).\n• Subtraction Error: Some might choose T₁ - T₂\n, thinking you simply find the difference between the two time s. This ignores the fact that the two speeds are compounding, not competing.\n• Unit/Fraction Confusion: Failing to find a common denominator correctly when adding the fractions (1/T₁ + 1/T₂) often leads to picking an inverted version of the correct answer.",
+        "basic_answer": "Given: \n[t1 (time taken by Preeti to walk up the stationary escalator),\n\nt2 (time taken by escalator to take her up when she remains stationary)]\nSolution: \n[Relation of speeds and times is \n\nSpeed = Distance / Time \n\nLet v₁ = speed of Preeti walking, \n\nv₂ = speed of escalator, \n\nd = distance. \n\nUsing the relationship, v₁ = d / t1 and v₂ = d / t2. \n\nThe time taken by Preeti on the moving escalator, \n\nt = d / (v₁ + v₂). \n\nThus, t = d / (d / t1 + d / t2) = (t1 * t2) / (t2 + t1)]",
+        "keywords": {}
+    },
+    {
+        "id": 11,
+        "question_number": "39",
+        "text": "Two Carnot engines A and B are operated in series. Engine A receives heat from the source at temperature T₁ and rejects the heat to the sink at temperature T. The second engine B receives the heat at temperature T and rejects to its sink at temperature T². For what value of T the efficiencies of the two engines are equal?",
+        "subject": "Physics",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 4,
+        "source_pdf": "PAPAER (26)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "T₁ - T²",
+            "2T₁T²",
+            "T₁ + T²",
+            "√T₁T²"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (26).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 2778,
+        "correct_answer": "√T₁T²",
+        "basic_answer": "Given: \n[T₁: temperature of source, T: temperature of engine A's sink, T²: temperature of engine B's sink]\nSolution: \n[Efficiency of Carnot engine, η = 1 - (Tₛᵢₙₖ/$T_{source)}$. \n\nFor Engine A: η_A = 1 - (T/T₁)\n\nFor Engine B: η_B = 1 - (T²/T)\nSet η_A = η_B: 1 - (T/T₁) \n\n= 1 - (T²/T) => T/T₁ = T²/T \n\n=> T² = T₁ * T² =>\n\n T = √(T₁ * T²)]",
+        "explanation": "### Core Concept\nThis problem involves the Efficiency of a Carnot Engine, which is the most efficient theoretical heat engine possible. The efficiency of any Carnot engine is determined solely by the absolute temperatures of its heat source and its heat sink.\n\nKey Principles:\n1. Carnot Efficiency (η): \n\nThe efficiency is given by the formula: η = 1 - (T_sink / T_source), where temperatures must be in Kelvin.\n2. Engines in Series: When engines operate in series, the heat rejected by the first engine (at temperature T) becomes the heat source for the second engine.\n\n### Solution\n\nStep 1: Define the Temperatures for Each Engine\n• Engine A: Source temperature = T₁, Sink temperature = T.\n• Engine B: Source temperature = T, Sink temperature = T₂.\n\nStep 2: Write Efficiency Expressions\n• Efficiency of Engine A (η_A): \n η_A = 1 - (T / T₁)\n• Efficiency of Engine B (η_B): \n η_B = 1 - (T₂ / T)\n\nStep 3: Set Efficiencies Equal\nAccording to the problem, η_A = η_B:\n1 - (T / T₁) = 1 - (T₂ / T)\n\nStep 4: Solve for T\nSubtract 1 from both sides and remove the negative signs:\nT / T₁ = T₂ / T\n\nCross-multiply the terms:\nT * T = T₁ * T₂\nT² = T₁ * T₂\nT = √(T₁ * T₂)\n \n\n### Why This Answer?\nFor the efficiencies to be equal, the intermediate temperature T must be the geometric mean of the source temperature T₁ and the final sink temperature T₂. This mathematical relationship ensures that the ratio of temperatures (which determines efficiency) is identical for both stages of the series.\n \n\n### Common Mistakes\n• Arithmetic vs. Geometric Mean: A common error is choosing T = (T₁ + T₂) / 2\n. This would be the correct intermediate temperature if the question asked for the Work Done by both engines to be equal, rather than their efficiencies.\n• Inverting the Ratio: Students sometime s write the efficiency as T_sink / T_source instead of 1 - (T_sink / T_source). While the 1s cancel out in this specific equality, it is a bad habit that leads to errors in more complex problems.\n• Temperature Units: Always remember that these formulas only work with absolute temperatures (Kelvin). While not strictly necessary to solve this symbolic problem, it is critical for numerical versions of this question.",
+        "keywords": {
+            "η": "Efficiency"
+        }
+    },
+    {
+        "id": 12,
+        "question_number": "173",
+        "text": "The device that can act as a complete electronic circuit is:",
+        "subject": "Physics",
+        "sub_topic": "Electronic Devices",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 21,
+        "source_pdf": "PAPAER (10)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "mcq-backend\\data\\questions\\mcq_practice\\physics\\Set2\\images\\set2_id_12.png",
+                "path": "images/set2_id_12.png",
+                "base64": ""
+            }
+        ],
+        "options": [
+            "Junction diode",
+            "Integrated circuit",
+            "Junction transistor",
+            "Zener diode"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 299,
+        "correct_answer": "Integrated circuit",
+        "basic_answer": "Given: \n[Integrated circuits are devices that combine multiple components into a single unit to perform complex functions]\nSolution: \n[An integrated circuit typically consists of transistors, diodes, resistors, capacitors, etc., all integrated onto a single chip. In contrast, the other]",
+        "explanation": "### Core Concept\nIn electronics, components are categorized as either discrete components or integrated circuits. A discrete component (like a single resistor or diode) performs one basic function, whereas a \"complete electronic circuit\" usually requires multiple components working together to perform a task like amplification, signal processing, or logic operations.\n\nKey Definitions:\n1. Discrete Component: An individual electronic part with its own package (e.g., a single transistor).\n2. Integrated Circuit (IC): A small semiconductor chip (usually silicon) that contains thousands or millions of tiny resistors, capacitors, diodes, and transistors fabricated together to function as a complete system.\n\n### Solution\n\nStep 1: Evaluate Discrete Components\n• Junction Diode: This is a single two-terminal device used primarily for rectification (converting AC to DC). It cannot amplify signals or perform logic on its own.\n• Junction Transistor: While powerful, a transistor is still a single component. To act as a circuit (like an amplifier), it requires external resistors and a power supply.\n• Zener Diode: This is a specialized diode used for voltage regulation. Like the junction diode, it is a single-function component.\n\nStep 2: Evaluate the Integrated Circuit (IC)\nAn IC is designed to be a \"circuit-on-a-chip.\" It integrates all the necessary components (transistors, resistors, etc.) and their interconnections into one single, miniaturized package.\n\nStep 3: Conclusion\nSince the IC contains all the functional elements of a circuit in one unit, it is the only device among the options that can act as a complete electronic circuit.\n \n\n### Why This Answer?\nThe correct option is \"Integrated circuit\". The very name \"integrated\" implies that multiple parts have been combined into a unified whole. For example, a microprocessor is an IC that acts as a complete computational circuit, which would be impossible to achieve with a single diode or transistor.\n \n\n### Common Mistakes\n• Confusing Transistors with Circuits: Because transistors are the \"building blocks\" of modern electronics, students often think a transistor is a circuit. However, a transistor is just a switch or an amplifier *element*; it needs other parts to form a functional circuit.\n• Misunderstanding the \"Complete\" Requirement: Some might think a Zener diode is a complete \"regulator circuit.\" While it regulates voltage, a complete regulator circuit usually includes capacitors and resistors to ensure stability and safety, which are often found inside a Voltage Regulator IC.",
+        "keywords": {
+            "IC": "Integrated Circuit",
+            "D": "Diode",
+            "T": "Transistor",
+            "Z": "Zener Diode"
+        }
+    },
+    {
+        "id": 13,
+        "question_number": "175",
+        "text": "A tuning fork of frequency 512 Hz makes 4 beats/s with the vibrating string of a piano. The beat frequency decreases to 2 beats/s when the tension in the piano string is slightly increased. The frequency of the piano string before increasing the tension was:",
+        "subject": "Physics",
+        "sub_topic": "Waves and Oscillations",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 21,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "510 Hz",
+            "514 Hz",
+            "516 Hz",
+            "508 Hz"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 302,
+        "correct_answer": "508 Hz",
+        "basic_answer": "Given: \n[frequency of tuning fork fₜ = 512 Hz\n\ninitial beat frequency = 4 beats/s\n\nfinal beat frequency = 2 beats/s]\n\nSolution: \n[Beat frequency is given by |fₜ − fₛ|. \n\nIncreasing tension in a string increases its frequency. \n\nInitially, \n\n|512 − fₛ| = 4 ⇒ fₛ = 508 Hz or 516 Hz. \n\nSince increasing tension increases frequency and beat frequency decreases, the string frequency must move closer to 512 Hz. \n\nThis is only possible if the initial frequency was less than 512 Hz]",
+        "explanation": "### Core Concept\nThis problem involves the phenomenon of Beats and the physics of Stretched Strings.\n\nKey Principles:\n1. Beat Frequency: The number of beats heard per second is equal to the absolute difference between the frequencies of two sound sources: fᵦₑₐₜ = |f₁ − f₂|.\n2. String Tension and Frequency: The fundamental frequency (f) of a stretched string is directly proportional to the square root of its tension (T). Therefore, increasing tension increases the frequency of the string (f ∝ √(T)).\n\n### Solution\n\nStep 1: Identify Initial Possibilities\nThe tuning fork frequency (f_t) is 512Hz. The initial beat frequency is 4Hz.\nThe piano string frequency (fₛ) must be either:\n• fₛ = 512 + 4 = 516Hz* fₛ = 512 - 4 = 508Hz\n\nStep 2: Analyze the Effect of Increased Tension\nWhen the tension in the piano string is increased, its frequency (fₛ) must increase. \nThe problem states the new beat frequency is 2Hz, which is lower than the initial 4Hz. This means the string's frequency moved closer to 512Hz.\n\nStep 3: Test the Two Possibilities\n• Case A (Initial = 516 Hz): If the string starts at 516Hz and tension increases, the frequency rises further (e.g., to 517 or 518Hz). The gap between 512 and 517Hz is 5Hz, meaning the beat frequency would increase. This contradicts the problem.\n• Case B (Initial = 508 Hz): If the string starts at 508Hz and tension increases, the frequency rises (e.g., to 510Hz). The gap between 512 and 510Hz is 2Hz, meaning the beat frequency decreases. This matches the problem perfectly.\n\nStep 4: Conclusion\nThe initial frequency must have been 508 Hz.\n \n\n### Why This Answer?\nThe frequency 508 Hz is correct because it is the only starting point that allows an *increase* in the string's own frequency to result in a *decrease* in the difference (beats) between it and the 512Hz tuning fork.\n\n### Common Mistakes\n• Mathematical Sign Error: Choosing 516Hz by simply adding the beat frequency without verifying the effect of the tension change.\n• Misunderstanding Tension: \n\nThinking that increasing tension decreases frequency. In reality, tightening a string (like on a guitar or piano) always raises the pitch.\n• Beat Frequency Definition: Forgetting that beat frequency is an absolute difference (|f₁ − f₂|), which always creates two mathematical possibilities that must be narrowed down using physical logic.",
+        "keywords": {
+            "frequency of tuning fork fₜ": "frequency of tuning fork f t",
+            "frequency of piano string fₛ": "frequency of piano string f s",
+            "fₜ": "frequency of tuning fork",
+            "fₛ": "frequency of piano string",
+            "Bᵢ": "initial beat frequency",
+            "$B_{f}$": "final beat frequency",
+            "Hz": "Hertz"
+        }
+    },
+    {
+        "id": 14,
+        "question_number": "154",
+        "text": "A string is stretched between fixed points separated by 75.0 cm. It is observed to have resonant frequencies of 420 Hz and 315 Hz. There are no other resonant frequencies between these two. The lowest resonant frequency for this string is:",
+        "subject": "Physics",
+        "sub_topic": "Waves",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PAPAER (5)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "105 Hz",
+            "205 Hz",
+            "10.5 Hz",
+            "155 Hz"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (5).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 5191,
+        "correct_answer": "105 Hz",
+        "basic_answer": "Given: \n[Length L = 75.0 cm = 0.75 m \n\nf₁ = 420 Hz, f₂ = 315 Hz]\nSolution: \n[For a string fixed at both ends, resonant frequencies are integral multiples of the fundamental frequency: f = n f₀. \n\nThe difference between the two nearest resonant frequencies is 420 − 315 = 105 Hz. \n\nSince no other resonant frequency lies between them, these correspond to consecutive harmonics. Therefore, the fundamental frequency equals the difference: \n\nf₀ = 105 Hz.]",
+        "explanation": "### Core Concept\nThis problem deals with the harmonics of a vibrating string fixed at both ends. For such a string, the resonant frequencies follow a specific mathematical progression.\n\nKey Principles:\n1. Harmonic Series: The resonant frequencies (fₙ) are integer multiples of the fundamental frequency (f₁ or f₀). The sequence is f₁, 2f₁, 3f₁, 4f₁, and so on.\n2. Fundamental Frequency (f₁): This is the lowest resonant frequency of the system.\n3. Consecutive Harmonics: If two resonant frequencies are nearest (meaning no other resonant frequency exists between them), they must be consecutive harmonics, such as n×f₁ and (n+1)×f₁.\n\n### Solution\n\nStep 1: Identify Given Information\n• Higher resonant frequency (fₙ₊₁) = 420 Hz\n• Lower resonant frequency (fₙ) = 315 Hz\n• Condition: No other resonant frequencies exist between them.\n\nStep 2: Relate the Difference to the Fundamental Frequency\nIn a string fixed at both ends, the gap between any two consecutive harmonics is always equal to the fundamental frequency:\n\nfₙ₊₁ − fₙ = (n+1)×f₁ − n×f₁\nfₙ₊₁ − fₙ = f₁\n\nStep 3: Calculate the Fundamental Frequency\nf₁ = 420 Hz − 315 Hz\nf₁ = 105 Hz\n\n### Why This Answer?\nThe fundamental frequency is 105 Hz. We can verify this by finding which harmonics the given frequencies represent:\n• 315 ÷ 105 = 3 (This is the 3rd harmonic)\n• 420 ÷ 105 = 4 (This is the 4th harmonic)\n\nSince 3 and 4 are consecutive integers, it confirms that 105 Hz is the correct common divisor and the lowest possible resonance for this string.\n\n### Common Mistakes\n• Confusing String and Tube Types: In a tube closed at one end, the difference between consecutive harmonics is 2×f₁. If you mistakenly treated this string like a closed pipe, you would divide the difference by 2 and get an incorrect answer of 52.5 Hz.\n• Overlooking No Other Frequencies: If there were other frequencies between 315 and 420, the difference would not represent the fundamental frequency directly. The consecutive clue is essential for this shortcut.\n• Miscalculating the HCF: Some students try to find the Highest Common Factor (HCF) of the numbers. While the HCF is indeed 105 in this case, the physics approach (subtracting consecutive harmonics) is more robust and prevents errors if the given frequencies weren't the 3rd and 4th harmonics.",
+        "keywords": {
+            "L": "length",
+            "f": "frequency",
+            "Hz": "Hertz"
+        }
+    },
+    {
+        "id": 15,
+        "question_number": "161",
+        "text": "A body of mass 1 kg is thrown upwards with a velocity 20 ms⁻¹. It momentarily comes to rest after attaining a height of 18 m. How much energy is lost due to air friction? (g =10 ms⁻²)",
+        "subject": "Physics",
+        "sub_topic": "Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "20 J",
+            "30 J",
+            "40 J",
+            "10 J"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 454,
+        "correct_answer": "20 J",
+        "basic_answer": "Given: \n[mass = 1 kg\n\ninitial velocity = 20 m/s\n\nheight = 18 m\n\ng = 10 m/s²]\n\nSolution: \n[Kinetic Energy = 1/2 mv²,\n\n Potential Energy = mgh.\n\n Initial KE = 1/2 x₁ kg x (20 m/s)² \n\n= 200 J;\n\n Final PE = 1 kg x₁₀ m/s² x₁₈ m \n\n= 180 J;\n\n Energy lost = Initial KE - Final PE \n\n= 200 J - 180 J = 20 J]",
+        "explanation": "### Core Concept\nThis problem is based on the Work-Energy Theorem and the Conservation of Energy. In a perfect vacuum, all initial kinetic energy would convert into potential energy. However, in the presence of air, some of that energy is dissipated as heat due to air friction (non-conservative work).\n\nKey Principles:\n1. Initial Kinetic Energy (KE_i): The energy the object possesses due to its motion at the start (1/2 * m * v²).\n2. Final Potential Energy (PE_f): The energy the object has at its maximum height (m * g * h).\n3. Energy Loss: The difference between the energy you started with and the energy you have at the peak height is the energy lost to the environment.\n\n### Solution\n\nStep 1: Identify Given Parameters\n• Mass (m) = 1 kg\n• Initial Velocity (V) = 20 ms⁽-1⁾\n• Height reached (h) = 18 m\n• Gravity (g) = 10 ms⁽-2⁾\n\nStep 2: Calculate Initial Kinetic Energy (KE_i)\nKE_i = 1/2 * m * v²\nKE_i = 1/2 * 1 kg * (20 ms⁽-1⁾)²\nKE_i = 1/2 * 1 * 400\nKE_i = 200 J\n\nStep 3: Calculate Potential Energy at Maximum Height (PE_f)\nPE_f = m * g * h\nPE_f = 1 kg * 10 ms⁽-2⁾ * 18 m\nPE_f = 180 J\n\nStep 4: Calculate Energy Lost to Air Friction\nAccording to the energy balance: KE_i = PE_f + Energy Loss\nEnergy Loss = KE_i - PE_f\nEnergy Loss = 200 J - 180 J\nEnergy Loss = 20 J\n \n\n### Why This Answer?\nThe energy lost is 20 J. If there were no air resistance, the body would have reached a height of 20 m (where mgh = 200 J). Since it only reached 18 m, the missing 2 m worth of potential energy (1 kg * 10 * 2 m = 20 J) was consumed by the work done against air friction during the ascent.\n\n### Common Mistakes\n• Ignoring Mass: Some students forget to multiply by mass when calculating energy, though with 1 kg it doesn't change the numerical value, it is a bad habit for other problems.\n• Using V² = 2ghdirectly: Students often try to use kinematic equations to find a \"theoretical\" height and get confused. It is much simpler to compare the Joule values directly using the energy approach.\n• Sign Confusion: Thinking that energy loss should be added to the initial energy. Remember:Initial = Final + Loss. The \"Loss\" is what left the system, so the final mechanical energy (PE) must be less than the starting energy (KE).",
+        "keywords": {
+            "m": "mass",
+            "kg": "kilograms",
+            "v": "velocity",
+            "m/s": "meters per second",
+            "g": "acceleration due to gravity",
+            "J": "Joules",
+            "KE": "kinetic energy",
+            "PE": "potential energy",
+            "h": "height"
+        }
+    },
+    {
+        "id": 16,
+        "question_number": "180",
+        "text": "An alpha nucleus of mass m moving with velocity v bombards a heavy nuclear target of charge Ze. Then the distance of closest approach for the alpha nucleus will be proportional to:",
+        "subject": "Physics",
+        "sub_topic": "Nuclear Physics",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 22,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "mv²",
+            "1/Ze",
+            "1/v⁴",
+            "Ze"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 22,
+            "type": "MCQ"
+        },
+        "original_id": 304,
+        "correct_answer": "Ze",
+        "basic_answer": "Given: m (mass of alpha particle)\n\nv (velocity of alpha particle)\n\nZ (charge number of target nucleus).\n\nConcept: The distance of closest approach is obtained using conservation of energy. At the closest approach, the initial kinetic energy of the alpha particle is completely converted into electrostatic potential energy due to Coulomb repulsion between the alpha particle and the nucleus.\n\nCharge of alpha particle = +2e\nCharge of nucleus = +Ze\n\nAt closest approach:\n(1/2)mv² = (1/4πϵ₀) · (2e · Ze) / r\n\nRearranging:\nr ∝ Ze / mv²\n\nThus, the distance of closest approach r is directly proportional to Ze.\n\nHence, r ∝ Ze.",
+        "explanation": "### Core Concept\nThis problem is based on the Rutherford Scattering experiment and the principle of Conservation of Energy. As an alpha particle (positively charged) approaches a heavy nucleus (also positively charged), it experiences a repulsive Coulomb force. \n\nKey Principles:\n1. Distance of Closest Approach (r_0): The distance from the center of the nucleus where the alpha particle's velocity becomes zero before it reflects back.\n2. Energy Conversion: At this point, the entire Initial Kinetic Energy (K) of the alpha particle is converted into Electrostatic Potential Energy (U).\n\n### Solution\n\nStep 1: Define the Charges\n• Charge of the alpha nucleus (q_1): +2e (since it is a Helium nucleus).\n• Charge of the target nucleus (q_2): +Ze.\n\nStep 2: Set Up the Energy Equality\nInitial Kinetic Energy = Electrostatic Potential Energy at r_0\n1/2 * m * v² = (1 / (4 * π * ε_0)) * (q_1 * q_2 / r_0)\n\nStep 3: Substitute the Charges\n1/2 * m * v² = (1 / (4 * π * ε_0)) * (2e * Ze / r_0)\n1/2 * m * v² = (2 * Z * e²) / (4 * π * ε_0 * r_0)\n\nStep 4: Solve for r_0 to Find Proportionality\nRearrange the equation to isolate r_0:\nr_0 = (4 * Z * e²) / (4 * π * ε_0 * m * v²)\nSimplifying the constants, we see the relationship:\nr_0 ∝ Ze / (m * v²)\n \n\n### Why This Answer?\nThe distance of closest approach (r_0) is directly proportional to the charge of the target nucleus, Ze. This makes physical sense: a more highly charged nucleus will exert a stronger repulsive force, stopping the alpha particle further away. Conversely, r_0 is inversely proportional to the mass (m) and the square of the velocity (V²), because a more energetic particle can penetrate deeper against the repulsion.\n\n### Common Mistakes\n• Misidentifying the Alpha Charge: Forgetting that an alpha particle has a charge of+2e. While it doesn't change the proportionality toZe, it is vital for numerical calculations.\n• Inverse Proportionality Confusion: Thinkingr_0is proportional tomv²(Kinetic Energy). In fact,r_0is proportional to1/KE. The more energy the particle has, the *smaller* the distance of closest approach becomes.\n• Atomic Number vs. Charge: ConfusingZ with the mass number. The repulsion is purely electrostatic, so only the atomic number (charge) matters, not the number of neutrons.",
+        "keywords": {
+            "m": "mass of alpha particle",
+            "v": "velocity of alpha particle",
+            "Z": "atomic number of target nucleus",
+            "e": "elementary charge",
+            "r": "distance of closest approach"
+        }
+    },
+    {
+        "id": 17,
+        "question_number": "158",
+        "text": "A potentiometer is an accurate and versatile device to make electrical measurements of E.M.F. because the method involves:",
+        "subject": "Physics",
+        "sub_topic": "Electromagnetic Induction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 21,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "A condition of no current flow through the galvanometer",
+            "Potential gradients",
+            "A condition of cells, galvanometer, and resistances",
+            "Cells"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 134,
+        "correct_answer": "A condition of no current flow through the galvanometer",
+        "basic_answer": "Given: \n[Device is a potentiometer which measures E.M.F]\nSolution: \n[E.M.F measurement involves a condition of no current flow through the galvanometer for accurate readings. No calculations needed, as this question is conceptual.]",
+        "explanation": "### Core Concept\nA potentiometer is considered superior to a voltmeter for measuring the Electromotive Force (E.M.F.) of a cell because it is a null-point instrument. It measures the potential difference without drawing any current from the source being measured.\n\nKey Principles:\n1. Null Method: The device achieves a balance point where the potential difference of the test cell is exactly equal and opposite to the potential drop across a specific length of the potentiometer wire.\n2. No Current Flow: At the balance (null) point, the net current through the galvanometer is zero (I_g = 0).\n3. Ideal Measurement: Because no current is drawn from the test cell, there is no voltage drop across its internal resistance (Ir). Thus, the terminal voltage measured is exactly equal to the E.M.F. of the cell.\n\n### Solution\n\nStep 1: Understand the Circuit Operation\nIn a standard potentiometer circuit, a \"driver\" cell creates a constant potential gradient along a uniform wire. A secondary circuit containing the test cell and a galvanometer is connected to this wire via a sliding contact (jockey).\n\nStep 2: Identify the Balancing Condition\nAs the jockey moves along the wire, the potential drop across the wire increases. When this potential drop (V₍wire₎) matches the E.M.F. (E) of the test cell:\n• The two potential differences oppose each other perfectly.\n• The galvanometer shows zero deflection, indicating no current flow through the galvanometer.\n\nStep 3: Analyze Why This Ensures Accuracy\nA standard voltmeter has some resistance. To show a reading, it must draw a small current (I). Because of this current, the voltmeter actually measures V = E - Ir, where r is the internal resistance. A potentiometer avoid this error entirely because at the balance point, I = 0, so V = E.\n \n\n### Why This Answer?\nThe correct option is \"A condition of no current flow through the galvanometer\". This \"null condition\" is what makes the potentiometer an \"infinite resistance\" device in effect, allowing it to measure the true E.M.F. of a cell without the interference of internal resistance.\n\n### Common Mistakes\n• Confusing Gradient with Method: While the potentiometer *uses* a potential gradient (Option B) to function, the *reason* it is accurate and versatile is the null-point method (Option A). \n• Voltmeter Comparison: Thinking that a high-resistance voltmeter is just as good. Even a very high-resistance voltmeter draws *some* current, whereas a balanced potentiometer draws absolutely none from the test cell.\n• Sub-topic Confusion: Although this question is listed under Electromagnetic Induction in some datasets, it is primarily a topic of Current Electricity.",
+        "keywords": {
+            "E.M.F": "Electromotive Force",
+            "V": "Voltage",
+            "I": "Current",
+            "R": "Resistance"
+        }
+    },
+    {
+        "id": 18,
+        "question_number": "159",
+        "text": "A spherical black body with a radius of 12 cm radiates 450-watt power at 500 K. If the radius were halved and the temperature is doubled, the power radiated in watt would be:",
+        "subject": "Physics",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 21,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "450",
+            "1000",
+            "1800",
+            "225"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 135,
+        "correct_answer": "1800",
+        "basic_answer": "Given: \n[Initial radius = 12 cm,\n\n Initial power = 450 W,\n\n Initial temperature = 500 K \n\nNew radius = 6 cm\n\nNew temperature = 1000 K]\n\nSolution: \n[Stefan-Boltzmann Law: P = σAT⁴, where\n\n \nP = Power, σ = Stefan-Boltzmann constant,\n\n A = Surface Area, \n\nT = Temperature. \n\nSurface area A = 4πr²;\n\n Initial A = 4π(12 cm)² = 4π(144 cm²) = 576π cm²;\n\nNew A = 4π(6 cm)² = 4π(36 cm²) = 144π cm².\n\n  Initial Power Pᵢₙᵢₜᵢₐₗ = 450 W\n\nAᵢₙᵢₜᵢₐₗ = 576π cm², Tᵢₙᵢₜᵢₐₗ = 500 K,\n\n A_new = 144π cm²\n\nT_new = 1000 K\n\n P_new = Pᵢₙᵢₜᵢₐₗ × (A_new/Aᵢₙᵢₜᵢₐₗ₎ × (T_new/Tᵢₙᵢₜᵢₐₗ₎⁴ \n\n= 450 W × (144π cm²/576π cm²) × (1000 K/500 K)⁴ \n\n= 450 W × (144/576) × (2)⁴ \n\n= 450 W × (1/4) × 16 \n\n= 450 W × 4 \n\n= 1800 W]",
+        "explanation": "### Core Concept\nThis problem is governed by the Stefan-Boltzmann Law, which describes the total power radiated from a black body in terms of its temperature and surface area.\n\nKey Principles:\n1. Stefan-Boltzmann Equation: The total power (P) radiated is given by: P = σ e A T⁴.\n * σ (sigma): The Stefan-Boltzmann constant, defined by the fundamental constants of nature ($σ = 2π⁵k⁴ / 15h³c²$).\n * e: The emissivity of the surface (e = 1).\n * A: The surface area ($A = 4πr²$ for a spherical body).\n * T: The absolute temperature measured in Kelvin.\n2. Proportionality: From the formula, we can see that power is directly proportional to the square of the radius (r²) and the fourth power of the temperature (T⁴): P ∝ r² T⁴.\n\n---\n\n### Solution\n\nStep 1: Identify Initial and Final Conditions\n* Initial: Power (p₁) = 450 W, Radius (r₁), Temperature (T₁).\n* Final: Radius (r₂) = r₁ / 2 (halved), Temperature (T₂) = 2T₁ (doubled).\n\nStep 2: Set Up the Ratio Equation\nUsing the proportionality $P ∝ r^2 T^4$, we can compare the two states:\np₂ / p₁ = (r₂ / r₁)² × (T₂ / T₁)⁴\n\nStep 3: Substitute the Changes\nSubstitute r₂ / r₁ = 1/2 and T₂ / T₁ = 2 into the equation:\np₂ / (450) = (1/2)² × (2)⁴\np₂ / (450) = (1/4) × 16\n\nStep 4: Calculate Final Power\np₂ / (450) = 4\np₂ = 450 × 4\np₂ = 1800 W\n\n---\n\n### Why This Answer?\nThe power radiated becomes 1800 W. Although halving the radius reduces the surface area (and thus the power) by a factor of 4, doubling the temperature increases the power by a factor of 16 ($2^4 = 16$). The net effect is a 4-fold increase in the total radiated power ($16 / 4 = 4$).\n\n---\n\n### Common Mistakes\n* Temperature Power Error: Forgetting that temperature is raised to the fourth power. Students often square it by mistake, which would lead to an incorrect answer of 450 W.\n* Radius vs Area: Forgetting to square the radius when considering surface area. If you only consider the radius linearly, you would get 3600 W.\n* Unit Conversion: While not necessary here because we used ratios, in numerical problems, always ensure temperature is in Kelvin. If the problem gave Celsius, the ratio method would fail unless converted first.",
+        "keywords": {
+            "P_initial": "P initial",
+            "A_initial": "A initial",
+            "T_initial": "T initial",
+            "P_new": "P new",
+            "A_new": "A new",
+            "T_new": "T new",
+            "P = σAT⁴": "p equal to sigma A T powered four",
+            "P = Power": "p equals power",
+            "σ = Stefan-Boltzmann constant": "sigma equals stefan boltzmann constant",
+            "A = Surface Area": "A equals surface area",
+            "T = Temperature": "T equals temperature",
+            "Surface area A": "surface area a",
+            "P": "Power",
+            "σ": "Stefan-Boltzmann constant",
+            "A": "Surface Area",
+            "T": "Temperature",
+            "cm": "centimeters",
+            "W": "Watts"
+        }
+    },
+    {
+        "id": 19,
+        "question_number": "160",
+        "text": "The figure shows a circuit that contains three identical resistors with resistance R = 9.0 each, two identical inductors with inductance L = 2.0 mH each, and an ideal battery with emf ε = 18. The current 'i' through the battery just after the switch closed is:",
+        "subject": "Physics",
+        "sub_topic": "Electric Circuits",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 21,
+        "source_pdf": "PAPAER (1)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "mcq-backend\\data\\questions\\mcq_practice\\physics\\Set2\\images\\set2_id_19.png",
+                "path": "images/set2_id_19.png",
+                "base64": ""
+            }
+        ],
+        "options": [
+            "0.2A",
+            "2A",
+            "4 A",
+            "2mA"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 21,
+            "type": "MCQ"
+        },
+        "original_id": 136,
+        "correct_answer": "2A",
+        "basic_answer": "Given: \n[R = 9.0 ohms,\n\n L = 2.0 mH, ε = 18 V]\n\nSolution: \n[Ohm's Law: I = ε / R.\n\n \nI = 18 V / 9.0 ohms = 2 A]",
+        "explanation": "### Core Concept \n\nThis problem tests the understanding of transient behavior in LR circuits, specifically how inductors behave the exact moment a switch is closed (t = 0).\n\nKey Principles:\n\nInductor Behavior at t = 0: An inductor opposes any sudden change in current. Because the current through the inductors was zero before the switch was closed, it must remain zero immediately after the switch is closed. Therefore, at t = 0, an inductor acts as an open circuit (infinite resistance).\n\nInductor Behavior at t = ∞ (Steady State): Once the current has stabilized, an inductor acts as a short circuit (zero resistance, ideally).\n\nOhm's Law: The current in the active part of the circuit is calculated using I = ε / R₍eq₎. Solution\n\nStep 1: \n\nAnalyze the Circuit at t = 0 Immediately after the switch is closed, the two inductors (L) behave like broken wires (open circuits). Any branch of the circuit that contains an inductor will have zero current flowing through it at this instant.\n\nStep 2: Identify the Active PathnBased on the typical configuration for this problem (where one resistor is in the main branch and others are in parallel with inductors): Branches with inductors are \"blocked.\" Only the branch containing the single resistor (R = 9.0 Ω) directly connected to the battery is active.\n\nStep 3: Calculate the Initial Current (i)Using Ohm's Law for the remaining active path:\n\nn = ε / Rni = 18 V / 9.0 Ωni = 2 A\n\n Why This Answer?\n\nThe current is 2 A because at the very first moment, the inductors prevent current from entering their respective branches. The battery \"sees\" only the resistance that is not blocked by an inductor. The values ε = 18 and R = 9, the simplest active path results in exactly 2 Amperes of current. \n\nCommon Mistakes Treating Inductors as Short Circuits: A very common error is assuming inductors have no resistance at the start. If you treated them as wires, you would calculate the equivalent resistance of all three resistors in parallel (or however they are configured), leading to a much higher current. Confusing Inductors with Capacitors: Capacitors act as short circuits at t = 0 and open circuits at t = ∞. Inductors behave in the exact opposite way.* Including All Resistors: If you don't account for the inductors acting as open circuits, you might try to include all resistors in your calculation. Remember: if a resistor is in series with an inductor, no current flows through that resistor at t = 0.",
+        "keywords": {
+            "I": "current",
+            "ε": "emf (voltage)",
+            "R": "resistance",
+            "V": "volts",
+            "ohms": "unit of resistance",
+            "L": "inductance",
+            "mH": "millihenry"
+        }
+    }
+]

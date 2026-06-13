@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Permutations and Combinations",
+    "chapter_number": 4,
+    "topic": "Fundamental Principle of Counting",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:47:08.804912",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today we will learn about the Fundamental Principle of Counting. This is a basic concept in permutations and combinations. It helps us count the number of ways to do something. Let's start with the Basic Counting Principle. It says that if you have two tasks, and the first task can be done in 'm' ways and the second task can be done in 'n' ways, then both tasks together can be done in m x n ways. For example, if you have 3 shirts and 2 pants, you can dress in 3 x 2 = 6 ways. Easy, right?\n\nNow, let's talk about the Addition Principle. This principle is used when you have two tasks but they cannot happen at the same time. If one task can be done in 'm' ways and another task can be done in 'n' ways, then either task can be done in m + n ways. For example, if you can choose between 3 fruits or 2 vegetables, you have 3 + 2 = 5 choices.\n\nNext, we will see how these principles apply in real-life problems. Imagine you are planning a trip. You can choose 3 destinations and 2 modes of transport. Using the Multiplication Principle, you can plan your trip in 3 x 2 = 6 ways. But if you have to choose between two hotels, you use the Addition Principle, adding the number of choices.\n\nNow, let's move to Counting Problems with Restrictions. Sometimes, there are rules. For example, if you have 5 books and want to arrange them but the largest book must be at the end, you first place the largest book. Then, arrange the remaining 4 books. So, you have 4! (factorial) ways to arrange them. Factorial notation is important here. 4! means 4 x 3 x 2 x 1 = 24.\n\nCounting Problems with Repetition can be tricky. If you have 3 different letters and you can use each letter more than once to form a 2-letter word, you have 3 x 3 = 9 possible words. Repetition means you count each choice separately.\n\nLet's summarize the key points. The Basic Counting Principle helps when tasks are sequential. The Addition Principle helps when tasks are separate choices. Restrictions need careful counting and sometimes factorial notation. Repetition allows each choice to be counted fully.\n\nIn exams, remember these common mistakes: confusing when to multiply and when to add. Always check if tasks are sequential or separate. Use factorial notation correctly. Practice these concepts with examples. This will help you in JEE Main.\n\nTo conclude, these counting principles are simple yet powerful. They help solve many problems in permutations and combinations. Keep practicing, and you will master them!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Basic Counting Principle",
+    "Addition Principle",
+    "Multiplication Principle",
+    "Factorial Notation",
+    "Counting Problems"
+  ],
+  "formulas": [
+    {
+      "formula": "Total ways = m x n",
+      "description": "Used when two tasks are done in sequence, each with m and n ways"
+    },
+    {
+      "formula": "Total choices = m + n",
+      "description": "Used when choosing between two tasks, each with m and n ways"
+    },
+    {
+      "formula": "n! = n x (n-1) x ... x 1",
+      "description": "Used to find the number of ways to arrange n items"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Basic Counting Principle",
+      "definition": "A rule that helps count the number of ways to do tasks in sequence"
+    },
+    {
+      "term": "Addition Principle",
+      "definition": "A rule that helps count the number of ways to choose between tasks"
+    },
+    {
+      "term": "Factorial Notation",
+      "definition": "A way to represent the product of all positive integers up to a number"
+    }
+  ]
+}

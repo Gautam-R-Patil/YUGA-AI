@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Atomic Structure",
+    "chapter_number": 2,
+    "topic": "Bohr Model",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:03:55.254482",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Bohr Model of the atom. This model helps us understand how electrons move around the nucleus. Let's start with the postulates of the Bohr model. Bohr proposed that electrons move in fixed paths called orbits. These orbits are like rings around the nucleus. Each orbit has a fixed energy level. An electron in a lower orbit has less energy than one in a higher orbit. \n\nNow, let's talk about energy levels and orbits. Each orbit is given a number, called the principal quantum number, n. The first orbit is n=1, the second is n=2, and so on. The energy of an electron in the nth orbit is given by the formula: E_n = -13.6/n^2 eV. This formula shows that energy is negative, meaning the electron is bound to the nucleus. \n\nNext, we will discuss the hydrogen spectrum. When an electron jumps from a higher orbit to a lower orbit, it emits energy as light. This light forms a spectrum. The lines in the hydrogen spectrum are due to these jumps. The Rydberg formula helps us calculate the wavelength of these lines: 1/λ = R_H (1/n1^2 - 1/n2^2). Here, λ is the wavelength, R_H is the Rydberg constant, n1 and n2 are the principal quantum numbers of the orbits. \n\nLet's look at the limitations of the Bohr model. Bohr's model works well for hydrogen but not for atoms with more electrons. It does not explain the fine structure of spectral lines or the Zeeman effect. \n\nNow, let's calculate the energy of an electron in the nth orbit. We use the formula E_n = -13.6/n^2 eV. For example, if n=2, E_2 = -13.6/2^2 = -3.4 eV. \n\nTo find the radius of an nth orbit, we use the formula: r_n = 0.529 x n^2 Å. For n=1, r_1 = 0.529 Å. This tells us how far the electron is from the nucleus. \n\nThe velocity of an electron in the nth orbit is given by v_n = 2.18 x 10^6/n m/s. For n=1, v_1 = 2.18 x 10^6 m/s. \n\nWhen an electron jumps between orbits, it emits radiation. The frequency of this radiation is given by: ν = (E_initial - E_final)/h, where h is Planck's constant. The wavelength is λ = c/ν, where c is the speed of light. \n\nBe careful with common mistakes. Often, students forget to square n in the formulas. Always double-check your calculations. \n\nIn summary, Bohr's model explains the energy levels and spectra of hydrogen. Remember the key formulas for energy, radius, and velocity. These are important for solving JEE Main problems. Keep practicing, and you'll do great!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Bohr Model",
+    "Energy Levels",
+    "Hydrogen Spectrum",
+    "Rydberg Formula",
+    "Electron Orbit"
+  ],
+  "formulas": [
+    {
+      "formula": "E_n = -13.6/n^2 eV",
+      "description": "Used to calculate the energy of an electron in the nth orbit"
+    },
+    {
+      "formula": "1/λ = R_H (1/n1^2 - 1/n2^2)",
+      "description": "Rydberg formula to find the wavelength of spectral lines"
+    },
+    {
+      "formula": "r_n = 0.529 x n^2 Å",
+      "description": "Used to calculate the radius of the nth orbit"
+    },
+    {
+      "formula": "v_n = 2.18 x 10^6/n m/s",
+      "description": "Used to find the velocity of an electron in the nth orbit"
+    },
+    {
+      "formula": "ν = (E_initial - E_final)/h",
+      "description": "Used to calculate the frequency of emitted radiation"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bohr Model",
+      "definition": "A model of the atom where electrons move in fixed orbits around the nucleus"
+    },
+    {
+      "term": "Principal Quantum Number",
+      "definition": "A number (n) that denotes the energy level of an electron in an atom"
+    },
+    {
+      "term": "Hydrogen Spectrum",
+      "definition": "The set of light lines emitted by hydrogen when electrons jump between energy levels"
+    }
+  ]
+}

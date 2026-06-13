@@ -1,0 +1,83 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Biomolecules",
+    "chapter_number": "9",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:30:28.565384",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the crucial NEET topics: Biomolecules.\n\nBiomolecules are organic compounds present in living organisms and are fundamental to life. They are made primarily of carbon and are classified into carbohydrates, proteins, lipids, and nucleic acids.\n\n### Carbohydrates\n- **Simple Explanation**: Carbohydrates are sugars and polymers of sugars which act as a primary energy source.\n- **Key Points**: They can be monosaccharides (glucose), disaccharides (sucrose), or polysaccharides (starch).\n- **NEET Pattern**: Questions often test your knowledge of structures and functions, especially the glucose structure.\n\n### Proteins\n- **Simple Explanation**: Proteins are large biomolecules consisting of one or more long chains of amino acids.\n- **Key Points**: They function in structure, transport, enzymes, and hormones.\n- **Key Formula/Idea**: Amino acids linked by peptide bonds form proteins.\n- **NEET Pattern**: Be familiar with the primary to quaternary structure of proteins and enzyme actions.\n\n### Lipids\n- **Simple Explanation**: Lipids are hydrophobic or amphipathic molecules used primarily for storing energy.\n- **Key Points**: Include fats, oils, waxes, and steroids.\n- **NEET Pattern**: Know the basic structure of triglycerides and phospholipids.\n\n### Nucleic Acids\n- **Simple Explanation**: Nucleic acids like DNA and RNA are polymers of nucleotides that store genetic information.\n- **Key Points**: DNA is double-stranded (A-T, G-C) while RNA is usually single-stranded (A-U, G-C).\n- **Key Formula/Idea**: Base pairing rules and the central dogma: DNA \u2192 RNA \u2192 Protein.\n- **NEET Pattern**: Focus on base-pairing rules, replication, transcription, and translation processes.\n\n### Enzymes\n- **Simple Explanation**: Enzymes are proteins that catalyze biochemical reactions without being consumed.\n- **Key Points**: They lower activation energy and are specific to substrates.\n- **Key Formula/Idea**: Michaelis-Menten equation for enzyme kinetics.\n- **NEET Pattern**: Questions often involve enzyme specificity and inhibition.\n\n### Vitamins\n- **Simple Explanation**: Vitamins are organic compounds needed in small quantities for normal metabolism.\n- **Key Points**: Divided into fat-soluble (A, D, E, K) and water-soluble (B-complex, C).\n- **NEET Pattern**: Look for vitamin deficiency diseases.\n\n### Revision Summary\n1. Carbohydrates are primary energy sources; know basic structures.\n2. Proteins are made of amino acids, functioning in various roles.\n3. Lipids store energy and form cell membranes.\n4. Nucleic acids carry genetic information; understand DNA/RNA structures.\n5. Enzymes catalyze reactions; remember the specifics of enzyme action.\n6. Vitamins are essential nutrients with specific functions and deficiencies.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Carbohydrates",
+    "Proteins",
+    "Lipids",
+    "Nucleic Acids",
+    "Enzymes",
+    "Vitamins",
+    "Monosaccharides",
+    "Amino Acids",
+    "Triglycerides",
+    "DNA",
+    "RNA"
+  ],
+  "formulas": [
+    "\\text{Amino acids linked by peptide bonds = Protein}",
+    "\\text{Base pairing in DNA: A-T, G-C}",
+    "\\text{Base pairing in RNA: A-U, G-C}",
+    "\\text{Central Dogma: DNA \\rightarrow RNA \\rightarrow Protein}",
+    "\\text{Michaelis-Menten Equation for enzyme kinetics: } v = \\frac{V_{max}[S]}{K_m + [S]}"
+  ],
+  "definitions": [
+    {
+      "term": "Carbohydrates",
+      "definition": "Organic compounds made of carbon, hydrogen, and oxygen, serving as a primary energy source."
+    },
+    {
+      "term": "Proteins",
+      "definition": "Complex biomolecules composed of amino acids essential for structural, functional, and regulatory processes."
+    },
+    {
+      "term": "Lipids",
+      "definition": "Hydrophobic molecules significant for energy storage and forming biological membranes."
+    },
+    {
+      "term": "Nucleic Acids",
+      "definition": "Polymers of nucleotides that store and transfer genetic information in the form of DNA and RNA."
+    },
+    {
+      "term": "Enzymes",
+      "definition": "Proteins that act as biological catalysts to accelerate chemical reactions."
+    },
+    {
+      "term": "Vitamins",
+      "definition": "Organic compounds required in small amounts to support various metabolic functions."
+    },
+    {
+      "term": "Monosaccharides",
+      "definition": "The simplest form of carbohydrates, serving as basic building blocks."
+    },
+    {
+      "term": "Amino Acids",
+      "definition": "Organic compounds that combine to form proteins, playing critical roles in physiology."
+    },
+    {
+      "term": "Triglycerides",
+      "definition": "Type of lipid consisting of glycerol and three fatty acids, primarily for energy storage."
+    },
+    {
+      "term": "DNA",
+      "definition": "Deoxyribonucleic Acid, a molecule carrying genetic instructions for the development and functioning of all living organisms."
+    },
+    {
+      "term": "RNA",
+      "definition": "Ribonucleic Acid, a nucleic acid involved in protein synthesis and gene regulation."
+    }
+  ]
+}

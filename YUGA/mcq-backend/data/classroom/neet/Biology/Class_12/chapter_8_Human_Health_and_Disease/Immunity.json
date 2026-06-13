@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Human Health and Disease",
+    "chapter_number": 8,
+    "topic": "Immunity",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:42:42.132086",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about immunity in our bodies. Immunity helps us fight diseases. Let's start with innate immunity. Innate immunity is our body's first line of defense. It includes physical barriers like skin. The skin stops germs from entering our body. There are also physiological barriers like stomach acid. Stomach acid kills many germs. Then, we have cellular barriers. These include white blood cells that eat germs.\n\nNow, let's talk about acquired immunity. This is the immunity we gain over time. It is of two types: active and passive. Active immunity happens when our body makes antibodies. Antibodies are proteins that fight germs. We get active immunity when we recover from a disease or get vaccinated. Passive immunity is different. We get it from another source, like mother's milk. It does not last long.\n\nNext, we have primary and secondary immune responses. The primary response is slow. It happens when our body meets a germ for the first time. The secondary response is faster. It happens when the same germ attacks again. Our body remembers the germ and fights it quickly.\n\nLet's look at antibodies in detail. Antibodies have a Y-shape. They attach to germs and stop them. Antibodies are specific. Each one targets a specific germ. This is like a lock and key. Only the right key fits the lock.\n\nVaccination is important for immunity. Vaccines help our body make antibodies without getting sick. This is a safe way to gain immunity. Immunization is the process of getting vaccinated.\n\nAllergies occur when the body reacts too strongly to harmless things. For example, pollen or dust. This is due to histamine release. Histamine causes symptoms like sneezing. Autoimmune diseases are different. Here, the body attacks its own cells by mistake. This is like a friendly fire.\n\nThe immune system has many parts. Lymphoid organs like the spleen and thymus are important. They produce and store immune cells. Lymphocytes are a type of white blood cell. They play a key role in immunity.\n\nRemember, antigens are substances that trigger an immune response. They are like invaders. Antibodies fight these invaders. A common mistake is thinking all germs cause disease. Not all germs are harmful.\n\nIn summary, immunity is our defense system. Innate immunity is quick but non-specific. Acquired immunity is specific and improves over time. Vaccines help us gain active immunity safely. Keep these points in mind as they are important for NEET.\n\nThank you for listening. Keep revising and stay healthy!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Innate Immunity",
+    "Acquired Immunity",
+    "Antibodies",
+    "Vaccination",
+    "Lymphocytes"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Antigen",
+      "definition": "A substance that triggers an immune response."
+    },
+    {
+      "term": "Antibody",
+      "definition": "A protein that fights against germs."
+    },
+    {
+      "term": "Lymphocytes",
+      "definition": "A type of white blood cell important for immunity."
+    },
+    {
+      "term": "Histamine",
+      "definition": "A chemical that causes allergy symptoms."
+    }
+  ]
+}

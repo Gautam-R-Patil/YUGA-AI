@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermal Properties of Matter",
+    "chapter_number": 11,
+    "topic": "Thermal Expansion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:00:31.202228",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about thermal expansion. This is an important topic in physics. When things get hot, they usually expand. This means they get bigger. This is called thermal expansion. \n\nLet's start with linear expansion. This is when an object gets longer. Imagine a metal rod. When you heat it, it becomes longer. This is linear expansion. We use the formula: ∆L = L₀α∆T. Here, ∆L is the change in length, L₀ is the original length, α is the coefficient of linear expansion, and ∆T is the change in temperature. \n\nNext, we have area expansion. This happens when an object's surface area increases. Think of a metal sheet. When it gets hot, its surface area becomes larger. The formula is: ∆A = A₀β∆T. Here, ∆A is the change in area, A₀ is the original area, β is the coefficient of area expansion, and ∆T is the change in temperature.\n\nFinally, let's talk about volume expansion. This is when the whole object gets bigger. Imagine a balloon. When you heat the air inside, the balloon expands. The formula is: ∆V = V₀γ∆T. Here, ∆V is the change in volume, V₀ is the original volume, γ is the coefficient of volume expansion, and ∆T is the change in temperature.\n\nNow, let's look at some examples. Railway tracks have small gaps between them. These gaps allow the tracks to expand in the summer heat. Another example is a thermometer. The liquid inside expands when it gets warm, showing a higher temperature.\n\nThermal expansion is useful in engineering. Bridges have expansion joints. These joints allow the bridge to expand and contract without damage. Engineers must consider thermal expansion when designing buildings.\n\nLet's solve a problem. If a metal rod is 2 meters long at 20°C and the temperature increases to 50°C, what is the change in length? Assume α = 0.000012/°C. Use the formula: ∆L = L₀α∆T. \n\n∆L = 2m x 0.000012/°C x (50°C - 20°C) = 0.00072m or 0.72mm.\n\nA common mistake is forgetting to convert units. Always check your units in calculations.\n\nIn graphs, thermal expansion is shown as a straight line. If you plot temperature on the x-axis and length on the y-axis, the graph is a straight line.\n\nKey points to remember: Thermal expansion happens with heat. Linear, area, and volume expansions are different. Use the right formula for each type.\n\nIn summary, thermal expansion is when objects get bigger with heat. It is important in daily life and engineering. Remember the formulas and think about units. Thank you for learning with me today!",
+  "duration_minutes": 7,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Thermal Expansion",
+    "Linear Expansion",
+    "Area Expansion",
+    "Volume Expansion",
+    "Coefficient of Expansion"
+  ],
+  "formulas": [
+    {
+      "formula": "∆L = L₀α∆T",
+      "description": "Change in length due to linear expansion"
+    },
+    {
+      "formula": "∆A = A₀β∆T",
+      "description": "Change in area due to area expansion"
+    },
+    {
+      "formula": "∆V = V₀γ∆T",
+      "description": "Change in volume due to volume expansion"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Thermal Expansion",
+      "definition": "The increase in size of an object when it is heated"
+    },
+    {
+      "term": "Coefficient of Linear Expansion",
+      "definition": "A constant that shows how much a material expands per degree change in temperature"
+    },
+    {
+      "term": "Coefficient of Area Expansion",
+      "definition": "A constant that shows how much a material's area expands per degree change in temperature"
+    },
+    {
+      "term": "Coefficient of Volume Expansion",
+      "definition": "A constant that shows how much a material's volume expands per degree change in temperature"
+    }
+  ]
+}

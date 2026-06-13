@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Rotational Motion",
+    "chapter_number": 5,
+    "topic": "Torque",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:49:05.595582",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about torque. Torque is a key concept in rotational motion. It helps us understand how things turn or rotate. \n\nFirst, let's define torque. Torque is a measure of how much a force can rotate an object around a pivot point. Think of opening a door. The force you apply at the handle creates torque, which makes the door swing open. The unit of torque is Newton-meter (Nm).\n\nTorque is a vector quantity. This means it has both magnitude and direction. The direction of torque is given by the right-hand rule. Point your thumb in the direction of the force, and your fingers curl in the direction of the torque.\n\nNow, let's see how torque is due to a force. The formula for torque is τ = r × F, where τ is torque, r is the distance from the pivot to the point where force is applied, and F is the force. The angle between r and F also matters. The formula becomes τ = r × F × sin(θ), where θ is the angle between r and F.\n\nLet's talk about equilibrium. For an object to be in rotational equilibrium, the net torque must be zero. This means all the torques cancel each other out. Imagine a seesaw. If two people of equal weight sit at equal distances from the center, the seesaw stays balanced.\n\nTorque is also related to angular acceleration. The formula is τ = I × α, where I is the moment of inertia, and α is the angular acceleration. This is similar to F = m × a in linear motion.\n\nTorque plays a big role in rotational dynamics. It helps us understand how objects start rotating, stop rotating, or change their rotation speed. \n\nWe see applications of torque in levers and pulleys. Levers use torque to lift heavy loads with less effort. Pulleys use torque to change the direction of force, making it easier to lift things.\n\nTo calculate net torque, add up all the individual torques. Remember to consider their directions. Clockwise torques are negative, and counterclockwise torques are positive.\n\nLet's do a quick example. Suppose a 10 N force is applied 2 meters from a pivot. The angle is 90 degrees. Calculate the torque. Using τ = r × F × sin(θ), we get τ = 2 × 10 × sin(90°) = 20 Nm.\n\nJEE Main mistake note: Be careful with units and angles. Always use radians for angles when needed. Also, check the direction of each torque.\n\nKey takeaways: Torque is about rotation. It depends on force, distance, and angle. Remember the right-hand rule and the torque formulas. Practice with examples to master this topic.\n\nIn summary, torque is crucial for understanding rotational motion. It helps us solve problems in physics and engineering. Keep practicing, and you'll do great in JEE Main!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Torque",
+    "Equilibrium",
+    "Angular acceleration",
+    "Rotational dynamics",
+    "Levers"
+  ],
+  "formulas": [
+    {
+      "formula": "τ = r × F × sin(θ)",
+      "description": "Used to calculate torque when force is applied at a distance with an angle"
+    },
+    {
+      "formula": "τ = I × α",
+      "description": "Relates torque to angular acceleration and moment of inertia"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Torque",
+      "definition": "A measure of how much a force can rotate an object around a pivot point"
+    },
+    {
+      "term": "Equilibrium",
+      "definition": "A state where the net force and net torque on an object are zero"
+    }
+  ]
+}

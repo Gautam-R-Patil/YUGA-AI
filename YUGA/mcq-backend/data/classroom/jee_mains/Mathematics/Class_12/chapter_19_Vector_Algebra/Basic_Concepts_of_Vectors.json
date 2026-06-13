@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Vector Algebra",
+    "chapter_number": 19,
+    "topic": "Basic Concepts of Vectors",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:01:06.562619",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about vectors in mathematics. Vectors are very important in JEE Main. Let's start with the basics. \n\nA vector is a quantity that has both magnitude and direction. Magnitude means size or length. Direction shows where it points. For example, if you walk 5 meters east, the distance is the magnitude, and east is the direction.\n\nThere are different types of vectors. First, let's talk about the position vector. A position vector shows the position of a point from the origin. Imagine a point P in space. The vector from the origin O to P is the position vector.\n\nNext, we have the unit vector. A unit vector has a magnitude of 1. It shows direction only. We write it with a hat symbol, like \\( \\hat{i} \\), \\( \\hat{j} \\), or \\( \\hat{k} \\). These are unit vectors along the x, y, and z axes.\n\nNow, let's discuss the zero vector. A zero vector has no magnitude and no direction. It is like standing still. We write it as \\( \\vec{0} \\).\n\nVectors can be equal or parallel. Equal vectors have the same magnitude and direction. Parallel vectors have the same or opposite direction but may differ in magnitude.\n\nCollinear vectors lie on the same line. They can be in the same or opposite direction.\n\nNow, let's learn about vector addition and subtraction. To add vectors, place them head to tail. The result is a new vector from the tail of the first to the head of the last. This is called the triangle law.\n\nFor subtraction, reverse the direction of the vector you subtract and then add it.\n\nHere's a common mistake in JEE Main: forgetting to reverse the direction when subtracting vectors. Always check this step.\n\nLet's look at a simple example. If \\( \\vec{A} = 3\\hat{i} + 4\\hat{j} \\) and \\( \\vec{B} = 1\\hat{i} + 2\\hat{j} \\), then \\( \\vec{A} + \\vec{B} = (3+1)\\hat{i} + (4+2)\\hat{j} = 4\\hat{i} + 6\\hat{j} \\).\n\nRemember, vectors have both magnitude and direction. Use the Pythagorean theorem to find the magnitude. For \\( \\vec{A} = a\\hat{i} + b\\hat{j} \\), magnitude is \\( \\sqrt{a^2 + b^2} \\).\n\nKey takeaways: Know the definitions, practice vector addition and subtraction, and remember to check directions. Vectors are a big part of JEE Main, so practice is essential.\n\nIn summary, vectors help us describe motion and force. They are used in physics and engineering. Understanding vectors will help you solve many problems in JEE Main. Practice these concepts, and you will do well!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Vector",
+    "Magnitude",
+    "Direction",
+    "Unit vector",
+    "Zero vector"
+  ],
+  "formulas": [
+    {
+      "formula": "Magnitude of \\( \\vec{A} = a\\hat{i} + b\\hat{j} \\) is \\( \\sqrt{a^2 + b^2} \\)",
+      "description": "Used to find the size of a vector in JEE Main problems"
+    },
+    {
+      "formula": "Vector addition: \\( \\vec{A} + \\vec{B} = (a+c)\\hat{i} + (b+d)\\hat{j} \\)",
+      "description": "Used to add two vectors together in JEE Main questions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vector",
+      "definition": "A quantity with both magnitude and direction"
+    },
+    {
+      "term": "Position vector",
+      "definition": "A vector showing the position of a point from the origin"
+    },
+    {
+      "term": "Unit vector",
+      "definition": "A vector with a magnitude of 1, showing direction only"
+    },
+    {
+      "term": "Zero vector",
+      "definition": "A vector with no magnitude and no direction"
+    }
+  ]
+}

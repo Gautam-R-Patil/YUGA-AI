@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Physical World",
+    "chapter_number": 1,
+    "topic": "What is Physics?",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:46:50.803550",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will talk about a very interesting subject: Physics. Physics is all around us. It is the study of nature and the universe. We use physics to understand how things work. \n\nLet's start with the definition and scope of physics. Physics is the science of matter and energy. It studies how they interact. For example, when you throw a ball, physics explains how it moves. Physics covers many areas, like mechanics, heat, light, sound, electricity, and magnetism.\n\nNow, let's see the role of physics in technology and society. Physics helps us create new technology. For example, smartphones use physics principles to work. Physics also helps in medical fields. X-rays and MRI machines use physics to see inside our bodies. Without physics, many modern technologies would not exist.\n\nPhysics is an interdisciplinary science. This means it connects with other sciences. For example, chemistry and biology use physics principles. In chemistry, we use physics to understand atoms and molecules. In biology, physics helps us understand how our bodies move.\n\nLet's talk about examples of physics in everyday life. When you cook, you use heat. Heat is a topic in physics. When you listen to music, sound waves travel to your ears. This is also physics. Even when you ride a bicycle, physics explains how you balance.\n\nPhysics is a fundamental science. It means physics is the base for other sciences. Many scientific laws come from physics. For example, Newton's Laws of Motion are basic rules that explain how things move. These laws are very important in physics.\n\nNow, let's remember some key points. Physics helps us understand the world. It is important for technology and society. Physics connects with other sciences. We see physics in everyday life. And it is a fundamental science.\n\nBefore we end, here's a quick summary. Physics is the study of matter and energy. It helps in technology and connects with other sciences. We use physics every day. It is a basic science that explains the universe.\n\nI hope you enjoyed learning about physics. Remember, physics is not just in books. It's everywhere around us!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Matter",
+    "Energy",
+    "Newton's Laws",
+    "Technology",
+    "Interdisciplinary"
+  ],
+  "formulas": [
+    {
+      "formula": "F = ma",
+      "description": "Newton's Second Law of Motion, where F is force, m is mass, and a is acceleration"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Physics",
+      "definition": "The science of matter and energy and their interactions"
+    },
+    {
+      "term": "Matter",
+      "definition": "Anything that has mass and takes up space"
+    },
+    {
+      "term": "Energy",
+      "definition": "The ability to do work or cause change"
+    }
+  ]
+}

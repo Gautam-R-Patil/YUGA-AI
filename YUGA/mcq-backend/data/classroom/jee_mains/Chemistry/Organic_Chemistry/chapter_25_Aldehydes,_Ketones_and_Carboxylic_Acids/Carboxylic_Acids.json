@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+    "chapter_number": 25,
+    "topic": "Carboxylic Acids",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:28:19.438885",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Carboxylic Acids. These are important in organic chemistry and often appear in JEE Main. Let's start by understanding what a Carboxylic Acid is. A Carboxylic Acid has a special group called the carboxyl group. This group is written as -COOH. It is the reason why these acids are acidic.\n\nFirst, let's talk about Acidity. Carboxylic Acids are acidic because they can donate a hydrogen ion (H+). This happens because the carboxyl group is very stable after losing H+. Factors affecting acidity include the type of atoms attached to the carboxyl group. For example, if there is an electronegative atom like chlorine nearby, the acid is stronger. \n\nNow, let's discuss how to prepare Carboxylic Acids from alcohols. We can convert an alcohol to a Carboxylic Acid using an oxidizing agent. A common oxidizing agent is potassium permanganate (KMnO4). For example, ethanol (C2H5OH) can become acetic acid (CH3COOH) using KMnO4.\n\nNext, let's look at Decarboxylation reactions. This is when a Carboxylic Acid loses a carbon dioxide (CO2) molecule. It usually happens when you heat the acid with soda lime (NaOH + CaO). For example, if you heat acetic acid, it changes to methane (CH4).\n\nEsterification is another important reaction. Here, a Carboxylic Acid reacts with an alcohol to form an ester and water. This reaction needs an acid catalyst like sulfuric acid (H2SO4). For example, acetic acid and ethanol react to form ethyl acetate, a sweet-smelling ester.\n\nNow, let's talk about Amide formation. When a Carboxylic Acid reacts with ammonia (NH3), it forms an amide. This is important in making proteins. For example, acetic acid and ammonia form acetamide.\n\nFinally, we have Reduction to alcohols. Carboxylic Acids can be reduced to alcohols using a reducing agent like lithium aluminium hydride (LiAlH4). For example, reducing acetic acid gives ethanol.\n\nNow, let's discuss some common mistakes in JEE Main. Many students forget to balance equations in reactions. Always check your equations. Also, remember that not all Carboxylic Acids are equally acidic. Look at the structure carefully.\n\nKey takeaways: Carboxylic Acids have a -COOH group. They are acidic and can donate H+. They can be prepared from alcohols and can undergo decarboxylation, esterification, amide formation, and reduction.\n\nIn summary, Carboxylic Acids are versatile and important in organic chemistry. Understanding their reactions and properties will help you in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Carboxylic Acids",
+    "Acidity",
+    "Esterification",
+    "Amide Formation",
+    "Reduction"
+  ],
+  "formulas": [
+    {
+      "formula": "RCOOH + R'OH -> RCOOR' + H2O",
+      "description": "This is the formula for Esterification, where a Carboxylic Acid reacts with an alcohol to form an ester and water."
+    },
+    {
+      "formula": "RCOOH + NH3 -> RCONH2 + H2O",
+      "description": "This is the formula for Amide formation, where a Carboxylic Acid reacts with ammonia to form an amide and water."
+    },
+    {
+      "formula": "RCOOH + LiAlH4 -> RCH2OH",
+      "description": "This formula shows the reduction of a Carboxylic Acid to an alcohol using lithium aluminium hydride."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Carboxylic Acid",
+      "definition": "An organic compound containing a carboxyl group (-COOH)."
+    },
+    {
+      "term": "Esterification",
+      "definition": "A chemical reaction between a Carboxylic Acid and an alcohol to form an ester and water."
+    },
+    {
+      "term": "Decarboxylation",
+      "definition": "A chemical reaction where a Carboxylic Acid loses carbon dioxide (CO2)."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Amines",
+    "chapter_number": 26,
+    "topic": "Classification and Nomenclature",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:28:31.774490",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about amines. Amines are organic compounds. They have nitrogen atoms. We classify amines into three types: primary, secondary, and tertiary. \n\nLet's start with primary amines. In primary amines, one hydrogen atom in ammonia is replaced by an alkyl or aryl group. For example, in methylamine (CH3NH2), one hydrogen is replaced by a CH3 group. \n\nSecondary amines have two hydrogen atoms replaced. For example, in dimethylamine ((CH3)2NH), two hydrogen atoms are replaced by two CH3 groups. \n\nTertiary amines have all three hydrogen atoms replaced. In trimethylamine ((CH3)3N), all three hydrogens are replaced by CH3 groups.\n\nNext, we will learn about IUPAC naming. The IUPAC name for amines is based on the longest carbon chain attached to the nitrogen. For example, CH3NH2 is named methanamine. If there are additional groups, we name them as prefixes. \n\nCommon names are also used for amines. For example, CH3NH2 is often called methylamine. \n\nNow, let's discuss the structure and hybridization. Amines have a trigonal pyramidal shape. The nitrogen atom in amines is sp3 hybridized. This means it forms three sigma bonds and has one lone pair of electrons.\n\nAmines are basic in nature. This means they can accept protons (H+). The basicity of amines depends on the availability of the lone pair on nitrogen. Primary amines are usually more basic than secondary and tertiary amines.\n\nLet's compare amines with ammonia. Ammonia (NH3) is also a base. Amines are generally stronger bases than ammonia. This is because the alkyl groups in amines push electrons towards nitrogen, making the lone pair more available.\n\nIn JEE Main, you might see questions on naming or basicity. Remember to check the structure carefully. A common mistake is confusing secondary and tertiary amines. Always count the number of carbon groups attached to nitrogen.\n\nKey takeaways: \n- Primary amines have one carbon group attached. \n- Secondary amines have two, and tertiary have three. \n- IUPAC naming is based on the longest carbon chain. \n- Amines are more basic than ammonia.\n\nIn summary, understand the structure and naming of amines. Practice with examples to avoid mistakes. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Amines",
+    "Primary Amine",
+    "Secondary Amine",
+    "Tertiary Amine",
+    "Basicity"
+  ],
+  "formulas": [
+    {
+      "formula": "RNH2, R2NH, R3N",
+      "description": "General formulas for primary, secondary, and tertiary amines"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Amines",
+      "definition": "Organic compounds with a nitrogen atom bonded to alkyl or aryl groups"
+    },
+    {
+      "term": "Primary Amine",
+      "definition": "An amine where one hydrogen in ammonia is replaced by an alkyl or aryl group"
+    },
+    {
+      "term": "Secondary Amine",
+      "definition": "An amine where two hydrogens in ammonia are replaced by alkyl or aryl groups"
+    },
+    {
+      "term": "Tertiary Amine",
+      "definition": "An amine where all three hydrogens in ammonia are replaced by alkyl or aryl groups"
+    }
+  ]
+}

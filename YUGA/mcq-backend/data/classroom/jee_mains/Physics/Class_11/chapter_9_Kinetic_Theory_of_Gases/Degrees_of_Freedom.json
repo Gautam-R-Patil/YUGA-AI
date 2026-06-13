@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Kinetic Theory of Gases",
+    "chapter_number": 9,
+    "topic": "Degrees of Freedom",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:53:18.322783",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about the degrees of freedom in gases. This is part of the Kinetic Theory of Gases. First, let's understand what 'degrees of freedom' means. Degrees of freedom are the ways a molecule can move. It helps us understand how energy is spread in a gas. \n\nLet's start with translational degrees of freedom. This means moving from one place to another. For example, a gas molecule can move left-right, up-down, or forward-backward. These are three ways, so there are three translational degrees of freedom. \n\nNext, we have rotational degrees of freedom. This is about spinning around an axis. A diatomic gas, like oxygen, can spin around two axes. So, it has two rotational degrees of freedom. \n\nWe also have vibrational degrees of freedom. This is about molecules stretching and compressing. For simple gases, like monoatomic gases, vibrational degrees are usually not considered at room temperature. \n\nNow, let's talk about the Equipartition of Energy Theorem. This theorem says each degree of freedom gets equal energy. For each degree, the energy is (1/2)kT, where k is the Boltzmann constant and T is the temperature. \n\nLet's calculate degrees of freedom for gases. Monoatomic gases, like helium, have 3 translational degrees. So, total degrees are 3. Diatomic gases, like nitrogen, have 3 translational and 2 rotational degrees. So, total degrees are 5. \n\nDegrees of freedom relate to specific heat capacities. For monoatomic gases, the specific heat at constant volume (Cv) is (3/2)R. For diatomic gases, it is (5/2)R. Here, R is the gas constant. \n\nLet's solve a problem. If a diatomic gas has a temperature of 300 K, find the total energy per mole. Use the formula: Total energy = (f/2)RT, where f is degrees of freedom. For diatomic gases, f is 5. So, Total energy = (5/2) x R x 300. Remember, this is per mole. \n\nA common mistake in JEE Main is mixing up degrees of freedom for monoatomic and diatomic gases. Always check the type of gas before solving. \n\nKey takeaways: Remember the degrees of freedom for different gases. Use the Equipartition theorem to find energy. Practice calculating specific heat capacities. \n\nIn summary, degrees of freedom help us understand energy distribution in gases. It is key for solving problems in JEE Main. Make sure to practice problems and remember these concepts. \n\nThank you for listening. Keep practicing!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Degrees of Freedom",
+    "Equipartition Theorem",
+    "Monoatomic Gas",
+    "Diatomic Gas",
+    "Specific Heat"
+  ],
+  "formulas": [
+    {
+      "formula": "Energy = (f/2)RT",
+      "description": "Used to calculate total energy per mole for a gas with f degrees of freedom at temperature T"
+    },
+    {
+      "formula": "Cv = (f/2)R",
+      "description": "Specific heat capacity at constant volume for a gas with f degrees of freedom"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Degrees of Freedom",
+      "definition": "The number of independent ways a molecule can move or store energy"
+    },
+    {
+      "term": "Equipartition of Energy Theorem",
+      "definition": "Each degree of freedom gets equal energy, (1/2)kT per degree"
+    }
+  ]
+}

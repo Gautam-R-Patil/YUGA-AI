@@ -1,0 +1,320 @@
+[
+    {
+        "id": 30,
+        "question_number": "6",
+        "text": "Which of the following in sewage treatment removes suspended solids?",
+        "subject": "Biology",
+        "sub_topic": "Environmental Science",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Secondary treatment",
+            "Primary treatment",
+            "Sludge treatment",
+            "Tertiary treatment"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 30,
+        "correct_answer": "Primary treatment",
+        "basic_answer": "Primary treatment is the first step in sewage treatment that focuses on removing suspended solids through physical processes like sedimentation. This stage separates solids from liquids, allowing for further treatment phases.",
+        "explanation": "### Core Concept\nSewage treatment is a multi-step process designed to purify wastewater. It is divided into stages based on whether the methods used are physical, biological, or chemical.\n\n### Solution\nPrimary treatment is essentially a physical process. It involves the removal of large and small particles from sewage through sequential filtration and sedimentation. \n1.  Filtration: Removes floating debris like plastic and paper.\n2.  Sedimentation: Grit (soil and small pebbles) is allowed to settle. The settled solids form the primary sludge, while the floating liquid is called the effluent, which is then moved to the secondary stage.\n\n\n\n### Why This Answer\nPrimary treatment is the correct choice because its primary function is the mechanical removal of suspended solids. Secondary treatment is a biological process involving microbes, and Tertiary treatment involves chemical disinfection.\n\n### Common Mistakes\n* Confusing Stages: Thinking that microbes (Secondary) are used to remove solids. Bacteria are actually used to consume dissolved organic matter after the solids are removed.\n* Sludge Misunderstanding: Assuming \"sludge treatment\" is the phase that removes solids from the incoming water; sludge treatment is what happens to the solids *after* they have been collected.",
+        "keywords": {
+            "SS": "Suspended Solids",
+            "PT": "Primary Treatment",
+            "ST": "Sewage Treatment",
+            "S": "Sedimentation"
+        }
+    },
+    {
+        "id": 31,
+        "question_number": "7",
+        "text": "An important characteristic that Hemichordates share with Chordates is:",
+        "subject": "Biology",
+        "sub_topic": "Animal Kingdom",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Ventral tubular nerve cord",
+            "Pharynx with gill slits",
+            "Pharynx without gill slits",
+            "Absence of notochord"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 31,
+        "correct_answer": "Pharynx with gill slits",
+        "basic_answer": "The similarity between Hemichordates and Chordates lies in their pharyngeal structure, specifically the presence of gill slits which indicates evolutionary connection. \n\nHence the answer is 'B'.",
+        "explanation": "### Core Concept\nHemichordates were previously classified as a sub-phylum of Chordata due to several shared physical traits. Although now considered a separate phylum, they are notable for their anatomical similarities to true chordates.\n\n### Solution\nOne of the fundamental diagnostic features of Phylum Chordata is the presence of pharyngeal gill slits at some stage of life. Hemichordates also possess paired pharyngeal gill slits used for respiration and feeding, making this a shared characteristic.\n\n\n\n### Why This Answer\nWhile both have pharyngeal gill slits, their other systems differ. \n* Hemichordates have a ventral nerve cord, whereas Chordates have a dorsal one.\n* Hemichordates lack a true notochord (possessing a stomochord instead).\n\n### Common Mistakes\n* Nerve Cord Orientation: Forgetting that Chordates are distinguished by a dorsal hollow nerve cord, not a ventral one.\n* Notochord confusion: Thinking hemichordates have a notochord. The stomochord in their collar region was once mistaken for a notochord, but it is a distinct structure.",
+        "keywords": {}
+    },
+    {
+        "id": 32,
+        "question_number": "119",
+        "text": "Inhibition of Succinic dehydrogenase enzyme by malonate is a classical example of:",
+        "subject": "Biology",
+        "sub_topic": "Enzyme Inhibition",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (28)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Feedback inhibition",
+            "Competitive inhibition",
+            "Enzyme activation",
+            "Cofactor inhibition"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (28).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 3165,
+        "correct_answer": "Competitive inhibition",
+        "basic_answer": "Competitive inhibition occurs when a molecule, such as malonate, resembles the substrate and binds to the active site of an enzyme, preventing the actual substrate from binding. This type of inhibition can be overcome by increasing the substrate concentration. \n\nHence the answer is competitive inhibition.",
+        "explanation": "### Core Concept\nCompetitive inhibition happens when an inhibitor molecule closely mimics the chemical structure of the natural substrate. Because of this similarity, the inhibitor competes with the substrate for access to the enzyme's active site.\n\n### Solution\nIn the metabolic pathway of respiration, the enzyme Succinic dehydrogenase acts on its substrate, Succinate. The chemical Malonate is structurally similar to succinate. When malonate is present, it binds to the active site of the enzyme, effectively \"blocking the door\" for succinate and stopping the reaction.\n\n\n\n### Why This Answer\nThis is a textbook example of competitive inhibition. It can be reversed by increasing the concentration of the actual substrate (succinate), which eventually \"out-competes\" the malonate for the enzyme's binding sites.\n\n### Common Mistakes\n* Feedback Inhibition: Thinking this is feedback inhibition. Feedback occurs when the end product of a pathway stops an earlier step; malonate is an external inhibitor, not a product of the Krebs cycle.\n* Non-competitive Inhibition: Assuming the inhibitor binds elsewhere on the enzyme; competitive inhibitors specifically target the active site.",
+        "keywords": {}
+    },
+    {
+        "id": 33,
+        "question_number": "1",
+        "text": "The final proof for DNA as the genetic material came from the experiments of:",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Hershey and chase",
+            "Avery, McLeod and McCarty",
+            "Har Gobind Khorana",
+            "Griffith"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 33,
+        "correct_answer": "Hershey and chase",
+        "basic_answer": "Hershey and Chase conducted experiments that demonstrated DNA is the genetic material by using radioactive labeling of DNA and protein. Their findings showed that only DNA entered bacterial cells during infection. \n\nHence the answer is A.",
+        "explanation": "### Core Concept\nBefore the 1950s, many scientists believed proteins were the genetic material. Several key experiments gradually proved otherwise, leading to an unequivocal conclusion.\n\n### Solution\nIn 1952, Alfred Hershey and Martha Chase performed experiments using Bacteriophages (viruses that infect bacteria). They used radioactive Sulfur ($^{35}S$) to label viral protein and radioactive Phosphorus ($^{32}P$) to label viral DNA. They proved that only the DNA entered the bacterial cell during infection, meaning DNA carries the information.\n\n\n\n### Why This Answer\nWhile Avery, MacLeod, and McCarty provided biochemical evidence that DNA was the transforming principle, many remained unconvinced. The Hershey-Chase experiment is historically recognized as the \"final proof\" that was accepted by the entire scientific community.\n\n### Common Mistakes\n* Griffith: Thinking Griffith proved DNA was genetic material. He only discovered a \"transforming principle\" but didn't know its chemical nature.\n* Avery's Team: Forgetting that although their work was more precise, the Hershey-Chase blender experiment is the one credited as the \"final/unequivocal\" proof.",
+        "keywords": {}
+    },
+    {
+        "id": 34,
+        "question_number": "116",
+        "text": "The equation of Verhulst-Pearl logistic growth is dN/dt = rN[(K − N)/K]. From this equation, K indicates:",
+        "subject": "Biology",
+        "sub_topic": "Population Ecology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (28)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Biotic potential",
+            "Carrying capacity",
+            "Population density",
+            "Intrinsic rate of natural increase"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (28).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 3164,
+        "correct_answer": "Carrying capacity",
+        "basic_answer": "K represents the carrying capacity in the logistic growth model, indicating the maximum population size that an environment can sustain. Hence the answer is 'carrying capacity'.",
+        "explanation": "### Core Concept\nPopulation growth in nature is rarely infinite because of limited resources. The Logistic Growth model (represented by an S-shaped curve) accounts for these environmental limits.\n\n### Solution\nIn the equation $dN/dt = rN[(K-N)/K]$:\n* N: Population density at time t.\n* r: Intrinsic rate of natural increase.\n* K: Carrying Capacity, which is the maximum population size an environment can support indefinitely based on food, habitat, and other necessities.\n\n\n\n### Why This Answer\nWhen the population size (N) reaches the carrying capacity (K), the growth rate ($dN/dt$) becomes zero because the environment cannot support any more individuals. This makes K the defining limit of the ecosystem.\n\n### Common Mistakes\n* Confusing K and r: Thinking K is the speed of growth. r is the growth *rate*, whereas K is the growth *limit*.\n* Biotic Potential: Assuming K is the same as biotic potential. Biotic potential is the maximum reproductive capacity under *unlimited* resources (exponential growth).",
+        "keywords": {
+            "K": "Carrying capacity"
+        }
+    },
+    {
+        "id": 35,
+        "question_number": "3",
+        "text": "Among the following characters, which one was not considered by Mendel in his experiments on pea?",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Trichomes-Gladular or non-gladular",
+            "Seed-green or yellow",
+            "Pod-inflated or constricted",
+            "Stem-Tall or Dwarf"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 35,
+        "correct_answer": "Trichomes-Gladular or non-gladular",
+        "basic_answer": "Mendel's experiments focused on observable traits such as seed color, pod shape, and stem height. However, trichomes, which refer to hair-like structures on plant surfaces, were not part of his selected phenotypic traits. \n\nHence the answer is A.",
+        "explanation": "### Core Concept\nGregor Mendel famously studied the inheritance of specific traits in the garden pea (*Pisum sativum*). He intentionally selected seven pairs of contrasting characters that were distinct and easy to track.\n\n### Solution\nMendel's seven traits were:\n1. Stem height (Tall/Dwarf)\n2. Flower color (Violet/White)\n3. Flower position (Axial/Terminal)\n4. Pod shape (Inflated/Constricted)\n5. Pod color (Green/Yellow)\n6. Seed shape (Round/Wrinkled)\n7. Seed color (Yellow/Green)\n\n\n\n### Why This Answer\nTrichomes (tiny epidermal hairs) were not among the traits Mendel used for his laws of inheritance. All other options (seed color, pod shape, stem height) were essential parts of his study.\n\n### Common Mistakes\n* Confusing Pod vs Seed colors: Yellow seeds and Green pods are the dominant forms. Students often mix up which color is dominant for which part.\n* Assuming Leaf Traits: Many assume leaf shape was a trait; Mendel focused on the reproductive parts and stem height.",
+        "keywords": {
+            "P": "Pea plant",
+            "S": "Seed",
+            "C": "Color",
+            "H": "Height",
+            "T": "Trichomes",
+            "Pₛₕₐₚₑ": "Pod shape"
+        }
+    },
+    {
+        "id": 36,
+        "question_number": "5",
+        "text": "Plants which produce characteristic pneumatophores and show vivipary belong to:",
+        "subject": "Botany",
+        "sub_topic": "Plant Adaptations",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Halophytes",
+            "Psammophytes",
+            "Hydrophytes",
+            "Mesophytes"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 36,
+        "correct_answer": "Halophytes",
+        "basic_answer": "Pneumatophores are specialized aerial roots that help plants, particularly halophytes, adapt to saline environments by facilitating gas exchange. Vivipary is the phenomenon where seeds germinate while still attached to the parent plant, common in mangroves which are also halophytes. \n\nTherefore, halophytes are the answer.",
+        "explanation": "### Core Concept\nPlants growing in specialized environments like saline marshes (mangroves) develop unique survival strategies to handle low oxygen in soil and high salinity.\n\n### Solution\nHalophytes exhibit two major hallmark adaptations:\n1.  Pneumatophores: These are \"breathing roots\" that grow vertically upwards from the underground roots to get oxygen from the air since the swampy mud is anaerobic.\n2.  Vivipary: Since the surrounding salty water would kill a normal seed, halophytes germinate their seeds while they are still attached to the parent tree, allowing them to drop into the mud as ready-to-grow seedlings.\n\n\n\n### Why This Answer\nThese specific traits are diagnostic for Halophytes (salt-tolerant plants). Hydrophytes are water plants, Psammophytes grow on sand, and Mesophytes grow in moderate conditions; none of these require pneumatophores and vivipary.\n\n### Common Mistakes\n* Confusing Hydrophytes and Halophytes: Thinking all plants in water are hydrophytes. Halophytes are specifically for saline (salty) waterlogged soil.\n* Misunderstanding Vivipary: Thinking it means the plant gives birth like a mammal; in botany, it specifically refers to seed germination on the parent plant.",
+        "keywords": {
+            "P": "Pneumatophores",
+            "V": "Vivipary",
+            "H": "Halophytes"
+        }
+    },
+    {
+        "id": 37,
+        "question_number": "6",
+        "text": "Which of the following components provides sticky character to the bacterial cell?",
+        "subject": "Biology",
+        "sub_topic": "Cell Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Nuclear membrane",
+            "Plasma membrane",
+            "Glycocalyx",
+            "Cell Wall"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 37,
+        "correct_answer": "Glycocalyx",
+        "basic_answer": "Glycocalyx is a sticky layer around the cell that enables bacteria to adhere to surfaces and each other. This structure is primarily composed of polysaccharides and glycoproteins, contributing to its sticky nature.",
+        "explanation": "### Core Concept\nBacterial cells have a cell envelope that can have up to three layers: the plasma membrane, the cell wall, and an outermost specialized layer.\n\n### Solution\nThe Glycocalyx is the outermost coating. It can be a loose sheath (slime layer) or a thick, tough layer (capsule). Because it is made of polysaccharides and proteins, it has a naturally \"sticky\" or adhesive quality that helps bacteria stick to host tissues (like teeth) or each other to form colonies.\n\n\n\n### Why This Answer\nGlycocalyx is the only part responsible for adhesion/stickiness. \n* The *Cell Wall* provides rigid structure. \n* The *Plasma Membrane* handles transport.\n* Bacteria do not have *Nuclear membranes* (they are prokaryotes).\n\n### Common Mistakes\n* Attributing stickiness to the Wall: Thinking the cell wall is what makes a bacterium stick. The wall is for protection; the glycocalyx is the \"glue.\"\n* Nuclear membrane error: Forgetting that prokaryotes specifically lack organized nuclear structures.",
+        "keywords": {}
+    },
+    {
+        "id": 38,
+        "question_number": "7",
+        "text": "The pivot joint between atlas and axis is a type of:",
+        "subject": "Biology",
+        "sub_topic": "Human Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Cartilaginous joint",
+            "Synovial joint",
+            "Saddle joint",
+            "Fibrous joint"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 38,
+        "correct_answer": "Synovial joint",
+        "basic_answer": "The pivot joint between the atlas and axis allows for rotation of the head. This type of joint is classified as a synovial joint due to its structure and function, enabling a wide range of motion. \n\nTherefore, the answer is option B.",
+        "explanation": "### Core Concept\nJoints are categorized based on their structure and the degree of movement they allow. Synovial joints are the most common and most movable joints in the body, characterized by a fluid-filled cavity.\n\n### Solution\nThe joint between the first cervical vertebra (Atlas) and the second (Axis) is a pivot joint. It allows you to rotate your head (turning it side to side). Like all free-moving pivot, hinge, or ball-and-socket joints, it belongs to the broader class of Synovial joints.\n\n\n\n### Why This Answer\nSynovial joint is the correct categorical name for joints that contain synovial fluid and allow significant movement. \n* *Fibrous joints* (like skull sutures) are immovable. \n* *Cartilaginous joints* (like between most other vertebrae) allow only limited movement.\n\n### Common Mistakes\n* Confusing with other vertebrae: Thinking all spinal joints are cartilaginous. While most are, the Atlas and Axis have a unique synovial connection to facilitate head rotation.",
+        "keywords": {}
+    },
+    {
+        "id": 39,
+        "question_number": "115",
+        "text": "Which one of the following is not a criterion for classification of fungi?",
+        "subject": "Biology",
+        "sub_topic": "Fungi",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (28)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Mode of nutrition",
+            "Mode of spore formation",
+            "Fruiting body",
+            "Morphology of mycelium"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (28).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 3163,
+        "correct_answer": "Mode of nutrition",
+        "basic_answer": "According to NCERT, fungi are classified mainly on morphology of mycelium, mode of spore formation and type of fruiting body. While most fungi are heterotrophic (saprophytes, parasites, etc.), mode of nutrition is not used as a primary criterion for classification. \n\nHence, 'Mode of nutrition' is the option that is not a criterion for fungal classification.",
+        "explanation": "### Core Concept\nFungi are classified into different classes (Phycomycetes, Ascomycetes, Basidiomycetes, Deuteromycetes) based on shared anatomical and reproductive characteristics as defined in biological taxonomy.\n\n### Solution\nThe Kingdom Fungi is divided into major groups based on three key physical/life-cycle factors:\n1.  Morphology of Mycelium: The structure of the hyphae (septate vs aseptate).\n2.  Mode of Spore Formation: How they reproduce.\n3.  Type of Fruiting Body: The structure that bears the spores.\n\n### Why This Answer\nMode of nutrition is not a criterion for classification because virtually all fungi share the same mode: they are all heterotrophic (mostly saprophytes or parasites). Since they are uniform in this regard, it cannot be used to distinguish one group from another.\n\n### Common Mistakes\n* Assuming ecological roles define taxonomy: Thinking that \"parasitic vs saprophytic\" is a taxonomic divider. It is an ecological role, but fungi from different classes can share these roles.\n* Morphology Confusion: Overlooking mycelium structure, which is the most basic physical trait used to separate primitive fungi from advanced ones.",
+        "keywords": {}
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Hydrogen",
+    "chapter_number": 14,
+    "topic": "Water and Hydrogen Peroxide",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:15:26.395951",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about water and hydrogen peroxide. These are important topics in the JEE Main exam. Let's start with water. Water is a simple molecule. Its chemical formula is H2O. This means it has two hydrogen atoms and one oxygen atom. The structure of water is bent or V-shaped. This shape is due to the two lone pairs of electrons on oxygen.\n\nWater has special properties because of hydrogen bonding. Hydrogen bonding is a weak bond. It forms between a hydrogen atom and an electronegative atom like oxygen. This bond makes water a liquid at room temperature. It also gives water a high boiling point. For example, water boils at 100°C.\n\nNow, let's talk about hydrogen peroxide. Its chemical formula is H2O2. It has two hydrogen atoms and two oxygen atoms. The structure of hydrogen peroxide is non-linear. It is an open book-like structure. Hydrogen peroxide is less stable than water. It decomposes into water and oxygen gas. The equation is: 2H2O2 → 2H2O + O2.\n\nWe can compare water and hydrogen peroxide. Water is more stable. It does not decompose easily. Hydrogen peroxide is a good oxidizing agent. It is used in bleaching and disinfecting.\n\nBoth water and hydrogen peroxide have industrial uses. Water is used in cooling systems and as a solvent. Hydrogen peroxide is used in paper and textile industries. It is also used in wastewater treatment.\n\nLet's look at some common JEE Main questions. One question might ask about the boiling point of water. Remember, the high boiling point is due to hydrogen bonding. Another question could be about the decomposition of hydrogen peroxide. Remember the equation: 2H2O2 → 2H2O + O2.\n\nA common mistake is confusing the properties of water and hydrogen peroxide. Remember, water is stable, and hydrogen peroxide decomposes easily.\n\nIn summary, water and hydrogen peroxide are important compounds. Water is stable and has a high boiling point due to hydrogen bonding. Hydrogen peroxide is less stable and decomposes into water and oxygen. Both have important industrial uses.\n\nKeep these points in mind for your JEE Main exam. Practice questions on these topics to avoid mistakes. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Water",
+    "Hydrogen Peroxide",
+    "Hydrogen Bonding",
+    "Boiling Point",
+    "Decomposition"
+  ],
+  "formulas": [
+    {
+      "formula": "2H2O2 → 2H2O + O2",
+      "description": "This formula shows the decomposition of hydrogen peroxide into water and oxygen. It is important for questions on reactivity and decomposition."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Hydrogen Bonding",
+      "definition": "A weak bond between a hydrogen atom and an electronegative atom like oxygen."
+    },
+    {
+      "term": "Oxidizing Agent",
+      "definition": "A substance that can accept electrons and bring about oxidation."
+    }
+  ]
+}

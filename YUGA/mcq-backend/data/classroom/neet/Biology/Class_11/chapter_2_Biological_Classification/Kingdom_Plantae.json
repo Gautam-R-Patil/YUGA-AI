@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Biological Classification",
+    "chapter_number": 2,
+    "topic": "Kingdom Plantae",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:33:02.594577",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will explore the Kingdom Plantae. This is a very important topic for your NEET exams. Let's start by understanding what makes plants unique. \n\nFirstly, plants are multicellular. This means they have many cells. These cells work together to help the plant live and grow. Plants are also autotrophic. This means they make their own food. They do this through a process called photosynthesis. In photosynthesis, plants use sunlight to turn carbon dioxide and water into food. \n\nNow, let's look at some examples of plants. Mosses are small and often found in damp places. Ferns are bigger and have leaves that look like feathers. Conifers are trees that have cones, like pine trees. Flowering plants are the most common. They have flowers and produce seeds. \n\nPlants reproduce in a special way. They have something called alternation of generations. This means they have two life stages. One stage makes spores, and the other makes gametes, which are like plant eggs and sperm. This helps them spread and grow in different places. \n\nPlants play a big role in our ecosystems. They produce oxygen, which we need to breathe. They are also a food source for many animals, including humans. Without plants, life on Earth would be very difficult. \n\nBesides their role in nature, plants are also very important for our economy. Agriculture depends on plants. We grow crops like rice and wheat for food. Plants are also used in medicine. Many medicines come from plants, like aspirin from willow bark. \n\nNow, let's clear up some common mistakes. Some students think all plants have flowers, but that's not true. Mosses and ferns do not have flowers. Also, remember that not all plants make seeds. Mosses and ferns use spores instead. \n\nTo sum up, plants are multicellular and autotrophic. They have a special way of reproducing and are vital for life on Earth. They are also important for agriculture and medicine. Remember these key points for your NEET exams!\n\nThank you for listening. Keep studying, and you'll do great!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Kingdom Plantae",
+    "Multicellular",
+    "Autotrophic",
+    "Photosynthesis",
+    "Alternation of generations"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Multicellular",
+      "definition": "Having many cells that work together."
+    },
+    {
+      "term": "Autotrophic",
+      "definition": "Able to make own food using sunlight."
+    },
+    {
+      "term": "Photosynthesis",
+      "definition": "Process where plants use sunlight to make food."
+    },
+    {
+      "term": "Alternation of generations",
+      "definition": "Life cycle with two stages: one makes spores, the other makes gametes."
+    }
+  ]
+}

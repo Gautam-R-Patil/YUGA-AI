@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_12",
+    "chapter": "Solutions",
+    "chapter_number": 2,
+    "topic": "Types of Solutions",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:14:51.160848",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about types of solutions. Solutions are important in chemistry. A solution is a mixture. It has two parts: solute and solvent. The solute is the substance that dissolves. The solvent is the substance that does the dissolving. For example, when you mix sugar in water, sugar is the solute and water is the solvent. \n\nNow, let's talk about different types of solutions based on solute-solvent interactions. First, we have gas in liquid solutions. A common example is carbonated drinks. Here, carbon dioxide gas is dissolved in water. Next, we have liquid in liquid solutions. An example is vinegar, where acetic acid is dissolved in water. \n\nLet's move to concentration terms. Concentration tells us how much solute is in a solution. One term is Molarity. Molarity is the number of moles of solute per liter of solution. Molality is another term. It is the number of moles of solute per kilogram of solvent. Normality is yet another term. It is the number of equivalents of solute per liter of solution. Finally, we have Mole Fraction. It is the ratio of moles of solute to the total moles of all components. \n\nNext, let's discuss dilute and concentrated solutions. A dilute solution has a small amount of solute. A concentrated solution has a large amount of solute. For example, a weak tea is a dilute solution, while a strong tea is a concentrated solution. \n\nNow, let's talk about saturated, unsaturated, and supersaturated solutions. A saturated solution holds the maximum amount of solute at a given temperature. An unsaturated solution can dissolve more solute. A supersaturated solution holds more solute than it normally can at a given temperature. Be careful! If you add more solute to a supersaturated solution, it will start to crystallize. \n\nLet's learn some key terms. Solubility is how much solute can dissolve in a solvent at a certain temperature. Solvation is the process of solute particles being surrounded by solvent particles. Hydration is solvation when the solvent is water. \n\nFinally, let's talk about an important scientist, William Henry. Henry's Law states that the amount of gas dissolved in a liquid is proportional to the pressure of the gas above the liquid. This law helps us understand why soda fizzes when opened. \n\nRemember, solutions are everywhere! They are in the air we breathe and the drinks we enjoy. \n\nTo sum up, solutions can be gas in liquid or liquid in liquid. Concentration terms like Molarity and Molality are important. Solutions can be dilute or concentrated. They can also be saturated, unsaturated, or supersaturated. Understanding these concepts is key for NEET exams. Keep practicing and reviewing these terms. Good luck!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Solution",
+    "Solute",
+    "Solvent",
+    "Molarity",
+    "Henry's Law"
+  ],
+  "formulas": [
+    {
+      "formula": "Molarity (M) = moles of solute / liters of solution",
+      "description": "Molarity is a way to express concentration of a solution."
+    },
+    {
+      "formula": "Molality (m) = moles of solute / kilograms of solvent",
+      "description": "Molality is another way to express concentration, using mass of solvent."
+    },
+    {
+      "formula": "Normality (N) = equivalents of solute / liters of solution",
+      "description": "Normality is used for reactions involving equivalents."
+    },
+    {
+      "formula": "Mole Fraction (X) = moles of component / total moles of all components",
+      "description": "Mole Fraction is the ratio of moles of one component to total moles."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Solution",
+      "definition": "A mixture of two or more substances where one is dissolved in the other."
+    },
+    {
+      "term": "Solvent",
+      "definition": "The substance in which the solute dissolves."
+    },
+    {
+      "term": "Solute",
+      "definition": "The substance that is dissolved in the solvent."
+    },
+    {
+      "term": "Solubility",
+      "definition": "The maximum amount of solute that can dissolve in a solvent at a given temperature."
+    },
+    {
+      "term": "Hydration",
+      "definition": "The process of solute particles being surrounded by water molecules."
+    }
+  ]
+}

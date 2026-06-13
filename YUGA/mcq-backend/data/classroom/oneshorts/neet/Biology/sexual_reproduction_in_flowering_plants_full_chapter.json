@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "12",
+    "chapter": "Sexual Reproduction in Flowering Plants",
+    "chapter_number": "24",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:35:51.201475",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise the essential aspects of Sexual Reproduction in Flowering Plants, a key chapter for NEET. Flowering plants reproduce sexually by forming seeds from flowers, which are their reproductive structures.\n\n1. Structure of Flower: The flower comprises essential parts like sepals, petals, stamens (male reproductive part), and carpels (female reproductive part). Stamen consists of anther and filament, while the carpel includes the stigma, style, and ovary.\n\n2. Microsporogenesis: This is the formation of microspores or pollen grains from microspore mother cells inside the anther. The process involves meiosis, producing haploid microspores.\n\n3. Megasporogenesis: It involves the formation of megaspores from megaspore mother cells in the ovule. Typically, one of the resulting megaspores develops into the female gametophyte, or embryo sac.\n\n4. Pollination: Transfer of pollen from anther to stigma. It can be self (within the same flower) or cross-pollination (between different flowers). Cross-pollination can occur via wind, water, or animals.\n\n5. Fertilization: After pollination, pollen grains germinate on the stigma, growing a pollen tube towards the ovule. It leads to the fusion of male and female gametes, forming a zygote.\n\n6. Double Fertilization: Unique to angiosperms, involves fusion of one sperm with the egg (forming a zygote) and another sperm with two polar nuclei to form triploid endosperm.\n\n7. Post-fertilization Changes: Ovule transforms into seed, and ovary becomes fruit. Ovule integuments form seed coat; embryo develops into a new plant.\n\nKey Formula/Idea:\n- Understanding pollen tube growth and double fertilization process\n\nNEET Question Pattern: NEET often asks about structures involved in reproduction (like flower parts), mechanisms like double fertilization, and processes of micro- and megasporogenesis.\n\nQuick Revision Points:\n1. Flower structures: sepals, petals, stamens, carpels.\n2. Microsporogenesis and megasporogenesis involve meiosis.\n3. Pollination can be self or cross, enabled by various agents.\n4. Fertilization involves pollen tube growth and gamete fusion.\n5. Double fertilization creates both zygote and endosperm.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Flower structure",
+    "Microsporogenesis",
+    "Megasporogenesis",
+    "Pollination",
+    "Fertilization",
+    "Double Fertilization",
+    "Zygote",
+    "Embryo Sac",
+    "Pollen Tube",
+    "Seed Formation"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Flower structure",
+      "definition": "The composition of a flower, including its reproductive and non-reproductive parts."
+    },
+    {
+      "term": "Microsporogenesis",
+      "definition": "The process of formation of microspores from a microspore mother cell through meiosis."
+    },
+    {
+      "term": "Megasporogenesis",
+      "definition": "The process of formation of megaspores from a megaspore mother cell through meiosis."
+    },
+    {
+      "term": "Pollination",
+      "definition": "The transfer of pollen grains from the male anther to the female stigma."
+    },
+    {
+      "term": "Fertilization",
+      "definition": "The fusion of male and female gametes to form a zygote."
+    },
+    {
+      "term": "Double Fertilization",
+      "definition": "A process in flowering plants where one sperm fertilizes an egg and another fuses with two polar nuclei, forming a triploid endosperm."
+    },
+    {
+      "term": "Zygote",
+      "definition": "A fertilized egg cell formed by the fusion of male and female gametes."
+    },
+    {
+      "term": "Embryo Sac",
+      "definition": "The female gametophyte within the ovule of a flowering plant."
+    },
+    {
+      "term": "Pollen Tube",
+      "definition": "A tube that forms after pollination to transport sperm cells to the ovule."
+    },
+    {
+      "term": "Seed Formation",
+      "definition": "The process of embryo development into a seed post-fertilization."
+    }
+  ]
+}

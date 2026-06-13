@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Mathematical Reasoning",
+    "chapter_number": 11,
+    "topic": "Statements and Logical Connectives",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:54:23.846120",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Mathematical Reasoning, an important topic for JEE Main. Let's start with the basics.\n\nFirst, we need to understand what a 'statement' is. A statement is a sentence that is either true or false, but not both. For example, 'The sky is blue' is a statement. It is either true or false, depending on the weather.\n\nNow, let's talk about logical connectives. These are words that connect statements. The main connectives are 'and', 'or', and 'not'.\n\n- 'And' means both parts must be true. For example, 'It is raining and cold' is true only if both conditions are true.\n- 'Or' means at least one part is true. For example, 'It is raining or cold' is true if one or both conditions are true.\n- 'Not' means the opposite. If a statement is true, 'not' makes it false.\n\nNext, we have implication and biconditional.\n\n- Implication is 'if...then...'. It means if the first part is true, then the second part must also be true. For example, 'If it rains, then the ground is wet'.\n- Biconditional is 'if and only if'. It means both parts are true or both are false. For example, 'You pass if and only if you score above 40'.\n\nWe use truth tables to show how these work. A truth table lists all possible truth values of a statement.\n\nLet's see logical equivalence. Two statements are logically equivalent if they always have the same truth value. For example, 'not (A or B)' is equivalent to 'not A and not B'.\n\nTautologies and contradictions are next.\n\n- A tautology is a statement that is always true. For example, 'A or not A'.\n- A contradiction is always false. For example, 'A and not A'.\n\nNow, let's discuss negation. Negation is making a statement false if it is true, and vice versa. For example, the negation of 'The sky is blue' is 'The sky is not blue'.\n\nWe also have converse, inverse, and contrapositive.\n\n- Converse flips the statement. 'If A, then B' becomes 'If B, then A'.\n- Inverse negates both parts. 'If A, then B' becomes 'If not A, then not B'.\n- Contrapositive flips and negates. 'If A, then B' becomes 'If not B, then not A'.\n\nNext are quantifiers: universal and existential.\n\n- Universal quantifier means 'for all'. For example, 'All birds can fly'.\n- Existential quantifier means 'there exists'. For example, 'Some birds cannot fly'.\n\nFinally, let's talk about logical arguments and validity. A logical argument is a series of statements that lead to a conclusion. It is valid if the conclusion follows from the premises.\n\nNow, let's look at some common JEE Main mistakes. Students often confuse 'and' and 'or'. Remember, 'and' needs both true, 'or' needs one true.\n\nKey takeaways: Understand statements and connectives, use truth tables, and know logical equivalence. Practice with examples to avoid mistakes.\n\nIn summary, Mathematical Reasoning helps us think clearly. It is about understanding and connecting ideas. Practice these concepts to do well in JEE Main.\n\nThat's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Statement",
+    "Logical Connective",
+    "Implication",
+    "Truth Table",
+    "Quantifier"
+  ],
+  "formulas": [
+    {
+      "formula": "A and B",
+      "description": "True only if both A and B are true"
+    },
+    {
+      "formula": "A or B",
+      "description": "True if either A or B or both are true"
+    },
+    {
+      "formula": "not A",
+      "description": "True if A is false, false if A is true"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Statement",
+      "definition": "A sentence that is either true or false"
+    },
+    {
+      "term": "Logical Connective",
+      "definition": "Words like 'and', 'or', 'not' that connect statements"
+    },
+    {
+      "term": "Implication",
+      "definition": "'If...then...' statement connecting two statements"
+    },
+    {
+      "term": "Truth Table",
+      "definition": "Table showing all possible truth values of a statement"
+    },
+    {
+      "term": "Quantifier",
+      "definition": "Words like 'for all' or 'there exists' showing quantity"
+    }
+  ]
+}

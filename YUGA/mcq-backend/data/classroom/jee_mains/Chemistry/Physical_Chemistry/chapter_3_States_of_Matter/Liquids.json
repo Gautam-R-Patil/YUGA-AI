@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "States of Matter",
+    "chapter_number": 3,
+    "topic": "Liquids",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:05:06.840714",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about liquids in the chapter States of Matter. You already know about solids and gases. Now, let's focus on liquids. Liquids have unique properties that we need to understand for JEE Main.\n\nFirst, let's talk about the properties of liquids. Liquids have a definite volume but no definite shape. They take the shape of their container. This is different from solids, which have a fixed shape. One important property of liquids is vapor pressure. Vapor pressure is the pressure exerted by the vapor of a liquid when it is in equilibrium with its liquid form. In simple words, it's how much pressure the vapor of the liquid can create. If a liquid has high vapor pressure, it evaporates easily.\n\nNext, we have the boiling point. The boiling point is the temperature at which a liquid turns into a gas. At this point, the vapor pressure equals the atmospheric pressure. A common mistake in JEE Main is confusing boiling point with evaporation. Remember, boiling happens throughout the liquid, while evaporation is only at the surface.\n\nLet's move on to surface tension. Surface tension is the force that makes the surface of a liquid act like a stretched elastic sheet. This is why small insects can walk on water. Surface tension is due to the intermolecular forces between liquid molecules. When solving JEE Main questions, remember that stronger intermolecular forces mean higher surface tension.\n\nNow, let's discuss viscosity. Viscosity is the resistance of a liquid to flow. Honey is more viscous than water. In JEE Main, you may need to know that liquids with strong intermolecular forces have higher viscosity.\n\nCapillary action is another interesting property. It is the ability of a liquid to flow in narrow spaces without external forces. This is why water can rise in a thin tube. Capillary action is due to cohesion and adhesion. Cohesion is the attraction between similar molecules, like water to water. Adhesion is the attraction between different molecules, like water to glass.\n\nTemperature affects these properties. For example, if you increase the temperature, the vapor pressure increases. This means the liquid will evaporate faster. Also, as temperature increases, viscosity decreases. So, liquids flow more easily when they are warm.\n\nFinally, let's talk about intermolecular forces. These are forces between molecules that hold them together. Strong intermolecular forces mean higher boiling points and higher viscosities.\n\nLet's do a quick example. If you know the vapor pressure of a liquid at a certain temperature, you can find the boiling point. When vapor pressure equals atmospheric pressure, the liquid boils.\n\nCommon JEE Main mistake: Students often mix up terms like cohesion and adhesion. Remember, cohesion is between similar molecules, adhesion is between different ones.\n\nKey takeaways: Liquids have definite volume, vapor pressure, boiling points, surface tension, viscosity, and capillary action. Temperature affects these properties. Intermolecular forces play a big role in determining these properties.\n\nIn summary, understanding these properties of liquids will help you solve many JEE Main questions. Practice these concepts and remember the common mistakes to avoid them.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Properties of Liquids",
+    "Vapor Pressure",
+    "Boiling Point",
+    "Surface Tension",
+    "Viscosity"
+  ],
+  "formulas": [
+    {
+      "formula": "Vapor Pressure = Atmospheric Pressure at Boiling Point",
+      "description": "Used to find the boiling point of a liquid when its vapor pressure equals atmospheric pressure"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Vapor Pressure",
+      "definition": "The pressure exerted by the vapor of a liquid in equilibrium with its liquid form"
+    },
+    {
+      "term": "Boiling Point",
+      "definition": "The temperature at which a liquid turns into a gas, when its vapor pressure equals atmospheric pressure"
+    },
+    {
+      "term": "Surface Tension",
+      "definition": "The force that makes the surface of a liquid act like a stretched elastic sheet"
+    },
+    {
+      "term": "Viscosity",
+      "definition": "The resistance of a liquid to flow"
+    },
+    {
+      "term": "Capillary Action",
+      "definition": "The ability of a liquid to flow in narrow spaces without external forces"
+    }
+  ]
+}

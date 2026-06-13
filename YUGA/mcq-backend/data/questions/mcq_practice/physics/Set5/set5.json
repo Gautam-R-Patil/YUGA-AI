@@ -1,0 +1,375 @@
+[
+    {
+        "id": 40,
+        "question_number": "164",
+        "text": "If a diamagnetic substance is brought near the north or the south pole of a bar magnet, it is",
+        "subject": "Physics",
+        "sub_topic": "Magnetism",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 19,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Repelled by both the poles",
+            "Repelled by the north pole and attracted by the south pole",
+            "Attracted by the north pole and repelled by the south pole",
+            "Attracted by both the poles"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 455,
+        "correct_answer": "Repelled by both the poles",
+        "basic_answer": "Given: \n[diamagnetic substance, bar magnet]\nSolution: \n[Diamagnetism indicates that a material is repelled by a magnetic field, regardless of the pole. A diamagnetic substance does not have a permanent dipole moment; thus, it is weakly repelled by both magnetic poles. Thus, the behavior of diamagnetic materials is to be repelled by both the north and south poles]",
+        "explanation": "### **CORE CONCEPT**\nDiamagnetism is a fundamental form of magnetism that is present in all substances, although it is often masked by stronger effects like paramagnetism or ferromagnetism. It occurs in materials where all electron spins are paired, resulting in no permanent net magnetic dipole moment for the individual atoms. The core mechanism is rooted in Lenz's Law at the atomic level. When an external magnetic field ($B_{ext}$) is applied to an atom, the orbiting electrons experience a change in their magnetic flux. According to Faraday's Law of Induction and Lenz's Law, this change induces a current (a change in the orbital speed of the electrons) that creates an induced magnetic field ($B_{ind}$) specifically designed to oppose the change that created it. Consequently, the atom develops an induced magnetic dipole moment that is directed exactly opposite to the external field. Because the induced field always opposes the external field, the material as a whole experiences a weak repulsive force. This property is temperature-independent and represents a negative magnetic susceptibility ($χ < 0$).\n\n### **SOLUTION**\nTo determine the reaction of a diamagnetic substance, we analyze its interaction with a non-uniform magnetic field produced by a bar magnet. Whether the substance is approached by the North pole or the South pole, the physics remains the same. 1. If a North pole approaches, the magnetic flux through the material increases in the direction of the North pole's field lines. The material induces a North pole on the side facing the magnet to oppose this increase. Like poles repel. 2. If a South pole approaches, the flux increases in the opposite direction. The material induces a South pole on the side facing the magnet to oppose the change. Again, like poles repel. Mathematically, the force is proportional to the gradient of the square of the magnetic field: F = χ · V · ∇(B²∕2μ₀). Since χ is negative for diamagnetic materials, the force F is directed away from the regions of higher magnetic field (the poles), regardless of the field's polarity.\n\n### **WHY THIS ANSWER**\nThe answer 'Repelled by both the poles' is correct because diamagnetism does not rely on the orientation of the external field lines (North vs. South) but rather on the fact that the induced dipoles are always antiparallel to the local field. This creates a universal repulsive effect. In practical demonstrations, a piece of pyrolytic graphite or bismuth (strong diamagnets) will visibly lift or move away from any powerful magnet brought near it. This is a purely repulsive phenomenon, unlike paramagnetic materials which would be weakly attracted to both poles, or ferromagnetic materials which would be strongly attracted.\n\n### **COMMON MISTAKES**\nA frequent error is confusing diamagnetism with paramagnetism. Students often think that because North and South are opposites, the material must be attracted to one and repelled by the other, following the 'opposites attract' rule of thumb. However, that rule only applies to permanent magnets or pre-aligned dipoles. For induced dipoles in diamagnets, the induced 'pole' always matches the approaching 'pole.' Another mistake is overestimating the strength of the force; diamagnetism is incredibly weak (except in superconductors, which exhibit perfect diamagnetism via the Meissner effect) and requires very sensitive equipment or strong magnets to observe in common materials like water or wood.",
+        "keywords": {
+            "D": "Diamagnetic",
+            "N": "North pole",
+            "S": "South pole",
+            "B": "Magnetic field"
+        }
+    },
+    {
+        "id": 41,
+        "question_number": "159",
+        "text": "A ball moving with velocity 2 ms⁻¹ collides head-on with another stationary ball of double the mass. If the coefficient of restitution is 0.5, then their velocities (in ms⁻¹ ) after the collision will be",
+        "subject": "Physics",
+        "sub_topic": "Collisions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "0, 1",
+            "1, 1",
+            "1, 0.5",
+            "0, 2"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 286,
+        "correct_answer": "0, 1",
+        "basic_answer": "Given: \n[v₁ = 2 m/s, v₂ = 0 m/s, m₁ = m, m₂ = 2m, e = 0.5]\n\nSolution: \n[Using the conservation of momentum: m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂]\n[m(2) + 2m(0) = mv₁ + 2mv₂ \n\n => v₁ + 2v₂ = 2 --- (1)]\n\n[Using coefficient of restitution: \n\ne = (v₂ - v₁) / (u₁ - u₂)]\n[0.5 = (v₂ - v₁) / (2 - 0) \n\n=> v₂ - v₁ = 1 --- (2)]\n\n[Solving equations (1) and (2): \n\nAdding them gives \n\n3v₂ = 3, so v₂ = 1 m/s. \n\nSubstituting v₂ in (2) gives v₁ = 0 m/s.]\n\nFinal velocities are 0, 1.",
+        "explanation": "### **CORE CONCEPT**\nThis problem involves a one-dimensional, head-on collision between two masses where kinetic energy is not fully conserved. To solve such problems, we must utilize two independent principles: the Law of Conservation of Linear Momentum and Newton's Law of Restitution. The Conservation of Momentum is a universal principle that states the total momentum of an isolated system remains constant regardless of the nature of the internal forces (like the collision impact). Momentum ($p$) is the product of mass ($m$) and velocity ($v$). The second principle involves the Coefficient of Restitution ($e$), which is a scalar value representing the ratio of the relative velocity of separation to the relative velocity of approach. This coefficient ranges from 0 (perfectly inelastic) to 1 (perfectly elastic). Here, $e = 0.5$ indicates a partially inelastic collision where some mechanical energy is lost to heat or sound, but the objects do not stick together.\n\n### **SOLUTION**\nLet the mass of the first ball be $m$ and the mass of the second ball be $2m$. The initial velocities are $u_1 = 2 \\text{ ms}^{-1}$ and $u_2 = 0 \\text{ ms}^{-1}$. Let the final velocities be v₁ and v₂.\n1. **Conservation of Momentum:** m₁u₁ + m₂u₂ = m₁v₁ + m₂v₂\n   m(2) + 2m(0) = mv₁ + 2mv₂ ⇒ 2m = m(v₁ + 2v₂)\n   Dividing by m: v₁ + 2v₂ = 2 (Equation 1).\n2. **Newton's Law of Restitution:** e = (v₂ − v₁)∕(u₁ − u₂)\n   0.5 = (v₂ − v₁)∕(2 − 0) ⇒ 0.5 × 2 = v₂ − v₁\n   v₂ − v₁ = 1 (Equation 2).\n3. **Solving the System:** Add Equation 1 and Equation 2:\n   (v₁ + 2v₂) + (v₂ − v₁) = 2 + 1 ⇒ 3v₂ = 3 ⇒ v₂ = 1 m s⁻¹\n   Substitute v₂ = 1 back into Equation 2:\n   1 − v₁ = 1 ⇒ v₁ = 0 m s⁻¹.\n\n### **WHY THIS ANSWER**\nThe mathematical derivation leads to a unique set of velocities: the first ball comes to a complete stop (v₁ = 0), while the second, more massive ball moves forward at $1 \\text{ ms}^{-1}$. This result is physically logical. In a partially inelastic collision with a more massive stationary target, the projectile should lose a significant amount of its forward momentum. The specific value of $e=0.5$ and the mass ratio of 1:2 happen to align perfectly to bring the projectile to a halt, transferring its kinetic energy into the target (minus the loss accounted for by the coefficient of restitution). This corresponds to Option A.\n\n### **COMMON MISTAKES**\nThe most common error is the misapplication of the relative velocity formula for $e$. Students often write u₂ − u₁ in the denominator instead of u₁ − u₂, which introduces a sign error. Another mistake is forgetting to use the mass ratio correctly, often assuming both masses are equal, which would result in $v_1 = 0.5$ and $v_2 = 1.5$ for $e=0.5$. Furthermore, some students confuse 'double the mass' with 'half the mass.' Lastly, it is important to remember that momentum is a vector; while this problem is one-dimensional and everything moves in a line, in more complex problems, neglecting the direction of $u$ or $v$ would be fatal to the calculation.",
+        "keywords": {
+            "v₁": "initial velocity of ball 1",
+            "v₂": "initial velocity of ball 2",
+            "v₁'": "final velocity of ball 1",
+            "v₂'": "final velocity of ball 2",
+            "e": "coefficient of restitution",
+            "m": "mass",
+            "kg": "kilograms",
+            "m/s": "meters per second"
+        }
+    },
+    {
+        "id": 42,
+        "question_number": "5",
+        "text": "A lens is made up of different transparent media as shown in the figure. A point object is placed on its axis beyond 2F. How many real images will be obtained on the other side?",
+        "subject": "Physics",
+        "sub_topic": "Optics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (27)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "mcq-backend\\data\\questions\\mcq_practice\\physics\\Set5\\images\\set5_id_42.png",
+                "path": "images/set5_id_42.png",
+                "base64": ""
+            }
+        ],
+        "options": [
+            "2",
+            "No image will be formed",
+            "3",
+            "4"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (27).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 2902,
+        "correct_answer": "2",
+        "basic_answer": "Given: \n[Point object placed on the axis beyond the lens, Lens made of different transparent media]\nSolution: \n[Each distinct refractive region in a composite lens acts independently, forming its own image. Light rays passing through different regions converge at different points. The lens has two distinct refractive segments (visible in the figure). Each segment has a different refractive index and thus a different focal length. Each segment forms one real image on the opposite side. Therefore, 2 real images are formed]",
+        "explanation": "### **CORE CONCEPT**\nThe formation of an image by a lens is governed by the laws of refraction, specifically summarized by the Lens Maker's Formula: 1∕f = (μ₂∕μ₁ − 1)(1∕R₁ − 1∕R₂). Here, $f$ is the focal length, $\\mu_2$ is the refractive index of the lens material, $\\mu_1$ is the refractive index of the surrounding medium, and $R_1, R_2$ are the radii of curvature of the lens surfaces. A crucial takeaway from this formula is that the focal length is directly dependent on the refractive index of the material. If a lens is homogeneous (made of one material), it has a single focal length and thus produces a single image for a single object. however, if the lens is 'composite'—constructed from multiple different transparent media—each region of the lens with a unique refractive index will act as a separate optical system. These regions focus incident light at different distances, leading to multiple images along the principal axis.\n\n### **SOLUTION**\nBased on the figure provided (which shows a lens divided into two distinct horizontal halves or layers), we analyze the light paths: 1. **Upper Layer:** Suppose the upper half of the lens is made of a medium with refractive index $\\mu_A$. This half has a specific focal length $f_A$. When light rays from a point object pass through this upper section, they will converge at a distance $v_A$ calculated from the lens formula 1∕vₐ − 1∕u = 1∕fₐ. This creates one real image. 2. **Lower Layer:** The lower half is made of a different medium with refractive index $\\mu_B$. This half will have its own focal length $f_B$. Light rays passing through this section will converge at a different distance $v_B$. This creates a second real image. Since there are two distinct refractive indices present in the lens, and light from the object enters both halves, the lens behaves as two overlapping lenses. Each one forms a unique image on the other side.\n\n### **WHY THIS ANSWER**\nThe answer is '2' because the number of images formed by a lens with multiple layers is equal to the number of distinct refractive indices encountered by the light along different paths through the lens. Since there are two distinct media visible in the cross-section of the lens, there will be two separate points of convergence on the principal axis. Each convergence point represents a real image. If the lens were divided vertically (front and back), the result would be different, but horizontal divisions always create separate images for the same object point.\n\n### **COMMON MISTAKES**\nA very common mistake is to think that the light from the entire object will somehow 'average out' the refractive indices and form one blurry image. In reality, light rays are discrete; those passing through the top stay at the top and focus according to the top's rules, and vice versa. Another mistake is confusing the number of layers with the number of surfaces. Some students might count the interfaces and guess '3' or '4.' It is strictly the number of different materials that dictates the number of focal lengths. Finally, ensure you understand that if the object were placed inside the focal length, these would be virtual images, but since the object is 'beyond 2F,' they are confirmed to be real and inverted.",
+        "keywords": {
+            "f": "focal length",
+            "v": "image distance",
+            "u": "object distance"
+        }
+    },
+    {
+        "id": 43,
+        "question_number": "161",
+        "text": "A cylindrical metallic rod in thermal contact with two reservoirs of heat at its two ends conducts an amount of heat Q in time t. The metallic rod is melted and the material is formed into a rod of half the radius of the original rod. What is the amount of heat conducted by the new rod when placed in thermal contact with the two reservoirs in the same time?",
+        "subject": "Physics",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 19,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Q/4",
+            "Q/16",
+            "2Q",
+            "Q/2"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 19,
+            "type": "MCQ"
+        },
+        "original_id": 288,
+        "correct_answer": "Q/16",
+        "basic_answer": "Given: \n[[Original rod radius r, new rod radius r/2, volume conserved]\nHeat conducted by original rod Q in time t]\nSolution: \n[**Q = k*A*(ΔT)/L**; \n\nwhere A = π*r², k is thermal conductivity, ΔT is temperature difference, L is length. \n\nVolume conservation: \n\nπ*r²*L = π*(r/2)²*L'. \n\nFrom volume conservation: \n\nπ*r²*L = π*(r²/4)*L' \n\n→ L' = 4L. \n\nNew area A' = π*(r/2)² = π*r²4.\n\n Heat conduction Q ∝ A/L, \n\nso Q'/Q = (A'/L')/(A/L) \n\n= (A/4)/(4L) ÷ (A/L) \n\n= (A/4L)/(4A/L) = 1/16. \n\nTherefore Q' = Q/16]",
+        "explanation": "### **CORE CONCEPT**\nThe steady-state rate of heat flow through a material via conduction is governed by Fourier's Law of Heat Conduction. The amount of heat ($Q$) transferred in a time ($t$) across a material of length ($L$) and cross-sectional area ($A$) is given by the formula: Q = kA(ΔT)t∕L, where k is the thermal conductivity of the material and $\\Delta T$ is the temperature difference between the two ends. From this equation, we can observe that heat conduction is directly proportional to the cross-sectional area ($Q \\propto A$) and inversely proportional to the length of the conductor ($Q \\propto 1/L$). This means that a 'fat' and 'short' rod will conduct heat much more efficiently than a 'thin' and 'long' rod. When a rod is melted and reshaped, its mass and volume remain constant, creating a geometric constraint between any change in radius and the resulting change in length.\n\n### **SOLUTION**\nLet the original rod have radius $r$, length $L$, and cross-sectional area $A = \\pi r^2$. The volume is $V = A \\cdot L$. \n1. **New Geometry:** The rod is reformed to have half the radius, so $r' = r/2$. The new cross-sectional area is A′ = π(r∕2)² = πr²∕4 = A∕4 \n\n2. **Conservation of Volume:** Since the volume $V$ is constant, $A \\cdot L = A' \\cdot L'$. Substituting $A' = A/4$, we get $AL = (A/4) \\cdot L'$, which implies **$L' = 4L$**. The new rod is four times longer than the original. \n3. **Heat Ratio:** We set up the ratio of heat conduction for the two rods under identical temperature differences and time: \n   $$\\frac{Q'}{Q} = \\frac{kA'/L'}{kA/L} = \\frac{A'}{A} \\times \\frac{L}{L'}$$\n4. **Substitute Changes:** \n   $$\\frac{Q'}{Q} = \\left( \\frac{1}{4} \\right) \\times \\left( \\frac{1}{4} \\right) = \\frac{1}{16}$$\nThus, $Q' = Q/16$.\n\n### **WHY THIS ANSWER**\nThe answer $Q/16$ is derived from the simultaneous change in two geometric factors. First, making the rod thinner (half radius) reduces the area by a factor of 4, which alone would reduce heat flow to $Q/4$. Second, because the total material is conserved, that 'lost' thickness is converted into extra length, making the rod 4 times longer. This increase in length adds another factor of 1/4 to the reduction (since heat must travel further through more resistance). Multiplying these two factors ($1/4 \\times 1/4$) results in the final value of $1/16$. This represents a massive reduction in the efficiency of the rod as a heat conductor, which is a standard result in thermal physics problems involving reshaping of materials.\n\n### **COMMON MISTAKES**\nThe most frequent error is neglecting the change in length. Many students see 'half the radius' and immediately conclude the area is $1/4$, and therefore the heat is $Q/4$, forgetting that a rod cannot become thinner without also becoming longer if its volume is constant. Another mistake is miscalculating the area change, thinking that half the radius means half the area (linear relationship), which would lead to $Q/4$ after considering length. Some also forget that $Q$ is inversely proportional to $L$ and might multiply by 4 instead of dividing, leading to an incorrect answer of $Q$ (where changes cancel out). Always remember: for a wire or rod being stretched or reshaped, $R \\propto 1/A^2$ or $R \\propto L^2$ in electricity, and similarly, $Q \\propto A^2$ or $Q \\propto 1/L^2$ in heat conduction.",
+        "keywords": {
+            "Q": "heat conducted",
+            "k": "thermal conductivity",
+            "ΔT": "temperature difference",
+            "L": "length",
+            "A": "cross-sectional area",
+            "r": "radius",
+            "π": "pi"
+        }
+    },
+    {
+        "id": 44,
+        "question_number": "7",
+        "text": "On the basis of electrical conductivity, which one of the following material has the smallest resistivity?",
+        "subject": "Physics",
+        "sub_topic": "Electricity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 0,
+        "source_pdf": "PAPAER (27)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Germanium",
+            "Silver",
+            "Glass",
+            "Silicon"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (27).pdf",
+            "page": 0,
+            "type": "MCQ"
+        },
+        "original_id": 2904,
+        "correct_answer": "Silver",
+        "basic_answer": "Given: \n[Silver, Germanium, Glass, Silicon]\nSolution: \n[Electrical conductivity is inversely related to resistivity. The lower the resistivity, the better the conductor. Silver has the lowest resistivity compared to the other materials. Resistivity values typically are: \nSilver: ~1.59 × 10⁻⁸ Ohm·m \nGermanium: ~0.47 × 10⁻⁶ Ohm·m \nGlass: ~10¹⁰ Ohm·m \nSilicon: ~6.4 × 10⁻⁶ Ohm·m \nAmong these, silver has the smallest resistivity]",
+        "explanation": "### **CORE CONCEPT**\nMaterials are classified into conductors, semiconductors, and insulators based on their ability to transmit electric current. This ability is quantified by two inverse properties: Electrical Conductivity ($\\sigma$) and Electrical Resistivity ($\\rho$). Resistivity is an intrinsic property of a material that measures how strongly it opposes the flow of electric current. Mathematically, $\\rho = 1 / \\sigma$. In conductors, especially metals, the valence electrons are not tightly bound to individual atoms and are free to move through the crystal lattice as a 'sea of electrons.' This high density of charge carriers leads to very low resistivity values. In semiconductors (like Silicon and Germanium), the charge carrier density is much lower at room temperature, resulting in intermediate resistivity. Insulators (like Glass) have virtually no free charge carriers, resulting in extremely high resistivity. The magnitude of resistivity varies by more than 20 orders of magnitude across these categories.\n\n### **SOLUTION**\nTo solve this, we compare the typical resistivity ($\\rho$) values for each material provided in the options: \n1. **Silver (Metal):** $\\rho \\approx 1.59 \\times 10^{-8} \\Omega\\cdot\\text{m}$. Silver is the most conductive element known to man because of its high density of free electrons and its specific crystal lattice structure that minimizes electron scattering.\n2. **Germanium (Semiconductor):** $\\rho \\approx 0.46 \\Omega\\cdot\\text{m}$. While 'small' compared to insulators, this is millions of times larger than the resistivity of silver.\n3. **Silicon (Semiconductor):** $\\rho \\approx 6.4 \\times 10^{2} \\Omega\\cdot\\text{m}$ (for pure silicon). This is even larger than germanium.\n4. **Glass (Insulator):** $\\rho \\approx 10^{10} \\text{ to } 10^{14} \\Omega\\cdot\\text{m}$. This is an enormous value, representing an almost total block on current flow. \nBy direct numerical comparison, Silver has the smallest value.\n\n### **WHY THIS ANSWER**\nSilver is the correct answer because it is the 'gold standard' for electrical conduction. While Copper is more commonly used for wiring due to its lower cost, Silver actually has a lower resistivity. In any list containing a highly conductive metal and semiconductors or insulators, the metal will always have the smallest resistivity. Silver's unique electronic structure ($4d^{10} 5s^1$) allows for an extremely efficient flow of charge, making it the most efficient conductor at room temperature among the choices.\n\n### **COMMON MISTAKES**\nA common mistake is confusing 'resistivity' with 'resistance.' While resistivity is a property of the material itself, resistance depends on the shape (length and area). However, for a given shape, the material with lower resistivity will always have lower resistance. Another error is assuming that because Silicon and Germanium are used in 'electronics,' they must be the 'best' conductors. In reality, they are useful because their conductivity can be *controlled* (via doping), but their base resistivity is quite high. Some students might also pick Copper if it were an option, but Silver is technically superior in terms of pure resistivity values. Always remember the order: Metals < Semiconductors < Insulators.",
+        "keywords": {
+            "ρ": "resistivity",
+            "Ohm·m": "Ohm meters",
+            "σ": "conductivity",
+            "S/m": "Siemens per meter",
+            "m": "meters"
+        }
+    },
+    {
+        "id": 45,
+        "question_number": "26",
+        "text": "The threshold frequency of a photoelectric metal is ν₀. If the light of frequency 4ν₀ is incident on this metal, then the maximum kinetic energy of emitted electrons will be:",
+        "subject": "Physics",
+        "sub_topic": "Modern Physics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (34)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "hν₀",
+            "2hν₀",
+            "3hν₀",
+            "4hν₀"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (34).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 3922,
+        "correct_answer": "3hν₀",
+        "basic_answer": "Given: \n[ν₀: threshold frequency, 4ν₀: incident frequency]\nSolution: \n[**K.E. = hν - hν₀** (Maximum kinetic energy = energy of photon - work function). \n\nMaximum K.E. = h(4ν₀) - hν₀ \n\n= h(4ν₀ - ν₀) \n\n= h(3ν₀) = 3hν₀]",
+        "explanation": "### **CORE CONCEPT**\nThe photoelectric effect describes the emission of electrons from a metal surface when light of a sufficiently high frequency is incident upon it. This phenomenon was famously explained by Albert Einstein, who proposed that light behaves as a stream of discrete packets of energy called photons. Each photon carries an energy of E = hν, where h is Planck's constant and E = hν is the frequency of light. When a photon hits an electron, it transfers all its energy to it. Some of this energy is consumed to overcome the attractive forces of the metal ions; this minimum energy requirement is called the Work Function Φ. Any remaining energy after the electron is liberated appears as the Kinetic Energy (KE) of that electron. Einstein's Photoelectric Equation expresses this as: K.E._max = h. The Work Function itself can be defined in terms of a 'Threshold Frequency' (ν₀), which is the minimum frequency required to just barely release an electron without giving it any kinetic energy. Thus, Φ = hν₀\n\n### **SOLUTION**\n1. **Identify the Given Parameters:** The threshold frequency of the metal is given as ν₀. The incident frequency of the light source is ν = 4ν₀ \n2. **Express the Work Function:** Using the relationship between work function and threshold frequency, we write Φ = hν₀ \n3. **Set up the Kinetic Energy Equation:** We use Einstein's equation to find the maximum kinetic energy of the emitted photoelectrons: \n   K.E._max = hν_incident − Φ\n4. **Substitution and Calculation:** Substitute the incident frequency and the work function into the equation:\n   K.E._max = h(4ν₀) − hν₀\n\n   K.E._max = 4hν₀ − hν₀\n   K.E._max = 3hν₀\nThis result represents the energy surplus that the electron retains after breaking free from the metal's atomic grip.\n\n### **WHY THIS ANSWER**\nThe answer 3hν₀ is the direct result of the subtraction of the 'exit tax' (work function) from the 'total income' (incident photon energy). Since the incident light has four times the minimum frequency required for emission, the photons provide four times the threshold energy. After 'spending' one unit of hν₀ to exit the metal surface, the electron is left with exactly three units of hν₀ as kinetic energy. This linear relationship is a cornerstone of quantum mechanics and matches Option C.\n\n### **COMMON MISTAKES**\nA common misconception is that kinetic energy is simply proportional to frequency (K.E. ∝ E = hν), which would lead a student to pick 4hν₀. This ignores the work function, which is a constant energy 'drain' for every electron emitted. Another error is confusing 'threshold frequency' with 'threshold wavelength'; for frequency, more is better, whereas for wavelength, less is better. Some students also mix up the terms and might subtract the incident frequency from the threshold frequency, leading to a negative (and physically impossible) energy value. Lastly, remember that this formula provides the *maximum* kinetic energy; some electrons may have less energy if they lose speed due to internal collisions before exiting the metal.",
+        "keywords": {
+            "h": "Planck's constant",
+            "ν": "frequency",
+            "ν₀": "threshold frequency",
+            "K.E.": "kinetic energy",
+            "J": "Joules"
+        }
+    },
+    {
+        "id": 46,
+        "question_number": "181",
+        "text": "The dimensions of ε0E² where ε0 is the permittivity of free space and E is the electric field, are:",
+        "subject": "Physics",
+        "sub_topic": "Electrostatics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 22,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "[ML²T⁻²]",
+            "[ML^{-1}T^{-2}]",
+            "[ML²T⁻¹]",
+            "[MLT⁻¹]"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 22,
+            "type": "MCQ"
+        },
+        "original_id": 305,
+        "correct_answer": "[ML^{-1}T^{-2}]",
+        "basic_answer": "Using the energy density formula for an electric field,\n\n u = (1/2) ε₀E² \n\nthe term ε₀E² has the dimensions of energy density (same as pressure). \n\nEnergy density has units J m⁻³. \n\nSince 1\n\n J = kg·m²·s⁻² \n\nwe get J m⁻³ = kg·m⁻¹·s⁻². \n\nHence the dimensional formula of ε₀E² is [M L⁻¹ T⁻²], which is option B.",
+        "explanation": "### **CORE CONCEPT**\nDimensional analysis is a powerful tool in physics that allows us to check the consistency of equations and determine the nature of physical quantities. To find the dimensions of a complex expression like $\\epsilon_0 E^2$, one could find the dimensions of each variable separately and multiply them, but a more elegant and efficient method is to relate the expression to a known physical quantity with a standard definition. In electrostatics, the term $\\frac{1}{2} \\epsilon_0 E^2$ represents the 'Energy Density' ($u$) of the electric field in a vacuum. Energy density is defined as the amount of electrical potential energy stored per unit volume of space. Therefore, the dimensions of the term $\\epsilon_0 E^2$ must be identical to the dimensions of energy density (the constant factor $1/2$ is dimensionless and does not affect the units). Energy density has the same dimensions as pressure or stress, which is force per unit area.\n\n### **SOLUTION**\nWe calculate the dimensions step-by-step using the definition of energy density:\n1. **Dimensions of Energy (Work):** Work is Force $\\times$ Distance. Force is Mass $\\times$ Acceleration ($[M] \\cdot [LT^{-2}]$). So, Energy = $[MLT^{-2}] \\cdot [L] = [ML^2T^{-2}]$.\n2. **Dimensions of Volume:** Volume is length cubed ($[L^3]$).\n3. **Dimensions of Energy Density (u):** \n   [u] = [Energy]∕[Volume] = [ML²T⁻²]∕[L³]\n\n4. **Simplification:** \n   [u] = [ML² · L⁻³T⁻²] = [ML⁻¹T⁻²]\n\nSince $\\epsilon_0 E^2$ is proportional to energy density, its dimensions are exactly $[ML^{-1}T^{-2}]$. This combination of units corresponds to the SI unit of Pascal ($\\text{N/m}^2$), confirming it is equivalent to pressure.\n\n### **WHY THIS ANSWER**\nThe result $[ML^{-1}T^{-2}]$ is the only one that represents energy divided by volume. By recognizing the physical meaning of the expression (Energy Density), we avoid the tedious process of deriving dimensions for permittivity ($\\epsilon_0$) and electric field ($E$), which involves multiple steps and a high risk of error. This shortcut is a standard technique taught for competitive exams to ensure both speed and accuracy. The answer aligns perfectly with Option B.\n\n### **COMMON MISTAKES**\nA primary mistake is attempting to find dimensions for $\\epsilon_0$ and $E$ individually. This often leads to errors in the powers of $L$ and $T$. Another common error is confusing energy density with energy; students might select $[ML^2T^{-2}]$ (Option A), forgetting that the term represents energy *per unit volume*. Some may also forget to square the $E$ term if they are trying to derive it from $F = qE$, leading to incorrect dimensions. Finally, remember that dimensionless constants (like $1/2$ or $\\pi$) must be ignored during dimensional analysis, but they must be present in the original physical formula for the derivation to be valid.",
+        "keywords": {
+            "ρ": "resistivity",
+            "Ohm·m": "Ohm meters",
+            "σ": "conductivity",
+            "S/m": "Siemens per meter",
+            "m": "meters"
+        }
+    },
+    {
+        "id": 47,
+        "question_number": "169",
+        "text": "An engine pumps water through a hose pipe. Water passes through the pipe and leaves it with a velocity of 2 ms⁻¹. The mass per unit length of water in the pipe is 100 kg m⁻¹. What is the power of the engine?",
+        "subject": "Physics",
+        "sub_topic": "Fluid Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "400 W",
+            "200 W",
+            "100 W",
+            "800 W"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 292,
+        "correct_answer": "400 W",
+        "basic_answer": "Given: \n[velocity v = 2 m/s\n\nmass per unit length μ = 100 kg/m]\n\nSolution: \n[Power P = rate of kinetic energy imparted \n\n= (1/2) × ṁ × v². \n\nMass flow rate ṁ = μ × v \n\n= 100 kg/m × 2 m/s \n\n= 200 kg/s;\n\n  Power P = (1/2) × 200 kg/s × (2 m/s)² \n\n= (1/2) × 200 × 4\n\n = 400 W]",
+        "explanation": "### **CORE CONCEPT**\nPower ($P$) is defined as the rate at which work is done or energy is transferred. In the case of an engine pumping water, the work done by the engine is primarily spent on imparting Kinetic Energy (KE) to the stationary water in the reservoir, accelerating it to a specific exit velocity ($v$). The total kinetic energy of a mass $m$ is $\\frac{1}{2}mv^2$. For a continuous flow system, we are interested in the 'rate' of energy transfer. This is found by taking the time derivative of kinetic energy: $P = \\frac{d}{dt} (\\frac{1}{2}mv^2)$. If the velocity is constant, this becomes $P = \\frac{1}{2} (\\frac{dm}{dt}) v^2$, where $\\frac{dm}{dt}$ is the mass flow rate—the mass of water exiting the pipe per second. This formula is fundamental in fluid dynamics for calculating the mechanical output of pumps and turbines.\n\n### **SOLUTION**\nTo find the power, we need two components: the exit velocity and the mass flow rate.\n1. **Identify the Given Values:** Exit velocity $v = 2 \\text{ ms}^{-1}$. Mass per unit length (linear density) $\\mu$ = 100 $\\text{ kg m}^{-1}$.\n2. **Calculate Mass Flow Rate ($\\frac{dm}{dt}$):** Imagine a segment of water of length $x$ exiting the pipe. Its mass is $m = \\mu \\cdot x$. The rate at which this mass leaves is $\\frac{dm}{dt} = \\mu \\cdot \\frac{dx}{dt}$. Since $\\frac{dx}{dt}$ is the velocity $v$ of the water:\n   $$\\frac{dm}{dt} = \\mu \\cdot v = 100 \\text{ kg/m} \\times 2 \\text{ m/s} = 200 \\text{ kg/s}.$$\n3. **Calculate Power:** Now, substitute the mass flow rate and velocity into the power formula:\n   $$P = \\frac{1}{2} \\cdot \\left( \\frac{dm}{dt} \\right) \\cdot v^2$$\n   P = 1∕2 · (200 kg s⁻¹) · (2 m s⁻¹)²\n\n   $$P = 100 \\times 4 = 400 \\text{ Watts}.$$\n\n### **WHY THIS ANSWER**\nThe calculated power of 400 W represents the energy required per second to accelerate 200 kilograms of water every second from rest to 2 meters per second. This is a direct application of the work-energy theorem in a flow context. Since the calculation is based on the provided linear mass density and the resulting flow rate, the value of 400 W is the only logically and mathematically sound result, which corresponds to Option A.\n\n### **COMMON MISTAKES**\nA very frequent mistake is using the formula $P = F \\cdot v$ and calculating force as $F = m \\cdot a$ or similar, which doesn't work easily in fluid flow without the mass flow rate concept. Some students use $P = (\\frac{dm}{dt})v^2$ and forget the $\\frac{1}{2}$ factor from the kinetic energy definition, leading to an incorrect answer of 800 W. Another error involves misinterpreting 'mass per unit length' ($\\mu$) and confusing it with 'density' ($\\rho$), which would require knowing the cross-sectional area of the pipe. Always check your units: $(\\text{kg/m}) \\times (\\text{m/s}) = \\text{kg/s}$, which is exactly what is needed for the mass flow rate. Lastly, some might try to include potential energy ($mgh$), but since no change in height is mentioned, the engine's work is entirely kinetic.",
+        "keywords": {
+            "P": "Power",
+            "m": "mass per unit length",
+            "v": "velocity",
+            "W": "Watts",
+            "kg": "kilograms",
+            "m/s": "meters per second"
+        }
+    },
+    {
+        "id": 48,
+        "question_number": "186",
+        "text": "If ΔU and ΔW represent the increase in internal energy and work done by the system respectively in a thermodynamical process. Which of the following is true?",
+        "subject": "Physics",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 22,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "U = -W, in an adiabatic process",
+            "U = W, in an isothermal process",
+            "U = W, in an adiabatic process",
+            "U = -W, in an isothermal process"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 22,
+            "type": "MCQ"
+        },
+        "original_id": 307,
+        "correct_answer": "U = -W, in an adiabatic process",
+        "basic_answer": "Given: \n[ΔU = change in internal energy,\n\n ΔW = work done by the system]\nSolution: \n[For an adiabatic process, the first law of thermodynamics states \n\nΔU = Q - ΔW, \n\nwhere Q = 0 (no heat exchange), \n\nso ΔU = -ΔW.\n\n Since Q = 0 in an adiabatic process, we find \n\nΔU = -ΔW]",
+        "explanation": "### **CORE CONCEPT**\nThe First Law of Thermodynamics is a specific statement of the Law of Conservation of Energy applied to thermal systems. It states that the total energy supplied to a system in the form of heat (Q) is equal to the sum of the increase in its internal energy ΔU and the work done by the system on its surroundings ΔW. The standard mathematical form is Q = ΔU + ΔW. Internal energy is a state function related primarily to the temperature of the system (for ideal gases), while heat and work are path functions that depend on the specific process the system undergoes. Thermodynamic processes are categorized based on which variable is held constant: Isothermal (T constant), Isobaric (P constant), Isochoric (V constant), or Adiabatic (Q constant).\n\n### **SOLUTION**\nWe test each of the provided options against the First Law:\n1. **Isothermal Process:** In an isothermal process, the temperature T remains constant. For an ideal gas, internal energy depends only on temperature (U ∝ T), so ΔU = 0 \n\n Applying the First Law: Q = 0 + ΔW ⇒ Q = ΔW. Thus, the options 'U = W' and 'U = -W' for isothermal processes are incorrect.\n2. **Adiabatic Process:** An adiabatic process is one where the system is thermally insulated, meaning there is no heat exchange with the surroundings ($Q = 0$). Applying the First Law: \n   0 = ΔU + ΔW ⇒ ΔU = −ΔW\nThis means that in an adiabatic expansion, the work done by the system comes at the expense of its internal energy, causing the temperature to drop. Conversely, in an adiabatic compression, the work done on the system increases its internal energy, causing the temperature to rise.\n\n### **WHY THIS ANSWER**\nThe answer '$U = -W$, in an adiabatic process' is correct because it is a direct mathematical derivation from the First Law under the condition $Q = 0$. It captures the essential trade-off between mechanical work and internal heat energy that defines adiabatic behavior in engines, atmospheres, and sound waves. Option A is the only choice that matches the thermodynamic identities resulting from the conserved energy equation.\n\n### **COMMON MISTAKES**\nA common source of confusion is the sign convention for work. In some chemistry textbooks, the First Law is written as ΔU = Q + W (where W is work done on the system). In physics, W is usually the work done *by* the system, leading to ΔU = Q − W or ΔU = Q + W. If you use the wrong convention, you might think ΔU = ΔW for an adiabatic process. Another mistake is forgetting that ΔU = 0 only for an ideal gas in an isothermal process; for real gases, this is only an approximation. Students also often mix up adiabatic and isothermal processes; remember that adiabatic is about 'insulation/no heat' while isothermal is about 'constant temperature'. Use the phrase 'Adiabatic = Anti-Heat' to remember Q=0",
+        "keywords": {
+            "ΔU": "change in internal energy",
+            "ΔW": "work done",
+            "Q": "heat transfer"
+        }
+    },
+    {
+        "id": 49,
+        "question_number": "187",
+        "text": "The total radiant energy per unit area, normal to the direction of incidence, received at a distance R from the centre of a star of radius r, whose outer surface radiates as a black body at a temperature T K is given by: (Where σ is Stefan’s constant) A source S₁ is producing 10¹⁵ photons per sec of wavelength 5000 Å. Another source S² is producing 1.02×10¹⁵ photons per second of wavelength 5100 Å. Then, (power of S²)/(power of S₁) is equal to",
+        "subject": "Physics",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 23,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "1.00",
+            "1.02",
+            "1.04",
+            "0.98"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 23,
+            "type": "MCQ"
+        },
+        "original_id": 308,
+        "correct_answer": "1.00",
+        "basic_answer": "Given: \n[N₁ = 10¹⁵ photons/s \n\nλ1 = 5000 Å\n\nN² = 1.02×10¹⁵ photons/s\n\nλ2 = 5100 Å]\n\nSolution: \n[Power P = N × (hc/λ), \n\nwhere N is the photon rate. \n\nThe ratio of powers: P₂/P₁ = (N²/N₁) × (λ1/λ2). \n\nP₂/P₁ = (1.02×10¹⁵ / 10¹⁵) × (5000/5100) \n\n= 1.02 × 0.9804 \n\n≈ 1.00]",
+        "explanation": "### **CORE CONCEPT**\nThe power of a light source, in the context of quantum mechanics, is the total energy emitted per unit time. According to the photon theory of light, radiation consists of individual energy packets. The total power (P) is the product of the number of photons emitted per second ($n$) and the energy of each individual photon (E). The energy of a photon is inversely proportional to its wavelength (λ), expressed by the Planck-Einstein relation: E = hc∕λ, where h is Planck's constant and c is the speed of light. Therefore, the power of a source is given by P = n · hc∕λ. This indicates that power depends on two variables: the 'quantity' of light (photon rate) and the 'quality' or color of light (wavelength). A source can have the same power by either emitting few high-energy photons or many low-energy photons.\n\n### **SOLUTION**\nTo find the ratio of the powers of the two sources, P₂∕P₁, we set up the comparison:\n1. **Define Power for S1:** P₁ = n₁ · hc∕λ₁, where n₁ = 10¹⁵ and λ₁ = 5000 Å.\n2. **Define Power for S2:** P₂ = n₂ · hc∕λ₂, where n₂ = 1.02 × 10¹⁵ and λ₂ = 5100 Å.\n3. **Formulate the Ratio:** \n   P₂ / P₁ = [n₂ · (hc/λ₂)] / [n₁ · (hc/λ₁)]\n   The constants h and c cancel out, leaving:\n   P₂ / P₁ = (n₂ / n₁) · (λ₁ / λ₂)\n4. **Substitute and Calculate:**\n   P₂ / P₁ = (1.02 × 10¹⁵ / 10¹⁵) · (5000 / 5100)\n   P₂ / P₁ = 1.02 × (50 / 51)\n   Notice that 51 is exactly 1.02 × 50 = 51. Thus, the fraction simplifies:\n   P₂ / P₁ = 1.02 × 1⁄1.02  = 1.00\n\n### **WHY THIS ANSWER**\nThe ratio is exactly 1.00 because the increase in the number of photons (a 2% increase from 1.00 to 1.02) is perfectly compensated by the decrease in the energy per photon (since the wavelength also increased by exactly 2% from 5000 to 5100). In physics, if one factor in a product increases by a multiplier x and another factor decreases by the same multiplier x, the product remains constant. This numerical 'coincidence' in the question points to the fact that both sources emit the same total wattage. This corresponds to Option A.\n\n### **COMMON MISTAKES**\nA standard error is inverting the wavelength ratio, calculating (n₂ / n₁) · (λ₂ / λ₁) = 1.02 × 1.02  = 1.04 \n\nThis mistake assumes power is directly proportional to wavelength, which contradicts the fundamental rule that shorter wavelengths are more energetic. Another mistake is ignoring the photon energy change altogether and picking 1.02 (Option B) simply because that is the ratio of the photon counts. Students might also spend too much time calculating the actual energy in Joules using 6.626 × 10⁻³⁴ and $3 \\times 10^8$, which is unnecessary when only a ratio is required. Always simplify the algebraic ratio before plugging in large scientific constants to avoid calculation errors.",
+        "keywords": {
+            "N": "number of photons",
+            "P": "power",
+            "E": "energy",
+            "h": "Planck's constant",
+            "f": "frequency",
+            "λ": "wavelength",
+            "c": "speed of light",
+            "W": "Watts",
+            "J": "Joules",
+            "Å": "Angstroms",
+            "Hz": "Hertz"
+        }
+    }
+]

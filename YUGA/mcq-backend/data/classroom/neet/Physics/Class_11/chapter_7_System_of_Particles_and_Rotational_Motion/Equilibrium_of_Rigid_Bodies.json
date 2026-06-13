@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "System of Particles and Rotational Motion",
+    "chapter_number": 7,
+    "topic": "Equilibrium of Rigid Bodies",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:54:54.747722",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the equilibrium of rigid bodies. This is an important topic in physics and also for your NEET exam. Let's start by understanding what equilibrium means. When we say a body is in equilibrium, it means the body is at rest or moving with constant speed. There are two main conditions for equilibrium: translational and rotational.\n\nFirst, let's talk about translational equilibrium. This happens when the total force acting on a body is zero. Imagine you are pushing a box on a smooth floor. If the box doesn't move, the forces on it are balanced. This is translational equilibrium. The formula for this is: ΣF = 0, where ΣF is the sum of all forces.\n\nNow, let's look at rotational equilibrium. This occurs when there is no net torque on a body. Torque is a force that causes rotation. For example, when you open a door, you apply torque. The formula for rotational equilibrium is: Στ = 0, where Στ is the sum of all torques.\n\nLet's see some examples. A book lying on a table is in translational equilibrium. A seesaw with equal weights on both sides is in rotational equilibrium. These examples show how equilibrium works in everyday life.\n\nEquilibrium is also important in engineering. Engineers use it to design stable buildings and bridges. They ensure that forces and torques are balanced. This keeps structures safe and standing.\n\nNow, let's solve a simple problem. Suppose a beam is balanced on a fulcrum. If a 10 kg weight is placed 2 meters from the fulcrum, where should a 5 kg weight be placed to keep it balanced? Here, you use the formula for torque: τ = force × distance. For equilibrium, τ1 = τ2. So, 10 kg × 2 m = 5 kg × x m. Solving this, x = 4 m. The 5 kg weight should be placed 4 meters from the fulcrum.\n\nA common mistake is forgetting to consider all forces and torques. Always check both conditions for equilibrium. Also, remember that equilibrium doesn't mean no movement. It can mean constant speed or rotation.\n\nTo sum up, equilibrium is when forces and torques are balanced. It is key for stability in physics and engineering. Remember the formulas: ΣF = 0 for translational equilibrium and Στ = 0 for rotational equilibrium.\n\nThank you for listening! Practice these concepts and you'll do great in your exams.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Equilibrium",
+    "Translational Equilibrium",
+    "Rotational Equilibrium",
+    "Torque",
+    "Force"
+  ],
+  "formulas": [
+    {
+      "formula": "ΣF = 0",
+      "description": "Sum of all forces is zero for translational equilibrium"
+    },
+    {
+      "formula": "Στ = 0",
+      "description": "Sum of all torques is zero for rotational equilibrium"
+    },
+    {
+      "formula": "τ = force × distance",
+      "description": "Torque is the product of force and distance from the pivot"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Equilibrium",
+      "definition": "A state where a body is at rest or moving with constant speed"
+    },
+    {
+      "term": "Torque",
+      "definition": "A force that causes rotation"
+    },
+    {
+      "term": "Translational Equilibrium",
+      "definition": "When the sum of all forces on a body is zero"
+    },
+    {
+      "term": "Rotational Equilibrium",
+      "definition": "When the sum of all torques on a body is zero"
+    }
+  ]
+}

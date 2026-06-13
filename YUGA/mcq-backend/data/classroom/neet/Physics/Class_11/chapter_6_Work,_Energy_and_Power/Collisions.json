@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Work, Energy and Power",
+    "chapter_number": 6,
+    "topic": "Collisions",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:53:28.773198",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about collisions in physics. Collisions happen when two objects hit each other. This topic is important for NEET exams. Let's start with types of collisions. \n\nFirst, we have elastic collisions. In an elastic collision, both momentum and energy are conserved. This means that the total energy and movement before and after the collision are the same. Imagine two billiard balls hitting each other. They bounce off and keep moving. This is an elastic collision. \n\nNext, we have inelastic collisions. In these collisions, only momentum is conserved, not energy. Some energy is lost as heat or sound. For example, when a car crashes and dents, it is an inelastic collision. The cars do not bounce back. Instead, they stick or deform. \n\nNow, let's talk about the conservation of momentum. Momentum is the product of mass and velocity. In any collision, the total momentum before the collision equals the total momentum after the collision. This is called the conservation of momentum. \n\nThe formula for momentum is: p = m * v, where p is momentum, m is mass, and v is velocity. If two objects collide, you can use this formula to find unknown values. \n\nLet's see some examples. If a moving car hits a stationary car, the moving car slows down, and the stationary car starts moving. The total momentum of both cars before and after the collision remains the same. \n\nA common mistake is to think energy is always conserved in collisions. Remember, only elastic collisions conserve energy. In inelastic collisions, energy is not conserved. \n\nCollision theory has many applications. It helps us understand car crashes, sports, and even particles in physics. Knowing how collisions work helps make safer cars and better sports equipment. \n\nTo solve collision problems, always check if the collision is elastic or inelastic. Use the conservation of momentum formula. Check your calculations to avoid mistakes. \n\nLet's summarize. We learned about two types of collisions: elastic and inelastic. In elastic collisions, both momentum and energy are conserved. In inelastic collisions, only momentum is conserved. We also learned about the conservation of momentum, which is key in solving collision problems. \n\nRemember, practice is important. Try solving different collision problems to get better. Good luck with your studies!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Elastic collision",
+    "Inelastic collision",
+    "Momentum",
+    "Conservation",
+    "Collision theory"
+  ],
+  "formulas": [
+    {
+      "formula": "p = m * v",
+      "description": "Momentum (p) is the product of mass (m) and velocity (v)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Elastic collision",
+      "definition": "A collision where both momentum and energy are conserved."
+    },
+    {
+      "term": "Inelastic collision",
+      "definition": "A collision where only momentum is conserved, not energy."
+    },
+    {
+      "term": "Momentum",
+      "definition": "The product of an object's mass and its velocity."
+    }
+  ]
+}

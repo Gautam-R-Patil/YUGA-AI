@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electric Charges and Fields",
+    "chapter_number": 1,
+    "topic": "Electric Field",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:06:58.549294",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about electric fields. Imagine you have a charged balloon. It can push or pull other charges around it. This push or pull happens because of the electric field. \n\nLet's start with the definition. The electric field is the force per unit charge. We write it as E = F/q. Here, E is the electric field, F is the force, and q is the charge. \n\nNow, think about a single point charge, like a tiny charged dot. The electric field due to this point charge is given by E = k * |q| / r^2. Here, k is a constant value, q is the charge, and r is the distance from the charge. \n\nElectric field lines help us see these fields. They show the direction a positive charge would move. Remember, lines never cross each other. They start from positive charges and end on negative charges. \n\nNext, let's talk about electric dipoles. A dipole is two equal and opposite charges close together. The dipole moment, shown by p, is the charge times the distance between them: p = q * d. \n\nThe electric field from a dipole on its axial line is different from the equatorial line. On the axial line, the field is strong and points away from the dipole. On the equatorial line, it is weaker and points towards the dipole. \n\nA dipole in a uniform electric field feels a torque, which can rotate it. The formula for torque is τ = pEsinθ, where θ is the angle between the dipole and the field. \n\nThe potential energy of a dipole in an electric field is U = -pEcosθ. It tells us how much energy the dipole has in the field. \n\nSometimes, we have many charges, like a charged rod or a surface. To find the electric field, we think of it as a continuous charge distribution. \n\nGauss's Law is a special tool for electric fields. It says the total electric field through a surface is equal to the charge inside divided by a constant. Mathematically, Φ = ∮E·dA = Q_enc/ε₀. \n\nGauss's Law is useful for finding electric fields in symmetrical shapes like spheres, cylinders, and planes. \n\nThe units of the electric field are volts per meter (V/m). This tells us how strong the field is. \n\nWhen drawing electric field lines, remember: they never cross, they start on positive charges, and end on negative charges. \n\nLet's look at an important derivation: the electric field due to a ring of charge. Imagine a ring with charge spread evenly. At the center, the field is zero. As you move away, the field increases, then decreases. \n\nKey concepts include field intensity, which is how strong the field is, and the field due to multiple charges, which is the sum of fields from each charge. \n\nCommon mistake: Do not confuse electric field with electric force. The field is the cause, the force is the effect. \n\nIn summary, electric fields are invisible forces around charges. They are important in many physics problems, especially in NEET exams. Remember the formulas and concepts we discussed today. Practice solving problems to get better. \n\nThat's all for electric fields. Keep studying and practicing. Good luck!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Electric Field",
+    "Point Charge",
+    "Electric Dipole",
+    "Gauss's Law",
+    "Field Lines"
+  ],
+  "formulas": [
+    {
+      "formula": "E = F/q",
+      "description": "Electric field is the force per unit charge"
+    },
+    {
+      "formula": "E = k * |q| / r^2",
+      "description": "Electric field due to a point charge"
+    },
+    {
+      "formula": "p = q * d",
+      "description": "Dipole moment is charge times distance"
+    },
+    {
+      "formula": "τ = pEsinθ",
+      "description": "Torque on a dipole in a uniform electric field"
+    },
+    {
+      "formula": "U = -pEcosθ",
+      "description": "Potential energy of a dipole in an electric field"
+    },
+    {
+      "formula": "Φ = ∮E·dA = Q_enc/ε₀",
+      "description": "Gauss's Law for electric fields"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electric Field",
+      "definition": "The region around a charged object where other charges feel a force"
+    },
+    {
+      "term": "Point Charge",
+      "definition": "A charge located at a single point in space"
+    },
+    {
+      "term": "Electric Dipole",
+      "definition": "Two equal and opposite charges separated by a distance"
+    },
+    {
+      "term": "Dipole Moment",
+      "definition": "A measure of the separation of positive and negative charges in a dipole"
+    },
+    {
+      "term": "Gauss's Law",
+      "definition": "The total electric flux through a closed surface is proportional to the charge inside"
+    }
+  ]
+}

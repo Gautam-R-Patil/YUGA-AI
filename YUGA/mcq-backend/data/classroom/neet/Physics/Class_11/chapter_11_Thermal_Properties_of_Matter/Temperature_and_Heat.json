@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermal Properties of Matter",
+    "chapter_number": 11,
+    "topic": "Temperature and Heat",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:59:17.942056",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about temperature and heat. These are important topics in physics and often appear in NEET exams. Let's start with temperature. Temperature tells us how hot or cold something is. We measure temperature using thermometers. Thermometers have scales like Celsius, Fahrenheit, and Kelvin. Celsius is common in India. Water freezes at 0°C and boils at 100°C.\n\nNow, let's talk about heat. Heat is energy that moves from a hot object to a cold object. When you touch a warm cup, heat moves to your hand. We measure heat in units called calories and joules. One calorie is the heat needed to raise 1 gram of water by 1°C. Joules are also units of energy. In physics, we often use joules.\n\nLet's see some examples. When you boil water, the temperature rises until it boils. The heat from the stove moves into the water. Another example is the sun. It heats the Earth, making life possible.\n\nIn engineering, temperature and heat are very important. Engineers design machines that work with heat, like engines and refrigerators. They need to control temperature to make machines safe and efficient.\n\nNow, let's solve a simple problem. If 100 grams of water needs to be heated from 20°C to 30°C, how much heat is needed? We use the formula: Q = mc∆T. Here, Q is heat, m is mass, c is specific heat capacity, and ∆T is the change in temperature. For water, c is 1 cal/g°C. So, Q = 100g × 1 cal/g°C × (30°C - 20°C) = 1000 calories.\n\nRemember, temperature is not heat. Temperature measures hotness, while heat is energy transfer. A common mistake is thinking they are the same.\n\nIn summary, temperature tells us how hot or cold something is. Heat is energy moving due to temperature difference. We use them in many fields, like engineering and daily life. Make sure to practice problems and understand these concepts well.\n\nThat's all for today. Keep practicing and stay curious!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Temperature",
+    "Heat",
+    "Calorie",
+    "Joule",
+    "Thermometer"
+  ],
+  "formulas": [
+    {
+      "formula": "Q = mc∆T",
+      "description": "Q is the heat added, m is mass, c is specific heat capacity, and ∆T is the change in temperature"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Temperature",
+      "definition": "A measure of how hot or cold something is"
+    },
+    {
+      "term": "Heat",
+      "definition": "Energy that moves from a hot object to a cold object"
+    },
+    {
+      "term": "Calorie",
+      "definition": "The amount of heat needed to raise 1 gram of water by 1°C"
+    },
+    {
+      "term": "Joule",
+      "definition": "A unit of energy in the International System of Units"
+    }
+  ]
+}

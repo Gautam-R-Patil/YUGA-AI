@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Gravitation",
+    "chapter_number": 8,
+    "topic": "Kepler's Laws of Planetary Motion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:56:21.620130",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will learn about Kepler's Laws of Planetary Motion. These laws help us understand how planets move around the Sun. Let's start with the first law.\n\n**Kepler's First Law**\nKepler's First Law is called the Law of Ellipses. It says that planets move in an elliptical path around the Sun. An ellipse looks like a stretched circle. The Sun is not in the center of this ellipse but at one of the two points called foci.\n\nImagine a hula hoop. If you press it from two sides, it looks like an ellipse. The Sun is at one focus, not in the middle. This is important to remember.\n\n**Kepler's Second Law**\nThe Second Law is the Law of Equal Areas. It says that a line joining a planet and the Sun sweeps out equal areas in equal times. This means that planets move faster when they are closer to the Sun and slower when they are farther.\n\nThink of a skater spinning. When they pull their arms in, they spin faster. This is similar to how planets move.\n\n**Kepler's Third Law**\nThe Third Law is the Law of Harmonies. It tells us about the time a planet takes to orbit the Sun. The square of the time taken (T^2) is proportional to the cube of the average distance (r^3) from the Sun.\n\nFor example, if Earth takes 1 year to orbit, and Mars is farther, Mars takes more than 1 year. This law helps in comparing different planets.\n\n**Applications in Astronomy**\nKepler's Laws are very useful in astronomy. They help scientists predict where planets will be in the future. They also help in finding new planets by observing their motion.\n\n**Examples of Planetary Motion**\nLet's look at Earth and Mars. Earth has a nearly circular orbit, while Mars has a more elliptical one. This affects how we see them from Earth.\n\n**Solving Problems Using Kepler's Laws**\nWe often use the Third Law to solve problems. If we know the time a planet takes to orbit, we can find its distance from the Sun. For example, if a planet takes 8 years to orbit, we use the formula T^2 = r^3 to find r.\n\n**Graphical Representation of Orbits**\nWe can draw orbits as ellipses with the Sun at one focus. This helps us visualize how planets move. Remember, the shape of the orbit affects the speed of the planet.\n\n**Common Mistakes**\nMany students think the Sun is at the center of the orbit. Remember, it is at one focus. Also, don't forget that planets move faster when they are closer to the Sun.\n\n**Key Points to Remember**\n- Planets move in elliptical orbits.\n- They sweep equal areas in equal times.\n- The time to orbit depends on the distance from the Sun.\n\n**Summary**\nKepler's Laws help us understand planetary motion. They are important for astronomy and solving problems in physics. Remember these laws and their applications for your exams.\n\nThat's all for today. Keep practicing, and see you next time!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Kepler's Laws",
+    "Elliptical Orbit",
+    "Planetary Motion",
+    "Astronomy",
+    "Equal Areas"
+  ],
+  "formulas": [
+    {
+      "formula": "T^2 = r^3",
+      "description": "The square of the orbital period (T) is proportional to the cube of the semi-major axis (r) of the orbit."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ellipse",
+      "definition": "A shape like a stretched circle with two focal points."
+    },
+    {
+      "term": "Focus",
+      "definition": "One of the two points in an ellipse; the Sun is at one focus in planetary orbits."
+    },
+    {
+      "term": "Orbital Period",
+      "definition": "The time a planet takes to complete one orbit around the Sun."
+    }
+  ]
+}

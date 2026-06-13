@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electromagnetic Waves",
+    "chapter_number": 15,
+    "topic": "Properties of Electromagnetic Waves",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:59:12.389377",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will talk about electromagnetic waves. These waves are very important in physics and in our daily lives. First, let's connect this topic with what you already know. Remember light waves? Electromagnetic waves are similar, but they include more than just light. They also include radio waves, microwaves, and X-rays.\n\nLet's start with the transverse nature of electromagnetic waves. Transverse means that the wave moves in a direction perpendicular to the direction of the energy. This is like how a water wave moves up and down while traveling forward. In JEE Main, you might get questions asking about this property. Remember, electromagnetic waves are always transverse.\n\nNext, let's talk about the speed of electromagnetic waves in a vacuum. The speed is constant and very fast. It is approximately 3 x 10^8 meters per second. This is also the speed of light. In JEE Main, you might need to use this speed in calculations. For example, if you know the frequency of a wave, you can find its wavelength using the formula: speed = frequency x wavelength.\n\nNow, let's discuss polarization. Polarization is when a wave vibrates in one direction only. Think of it like a rope that you move up and down. Only the vertical direction is allowed. In JEE Main, you might be asked about devices that polarize light, like polarizing filters. Remember, only transverse waves can be polarized.\n\nLet's move on to reflection and refraction. Reflection is when a wave bounces off a surface. Refraction is when a wave bends as it passes through a different medium. For example, when light enters water, it slows down and bends. In JEE Main, you may need to use Snell's Law: n1 x sin(θ1) = n2 x sin(θ2). This helps find angles of incidence and refraction.\n\nInterference is another important property. This happens when two waves meet. They can add up to make a bigger wave or cancel each other out. A common example is the colorful patterns seen on soap bubbles. In JEE Main, you might see questions about constructive interference (waves add up) and destructive interference (waves cancel).\n\nFinally, let's talk about diffraction. Diffraction is when a wave spreads out after passing through a small opening. It is like water waves spreading out after passing through a narrow gap. In JEE Main, you might be asked about the conditions for maximum diffraction, which occurs when the opening size is similar to the wavelength.\n\nNow, let's go over some common mistakes. Students often confuse reflection and refraction. Remember, reflection is bouncing back, and refraction is bending. Also, don't forget that only transverse waves can be polarized.\n\nIn summary, electromagnetic waves are transverse and travel at the speed of light in a vacuum. They can be polarized, reflected, refracted, interfere, and diffract. Keep practicing these concepts, and you'll do well in JEE Main.\n\nThat's all for today. Keep revising and practicing problems. See you next time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electromagnetic Waves",
+    "Transverse Nature",
+    "Speed in Vacuum",
+    "Polarization",
+    "Reflection"
+  ],
+  "formulas": [
+    {
+      "formula": "speed = frequency x wavelength",
+      "description": "Used to find the wavelength or frequency of a wave when the speed is known"
+    },
+    {
+      "formula": "n1 x sin(θ1) = n2 x sin(θ2)",
+      "description": "Snell's Law, used to find angles of incidence and refraction in refraction problems"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electromagnetic Waves",
+      "definition": "Waves that can travel through a vacuum and include light, radio, and X-rays"
+    },
+    {
+      "term": "Transverse Waves",
+      "definition": "Waves that move perpendicular to the direction of energy transfer"
+    },
+    {
+      "term": "Polarization",
+      "definition": "The process of restricting the vibrations of a wave to one direction"
+    }
+  ]
+}

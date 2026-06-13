@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "States of Matter",
+    "chapter_number": 3,
+    "topic": "Gas Laws",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:05:23.564292",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Gas Laws in Chemistry. These laws help us understand how gases behave. Let's start with Boyle's Law. Boyle's Law says that if the temperature is constant, the pressure of a gas is inversely proportional to its volume. This means if you increase the pressure, the volume decreases. The formula is P1 x V1 = P2 x V2. For example, if you have a balloon and you squeeze it, the volume goes down, but the pressure inside goes up.\n\nNext, we have Charles's Law. This law states that the volume of a gas is directly proportional to its temperature, if the pressure is constant. The formula is V1/T1 = V2/T2. Imagine a balloon again. If you heat it, it expands because the volume increases with temperature.\n\nNow, let's talk about Avogadro's Law. It tells us that the volume of a gas is directly proportional to the number of moles, if pressure and temperature are constant. The formula is V1/n1 = V2/n2. This means more gas particles take up more space.\n\nThese three laws combine to form the Ideal Gas Law: PV = nRT. Here, P is pressure, V is volume, n is the number of moles, R is the gas constant, and T is temperature. This formula is very important for JEE Main problems.\n\nHowever, real gases do not always follow the Ideal Gas Law. They deviate under high pressure and low temperature. Van der Waals equation helps us with real gases. It is (P + a(n/V)^2) (V - nb) = nRT. Here, 'a' and 'b' are constants for each gas.\n\nThe Critical Temperature is the highest temperature at which a gas can be liquefied. Critical Pressure is the pressure required to liquefy a gas at its critical temperature. These are important concepts for understanding gas behavior.\n\nThe Compressibility Factor, Z, tells us how much a gas deviates from ideal behavior. It is Z = PV/nRT. If Z = 1, the gas behaves ideally. If not, it shows deviation.\n\nLastly, Isotherms of real gases show how pressure and volume change at constant temperature. They help us visualize gas behavior.\n\nLet's look at common mistakes. In JEE Main, students often forget to check units. Always use the correct units for pressure, volume, and temperature.\n\nKey takeaways: Remember the gas laws and their formulas. Practice using them in problems. Be careful with units.\n\nIn summary, gas laws help us understand how gases behave under different conditions. These laws are important for solving JEE Main problems. Practice these concepts and formulas to do well in exams.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Boyle's Law",
+    "Charles's Law",
+    "Avogadro's Law",
+    "Ideal Gas Law",
+    "Van der Waals Equation"
+  ],
+  "formulas": [
+    {
+      "formula": "P1 x V1 = P2 x V2",
+      "description": "Used when pressure and volume change at constant temperature"
+    },
+    {
+      "formula": "V1/T1 = V2/T2",
+      "description": "Used when volume and temperature change at constant pressure"
+    },
+    {
+      "formula": "V1/n1 = V2/n2",
+      "description": "Used when volume and moles of gas change at constant pressure and temperature"
+    },
+    {
+      "formula": "PV = nRT",
+      "description": "Used to calculate properties of an ideal gas"
+    },
+    {
+      "formula": "(P + a(n/V)^2) (V - nb) = nRT",
+      "description": "Used for real gases to account for deviations from ideal behavior"
+    },
+    {
+      "formula": "Z = PV/nRT",
+      "description": "Used to determine how much a gas deviates from ideal behavior"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Boyle's Law",
+      "definition": "The pressure of a gas is inversely proportional to its volume at constant temperature."
+    },
+    {
+      "term": "Charles's Law",
+      "definition": "The volume of a gas is directly proportional to its temperature at constant pressure."
+    },
+    {
+      "term": "Avogadro's Law",
+      "definition": "The volume of a gas is directly proportional to the number of moles at constant temperature and pressure."
+    },
+    {
+      "term": "Ideal Gas Law",
+      "definition": "A law combining Boyle's, Charles's, and Avogadro's laws to describe the behavior of an ideal gas."
+    },
+    {
+      "term": "Van der Waals Equation",
+      "definition": "An equation that adjusts the Ideal Gas Law to account for the volume of gas particles and the attraction between them."
+    }
+  ]
+}

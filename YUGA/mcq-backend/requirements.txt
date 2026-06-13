@@ -1,0 +1,10 @@
+PyMuPDF
+Pillow
+faiss-cpu
+numpy
+sentence-transformers
+rank-bm25
+diskcache
+tenacity
+openai
+python-dotenv

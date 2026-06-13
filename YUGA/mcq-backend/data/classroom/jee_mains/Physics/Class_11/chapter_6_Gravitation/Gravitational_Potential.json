@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Gravitation",
+    "chapter_number": 6,
+    "topic": "Gravitational Potential",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:50:22.116028",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about gravitational potential. This topic is important for JEE Main. Remember, gravity is the force that pulls two masses towards each other. \n\nLet's start with the definition. Gravitational potential at a point is the work done to bring a unit mass from infinity to that point. It tells us how much energy is needed. The unit of gravitational potential is Joules per kilogram (J/kg).\n\nNext, potential due to a point mass. If you have a mass M at a point, the potential V at a distance r from it is given by V = -G(M/r). Here, G is the gravitational constant. This formula is often used in JEE Main questions.\n\nNow, let's connect it with the gravitational field. The gravitational field is the force per unit mass. The relation is simple: the field strength is the negative gradient of potential. In simple words, it tells us how quickly the potential changes with distance.\n\nLet's talk about potential energy. If you have two masses, their potential energy U is given by U = -G(M1*M2/r). This formula is useful when you calculate energy in a system.\n\nEquipotential surfaces are interesting. These are surfaces where the potential is the same everywhere. No work is done if you move along these surfaces. Imagine them like layers of an onion.\n\nNow, potential inside and outside spherical shells. Inside a shell, the potential is constant. Outside, it behaves like a point mass. This is important for JEE Main problems involving spherical bodies.\n\nApplications in energy calculations are many. For example, calculating escape velocity or the energy needed to move satellites.\n\nFinally, how does potential vary with distance? As you move away from a mass, the potential decreases. This is because less energy is needed to move further away.\n\nLet's look at a common mistake. Students often forget the negative sign in the potential formula. Remember, potential is negative because work is done against gravity.\n\nKey takeaways: Gravitational potential is about energy. Use the formulas wisely. Watch out for negative signs.\n\nIn summary, gravitational potential helps us understand energy in a gravitational field. We learned about formulas and their applications. Practice problems to master this topic.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Gravitational Potential",
+    "Equipotential Surfaces",
+    "Point Mass",
+    "Potential Energy",
+    "Spherical Shell"
+  ],
+  "formulas": [
+    {
+      "formula": "V = -G(M/r)",
+      "description": "Used to calculate potential due to a point mass at distance r."
+    },
+    {
+      "formula": "U = -G(M1*M2/r)",
+      "description": "Used to find potential energy between two masses M1 and M2 separated by distance r."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Gravitational Potential",
+      "definition": "The work done to bring a unit mass from infinity to a point."
+    },
+    {
+      "term": "Equipotential Surface",
+      "definition": "A surface where the gravitational potential is the same everywhere."
+    }
+  ]
+}

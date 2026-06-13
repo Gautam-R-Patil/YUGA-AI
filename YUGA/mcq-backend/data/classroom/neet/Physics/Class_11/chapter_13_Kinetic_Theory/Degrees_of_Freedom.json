@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Kinetic Theory",
+    "chapter_number": 13,
+    "topic": "Degrees of Freedom",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:02:49.464702",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we're going to learn about 'Degrees of Freedom' in the chapter on Kinetic Theory. This is an important topic for your NEET exams. So, let's get started!\n\nFirst, let's understand what 'Degrees of Freedom' means. In simple words, degrees of freedom are the different ways in which a molecule can move. Think of it like a dancer who can move arms, legs, and head in different directions. Each direction is a degree of freedom.\n\nNow, how do we calculate degrees of freedom? This depends on the type of molecule. For example, a single atom gas like helium has 3 degrees of freedom. It can move in three directions: x, y, and z. This is called translational motion.\n\nFor a diatomic gas like oxygen, the molecule has 5 degrees of freedom. It can move in x, y, and z directions, and it can also spin around two axes. This adds two more degrees of freedom for rotation.\n\nHere's a quick check: If a molecule can move in 3 ways and rotate in 2 ways, how many degrees of freedom does it have? Yes, 5!\n\nWhy do degrees of freedom matter? In engineering, they help us understand how gases behave under different conditions. For example, in engines, knowing the degrees of freedom helps in designing efficient engines that save fuel.\n\nLet's solve a simple problem. If a gas has 6 degrees of freedom, what type of gas could it be? This could be a polyatomic gas, which has more complex movements.\n\nCommon mistake: Students often forget to count rotational movements. Remember, rotation adds to the degrees of freedom.\n\nNow, let's talk about graphical representation. Imagine a graph where each axis represents a degree of freedom. For a diatomic gas, you might see three axes for movement and two for rotation. This helps visualize how the gas particles move.\n\nTo sum up, degrees of freedom are ways a molecule can move. They are crucial for understanding gas behavior, especially in NEET exams.\n\nKey points to remember: Different gases have different degrees of freedom. Always count both translational and rotational movements.\n\nThat's all for today! Keep practicing, and you'll master this topic in no time.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Degrees of Freedom",
+    "Translational Motion",
+    "Rotational Motion",
+    "Diatomic Gas",
+    "Polyatomic Gas"
+  ],
+  "formulas": [
+    {
+      "formula": "f = 3N - k",
+      "description": "f is degrees of freedom, N is number of atoms, k is constraints"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Degrees of Freedom",
+      "definition": "The different ways in which a molecule can move"
+    },
+    {
+      "term": "Translational Motion",
+      "definition": "Movement of a molecule in three-dimensional space"
+    },
+    {
+      "term": "Rotational Motion",
+      "definition": "Spinning movement of a molecule around its axis"
+    }
+  ]
+}

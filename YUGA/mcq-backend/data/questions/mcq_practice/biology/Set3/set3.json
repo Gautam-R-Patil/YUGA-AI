@@ -1,0 +1,310 @@
+[
+    {
+        "id": 20,
+        "question_number": "4",
+        "text": "A disease caused by an autosomal primary non-disjunction is:",
+        "subject": "Biology",
+        "sub_topic": "Genetics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Klinefelter's Syndrome",
+            "Turner's Syndrome",
+            "Sickle Cell Anemia",
+            "Down's Syndrome"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 20,
+        "correct_answer": "Down's Syndrome",
+        "basic_answer": "Down's Syndrome is caused by an extra copy of chromosome 21 due to non-disjunction during meiosis. This results in trisomy 21, which is the most common autosomal aneuploidy. \n\nTherefore, Down's Syndrome is the answer.",
+        "explanation": "### Core Concept\nChromosomal disorders are caused by the error in cell division known as non-disjunction (failure of paired chromosomes to separate). This leads to an abnormal number of chromosomes in a cell, known as aneuploidy.\n\n### Solution\nDown's syndrome is a genetic disorder caused by the presence of an additional copy of chromosome number 21 (Trisomy 21). Since chromosome 21 is an autosome (non-sex chromosome), this is specifically an autosomal non-disjunction event.\n\n### Why This Answer\n* Down's Syndrome: Trisomy of chromosome 21 (Autosomal).\n* Klinefelter's Syndrome: Trisomy of sex chromosomes (47, XXY).\n* Turner's Syndrome: Monosomy of sex chromosomes (45, X0).\n* Sickle Cell Anemia: A Mendelian disorder caused by a point mutation, not a chromosomal error.\n\n### Common Mistakes\n* Confusing Autosomes with Sex Chromosomes: Students often mix up Klinefelter's/Turner's (sex-linked) with Down's (autosomal).\n* Mechanism Error: Thinking Sickle Cell Anemia involves whole chromosomes when it is actually a single gene mutation.",
+        "keywords": {
+            "DS": "Down's Syndrome",
+            "Aneuploidy": "Abnormal number of chromosomes"
+        }
+    },
+    {
+        "id": 21,
+        "question_number": "5",
+        "text": "Which of the following facilitates opening of stomatal aperture?",
+        "subject": "Botany",
+        "sub_topic": "Plant Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Decrease in turgidity of guard cells",
+            "Radial orientation of cellulose microfibrils in the cell wall of guard cells.",
+            "Longitudinal orientation of cellulose microfibrils in the cell wall of guard cells",
+            "Contraction of outer wall of guard cells"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 21,
+        "correct_answer": "Radial orientation of cellulose microfibrils in the cell wall of guard cells.",
+        "basic_answer": "Radial orientation of cellulose microfibrils in the cell wall of guard cells allows them to expand when water enters, causing the stomata to open.\n\nTherefore, B is the answer.",
+        "explanation": "### Core Concept\nThe opening and closing of stomata is a result of turgor changes in the guard cells. The unique structural orientation of cellulose microfibrils in the cell walls determines how these cells deform when they take up water.\n\n### Solution\nGuard cell walls are not uniform; the inner wall (facing the pore) is thick and elastic, while the outer wall is thin. Cellulose microfibrils are oriented radially (rather than longitudinally). When turgor pressure increases, this radial arrangement allows the guard cells to expand mostly in length, causing them to bulge outward and pull the pore open.\n\n### Why This Answer\nRadial orientation is essential because it facilitates the specific \"bowing\" or curving of the guard cells. Longitudinal orientation would actually prevent the cells from curving outward, making stomatal opening difficult or impossible.\n\n### Common Mistakes\n* Directional Confusion: Thinking microfibrils are longitudinal. \n* Turgidity Misunderstanding: A *decrease* in turgidity results in the closing of stomata, not opening.",
+        "keywords": {}
+    },
+    {
+        "id": 22,
+        "question_number": "6",
+        "text": "The water potential of pure water is:",
+        "subject": "Botany",
+        "sub_topic": "Plant Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Less than zero",
+            "More than zero but less than one",
+            "More than one",
+            "Zero"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 22,
+        "correct_answer": "Zero",
+        "basic_answer": "Water potential of pure water is defined as zero because it is the reference point against which all other water potentials are measured. This means that pure water, which has no solute, has the highest potential energy. \n\nHence, the answer is zero.",
+        "explanation": "### Core Concept\nWater potential ($\u03a8_w$) is a measure of the free energy of water. It determines the direction in which water will flow (from higher potential to lower potential).\n\n### Solution\nBy scientific convention, the water potential of pure water at standard temperature and pressure (not under any pressure) is taken to be zero. This is the highest possible value for water potential in a biological system at atmospheric pressure.\n\n### Why This Answer\nWhen solutes are added to pure water, the concentration of free water molecules decreases, reducing the free energy. Therefore, all solutions have a water potential lower than zero (negative values). Zero serves as the baseline reference point.\n\n### Common Mistakes\n* Numerical Confusion: Thinking the value is 1 (like probability) or a positive number. \n* Solute Effect: Forgetting that adding solute makes the value *more negative*, not higher.",
+        "keywords": {
+            "\u03a8": "water potential",
+            "MPa": "megapascal"
+        }
+    },
+    {
+        "id": 23,
+        "question_number": "7",
+        "text": "In Bougainvillea thorns are the modifications of:",
+        "subject": "Botany",
+        "sub_topic": "Plant Morphology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Adventitious root",
+            "Stem",
+            "Leaf",
+            "Stipules"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 23,
+        "correct_answer": "Stem",
+        "basic_answer": "Thorns in Bougainvillea are modified stems that serve as a protective mechanism against herbivores. Unlike leaves or roots, thorns are a direct modification of the stem structure. \n\nTherefore, the thorns are classified as stem modifications.",
+        "explanation": "### Core Concept\nPlants undergo various morphological modifications for protection or support. It is crucial to distinguish between thorns, spines, and prickles based on their tissue of origin.\n\n### Solution\nIn *Bougainvillea*, the sharp, woody protective structures are thorns. Thorns are modified stems because they originate from the axillary buds, which are embryonic shoots. Because they have a vascular connection to the stem, they are hard and difficult to break off.\n\n### Why This Answer\n* Stem Modification (Thorns): Seen in *Bougainvillea* and *Citrus*.\n* Leaf Modification (Spines): Seen in *Cacti* (Opuntia) where leaves become sharp to reduce water loss.\n* Stipule/Epidermal Modification: Seen in plants like Roses (prickles).\n\n### Common Mistakes\n* Confusing Thorns with Spines: Thinking that any sharp structure is a leaf modification. In *Bougainvillea*, the origin is specifically the axillary bud, making it a stem modification.",
+        "keywords": {}
+    },
+    {
+        "id": 24,
+        "question_number": "8",
+        "text": "Which of the following options gives the correct sequence of events during mitosis?",
+        "subject": "Biology",
+        "sub_topic": "Cell Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Condensation, nuclear membrane disassembly, arrangement at equator, centromere division, segregation, telophase",
+            "Condensation, crossing over, nuclear membrane disassembly, segregation, telophase",
+            "Condensation, arrangement at equator, centromere division, segregation, telophase",
+            "Condensation, nuclear membrane disassembly, crossing over, segregation, telophase"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 24,
+        "correct_answer": "Condensation, nuclear membrane disassembly, arrangement at equator, centromere division, segregation, telophase",
+        "explanation": "### Core Concept\nMitosis is the process of nuclear division that results in two identical daughter nuclei. It follows a strict chronological order of phases: Prophase, Metaphase, Anaphase, and Telophase.\n\n### Solution\n1.  Prophase: Chromatin condensation into chromosomes and nuclear membrane disassembly.\n2.  Metaphase: Chromosomes arrange at the equator (metaphase plate).\n3.  Anaphase: Centromere division occurs, followed by the segregation (separation) of sister chromatids to opposite poles.\n4.  Telophase: Chromosomes reach poles and decondense.\n\n### Why This Answer\nOption A is the only sequence that covers all major mechanical steps of mitosis in the correct order. The other options are incorrect because they include \"crossing over,\" which is a specific event that occurs only during Meiosis I (Prophase I), not mitosis.\n\n### Common Mistakes\n* Mitosis vs. Meiosis: Including crossing over in a mitosis sequence. \n* Step Order: Mixing up the timing of centromere division (Anaphase) with equatorial arrangement (Metaphase).",
+        "keywords": {}
+    },
+    {
+        "id": 25,
+        "question_number": "1",
+        "text": "The process of separation and purification of expressed protein before marketing is called:",
+        "subject": "Biology",
+        "sub_topic": "Biotechnology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Downstream processing",
+            "Bioprocessing",
+            "Postproduct processing",
+            "Upstream processing"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 25,
+        "correct_answer": "Downstream processing",
+        "basic_answer": "Downstream processing refers to the separation and purification of proteins after they have been expressed in a bioprocess. This stage is critical for preparing proteins for market and ensures quality and efficacy.",
+        "explanation": "### Core Concept\nIn biotechnology, the commercial production of a biological product is divided into two main stages: Upstream (the preparation and actual synthesis/expression of the product) and Downstream (the recovery and finishing of the product).\n\n### Solution\nOnce the protein has been expressed in the bioreactor, it must be harvested. Downstream processing includes all the steps necessary to turn the raw harvest into a finished product, primarily separation and purification. This is followed by clinical trials and quality control before marketing.\n\n### Why This Answer\n* Downstream Processing: The recovery and purification phase.\n* Upstream Processing: Selection of the organism, media preparation, and growth/expression.\n* Bioprocessing: A general term for the entire process.\n\n### Common Mistakes\n* Directional Confusion: Thinking \"upstream\" refers to the final steps. Remember: The product flows *down* the line from the lab to the market.",
+        "keywords": {}
+    },
+    {
+        "id": 26,
+        "question_number": "2",
+        "text": "A temporary endocrine gland in the human body is:",
+        "subject": "Biology",
+        "sub_topic": "Human Reproduction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Corpus cardiacum",
+            "Corpus luteum",
+            "Corpus allatum",
+            "Pineal gland"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 26,
+        "correct_answer": "Corpus luteum",
+        "basic_answer": "The corpus luteum is a temporary endocrine gland formed in the ovaries after ovulation. It produces hormones, particularly progesterone, which is essential for maintaining pregnancy. \n\nTherefore, the corpus luteum is considered a temporary endocrine gland.",
+        "explanation": "### Core Concept\nMost endocrine glands are permanent structures (like the thyroid or pituitary). However, some structures exist and secrete hormones only for a short duration during a specific biological phase.\n\n### Solution\nThe corpus luteum is formed in the ovary from the ruptured Graafian follicle after ovulation. It acts as a temporary endocrine gland by secreting high levels of progesterone (essential for maintaining the endometrium). If fertilization does not occur, the corpus luteum degenerates into the corpus albicans.\n\n### Why This Answer\n* Corpus Luteum: Temporary gland in humans.\n* Pineal Gland: A permanent endocrine gland in the brain.\n* Corpus Cardiacum/Allatum: These are endocrine structures found in insects, not humans.\n\n### Common Mistakes\n* Biological Kingdom Error: Choosing *Corpus allatum* or *cardiacum* without realizing they are exclusive to arthropods.\n* Gland Duration: Assuming the pineal gland is temporary because it is small.",
+        "keywords": {}
+    },
+    {
+        "id": 27,
+        "question_number": "3",
+        "text": "Which of the following is made up of dead cells?",
+        "subject": "Biology",
+        "sub_topic": "Plant Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Collenchyma",
+            "Phellem",
+            "Phloem",
+            "Xylem parenchyma"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 27,
+        "correct_answer": "Phellem",
+        "basic_answer": "Phellem is composed of dead cells that form the outer protective layer of stems and roots in plants. This tissue serves as a barrier to protect against water loss and pathogens. \n\nTherefore, the answer is B.",
+        "explanation": "### Core Concept\nPlant tissues are classified into living (containing protoplasm) and dead (lacking protoplasm at maturity, usually providing mechanical support or protection).\n\n### Solution\nPhellem (also known as cork) is produced by the cork cambium during secondary growth. As these cells mature, their walls become heavily impregnated with suberin, which is impermeable to water. This causes the cells to lose their protoplasm and die, forming a protective waterproof layer.\n\n### Why This Answer\n* Phellem: Dead at maturity.\n* Collenchyma: A living mechanical tissue with pectin thickenings.\n* Phloem: Composed mostly of living cells (sieve tubes, companion cells, parenchyma), with the exception of phloem fibers.\n* Xylem Parenchyma: The only living component of the xylem.\n\n### Common Mistakes\n* Mechanical Tissue Confusion: Thinking all support tissues like collenchyma are dead (only sclerenchyma and phellem are dead).\n* Xylem/Phloem Generalization: Assuming all xylem is dead or all phloem is living; one must check the specific cell type listed (parenchyma).",
+        "keywords": {}
+    },
+    {
+        "id": 28,
+        "question_number": "4",
+        "text": "The function of copper ions in copper releasing IUD's is:",
+        "subject": "Biology",
+        "sub_topic": "Reproductive Health",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "They inhibit gametogenesis",
+            "They make uterus unsuitable for implantation",
+            "The inhibit ovulation",
+            "The suppress sperm motility and fertilizing capacity of sperms"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 28,
+        "correct_answer": "The suppress sperm motility and fertilizing capacity of sperms",
+        "basic_answer": "Copper ions in copper releasing IUDs primarily function by suppressing sperm motility and fertilizing capacity. This action impedes sperm from effectively reaching and fertilizing the egg. \n\nHence the answer is D.",
+        "explanation": "### Core Concept\nIntrauterine Devices (IUDs) are a form of reversible contraception. While all IUDs increase the phagocytosis of sperm within the uterus, copper-releasing IUDs (like CuT, Cu7) add a biochemical mechanism of action.\n\n### Solution\nThe copper ions ($Cu^{2+}$) released into the uterine environment act as a spermicide. They specifically interfere with the biochemical processes that allow sperm to swim and penetrate the egg. This results in suppressed sperm motility and a reduced fertilizing capacity.\n\n### Why This Answer\nUnlike hormonal IUDs or pills, copper IUDs do not interfere with the production of eggs (gametogenesis) or their release (ovulation). Their role is purely to prevent the sperm from successfully interacting with the egg.\n\n### Common Mistakes\n* IUD vs. Pills: Thinking copper IUDs work by stopping ovulation.\n* General vs. Specific: While copper IUDs do affect the uterine environment, their primary and most direct mechanism is the suppression of sperm activity.",
+        "keywords": {
+            "Cu": "Copper",
+            "IUD": "Intrauterine Device"
+        }
+    },
+    {
+        "id": 29,
+        "question_number": "5",
+        "text": "An example of colonial alga is:",
+        "subject": "Biology",
+        "sub_topic": "Algae",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Volvox",
+            "Ulothrix",
+            "Spirogyra",
+            "Chlorella"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 29,
+        "correct_answer": "Volvox",
+        "basic_answer": "Volvox is a colonial alga that forms spherical colonies. It consists of many individual cells that are interconnected and coordinate their movements. \n\nTherefore, it exemplifies colonial organization.",
+        "explanation": "### Core Concept\nAlgae exhibit a high degree of variation in their plant body (thallus) organization, ranging from unicellular to complex multicellular forms.\n\n### Solution\nVolvox is the classic example of a colonial alga. It consists of a specific number of cells (coenobium) arranged in a hollow sphere. The individual cells within the colony are often connected by cytoplasmic strands and coordinate their movement.\n\n### Why This Answer\n* Volvox: Colonial.\n* Chlorella: Unicellular.\n* Ulothrix & Spirogyra: Filamentous (multicellular but arranged in long threads).\n\n### Common Mistakes\n* Colonial vs. Filamentous: Students often mix up *Volvox* (sphere/colony) with *Spirogyra* (thread/filament). \n* Complexity Error: Assuming *Chlorella* is colonial because it is often found in large groups; however, those cells do not form a coordinated colony structure.",
+        "keywords": {}
+    }
+]

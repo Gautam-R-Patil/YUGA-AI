@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "s-Block Elements",
+    "chapter_number": 15,
+    "topic": "Alkali Metals",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:16:13.875717",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Alkali Metals. These are the elements in Group 1 of the periodic table. They include Lithium (Li), Sodium (Na), Potassium (K), Rubidium (Rb), Cesium (Cs), and Francium (Fr). Let's explore their properties and uses.\n\nFirst, let's talk about their physical properties. Alkali metals are very soft. You can cut them with a knife. They also have low density. This means they are light. For example, Lithium is so light it can float on water.\n\nNow, let's look at their chemical properties. Alkali metals react quickly with water. When they react, they form a hydroxide and hydrogen gas. For example, Sodium reacts with water to form sodium hydroxide and hydrogen gas. Be careful! This reaction can be explosive.\n\nAnother important reaction is with halogens. Halogens are elements like Chlorine and Bromine. When Alkali metals react with halogens, they form salts. For example, Sodium reacts with Chlorine to form Sodium Chloride, which is common table salt.\n\nA fun property of Alkali metals is their flame test colors. Each metal gives a different color to a flame. Lithium gives a red color, Sodium gives a yellow color, and Potassium gives a lilac color. This is useful in identifying these metals in the lab.\n\nAlkali metals have many applications. Sodium is used in street lights. Potassium is important in fertilizers. Lithium is used in batteries. These metals are very useful in industry.\n\nIn biology, Potassium and Sodium are important for nerve function. They help send signals in our body. Without them, our muscles would not work properly.\n\nNow, let's discuss trends in melting and boiling points. As we move down the group from Lithium to Francium, the melting and boiling points decrease. This is because the atoms become larger and the metallic bonds become weaker.\n\nLet's compare Alkali metals with Alkaline Earth metals. Alkaline Earth metals are in Group 2. They are harder and denser than Alkali metals. They also have higher melting points. But they are less reactive than Alkali metals.\n\nWatch out for common mistakes in JEE Main. Sometimes, students confuse Alkali metals with Alkaline Earth metals. Remember, Group 1 elements are Alkali metals.\n\nKey takeaways: Alkali metals are soft and light. They react with water and halogens. They have unique flame test colors. They are important in industry and biology.\n\nIn summary, Alkali metals are very reactive and useful. Understanding their properties helps us in many fields. Keep these points in mind for your exams. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Alkali Metals",
+    "Lithium",
+    "Sodium",
+    "Potassium",
+    "Flame Test"
+  ],
+  "formulas": [
+    {
+      "formula": "2Na + 2H2O -> 2NaOH + H2",
+      "description": "This equation shows the reaction of Sodium with water, forming Sodium Hydroxide and Hydrogen gas."
+    },
+    {
+      "formula": "2Na + Cl2 -> 2NaCl",
+      "description": "This equation shows the reaction of Sodium with Chlorine, forming Sodium Chloride."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alkali Metals",
+      "definition": "Elements in Group 1 of the periodic table, including Li, Na, K, Rb, Cs, and Fr."
+    },
+    {
+      "term": "Flame Test",
+      "definition": "A test used to identify metals by the color they produce in a flame."
+    },
+    {
+      "term": "Density",
+      "definition": "The mass of a substance per unit volume. Alkali metals have low density."
+    }
+  ]
+}

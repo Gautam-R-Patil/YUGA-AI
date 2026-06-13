@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Laws of Motion",
+    "chapter_number": 5,
+    "topic": "Concept of Force",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:51:19.164966",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about a very important concept in physics: Force. Force is a push or pull on an object. It can make things move, stop, or change direction. \n\nFirst, let's define force. Force is something that can change the motion of an object. It has both size and direction. We measure force in newtons (N).\n\nNow, let's talk about the effects of force. Force can do many things. It can start or stop motion. For example, when you kick a ball, you apply force to make it move. Force can also change the shape of an object. Think of squeezing a sponge. \n\nThere are two main types of forces: contact forces and non-contact forces. Contact forces happen when two objects touch each other. A common example is friction. Friction is the force that stops a sliding object. Another example is tension. Tension is the pulling force in a rope or string.\n\nNon-contact forces act at a distance. They do not need objects to touch. Gravity is a non-contact force. It pulls objects toward the Earth. Another example is magnetic force. Magnets can pull or push objects without touching them.\n\nLet's look at some examples of forces in everyday life. When you push a door open, you use force. When you lift your school bag, you apply force against gravity. \n\nNow, let's talk about free-body diagrams. These are simple drawings. They show all the forces acting on an object. Free-body diagrams help us understand how forces work. They are very useful in solving physics problems.\n\nIn physics, force has many applications. Engineers use force to design buildings and bridges. Doctors use force when they check your knee reflexes. Force is everywhere!\n\nNow, let's remember some key points. Force is a push or pull. It can change motion and shape. There are contact and non-contact forces. Free-body diagrams help us see forces clearly.\n\nIn summary, force is a basic concept in physics. It helps us understand how things move and interact. Remember, practice drawing free-body diagrams. They will help you in exams like NEET.\n\nThat's all for today. Keep practicing, and you will master the concept of force!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Force",
+    "Contact force",
+    "Non-contact force",
+    "Free-body diagram",
+    "Newton"
+  ],
+  "formulas": [
+    {
+      "formula": "F = ma",
+      "description": "Newton's second law: Force equals mass times acceleration."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Force",
+      "definition": "A push or pull on an object that can change its motion."
+    },
+    {
+      "term": "Contact force",
+      "definition": "A force that occurs when two objects are touching."
+    },
+    {
+      "term": "Non-contact force",
+      "definition": "A force that acts at a distance without direct contact."
+    },
+    {
+      "term": "Free-body diagram",
+      "definition": "A simple drawing that shows all the forces acting on an object."
+    }
+  ]
+}

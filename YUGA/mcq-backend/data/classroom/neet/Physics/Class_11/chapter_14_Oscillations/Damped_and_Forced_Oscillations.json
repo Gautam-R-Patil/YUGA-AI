@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Oscillations",
+    "chapter_number": 14,
+    "topic": "Damped and Forced Oscillations",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:04:16.915898",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about damped and forced oscillations. These are important topics in physics and often appear in NEET exams. Let's start with damped oscillations. \n\nDamped oscillations occur when an object moves back and forth, but its motion slows down over time. This happens because of resistance, like air or friction. Imagine a swing. When you push it, it moves back and forth. But after some time, it stops. This is because of damping. \n\nA simple example is a car shock absorber. It helps the car stop bouncing after hitting a bump. Without damping, the car would keep bouncing. \n\nNow, let's talk about forced oscillations. Forced oscillations happen when an external force keeps pushing an object. This force keeps the object moving. For example, when you keep pushing a swing, it continues to move. \n\nA good real-world example is a child on a swing. If you keep pushing the child, the swing keeps moving. This is forced oscillation. \n\nApplications of these oscillations are everywhere. Damped oscillations are used in car shock absorbers and clocks. Forced oscillations are used in musical instruments and bridges. \n\nNow, let's look at some problems. In NEET exams, you might be asked to find the time it takes for oscillations to stop. Or, you might calculate the frequency of forced oscillations. \n\nA common mistake is to confuse damping with stopping. Remember, damping slows down motion, but it does not stop it immediately. \n\nLet's talk about the graphs. In damped oscillations, the graph shows a wave that gets smaller over time. In forced oscillations, the graph shows a constant wave due to continuous force. \n\nIn summary, damped oscillations slow down due to resistance. Forced oscillations keep going because of an external force. Both have important applications. \n\nRemember these key points: Damping slows down motion. Forced oscillations need an external push. Practice solving problems to master these concepts.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Damped Oscillations",
+    "Forced Oscillations",
+    "External Force",
+    "Resistance",
+    "Oscillation Graph"
+  ],
+  "formulas": [
+    {
+      "formula": "x(t) = A * e^(-bt) * cos(ωt + φ)",
+      "description": "This formula represents damped oscillations where x(t) is the displacement, A is the amplitude, b is the damping constant, ω is the angular frequency, and φ is the phase."
+    },
+    {
+      "formula": "F = m * a",
+      "description": "This is Newton's second law of motion, used to calculate the force applied in forced oscillations."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Damped Oscillations",
+      "definition": "Oscillations that decrease in amplitude over time due to resistance."
+    },
+    {
+      "term": "Forced Oscillations",
+      "definition": "Oscillations that continue due to an external force applied to the system."
+    }
+  ]
+}

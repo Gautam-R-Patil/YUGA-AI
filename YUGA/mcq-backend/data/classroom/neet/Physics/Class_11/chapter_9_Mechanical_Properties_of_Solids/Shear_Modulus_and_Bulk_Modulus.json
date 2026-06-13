@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Mechanical Properties of Solids",
+    "chapter_number": 9,
+    "topic": "Shear Modulus and Bulk Modulus",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:57:29.445469",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, everyone! Today, we will learn about two important concepts in physics: shear modulus and bulk modulus. These are part of the mechanical properties of solids. Understanding these will help you in many NEET exam questions. Let's start with the basics.\n\nFirst, what is shear modulus? Shear modulus tells us how a material changes shape when a force is applied. Imagine pushing a deck of cards. The cards slide over each other. This is similar to shear. Shear modulus measures how hard it is to slide layers of a material over each other. \n\nThe formula for shear modulus is G = (F/A) / (∆x/L). Here, F is the force applied, A is the area, ∆x is the change in shape, and L is the original length. If you apply more force, the shape changes more. If the area is bigger, it is harder to change the shape.\n\nNow, let's talk about bulk modulus. Bulk modulus measures how a material changes in volume when pressure is applied. Imagine squeezing a sponge. The sponge gets smaller. Bulk modulus tells us how much pressure is needed to change the volume.\n\nThe formula for bulk modulus is K = - (∆P / (∆V/V)). Here, ∆P is the change in pressure, ∆V is the change in volume, and V is the original volume. The negative sign shows that when pressure increases, volume decreases.\n\nLet's look at some examples. Rubber has a low shear modulus. It changes shape easily. Steel has a high shear modulus. It is hard to change its shape. For bulk modulus, water has a low bulk modulus. It is easy to compress. Steel has a high bulk modulus. It is hard to compress.\n\nIn engineering, these moduli are very useful. They help engineers choose the right materials for buildings, bridges, and machines. A common mistake is to confuse shear modulus with bulk modulus. Remember, shear modulus is about shape, and bulk modulus is about volume.\n\nLet's solve a simple problem. If a force of 100 N changes the shape of a material with an area of 10 m² by 0.01 m, what is the shear modulus? Using the formula G = (F/A) / (∆x/L), we find G = (100/10) / 0.01 = 1000 N/m².\n\nTo sum up, shear modulus and bulk modulus are key properties of materials. Shear modulus deals with shape changes, and bulk modulus deals with volume changes. These concepts are important in both physics and engineering.\n\nRemember, practice solving problems and understanding these concepts well. They are often tested in NEET exams. Good luck, and keep studying hard!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Shear Modulus",
+    "Bulk Modulus",
+    "Mechanical Properties",
+    "Force",
+    "Pressure"
+  ],
+  "formulas": [
+    {
+      "formula": "G = (F/A) / (∆x/L)",
+      "description": "Shear modulus formula where G is shear modulus, F is force, A is area, ∆x is change in shape, and L is original length"
+    },
+    {
+      "formula": "K = - (∆P / (∆V/V))",
+      "description": "Bulk modulus formula where K is bulk modulus, ∆P is change in pressure, ∆V is change in volume, and V is original volume"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Shear Modulus",
+      "definition": "A measure of how a material changes shape when a force is applied"
+    },
+    {
+      "term": "Bulk Modulus",
+      "definition": "A measure of how a material changes in volume when pressure is applied"
+    }
+  ]
+}

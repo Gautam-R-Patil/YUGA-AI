@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Gravitation",
+    "chapter_number": 6,
+    "topic": "Newton’s Law of Gravitation",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:50:00.995478",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Newton's Law of Gravitation. This is a very important topic for JEE Main. Let's start with the Universal Law of Gravitation. Sir Isaac Newton gave this law. It says every object in the universe attracts every other object. The force of attraction depends on two things: the masses of the objects and the distance between them. The formula is F = G * (m1 * m2) / r^2. Here, F is the gravitational force, m1 and m2 are the masses, and r is the distance between the centers of the two masses. G is the gravitational constant. Its value is 6.674 × 10^-11 N m^2/kg^2. Remember, this formula is used to find the force between two masses.\n\nNow, let's discuss the Gravitational Force. It is a force that pulls objects toward each other. This force is why we stay on the ground and why the moon orbits the Earth. In JEE Main, you may be asked to calculate this force using the formula we just learned. A common mistake is forgetting to square the distance r. Always check your units too!\n\nNext, let's talk about Applications in Planetary Motion. The gravitational force keeps planets in orbit around the sun. It also keeps moons in orbit around planets. For example, the Earth orbits the sun due to this force. If you know the masses and distance, you can use F = G * (m1 * m2) / r^2 to find the force keeping a planet in orbit.\n\nGravitational Force can act differently in different mediums. Usually, we consider it in a vacuum, like space. But on Earth, air resistance can affect it. In JEE Main, you might see questions where you ignore air resistance, unless told otherwise.\n\nLet's move to the Concept of Weight and Mass. Mass is the amount of matter in an object. It is measured in kilograms (kg) and does not change. Weight is the force of gravity on an object. It is measured in newtons (N). The formula for weight is W = m * g, where g is the acceleration due to gravity, approximately 9.8 m/s^2 on Earth. Remember, weight can change if gravity changes, but mass stays the same.\n\nIn Multi-body Systems, you might have more than two masses. You find the force between each pair of masses and then add them up. This is important in JEE Main when dealing with systems of planets or moons.\n\nFinally, let's discuss Gravitational Force on Earth and Other Planets. On Earth, we use g = 9.8 m/s^2. But on other planets, g can be different. For example, on the moon, g is about 1/6th of Earth's. In JEE Main, you may have to calculate weight on different planets using W = m * g.\n\nTo sum up, remember these key points: use F = G * (m1 * m2) / r^2 for force between masses, W = m * g for weight, and always check units! Practice these formulas, and you will do well in JEE Main.\n\nThat's all for today! Keep practicing, and see you in the next class.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Gravitational Force",
+    "Universal Law",
+    "Gravitational Constant",
+    "Planetary Motion",
+    "Weight"
+  ],
+  "formulas": [
+    {
+      "formula": "F = G * (m1 * m2) / r^2",
+      "description": "Used to calculate the gravitational force between two masses in JEE Main questions"
+    },
+    {
+      "formula": "W = m * g",
+      "description": "Used to calculate the weight of an object on Earth or other planets"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Gravitational Force",
+      "definition": "A force that pulls two masses toward each other"
+    },
+    {
+      "term": "Universal Law of Gravitation",
+      "definition": "A law stating that every object attracts every other object with a force proportional to their masses and inversely proportional to the square of the distance between them"
+    },
+    {
+      "term": "Gravitational Constant (G)",
+      "definition": "A constant value used in the calculation of gravitational forces, approximately 6.674 × 10^-11 N m^2/kg^2"
+    },
+    {
+      "term": "Mass",
+      "definition": "The amount of matter in an object, measured in kilograms (kg)"
+    },
+    {
+      "term": "Weight",
+      "definition": "The force of gravity on an object, measured in newtons (N)"
+    }
+  ]
+}

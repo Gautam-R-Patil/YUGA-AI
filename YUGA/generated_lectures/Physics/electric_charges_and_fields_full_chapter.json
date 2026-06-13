@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Electric Charges and Fields",
+    "chapter_number": "16",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:13:27.728468",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts - Electric Charges and Fields. \n\nElectric charges are the fundamental building blocks of electrical phenomena. There are two types of charges: positive and negative. Like charges repel each other, while unlike charges attract. The unit of charge is the coulomb (C). In NEET, you'll often see questions about the properties and behavior of charges.\n\nCoulomb's Law describes the force between two charges. It's similar to Newton's law of gravitation, but it deals with electric charges. The formula for Coulomb's Law is:\n\n\\[ F = k \\frac{q_1 \\cdot q_2}{r^2} \\]\n\nwhere F is the force between the charges, \\( q_1 \\) and \\( q_2 \\) are the amounts of the two charges, r is the distance between the centers of the two charges, and k is Coulomb's constant. This law helps us understand how charges interact.\n\nElectric field (E) is a field around a charged particle. The direction of the field is the direction of the force exerted on a positive test charge. The formula for electric field due to a point charge is:\n\n\\[ E = k \\frac{q}{r^2} \\]\n\nwhere E is the electric field, q is the point charge, and r is the distance from the charge.\n\nNEET often asks candidates to calculate the force or field in systems with multiple charges. It's important to understand vector addition, as electric fields are vector quantities.\n\nSome key concepts include:\n- Superposition Principle: The net electric field is the vector sum of electric fields due to individual charges.\n- Electric Flux: It quantifies the flow of the electric field through a given area, useful for controlling and directing fields.\n- Gauss's Law: States that the electric flux through a closed surface is proportional to the charge enclosed. Its formula is:\n\n\\[ \\Phi = \\frac{Q_{enc}}{\\varepsilon_0} \\]\n\nwhere \\( \\Phi \\) is the electric flux, \\( Q_{enc} \\) is the charge enclosed, and \\( \\varepsilon_0 \\) is the permittivity of free space.\n\nFor NEET, be sure to understand the applications of Gauss's Law in symmetrical charge distributions like spheres and cylinders.\n\n**Quick Revision Summary:**\n1. Charges come in positive and negative types, with the unit coulomb.\n2. Coulomb's Law describes the force between two point charges.\n3. Electric fields are vectors; understand their calculation methods and direction.\n4. Use vector addition for calculating net fields in multi-charge systems.\n5. Gauss's Law relates electric flux to enclosed charge and is useful in symmetrical bodies.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Electric charge",
+    "Coulomb's Law",
+    "Electric field",
+    "Superposition principle",
+    "Electric flux",
+    "Gauss's Law",
+    "Permittivity of free space",
+    "Vector addition",
+    "Point charge",
+    "Force between charges"
+  ],
+  "formulas": [
+    "F = k \\frac{q_1 \\cdot q_2}{r^2}",
+    "E = k \\frac{q}{r^2}",
+    "\\Phi = \\frac{Q_{enc}}{\\varepsilon_0}"
+  ],
+  "definitions": [
+    {
+      "term": "Electric charge",
+      "definition": "A fundamental property of matter that exhibits electromagnetic interaction."
+    },
+    {
+      "term": "Coulomb's Law",
+      "definition": "States that the force between two point charges is directly proportional to the product of their charges and inversely proportional to the square of the distance between them."
+    },
+    {
+      "term": "Electric field",
+      "definition": "A field around a charged object where an electric force would be exerted on other charges."
+    },
+    {
+      "term": "Superposition principle",
+      "definition": "The principle that the net electric field is the vector sum of fields due to individual charges."
+    },
+    {
+      "term": "Electric flux",
+      "definition": "A measure of the number of electric field lines passing through a given area."
+    },
+    {
+      "term": "Gauss's Law",
+      "definition": "States that the total electric flux out of a closed surface is equal to the charge enclosed divided by the permittivity of the medium."
+    },
+    {
+      "term": "Permittivity of free space",
+      "definition": "A constant that characterizes the strength of the electric field in a vacuum."
+    },
+    {
+      "term": "Vector addition",
+      "definition": "The process of combining multiple vectors into a single vector."
+    },
+    {
+      "term": "Point charge",
+      "definition": "An idealized model of a particle with a finite amount of charge."
+    },
+    {
+      "term": "Force between charges",
+      "definition": "The electric force exerted between two charges, calculated using Coulomb's Law."
+    }
+  ]
+}

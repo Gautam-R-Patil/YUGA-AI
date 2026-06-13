@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermodynamics",
+    "chapter_number": 12,
+    "topic": "First Law of Thermodynamics",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:01:02.788828",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about the First Law of Thermodynamics. This is a very important topic in physics and for your NEET exams. Let's start with the basics. \n\nThe First Law of Thermodynamics is about energy. It tells us how energy works in a system. A system can be anything like a gas in a container. The law says that energy cannot be created or destroyed. It can only change forms. \n\nLet's look at the mathematical expression. The formula is: ∆U = Q - W. Here, ∆U is the change in internal energy. Q is the heat added to the system. W is the work done by the system. \n\nNow, let's understand these terms. Internal energy is the total energy inside a system. It includes energy from moving particles and other forms. Heat is energy that moves because of temperature difference. Work is when energy causes movement or change. \n\nFor example, think about boiling water. When you heat water, you add energy. This energy changes the water's internal energy. If you have a steam engine, it uses this energy to do work. \n\nA common mistake is thinking energy is lost. Remember, energy only changes form. If you add heat and do work, the internal energy changes. \n\nLet's see some NEET examples. In a car engine, fuel burns and releases energy. This energy does work to move the car. The engine follows the First Law of Thermodynamics. \n\nIn engineering, this law helps design engines, refrigerators, and more. Engineers use it to make systems efficient. \n\nTo solve problems, use the formula ∆U = Q - W. Identify what is given, like heat added or work done. Then, find the unknown. Practice with examples to get better. \n\nKey points to remember: Energy is never lost; it only changes form. The formula ∆U = Q - W is important. Understand each term clearly. \n\nIn summary, the First Law of Thermodynamics is about energy conservation. It is a key concept in physics and engineering. Practice problems and understand the terms well. This will help you in your NEET exams. \n\nThat's all for today. Keep studying and practicing problems. See you next time!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "First Law of Thermodynamics",
+    "Internal Energy",
+    "Heat",
+    "Work",
+    "Energy Conservation"
+  ],
+  "formulas": [
+    {
+      "formula": "∆U = Q - W",
+      "description": "Change in internal energy equals heat added to the system minus work done by the system"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Internal Energy",
+      "definition": "The total energy contained within a system"
+    },
+    {
+      "term": "Heat",
+      "definition": "Energy that is transferred due to temperature difference"
+    },
+    {
+      "term": "Work",
+      "definition": "Energy transfer that occurs when an object is moved by a force"
+    }
+  ]
+}

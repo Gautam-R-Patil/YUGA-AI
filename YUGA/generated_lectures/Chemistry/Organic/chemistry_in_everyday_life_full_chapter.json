@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Chemistry in Everyday Life",
+    "chapter_number": "30",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:27:13.609028",
+    "model_used": "gpt-4o",
+    "category": "Organic"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts about 'Chemistry in Everyday Life'. This chapter is relatable to our day-to-day experiences and covers how chemistry is applied practically in medicines, cleansing agents, and food.\n\nChemistry in Everyday Life include:\n1. **Drugs and Medicines**: These are substances used to diagnose, prevent, and treat diseases. They modify biochemical processes in the body. Common drug categories include analgesics (pain relief), antacids (neutralize stomach acid), and antibiotics (fight bacterial infections).\n   - **Key Idea**: Drugs work by binding to specific targets (enzymes or receptors) in the body to stop or promote chemical processes.\n   - **NEET Focus**: Be aware of drug classifications, examples and their uses such as aspirin (analgesic), ranitidine (antacid), and penicillin (antibiotic).\n\n2. **Commonly Used Cleansing Agents**:\n   - **Soaps and Detergents**: Soaps are made from natural fats and oils, while detergents are synthetic. They both work by emulsifying fats and oils, helping them to be washed away with water.\n   - **Key Formula**: Soap (sodium or potassium salts of fatty acids) \n   - **NEET Focus**: Understanding the action of soaps and detergents, such as micelle formation.\n\n3. **Food Additives**: These are substances added to food to preserve flavor, enhance taste, or improve appearance.\n   - **Preservatives** like sodium benzoate to prevent spoilage.\n   - **Sweeteners** like aspartame used as sugar substitutes.\n   - **NEET Focus**: Know the types, examples, and utility of food additives.\n\n4. **Chemicals in Cosmetics**:\n   - **Fragrances** and **Colorants** are used in everyday products like lotions and shampoos. They are largely composed of various organic compounds.\n   - **NEET Focus**: Identifying the purpose of specific chemicals in beauty products.\n\n**NEET Exam Tips**:\n- Often, NEET asks repeated questions about specific examples and their functions (e.g., identify which compound is a preservative).\n- Be clear about the differences and uses between soaps and detergents.\n\n**Quick Revision Points**:\n1. Know examples of common drugs and their purposes.\n2. Understand how soaps and detergents work.\n3. Identify food additives and their roles.\n4. Be familiar with cosmetic chemicals and their functions.",
+  "duration_minutes": "10",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Drugs",
+    "Medicines",
+    "Analgesics",
+    "Antibiotics",
+    "Soaps",
+    "Detergents",
+    "Food Additives",
+    "Preservatives",
+    "Sweeteners",
+    "Cosmetics"
+  ],
+  "formulas": [
+    "Soap: \\text{C}_n\\text{H}_{2n+1}\\text{COO}^-\\text{Na}^+"
+  ],
+  "definitions": [
+    {
+      "term": "Drugs",
+      "definition": "Substances used in the diagnosis, treatment, or prevention of diseases."
+    },
+    {
+      "term": "Medicines",
+      "definition": "Formulated drugs that are specifically intended for therapeutic effects."
+    },
+    {
+      "term": "Analgesics",
+      "definition": "Drugs used to relieve pain."
+    },
+    {
+      "term": "Antibiotics",
+      "definition": "Drugs that kill or inhibit the growth of bacteria."
+    },
+    {
+      "term": "Soaps",
+      "definition": "Sodium or potassium salts of fatty acids used for cleansing."
+    },
+    {
+      "term": "Detergents",
+      "definition": "Synthetic cleansing agents that work similarly to soap."
+    },
+    {
+      "term": "Food Additives",
+      "definition": "Substances added to food to enhance its qualities."
+    },
+    {
+      "term": "Preservatives",
+      "definition": "Chemicals added to food to prevent spoilage."
+    },
+    {
+      "term": "Sweeteners",
+      "definition": "Compounds used as sugar alternatives for sweetening foods."
+    },
+    {
+      "term": "Cosmetics",
+      "definition": "Products applied to the body for cleansing, beautifying, or altering appearance."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Kinetic Theory",
+    "chapter_number": 13,
+    "topic": "Law of Equipartition of Energy",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:03:05.648940",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about an interesting concept called the Law of Equipartition of Energy. This law is part of the kinetic theory of gases. It helps us understand how energy is shared among particles in a system. \n\nLet's start with the statement of the law. The Law of Equipartition of Energy says that energy is equally shared among all available degrees of freedom. Degrees of freedom are the different ways a particle can move or store energy. For example, a molecule can move in straight lines, spin, or vibrate. Each way it moves is one degree of freedom.\n\nNow, let's understand how this law works. Imagine you have a box full of gas molecules. These molecules move around and bump into each other all the time. According to the law, each degree of freedom gets the same amount of energy. For example, if a molecule can move in three directions (x, y, z), each direction gets the same energy.\n\nThis law is very useful in physics. It helps us calculate the total energy of a gas. We use it to find out how energy is shared in different systems. One important formula from this law is: \n\nE = (f/2) * k * T\n\nHere, 'E' is the average energy per molecule, 'f' is the number of degrees of freedom, 'k' is the Boltzmann constant, and 'T' is the temperature in Kelvin.\n\nLet's look at some examples. A gas molecule in a box has three degrees of freedom for moving in space. So, each molecule has an average energy of 3/2 * k * T. If the molecule can also rotate, it might have more degrees of freedom.\n\nA common mistake students make is forgetting to count all the degrees of freedom. Remember, each type of movement counts as one. Also, don't forget that temperature must be in Kelvin.\n\nNow, let's talk about applications in NEET exams. You might be asked to calculate the energy of a gas or find the degrees of freedom. Remember to use the formula and check your units.\n\nNext, let's see how we can solve problems using this law. Suppose you have a gas with a known temperature and degrees of freedom. You can plug these values into the formula to find the energy per molecule. This is often a part of NEET questions.\n\nWe can also represent energy distribution graphically. Imagine a bar graph where each bar shows energy for a degree of freedom. All bars are equal because energy is shared equally.\n\nIn summary, the Law of Equipartition of Energy tells us how energy is shared in a system. It is a key part of understanding gases and their behavior. Remember the formula and the concept of degrees of freedom. These are essential for solving NEET problems.\n\nThat's all for today. Keep practicing, and you'll master this topic soon!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Equipartition of Energy",
+    "Degrees of Freedom",
+    "Kinetic Theory",
+    "Boltzmann Constant",
+    "Temperature"
+  ],
+  "formulas": [
+    {
+      "formula": "E = (f/2) * k * T",
+      "description": "Average energy per molecule, where f is degrees of freedom, k is Boltzmann constant, and T is temperature in Kelvin"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Degrees of Freedom",
+      "definition": "Different ways in which a molecule can move or store energy"
+    },
+    {
+      "term": "Boltzmann Constant",
+      "definition": "A physical constant that relates the average kinetic energy of particles in a gas with the temperature of the gas"
+    }
+  ]
+}

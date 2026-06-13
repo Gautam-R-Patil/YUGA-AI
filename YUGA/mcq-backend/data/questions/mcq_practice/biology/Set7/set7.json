@@ -1,0 +1,308 @@
+[
+    {
+        "id": 60,
+        "question_number": "5",
+        "text": "Which of the following facilitates opening of stomatal aperture?",
+        "subject": "Botany",
+        "sub_topic": "Plant Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Decrease in turgidity of guard cells",
+            "Radial orientation of cellulose microfibrils in the cell wall of guard cells.",
+            "Longitudinal orientation of cellulose microfibrils in the cell wall of guard cells",
+            "Contraction of outer wall of guard cells"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 21,
+        "correct_answer": "Radial orientation of cellulose microfibrils in the cell wall of guard cells.",
+        "basic_answer": "Cellulose microfibrils in guard cells are oriented radially, allowing the cells to expand when turgidity increases. This expansion leads to the opening of the stomatal aperture. \n\nHence the answer is option B.",
+        "explanation": "### Core Concept\nThe opening and closing of stomata are driven by turgor pressure changes in the guard cells. The specific way these cells change shape is determined by the structural arrangement of cellulose microfibrils in their walls.\n\n### Solution Approach\n  \nWhen guard cells become turgid (swell with water), the radial orientation of cellulose microfibrils prevents them from expanding in width. Instead, they expand in length. Because the inner wall of the guard cell (facing the pore) is thicker and more rigid than the thin outer wall, the cell curves outward like a bow, pulling the stomatal aperture open.\n\n### Why This Answer\nRadial orientation is essential for the specific \"bowing\" movement that opens the pore. A longitudinal orientation would resist lengthening and prevent opening. Decreased turgidity would cause the cells to become flaccid and the pore to close.\n\n### Common Mistakes\n* Confusing orientation: Thinking microfibrils are arranged longitudinally.\n* Turgidity mix-up: Thinking a *decrease* in turgidity opens the stomata; actually, it is an *increase* in turgidity (swelling) that facilitates opening.",
+        "keywords": {}
+    },
+    {
+        "id": 61,
+        "question_number": "6",
+        "text": "The water potential of pure water is:",
+        "subject": "Botany",
+        "sub_topic": "Plant Physiology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Less than zero",
+            "More than zero but less than one",
+            "More than one",
+            "Zero"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 22,
+        "correct_answer": "Zero",
+        "basic_answer": "Water potential of pure water is defined as zero because it is the reference point for measuring water potential in plant physiology. Other solutions have a lower water potential due to the presence of solutes. \n\nHence, the answer is zero.",
+        "explanation": "### Core Concept\nWater potential ($\u03a8_w$) is a measure of the free energy of water molecules. It determines the direction in which water will flow (from high potential to low potential) through osmosis.\n\n### Solution Approach\n  \nBy scientific convention, the water potential of pure water at standard temperature and atmospheric pressure is taken to be zero. This is the highest possible value for water potential.\n\n### Why This Answer\nWhen solutes are dissolved in pure water, the concentration of free water molecules decreases, reducing the free energy. This makes the water potential negative (less than zero). Therefore, pure water, having no solutes, sits at the reference point of zero.\n\n### Common Mistakes\n* Thinking it's 1: Some students confuse it with probability or other normalized scales.\n* Assuming positive values: Forgetting that adding solute *lowers* the potential, meaning almost all biological solutions have negative water potentials.",
+        "keywords": {}
+    },
+    {
+        "id": 62,
+        "question_number": "7",
+        "text": "In Bougainvillea thorns are the modifications of:",
+        "subject": "Botany",
+        "sub_topic": "Plant Morphology",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Adventitious root",
+            "Stem",
+            "Leaf",
+            "Stipules"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 23,
+        "correct_answer": "Stem",
+        "basic_answer": "Thorns of Bougainvillea are modified stems that serve to protect the plant from herbivores. These thorns are not derived from adventitious roots, leaves, or stipules. \n\nHence, the answer is B.",
+        "explanation": "### Core Concept\nPlants undergo various morphological modifications for protection or support. It is important to distinguish between thorns, spines, and prickles based on their tissue of origin.\n\n### Solution Approach\nIn *Bougainvillea*, the sharp structures are thorns. These are modified stems (specifically, axillary buds that have lost the ability to grow leaves and have become pointed and woody). Because they are stems, they contain vascular tissue connected to the main branch.\n\n### Why This Answer\nThorns serve as a defense mechanism against herbivores. In *Bougainvillea* and *Citrus*, these are stem modifications. In contrast, spines (like in Cacti) are modified leaves, and prickles (like in Roses) are superficial epidermal outgrowths.\n\n### Common Mistakes\n* Confusing thorns with spines: Many use the terms interchangeably, but spines are modified leaves, whereas thorns are modified stems.\n* Axillary bud origin: Overlooking that thorns always arise from the axil of a leaf, confirming their shoot/stem nature.",
+        "keywords": {}
+    },
+    {
+        "id": 63,
+        "question_number": "8",
+        "text": "Which of the following options gives the correct sequence of events during mitosis?",
+        "subject": "Biology",
+        "sub_topic": "Cell Biology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Condensation, nuclear membrane disassembly, arrangement at equator, centromere division, segregation, telophase",
+            "Condensation, crossing over, nuclear membrane disassembly, segregation, telophase",
+            "Condensation, arrangement at equator, centromere division, segregation, telophase",
+            "Condensation, nuclear membrane disassembly, crossing over, segregation, telophase"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 24,
+        "correct_answer": "Condensation, nuclear membrane disassembly, arrangement at equator, centromere division, segregation, telophase",
+        "basic_answer": "Mitosis involves a series of steps that include chromosome condensation, nuclear membrane disassembly, arrangement of chromosomes at the equator, centromere division, segregation of sister chromatids, and finally telophase. Each phase is critical for proper cell division.",
+        "explanation": "### Core Concept\nMitosis is the process of nuclear division that results in two identical daughter nuclei. It follows a highly regulated sequence: Prophase, Metaphase, Anaphase, and Telophase.\n\n### Solution Approach\n1.  Prophase: Chromatin condenses into chromosomes; the nuclear membrane disassembles.\n2.  Metaphase: Chromosomes arrange at the equator (metaphase plate).\n3.  Anaphase: Centromeres divide, and sister chromatids segregate (move to opposite poles).\n4.  Telophase: Chromosomes reach the poles and the nuclear membrane reforms.\n\n[Image of the stages of mitosis: Prophase, Metaphase, Anaphase, and Telophase]\n\n### Why This Answer\nOption A provides the correct chronological order of the mechanical events of mitosis. Options B and D are incorrect because \"crossing over\" is a specific event of Meiosis I (Prophase I) and does not occur in mitosis.\n\n### Common Mistakes\n* Mixing Mitosis and Meiosis: Including \"crossing over\" in a mitosis sequence.\n* Centromere division timing: Thinking centromeres divide during metaphase; they actually divide at the start of anaphase to allow segregation.",
+        "keywords": {}
+    },
+    {
+        "id": 64,
+        "question_number": "1",
+        "text": "The process of separation and purification of expressed protein before marketing is called:",
+        "subject": "Biology",
+        "sub_topic": "Biotechnology",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Downstream processing",
+            "Bioprocessing",
+            "Postproduct processing",
+            "Upstream processing"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 25,
+        "correct_answer": "Downstream processing",
+        "basic_answer": "Downstream processing refers to the purification and recovery of biological products, such as proteins, after they are expressed. This step is crucial for preparing proteins for commercialization. \n\nHence the answer is A.",
+        "explanation": "### Core Concept\nIn industrial biotechnology, the process of creating a biological product is divided into Upstream (preparation and synthesis) and Downstream (recovery and refinement) phases.\n\n### Solution Approach\nOnce a target protein has been produced (expressed) by host cells in a bioreactor, it must be harvested from the complex mixture. Downstream processing encompasses all steps involved in the separation and purification of the product, ensuring it meets safety and quality standards before it can be marketed.\n\n### Why This Answer\n* Downstream processing: Specifically refers to post-expression harvesting and purification.\n* Upstream processing: Refers to early steps like choosing cell lines, media preparation, and the actual growth phase.\n\n### Common Mistakes\n* Directional confusion: Thinking \"upstream\" is the final part of the process. In industry, the product flows \"down the stream\" from the lab to the consumer.\n* Bioprocessing: Thinking this is the specific stage name, when it is actually the general term for the entire industry.",
+        "keywords": {}
+    },
+    {
+        "id": 65,
+        "question_number": "2",
+        "text": "A temporary endocrine gland in the human body is:",
+        "subject": "Biology",
+        "sub_topic": "Human Reproduction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Corpus cardiacum",
+            "Corpus luteum",
+            "Corpus allatum",
+            "Pineal gland"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 26,
+        "correct_answer": "Corpus luteum",
+        "basic_answer": "Corpus luteum is a temporary endocrine gland formed after ovulation in the ovaries and produces hormones like progesterone. This hormone is crucial for maintaining the uterine lining during early pregnancy. Hence the answer is B.",
+        "explanation": "### Core Concept\nMost endocrine glands (like the thyroid or pituitary) are permanent. A temporary endocrine gland is a structure that forms for a specific purpose during a biological cycle and eventually disappears.\n\n### Solution Approach\n[Image of the corpus luteum in the ovary]\n\nAfter ovulation, the ruptured Graafian follicle transforms into a yellowish structure called the corpus luteum. It functions as an endocrine gland by secreting high levels of progesterone (and some estrogen) to maintain the uterine lining for potential pregnancy. If fertilization does not occur, it degenerates into the corpus albicans.\n\n### Why This Answer\n* Corpus luteum: Temporary gland in humans.\n* Pineal gland: A permanent gland in the brain.\n* Corpus cardiacum / allatum: Endocrine structures found in insects, not humans.\n\n### Common Mistakes\n* Confusing animal kingdoms: Choosing *corpus allatum* or *cardiacum* which are exclusive to arthropods.\n* Gland duration: Assuming the pineal gland is temporary because it responds to circadian cycles; it is anatomically permanent.",
+        "keywords": {}
+    },
+    {
+        "id": 66,
+        "question_number": "3",
+        "text": "Which of the following is made up of dead cells?",
+        "subject": "Biology",
+        "sub_topic": "Plant Anatomy",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Collenchyma",
+            "Phellem",
+            "Phloem",
+            "Xylem parenchyma"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 27,
+        "correct_answer": "Phellem",
+        "basic_answer": "Phellem is made up of dead cells which form the protective outer layer of stems and roots in plants, providing insulation and defense against environmental factors.",
+        "explanation": "### Core Concept\nPlant tissues are classified into living (containing active protoplasm) and dead (lacking protoplasm at maturity, usually providing structural or protective support).\n\n### Solution Approach\nPhellem (also known as cork) is produced by the phellogen (cork cambium) during secondary growth. As these cells mature, their walls become heavily impregnated with suberin, a waxy substance that is impermeable to water. This deposition cuts off the cell from nutrients, causing it to lose its protoplasm and die.\n\n### Why This Answer\n* Phellem: Dead at maturity.\n* Collenchyma: A living mechanical tissue with pectin thickenings.\n* Xylem parenchyma: The only living part of the xylem tissue.\n* Phloem: Composed mainly of living cells (sieve tubes, companion cells, parenchyma).\n\n### Common Mistakes\n* Xylem generalization: Thinking all of xylem is dead. While vessels and tracheids are dead, xylem *parenchyma* is living.\n* Supporting tissue confusion: Assuming collenchyma is dead because it provides support. Collenchyma is specifically a *living* support tissue; sclerenchyma is the dead one.",
+        "keywords": {}
+    },
+    {
+        "id": 67,
+        "question_number": "4",
+        "text": "The function of copper ions in copper releasing IUD's is:",
+        "subject": "Biology",
+        "sub_topic": "Reproductive Health",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "They inhibit gametogenesis",
+            "They make uterus unsuitable for implantation",
+            "The inhibit ovulation",
+            "The suppress sperm motility and fertilizing capacity of sperms"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 28,
+        "correct_answer": "The suppress sperm motility and fertilizing capacity of sperms",
+        "basic_answer": "Copper ions in IUDs primarily suppress sperm motility and their fertilizing capacity, thus preventing fertilization. The presence of copper creates an inflammatory reaction that is toxic to sperm. Therefore, this action directly contributes to the contraceptive effect of the device.",
+        "explanation": "### Core Concept\nIntrauterine Devices (IUDs) are contraceptive tools. While all IUDs increase the phagocytosis (destruction) of sperm in the uterus, copper-releasing IUDs (like CuT) have a specific biochemical effect.\n\n### Solution Approach\n  \nThe device continuously releases copper ions ($Cu^{2+}$) into the uterine cavity. These ions are toxic to sperm. They create a biochemical environment that suppresses sperm motility (they can't swim properly) and reduces their fertilizing capacity, ensuring they cannot successfully reach or penetrate the ovum.\n\n### Why This Answer\nCopper IUDs are non-hormonal. They do not stop ovulation (egg release) or gametogenesis (egg production). Their primary success comes from disabling the sperm before fertilization can even happen.\n\n### Common Mistakes\n* IUD vs. Pills: Thinking copper IUDs work like the birth control pill by stopping ovulation.\n* Implantation confusion: Assuming the primary role is preventing implantation. While they can affect the uterine lining, the most direct and efficient effect is on the sperm itself.",
+        "keywords": {
+            "IUD": "Intrauterine Device",
+            "Cu": "Copper"
+        }
+    },
+    {
+        "id": 68,
+        "question_number": "5",
+        "text": "An example of colonial alga is:",
+        "subject": "Biology",
+        "sub_topic": "Algae",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Volvox",
+            "Ulothrix",
+            "Spirogyra",
+            "Chlorella"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 29,
+        "correct_answer": "Volvox",
+        "basic_answer": "Volvox is a colonial alga that forms spherical colonies of numerous individual cells working together. This characteristic defines it as a colonial organism, displaying the coordination of many cells. \n\nHence, the answer is A.",
+        "explanation": "### Core Concept\nAlgae are categorized based on their structural organization: unicellular, filamentous, or colonial.\n\n### Solution Approach\nVolvox is a classic example of a colonial alga. It consists of a fixed number of individual cells (a coenobium) arranged in a hollow, gelatinous sphere. These cells are interconnected by cytoplasmic bridges and coordinate their flagellar beating to move the entire colony as one unit.\n\n### Why This Answer\n* Volvox: Colonial.\n* Chlorella: Unicellular.\n* Ulothrix / Spirogyra: Filamentous (multicellular threads/filaments).\n\n### Common Mistakes\n* Filamentous vs. Colonial: Confusing *Spirogyra* (threads) with *Volvox* (spheres).\n* Complexity error: Assuming all green algae are multicellular; *Chlorella* is a single-celled organism.",
+        "keywords": {}
+    },
+    {
+        "id": 69,
+        "question_number": "6",
+        "text": "Which of the following in sewage treatment removes suspended solids?",
+        "subject": "Biology",
+        "sub_topic": "Environmental Science",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Secondary treatment",
+            "Primary treatment",
+            "Sludge treatment",
+            "Tertiary treatment"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 30,
+        "correct_answer": "Primary treatment",
+        "basic_answer": "Primary treatment involves the removal of suspended solids from sewage through physical processes such as sedimentation. In this phase, solids settle out of the waste stream, forming sludge. Hence, primary treatment is key to removing suspended solids.",
+        "explanation": "### Core Concept\nSewage treatment is a multi-step process: Primary (Physical), Secondary (Biological), and Tertiary (Chemical). Each stage targets different types of pollutants.\n\n### Solution Approach\nPrimary treatment is a purely physical process used to remove large and small particles. It involves:\n1.  Sequential Filtration: Removes floating debris.\n2.  Sedimentation: Sewage is kept in large tanks where grit (sand/silt) and heavy organic solids settle to the bottom. These \"suspended solids\" that settle form the primary sludge.\n\n\n\n### Why This Answer\nPrimary treatment is specifically designed for the physical removal of solids. Secondary treatment uses microbes to consume *dissolved* organic matter. Tertiary treatment involves chemical disinfection (like chlorine).\n\n### Common Mistakes\n* Mixing roles: Thinking microbes (Secondary) remove the solids. Bacteria cannot digest sand or pebbles; these must be removed physically first.\n* Sludge vs. Solids: Assuming sludge treatment removes the solids from water; sludge treatment is what happens to the solids *after* they've been pulled out during the primary stage.",
+        "keywords": {
+            "SS": "suspended solids",
+            "ST": "sewage treatment"
+        }
+    }
+]

@@ -1,0 +1,353 @@
+[
+    {
+        "id": 70,
+        "question_number": "120",
+        "text": "The correct order of increasing bond length of C-H, C-O, C-C and C=C is",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Bonding",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "C−C < C=C < C−O < C−H",
+            "C−O < C−H < C−C < C=C",
+            "C−H < C−O < C−C < C=C",
+            "C−H < C=C < C−O < C−C"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 5754,
+        "correct_answer": "C−H < C=C < C−O < C−C",
+        "basic_answer": "Given: [Bond types: C-H, C-O, C-C, and C=C. Task: Arrange in increasing order of bond length.]\n\nSolution: [Bond length is determined by the size of the atoms and the bond order. C-H is the shortest because Hydrogen is the smallest atom. Among carbon-carbon bonds, the double bond (C=C) is shorter than the single bond (C-C). The C-O single bond is shorter than C-C because Oxygen is smaller than Carbon. Following the experimental values: C-H (~$1.09$ Å) < C=C (~$1.34$ Å) < C-O (~$1.43$ Å) < C-C (~$1.54$ Å).]",
+        "explanation": "### CORE CONCEPT\nBond length is the average distance between the nuclei of two bonded atoms in a molecule. Two primary factors influence this distance:\n1.  Atomic Size: Smaller atoms have their nuclei closer together, leading to shorter bond lengths. \n2.  Bond Order: This refers to the number of shared electron pairs between two atoms. As the bond order increases (single $\\rightarrow$ double $\\rightarrow$ triple), the electrostatic attraction between the nuclei and the shared electrons increases, pulling the atoms closer and decreasing the bond length.\n\n\n\nDETAILED ANALYSIS\nLet's evaluate the specific bonds mentioned in the question:\n\n* C-H Bond: Hydrogen is the smallest atom in the periodic table ($n=1$ shell). Because its atomic radius is tiny compared to Carbon, Oxygen, or Nitrogen, the C-H bond is significantly shorter than bonds between two non-hydrogen atoms. (Length: ~$109$ pm or $1.09$ Å).\n\n* C=C Bond: This is a double bond (bond order = $2$). The presence of a $\\pi$-bond in addition to the $\\sigma$-bond increases the electron density between the carbons, drawing them closer together than a standard single bond. (Length: ~$134$ pm or $1.34$ Å).\n\n* C-O Bond: This is a single bond. While Oxygen and Carbon are in the same period ($n=2$), Oxygen has a higher nuclear charge and a smaller atomic radius than Carbon. Therefore, a C-O single bond is slightly shorter than a C-C single bond. (Length: ~$143$ pm or $1.43$ Å).\n\n* C-C Bond: This is a single bond between two relatively large atoms (compared to $H$) with a bond order of $1$. It represents the longest bond in this specific set. (Length: ~$154$ pm or $1.54$ Å).\n\n\n\n### WHY THIS ANSWER IS CORRECT\nBy combining the effects of atomic size and bond order, we establish the increasing sequence: $C-H < C=C < C-O < C-C$. This order moves from the smallest atom ($H$) to the strongest carbon-carbon bond ($C=C$), then to the smaller heteroatom single bond ($C-O$), and finally to the standard carbon-carbon single bond ($C-C$). This matches Option D.\n\n### COMMON MISTAKES\n* Ignoring Atom Size: A common error is placing $C-O$ after $C-C$. Remember that across a period (left to right), atomic size decreases. Since Oxygen is to the right of Carbon, it is smaller, making the $C-O$ bond shorter than $C-C$.\n* Bond Order Confusion: Forgetting that a double bond is *shorter* than a single bond. Higher bond order = shorter distance.\n* Scale Misinterpretation: C-H is almost always the shortest bond in organic molecules because of the unique size of the Hydrogen atom. Never place a $C-C$ or $C-O$ bond before a C-H bond in an increasing length series.",
+        "keywords": {
+            "C": "Carbon",
+            "O": "Oxygen",
+            "H": "Hydrogen"
+        }
+    },
+    {
+        "id": 71,
+        "question_number": "121",
+        "text": "Which of the following is least likely to behave as Lewis base?",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Bonding",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 13,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "NH3",
+            "BF3",
+            "OH−",
+            "H2O"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 5755,
+        "correct_answer": "BF3",
+        "basic_answer": "Given: [A list of chemical species: NH₃, $BF_3$, $OH^-$, and $H_2O$.]\n\nSolution: [A Lewis base is a substance that can donate a pair of electrons to form a coordinate covalent bond. NH₃, $OH^-$, and $H_2O$ all possess lone pairs of electrons on their central atoms, allowing them to act as electron donors. In contrast, Boron Trifluoride ($BF_3$) is an electron-deficient molecule with an incomplete octet (only 6 electrons around the Boron atom). Instead of donating electrons, $BF_3$ acts as a strong Lewis acid by accepting electron pairs from other species.]",
+        "explanation": "### CORE CONCEPT\nThe Lewis Definition of acids and bases focuses on the movement of electrons rather than protons. \n* Lewis Base: An electron-pair donor. To behave as a base, a molecule or ion must have at least one lone pair of electrons that is not involved in bonding.\n* Lewis Acid: An electron-pair acceptor. These are typically species that are electron-deficient, have an incomplete octet, or possess vacant orbitals.\n\n\n\nDETAILED ANALYSIS OF THE OPTIONS\nTo determine which species is least likely to be a Lewis base, we must examine their electronic structures and the availability of lone pairs:\n\n1.  NH₃ (Ammonia): The Nitrogen atom is $sp^3$ hybridized and has one lone pair of electrons. It readily donates this pair to protons ($H^+$) or metal ions, making it a classic Lewis base.\n\n2.  $H_2O$ (Water): The Oxygen atom has two lone pairs of electrons. While it is a weaker base than ammonia, it can still donate these pairs (e.g., forming the hydronium ion, $H_3O^+$).\n\n3.  $OH^-$ (Hydroxide Ion): As an anion, the oxygen in $OH^-$ has three lone pairs and a negative charge. This makes it an even stronger electron donor (nucleophile) than neutral water.\n\n4.  $BF_3$ (Boron Trifluoride): Boron is in Group 13 and has three valence electrons. In $BF_3$, it forms three covalent bonds with Fluorine. \n    * Electron Count: $3 \\text{ (from B)} + 3 \\text{ (from F shares)} = 6 \\text{ electrons}$.\n    * The Problem: The Boron atom has an incomplete octet (it needs 8 electrons for stability). \n    * Behavior: Because it is 'hungry' for electrons, it has a vacant $p$-orbital. It acts exclusively as a Lewis Acid to complete its octet. It has no lone pairs to donate.\n\n\n\n### WHY THIS ANSWER IS CORRECT\nAmong the choices, $BF_3$ (Option B) is the only species that is fundamentally electron-deficient. While the other three options are defined by their ability to provide electrons, $BF_3$ is defined by its ability to take them. Therefore, it is not just \"least likely\" to be a Lewis base; in standard chemical environments, it acts as the opposite. \n\n### COMMON MISTAKES\n* Confusing Lewis with Brønsted: $BF_3$ cannot be a Brønsted acid (it has no $H^+$ to give), but it is a powerful Lewis acid. Don't assume all acids must have Hydrogen.\n* Ignoring Lone Pairs on Fluorine: While the Fluorine atoms in $BF_3$ have lone pairs, the central Boron atom's electron deficiency dominates the molecule's reactivity. Fluorine is too electronegative to effectively donate its lone pairs in this context.\n* Assuming all Ions are Bases: While many anions are Lewis bases, being an ion isn't a requirement (like NH₃), and being neutral doesn't mean a species can't be an acid (like $BF_3$).",
+        "keywords": {
+            "NH3": "Ammonia",
+            "BF3": "Boron Trifluoride",
+            "OH−": "Hydroxide Ion",
+            "H2O": "Water"
+        }
+    },
+    {
+        "id": 72,
+        "question_number": "122",
+        "text": "Of the following which one is classified as polyester polymer?",
+        "subject": "Chemistry",
+        "sub_topic": "Polymers",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 13,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Bakelite",
+            "Melamine",
+            "Nylon-66",
+            "Terylene"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 13,
+            "type": "MCQ"
+        },
+        "original_id": 5756,
+        "correct_answer": "Terylene",
+        "basic_answer": "Given: [A list of synthetic polymers: Bakelite, Melamine, Nylon-66, and Terylene.] \n\nSolution: [A polyester is a category of polymers that contains the ester functional group in every repeat unit of its main chain. Terylene (also known as Dacron) is produced by the condensation polymerization of ethylene glycol and terephthalic acid, forming ester linkages throughout the structure. Therefore, it is classified as a polyester.]",
+        "explanation": "### CORE CONCEPT\nPolymers are often classified based on the nature of the chemical linkage that connects their repeating monomer units. \n* Polyesters: These are polymers containing the ester functional group ($-CO-O-$). They are typically formed via condensation polymerization between a dicarboxylic acid and a diol.\n* Polyamides: These contain the amide linkage ($-CO-NH-$) and are formed between a dicarboxylic acid and a diamine.\n* Formaldehyde Resins: These involve cross-linking between formaldehyde and phenol or melamine.\n\nDETAILED ANALYSIS OF THE OPTIONS\nTo identify the polyester, we must look at the monomeric units and the resulting bonds for each option:\n\n1.  Bakelite: This is a phenol-formaldehyde resin. It is a thermosetting polymer formed by the reaction of phenol with formaldehyde. It does not contain ester linkages. \n    \n\n2.  Melamine: This usually refers to melamine-formaldehyde resin. It is formed by the condensation of melamine and formaldehyde. Like Bakelite, it is a thermosetting resin, not a polyester.\n\n3.  Nylon-66: This is a polyamide. It is synthesized from hexamethylenediamine and adipic acid. The repeating linkage is an amide bond ($-CO-NH-$), similar to the peptide bonds in proteins.\n    \n\n4.  Terylene (Dacron): This is a classic polyester. It is synthesized from Ethylene glycol (HO–CH₂–CH₂–OH) and Terephthalic acid (HOOC–C₆H₄–COOH). During polymerization, a water molecule is eliminated to form an ester bond between the units.\n    \n\n### WHY THIS ANSWER IS CORRECT\nAmong the choices, only Terylene (Option D) possesses the repeating ester group that defines the 'polyester' class. It is the most common synthetic polyester used in the textile industry to produce wrinkle-resistant fabrics. In different industries, this same polymer is known as PET (polyethylene terephthalate) and is used to make plastic bottles.\n\n### COMMON MISTAKES\n* Confusing Terylene with Nylon: Both are synthetic fibers and both are formed by condensation polymerization. However, the monomers for Nylon contain nitrogen (amines), while the monomers for Terylene only contain carbon, oxygen, and hydrogen (alcohols and acids).\n* PET Recognition: Some students know the term PET but don't realize that Terylene and Dacron are simply trade names for the same polyester material.\n* Assuming all Condensation Polymers are Polyesters: While most polyesters are condensation polymers, not all condensation polymers are polyesters (e.g., Nylon and Bakelite). Always check for the specific functional group.",
+        "keywords": {
+            "PET": "Polyethylene Terephthalate"
+        }
+    },
+    {
+        "id": 73,
+        "question_number": "123",
+        "text": "A buffer solution is prepared in which the concentration of NH3 is 0.30 M and the concentration of is 0.20 M. if the equilibrium constant, Kb for NH3 equals , what is the pH of this solution? (log 2.7 = 0.43)",
+        "subject": "Chemistry",
+        "sub_topic": "Acid-Base Equilibria",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "9.43",
+            "11.72",
+            "8.73",
+            "9.08"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 5757,
+        "correct_answer": "9.43",
+        "basic_answer": "Given: Weak base [NH₃] = 0.30 M, \n\nConjugate acid [NH₄⁺] = 0.20 M, \n\nK_b = 1.8 × 10⁻⁵.\n\nSolution: [For a basic buffer, we first find the $pOH$ using the Henderson-Hasselbalch equation: $pOH = pK_b + \\log\\frac{[Salt]}{[Base]}$. \n $pK_b = -\\log(1.8 \\times 10^{-5}) \\approx 4.74$. \n$pOH = 4.74 + \\log\\frac{0.20}{0.30} = 4.74 + \\log(0.66) \\approx 4.74 - 0.17 = 4.57$. \n $pH = 14 - pOH = 14 - 4.57 = 9.43$.]",
+        "explanation": "### CORE CONCEPT\nA buffer solution is a mixture of a weak acid and its conjugate base (or a weak base and its conjugate acid) that resists changes in $pH$ when small amounts of acid or base are added. For a basic buffer consisting of a weak base (NH₃) and its salt ($NH_4^+$), the alkalinity is governed by the Henderson-Hasselbalch equation:\n\npOH = pK_b + log([Conjugate Acid] / [Weak Base])\n\nOnce the pOH is determined, the $pH$ is easily calculated using the relationship: $pH + pOH = 14$ (at $25^\\circ$C).\n\n\n\nSTEP-BY-STEP SOLUTION\n\n1.  Calculate $pK_b$:\n  K_b = 1.8 × 10⁻⁵.\n    pK_b = −log(K_b) = −log(1.8 × 10⁻⁵)\n    pK_b = 5 − log(1.8) ≈ 5 − 0.26 = 4.74\n\n2.  Apply the Henderson-Hasselbalch Equation:\n    Substitute the concentrations into the formula:\n    $$pOH = 4.74 + \\log\\left(\\frac{0.20}{0.30}\\right)$$\n    $$pOH = 4.74 + \\log\\left(\\frac{2}{3}\\right)$$\n    Using log properties: $\\log(2/3) = \\log(2) - \\log(3) \\approx 0.301 - 0.477 = -0.176$\n    $$pOH = 4.74 - 0.176 = 4.564$$\n\n3.  Convert $pOH$ to $pH$:\n    $$pH = 14.00 - pOH$$\n    $$pH = 14.00 - 4.564 = 9.436$$\n\n\n\n### WHY THIS ANSWER IS CORRECT\nThe calculated $pH$ of 9.43 (Option A) makes chemical sense. Since the buffer contains more weak base ($0.30$ M) than conjugate acid ($0.20$ M), the solution should be more basic than the $pK_b$ would imply ($pH > 14 - 4.74$). The result $9.43$ accurately reflects this slight shift toward a more basic environment. \n\n*Note: The prompt's hint (log 2.7 = 0.43) suggests an alternative calculation path often used in exams to simplify log values, but the fundamental $pOH$ derivation remains the same.*\n\n### COMMON MISTAKES\n* Formula Swap: Using the acidic buffer formula ($pH = pK_a + \\dots$) directly for a basic buffer. You must calculate $pOH$ first or convert K_b to K_a (K_a = K_w / K_b).\n* Ratio Inversion: Putting the base concentration in the numerator instead of the denominator. Remember: pOH = pK_b + log(Salt/Base).\n* Forgetting to Subtract from 14: Calculating $pOH$ and mistakenly selecting it as the final $pH$ answer. Always perform the final subtraction step for basicity questions.\n* Logarithmic Errors: Miscalculating the log of a fraction. $\\log(0.66)$ is negative, which correctly decreases the $pOH$ (increasing the $pH$).",
+        "keywords": {
+            "NH3": "ammonia",
+            "NH4+": "ammonium ion",
+            "Kb": "base dissociation constant",
+            "pH": "potential of hydrogen",
+            "pOH": "potential of hydroxide",
+            "M": "molarity"
+        }
+    },
+    {
+        "id": 74,
+        "question_number": "124",
+        "text": "Standard electrode potential for Sn₄+/Sn₂+ couple is +0.15 V and that for the Cr₃+/Cr couple is -0.74. These two couple in their standard state are connected to make a cell. The cell potential will be",
+        "subject": "Chemistry",
+        "sub_topic": "Electrochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "+0.89 V",
+            "+0.18 V",
+            "+1.83 V",
+            "+1.199 V"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 5758,
+        "correct_answer": "+0.89 V",
+        "basic_answer": "Given: [$E^\\circ_{Sn^{4+}/Sn^{2+}} = +0.15$ V and $E^\\circ_{Cr^{3+}/Cr} = -0.74$ V.] \n\nSolution: [In an electrochemical cell, the electrode with the higher reduction potential acts as the cathode (reduction), and the one with the lower potential acts as the anode (oxidation). The standard cell potential is calculated as\n\n $E^\\circ_{cell} = E^\\circ_{cathode} - E^\\circ_{anode}$. \n\nSubstituting the values:\n\n $E^\\circ_{cell} = 0.15 - (-0.74) = 0.89$ V.]",
+        "explanation": "### CORE CONCEPT\nIn electrochemistry, the Standard Cell Potential ($E^\\circ_{cell}$) is a measure of the electromotive force (EMF) generated by a galvanic cell under standard conditions. It is determined by the difference between the Standard Reduction Potentials of the two half-cells. \n\n\n\nA spontaneous chemical reaction occurs when the cell potential is positive. To ensure a positive $E^\\circ_{cell}$:\n1.  The species with the higher (more positive) reduction potential undergoes reduction and is placed at the cathode.\n2.  The species with the lower (more negative) reduction potential undergoes oxidation and is placed at the anode.\n\nDETAILED SOLUTION\n\n1.  Identify Cathode and Anode:\n    * $E^\\circ$ for $Sn^{4+}/Sn^{2+} = +0.15$ V\n    * $E^\\circ$ for $Cr^{3+}/Cr = -0.74$ V\n    Since $+0.15$ V > $-0.74$ V, the Tin couple will act as the cathode and the Chromium couple will act as the anode.\n\n2.  Determine the Half-Reactions:\n    * Cathode (Reduction): $Sn^{4+} + 2e^- \\rightarrow Sn^{2+}$\n    * Anode (Oxidation): $Cr \\rightarrow Cr^{3+} + 3e^-$\n\n3.  Apply the Cell Potential Formula:\n    $$E^\\circ_{cell} = E^\\circ_{cathode} - E^\\circ_{anode}$$\n    E°₍cell₎ = (+0.15 V) − (−0.74 V)\n    $$E^\\circ_{cell} = 0.15\\text{ V} + 0.74\\text{ V} = +0.89\\text{ V}$$\n\n### WHY THIS ANSWER IS CORRECT\nThe calculated value of $+0.89$ V (Option A) represents the maximum potential difference available from this specific electrochemical pairing. The positive sign confirms that the reaction is thermodynamically spontaneous as written ($3Sn^{4+} + 2Cr \\rightarrow 3Sn^{2+} + 2Cr^{3+}$).\n\n\n\n### COMMON MISTAKES\n* Stoichiometry Errors: A very common mistake is trying to multiply the electrode potentials by the number of electrons (e.g., multiplying $0.15$ by 3 and $-0.74$ by 2) to match the balanced equation. Never multiply $E^\\circ$ values; they are intensive properties and do not change with stoichiometry.\n* Sign Confusion: Forgetting the double negative when subtracting a negative anode potential ($0.15 - (-0.74)$). Always remember that $E^\\circ_{cell}$ for a galvanic cell must be a positive value.\n* Anode/Cathode Swapping: Incorrectly identifying the anode and cathode based on magnitude alone rather than sign. Even if both values were negative, the *least* negative would still be the cathode.",
+        "keywords": {
+            "$E_{\\text{cell}}$": "cell potential (V)",
+            "$E_{\\text{cathode}}$": "standard electrode potential at cathode (V)",
+            "$E_{\\text{anode}}$": "standard electrode potential at anode (V)",
+            "V": "Volts"
+        }
+    },
+    {
+        "id": 75,
+        "question_number": "126",
+        "text": "Name the type of the structure of silicate in which one oxygen atom of [SiO4]4- is shared?",
+        "subject": "Chemistry",
+        "sub_topic": "Inorganic Chemistry - Silicates",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 14,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Sheet silicate",
+            "Pyrosilicate",
+            "Three dimensional silicate",
+            "Linear chain silicate"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 5759,
+        "correct_answer": "Pyrosilicate",
+        "basic_answer": "Given: [A silicate structure where exactly one oxygen atom of the tetrahedral [SiO₄]⁴⁻ unit is shared with an adjacent unit.] \n\nSolution: [When two [SiO₄]⁴⁻ tetrahedra share one oxygen atom at a corner, they form a discrete unit called a pyrosilicate (or disilicate) ion with the formula [Si₂O₇]⁶⁻. This is the simplest form of condensed silicate structure.]",
+        "explanation": "### CORE CONCEPT\nSilicates are the most abundant minerals in the Earth's crust. Their structural diversity arises from how the fundamental [SiO₄]⁴⁻ tetrahedral units are linked together. Each tetrahedron consists of a central Silicon atom bonded to four Oxygen atoms at the corners. \n\n4- silicate tetrahedron unit\n\nThe classification of silicates depends entirely on the number of oxygen atoms shared per tetrahedron:\n* 0 Oxygen shared: Orthosilicates (Isolated tetrahedra).\n* 1 Oxygen shared: Pyrosilicates (Discrete pairs).\n* 2 Oxygen shared: Cyclic or Chain silicates.\n* 3 Oxygen shared: Sheet (Phyllosilicates).\n* 4 Oxygen shared: Three-dimensional (Tectosilicates).\n\nDETAILED ANALYSIS\nIn the case where one oxygen atom is shared:\n1.  Two individual $[SiO_4]$ tetrahedra come together.\n2.  They share a single vertex (oxygen atom).\n3.  This results in a 'dimer' of tetrahedra. \n4.  The formula is calculated as follows: $2 \\times (SiO_4) - 1 \\text{ oxygen shared} = Si_2O_7$. \n5.  The total charge becomes $6-$ because the shared oxygen is no longer ionized. This ion is known as the Pyrosilicate or Disilicate ion.\n\n6- showing the shared oxygen corner]\n\n### WHY THIS ANSWER IS CORRECT\nThe sharing of a single oxygen atom is the defining characteristic of Pyrosilicates (Option B). Other options involve higher degrees of sharing:\n* Sheet silicates share three oxygens, forming 2D layers.\n* Three-dimensional silicates share all four oxygens, forming a rigid 3D framework (like Quartz).\n* Linear chain silicates share two oxygens, forming infinite 1D strings.\n\n### COMMON MISTAKES\n* Confusing Pyrosilicate with Orthosilicate: Orthosilicates share zero oxygens. If the question said \"no oxygen atoms are shared,\" the answer would be orthosilicate (e.g., Zircon).\n* Formula Calculation: Students often forget to subtract the shared oxygen from the total count, leading to an incorrect chemical formula for the structural class.\n* Visualizing Sharing: It's helpful to remember that sharing a corner oxygen always reduces the overall negative charge of the silicate unit, making the structure more 'stable' and less ionic.",
+        "keywords": {
+            "SiO4": "Tetrahedral silicate unit"
+        }
+    },
+    {
+        "id": 76,
+        "question_number": "127",
+        "text": "Enthalpy change for the reaction, The correct IUPAC name of the compound The dissociation energy of H-H bond is",
+        "subject": "Chemistry",
+        "sub_topic": "Thermochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 15,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "-869.6 kJ",
+            "+434.8kJ",
+            "+217.4kJ",
+            "-434.8 kJ"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 5760,
+        "correct_answer": "+434.8kJ",
+        "basic_answer": "Given: [Target: The bond dissociation energy of the Hydrogen-Hydrogen ($H-H$) bond.] \n\nSolution: [Bond dissociation energy is the energy required to break one mole of a specific bond in a gaseous molecule. For the $H_2$ molecule, the reaction is $H_2(g) \\rightarrow 2H(g)$. This process is endothermic, meaning energy must be absorbed ($\\Delta H$ is positive). The standard value for $H-H$ bond dissociation is approximately $+436$ kJ/mol. Among the given options, $+434.8$ kJ is the only value that matches the correct magnitude and sign.]",
+        "explanation": "### CORE CONCEPT\nBond Dissociation Enthalpy (or Energy) is defined as the change in enthalpy required to break one mole of a specific bond in a gaseous substance into its individual atoms in the gaseous state. \nFor the hydrogen molecule, the process is represented as:\nH₂(g) → H(g) + H(g); Δ₍H–H₎H° = +434.8 kJ mol⁻¹\n\n\n\nKey characteristics of bond dissociation energy include:\n1.  Always Positive: Breaking a chemical bond requires an input of energy (it is an endothermic process). Therefore, $\\Delta H$ must be positive.\n2.  Phase Matters: The definition specifically applies to molecules in the gaseous state to avoid accounting for intermolecular forces like Van der Waals or hydrogen bonding.\n\nDETAILED ANALYSIS OF THE OPTIONS\nWe can narrow down the correct choice by evaluating the sign and the numerical value:\n\n* $-869.6$ kJ and $-434.8$ kJ (Options A & D): These values are negative. A negative enthalpy change indicates an exothermic process (bond formation). While $434.8$ kJ is released when two hydrogen atoms *form* a bond, the question asks for *dissociation* (breaking), which requires energy input.\n* $+217.4$ kJ (Option C): This is exactly half of the actual bond energy. This value corresponds to the Enthalpy of Atomization per mole of Hydrogen *atoms* formed ($H_2 \\rightarrow 2H$), or the enthalpy change per single Hydrogen atom, rather than per mole of bonds broken.\n* $+434.8$ kJ (Option B): This matches the standard laboratory value for the $H-H$ bond (often rounded to $436$ kJ in many textbooks). It has the correct positive sign for an endothermic process.\n\n### WHY THIS ANSWER IS CORRECT\nThe $H-H$ bond is one of the strongest single covalent bonds due to the small size of the hydrogen atoms and the resulting high electron density between the two nuclei. The value $+434.8$ kJ accurately represents the amount of work needed to overcome this electrostatic attraction for one mole of $H_2$ gas. This corresponds to Option B.\n\n### COMMON MISTAKES\n* Sign Errors: Selecting the negative version of the number. Remember: Bond Breaking = Positive Energy (Endothermic); Bond Forming = Negative Energy (Exothermic).\n* Confusing with Atomization: Be careful if the question asks for the enthalpy of formation of $H(g)$. Since $H_2 \\rightarrow 2H$ takes $434.8$ kJ, the enthalpy of formation of one mole of $H(g)$ is $\\frac{434.8}{2} = 217.4$ kJ. This question asks for the *bond energy*, which refers to the whole mole of $H_2$.\n* Units: Always check if the value is per mole (kJ/mol) or per molecule. Most MCQ questions imply kJ/mol unless otherwise specified.",
+        "keywords": {
+            "H": "Hydrogen",
+            "kJ": "kilojoules"
+        }
+    },
+    {
+        "id": 77,
+        "question_number": "130",
+        "text": "The correct IUPAC name of the compound",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Nomenclature",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 15,
+        "source_pdf": "PAPAER (9)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "set8_id_77.png",
+                "path": "mcq-backend\\data\\questions\\mcq_practice\\chemistry\\Set8\\images\\set8_id_77.png",
+                "base64": "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"
+            }
+        ],
+        "options": [
+            "3-ethyl-4-ethenylheptane",
+            "3-ethyl-4-propylhex-5-ene",
+            "3-(1-ethyl propyl) hex-1-ene",
+            "4-ethyl-3-propylhex-1-ene"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 5761,
+        "correct_answer": "3-ethyl-4-ethenylheptane",
+        "basic_answer": "Given: [An organic molecule with a vinyl group and several alkyl branches.] \n\nSolution: [To name the molecule according to IUPAC rules, we first identify the longest continuous carbon chain. Although there is a double bond, the longest possible chain in this molecule has 7 carbons (Heptane), whereas the longest chain containing the double bond has only 6 carbons (Hexene). According to modern IUPAC (2013) recommendations, the principal chain is the longest carbon chain, regardless of unsaturation. Numbering the heptane chain to give substituents the lowest locants results in an ethyl group at C3 and an ethenyl (vinyl) group at C4. Thus, the name is 3-ethyl-4-ethenylheptane.]",
+        "explanation": "### CORE CONCEPT\nIUPAC nomenclature for branched alkenes involves several hierarchical rules. Traditionally, the rule was to select the longest chain containing the maximum number of multiple bonds. However, updated IUPAC recommendations (P-44.4.1) prioritize the longest carbon chain as the principal chain. If multiple chains of the same length exist, only then is the one with the maximum number of double bonds chosen.\n\n\n\nSTEP-BY-STEP NOMENCLATURE\n\n1.  Selection of the Principal Chain:\n    * Path A (including $C=C$): If we start from the double bond and follow the longest path, we get a 6-carbon chain (hexene).\n    * Path B (longest overall): If we ignore the double bond and look for the longest possible carbon sequence, we find a 7-carbon chain (heptane).\n    * Since $7 > 6$, the parent name is Heptane.\n\n2.  Numbering the Chain:\n    * We number the heptane chain from the end that gives the substituents the lowest locants.\n    * Numbering from the 'ethyl-heavy' side puts the first substituent at carbon 3 and the second at carbon 4\n\n    * (Numbering from the other side would result in substituents at positions 4 and 5, which is higher).\n\n3.  Identifying Substituents:\n    * At C3, there is an ethyl group ($-CH_2CH_3$).\n    * At C4, there is an ethenyl group (also known as a vinyl group, $-CH=CH_2$).\n\n4.  Alphabetical Ordering:\n    * 'Ethyl' comes before 'Ethenyl' alphabetically (e-t-h-y vs e-t-h-e). Wait, actually, in alphabetical sorting: e-t-h-e-n-y-l precedes e-t-h-y-l because 'e' comes before 'y'. \n    * *Correction:* Alphabetically, ethenyl is listed before ethyl. However, the numerical locants are 3 and 4\n\nWe assign the lower number (3) to the group that comes first alphabetically if the positions are equivalent. Here, the positions are fixed by the lowest locant rule (3,4 is better than 4,5).\n\n### WHY THIS ANSWER IS CORRECT\nThe name 3-ethyl-4-ethenylheptane correctly identifies the longest carbon chain (7 carbons) and places the substituents at the lowest possible positions. While school-level textbooks often emphasize the \"longest chain containing the double bond\" (which would lead to 4-ethyl-3-propylhex-1-ene), higher-level IUPAC standards used in modern chemistry prioritize total chain length. This matches Option A.\n\n### COMMON MISTAKES\n* Over-prioritizing the Double Bond: Many students automatically assume the chain must include the $C=C$ bond. If a significantly longer chain exists elsewhere, that chain becomes the parent, and the double-bonded group is treated as a substituent (ethenyl/vinyl).\n* Incorrect Chain Length: Miscounting the propyl or ethyl branches. Always 'expand' condensed groups in your head to ensure you haven't missed a carbon.\n* Alphabetical Errors: Forgetting to alphabetize substituents in the final name. 'Ethyl' and 'Ethenyl' are very similar; pay close attention to the fourth and fifth letters.",
+        "keywords": {
+            "C": "Carbon",
+            "H": "Hydrogen",
+            "C=C": "Double bond",
+            "C-C": "Single bond"
+        }
+    },
+    {
+        "id": 78,
+        "question_number": "131",
+        "text": "Two gases A and B having the same volume diffuse through a porous partition in 20 and 10 second respectively. The molecular mass of A is 49 u. Molecular mass of B will be",
+        "subject": "Chemistry",
+        "sub_topic": "Gaseous State",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 15,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "12.25 U",
+            "6.50 U",
+            "25.00 U",
+            "50.00 U"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 5762,
+        "correct_answer": "12.25 U",
+        "basic_answer": "Given: [Diffusion times $t_A = 20$ s, $t_B = 10$ s. Molecular mass $M_A = 49$ u.] \n\nSolution: [According to Graham's Law of Diffusion, the rate of diffusion ($r$) is inversely proportional to the square root of molecular mass ($M$). Since rate is also inversely proportional to time ($t$) for a constant volume, we have the relationship tₐ / tᵦ = √(Mₐ / Mᵦ). Substituting the values: 20 / 10 = √(49 / Mᵦ ) ⇒ 2 = √(49 / Mᵦ ). \n\nSquaring both sides: 4 = 49 / Mᵦ  ⇒ Mᵦ  = 49 / 4 = 12.25 u.]",
+        "explanation": "### CORE CONCEPT\nGraham's Law of Diffusion (or Effusion) states that at constant temperature and pressure, the rate of diffusion of a gas is inversely proportional to the square root of its molar mass ($M$) or its density ($d$):\n$$r \\propto \\frac{1}{\\sqrt{M}}$$\n\n\n\nSince the rate of diffusion ($r$) is the volume of gas diffused per unit time ($r = V/t$), for a fixed volume of two different gases ($A$ and $B$), the relationship between their diffusion times and molar masses is:\nrₐ / rᵦ = tᵦ / tₐ = √(Mᵦ / Mₐ)\nAlternatively, it can be written as:\ntₐ / tᵦ = √(Mₐ / Mᵦ)\nThis means that a heavier gas takes more time to diffuse than a lighter gas.\n\nSTEP-BY-STEP CALCULATION\n\n1.  Identify the Given Values:\n    * Time taken by Gas A ($t_A$) = $20$ s\n    * Time taken by Gas B ($t_B$) = $10$ s\n    * Molecular mass of Gas A ($M_A$) = $49$ u\n    * Molecular mass of Gas B ($Mᵦ $) = ?\n\n2.  Set up the Equation:\n    20 s / 10 s = √(49 u / Mᵦ )\n    2 = √(49 / Mᵦ )\n\n3.  Solve for $Mᵦ $:\n    Square both sides of the equation to remove the square root:\n    (2)² = (√(49 / Mᵦ ))²\n    4 = 49 / Mᵦ \n    Mᵦ  = 49 / 4 = 12.25 u\n\n### WHY THIS ANSWER IS CORRECT\nGas B diffused in half the time ($10$ s) compared to Gas A ($20$ s). This indicates that Gas B is faster and must be lighter than Gas A. Mathematically, because rate is inversely proportional to the square root of mass, a twofold increase in speed (halving the time) requires the mass to be decreased by a factor of $2^2 = 4$. Dividing the mass of A ($49$ u) by 4 gives $12.25$ u, which matches Option A.\n\n### COMMON MISTAKES\n* Inverting the Ratio: A common error is setting up the ratio as tₐ / tᵦ = √(Mᵦ / Mₐ). Remember: time is directly proportional to the square root of mass (heavier = slower = more time).\n* Forgetting to Square: Students often find the ratio (2) and multiply or divide the mass by 2 instead of 4\n\nAlways square the time ratio when solving for mass.\n* Conceptual Error: Expecting a heavier gas to be faster. Always perform a 'sanity check': if the time is shorter, the mass *must* be smaller than the original.\n\n",
+        "keywords": {
+            "$t_{A}$": "time for gas A in seconds",
+            "$t_{B}$": "time for gas B in seconds",
+            "$M_{A}$": "molecular mass of gas A in u",
+            "$M_{B}$": "molecular mass of gas B in u"
+        }
+    },
+    {
+        "id": 79,
+        "question_number": "132",
+        "text": "The complex [Co(NH₃)₆][Cr(CN)₆] and [Cr(NH₃)₆][Co(CN)₆] are the examples of which type of isomerism?",
+        "subject": "Chemistry",
+        "sub_topic": "Coordination Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 15,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Ionisation isomerism",
+            "Co-ordination isomerism",
+            "Geometrical isomerism",
+            "Linkage isomerism"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 15,
+            "type": "MCQ"
+        },
+        "original_id": 5763,
+        "correct_answer": "Co-ordination isomerism",
+        "basic_answer": "Given: [Two coordination compounds where both the cation and the anion are complex ions: [Co(NH₃)₆][Cr(CN)₆] and [Cr(NH₃)₆][Co(CN)₆].]\n\nSolution: [This type of isomerism occurs in compounds where both the positive and negative parts are complex ions. It arises from the interchange of ligands between the cationic and anionic entities of different metal ions. Since the NH₃ and CN⁻ ligands have swapped their respective metal centers (Cobalt and Chromium), this is a classic example of coordination isomerism.]",
+        "explanation": "### CORE CONCEPT\nIn coordination chemistry, Structural Isomerism occurs when isomers have the same molecular formula but different bonding arrangements. Coordination Isomerism is a specific subtype that occurs only when both the cation and the anion of the salt are complex ions. \n\n\n\nIt involves the redistribution or \"swapping\" of ligands between the two metal centers. While the individual metal-ligand bonds change, the overall stoichiometry of the bulk crystal remains identical.\n\nDETAILED ANALYSIS\nLet's break down the two complexes provided:\n\n1.  Isomer 1: [Co(NH₃)₆][Cr(CN)₆]\n    * Cation: Hexaamminecobalt(III) — Cobalt is bonded to 6 NH₃ ligands.\n    * Anion: Hexacyanochromate(III) — Chromium is bonded to 6 CN⁻ ligands.\n\n2.  Isomer 2: [Cr(NH₃)₆][Co(CN)₆]\n    * Cation: Hexaamminechromium(III) — Chromium is now bonded to 6 NH₃ ligands.\n    * Anion: Hexacyanocobaltate(III) — Cobalt is now bonded to 6 CN⁻ ligands.\n\nBy comparing the two, we see that the NH₃ ligands have moved from the Cobalt center to the Chromium center, and vice-versa for the CN⁻ ligands. \n\n### EVALUATING OTHER OPTIONS\n* Ionisation Isomerism: Requires an exchange between a ligand inside the coordination sphere and a counter-ion outside it (e.g., [Co(NH₃)₅SO₄]Br vs [Co(NH₃)₅Br]SO₄). \n* Linkage Isomerism: Occurs with ambidentate ligands (like NO₂⁻ or SCN⁻) that can bind through different atoms. \n* Geometrical Isomerism: A type of stereoisomerism (cis/trans) involving different spatial arrangements of ligands around a single metal center.\n\n\n\n### WHY THIS ANSWER IS CORRECT\nThe defining feature of the given pair is the complete exchange of the ligand sets between two different metal atoms in a dual-complex system. This perfectly matches the definition of Coordination Isomerism. This corresponds to Option B.\n\n### COMMON MISTAKES\n* Missing the Dual-Complex Requirement: Students often look for coordination isomerism in simple salts like $[Co(NH_3)_6]Cl_3$. Remember, you need two complex brackets $[M_1L_x][M_2L_y]$ for this to be possible.\n* Confusing with Double Salts: Unlike double salts (which dissociate completely into simple ions in water), these coordination isomers maintain their complex identity in solution.\n* Oxidation State Errors: When swapping ligands, the oxidation states of the metals must remain consistent with the overall charge balance. In this case, both $Co$ and $Cr$ stay in the $+3$ state.",
+        "keywords": {
+            "Co": "Cobalt",
+            "Cr": "Chromium",
+            "NH3": "Ammonia",
+            "CN": "Cyanide",
+            "[Co(NH3)6]": "Hexaamminecobalt(III)",
+            "[Cr(CN)6]": "Hexacyanochromate(III)"
+        }
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Chemical Equilibrium",
+    "chapter_number": 5,
+    "topic": "Le Chatelier's Principle",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:06:41.046487",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Le Chatelier's Principle. This principle helps us understand how a chemical reaction at equilibrium responds to changes. Let's start with some basics. Chemical equilibrium is when the rate of the forward reaction equals the rate of the backward reaction. Now, Le Chatelier's Principle states that if a system at equilibrium is disturbed, it will adjust to minimize that disturbance. \n\nFirst, let's talk about the effect of concentration changes. If you add more reactants to a system at equilibrium, the system will try to use up the extra reactants. This means the reaction will shift to the right, towards the products. For example, in the reaction N2 + 3H2 ⇌ 2NH3, adding more N2 will produce more NH3. If you remove a product, like NH3, the system will shift to the right to make more NH3. \n\nNext, the effect of pressure changes. This applies to reactions involving gases. If you increase the pressure, the system will shift towards the side with fewer gas molecules. In our example, N2 + 3H2 ⇌ 2NH3, there are 4 gas molecules on the left and 2 on the right. So, increasing pressure shifts the equilibrium to the right. Remember, if the number of gas molecules is the same on both sides, pressure changes have no effect. \n\nNow, let's discuss the effect of temperature changes. If you increase the temperature, the system will favor the endothermic reaction, which absorbs heat. If you decrease the temperature, it will favor the exothermic reaction, which releases heat. In our reaction, if forming NH3 is exothermic, increasing temperature will shift the equilibrium to the left, making more N2 and H2. \n\nWhat about catalysts? Catalysts speed up both the forward and backward reactions equally. They help reach equilibrium faster but do not change the position of equilibrium. So, adding a catalyst does not shift the equilibrium. \n\nLe Chatelier's Principle is very important in industrial processes. For example, in the Haber process for making ammonia, conditions are adjusted to maximize NH3 production. High pressure and low temperature are used, but temperature cannot be too low, or the reaction becomes very slow. \n\nLet's talk about predicting shifts in equilibrium. If you know the change, you can predict the shift. For example, if pressure increases, check which side has fewer gas molecules. That's the direction of the shift. \n\nGraphical representation of shifts can also help. In a graph, you can see concentration changes over time. If the concentration of a product increases suddenly, it means reactants were added. The graph will show a shift towards the products. \n\nCommon misconceptions include thinking that catalysts change equilibrium. Remember, they only speed up reaching equilibrium. Also, pressure changes do not affect reactions with no gas molecules. \n\nLet's summarize. Le Chatelier's Principle helps predict how equilibrium changes with concentration, pressure, and temperature. Catalysts do not shift equilibrium. This principle is crucial in industries like the Haber process. \n\nKey takeaways: Know how to predict shifts, understand the role of temperature, pressure, and concentration, and remember that catalysts only speed up reactions.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Le Chatelier's Principle",
+    "Equilibrium",
+    "Concentration",
+    "Pressure",
+    "Temperature"
+  ],
+  "formulas": [
+    {
+      "formula": "Kc = [products]/[reactants]",
+      "description": "Used to calculate the equilibrium constant for reactions in terms of concentration."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Chemical Equilibrium",
+      "definition": "A state where the rate of the forward reaction equals the rate of the backward reaction."
+    },
+    {
+      "term": "Catalyst",
+      "definition": "A substance that speeds up a chemical reaction without being consumed."
+    }
+  ]
+}

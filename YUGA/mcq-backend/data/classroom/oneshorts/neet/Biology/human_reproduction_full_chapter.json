@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "12",
+    "chapter": "Human Reproduction",
+    "chapter_number": "25",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:36:06.775073",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: Human Reproduction.\n\nHuman reproduction involves the formation of gametes, fertilization, pregnancy, and childbirth. The male reproductive system includes testes, vas deferens, and the ejaculatory duct, while the female system involves ovaries, fallopian tubes, and the uterus.\n\nKey structures:\n- Testis: Produces sperm and testosterone.\n- Ovary: Releases ovum (egg) and hormones (estrogen and progesterone).\n- Menstrual Cycle: A 28-day cycle preparing the uterus for pregnancy.\n\nImportant Process:\n- Spermatogenesis: Formation of sperm.\n- Oogenesis: Formation of ova.\n- Fertilization: Sperm + Egg = Zygote.\n- Implantation: Zygote attaches to uterine wall.\n\nFormation Timeline:\n- Testicular Descent happens before birth.\n- Menstrual Cycle Phases: Follicular, Ovulatory, Luteal.\n- Gestation: 9 months from fertilization to birth.\n\nNEET Question Pattern: \n- Diagram-based questions from male/female reproductive systems.\n- Match the following, focusing on hormones and their functions.\n- Stages of embryo development and differentiation.\n\nQuick Revision Points:\n1. Memorize male and female reproductive system diagrams.\n2. Understand hormonal control of the menstrual cycle.\n3. Focus on the significance of spermatogenesis, oogenesis, and fertilization.\n4. Practice questions involving pregnancy and childbirth stages.\n5. Recall key hormones like FSH, LH, estrogen, progesterone, and their roles in reproduction.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Reproduction",
+    "Gametes",
+    "Spermatogenesis",
+    "Oogenesis",
+    "Fertilization",
+    "Menstrual Cycle",
+    "Testis",
+    "Ovary",
+    "Zygote",
+    "Implantation"
+  ],
+  "formulas": [
+    "NA (No mathematical formulas are central in this biology chapter)"
+  ],
+  "definitions": [
+    {
+      "term": "Reproduction",
+      "definition": "A biological process by which new individual organisms are produced from their parents."
+    },
+    {
+      "term": "Gametes",
+      "definition": "Specialized cells (sperm in males and eggs in females) used in sexual reproduction to pass on genes to offspring."
+    },
+    {
+      "term": "Spermatogenesis",
+      "definition": "The process by which sperm are produced by the male reproductive organs."
+    },
+    {
+      "term": "Oogenesis",
+      "definition": "The process of formation and development of the egg (ovum) in a woman's ovaries."
+    },
+    {
+      "term": "Fertilization",
+      "definition": "The union of a male sperm cell and a female egg cell to form a zygote."
+    },
+    {
+      "term": "Menstrual Cycle",
+      "definition": "A monthly cycle in females involving the preparation of the uterus to receive a fertilized egg."
+    },
+    {
+      "term": "Testis",
+      "definition": "The male reproductive organ that produces sperm and hormones, primarily testosterone."
+    },
+    {
+      "term": "Ovary",
+      "definition": "The female reproductive organ that produces eggs and hormones such as estrogen and progesterone."
+    },
+    {
+      "term": "Zygote",
+      "definition": "The cell resulting from the fusion of male and female gametes; a fertilized ovum."
+    },
+    {
+      "term": "Implantation",
+      "definition": "The stage in pregnancy when a fertilized egg attaches to the lining of the uterus."
+    }
+  ]
+}

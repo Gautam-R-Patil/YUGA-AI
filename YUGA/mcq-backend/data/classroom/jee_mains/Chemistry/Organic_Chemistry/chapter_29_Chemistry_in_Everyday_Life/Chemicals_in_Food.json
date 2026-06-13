@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Chemistry in Everyday Life",
+    "chapter_number": 29,
+    "topic": "Chemicals in Food",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:31:38.355802",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about chemicals in food. This is part of the Chemistry in Everyday Life chapter. We will cover food preservatives, artificial sweeteners, antioxidants, and more. Let's start with food preservatives. Preservatives keep food fresh for a long time. They stop bacteria and fungi from growing. Common preservatives are salt, sugar, and vinegar. Salt is used in pickles. Sugar is used in jams. Vinegar is used in sauces. Artificial preservatives include sodium benzoate and potassium sorbate. These are used in soft drinks and juices. \n\nNext, let's talk about artificial sweeteners. These are chemicals that make food sweet without adding calories. They are helpful for people with diabetes. Common examples are aspartame and saccharin. Aspartame is used in diet sodas. Saccharin is used in sugar-free gum. Remember, too much of these can be harmful. \n\nNow, we will discuss antioxidants. Antioxidants prevent food from spoiling due to oxygen. They also protect our body cells. Vitamin C and E are natural antioxidants. They are found in fruits and vegetables. Artificial antioxidants like BHA and BHT are used in snacks and cereals. \n\nLet's move on to nutritional supplements. These are extra vitamins and minerals added to food. They help in meeting our daily nutrient needs. For example, iron is added to breakfast cereals. Calcium is added to milk. \n\nHowever, food additives can also be harmful. Some people may have allergies. Others may have stomach problems. Always check labels before eating. \n\nThere are regulations on food chemicals. The government sets safety limits. This is to protect our health. In India, FSSAI is responsible for food safety. They check if food additives are safe. \n\nNow, let's compare natural vs synthetic additives. Natural additives come from plants and animals. Synthetic additives are made in labs. Natural additives are usually safer. But synthetic ones are cheaper and last longer. \n\nEmulsifiers are also important. They help mix oil and water. This is useful in making mayonnaise and ice cream. Lecithin is a common emulsifier. It is found in egg yolks. \n\nSome common food chemicals are citric acid, used in soft drinks, and MSG, used in noodles. \n\nFinally, let's talk about the impact on health. Too many additives can cause health issues. Always eat a balanced diet. \n\nIn JEE Main, focus on examples and uses of food chemicals. Remember the names and functions. Common mistakes include confusing natural and synthetic additives. Also, remember the role of preservatives and sweeteners. \n\nKey takeaways: Preservatives keep food fresh. Artificial sweeteners are low-calorie. Antioxidants protect cells. Nutritional supplements add nutrients. Check food labels for safety. \n\nIn summary, chemicals in food play a big role in our daily lives. They make food last longer and taste better. But we must use them safely. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Food Preservatives",
+    "Artificial Sweeteners",
+    "Antioxidants",
+    "Nutritional Supplements",
+    "Emulsifiers"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Food Preservatives",
+      "definition": "Chemicals that keep food fresh and stop bacteria and fungi from growing."
+    },
+    {
+      "term": "Artificial Sweeteners",
+      "definition": "Chemicals that make food sweet without adding calories."
+    },
+    {
+      "term": "Antioxidants",
+      "definition": "Substances that prevent food from spoiling due to oxygen and protect body cells."
+    },
+    {
+      "term": "Nutritional Supplements",
+      "definition": "Extra vitamins and minerals added to food to meet daily nutrient needs."
+    },
+    {
+      "term": "Emulsifiers",
+      "definition": "Substances that help mix oil and water in food products."
+    }
+  ]
+}

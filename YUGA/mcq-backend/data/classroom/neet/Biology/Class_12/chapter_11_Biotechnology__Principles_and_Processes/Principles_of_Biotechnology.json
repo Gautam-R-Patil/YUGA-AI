@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Biotechnology: Principles and Processes",
+    "chapter_number": 11,
+    "topic": "Principles of Biotechnology",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:43:57.945810",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the principles of biotechnology. This is an exciting field that combines biology and technology to solve problems. Let's start with genetic engineering. Genetic engineering is changing the DNA of an organism. DNA is like a set of instructions for living things. By changing these instructions, we can give organisms new traits. \n\nNow, let's talk about recombinant DNA technology. It is a method used in genetic engineering. Recombinant DNA is DNA that has been formed by combining DNA from different sources. Think of it like mixing two different recipes to make a new dish. \n\nTo do this, we use special tools. The first tool is restriction enzymes. These are proteins that cut DNA at specific places. Imagine scissors that only cut at certain points. Another important tool is cloning vectors. A vector is a carrier that can hold DNA and help transfer it into a host cell. Plasmids are common vectors. They are small, circular DNA found in bacteria. \n\nLet's see the process of recombinant DNA technology. First, we isolate the DNA we want to change. Then, we use restriction enzymes to cut the DNA at specific points. Next, we insert the DNA fragment into a vector. This is called ligation. After that, we introduce the vector into a host cell. This step is called transformation. Finally, we select the cells that have the recombinant DNA. \n\nA key term to remember is 'host'. The host is the organism that receives the new DNA. Another important term is 'recombinant DNA'. It means DNA that has been combined from different sources. \n\nLet's talk about a common mistake. Sometimes, students think all restriction enzymes cut DNA in the same way. But, each enzyme cuts at a specific sequence. This is important for making precise changes in DNA. \n\nNow, let's summarize. Genetic engineering and recombinant DNA technology help us change the traits of organisms. We use tools like restriction enzymes and vectors to do this. The process involves isolation, cutting, insertion, ligation, transformation, and selection. \n\nRemember, restriction enzymes are like molecular scissors. They play a key role in genetic engineering. This is often tested in NEET exams, so make sure to understand it well. \n\nThat's all for today! Keep practicing and revising these concepts. They are important for your NEET exam. Good luck!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Genetic Engineering",
+    "Recombinant DNA",
+    "Restriction Enzymes",
+    "Cloning Vectors",
+    "Transformation"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Genetic Engineering",
+      "definition": "Changing the DNA of an organism to give it new traits."
+    },
+    {
+      "term": "Recombinant DNA",
+      "definition": "DNA formed by combining DNA from different sources."
+    },
+    {
+      "term": "Restriction Enzymes",
+      "definition": "Proteins that cut DNA at specific sequences."
+    },
+    {
+      "term": "Cloning Vector",
+      "definition": "A carrier that holds DNA and helps transfer it into a host cell."
+    },
+    {
+      "term": "Plasmid",
+      "definition": "Small, circular DNA found in bacteria, often used as vectors."
+    }
+  ]
+}

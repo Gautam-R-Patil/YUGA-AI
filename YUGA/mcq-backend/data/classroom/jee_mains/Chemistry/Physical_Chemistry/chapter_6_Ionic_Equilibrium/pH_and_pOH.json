@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Ionic Equilibrium",
+    "chapter_number": 6,
+    "topic": "pH and pOH",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:07:14.145659",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about pH and pOH. These are important topics in ionic equilibrium. First, let's understand what pH and pOH mean. pH is a measure of how acidic or basic a solution is. It tells us the concentration of hydrogen ions (H+) in a solution. The pH scale ranges from 0 to 14. A pH less than 7 means the solution is acidic. A pH of 7 is neutral, like pure water. A pH greater than 7 means the solution is basic or alkaline. Now, let's define pOH. pOH measures the concentration of hydroxide ions (OH-) in a solution. It is similar to pH but focuses on bases. The pOH scale also ranges from 0 to 14. In simple terms, pOH is the opposite of pH. If pH is low, pOH is high, and vice versa. \n\nNow, let's talk about the pH scale. The pH scale is important because it helps us understand the nature of a solution. For example, lemon juice has a pH around 2, which means it is acidic. Soap has a pH around 9, which means it is basic. The pH scale helps us in everyday life, like when testing the pH of soil for gardening. \n\nTo calculate pH, we use the formula: pH = -log[H+]. This formula uses the concentration of hydrogen ions in moles per liter. For strong acids like hydrochloric acid (HCl), the concentration of H+ is the same as the concentration of the acid. For example, if [H+] = 0.01 M, then pH = -log(0.01) = 2. For strong bases like sodium hydroxide (NaOH), we calculate pOH first: pOH = -log[OH-]. Then, we find pH using the relation: pH + pOH = 14. \n\nFor weak acids and bases, the calculations are slightly different. Weak acids do not completely ionize in water. We use the acid dissociation constant (Ka) to find pH. The formula is: pH = -log(√(Ka x [acid])). For weak bases, we use the base dissociation constant (Kb) and the formula: pOH = -log(√(Kb x [base])). Then, we find pH using pH + pOH = 14. \n\nNow, let's look at the relation between pH and pOH. The formula pH + pOH = 14 is very important. It shows the balance between acids and bases in a solution. If you know pH, you can easily find pOH, and vice versa. This is useful in solving many JEE Main problems. \n\npH indicators are substances that change color based on the pH of a solution. They help us find out if a solution is acidic or basic. Common pH indicators include litmus paper, phenolphthalein, and methyl orange. For example, litmus paper turns red in acidic solutions and blue in basic solutions. \n\nIn JEE Main, you will often use common logarithmic calculations. Remember, log(10) = 1 and log(1) = 0. Also, log(a x b) = log(a) + log(b). These rules help in solving pH problems quickly. \n\nLet's summarize what we have learned. pH and pOH are measures of acidity and basicity. The pH scale ranges from 0 to 14. Strong acids and bases have simple pH calculations. Weak acids and bases need Ka or Kb for calculations. pH + pOH = 14 is a key formula. pH indicators help identify the nature of a solution. Practice these concepts to avoid common mistakes in JEE Main. \n\nRemember, practice is important. Use these concepts to solve problems and get better at understanding pH and pOH.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "PH",
+    "POH",
+    "Acid",
+    "Base",
+    "PH Scale"
+  ],
+  "formulas": [
+    {
+      "formula": "pH = -log[H+]",
+      "description": "Used to calculate the pH of a solution from the concentration of hydrogen ions."
+    },
+    {
+      "formula": "pOH = -log[OH-]",
+      "description": "Used to calculate the pOH of a solution from the concentration of hydroxide ions."
+    },
+    {
+      "formula": "pH + pOH = 14",
+      "description": "Shows the relationship between pH and pOH in a solution."
+    },
+    {
+      "formula": "pH = -log(√(Ka x [acid]))",
+      "description": "Used to calculate the pH of weak acids using the acid dissociation constant."
+    },
+    {
+      "formula": "pOH = -log(√(Kb x [base]))",
+      "description": "Used to calculate the pOH of weak bases using the base dissociation constant."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "pH",
+      "definition": "A measure of how acidic or basic a solution is, based on hydrogen ion concentration."
+    },
+    {
+      "term": "pOH",
+      "definition": "A measure of the concentration of hydroxide ions in a solution, indicating its basicity."
+    },
+    {
+      "term": "pH Scale",
+      "definition": "A scale from 0 to 14 that indicates how acidic or basic a solution is."
+    }
+  ]
+}

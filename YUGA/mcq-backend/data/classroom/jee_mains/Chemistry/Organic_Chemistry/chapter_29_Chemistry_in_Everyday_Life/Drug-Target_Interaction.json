@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Chemistry in Everyday Life",
+    "chapter_number": 29,
+    "topic": "Drug-Target Interaction",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:30:57.698789",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about drug-target interactions in chemistry. This topic is important in our daily lives and for JEE Main. Let's start with enzymes as drug targets. Enzymes are proteins that speed up chemical reactions in our body. Drugs can target these enzymes to either stop or slow down a reaction. This is called enzyme inhibition. For example, aspirin inhibits an enzyme that causes pain and swelling.\n\nNext, we have receptors as drug targets. Receptors are like locks on a cell's surface. Drugs act as keys to open these locks. When a drug binds to a receptor, it can either activate or block the receptor. If a drug activates a receptor, it is called an agonist. If it blocks the receptor, it is called an antagonist. A common example is antihistamines, which are antagonists. They block receptors that cause allergy symptoms.\n\nNow, let's talk about interaction with nucleic acids. Nucleic acids like DNA are the instructions for our cells. Some drugs target these nucleic acids to treat diseases. For example, certain cancer drugs bind to DNA and stop it from replicating. This prevents cancer cells from growing.\n\nThe mechanism of drug action involves how a drug works in the body. This can include binding to enzymes or receptors, or interacting with DNA. Understanding this helps in designing better drugs. Structure-activity relationship is a key concept here. It means the structure of a drug affects its activity. Small changes in the structure can make a drug more or less effective.\n\nLet's discuss inhibition of enzyme activity. Enzyme inhibitors are drugs that stop enzymes from working. They can be competitive or non-competitive. Competitive inhibitors compete with the substrate for the enzyme. Non-competitive inhibitors bind elsewhere on the enzyme.\n\nA quick JEE Main mistake to avoid: Remember, competitive inhibitors can be overcome by increasing substrate concentration, but non-competitive inhibitors cannot.\n\nThe specificity of drug action is also important. It means a drug acts only on specific targets. This reduces side effects and increases effectiveness. For example, antibiotics target bacteria without harming human cells.\n\nFinally, let's summarize with key takeaways: Drugs can target enzymes or receptors. They can also interact with nucleic acids. Understanding the structure-activity relationship helps in drug design. Remember the difference between agonists and antagonists. Avoid common mistakes like confusing competitive and non-competitive inhibitors.\n\nThat's all for today! Keep revising these concepts for JEE Main. They are not only important for exams but also for understanding how medicines work in our lives.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Enzymes",
+    "Receptors",
+    "Nucleic Acids",
+    "Agonists",
+    "Antagonists"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Enzyme",
+      "definition": "A protein that speeds up chemical reactions in the body."
+    },
+    {
+      "term": "Receptor",
+      "definition": "A molecule on a cell's surface that drugs can bind to."
+    },
+    {
+      "term": "Agonist",
+      "definition": "A drug that activates a receptor."
+    },
+    {
+      "term": "Antagonist",
+      "definition": "A drug that blocks a receptor."
+    }
+  ]
+}

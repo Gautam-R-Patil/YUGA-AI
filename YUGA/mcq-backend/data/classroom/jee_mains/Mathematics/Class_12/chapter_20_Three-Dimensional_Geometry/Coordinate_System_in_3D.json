@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Three-Dimensional Geometry",
+    "chapter_number": 20,
+    "topic": "Coordinate System in 3D",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:01:49.019645",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the 3D coordinate system in mathematics. This is an important topic for JEE Main. Let's start with Cartesian coordinates. In 2D, we have the x-axis and y-axis. In 3D, we add the z-axis. Each point in space is shown as (x, y, z). These are its coordinates. Now, let's talk about the distance formula. It helps us find the distance between two points in 3D space. If we have two points, A(x1, y1, z1) and B(x2, y2, z2), the distance AB is given by √((x2-x1)^2 + (y2-y1)^2 + (z2-z1)^2). This formula is very useful in solving JEE Main problems. Next, we have the section formula. It helps us find a point that divides a line segment in a given ratio. If a point P divides the line segment AB in the ratio m:n, then P is ((mx2 + nx1)/(m+n), (my2 + ny1)/(m+n), (mz2 + nz1)/(m+n)). Remember this formula for JEE Main. Moving on, we have direction cosines and direction ratios. Direction cosines are cosines of angles that a line makes with the x, y, and z axes. If a line makes angles α, β, and γ with the axes, then the direction cosines are cosα, cosβ, and cosγ. Direction ratios are numbers proportional to direction cosines. For example, if a, b, c are direction ratios, then a/l = b/m = c/n, where l, m, n are direction cosines. Now, let's see the equation of a line in space. A line can be written in vector form as r = a + λb, where r is the position vector of any point on the line, a is a fixed point on the line, λ is a scalar, and b is the direction vector. In Cartesian form, it is (x-x1)/a = (y-y1)/b = (z-z1)/c. Be careful with signs in JEE Main questions. Next, we have skew lines. Skew lines are lines that do not intersect and are not parallel. In 3D, they can exist unlike in 2D. The shortest distance between skew lines can be found using the formula D = |(b1 × b2) · (a2 - a1)| / |b1 × b2|, where b1 and b2 are direction vectors of the lines, and a1 and a2 are points on the lines. Finally, let's discuss the equation of a plane. The general form is ax + by + cz = d, where a, b, c are the normal vector's direction ratios, and d is the distance from the origin. For JEE Main, remember this form and how to find the normal vector. In summary, we covered Cartesian coordinates, distance and section formulas, direction cosines and ratios, line equations, skew lines, and plane equations. Practice these concepts and formulas. They are key for JEE Main. Avoid common mistakes like sign errors and wrong formula use. Keep practicing, and you will do well.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Cartesian Coordinates",
+    "Distance Formula",
+    "Section Formula",
+    "Direction Cosines",
+    "Equation of a Plane"
+  ],
+  "formulas": [
+    {
+      "formula": "√((x2-x1)^2 + (y2-y1)^2 + (z2-z1)^2)",
+      "description": "Distance between two points in 3D space"
+    },
+    {
+      "formula": "((mx2 + nx1)/(m+n), (my2 + ny1)/(m+n), (mz2 + nz1)/(m+n))",
+      "description": "Point dividing a line segment in a given ratio"
+    },
+    {
+      "formula": "(x-x1)/a = (y-y1)/b = (z-z1)/c",
+      "description": "Equation of a line in space in Cartesian form"
+    },
+    {
+      "formula": "D = |(b1 × b2) · (a2 - a1)| / |b1 × b2|",
+      "description": "Shortest distance between two skew lines"
+    },
+    {
+      "formula": "ax + by + cz = d",
+      "description": "Equation of a plane in general form"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Cartesian Coordinates",
+      "definition": "Coordinates of a point in 3D space as (x, y, z)"
+    },
+    {
+      "term": "Skew Lines",
+      "definition": "Lines in 3D that do not intersect and are not parallel"
+    },
+    {
+      "term": "Direction Cosines",
+      "definition": "Cosines of angles a line makes with x, y, and z axes"
+    }
+  ]
+}

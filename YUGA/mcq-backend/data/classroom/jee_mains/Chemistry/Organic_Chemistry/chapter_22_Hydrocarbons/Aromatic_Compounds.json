@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Hydrocarbons",
+    "chapter_number": 22,
+    "topic": "Aromatic Compounds",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:25:39.446374",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about aromatic compounds in organic chemistry. These are special hydrocarbons with unique properties. Let's start with the structure of benzene. Benzene is a simple aromatic compound. It has a hexagonal ring made of six carbon atoms. Each carbon is bonded to one hydrogen atom. The bonds between carbon atoms alternate between single and double bonds. This is called resonance.\n\nResonance means the electrons in these bonds can move around. This makes benzene very stable. In exams, remember that benzene's stability is due to resonance.\n\nNext, we learn about aromaticity. Aromaticity is when a compound is very stable due to its ring structure. For a compound to be aromatic, it must follow Huckel's rule. Huckel's rule states that a compound is aromatic if it has 4n+2 π electrons, where n is a whole number. For benzene, n is 1, so it has 6 π electrons.\n\nNow, let's talk about electrophilic substitution reactions. These are reactions where an electrophile replaces a hydrogen atom in benzene. Common electrophilic substitutions are nitration, sulfonation, and halogenation.\n\n- Nitration adds a nitro group (NO₂) to benzene. We use concentrated nitric acid and sulfuric acid for this.\n- Sulfonation adds a sulfonyl group (SO₃H) using sulfuric acid.\n- Halogenation adds a halogen like chlorine or bromine using a halogen and a catalyst like FeCl₃ or FeBr₃.\n\nAnother important reaction is the Friedel-Crafts reaction. This reaction adds alkyl or acyl groups to benzene. We use a catalyst like AlCl₃. Remember, Friedel-Crafts reactions can fail if the benzene ring has strong electron-withdrawing groups.\n\nLet's compare aromatic and anti-aromatic compounds. Aromatic compounds are stable. Anti-aromatic compounds are unstable. They do not follow Huckel's rule. For example, cyclobutadiene is anti-aromatic because it has 4 π electrons.\n\nSubstituents can affect how benzene reacts. Electron-donating groups make benzene more reactive. Electron-withdrawing groups make it less reactive. For example, a methyl group is electron-donating. A nitro group is electron-withdrawing.\n\nCommon mistakes in exams include confusing aromatic and anti-aromatic compounds. Also, remember to count the π electrons correctly for Huckel's rule.\n\nKey takeaways: Benzene is stable due to resonance. Aromatic compounds follow Huckel's rule. Electrophilic substitution and Friedel-Crafts reactions are important for modifying benzene. Substituents can change benzene's reactivity.\n\nIn summary, aromatic compounds are a fascinating part of organic chemistry. Understanding their structure and reactions is key for JEE Main exams. Practice these concepts with examples to master them.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Benzene",
+    "Aromaticity",
+    "Huckel's Rule",
+    "Electrophilic Substitution",
+    "Friedel-Crafts"
+  ],
+  "formulas": [
+    {
+      "formula": "4n+2",
+      "description": "Huckel's rule for determining aromaticity; n is a whole number"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Aromatic Compound",
+      "definition": "A compound with a stable ring structure that follows Huckel's rule"
+    },
+    {
+      "term": "Electrophile",
+      "definition": "A species that accepts electrons in a chemical reaction"
+    },
+    {
+      "term": "Resonance",
+      "definition": "The movement of electrons within a molecule that increases stability"
+    }
+  ]
+}

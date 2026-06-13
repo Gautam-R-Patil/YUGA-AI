@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "s-Block Elements",
+    "chapter_number": 15,
+    "topic": "Alkaline Earth Metals",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:16:31.922333",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today we will learn about Alkaline Earth Metals. These are Group 2 elements in the periodic table. The main elements are Beryllium (Be), Magnesium (Mg), Calcium (Ca), Strontium (Sr), Barium (Ba), and Radium (Ra). They are called alkaline earth metals because their oxides are basic and found in the earth's crust. \n\nFirst, let's talk about their physical properties. Alkaline earth metals have higher density than alkali metals. This means they are heavier for their size. For example, Calcium is denser than Sodium. They also have higher melting points. This makes them useful in high-temperature applications.\n\nNext, let's discuss their chemical properties. Alkaline earth metals react with water to form hydroxides. For example, when Calcium reacts with water, it forms calcium hydroxide and hydrogen gas. The reaction is: \nCa + 2H2O → Ca(OH)2 + H2↑\n\nThey also react with acids to produce salt and hydrogen gas. For example, Magnesium reacts with hydrochloric acid to form magnesium chloride and hydrogen gas:\nMg + 2HCl → MgCl2 + H2↑\n\nA unique property of these metals is their flame test colors. When heated, they produce different colors. For example, Calcium gives a brick-red color, and Barium gives a green color. This is used in fireworks to create colorful displays.\n\nNow, let's look at their applications. Magnesium is used in making airplanes because it is light. Calcium compounds are used in cement and plaster. Barium is used in X-ray imaging. These metals play important roles in industries.\n\nAlkaline earth metals are also important for life. Calcium is essential for strong bones and teeth. Magnesium is important for muscle function. Without these metals, our body would not work well.\n\nLet's discuss the trends in solubility. The solubility of hydroxides increases as we move down the group. This means Barium hydroxide is more soluble than Magnesium hydroxide. But for sulfates, the opposite is true. Barium sulfate is less soluble than Magnesium sulfate.\n\nNow, let's compare alkaline earth metals with alkali metals. Alkaline earth metals are less reactive than alkali metals. They have two electrons in their outer shell, while alkali metals have one. This makes them more stable.\n\nA common JEE Main mistake is confusing the reactions of alkaline earth metals with alkali metals. Remember: alkaline earth metals react less violently.\n\nKey takeaways: Alkaline earth metals have higher density and melting points. They react with water and acids. They show unique flame colors. They are important in industry and biology.\n\nIn summary, remember the group 2 elements and their properties. Know their reactions and uses. This will help you in your JEE Main exams.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Alkaline Earth Metals",
+    "Density",
+    "Flame Test",
+    "Reactivity",
+    "Solubility"
+  ],
+  "formulas": [
+    {
+      "formula": "Ca + 2H2O → Ca(OH)2 + H2↑",
+      "description": "This formula shows the reaction of Calcium with water, producing calcium hydroxide and hydrogen gas."
+    },
+    {
+      "formula": "Mg + 2HCl → MgCl2 + H2↑",
+      "description": "This formula shows the reaction of Magnesium with hydrochloric acid, producing magnesium chloride and hydrogen gas."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alkaline Earth Metals",
+      "definition": "These are elements in Group 2 of the periodic table with two electrons in their outer shell."
+    },
+    {
+      "term": "Density",
+      "definition": "Density is the mass of an object divided by its volume."
+    },
+    {
+      "term": "Flame Test",
+      "definition": "A test where a metal is heated to produce a color that helps identify it."
+    }
+  ]
+}

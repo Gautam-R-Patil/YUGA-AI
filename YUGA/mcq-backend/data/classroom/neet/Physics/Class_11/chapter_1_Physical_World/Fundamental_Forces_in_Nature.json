@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Physical World",
+    "chapter_number": 1,
+    "topic": "Fundamental Forces in Nature",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:47:07.470414",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the fundamental forces in nature. These forces are important for NEET exams. Let's start with the Gravitational force. This force pulls objects toward each other. The Universal Law of Gravitation explains it. It says every object attracts every other object with a force. This force depends on their masses and the distance between them. The formula is F = G * (m1 * m2) / r^2. Here, F is the force, G is a constant, m1 and m2 are the masses, and r is the distance. For example, Earth pulls you down due to gravity. A common mistake is thinking only big objects have gravity. But even small objects have it. Next, we have the Electromagnetic force. This force acts between charged particles. Coulomb's Law explains it. The formula is F = k * (q1 * q2) / r^2. Here, F is the force, k is a constant, q1 and q2 are charges, and r is the distance. This force is used in electric motors and magnets. Remember, like charges repel and unlike charges attract. A common mistake is confusing it with gravity. They are different forces. Now, let's learn about the Strong nuclear force. It holds the nucleus of an atom together. It is very strong but works only at very short distances. It acts between protons and neutrons. Without it, the nucleus would fall apart. A common mistake is thinking it acts over long distances. It does not. The Weak nuclear force is next. It plays a role in beta decay. Beta decay changes a neutron into a proton or vice versa. This force is weaker than the strong force but important in nuclear reactions. A common mistake is thinking it is the same as the strong force. They are different. Now, let's compare these forces. The Gravitational force is the weakest but acts over long distances. The Electromagnetic force is stronger and acts over both long and short distances. The Strong nuclear force is the strongest but acts only at short distances. The Weak nuclear force is weaker than the strong force and acts at very short distances. To sum up, these forces are essential in nature. They help us understand how the universe works. Remember to use the formulas correctly in exams. Practice solving problems with them. Thank you for listening!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [
+    {
+      "url": "/images/fundamental_forces_in_nature.jpg",
+      "description": "Comprehensive diagram showing all four fundamental forces in nature: Gravitational Force (F = Gm1m2r^-2), Electromagnetic Force (Coulomb's Law), Strong Nuclear Force (short range), and Weak Nuclear Force (beta decay process). Includes relative strength and range comparison."
+    },
+    {
+      "url": "/images/fundamental_forces_range_strength_comparison.png",
+      "description": "Detailed comparison chart of fundamental forces showing interaction range (10^-18 m for Weak Nuclear, 10^-15 m for Strong Nuclear, Infinite for Electromagnetic & Gravitational) and relative strength visualization."
+    }
+  ],
+  "keywords": [
+    "Gravitational force",
+    "Electromagnetic force",
+    "Strong nuclear force",
+    "Weak nuclear force",
+    "Coulomb's Law"
+  ],
+  "formulas": [
+    {
+      "formula": "F = G * (m1 * m2) / r^2",
+      "description": "Formula for the Universal Law of Gravitation"
+    },
+    {
+      "formula": "F = k * (q1 * q2) / r^2",
+      "description": "Formula for Coulomb's Law"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Gravitational force",
+      "definition": "A force that pulls two objects toward each other"
+    },
+    {
+      "term": "Electromagnetic force",
+      "definition": "A force that acts between charged particles"
+    },
+    {
+      "term": "Strong nuclear force",
+      "definition": "A force that holds the nucleus of an atom together"
+    },
+    {
+      "term": "Weak nuclear force",
+      "definition": "A force that plays a role in beta decay"
+    },
+    {
+      "term": "Coulomb's Law",
+      "definition": "A law that describes the force between two charged particles"
+    }
+  ]
+}

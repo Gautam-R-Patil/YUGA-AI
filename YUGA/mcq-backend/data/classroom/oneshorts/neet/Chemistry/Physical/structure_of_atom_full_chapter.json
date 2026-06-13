@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Structure of Atom",
+    "chapter_number": "2",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:18:19.718691",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let's quickly revise the key concepts of Atomic Structure vital for NEET exam.\n\n1. Discovery of Subatomic Particles: Atoms are composed of electrons, protons, and neutrons. Electrons were discovered by J.J. Thomson, protons by Ernest Rutherford, and neutrons by James Chadwick. \n\n2. Thomson's Model of Atom: Thomson proposed the 'plum pudding model', suggesting that atoms are spheres of positive charge with electrons embedded.\n\n3. Rutherford's Nuclear Model: Rutherford's gold foil experiment led to the discovery of the nucleus. He proposed that atoms have a small, dense, positively charged nucleus surrounded by electrons.\n\n4. Bohr's Model: Neils Bohr introduced quantized orbits or energy levels in which electrons revolve around the nucleus without radiating energy. It's crucial to understand the concept of permitted energy levels.\n\n5. Quantum Mechanics and Electron Arrangement: Quantum numbers (n, l, m, s) describe the position and energy of electrons. The Principal quantum number 'n' denotes the size and energy level, the Azimuthal quantum number 'l' denotes subshells (s, p, d, f), the Magnetic quantum number 'm' describes the orientation, and the Spin quantum number 's' describes the spin of the electron.\n\n6. Pauli Exclusion Principle and Hund's Rule: No two electrons can have the same set of all four quantum numbers. Hund's rule states electrons will fill an unoccupied orbital before they pair up.\n\n7. Electronic Configuration: Describes electron arrangement in shells and subshells, using notations such as 1s\u00b2 2s\u00b2 2p\u2076.\n\nKey formulas and ideas to remember include:\n- The formula for maximum electrons in a shell: 2n\u00b2\n- De Broglie equation: \\( \\lambda = \\frac{h}{mv} \\)\n- Calculating energy levels: \\( E_n = -\\frac{13.6}{n^2} \\) eV\n\nNEET Questions typically focus on:\n- Electron configuration of elements\n- Calculating energy level changes\n- Applications of quantum numbers\n- Distinguishing theory models and principles\n\nQuick Revision Points:\n1. Remember the key characteristics and differences among Thomson, Rutherford, and Bohr models.\n2. Be comfortable with quantum numbers and what each represents.\n3. Master electronic configuration rules for fast recall during exams.\n4. Practicing using the De Broglie and energy level equations will be crucial.\n\nThis concise yet comprehensive understanding will help tackle nearly all NEET questions concerning Atomic Structure efficiently.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Subatomic particles",
+    "Thomson's model",
+    "Rutherford's model",
+    "Bohr's model",
+    "Quantum mechanics",
+    "Quantum numbers",
+    "Pauli Exclusion Principle",
+    "Hund's Rule",
+    "Electronic configuration",
+    "Shells and subshells",
+    "De Broglie equation"
+  ],
+  "formulas": [
+    "2n\u00b2",
+    "\\lambda = \\frac{h}{mv}",
+    "E_n = -\\frac{13.6}{n^2}"
+  ],
+  "definitions": [
+    {
+      "term": "Subatomic particles",
+      "definition": "Protons, neutrons, and electrons, constituting an atom."
+    },
+    {
+      "term": "Thomson's model",
+      "definition": "An early atomic model suggesting electrons are embedded in a sphere of positive charge."
+    },
+    {
+      "term": "Rutherford's model",
+      "definition": "Model proposing a dense, positively charged nucleus with electrons orbiting it."
+    },
+    {
+      "term": "Bohr's model",
+      "definition": "Model introducing quantized orbits for electrons around the nucleus."
+    },
+    {
+      "term": "Quantum mechanics",
+      "definition": "Branch of physics describing the behavior of electrons using quantum numbers and probability."
+    },
+    {
+      "term": "Quantum numbers",
+      "definition": "Set of four numbers that provide solutions to Schrodinger's equation and describe the state of an electron."
+    },
+    {
+      "term": "Pauli Exclusion Principle",
+      "definition": "A principle stating that no two electrons in an atom can have the same set of four quantum numbers."
+    },
+    {
+      "term": "Hund's Rule",
+      "definition": "States that electrons will fill degenerate orbitals singly before doubling up."
+    },
+    {
+      "term": "Electronic configuration",
+      "definition": "Distribution of electrons in an atom's shells and subshells."
+    },
+    {
+      "term": "Shells and subshells",
+      "definition": "Energy levels in an atom (shells: n, subshells: s, p, d, f) where electrons reside."
+    },
+    {
+      "term": "De Broglie equation",
+      "definition": "Formula that describes the wave nature of matter, linking wavelength with momentum."
+    }
+  ]
+}

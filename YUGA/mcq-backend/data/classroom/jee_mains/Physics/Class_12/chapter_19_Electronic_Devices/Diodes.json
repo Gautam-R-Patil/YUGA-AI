@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electronic Devices",
+    "chapter_number": 19,
+    "topic": "Diodes",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:02:43.097085",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about diodes. Diodes are important in electronics. They allow current to flow in one direction only. Let's start with the PN junction diode. A PN junction diode is made by joining P-type and N-type semiconductors. P-type has positive holes, and N-type has negative electrons. When they meet, they form a junction. This junction is called the PN junction.\n\nNow, let's talk about biasing the diode. Biasing means applying voltage. There are two types of biasing: forward bias and reverse bias. In forward bias, the P-side is connected to the positive terminal of the battery, and the N-side to the negative. This allows current to flow. In reverse bias, the P-side is connected to the negative terminal, and the N-side to the positive. This stops the current flow.\n\nLet's see the V-I characteristics of a diode. 'V' stands for voltage, and 'I' stands for current. In forward bias, as voltage increases, current also increases rapidly after a certain point. This point is called the 'knee'. In reverse bias, current is almost zero until breakdown occurs.\n\nNext, we have the Zener diode. It is a special diode used in reverse bias. It allows current to flow after a certain voltage, called the Zener voltage. This makes it useful for voltage regulation.\n\nLet's move on to LEDs and photodiodes. LED stands for Light Emitting Diode. It emits light when current flows through it. Photodiodes, on the other hand, detect light and convert it into electrical current.\n\nDiodes are also used as rectifiers. A rectifier converts AC (alternating current) to DC (direct current). This is important for devices that need a steady DC supply.\n\nNow, let's talk about breakdown mechanisms. There are two types: Zener breakdown and avalanche breakdown. Zener breakdown happens at a low voltage, while avalanche breakdown occurs at a higher voltage.\n\nDiodes have many applications. They are used in power supplies, radios, and even in solar panels. Remember, diodes are crucial for controlling current flow.\n\nLet's summarize the key points. Diodes allow current in one direction. They are used in forward and reverse bias. Zener diodes help in voltage regulation. LEDs emit light, and photodiodes detect light. Diodes are used as rectifiers to convert AC to DC.\n\nIn JEE Main, focus on understanding the V-I characteristics and applications of diodes. Practice problems on forward and reverse bias. Be careful with calculations, especially in reverse bias conditions.\n\nThat's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Diode",
+    "PN Junction",
+    "Forward Bias",
+    "Reverse Bias",
+    "Zener Diode",
+    "Rectifier"
+  ],
+  "formulas": [
+    {
+      "formula": "I = I0 (e^(qV/kT) - 1)",
+      "description": "This is the diode current equation used to calculate current in forward and reverse bias"
+    },
+    {
+      "formula": "V = Vz",
+      "description": "This is the Zener voltage used in voltage regulation applications"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "PN Junction",
+      "definition": "A junction formed by joining P-type and N-type semiconductors"
+    },
+    {
+      "term": "Forward Bias",
+      "definition": "Condition where the P-side is connected to the positive terminal, allowing current flow"
+    },
+    {
+      "term": "Reverse Bias",
+      "definition": "Condition where the P-side is connected to the negative terminal, stopping current flow"
+    },
+    {
+      "term": "Zener Diode",
+      "definition": "A special diode that allows current to flow in reverse bias after a certain voltage"
+    }
+  ]
+}

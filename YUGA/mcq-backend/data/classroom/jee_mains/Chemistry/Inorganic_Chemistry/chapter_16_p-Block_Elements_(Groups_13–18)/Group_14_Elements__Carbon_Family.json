@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "p-Block Elements (Groups 13–18)",
+    "chapter_number": 16,
+    "topic": "Group 14 Elements: Carbon Family",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:17:19.310819",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Group 14 elements, also known as the Carbon Family. These elements are carbon, silicon, germanium, tin, and lead. We will focus on carbon and silicon mainly, since they are very important for JEE Main. \n\nLet's start with carbon. Carbon is unique because it can form many different structures. These different forms are called allotropes. The three main allotropes of carbon are diamond, graphite, and fullerenes. \n\nDiamond is very hard and used in cutting tools. It has a strong 3D structure where each carbon atom bonds with four other carbon atoms. Graphite, on the other hand, is soft and slippery. It is used in pencils. In graphite, carbon atoms form layers that can slide over each other. Fullerenes are another form of carbon. They look like soccer balls and are used in nanotechnology. \n\nNow, let's talk about silicon. Silicon is important in making silicates and silicones. Silicates are found in rocks and sand. They have a complex structure made of silicon and oxygen. Silicones are used in making waterproof materials. They are flexible and can be used in many products. \n\nNext, we have tin and lead. Tin is used for coating other metals to prevent rusting. Lead, although toxic, is used in batteries. Both tin and lead show different oxidation states. Tin can have +2 and +4 states, while lead is usually in +2 state. \n\nA special property of carbon is catenation. Catenation is the ability to form long chains with itself. This property makes carbon very versatile in forming different compounds. \n\nLet's discuss the trends in the metallic character. As we move down the group from carbon to lead, the metallic character increases. Carbon is non-metallic, while lead is metallic. \n\nThese elements also react with oxygen and halogens. For example, carbon forms carbon dioxide (CO2) with oxygen. Silicon forms silicon dioxide (SiO2), which is found in sand. With halogens, these elements form halides like carbon tetrachloride (CCl4). \n\nIn industry, carbon is used in fuels and making steel. Silicon is used in electronics, especially in making computer chips. \n\nLastly, carbon shows anomalous behavior. This means it behaves differently from other elements in its group. For example, carbon forms strong double and triple bonds, which other elements in the group do not. \n\nA common mistake in JEE Main is confusing the properties of diamond and graphite. Remember, diamond is hard and graphite is soft. Also, pay attention to oxidation states of tin and lead in reactions.\n\nKey takeaways: Carbon forms different allotropes. Silicon is key in electronics. Tin and lead have important industrial uses. Catenation is special to carbon. Watch out for the metallic trend and reactivity patterns. \n\nIn summary, understanding the carbon family is crucial for JEE Main. Focus on the unique properties and uses of these elements. Practice questions on their reactions and uses to score well.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Carbon",
+    "Silicon",
+    "Tin",
+    "Lead",
+    "Catenation"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Allotropes",
+      "definition": "Different forms of the same element with different structures."
+    },
+    {
+      "term": "Catenation",
+      "definition": "The ability of an element to form long chains with itself."
+    },
+    {
+      "term": "Oxidation State",
+      "definition": "The charge of an atom in a compound, showing how many electrons it has gained or lost."
+    }
+  ]
+}

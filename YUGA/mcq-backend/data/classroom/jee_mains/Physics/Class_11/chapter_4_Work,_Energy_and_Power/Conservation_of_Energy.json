@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Work, Energy and Power",
+    "chapter_number": 4,
+    "topic": "Conservation of Energy",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:48:30.517249",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Conservation of Energy. This is an important topic in Physics and often appears in JEE Main. Let's start with the Law of Conservation of Energy. It states that energy cannot be created or destroyed. It can only change from one form to another. For example, when you drop a ball, potential energy converts to kinetic energy. \n\nNext, let's talk about Mechanical Energy Conservation. Mechanical energy is the sum of kinetic and potential energy. In a closed system, without external forces, mechanical energy stays constant. For example, in a pendulum, energy changes between kinetic and potential, but the total stays the same.\n\nNow, let's see Energy Transformations. Energy can change forms, like from potential to kinetic or vice versa. When a spring is compressed, it stores potential energy. When released, it converts to kinetic energy.\n\nLet's discuss Potential Energy Curves. These curves show how potential energy changes with position. For example, a roller coaster has high potential energy at the top and high kinetic energy at the bottom.\n\nApplications in Pendulums and Springs are common in JEE Main. In pendulums, energy shifts between kinetic and potential. In springs, Hooke's Law is used: F = -kx, where F is force, k is spring constant, and x is displacement.\n\nEnergy Conservation in Closed Systems means no energy enters or leaves. In such systems, total energy is constant. This is crucial for solving JEE Main problems.\n\nLet's see some Examples of Energy Conservation. Imagine a ball thrown up. It has maximum kinetic energy when thrown and maximum potential energy at the top. When it falls back, energy converts back to kinetic.\n\nNow, let's talk about Limitations of Energy Conservation. In real life, some energy is lost as heat or sound due to friction. But in ideal conditions, we ignore these losses in JEE Main problems.\n\nCommon mistakes in JEE Main include ignoring friction or air resistance when not mentioned. Always read questions carefully. \n\nKey takeaways: Remember, energy cannot be created or destroyed, only transformed. Use the formulas correctly and remember the conditions for closed systems.\n\nIn conclusion, understanding energy conservation helps solve many physics problems. Practice problems to strengthen your understanding.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Conservation of Energy",
+    "Mechanical Energy",
+    "Potential Energy",
+    "Kinetic Energy",
+    "Closed System"
+  ],
+  "formulas": [
+    {
+      "formula": "E_total = KE + PE",
+      "description": "Total mechanical energy is the sum of kinetic and potential energy. Used in closed systems without external forces."
+    },
+    {
+      "formula": "KE = 1/2 mv^2",
+      "description": "Kinetic energy formula, where m is mass and v is velocity. Used to find energy due to motion."
+    },
+    {
+      "formula": "PE = mgh",
+      "description": "Potential energy formula, where m is mass, g is gravity, and h is height. Used to find energy due to position."
+    },
+    {
+      "formula": "F = -kx",
+      "description": "Hooke's Law for springs, where F is force, k is spring constant, and x is displacement. Used for energy in springs."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Conservation of Energy",
+      "definition": "Energy cannot be created or destroyed; it only changes form."
+    },
+    {
+      "term": "Mechanical Energy",
+      "definition": "The total of kinetic and potential energy in a system."
+    },
+    {
+      "term": "Closed System",
+      "definition": "A system where no energy enters or leaves, keeping total energy constant."
+    }
+  ]
+}

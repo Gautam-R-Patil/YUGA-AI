@@ -1,0 +1,333 @@
+[
+    {
+        "id": 50,
+        "question_number": "141",
+        "text": "The incorrect statement among the following regarding oxoacids of phosphorus is -",
+        "subject": "Chemistry",
+        "sub_topic": "Inorganic Chemistry - Phosphorus Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Orthophosphoric acid is used in the manufacture of triple superphosphate",
+            "Hypophosphorous acid is a diprotic acid",
+            "All oxoacids contain tetrahedral four coordinated phosphorus",
+            "All oxoacids contain at least one P=O unit and one P-OH group"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5621,
+        "correct_answer": "Hypophosphorous acid is a diprotic acid",
+        "basic_answer": "Solution: The structure of H3PO2 involves P bonded to two H atoms, one O atom (double bond), and one OH group. Only the hydrogen in the -OH group is ionizable. Therefore, it is Monoprotic (Monobasic), not Diprotic.",
+        "explanation": "Core Concept\n\nOxoacids are acids that contain oxygen, and their acidic strength and properties vary depending on the number of ionizable protons they have. \n\nSolution \n\nHypophosphorous acid (H3PO2) only contains one ionizable hydrogen, making it a monoprotic acid. The other options describe correct properties of phosphorus oxoacids. \n\nWhy This Answer\n\nThe statement about hypophosphorous acid being diprotic is incorrect as it only has one acidic hydrogen. Therefore, it does not classify as diprotic, unlike other acids that can donate two protons. Therefore, the answer is B.",
+        "keywords": {
+            "H": "Hydrogen",
+            "P": "Phosphorus",
+            "O": "Oxygen",
+            "H3PO2": "Hypophosphorous acid"
+        }
+    },
+    {
+        "id": 51,
+        "question_number": "142",
+        "text": "The protecting power of lyophilic colloidal sol is expressed in terms of",
+        "subject": "Chemistry",
+        "sub_topic": "Colloids",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Coagulation value",
+            "Gold number",
+            "Critical micelle concentration",
+            "Oxidation number"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5622,
+        "correct_answer": "Gold number",
+        "basic_answer": "Solution: The protective power is inversely proportional to the 'Gold Number'. The Gold Number is the weight (in mg) of the protective colloid needed to prevent coagulation of 10 mL of standard gold sol by 1 mL of 10% NaCl.",
+        "explanation": "Core Concept\n\nThe protective power of lyophilic colloidal sols is quantified by the gold number, a concept relating to the stability of colloids in the presence of electrolytes.\n\nSolution \n\nThe gold number indicates the effectiveness of a stabilizing agent in protecting a colloidal sol from coagulation. It represents the minimum amount of electrolyte needed to cause coagulation of a given mass of sol.\n\nWhy This Answer\n\nThe gold number specifically focuses on the protective power of lyophilic colloids by showing how much electrolyte is needed to destabilize them. This makes it the most relevant option when discussing lyophilic colloidal sol stability. Therefore, option B is the answer.",
+        "keywords": {}
+    },
+    {
+        "id": 52,
+        "question_number": "145",
+        "text": "Acid that does not exhibit optical isomerism-",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Isomerism",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Maleic acid",
+            "amino acid",
+            "Lactic acid",
+            "Tartaric acid"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 5623,
+        "correct_answer": "Maleic acid",
+        "basic_answer": "Given: [A list of organic acids: Maleic acid, Amino acids, Lactic acid, and Tartaric acid.]\n\nSolution: [To exhibit optical isomerism, a molecule must be chiral, typically possessing an asymmetric carbon atom (chiral center) and lacking a plane or center of symmetry. Maleic acid is a symmetrical unsaturated dicarboxylic acid (cis-butenedioic acid) that possesses a plane of symmetry. Since it is achiral, it cannot rotate plane-polarized light and therefore does not show optical isomerism.]",
+        "explanation": "### CORE CONCEPT\nOptical isomerism is a form of stereoisomerism where two compounds have the same molecular formula and connectivity but differ in their ability to rotate plane-polarized light. The fundamental requirement for a molecule to exhibit optical isomerism is chirality. A molecule is considered chiral if it is non-superimposable on its mirror image. This usually occurs when a molecule contains at least one chiral center (a carbon atom bonded to four different groups) and lacks internal elements of symmetry, such as a plane of symmetry or a center of inversion. If a molecule has a plane of symmetry, it is achiral and optically inactive.\n\nDETAILEDANALYSIS OF OPTIONS\nTo identify the acid that does not show optical isomerism, we must examine the structures of the provided choices:\n\n1.  Lactic Acid (2-hydroxypropanoic acid): \n    \n    The central carbon in lactic acid is bonded to four distinct groups: $-H$, $-OH$, $-CH_3$, and $-COOH$. Because it has a chiral center and no internal symmetry, it exists as two enantiomers ($d$ and $l$ forms) and is optically active.\n\n2.  Tartaric Acid (2,3-dihydroxybutanedioic acid): \n    \n    Tartaric acid has two chiral centers. While it has a 'meso' form (which is optically inactive due to internal symmetry), the compound as a class is well-known for its $d$ and $l$ optical isomers. Therefore, it *can* exhibit optical isomerism.\n\n3.  Amino Acids: \n    \n    Except for Glycine, all naturally occurring $\\alpha$-amino acids have a chiral $\\alpha$-carbon bonded to an amino group, a carboxyl group, a hydrogen atom, and a variable R-group. Thus, most amino acids exhibit optical isomerism.\n\n4.  Maleic Acid (cis-butenedioic acid): \n    \n    Maleic acid is the *cis* isomer of butenedioic acid. It features a carbon-carbon double bond where each carbon is bonded to a hydrogen and a carboxyl group. Crucially, the molecule is flat and possess a plane of symmetry passing through the double bond. It contains no chiral centers. Because it is a symmetrical, achiral molecule, it cannot rotate plane-polarized light.\n\n### WHY THIS ANSWER IS CORRECT\nMaleic acid lacks any asymmetric carbon atoms and is perfectly symmetrical. According to the principles of stereochemistry, a symmetrical molecule is achiral and therefore optically inactive. While it does show *geometrical isomerism* (being the cis-partner to Fumaric acid), it is physically incapable of showing optical isomerism. This matches Option A.\n\n### COMMON MISTAKES\n* Confusing Isomerism Types: A common error is assuming that because Maleic acid is an 'isomer' (geometrical), it must also be an 'optical' isomer. Remember that these are distinct categories of stereoisomerism.\n* Overlooking Symmetry: Students often look only for chiral centers. However, even if a molecule has chiral centers (like meso-tartaric acid), it becomes optically inactive if a plane of symmetry is present. In the case of Maleic acid, the lack of chiral centers makes it a straightforward achiral molecule.\n* Glycine Exception: In the 'amino acid' category, Glycine is achiral. However, as a general group, amino acids are characterized by their optical activity, whereas Maleic acid is universally achiral.",
+        "keywords": {}
+    },
+    {
+        "id": 53,
+        "question_number": "149",
+        "text": "Which of the following statement is false?",
+        "subject": "Chemistry",
+        "sub_topic": "Polymers",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Artificial silk is derived from cellulose",
+            "Nylon-66 is an example of elastomer",
+            "The repeat unit in natural rubber is isoprene",
+            "Both starch and cellulose are polymers of glucose"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 5624,
+        "correct_answer": "Nylon-66 is an example of elastomer",
+        "basic_answer": "Given: [Statements regarding the classification and composition of various polymers.]\n\nSolution: [Polymers are classified based on molecular forces into elastomers, fibers, thermoplastics, and thermosets. Nylon-66 is characterized by strong intermolecular hydrogen bonding, making it a 'fiber' with high tensile strength and crystalline nature. Elastomers, such as natural rubber, have weak intermolecular forces allowing for elasticity. Since Nylon-66 is a fiber and not an elastomer, that statement is false.]",
+        "explanation": "### CORE CONCEPT\nPolymers are classified into four main categories based on the magnitude of intermolecular forces (van der Waals forces, hydrogen bonding, etc.) that hold the polymer chains together. These categories are Elastomers, Fibers, Thermoplastics, and Thermosetting polymers. \n\n* Elastomers: These possess the weakest intermolecular forces. They consist of randomly coiled chains that are slightly cross-linked, allowing them to stretch under stress and return to their original shape (e.g., Natural rubber, Neoprene).\n* Fibers: These possess the strongest intermolecular forces, typically hydrogen bonding or strong dipole-dipole interactions. They are characterized by high tensile strength and high modulus, making them suitable for making threads (e.g., Nylon-66, Terylene).\n\n\n\nDETAILEDANALYSIS OF STATEMENTS\nTo identify the false statement, we must evaluate each option against chemical facts:\n\n1.  Artificial silk is derived from cellulose: This is True. Rayon, also known as artificial silk, is a semi-synthetic polymer produced by the chemical treatment of natural cellulose (wood pulp).\n2.  The repeat unit in natural rubber is isoprene: This is True. Natural rubber is a linear polymer of 2-methyl-1,3-butadiene, commonly known as isoprene. Specifically, natural rubber is *cis*-1,4-polyisoprene.\n3.  Both starch and cellulose are polymers of glucose: This is True. Both are natural polysaccharides. Starch is a polymer of $\\alpha$-D-glucose, while cellulose is a polymer of $\\beta$-D-glucose.\n4.  Nylon-66 is an example of elastomer: This is False. Nylon-66 is a fiber. It is a polyamide formed by the condensation polymerization of hexamethylenediamine and adipic acid. The amide groups ($-CO-NH-$) in adjacent chains form strong intermolecular hydrogen bonds, which lead to close packing of chains and provide the material with high tensile strength and a crystalline structure. It does not possess the elasticity required to be classified as an elastomer.\n\n### WHY THIS ANSWER IS CORRECT\nThe statement identifying Nylon-66 as an elastomer contradicts the fundamental classification of polymers. Because Nylon-66 is a high-strength fiber designed for structural resilience and thread-making rather than stretching, the second statement is chemically inaccurate. This matches Option B.\n\n### COMMON MISTAKES\n* Confusing Physical Properties: Many students assume all 'rubbery' or 'plastic' items are the same. It is vital to distinguish between a material that stretches (elastomer) and a material that is drawn into long, thin, strong threads (fiber).\n* Misidentifying Monomers: While starch and cellulose are both glucose polymers, they have different linkages ($\\alpha$ vs $\\beta$). However, they are still fundamentally 'polymers of glucose,' so that statement remains true.\n* Hydrogen Bonding Awareness: Forgetting that the presence of amide or ester groups usually points toward a 'Fiber' classification due to the resulting strong intermolecular attractions.",
+        "keywords": {}
+    },
+    {
+        "id": 54,
+        "question_number": "60",
+        "text": "The most common substrate used in distilleries for the production of ethanol is",
+        "subject": "Chemistry",
+        "sub_topic": "Industrial Chemistry - Ethanol Production",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 6,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "soya meal",
+            "ground gram",
+            "molasses",
+            "com meal"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 5703,
+        "correct_answer": "molasses",
+        "basic_answer": "Given: [Potential substrates for industrial ethanol production: soya meal, ground gram, molasses, corn meal.]\n\nSolution: [Industrial ethanol is primarily produced through the fermentation of sugars. Molasses, a thick dark syrup byproduct of the sugar industry, contains approximately 50% fermentable sugars (sucrose, glucose, and fructose). Due to its high sugar content and low cost as an industrial waste product, it is the most widely used substrate in distilleries for large-scale ethanol synthesis.]",
+        "explanation": "### CORE CONCEPT\nThe industrial production of ethanol (C₂H₅OH) is predominantly carried out via the fermentation of carbohydrates. This biochemical process involves the breakdown of complex sugars into simpler ones, which are then converted into ethanol and carbon dioxide by the action of enzymes (like invertase and zymase) present in yeast (Saccharomyces cerevisiae). For a substrate to be industrially viable, it must meet three criteria: it must be rich in fermentable sugars, it must be available in massive quantities, and it must be economically inexpensive.\n\nDETAILEDANALYSIS OF SUBSTRATES\nDistilleries evaluate substrates based on their 'fermentable extract' potential:\n\n1.  Soya Meal & Ground Gram: These are primarily protein-rich substrates. While they contain some carbohydrates, they are not optimized for sugar-to-alcohol conversion and are more valuable as animal feed or human nutrition.\n2.  Corn Meal (Maize): Corn is a major source of starch. While it is widely used for ethanol production (especially 'bio-ethanol' for fuel in countries like the USA), it requires an extra industrial step called saccharification (using enzymes like diastase) to break the starch down into fermentable sugars. This adds complexity and cost to the process.\n3.  Molasses: Molasses is the 'mother liquor' left over after the crystallization of sucrose from concentrated sugarcane or sugar beet juice. \n    \n    * Composition: It typically contains 45–55% fermentable sugars, including sucrose, glucose, and fructose.\n    * Industrial Advantage: As it is a byproduct (waste) of the sugar industry, it is extremely cheap. Because the sugars are already in a relatively simple form, yeast can act on them directly (after dilution) without expensive pre-treatments. \n\n### WHY THIS ANSWER IS CORRECT\nIn the context of standard industrial chemistry and global distillery practices, molasses is the definitive answer. Its status as an industrial byproduct makes it the most cost-effective sugar source available. The fermentation of molasses is the backbone of the spirit and industrial alcohol industries in many parts of the world, including India and Brazil. This matches Option C.\n\n### COMMON MISTAKES\n* Confusing 'Bio-fuel' with 'Distillery' Substrates: Students often hear about corn-based ethanol in the news (bio-ethanol) and choose 'corn meal.' However, in traditional distillery chemistry exams, 'molasses' remains the primary answer due to its historical and economic dominance in sugar-producing regions.\n* Ignoring Pre-treatment Requirements: Forgetting that starch-based substrates (like corn or potato) require an initial step to convert starch to sugar, whereas molasses contains 'ready-to-use' sugars.\n* Misunderstanding Molasses: Some assume molasses is just sugar water; it is a complex mixture containing vitamins and nitrogenous compounds that actually help the yeast grow during the fermentation process.",
+        "keywords": {}
+    },
+    {
+        "id": 55,
+        "question_number": "101",
+        "text": "Standard electrode potential of three metals X, Y and Z are -1.2 V, +0.5 V and -3.0 V respectively. The reducing power of these metals will be",
+        "subject": "Chemistry",
+        "sub_topic": "Electrochemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Y > X > Z",
+            "Z > X > Y",
+            "X > Y > Z",
+            "Y > Z > X"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5739,
+        "correct_answer": "Z > X > Y",
+        "basic_answer": "Given: [Standard Electrode Potentials ($E^\\circ$): $X = -1.2$ V, $Y = +0.5$ V, $Z = -3.0$ V.]\n\nSolution: [Reducing power is the ability of a substance to reduce others by losing its own electrons (oxidation). In chemistry, a lower (more negative) standard reduction potential indicates a stronger tendency to undergo oxidation. Since $Z$ has the most negative value (-3.0 V), it is the strongest reducing agent, followed by $X$ (-1.2 V), and finally $Y$ (+0.5 V). Therefore, the order of reducing power is $Z > X > Y$.]",
+        "explanation": "### CORE CONCEPT\nIn electrochemistry, the Standard Reduction Potential ($E^\\circ$) measures the tendency of a chemical species to be reduced (gain electrons). By convention, these values are always listed as reduction potentials. A Reducing Agent is a species that loses electrons to another substance, thereby reducing that substance and being oxidized itself. \n\n\n\nThe relationship between reduction potential and reducing power is inverse:\n High/Positive $E^\\circ$: Strong tendency to be reduced (Strong Oxidizing Agent).\n* Low/Negative $E^\\circ$: Strong tendency to be oxidized (Strong Reducing Agent).\n\nDETAILEDANALYSIS\nTo determine the reducing power, we must compare the numerical values of the standard electrode potentials provided:\n\n1.  Metal Z ($E^\\circ = -3.0$ V): This is the most negative value in the set. A highly negative potential indicates that the metal is very unstable in its reduced form and has an extreme tendency to lose electrons to achieve a more stable state. Thus, Z is the strongest reducing agent.\n2.  Metal X ($E^\\circ = -1.2$ V): This value is less negative than Z but still negative compared to the hydrogen electrode ($0.0$ V). It is a moderately strong reducing agent, but weaker than Z.\n3.  Metal Y ($E^\\circ = +0.5$ V): This is the only positive value in the set. A positive reduction potential indicates that this metal is more likely to gain electrons than to lose them. Consequently, Y is the weakest reducing agent among the three.\n\n### WHY THIS ANSWER IS CORRECT\nBy arranging the metals in order of decreasing 'negativity' (or increasing reduction potential), we arrive at the sequence of reducing power: \nZ (−3.0 V) > X (−1.2 V) > Y (+0.5 V).\nThis matches Option B. This principle explains why alkali metals like Lithium (which has a very negative $E^\\circ$ of approx $-3.04$ V) are the strongest reducing agents in the periodic table.\n\n### COMMON MISTAKES\n* Confusing Magnitude with Sign: Students often think $+0.5$ V is 'greater' and therefore indicates 'more power.' In electrochemistry, the *sign* is critical. More positive means better at *oxidizing*, not reducing.\n* Swapping Oxidation/Reduction Potentials: If the values were given as *oxidation* potentials, the trend would be reversed. Always ensure you are working with standard *reduction* potentials as per IUPAC convention.\n* Mathematical Errors with Negatives: Comparing $-1.2$ and $-3.0$ can be tricky. Remember that $-3.0$ is a 'lower' potential than $-1.2$, even though $3.0$ is a larger number.",
+        "keywords": {
+            "E": "electrode potential",
+            "V": "Volts"
+        }
+    },
+    {
+        "id": 56,
+        "question_number": "102",
+        "text": "Considering the state of hybridization of carbon atoms, find out the molecules among the following which is linear. The major products A. and C. are respectively",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Hydrocarbons",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "CH3−C≡C−CH3",
+            "CH2=CH−CH2−C≡CH",
+            "CH3−CH2−CH2−CH3",
+            "CH3−CH=CH−CH3"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5740,
+        "correct_answer": "CH3−C≡C−CH3",
+        "basic_answer": "Given: [Four hydrocarbons with varying degrees of saturation.] \n\nSolution: [To determine linearity, we examine the hybridization of the carbon atoms. In But-2-yne ($CH_3-C \\equiv C-CH_3$), the central two carbons are $sp$ hybridized. The $sp$ hybridization involves a bond angle of $180^\\circ$. While the methyl groups themselves are tetrahedral, the $C-C \\equiv C-C$ backbone of the molecule is perfectly straight, making it the only linear structure among the options.]",
+        "explanation": "### CORE CONCEPT\nThe geometry of a molecule is fundamentally dictated by the hybridization of its central atoms, as described by the Valence Shell Electron Pair Repulsion (VSEPR) theory. For hydrocarbons, the spatial arrangement depends on the type of carbon-carbon bonds:\n* $sp^3$ Hybridization: Occurs in alkanes (single bonds). The geometry is tetrahedral with bond angles of approximately $109.5^\\circ$.\n* $sp^2$ Hybridization: Occurs in alkenes (double bonds). The geometry is trigonal planar with bond angles of approximately $120^\\circ$.\n* $sp$ Hybridization: Occurs in alkynes (triple bonds). The geometry is linear with a bond angle of $180^\\circ$.\n\n\n\nDETAILEDANALYSIS OF OPTIONS\nWe evaluate the linearity of each molecule by identifying the hybridization of its carbon atoms:\n\n1.  $CH_3-C \\equiv C-CH_3$ (But-2-yne): \n    The two central carbons are part of a triple bond and are $sp$ hybridized. This forces the $C-C \\equiv C$ and $\\equiv C-C$ bond angles to be $180^\\circ$. Consequently, the four-carbon skeleton ($C-C-C-C$) lies in a straight line. \n    \n\n2.  $CH_2=CH-CH_2-C \\equiv CH$ (Pent-1-en-4-yne): \n    This molecule contains $sp^2$ (at the double bond), $sp^3$ (at the $CH_2$ group), and $sp$ (at the triple bond) hybridized carbons. The presence of the $sp^3$ 'methylene' bridge and the $sp^2$ carbons introduces 'kinks' or bends in the chain ($109.5^\\circ$ and $120^\\circ$ angles), making the overall molecule non-linear.\n\n3.  $CH_3-CH_2-CH_2-CH_3$ (n-Butane): \n    All carbon atoms are $sp^3$ hybridized. The bond angles are all roughly $109.5^\\circ$, resulting in a 'zigzag' or staggered chain conformation rather than a straight line.\n\n4.  $CH_3-CH=CH-CH_3$ (But-2-ene): \n    The central carbons are $sp^2$ hybridized. The bond angles around the double bond are $120^\\circ$, giving the molecule a planar but 'bent' (cis or trans) geometry.\n\n### WHY THIS ANSWER IS CORRECT\nBut-2-yne ($CH_3-C \\equiv C-CH_3$) is the only molecule where the primary chain axis is defined by $sp$ hybridized carbons. The $180^\\circ$ bond angle ensures that the carbon atoms are positioned in a single straight line. While the hydrogens on the terminal methyl groups point away in tetrahedral directions, the carbon 'backbone'—which determines the molecular classification of linearity—is straight. This corresponds to Option A.\n\n### COMMON MISTAKES\n* Confusing All-Carbon Linearity with Total Linearity: Students sometimes get confused by the $CH_3$ groups. In organic chemistry, 'linear' usually refers to the carbon skeleton. In But-2-yne, the $C_1-C_2-C_3-C_4$ path is $180^\\circ$.\n* Assuming all Alkynes are Linear: While the $C-C \\equiv C-H$ part of a terminal alkyne is linear, if there are $sp^3$ or $sp^2$ carbons elsewhere in the chain (as in option B), the molecule as a whole is not linear.\n* VSEPR Misapplication: Forgetting that double bonds ($sp^2$) create $120^\\circ$ angles, which are distinctly non-linear compared to the $180^\\circ$ of triple bonds.",
+        "keywords": {
+            "sp": "sp hybridization",
+            "C": "Carbon",
+            "≡": "Triple bond",
+            "CH3": "Methyl group",
+            "CH2": "Methylene group",
+            "C=C": "Double bond",
+            "C−C": "Single bond"
+        }
+    },
+    {
+        "id": 57,
+        "question_number": "103",
+        "text": "Clemmensen reduction of a ketone is carried out in the presence of which of the following?",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Reactions",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "with Zn Hg HCl",
+            "LiAlH4",
+            "and as catalyst H² Pt",
+            "with Glycol"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5741,
+        "correct_answer": "with Zn Hg HCl",
+        "basic_answer": "Given: [Target reaction: Clemmensen reduction of a ketone.] \n\nSolution: [The Clemmensen reduction is a chemical reaction used to reduce aldehydes or ketones to alkanes. The specific reagents required for this transformation are Zinc Amalgam ($Zn(Hg)$) and concentrated Hydrochloric Acid ($HCl$). This reagent set effectively converts the carbonyl group ($>C=O$) into a methylene group ($>CH_2$).]",
+        "explanation": "### CORE CONCEPT\nThe Clemmensen Reduction is a classic organic reaction named after the Danish chemist Erik Christian Clemmensen. It involves the deoxygenation of aldehydes or ketones to yield the corresponding alkanes. Unlike milder reductions that stop at the alcohol stage, the Clemmensen reduction completely removes the oxygen atom and replaces it with two hydrogen atoms. This reaction is particularly useful for reducing aryl-alkyl ketones formed via Friedel-Crafts acylation.\n\n\n\nDETAILEDANALYSIS OF REAGENTS\nThe choice of reagents is specific to the electronic and chemical requirements of the carbonyl group reduction:\n\n1.  Zinc Amalgam ($Zn-Hg$): Zinc acts as the primary reducing agent (electron donor). Amalgamating it with Mercury ($Hg$) serves two purposes: it creates a uniform surface for the reaction and increases the overvoltage of hydrogen, preventing the $HCl$ from simply reacting with the zinc to produce hydrogen gas too quickly.\n2.  Concentrated Hydrochloric Acid ($HCl$): The acid provides the necessary protons ($H^+$) for the reduction process. Because the reaction is carried out under strongly acidic conditions, it is not suitable for molecules containing acid-sensitive groups (like acetals or certain ethers).\n\n### EVALUATING THE OPTIONS\n* $Zn-Hg$ / $HCl$ (Option A): These are the standard reagents for Clemmensen reduction. This is the correct choice.\n* $LiAlH_4$ (Lithium Aluminum Hydride): This is a powerful hydride donor, but it typically reduces ketones to alcohols, not alkanes.\n* $H_2$ / $Pt$ (Catalytic Hydrogenation): While this can reduce carbonyls, it generally produces alcohols. Complete reduction to alkanes using hydrogen usually requires more vigorous conditions or specific catalysts like Raney Nickel after conversion to a thioacetal.\n* Glycol with $KOH$: This refers to the Wolff-Kishner Reduction reagents (specifically hydrazine in ethylene glycol with $KOH$). While it also reduces ketones to alkanes, it does so under strongly basic conditions, making it the 'opposite' alternative to Clemmensen.\n\n\n\n### WHY THIS ANSWER IS CORRECT\nThe combination of Zinc Amalgam and Hydrochloric Acid is the unique signature of the Clemmensen reduction. It is the most reliable method for converting a carbonyl group to a methylene group ($>C=O \\rightarrow >CH_2$) in the presence of base-sensitive functional groups. This matches Option A.\n\n### COMMON MISTAKES\n* Confusing with Wolff-Kishner: Students often swap the conditions. Remember: Clemmensen is Acidic (both start with letters near the beginning of the alphabet), and Wolff-Kishner is Basic.\n* Ignoring Acid Sensitivity: Using Clemmensen reduction on a molecule that has an acid-labile group (like an ester or an alcohol that might undergo dehydration) is a common synthetic error in advanced organic chemistry.\n* Reagent Components: Sometimes students forget the Mercury ($Hg$) and just write $Zn/HCl$. While $Zn/HCl$ can perform some reductions, the amalgamation is critical for the specific efficiency of the Clemmensen pathway.",
+        "keywords": {
+            "Zn": "Zinc",
+            "HCl": "Hydrochloric acid"
+        }
+    },
+    {
+        "id": 58,
+        "question_number": "104",
+        "text": "A gaseous mixture was prepared by taking equal moles of CO and N². If the total pressure of the mixture was found 1 atmosphere, the partial pressure of the nitrogen (N²) in the mixture is",
+        "subject": "Chemistry",
+        "sub_topic": "Physical Chemistry - Gaseous State",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 11,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "0.8 atm",
+            "0.9 atm",
+            "1 atm",
+            "0.5 atm"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5742,
+        "correct_answer": "0.5 atm",
+        "basic_answer": "Given: [A gaseous mixture containing equal moles of $CO$ and $N_2$. Total pressure ($P_{total}$) = $1$ atm.]\n\nSolution: [According to Dalton's Law of Partial Pressures, the partial pressure of a gas is the product of its mole fraction and the total pressure. Since the moles of $CO$ and $N_2$ are equal, the mole fraction of $N_2$ is $0.5$. Therefore, the partial pressure of $N_2 = 0.5 \\times 1\\text{ atm} = 0.5\\text{ atm}$.]",
+        "explanation": "### CORE CONCEPT\nThis problem is governed by Dalton's Law of Partial Pressures, which states that in a mixture of non-reacting gases, the total pressure exerted is equal to the sum of the partial pressures of the individual gases. A key derivation of this law is that the partial pressure of any component gas ($P_i$) is directly proportional to its mole fraction ($\\chi_i$) in the mixture:\nPᵢ = χᵢ × Pₜₒₜₐₗ\nThe mole fraction represents the ratio of the number of moles of a specific gas to the total number of moles of all gases present in the mixture.\n\n\n\nDETAILEDSOLUTION\nTo find the partial pressure of nitrogen ($N_2$), we follow these steps:\n\n1.  Determine the Mole Fraction (χₙ₂):\n    * The problem states that the mixture contains equal moles of $CO$ and $N_2$.\n    * Let the number of moles of $CO$ be '$n$' and the number of moles of $N_2$ also be '$n$'.\n    * Total moles in the mixture ($n_{total}$) = $n + n = 2n$.\n    * Mole fraction of $N_2$ (χₙ₂) = nₙ₂ / nₜₒₜₐₗ = n / 2n = 0.5\n\n2.  Apply Dalton's Law formula:\n    * Total Pressure ($P_{total}$) = $1$ atmosphere (atm).\n    * Partial Pressure of N₂ (Pₙ₂) = χₙ₂ × Pₜₒₜₐₗ\n    * Pₙ₂ = 0.5 × 1 atm = 0.5 atm.\n\n### WHY THIS ANSWER IS CORRECT\nBecause the two gases are present in a 1:1 molar ratio, they contribute equally to the total pressure of the system. If the total pressure is $1$ atm, each gas must exert exactly half of that pressure ($0.5$ atm). This is a direct consequence of the kinetic molecular theory, where pressure depends on the number of particles colliding with the walls, regardless of the identity of the gas. This matches Option D.\n\n### COMMON MISTAKES\n* Confusing Mass and Moles: If the question had said \"equal masses\" instead of \"equal moles,\" the answer would be different because $CO$ (28 g/mol) and $N_2$ (28 g/mol) happen to have the same molar mass. If the gases had different molar masses, equal masses would not result in equal moles.\n* Using the wrong formula: Some students mistakenly try to use the Ideal Gas Law ($PV=nRT$) without having values for volume or temperature. While the law holds, Dalton's mole fraction relationship is the most direct path here.\n* Rounding Errors: Although the math is simple here, in more complex mixtures, ensure the sum of all mole fractions always equals exactly 1.0.",
+        "keywords": {
+            "Pₜₒₜₐₗ": "Total Pressure",
+            "$P_{\\text{CO}}$": "Partial Pressure of Carbon Monoxide",
+            "$P_{N²}$": "Partial Pressure of Nitrogen",
+            "atm": "Atmospheres"
+        }
+    },
+    {
+        "id": 59,
+        "question_number": "106",
+        "text": "If x is the amount of adsorbate and m is the amount of adsorbent, which of the following relations is not related to adsorption isotherms (x/m versus pressure p at constant temperature)?",
+        "subject": "Chemistry",
+        "sub_topic": "Adsorption",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 12,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "x/m = k p^{1/n}",
+            "log(x/m) = log k + (1/n) log p",
+            "1/(x/m) = 1/(k b p) + 1/k",
+            "x/m = k T^{n}"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 12,
+            "type": "MCQ"
+        },
+        "original_id": 5743,
+        "correct_answer": "x/m = k T^{n}",
+        "basic_answer": "Given: [Variables $x$ (adsorbate), $m$ (adsorbent), $p$ (pressure), and $T$ (temperature). Target: Identify the relation NOT representing an adsorption isotherm ($x/m$ vs. $p$).]\n\nSolution: [An adsorption isotherm is a curve that expresses the variation in the amount of gas adsorbed by the adsorbent with pressure at a constant temperature. Options A and B represent the Freundlich adsorption isotherm, and Option C represents the linearized form of the Langmuir adsorption isotherm. Option D ($x/m = k T^n$) represents the variation of adsorption with temperature, which is called an adsorption isobar, not an isotherm.]",
+        "explanation": "### CORE CONCEPT\nIn surface chemistry, the extent of adsorption is measured as $x/m$, where $x$ is the mass of the gas adsorbed and $m$ is the mass of the solid adsorbent. The relationship between $x/m$ and the external conditions is categorized into two types:\n1.  Adsorption Isotherm: Describes the relationship between $x/m$ and Pressure ($p$) while keeping Temperature ($T$) constant. \n2.  Adsorption Isobar: Describes the relationship between $x/m$ and Temperature ($T$) while keeping Pressure ($p$) constant\n\n DETAILED ANALYSIS OF THE OPTIONS\nWe evaluate each mathematical relation to see if it links $x/m$ to $p$ (Isotherm) or $T$ (Isobar):\n\n1.  $x/m = k p^{1/n}$: This is the standard Freundlich Adsorption Isotherm equation. It shows that the extent of adsorption is proportional to the pressure raised to a power (where $n > 1$). This is a valid isotherm.\n\n2.  $\\log(x/m) = \\log k + (1/n) \\log p$: This is simply the logarithmic form of the Freundlich equation ($x/m = k p^{1/n}$). In a plot of $\\log(x/m)$ vs. $\\log p$, this gives a straight line with slope $1/n$ and intercept $\\log k$. This is also a valid isotherm.\n\n3.  $1/(x/m) = 1/(k b p) + 1/k$: This is the linearized form of the Langmuir Adsorption Isotherm. The original Langmuir equation is $x/m = (a p) / (1 + b p)$. By taking the reciprocal, we get a relation between $1/(x/m)$ and $1/p$. Since it relates adsorption to pressure, it is a valid isotherm.\n\n4.  $x/m = k T^n$: This equation relates the extent of adsorption to Temperature ($T$). While adsorption does change with temperature (it typically decreases as temperature increases for physical adsorption), this relationship is called an Adsorption Isobar. \n\n\n\n### WHY THIS ANSWER IS CORRECT\nThe term isotherm literally means \"at the same temperature.\" Therefore, any equation for an isotherm must treat temperature as a constant and focus on the variable Pressure. Since Option D ($x/m = k T^n$) depends on temperature as the primary variable, it cannot be an isotherm. This matches Option D.\n\n### COMMON MISTAKES\n* Confusing Isotherm with Isobar: This is the primary hurdle. Always check the independent variable ($p$ vs. $T$). If the equation contains $p$, it's likely an isotherm; if it contains $T$, it's an isobar.\n* Linear vs. Power Forms: Some students recognize $x/m = k p^{1/n}$ but fail to recognize its log form ($y = mx + c$). Both represent the same physical phenomenon.\n* Terminology Overload: Don't be intimidated by $k$, $n$, or $b$. These are just empirical constants that depend on the nature of the gas and the adsorbent at a specific temperature.",
+        "keywords": {
+            "x": "amount of adsorbate",
+            "m": "amount of adsorbent",
+            "p": "equilibrium pressure",
+            "k": "adsorption constant",
+            "n": "Freundlich constant",
+            "T": "temperature"
+        }
+    }
+]

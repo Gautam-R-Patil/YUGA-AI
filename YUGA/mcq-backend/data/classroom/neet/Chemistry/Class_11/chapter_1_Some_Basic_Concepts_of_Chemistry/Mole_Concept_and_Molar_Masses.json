@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "chapter_number": 1,
+    "topic": "Mole Concept and Molar Masses",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:10:28.676616",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the mole concept and molar masses. These are important topics in chemistry and often come in NEET exams. Let's start with the definition of a mole. A mole is a unit that measures the amount of substance. It is very useful in chemistry.\n\nNow, let's talk about Avogadro's number. This number is 6.022 x 10^23. It tells us how many particles, like atoms or molecules, are in one mole of a substance. Think of it like a dozen. Just like a dozen means 12, a mole means 6.022 x 10^23 particles.\n\nNext, we need to understand molar mass. Molar mass is the mass of one mole of a substance. We measure it in grams per mole (g/mol). To find molar mass, you add up the atomic masses of all the atoms in a molecule. For example, water (H2O) has a molar mass of about 18 g/mol. This is because hydrogen has an atomic mass of 1, and oxygen has an atomic mass of 16. So, (2 x 1) + 16 = 18.\n\nLet's move on to interconversion of mass, moles, and number of particles. If you know the mass of a substance, you can find the number of moles by dividing the mass by the molar mass. Formula: Moles = Mass / Molar Mass. If you know the number of moles, you can find the number of particles by multiplying the moles by Avogadro's number. Formula: Particles = Moles x Avogadro's number.\n\nLet's see an example. Suppose you have 36 grams of water. To find the number of moles, use the formula: Moles = Mass / Molar Mass. So, Moles = 36 g / 18 g/mol = 2 moles. Now, to find the number of particles, multiply the moles by Avogadro's number: Particles = 2 moles x 6.022 x 10^23 = 1.2044 x 10^24 particles.\n\nA common mistake is mixing up mass and moles. Remember, mass is in grams, and moles are a count of particles.\n\nKey points to remember: A mole is 6.022 x 10^23 particles. Molar mass is the mass of one mole. Use formulas to convert between mass, moles, and particles.\n\nIn summary, understanding the mole concept and molar masses helps us measure substances in chemistry. Practice these calculations, and you'll do great in your exams!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Mole",
+    "Avogadro's Number",
+    "Molar Mass",
+    "Mass",
+    "Particles"
+  ],
+  "formulas": [
+    {
+      "formula": "Moles = Mass / Molar Mass",
+      "description": "Formula to calculate the number of moles from mass"
+    },
+    {
+      "formula": "Particles = Moles x 6.022 x 10^23",
+      "description": "Formula to calculate the number of particles from moles"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Mole",
+      "definition": "A unit that measures the amount of substance, equal to 6.022 x 10^23 particles."
+    },
+    {
+      "term": "Avogadro's Number",
+      "definition": "The number of particles in one mole, which is 6.022 x 10^23."
+    },
+    {
+      "term": "Molar Mass",
+      "definition": "The mass of one mole of a substance, measured in grams per mole."
+    }
+  ]
+}

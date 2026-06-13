@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Laws of Motion",
+    "chapter_number": 5,
+    "topic": "Newton's Laws of Motion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:51:33.111651",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Newton's Laws of Motion. These are very important in physics and often appear in NEET exams. Let's start with the First Law. It is also known as the law of inertia. Inertia means that an object will not change its motion unless a force acts on it. For example, a book on a table stays still until you push it. If you are in a moving car and it stops suddenly, you feel a jerk forward. This is inertia. \n\nNow, let's move to the Second Law. This law tells us how force, mass, and acceleration are related. The formula is F = ma. Here, F is the force, m is the mass, and a is the acceleration. If you push a light box and a heavy box with the same force, the light box moves faster. Why? Because it has less mass. Remember, more force means more acceleration if the mass stays the same. \n\nNext is the Third Law. It says every action has an equal and opposite reaction. If you push against a wall, the wall pushes back with the same force. This is why you do not move the wall. Rockets work because gases push out one way, and the rocket moves the opposite way. \n\nNow, let's see how these laws help solve problems. If a question asks about the force needed to move an object, use the Second Law. Check if the mass and acceleration are given. Plug these into F = ma to find the force. \n\nNewton's Laws are everywhere in real life. When you walk, your feet push back on the ground, and the ground pushes you forward. This is the Third Law. In sports, when a player kicks a ball, the ball moves because of the force applied. This is the Second Law. \n\nKey points to remember: The First Law is about inertia. The Second Law uses the formula F = ma. The Third Law is about action and reaction. \n\nIn summary, Newton's Laws help us understand how things move. They explain many everyday actions. Practice using these laws in different problems to get ready for NEET. Remember, understanding the concepts is more important than just memorizing them.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Newton's First Law",
+    "Inertia",
+    "Newton's Second Law",
+    "Force",
+    "Newton's Third Law",
+    "Action-Reaction"
+  ],
+  "formulas": [
+    {
+      "formula": "F = ma",
+      "description": "Force equals mass times acceleration"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Inertia",
+      "definition": "The tendency of an object to resist changes in its motion"
+    },
+    {
+      "term": "Force",
+      "definition": "A push or pull on an object"
+    },
+    {
+      "term": "Mass",
+      "definition": "The amount of matter in an object"
+    },
+    {
+      "term": "Acceleration",
+      "definition": "The rate of change of velocity of an object"
+    }
+  ]
+}

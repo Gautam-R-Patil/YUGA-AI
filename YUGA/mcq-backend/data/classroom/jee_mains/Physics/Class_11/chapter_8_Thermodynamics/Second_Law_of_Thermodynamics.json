@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermodynamics",
+    "chapter_number": 8,
+    "topic": "Second Law of Thermodynamics",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:52:20.431959",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Second Law of Thermodynamics. This is a very important topic in physics. It helps us understand how energy moves and changes. \n\nFirst, let's define the Second Law of Thermodynamics. It says that energy tends to spread out. In simple words, heat always flows from a hot object to a cold one. This is why a hot cup of tea cools down in a room. \n\nNow, let's talk about Entropy. Entropy is a measure of disorder or randomness. When entropy increases, things become more disordered. For example, when ice melts into water, the molecules move more freely, increasing entropy. \n\nNext, we have Heat Engines. A heat engine is a machine that converts heat into work. It takes in heat energy and gives out work. But, it can never be 100% efficient. Some energy is always lost as waste heat. \n\nThe efficiency of a heat engine is given by the formula: \n\nEfficiency = (Work output / Heat input) x 100%\n\nLet's discuss Reversible and Irreversible Processes. A reversible process can go back to its original state without any change. But, in real life, most processes are irreversible. For example, you cannot unmix milk and coffee once mixed. \n\nThe Carnot Cycle is an ideal cycle that shows the maximum possible efficiency of a heat engine. It consists of four steps: two isothermal processes and two adiabatic processes. \n\nIn refrigeration, the Second Law is used to move heat from a cold place to a hot place. This is how a fridge keeps food cold. Here, we use a refrigerant that absorbs heat from inside the fridge and releases it outside. \n\nNow, let's look at Entropy Change Calculations. The change in entropy (∆S) can be calculated using the formula: \n\n∆S = Q/T\n\nWhere Q is the heat added or removed, and T is the temperature in Kelvin. \n\nLet's solve a simple problem. If 100 J of heat is added to a system at 300 K, what is the change in entropy? \n\n∆S = 100 J / 300 K = 0.33 J/K \n\nCommon mistakes in JEE Main include confusing heat engines with refrigerators. Remember, engines convert heat to work, while refrigerators move heat from cold to hot. \n\nKey takeaways: \n1. Heat always flows from hot to cold. \n2. Entropy measures disorder. \n3. Heat engines are never 100% efficient. \n4. Most processes are irreversible. \n\nIn summary, the Second Law of Thermodynamics is about energy flow and efficiency. It tells us why certain processes happen and others do not. Understanding this law helps us in many practical applications like engines and refrigerators.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Second Law",
+    "Entropy",
+    "Heat Engine",
+    "Reversible Process",
+    "Carnot Cycle"
+  ],
+  "formulas": [
+    {
+      "formula": "Efficiency = (Work output / Heat input) x 100%",
+      "description": "Used to calculate the efficiency of a heat engine in JEE Main problems"
+    },
+    {
+      "formula": "∆S = Q/T",
+      "description": "Used to calculate the change in entropy when heat is added or removed"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Second Law of Thermodynamics",
+      "definition": "Energy tends to spread out and heat flows from hot to cold."
+    },
+    {
+      "term": "Entropy",
+      "definition": "A measure of disorder or randomness in a system."
+    },
+    {
+      "term": "Heat Engine",
+      "definition": "A machine that converts heat energy into work."
+    },
+    {
+      "term": "Reversible Process",
+      "definition": "A process that can return to its original state without any change."
+    },
+    {
+      "term": "Carnot Cycle",
+      "definition": "An ideal cycle that shows the maximum possible efficiency of a heat engine."
+    }
+  ]
+}

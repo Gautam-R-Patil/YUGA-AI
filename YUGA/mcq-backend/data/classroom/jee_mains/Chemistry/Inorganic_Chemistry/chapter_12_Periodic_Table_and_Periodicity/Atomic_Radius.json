@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Periodic Table and Periodicity",
+    "chapter_number": 12,
+    "topic": "Atomic Radius",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:11:49.022930",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about the atomic radius. This is an important topic in the periodic table chapter. Let's start with the definition. The atomic radius is the distance from the center of an atom's nucleus to the outermost electron. It tells us how big an atom is. There are different types of atomic radii: covalent, ionic, and van der Waals. \n\nCovalent radius is used when atoms share electrons to form a bond. For example, in a molecule of hydrogen (H2), the covalent radius is half the distance between the two hydrogen nuclei. Ionic radius is used when atoms gain or lose electrons to form ions. For example, in sodium chloride (NaCl), sodium becomes a cation (Na+) and chlorine becomes an anion (Cl-). Van der Waals radius is used for atoms that are not bonded but are close together. \n\nNow, let's look at trends in the periodic table. As you move across a period from left to right, the atomic radius decreases. This is because more protons in the nucleus pull the electrons closer. As you move down a group, the atomic radius increases. This is because new electron shells are added, making the atom bigger. \n\nA common JEE Main mistake is forgetting these trends. Remember: across a period, radius decreases; down a group, radius increases. \n\nLet's compare cations and anions. Cations are smaller than their parent atoms because they lose electrons. Anions are larger than their parent atoms because they gain electrons. For example, Na+ is smaller than Na, and Cl- is larger than Cl. \n\nFactors affecting atomic size include nuclear charge and electron shielding. More protons mean a stronger pull on electrons, making the atom smaller. More electron shells mean more shielding, making the atom larger. \n\nThere are exceptions to these trends. For example, the atomic radius of gallium (Ga) is smaller than aluminum (Al) even though it is below Al in the group. This is due to poor shielding by d-electrons. \n\nGraphical representation helps us see these trends clearly. A graph of atomic radius vs. atomic number shows a zigzag pattern across periods and a steady increase down groups. \n\nUnderstanding atomic radius helps predict chemical behavior. Smaller atoms usually have higher ionization energy. Ionization energy is the energy needed to remove an electron from an atom. If an atom is small, its electrons are held tightly, so more energy is needed to remove one. \n\nLet's summarize. Atomic radius is an important concept in chemistry. It helps us understand atom size, trends in the periodic table, and chemical behavior. Remember the key trends: radius decreases across a period and increases down a group. Cations are smaller, and anions are larger than their parent atoms. \n\nThank you for listening. I hope this helps you understand atomic radius better. Practice these concepts, and you'll do well in your JEE Main exam.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Atomic Radius",
+    "Covalent Radius",
+    "Ionic Radius",
+    "Van der Waals Radius",
+    "Ionization Energy"
+  ],
+  "formulas": [
+    {
+      "formula": "Atomic Radius = Distance between nuclei / 2",
+      "description": "Used to calculate covalent radius when two atoms are bonded"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Atomic Radius",
+      "definition": "Distance from the center of an atom's nucleus to the outermost electron"
+    },
+    {
+      "term": "Covalent Radius",
+      "definition": "Half the distance between two bonded atoms' nuclei"
+    },
+    {
+      "term": "Ionic Radius",
+      "definition": "Radius of an atom's ion"
+    },
+    {
+      "term": "Van der Waals Radius",
+      "definition": "Radius of an atom when it is not bonded but close to another atom"
+    }
+  ]
+}

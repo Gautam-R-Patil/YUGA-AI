@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Biological Classification",
+    "chapter_number": 2,
+    "topic": "Kingdom Animalia",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:33:24.213519",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about Kingdom Animalia. This is an exciting topic because it includes all animals. Let's start by understanding some key features of Animalia. \n\nAnimals are multicellular. This means they have many cells. Each cell works to keep the animal alive. Unlike plants, animals cannot make their own food. They are heterotrophic. This means they eat plants or other animals for energy. \n\nNow, let's look at some examples of animals. Sponges are simple animals. They live in water and filter food from it. Insects, like butterflies and ants, are everywhere. They have six legs and often have wings. Mammals, like humans, dogs, and cats, are warm-blooded. They feed their babies with milk. \n\nAnimals can reproduce in two main ways: sexual and asexual. In sexual reproduction, two parents are needed. They produce offspring that are a mix of both parents. In asexual reproduction, one parent can produce offspring. The offspring are usually identical to the parent. \n\nAnimals play important roles in ecosystems. For example, bees help in pollination. They carry pollen from one flower to another. This helps plants make fruits. Birds and some animals help in seed dispersal. They eat fruits and spread the seeds in different places. \n\nHumans have a big impact on animal biodiversity. This means the variety of animal life. Activities like deforestation and pollution harm animals. It is important to protect animal habitats to keep ecosystems healthy. \n\nRemember, animals are multicellular and heterotrophic. They can reproduce sexually or asexually. They play key roles in ecosystems. Protecting them is important for our planet. \n\nThank you for listening. I hope you enjoyed learning about Kingdom Animalia!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Multicellular",
+    "Heterotrophic",
+    "Sexual reproduction",
+    "Asexual reproduction",
+    "Biodiversity"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Multicellular",
+      "definition": "Having many cells."
+    },
+    {
+      "term": "Heterotrophic",
+      "definition": "Organisms that cannot make their own food and eat other organisms."
+    },
+    {
+      "term": "Biodiversity",
+      "definition": "The variety of life in the world or in a particular habitat."
+    }
+  ]
+}

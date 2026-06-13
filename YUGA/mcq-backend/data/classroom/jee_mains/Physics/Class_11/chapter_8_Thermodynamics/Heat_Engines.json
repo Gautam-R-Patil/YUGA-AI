@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Thermodynamics",
+    "chapter_number": 8,
+    "topic": "Heat Engines",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:52:32.595923",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about heat engines in thermodynamics. Heat engines are devices that convert heat energy into mechanical work. They play a crucial role in many machines, like cars and power plants.\n\nFirst, let's define a heat engine. A heat engine is a system that takes in energy by heat and, in turn, does work. It operates in a cycle, which means it returns to its initial state at the end of each cycle.\n\nThere are different types of heat engines. The most common types are internal combustion engines and external combustion engines. Internal combustion engines burn fuel inside the engine, like in cars. External combustion engines burn fuel outside the engine, like in steam engines.\n\nNow, let's talk about the working principle of heat engines. A heat engine absorbs heat from a high-temperature source, converts part of this heat into work, and releases the remaining heat to a low-temperature sink. This process is cyclic.\n\nThe efficiency of a heat engine is very important. Efficiency tells us how well the engine converts heat into work. The formula for efficiency (η) is:\n\nη = (Work output / Heat input) x 100%\n\nIn JEE Main, you will often calculate efficiency using this formula. Remember, no engine is 100% efficient due to energy losses.\n\nLet's discuss the Carnot engine. The Carnot engine is an ideal heat engine with maximum efficiency. It works on the Carnot cycle. The efficiency of a Carnot engine depends on the temperatures of the heat source (T1) and the heat sink (T2). The formula is:\n\nη = (T1 - T2) / T1\n\nHere, T1 and T2 must be in Kelvin. This formula is important for JEE Main.\n\nReal engines are not as efficient as the Carnot engine. Real engines have friction and other losses. Understanding this difference is crucial for solving problems.\n\nHeat engines have many applications. They are used in automobiles, airplanes, and power plants. In cars, the engine converts fuel energy into motion.\n\nNow, let's briefly talk about heat pumps and refrigerators. A heat pump is a device that transfers heat from a cold area to a warm area. It works like a refrigerator but in reverse. A refrigerator keeps things cold by removing heat from the inside and releasing it outside.\n\nIn JEE Main, you may get questions on energy transfer in engines. Remember that energy cannot be created or destroyed, only transformed.\n\nLet's go over some common mistakes. One mistake is not converting temperatures to Kelvin when using the Carnot efficiency formula. Another mistake is confusing work done with heat absorbed.\n\nFor quick revision, remember: Heat engines convert heat to work, efficiency tells us how well they do this, and the Carnot engine is the most efficient but not practical.\n\nIn summary, heat engines are vital in converting heat to work. Understanding their efficiency and working principles is key for JEE Main. Practice solving problems using the formulas we discussed today.\n\nThank you for listening. Keep practicing, and you'll master these concepts!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Heat Engine",
+    "Efficiency",
+    "Carnot Engine",
+    "Heat Pump",
+    "Refrigerator"
+  ],
+  "formulas": [
+    {
+      "formula": "η = (Work output / Heat input) x 100%",
+      "description": "This formula is used to calculate the efficiency of any heat engine."
+    },
+    {
+      "formula": "η = (T1 - T2) / T1",
+      "description": "This formula calculates the efficiency of a Carnot engine using temperatures in Kelvin."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Heat Engine",
+      "definition": "A device that converts heat energy into mechanical work."
+    },
+    {
+      "term": "Carnot Engine",
+      "definition": "An ideal heat engine with maximum possible efficiency, operating on the Carnot cycle."
+    },
+    {
+      "term": "Efficiency",
+      "definition": "A measure of how well a heat engine converts heat into work."
+    }
+  ]
+}

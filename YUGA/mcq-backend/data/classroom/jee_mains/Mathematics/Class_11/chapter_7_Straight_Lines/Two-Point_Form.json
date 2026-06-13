@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Straight Lines",
+    "chapter_number": 7,
+    "topic": "Two-Point Form",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:50:46.883847",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Two-Point Form of a straight line. This is important for JEE Main. Let's start by recalling what a straight line is. A straight line is the shortest path between two points. In math, we often need to find the equation of this line.\n\nThe Two-Point Form helps us find the equation of a line when we know two points on the line. Let's say the two points are (x1, y1) and (x2, y2). The formula is: (y - y1) = [(y2 - y1)/(x2 - x1)](x - x1). This formula is very useful in geometry problems.\n\nLet's break this down. The left side, (y - y1), shows the change in the y-coordinate. The right side, [(y2 - y1)/(x2 - x1)], is the slope of the line. The slope tells us how steep the line is. The term (x - x1) shows the change in the x-coordinate.\n\nNow, let's see how to use this formula. Suppose we have two points, A(2, 3) and B(4, 7). First, find the slope: (7 - 3)/(4 - 2) = 4/2 = 2. Now, use the formula with point A: (y - 3) = 2(x - 2). Simplify it: y - 3 = 2x - 4. So, y = 2x - 1 is the equation of the line.\n\nLet's try another example. Find the equation of the line through points C(1, 2) and D(3, 6). The slope is (6 - 2)/(3 - 1) = 4/2 = 2. Using point C: (y - 2) = 2(x - 1). Simplify: y - 2 = 2x - 2. So, y = 2x is the equation.\n\nIn JEE Main, be careful with calculations. A common mistake is mixing up x1, y1, x2, y2. Always double-check the points. Another trap is forgetting to simplify the final equation.\n\nKey takeaways: Remember the Two-Point Form formula. Practice finding slopes. Simplify your final answer. These steps will help you in JEE Main.\n\nIn summary, we learned how to find the equation of a line using two points. Practice with different points to get comfortable. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Two-Point Form",
+    "Straight Line",
+    "Slope",
+    "Equation",
+    "JEE Main"
+  ],
+  "formulas": [
+    {
+      "formula": "(y - y1) = [(y2 - y1)/(x2 - x1)](x - x1)",
+      "description": "This formula is used to find the equation of a line when two points on the line are known."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Slope",
+      "definition": "The slope of a line is a number that describes how steep the line is."
+    }
+  ]
+}

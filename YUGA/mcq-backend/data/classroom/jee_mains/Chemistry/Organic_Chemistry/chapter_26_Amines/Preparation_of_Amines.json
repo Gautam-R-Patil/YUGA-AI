@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Amines",
+    "chapter_number": 26,
+    "topic": "Preparation of Amines",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:28:46.304520",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the preparation of amines. Amines are organic compounds. They have nitrogen atoms connected to carbon atoms. Let's start with some methods to make amines. \n\nFirst, we have the reduction of nitro compounds. Nitro compounds have a nitro group (-NO2). To make amines, we reduce the nitro group to an amino group (-NH2). We use reducing agents like iron and hydrochloric acid (HCl), or tin and HCl. This method is common in JEE Main. Remember, nitrobenzene reduces to aniline.\n\nNext, let's look at Gabriel phthalimide synthesis. This method makes primary amines. We start with phthalimide. We treat it with potassium hydroxide (KOH) to form a salt. Then, we add an alkyl halide. Finally, we hydrolyze it to get a primary amine. This method is important for making pure primary amines.\n\nNow, let's talk about Hofmann bromamide degradation. This method is for making primary amines from amides. We use bromine (Br2) and a strong base like sodium hydroxide (NaOH). The reaction removes the carbonyl group (C=O) and adds an amine group. This is a useful method for making amines with one less carbon atom.\n\nReductive amination is next. This method makes amines by reducing imines or oximes. We use reducing agents like sodium cyanoborohydride (NaBH3CN). This method is great for making secondary and tertiary amines.\n\nLet's move to Curtius rearrangement. This method starts with acyl azides. When heated, they rearrange to form isocyanates. Then, they are hydrolyzed to give amines. This method is useful for making amines with one less carbon atom.\n\nFinally, we have the preparation of amines from nitriles. Nitriles have a cyano group (-C≡N). We reduce nitriles using hydrogen gas (H2) and a catalyst like palladium (Pd) to get primary amines. This method is useful for making long-chain amines.\n\nNow, let's see some common mistakes. In JEE Main, students often confuse primary, secondary, and tertiary amines. Remember, primary amines have one carbon group attached to nitrogen, secondary have two, and tertiary have three. Also, be careful with reaction conditions. Using the wrong reagent can lead to the wrong product.\n\nKey takeaways: Understand each method's steps. Practice reaction mechanisms. Know which reagents to use. \n\nIn summary, we learned six methods to prepare amines. Each method has its own use and importance. Practice these to score well in JEE Main. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Amines",
+    "Nitro Compounds",
+    "Gabriel Synthesis",
+    "Hofmann Degradation",
+    "Reductive Amination"
+  ],
+  "formulas": [
+    {
+      "formula": "R-NO2 + 6[H] → R-NH2 + 2H2O",
+      "description": "Reduction of nitro compounds to amines using reducing agents"
+    },
+    {
+      "formula": "Phthalimide + KOH + R-X → R-NH2",
+      "description": "Gabriel phthalimide synthesis for primary amines"
+    },
+    {
+      "formula": "RCONH2 + Br2 + 4NaOH → R-NH2 + Na2CO3 + 2NaBr + 2H2O",
+      "description": "Hofmann bromamide degradation for primary amines"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Amines",
+      "definition": "Organic compounds with nitrogen atoms bonded to carbon atoms"
+    },
+    {
+      "term": "Primary Amine",
+      "definition": "Amines with one carbon group attached to the nitrogen"
+    },
+    {
+      "term": "Reduction",
+      "definition": "Chemical reaction that involves the gain of electrons or hydrogen"
+    }
+  ]
+}

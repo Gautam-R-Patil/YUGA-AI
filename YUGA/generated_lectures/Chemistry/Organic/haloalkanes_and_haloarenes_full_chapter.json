@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Haloalkanes and Haloarenes",
+    "chapter_number": "24",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:25:15.656449",
+    "model_used": "gpt-4o",
+    "category": "Organic"
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts, Haloalkanes and Haloarenes, within organic chemistry. Haloalkanes are alkanes containing one or more halogen atoms, while Haloarenes are aromatic compounds with halogens. \n\n**Reactivity and Preparation**\nHaloalkanes can be prepared through free radical halogenation, electrophilic substitution, or hydrohalogenation of alkenes. Haloarenes, conversely, mainly result from electrophilic substitution reactions. The presence of a halogen influences the electron density of benzene rings, leading to different reactivity compared to haloalkanes. \n\n**Nucleophilic Substitution Reactions**\nA key characteristic of haloalkanes is their nucleophilic substitution reactions (SN1 and SN2). SN2 involves a one-step mechanism with a backside attack, important in primary haloalkanes, while SN1 has two steps with carbocation intermediates, crucial in tertiary haloalkanes.\n\n**Elimination Reactions**\nHaloalkanes can also undergo elimination reactions to form alkenes. The major mechanism is the E2 mechanism or Zaitsev's rule, where the most substituted alkene is usually the major product.\n\n**Reactivity Patterns**\nHaloarenes generally resist nucleophilic substitution due to the resonance stabilization of the aromatic ring but can undergo electrophilic aromatic substitution easily.\n\n**Key Formula / Idea**\nReactivity is often guided by factors like steric hindrance, the nature of the leaving group, and the stability of intermediates. The order of reactivity in haloalkanes via SN1 is typically: Iodide > Bromide > Chloride > Fluoride.\n\n**NEET Question Pattern**\nNEET often poses questions on distinguishing reaction mechanisms (SN1 vs SN2), predicting reaction products, and identifying reactants or intermediates using given reaction conditions. Questions may also address the influence of substituents on reactivity and reaction pathways.\n\n**Quick Revision Points:**\n1. Haloalkanes are more reactive than haloarenes due to weaker halogen atom bond strength and greater susceptibility to nucleophilic attack.\n2. SN1 is preferred in tertiary haloalkanes; SN2 in primary haloalkanes.\n3. Elimination reactions can form alkenes, following Zaitsev's rule.\n4. Halogen in haloarenes, due to resonance, is not easily substituted.\n5. NEET questions often test reactivity order, mechanisms, and product prediction.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Haloalkanes",
+    "Haloarenes",
+    "Nucleophilic substitution",
+    "SN1 mechanism",
+    "SN2 mechanism",
+    "Elimination reactions",
+    "Electrophilic substitution",
+    "Zaitsev's rule",
+    "Reactivity",
+    "Steric hindrance"
+  ],
+  "formulas": [
+    "$$ \\text{Rate of SN1} \\propto [\\text{Substrate}] $$",
+    "$$ \\text{Rate of SN2} \\propto [\\text{Nucleophile}][\\text{Substrate}] $$",
+    "Major product following Zaitsev's rule: more substituted alkene"
+  ],
+  "definitions": [
+    {
+      "term": "Haloalkanes",
+      "definition": "Organic compounds containing one or more halogen atoms and alkanes."
+    },
+    {
+      "term": "Haloarenes",
+      "definition": "Aromatic compounds containing one or more halogen atoms attached to the benzene ring."
+    },
+    {
+      "term": "Nucleophilic substitution",
+      "definition": "A reaction where a nucleophile replaces a leaving group in a compound."
+    },
+    {
+      "term": "SN1 mechanism",
+      "definition": "A two-step nucleophilic substitution mechanism with carbocation formation."
+    },
+    {
+      "term": "SN2 mechanism",
+      "definition": "A one-step nucleophilic substitution mechanism with simultaneous bond formation and bond breaking."
+    },
+    {
+      "term": "Elimination reactions",
+      "definition": "Reactions resulting in the removal of elements from the starting material to form a double bond."
+    },
+    {
+      "term": "Electrophilic substitution",
+      "definition": "Reactions in which an electrophile replaces an atom or group in an aromatic system."
+    },
+    {
+      "term": "Zaitsev's rule",
+      "definition": "In elimination reactions, the most substituted alkene is the preferred product."
+    },
+    {
+      "term": "Reactivity",
+      "definition": "The tendency of a chemical substance to undergo a chemical reaction with another substance."
+    },
+    {
+      "term": "Steric hindrance",
+      "definition": "The slowing or blocking of chemical reactions due to the size of groups within a molecule."
+    }
+  ]
+}

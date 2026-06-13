@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Thermodynamics",
+    "chapter_number": 4,
+    "topic": "Entropy",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:05:49.357555",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about entropy in thermodynamics. Let's start with the definition of entropy. Entropy is a measure of disorder or randomness in a system. Think of it as how spread out or mixed things are. For example, when ice melts, the water molecules become more disordered.\n\nNow, let's talk about entropy change in processes. When a process happens, the entropy can increase or decrease. For example, when you dissolve sugar in water, the entropy increases. This is because the sugar molecules spread out in the water.\n\nNext, the Second Law of Thermodynamics. This law says that the total entropy of an isolated system can never decrease over time. It can only stay the same or increase. This means natural processes tend to move towards more disorder.\n\nEntropy and spontaneity are connected. A spontaneous process is one that happens on its own. If a process increases the total entropy, it is likely spontaneous. For example, gas spreading in a room is spontaneous because it increases entropy.\n\nLet's talk about standard entropy. Standard entropy is the entropy of a substance at a standard state, usually 1 atm pressure and 25°C temperature. It helps us compare different substances.\n\nEntropy of mixing is another important concept. When two substances mix, the entropy usually increases. This is because the particles of the substances become more spread out.\n\nEntropy changes in phase transitions are also important. A phase transition is when a substance changes from one state to another, like solid to liquid. During melting or boiling, the entropy increases because the particles become more disordered.\n\nEntropy and disorder go hand in hand. More disorder means more entropy. For example, a messy room has more entropy than a tidy room.\n\nFinally, let's discuss entropy in reversible and irreversible processes. In a reversible process, the entropy change is zero. In an irreversible process, the entropy increases. Most natural processes are irreversible.\n\nNow, let's look at some formulas. The formula for change in entropy (∆S) is ∆S = q/T, where q is heat added and T is temperature in Kelvin. This formula is used in JEE Main to calculate entropy change during a process.\n\nLet's see an example: If 100 J of heat is added to a system at 300 K, the entropy change is ∆S = 100 J / 300 K = 0.33 J/K.\n\nBe careful with units in JEE Main. Always convert temperature to Kelvin and energy to Joules.\n\nKey takeaways: Entropy measures disorder. It increases in spontaneous and irreversible processes. Use the formula ∆S = q/T to find entropy change.\n\nIn summary, entropy is a key concept in thermodynamics. It helps us understand the direction and spontaneity of processes. Remember these points for your JEE Main exam.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Entropy",
+    "Spontaneity",
+    "Disorder",
+    "Phase Transition",
+    "Second Law"
+  ],
+  "formulas": [
+    {
+      "formula": "∆S = q/T",
+      "description": "Used to calculate the change in entropy when heat is added or removed at a constant temperature"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Entropy",
+      "definition": "A measure of disorder or randomness in a system"
+    },
+    {
+      "term": "Second Law of Thermodynamics",
+      "definition": "The total entropy of an isolated system can never decrease over time"
+    },
+    {
+      "term": "Standard Entropy",
+      "definition": "The entropy of a substance at standard state (1 atm, 25°C)"
+    },
+    {
+      "term": "Entropy of Mixing",
+      "definition": "The increase in entropy when two substances mix"
+    },
+    {
+      "term": "Phase Transition",
+      "definition": "The change of a substance from one state to another, like solid to liquid"
+    }
+  ]
+}

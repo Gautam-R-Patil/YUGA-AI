@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Biomolecules",
+    "chapter_number": "28",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:26:41.020842",
+    "model_used": "gpt-4o",
+    "category": "Organic"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts from Biomolecules. This chapter is critical as it covers the fundamentals of organic molecules essential to life.\n\nConcept: Biomolecules Overview\nBiomolecules are organic compounds that are involved in the maintenance and metabolic processes of living organisms. They are mainly composed of carbon along with hydrogen, oxygen, nitrogen, phosphorus, and sulfur. Key classes of biomolecules include carbohydrates, proteins, nucleic acids, and lipids.\n\n1. Carbohydrates - They are polyhydroxy aldehydes or ketones. They can be simple sugars like glucose or complex like starch.\n   - Key Formula: General formula for carbohydrates is \\\\( C_n(H_2O)_n \\\\\n   - NEET Pattern: Questions often ask about the classification, simple vs complex forms, and functions.\n\n2. Proteins - Polymers of amino acids linked by peptide bonds. They perform a vast array of functions including catalysis (enzymes), structure, and transport.\n   - NEET Pattern: Pay attention to the structure, types of proteins, nomenclature of amino acids, and physiological roles.\n\n3. Nucleic Acids - DNA and RNA, composed of nucleotide units. DNA stores genetic information, while RNA is involved in protein synthesis.\n   - Key Formula: Nucleotides = base + sugar + phosphate\n   - NEET Pattern: Focus on the structural difference between DNA and RNA, types of RNA, and base pairing.\n\n4. Lipids - Diverse group of molecules; not soluble in water but soluble in organic solvents. Includes fats, oils, steroids, and phospholipids.\n   - NEET Pattern: Often asked about structure (like fatty acids, triglycerides) and functions such as cell membrane structure or energy storage.\n\n5. Vitamins - Organic compounds required in small amounts for normal metabolic function. They can be either water-soluble or fat-soluble.\n   - NEET Pattern: Understanding the role of different vitamins and deficiency diseases is crucial.\n\nQuick Revision Points:\n- Carbohydrates: glucose, starch, types like monosaccharides, disaccharides, polysaccharides.\n- Proteins: structure, peptide bonds, amino acid classification.\n- Nucleic Acids: DNA/RNA differences, nucleotide structures, base pairing.\n- Lipids: fatty acid chains, steroids, significance in membrane structure.\n- Vitamins: classification, key roles, deficiency diseases.",
+  "duration_minutes": "10",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Carbohydrates",
+    "Proteins",
+    "Amino Acids",
+    "Nucleic Acids",
+    "DNA",
+    "RNA",
+    "Lipids",
+    "Fatty Acids",
+    "Vitamins",
+    "Organic Chemistry"
+  ],
+  "formulas": [
+    "C_n(H_2O)_n",
+    "Nucleotides = base + sugar + phosphate"
+  ],
+  "definitions": [
+    {
+      "term": "Carbohydrates",
+      "definition": "Organic compounds consisting of carbon, hydrogen, and oxygen, typically in a 1:2:1 ratio, serving as a major energy source."
+    },
+    {
+      "term": "Proteins",
+      "definition": "Large molecules composed of one or more long chains of amino acids, performing various functions in body processes."
+    },
+    {
+      "term": "Amino Acids",
+      "definition": "Basic building blocks of proteins, containing an amino group and a carboxyl group."
+    },
+    {
+      "term": "Nucleic Acids",
+      "definition": "Biopolymers, essential to life, that encode, transmit, and express genetic information."
+    },
+    {
+      "term": "DNA",
+      "definition": "Deoxyribonucleic acid, the molecule that carries the genetic instructions for life."
+    },
+    {
+      "term": "RNA",
+      "definition": "Ribonucleic acid, involved in coding, decoding, regulation, and expression of genes."
+    },
+    {
+      "term": "Lipids",
+      "definition": "A group of naturally occurring molecules including fats, waxes, and certain vitamins, which are hydrophobic and energy-rich."
+    },
+    {
+      "term": "Fatty Acids",
+      "definition": "Building blocks of the fat in our bodies and in the food we eat."
+    },
+    {
+      "term": "Vitamins",
+      "definition": "Organic molecules that are essential micro-nutrients which an organism needs in small quantities for metabolism."
+    }
+  ]
+}

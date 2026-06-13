@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Probability",
+    "chapter_number": 21,
+    "topic": "Law of Total Probability and Bayes' Theorem",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:03:28.941773",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will learn about the Law of Total Probability and Bayes' Theorem. These are important topics in probability, especially for JEE Main. Let's start with the basics.\n\nFirst, let's talk about the Law of Total Probability. This law helps us find the probability of an event when we have several possible scenarios. Imagine you are choosing a chocolate from a box. The box has two types of chocolates: milk and dark. If you know the chance of picking each type, you can use this law to find the overall chance of picking a chocolate.\n\nThe formula for the Law of Total Probability is: P(A) = P(A|B1)P(B1) + P(A|B2)P(B2) + ... + P(A|Bn)P(Bn). Here, A is the event we are interested in, and B1, B2, ..., Bn are different scenarios or events that partition the sample space.\n\nNow, let's see an example. Suppose you have two bags. Bag 1 has 2 red and 3 green balls. Bag 2 has 4 red and 1 green ball. If you pick a bag randomly and then a ball, what's the chance of picking a red ball? Use the law: P(Red) = P(Red|Bag 1)P(Bag 1) + P(Red|Bag 2)P(Bag 2). Calculate each part step-by-step.\n\nNext, we move to Bayes' Theorem. This theorem helps us update the probability of an event based on new information. It's like adjusting your guess after learning something new. The formula is: P(Bi|A) = [P(A|Bi)P(Bi)] / P(A). Here, Bi is a specific scenario, and A is the event that happened.\n\nLet's use Bayes' Theorem in a real-life example. Imagine you have a test for a disease. If a person tests positive, Bayes' Theorem helps you find the chance they actually have the disease. You need to know the accuracy of the test and the disease rate in the population.\n\nA common JEE Main mistake is not calculating each probability part correctly. Always check your steps and units. Also, remember to use the right formula for the problem type.\n\nIn summary, the Law of Total Probability helps find overall probabilities. Bayes' Theorem updates probabilities with new information. Practice these concepts with different examples. They are key for JEE Main success.\n\nThank you for listening! Keep practicing, and you'll master these topics in no time.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Probability",
+    "Bayes' Theorem",
+    "Sample Space",
+    "JEE Main",
+    "Law of Total Probability"
+  ],
+  "formulas": [
+    {
+      "formula": "P(A) = P(A|B1)P(B1) + P(A|B2)P(B2) + ... + P(A|Bn)P(Bn)",
+      "description": "Used to find the probability of an event A based on different scenarios B1, B2, ..., Bn"
+    },
+    {
+      "formula": "P(Bi|A) = [P(A|Bi)P(Bi)] / P(A)",
+      "description": "Used to update the probability of scenario Bi given that event A has occurred"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Law of Total Probability",
+      "definition": "A formula to find the probability of an event by considering all possible scenarios"
+    },
+    {
+      "term": "Bayes' Theorem",
+      "definition": "A formula to update the probability of a hypothesis based on new evidence"
+    },
+    {
+      "term": "Sample Space",
+      "definition": "The set of all possible outcomes in a probability experiment"
+    }
+  ]
+}

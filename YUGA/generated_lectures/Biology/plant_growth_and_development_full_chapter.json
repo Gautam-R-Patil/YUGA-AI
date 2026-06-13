@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Plant Growth and Development",
+    "chapter_number": "15",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:32:51.629507",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts\u2014Plant Growth and Development.\n\n**Concepts of Plant Growth and Development**:\n- Growth in plants is a permanent and irreversible increase in the size of an organ or organism due to cell division and enlargement. Growth is measured in terms of size, area, volume, or cell number.\n- Development refers to the overall changes that a plant undergoes during its life cycle, which includes growth as well as differentiation and maturation.\n- Meristems, areas of actively dividing cells, are vital for plant growth.\n\n**Growth Phases**:\n1. **Lag Phase**: Initial slow rate of growth.\n2. **Log Phase (Exponential Phase)**: Rapid growth where the plant size increases exponentially.\n3. **Stationary Phase**: Growth rate decreases and stabilizes as resources become limited.\n\n**Differentiation, Dedifferentiation, and Redifferentiation**:\n- **Differentiation** is the process where cells become specialized.\n- **Dedifferentiation** refers to cells regaining the ability to divide.\n- **Redifferentiation** is when dedifferentiated cells become specialized once again.\n\n**Plant Growth Regulators (PGRs):**\n- **Auxins**: Promote elongation of cells in shoots, bud growth, and root initiation.\n- **Gibberellins**: Promote seed germination, stem elongation, and flowering.\n- **Cytokinins**: Promote cell division, delay leaf senescence, influence apical dominance.\n- **Ethylene**: Influences fruit ripening and abscission of leaves and fruits.\n- **Abscisic Acid (ABA)**: Induces dormancy, inhibits growth, promotes stomatal closure.\n\n**Photoperiodism and Vernalization**:\n- **Photoperiodism**: Plant response to the relative lengths of light and dark periods, influencing flowering.\n- **Vernalization**: The requirement of a cold treatment to flower at maturity.\n\n**Senescence and Abscission**:\n- Senescence refers to the aging process of plant tissues, leading to death.\n- Abscission is the process of shedding organs like leaves, flowers, and fruits.\n\n**NEET Question Pattern**: NEET often asks about the functions and examples of plant growth regulators, phases of growth, and detailed differences between differentiation processes. You may find questions requiring you to match plant hormones with their functions or predict outcomes of hormonal applications.",
+  "duration_minutes": "10",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Plant Growth",
+    "Development",
+    "Meristems",
+    "Plant Growth Regulators (PGRs)",
+    "Differentiation",
+    "Photoperiodism",
+    "Vernalization",
+    "Senescence",
+    "Abscission"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Plant Growth",
+      "definition": "An irreversible increase in the size and number of cells, leads to an increase in size of a plant."
+    },
+    {
+      "term": "Development",
+      "definition": "Includes growth, differentiation, and maturation of the plant throughout its life cycle."
+    },
+    {
+      "term": "Meristems",
+      "definition": "Regions in plants where active cell division occurs, responsible for growth."
+    },
+    {
+      "term": "Plant Growth Regulators (PGRs)",
+      "definition": "Chemical substances in plants that significantly influence growth and differentiation."
+    },
+    {
+      "term": "Differentiation",
+      "definition": "Process where unspecialized cells become specialized in structure and function."
+    },
+    {
+      "term": "Photoperiodism",
+      "definition": "The physiological reaction of organisms to the length of day or night, important in flowering."
+    },
+    {
+      "term": "Vernalization",
+      "definition": "The induction of a plant's flowering process by exposure to cold temperatures."
+    },
+    {
+      "term": "Senescence",
+      "definition": "The process of aging in plants, characterized by the degradation of cellular structures and loss of function."
+    },
+    {
+      "term": "Abscission",
+      "definition": "The process by which plants intentionally shed leaves, petals, or fruit."
+    }
+  ]
+}

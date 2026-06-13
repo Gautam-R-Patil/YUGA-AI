@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Probability",
+    "chapter_number": 21,
+    "topic": "Basic Concepts of Probability",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:02:18.860646",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Probability. Probability is a way to measure how likely an event is to happen. We use it in many real-life situations, like predicting the weather or winning a game. \n\nFirst, let's talk about a Random Experiment. A random experiment is an action or process that leads to one of several possible outcomes. For example, tossing a coin is a random experiment. The result can be heads or tails.\n\nNext, we have Sample Space. Sample space is the set of all possible outcomes of a random experiment. If we toss a coin, the sample space is heads and tails. For a dice, the sample space is numbers 1 to 6.\n\nNow, let's understand Events. An event is a set of outcomes from the sample space. There are Simple Events and Compound Events. A simple event has only one outcome. For example, getting a 3 when you roll a dice. A compound event has more than one outcome. For example, getting an even number when you roll a dice (2, 4, or 6).\n\nWe also have Mutually Exclusive Events. These are events that cannot happen at the same time. For example, when you toss a coin, getting heads and tails at the same time is impossible.\n\nNext, we learn about the Axioms of Probability. There are three main axioms:\n1. The probability of any event is a number between 0 and 1.\n2. The probability of the sample space is 1.\n3. If two events are mutually exclusive, the probability of either event happening is the sum of their probabilities.\n\nNow, let's talk about the Probability of an Event. The formula is:\n\nP(E) = Number of favorable outcomes / Total number of outcomes\n\nFor example, if we want to find the probability of getting a 4 when rolling a dice, the probability is 1/6. \n\nHere are some common JEE Main mistakes:\n- Students often forget to count all possible outcomes in the sample space.\n- Sometimes, they do not check if events are mutually exclusive before adding probabilities.\n\nLet's look at a JEE Main level problem: What is the probability of getting a sum of 7 when rolling two dice? \n\nFirst, find all pairs that sum to 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). There are 6 favorable outcomes. The total number of outcomes when rolling two dice is 36. So, P(sum of 7) = 6/36 = 1/6.\n\nKey takeaways:\n- Always list the sample space.\n- Check if events are mutually exclusive.\n- Use the probability formula correctly.\n\nIn summary, understanding probability helps us predict outcomes. Remember the formulas and common mistakes. Practice problems to strengthen your skills. That's all for today. Keep practicing, and you will do great in JEE Main!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Probability",
+    "Random Experiment",
+    "Sample Space",
+    "Events",
+    "Mutually Exclusive"
+  ],
+  "formulas": [
+    {
+      "formula": "P(E) = Number of favorable outcomes / Total number of outcomes",
+      "description": "Used to calculate the probability of an event by dividing the number of favorable outcomes by the total number of outcomes"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Random Experiment",
+      "definition": "An action or process that leads to one of several possible outcomes"
+    },
+    {
+      "term": "Sample Space",
+      "definition": "The set of all possible outcomes of a random experiment"
+    },
+    {
+      "term": "Event",
+      "definition": "A set of outcomes from the sample space"
+    },
+    {
+      "term": "Mutually Exclusive Events",
+      "definition": "Events that cannot happen at the same time"
+    }
+  ]
+}

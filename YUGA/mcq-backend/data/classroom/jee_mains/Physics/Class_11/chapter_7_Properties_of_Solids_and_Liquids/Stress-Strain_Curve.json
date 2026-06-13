@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Properties of Solids and Liquids",
+    "chapter_number": 7,
+    "topic": "Stress-Strain Curve",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:51:03.959654",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will learn about the stress-strain curve. This is an important topic in the chapter 'Properties of Solids and Liquids.' You might remember that solids have a shape and volume. When we apply a force, they can change shape. This change is what we study with the stress-strain curve.\n\nFirst, let's understand what stress and strain mean. Stress is the force applied on an object divided by the area it is applied to. It is like pressure but for solids. Strain is the change in length divided by the original length. It's how much an object stretches or compresses.\n\nNow, the stress-strain curve shows how a material reacts to stress. The curve starts from the origin. The first part of the curve is the elastic region. Here, the material returns to its original shape when the force is removed. Think of a rubber band. You stretch it, and it goes back.\n\nNext, we have the yield point. This is where the material starts to change shape permanently. It is like bending a plastic spoon. After a point, it does not return to its original shape.\n\nThe ultimate strength is the highest point on the curve. It shows the maximum stress the material can take. Beyond this, the material starts to weaken.\n\nThen, we reach the fracture point. This is where the material breaks. Imagine pulling a wire until it snaps. That is the fracture point.\n\nThe area under the stress-strain curve tells us about the energy absorbed by the material. More area means more energy absorbed before breaking.\n\nMaterials can be ductile or brittle. Ductile materials, like copper, stretch a lot before breaking. Brittle materials, like glass, break easily without much stretching.\n\nIn JEE Main, you may need to identify these points on a curve. Remember, the elastic region is the straight line part. The curve bends at the yield point. The highest point is the ultimate strength. The end is the fracture point.\n\nCommon mistakes include confusing stress with pressure. Remember, stress is force per area for solids. Also, do not mix up yield point and ultimate strength. Yield point is where permanent change starts.\n\nKey takeaways: Know the parts of the stress-strain curve. Understand the difference between ductile and brittle materials. Practice identifying these on a graph.\n\nTo conclude, the stress-strain curve helps us understand how materials behave under force. This is useful in material science and engineering. Practice with diagrams and examples to get better at this topic.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Stress",
+    "Strain",
+    "Elastic Region",
+    "Yield Point",
+    "Ultimate Strength",
+    "Fracture Point"
+  ],
+  "formulas": [
+    {
+      "formula": "stress = force / area",
+      "description": "Used to calculate stress in a material when force and area are known"
+    },
+    {
+      "formula": "strain = change in length / original length",
+      "description": "Used to find how much a material has stretched or compressed"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Stress",
+      "definition": "The force applied per unit area on a material"
+    },
+    {
+      "term": "Strain",
+      "definition": "The change in length divided by the original length of a material"
+    },
+    {
+      "term": "Elastic Region",
+      "definition": "The part of the stress-strain curve where the material returns to its original shape after removing the force"
+    },
+    {
+      "term": "Yield Point",
+      "definition": "The point on the stress-strain curve where permanent deformation begins"
+    },
+    {
+      "term": "Ultimate Strength",
+      "definition": "The maximum stress a material can withstand on the stress-strain curve"
+    },
+    {
+      "term": "Fracture Point",
+      "definition": "The point on the stress-strain curve where the material breaks"
+    }
+  ]
+}

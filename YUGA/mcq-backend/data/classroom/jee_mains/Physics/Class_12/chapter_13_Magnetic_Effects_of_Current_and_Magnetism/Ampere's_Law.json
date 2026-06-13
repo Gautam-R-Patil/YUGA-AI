@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Magnetic Effects of Current and Magnetism",
+    "chapter_number": 13,
+    "topic": "Ampere's Law",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:57:11.108560",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Ampere's Law. This is an important topic in the chapter 'Magnetic Effects of Current and Magnetism'. Let's start with the basic idea of Ampere's Law. \n\n**Statement and Mathematical Form**\nAmpere's Law is a rule that helps us find the magnetic field created by electric currents. It says that the magnetic field around a closed loop is equal to the current passing through that loop. The mathematical form of Ampere's Law is: ∮B·dl = μ₀I. Here, B is the magnetic field, dl is a small part of the loop, μ₀ is the permeability of free space, and I is the current. \n\n**Applications of Ampere's Law**\nAmpere's Law is very useful in finding magnetic fields in simple shapes like wires, solenoids, and toroids. We use it when the magnetic field is uniform. This means the field is the same at every point on the loop. \n\n**Field Inside a Solenoid**\nA solenoid is a coil of wire. When current flows through it, it creates a magnetic field inside. The field is uniform and strong inside the solenoid. Using Ampere's Law, we find that B = μ₀nI. Here, n is the number of turns per unit length, and I is the current. Remember, outside the solenoid, the field is very weak. \n\n**Field Inside a Toroid**\nA toroid is like a solenoid bent into a circle. The magnetic field inside a toroid is also uniform. Using Ampere's Law, we find that B = (μ₀NI)/(2πr). Here, N is the total number of turns, I is the current, and r is the radius of the toroid. The field outside the toroid is zero. \n\n**Comparison with Biot-Savart Law**\nBoth Ampere's Law and Biot-Savart Law help us find magnetic fields. But they are used differently. Ampere's Law is best for simple shapes with symmetry like solenoids and toroids. Biot-Savart Law is used for more complex shapes. It calculates the field at a point due to a small current element. \n\n**Common Mistakes and Exam Traps**\nStudents often forget to consider the direction of the magnetic field. Remember, the right-hand rule helps find the direction. Another mistake is using Ampere's Law when the field is not uniform. This can give wrong answers. \n\n**Key Takeaways for Quick Revision**\n1. Ampere's Law relates magnetic field and current. \n2. Use it for uniform magnetic fields in simple shapes. \n3. Remember the formulas: B = μ₀nI for solenoids, B = (μ₀NI)/(2πr) for toroids. \n4. Compare with Biot-Savart Law for different uses. \n\n**Summary**\nIn this lesson, we learned about Ampere's Law and its applications. We saw how to use it for solenoids and toroids. We also compared it with Biot-Savart Law. Practice these concepts and formulas to do well in JEE Main. \n\nThank you, and let's continue learning and practicing!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Ampere's Law",
+    "Magnetic Field",
+    "Solenoid",
+    "Toroid",
+    "Biot-Savart Law"
+  ],
+  "formulas": [
+    {
+      "formula": "∮B·dl = μ₀I",
+      "description": "Used to find the magnetic field around a closed loop with current I."
+    },
+    {
+      "formula": "B = μ₀nI",
+      "description": "Used to calculate the magnetic field inside a solenoid."
+    },
+    {
+      "formula": "B = (μ₀NI)/(2πr)",
+      "description": "Used to calculate the magnetic field inside a toroid."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ampere's Law",
+      "definition": "A law that relates the magnetic field around a closed loop to the current passing through it."
+    },
+    {
+      "term": "Solenoid",
+      "definition": "A coil of wire that creates a uniform magnetic field when current flows through it."
+    },
+    {
+      "term": "Toroid",
+      "definition": "A solenoid shaped into a circle, creating a magnetic field inside but not outside."
+    }
+  ]
+}

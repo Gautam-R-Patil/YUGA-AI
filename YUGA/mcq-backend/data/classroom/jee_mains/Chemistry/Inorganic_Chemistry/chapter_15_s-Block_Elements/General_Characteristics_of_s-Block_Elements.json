@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "s-Block Elements",
+    "chapter_number": 15,
+    "topic": "General Characteristics of s-Block Elements",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:16:01.620768",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, everyone! Today, we will learn about the s-Block elements in Chemistry. These elements are very important for the JEE Main exam. Let's start with the basics. \n\nFirst, we will talk about the electronic configuration. Electronic configuration is the arrangement of electrons in an atom. For s-Block elements, the outermost electrons are in the 's' orbital. This means they have 1 or 2 electrons in the s-orbital. For example, Lithium (Li) has the configuration 1s² 2s¹. \n\nNext, let's discuss occurrence and abundance. s-Block elements are found in nature. They are in the Earth's crust and oceans. Sodium (Na) and Potassium (K) are common in minerals and seawater. \n\nNow, let's look at the physical properties. One important property is atomic and ionic radii. Atomic radius is the size of an atom. It increases as we move down the group. Ionic radius is the size of an ion. It also increases down the group. \n\nAnother physical property is density. Density is mass divided by volume. s-Block elements like Lithium and Sodium have low density. They are lighter than water. \n\nLet's move to chemical properties. s-Block elements react with water and oxygen. For example, Sodium reacts with water to form Sodium hydroxide and hydrogen gas. This reaction is very fast and releases heat. \n\nNow, let's discuss trends in ionization energy. Ionization energy is the energy needed to remove an electron. In s-Block, ionization energy decreases down the group. This means it is easier to remove an electron from heavier atoms. \n\nLet's compare s-Block with p-Block elements. s-Block elements are metals. They are shiny and conduct electricity. p-Block elements can be metals or non-metals. They have different properties. \n\ns-Block elements are used in industry. Sodium is used in making glass and paper. Potassium is used in fertilizers. \n\ns-Block elements are also important for life. Sodium and Potassium help in nerve function in our body. \n\nNow, let's look at some common mistakes in JEE Main. Students often confuse atomic and ionic radii. Remember, ionic radius is for ions, not atoms. Another mistake is in calculations of ionization energy. Always check units and values. \n\nIn summary, remember the key points: s-Block elements have electrons in the s-orbital, they react with water and oxygen, and they have low ionization energy. \n\nThat's all for today. Keep practicing and revising these concepts for JEE Main. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Electronic Configuration",
+    "Occurrence",
+    "Atomic Radius",
+    "Density",
+    "Ionization Energy"
+  ],
+  "formulas": [
+    {
+      "formula": "Density = Mass/Volume",
+      "description": "Used to calculate the density of s-Block elements, important for comparing with water"
+    },
+    {
+      "formula": "Na + H2O -> NaOH + H2",
+      "description": "Shows the reaction of Sodium with water, a common JEE Main question"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electronic Configuration",
+      "definition": "The arrangement of electrons in an atom's orbitals"
+    },
+    {
+      "term": "Ionization Energy",
+      "definition": "The energy required to remove an electron from an atom"
+    },
+    {
+      "term": "Atomic Radius",
+      "definition": "The size of an atom, usually measured from the nucleus to the outermost electron"
+    }
+  ]
+}

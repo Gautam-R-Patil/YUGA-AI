@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Redox Reactions",
+    "chapter_number": 7,
+    "topic": "Redox Titrations",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:08:30.776076",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about Redox Titrations. This is a part of Redox Reactions in Chemistry. First, let's understand the principle of redox titrations. In redox titrations, we measure the amount of a substance by using a redox reaction. A redox reaction involves the transfer of electrons between two substances. One substance loses electrons, and the other gains them. This helps us find the concentration of an unknown solution. \n\nNow, let's talk about common redox titrants. A titrant is a solution of known concentration. Common redox titrants include potassium permanganate (KMnO₄) and iodine (I₂). Potassium permanganate is often used because it is a strong oxidizing agent. \n\nNext, let's discuss indicators used in redox titrations. An indicator shows us when the titration is complete. For example, in a titration with potassium permanganate, the solution turns pink when the reaction is complete. This is because potassium permanganate is purple, and it changes color when it reacts. \n\nNow, let's learn how to calculate concentration from titration data. We use the formula: M₁V₁ = M₂V₂. Here, M₁ is the molarity of the titrant, V₁ is the volume of the titrant, M₂ is the molarity of the unknown solution, and V₂ is the volume of the unknown solution. This formula helps us find the concentration of the unknown solution. \n\nLet's see an example of redox titrations. Suppose we have a solution of iron sulfate (FeSO₄) and we titrate it with potassium permanganate. We can calculate the concentration of iron in the solution using the M₁V₁ = M₂V₂ formula. \n\nRedox titrations have many applications in industry. They are used to determine the concentration of chemicals in products. For example, they are used in the food industry to check the quality of food. \n\nNow, let's talk about graphical analysis of titration curves. A titration curve is a graph that shows how the concentration of a solution changes during a titration. It helps us understand the titration process better. \n\nFinally, let's discuss common errors in titration. One common mistake is not reading the burette correctly. Make sure to read the bottom of the meniscus. Another mistake is not mixing the solution well during titration. Stir the solution to ensure a proper reaction. \n\nTo summarize, redox titrations help us find the concentration of unknown solutions. We use titrants like potassium permanganate and indicators to know when the reaction is complete. Remember to use the M₁V₁ = M₂V₂ formula for calculations. Be careful to avoid common errors during titration. \n\nI hope you now have a better understanding of redox titrations. Practice these concepts, and you will do well in your JEE Main exam!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Redox Titrations",
+    "Titrant",
+    "Indicator",
+    "Concentration",
+    "Titration Curve"
+  ],
+  "formulas": [
+    {
+      "formula": "M₁V₁ = M₂V₂",
+      "description": "This formula is used to calculate the concentration of an unknown solution in redox titrations. M₁ and V₁ are the molarity and volume of the titrant, while M₂ and V₂ are the molarity and volume of the unknown solution."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Redox Reaction",
+      "definition": "A chemical reaction where electrons are transferred between two substances, causing one to oxidize and the other to reduce."
+    },
+    {
+      "term": "Titrant",
+      "definition": "A solution of known concentration used in titrations to determine the concentration of an unknown solution."
+    },
+    {
+      "term": "Indicator",
+      "definition": "A substance that changes color at the end point of a titration, signaling that the reaction is complete."
+    }
+  ]
+}

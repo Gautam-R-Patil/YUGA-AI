@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Atoms and Nuclei",
+    "chapter_number": 18,
+    "topic": "Radioactivity",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:02:04.633872",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about radioactivity. This topic is part of the chapter 'Atoms and Nuclei'. You may remember learning about atoms earlier. Atoms are the smallest units of matter. Sometimes, atoms can change to become different atoms. This change is called radioactive decay. Let's explore this more.\n\nFirst, let's talk about types of radioactive decay. There are three main types: alpha decay, beta decay, and gamma decay. In alpha decay, an atom loses two protons and two neutrons. This is like losing a small piece of itself. In beta decay, a neutron changes into a proton or vice versa. This releases a small particle called a beta particle. Gamma decay is different. It releases energy as gamma rays but does not change the number of protons or neutrons.\n\nNow, let's discuss the half-life. Half-life is the time it takes for half of a radioactive substance to decay. If you start with 100 grams, after one half-life, you have 50 grams left. After two half-lives, you have 25 grams left. The formula for half-life is T = 0.693/λ, where λ is the decay constant.\n\nThe decay constant, λ, is a measure of how quickly a substance decays. A larger decay constant means the substance decays faster. The relationship between the number of atoms remaining and time is given by N = N0 * e^(-λt), where N0 is the initial number of atoms and t is time.\n\nNext, we have radioactive series. A radioactive series is a sequence of decays that certain radioactive elements go through. This is like a family tree of decays. Each decay produces a new element until a stable one is formed.\n\nRadioactivity has many applications. For example, it is used in medicine to treat cancer. It is also used in carbon dating to find the age of old objects. However, radioactivity can be harmful. It can cause damage to living cells and lead to diseases like cancer.\n\nNow, let's solve a simple problem. If a radioactive substance has a half-life of 10 years, how much of a 100 gram sample remains after 30 years? After the first 10 years, 50 grams remain. After 20 years, 25 grams remain. After 30 years, 12.5 grams remain.\n\nA common mistake in JEE Main is confusing half-life and total decay time. Remember, half-life is just the time for half to decay, not all of it. Also, be careful with units when using formulas.\n\nIn summary, remember the key concepts: types of decay, half-life, decay constant, and radioactive series. These are crucial for solving problems in exams.\n\nThank you for listening. Practice these concepts and you will do well in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Radioactivity",
+    "Half-life",
+    "Decay Constant",
+    "Radioactive Series",
+    "Applications"
+  ],
+  "formulas": [
+    {
+      "formula": "T = 0.693/λ",
+      "description": "This formula is used to calculate the half-life of a substance."
+    },
+    {
+      "formula": "N = N0 * e^(-λt)",
+      "description": "This formula helps find the number of atoms left after time t."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Radioactive Decay",
+      "definition": "The process by which an unstable atom loses energy by emitting radiation."
+    },
+    {
+      "term": "Half-life",
+      "definition": "The time required for half of a radioactive substance to decay."
+    },
+    {
+      "term": "Decay Constant",
+      "definition": "A value that represents the rate of decay of a radioactive substance."
+    }
+  ]
+}

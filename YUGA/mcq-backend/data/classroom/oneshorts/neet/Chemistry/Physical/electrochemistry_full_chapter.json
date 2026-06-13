@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Electrochemistry",
+    "chapter_number": "12",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:21:22.355174",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts: Electrochemistry. This chapter is centered on the study of chemical processes that cause electrons to move, creating electricity. It's crucial for understanding how batteries work and forms the basis of electrochemical cells.\n\nElectrochemistry involves redox reactions where oxidation and reduction happen simultaneously. The two main types of electrochemical cells are galvanic (or voltaic) cells, which generate electrical energy from chemical reactions, and electrolytic cells, which drive non-spontaneous reactions using electrical energy.\n\nKey point: In a galvanic cell, the anode is negative, and the cathode is positive. In contrast, in an electrolytic cell, the anode is positive, and the cathode is negative.\n\nThe electrode potential, represented as E\u00b0, measures how strongly an electrode attracts electrons. Knowing the standard electrode potential helps predict the direction of the redox reaction.\n\nNEET often questions the understanding of Nernst Equation: E = E\u00b0 - (RT/nF)lnQ, which calculates the cell potential under non-standard conditions.\n\nRemember, Faraday's laws of electrolysis help to quantify the amount of substance liberated at each electrode.\n\nHow NEET asks questions: Key focus areas include the calculation of cell potential, understanding galvanic vs. electrolytic cells, and applications of Nernst Equation and Faraday's laws.\n\nQuick Revision Summary:\n1. Electrochemical cells convert chemical energy to electrical energy or vice versa.\n2. Galvanic cells: Anode (-), Cathode (+); Electrolytic cells: Anode (+), Cathode (-).\n3. Standard electrode potential predicts the feasibility of reaction.\n4. Nernst Equation adjusts cell potential for non-standard conditions.\n5. Faraday's laws quantify substances produced in electrolysis.\n6. Focus on electrode potential calculations and understanding cell types.",
+  "duration_minutes": "10",
+  "difficulty_level": "Intermediate",
+  "images": [],
+  "keywords": [
+    "Electrochemistry",
+    "Galvanic cell",
+    "Electrolytic cell",
+    "Redox reactions",
+    "Oxidation",
+    "Reduction",
+    "Electrode potential",
+    "Nernst Equation",
+    "Faraday's laws",
+    "Cell potential"
+  ],
+  "formulas": [
+    "E = E\u00b0 - (RT/nF)lnQ"
+  ],
+  "definitions": [
+    {
+      "term": "Electrochemistry",
+      "definition": "Branch of chemistry that deals with the relationship between electrical energy and chemical changes."
+    },
+    {
+      "term": "Galvanic cell",
+      "definition": "An electrochemical cell that converts chemical energy into electrical energy through spontaneous redox reactions."
+    },
+    {
+      "term": "Electrolytic cell",
+      "definition": "A cell that uses electrical energy to drive non-spontaneous chemical reactions."
+    },
+    {
+      "term": "Redox reactions",
+      "definition": "Chemical reactions involving the transfer of electrons between two species."
+    },
+    {
+      "term": "Oxidation",
+      "definition": "Process in a chemical reaction where a molecule loses electrons."
+    },
+    {
+      "term": "Reduction",
+      "definition": "Process in a chemical reaction where a molecule gains electrons."
+    },
+    {
+      "term": "Electrode potential",
+      "definition": "The measure of the potential difference between a metallic electrode and its ions in solution."
+    },
+    {
+      "term": "Nernst Equation",
+      "definition": "Formula used to calculate the cell potential of an electrochemical cell at any given set of conditions."
+    },
+    {
+      "term": "Faraday's laws",
+      "definition": "Laws that quantify the amount of substance produced or consumed in electrochemical reactions during electrolysis."
+    },
+    {
+      "term": "Cell potential",
+      "definition": "The difference in potential between two electrodes of an electrochemical cell."
+    }
+  ]
+}

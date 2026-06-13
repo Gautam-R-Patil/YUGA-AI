@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "p-Block Elements (Class 12)",
+    "chapter_number": "17",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:23:01.547712",
+    "model_used": "gpt-4o",
+    "category": "Inorganic"
+  },
+  "lecture_script": "Let\u2019s quickly revise the major topics of p-Block Elements focusing on Groups 15 to 18, key for NEET. Starting with Group 15, known as the Nitrogen family, which includes Nitrogen (N), Phosphorus (P), Arsenic (As), Antimony (Sb), and Bismuth (Bi). As we move down the group, electronegativity decreases, and metallic character increases. Nitrogen exhibits multiple oxidation states (-3 to +5) and forms compounds such as NH\u2083 and NOx.\n\nMoving to Group 16, the Oxygen family, encompassing Oxygen (O), Sulfur (S), Selenium (Se), Tellurium (Te), and Polonium (Po). Key molecules include O\u2082 and H\u2082O. Oxidation states vary from -2 to +6, with oxygen being the most electronegative and forming oxides and peroxides.\n\nGroup 17, the Halogens, consists of Fluorine (F), Chlorine (Cl), Bromine (Br), Iodine (I), and Astatine (At). Highly reactive, they exist predominantly as diatomic molecules (e.g., Cl\u2082, Br\u2082) and exhibit the oxidation states of -1 as common, forming halides.\n\nFinally, Group 18, Noble Gases, includes Helium (He), Neon (Ne), Argon (Ar), Krypton (Kr), Xenon (Xe), and Radon (Rn). They are chemically inert due to their complete valence electron shells and have low reactivity. Xenon, however, can form compounds like XeF\u2084.\n\nKey Formula: For NEET, focus on configuration: Valence shell electron configuration is ns\u00b2np1-6 for p-block elements. Bond angle, acidic or basic nature, and hybridization are often featured in questions.\n\nNEET often asks about: - Trends in electronegativity, ionization energy across groups. - Specific reactions of elements, such as the nitrogen cycle, preparation, and properties of H\u2082SO\u2084 or halogens.\n\nQuick Revision: 1. Group 15 - Variable oxidation states, high nitrogen reactivity. 2. Group 16 - High oxidation states, vital compounds: O2, H2O. 3. Group 17 - Known for reactivity, diatomic formations, potent oxidizers. 4. Group 18 - Usually inert, with some compound formation like XeF4. 5. Trends: Ionization energy decreases, polarizability increases down the groups. Focus on these key points.",
+  "duration_minutes": "10",
+  "difficulty_level": "Intermediate",
+  "images": [
+    "P-Block Periodic Table Trend Diagram",
+    "Group Specific Elemental Structures"
+  ],
+  "keywords": [
+    "Electronegativity",
+    "Oxidation States",
+    "Nitrogen Family",
+    "Oxygen Family",
+    "Halogens",
+    "Noble Gases",
+    "Ionization Energy",
+    "Reactivity",
+    "Hybridization",
+    "Diatomic Molecules"
+  ],
+  "formulas": [
+    "Valence shell electron configuration formula: ns^{2}np^{1-6}"
+  ],
+  "definitions": [
+    {
+      "term": "Electronegativity",
+      "definition": "A measure of the tendency of an atom to attract a bonding pair of electrons."
+    },
+    {
+      "term": "Oxidation States",
+      "definition": "The degrees of oxidation or loss of electrons of an element in a compound."
+    },
+    {
+      "term": "Nitrogen Family",
+      "definition": "Group 15 elements including N, P, As, Sb, and Bi, known for variable oxidation states."
+    },
+    {
+      "term": "Oxygen Family",
+      "definition": "Group 16 elements comprising O, S, Se, Te, and Po, with high oxidation states."
+    },
+    {
+      "term": "Halogens",
+      "definition": "Reactive nonmetal elements of Group 17 characterized by diatomic molecular forms."
+    },
+    {
+      "term": "Noble Gases",
+      "definition": "Group 18 inert gases with complete valence electron shells, historically nonreactive."
+    },
+    {
+      "term": "Ionization Energy",
+      "definition": "The energy required to remove an electron from a gaseous atom or ion."
+    },
+    {
+      "term": "Reactivity",
+      "definition": "The propensity of a substance to undergo chemical reaction, either by itself or with other materials."
+    },
+    {
+      "term": "Hybridization",
+      "definition": "Mixing of atomic orbitals to create new hybrid orbitals suitable for pairing."
+    },
+    {
+      "term": "Diatomic Molecules",
+      "definition": "Molecules made up of two atoms, either of the same or different chemical elements."
+    }
+  ]
+}

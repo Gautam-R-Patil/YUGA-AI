@@ -1,0 +1,16 @@
+--- Test: Double substitution prevention ---
+Original text: A particle of mass M
+Processed text: A particle of mass M
+
+--- Test: Explicit lowercase m mapping ---
+Original text: A particle of mass M
+Processed text: A particle of mass m
+
+--- Test: Case sensitivity ---
+Original text: Mass M and meter m
+Processed text: Mass mass and meter meters
+
+--- Test: Full sentence with corrected keywords ---
+Original text: A particle of mass M is situated at the centre of a spherical shell of same mass and radius a.
+Processed text: A particle of mass m is situated at the centre of radius of the shell spherical shell of same mass and radius radius of the shell.
+

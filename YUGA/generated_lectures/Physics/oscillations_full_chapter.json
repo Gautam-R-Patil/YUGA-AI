@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Oscillations",
+    "chapter_number": "14",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:12:45.829759",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: Simple Harmonic Motion (SHM). SHM is a type of periodic motion where the restoring force is directly proportional to the displacement and acts in the direction opposite to the displacement.\n\n### Simple Harmonic Motion (SHM) Explanation:\nWhen an object like a pendulum or spring oscillates between two positions due to a restoring force that acts in the opposite direction, we call it Simple Harmonic Motion. It's characterized by its sinusoidal nature.\n\n**Key Idea**: SHM occurs when there's a force proportional to displacement: F = -kx.\n\n#### Key Formula/Idea:\n1. **Displacement in SHM**: x(t) = A sin(\u03c9t + \u03c6), where A = amplitude, \u03c9 = angular frequency, \u03c6 = phase constant.\n2. **Velocity in SHM**: v = dx/dt = A\u03c9 cos(\u03c9t + \u03c6).\n3. **Acceleration in SHM**: a = d\u00b2x/dt\u00b2 = -A\u03c9\u00b2 sin(\u03c9t + \u03c6).\n4. **Time Period**: T = 2\u03c0/\u03c9.\n5. **Energy**: Total Energy (E) = 1/2 kA\u00b2 where k is the spring constant.\n\n### Energy in SHM Explanation:\nIn SHM, energy oscillates between potential energy and kinetic energy but the total energy remains constant.\n\n**Key Idea**: \n- **Kinetic Energy (KE)**: Maximum at equilibrium position, KE = 1/2 m(v\u00b2).\n- **Potential Energy (PE)**: Maximum at extreme positions, PE = 1/2 kx\u00b2.\n- **Total Energy**: E = KE + PE = constant.\n\n### NEET Question Pattern:\nNEET often asks for the calculation of time periods, identifying maximum velocity or acceleration, determining total energy in SHM, or conceptual questions on how changes in mass or spring constant affect the SHM.\n\n### Quick Revision Points:\n1. In SHM, restoring force (F = -kx) is proportional to displacement and acts in the opposite direction.\n2. Energy in SHM oscillates between kinetic and potential, but E = constant.\n3. Kinetic energy is highest at equilibrium, and potential at extremities.\n4. Key formulas involve displacement, velocity, acceleration, and energy.\n5. Know the basic sinusoidal nature of displacement in SHM: x(t) = A sin(\u03c9t + \u03c6).\n\nRemember, the understanding of the sinusoidal function and energy transformation is vital for solving NEET problems in oscillations. Stay focused and practice applying these formulas to different scenarios to master Oscillations!",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Oscillations",
+    "Simple Harmonic Motion",
+    "Restoring Force",
+    "Displacement",
+    "Angular Frequency",
+    "Kinetic Energy",
+    "Potential Energy",
+    "Amplitude",
+    "Phase Constant",
+    "Time Period"
+  ],
+  "formulas": [
+    "F = -kx",
+    "x(t) = A \\sin(\\omega t + \\phi)",
+    "v = A\\omega \\cos(\\omega t + \\phi)",
+    "a = -A\\omega^2 \\sin(\\omega t + \\phi)",
+    "T = \\frac{2\\pi}{\\omega}",
+    "E = \\frac{1}{2}kA^2"
+  ],
+  "definitions": [
+    {
+      "term": "Oscillations",
+      "definition": "Repetitive variations around a central value or between two or more different states, often in a mechanical system."
+    },
+    {
+      "term": "Simple Harmonic Motion",
+      "definition": "A type of periodic motion where the restoring force is directly proportional to the displacement and acts in the opposite direction."
+    },
+    {
+      "term": "Restoring Force",
+      "definition": "A force that gives rise to an equilibrium in a physical system, opposing displacement."
+    },
+    {
+      "term": "Displacement",
+      "definition": "The vector that denotes the change in position of a point from an initial to a final position."
+    },
+    {
+      "term": "Angular Frequency",
+      "definition": "A scalar measure of rotation rate, which specifies how many radians are covered per unit time in oscillatory or circular motion."
+    },
+    {
+      "term": "Kinetic Energy",
+      "definition": "The energy of an object due to its motion, given by 1/2 mv\u00b2."
+    },
+    {
+      "term": "Potential Energy",
+      "definition": "The energy held by an object because of its position relative to other objects, generally within a gravitational or elastic field."
+    },
+    {
+      "term": "Amplitude",
+      "definition": "The maximum extent of a vibration or oscillation measured from the position of equilibrium."
+    },
+    {
+      "term": "Phase Constant",
+      "definition": "A value that represents the initial angle at t = 0 in the sinusoidal function of SHM."
+    },
+    {
+      "term": "Time Period",
+      "definition": "The duration of time one complete cycle of motion or oscillation takes to occur."
+    }
+  ]
+}

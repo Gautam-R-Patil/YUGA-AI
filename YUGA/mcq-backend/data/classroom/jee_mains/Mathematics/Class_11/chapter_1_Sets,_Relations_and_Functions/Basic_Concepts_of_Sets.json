@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Sets, Relations and Functions",
+    "chapter_number": 1,
+    "topic": "Basic Concepts of Sets",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:43:15.788538",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about sets. Sets are a basic concept in mathematics. A set is a collection of objects. These objects are called elements. For example, a set of vowels is {a, e, i, o, u}. Now, let's discuss types of sets. A finite set has a countable number of elements. For example, {1, 2, 3} is finite. An infinite set has uncountable elements. Like the set of all natural numbers. Equal sets have the same elements. For example, {1, 2, 3} and {3, 2, 1} are equal. A subset is a set where all elements are in another set. If A = {1, 2} and B = {1, 2, 3}, then A is a subset of B.\n\nNext, let's learn about the power set. A power set is a set of all subsets of a set. If A = {1, 2}, the power set of A is {∅, {1}, {2}, {1, 2}}. The universal set contains all objects in a discussion. If we talk about numbers, the universal set can be all integers. Venn diagrams help us visualize sets. They use circles to show relationships between sets.\n\nNow, let's explore operations on sets. The union of two sets A and B is a set containing all elements of A or B. The symbol is ∪. For example, if A = {1, 2} and B = {2, 3}, A ∪ B = {1, 2, 3}. The intersection of two sets A and B is a set with elements common to both. The symbol is ∩. For A = {1, 2} and B = {2, 3}, A ∩ B = {2}. The difference of two sets A and B is a set with elements in A but not in B. The symbol is \\. For A = {1, 2} and B = {2, 3}, A \\ B = {1}.\n\nThe complement of a set A is all elements not in A. If the universal set U = {1, 2, 3, 4} and A = {1, 2}, then the complement of A, denoted A', is {3, 4}. De Morgan's laws help us with complements. The first law states that the complement of the union is the intersection of complements: (A ∪ B)' = A' ∩ B'. The second law states that the complement of the intersection is the union of complements: (A ∩ B)' = A' ∪ B'.\n\nLet's solve a problem. If A = {2, 4, 6} and B = {4, 6, 8}, find A ∪ B and A ∩ B. A ∪ B = {2, 4, 6, 8}. A ∩ B = {4, 6}. Remember, in exams, check if elements repeat. Common mistake: forgetting to count repeated elements only once in union.\n\nKey takeaways: Sets are collections of elements. Know the types of sets and operations like union and intersection. Use Venn diagrams to help visualize. Remember De Morgan's laws for complements. Practice problems to avoid common mistakes.\n\nIn summary, sets are fundamental in mathematics. Understanding them helps in solving various problems. Practice these concepts regularly to prepare well for JEE Main. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Set",
+    "Subset",
+    "Union",
+    "Intersection",
+    "Complement"
+  ],
+  "formulas": [
+    {
+      "formula": "A ∪ B",
+      "description": "Union of sets A and B, used to combine all elements from both sets"
+    },
+    {
+      "formula": "A ∩ B",
+      "description": "Intersection of sets A and B, used to find common elements"
+    },
+    {
+      "formula": "A \\ B",
+      "description": "Difference of sets A and B, used to find elements in A not in B"
+    },
+    {
+      "formula": "A'",
+      "description": "Complement of set A, used to find elements not in A"
+    },
+    {
+      "formula": "(A ∪ B)' = A' ∩ B'",
+      "description": "De Morgan's first law, used for complements of unions"
+    },
+    {
+      "formula": "(A ∩ B)' = A' ∪ B'",
+      "description": "De Morgan's second law, used for complements of intersections"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Set",
+      "definition": "A collection of distinct objects, considered as an object in its own right"
+    },
+    {
+      "term": "Finite Set",
+      "definition": "A set with a limited number of elements"
+    },
+    {
+      "term": "Infinite Set",
+      "definition": "A set with unlimited, uncountable elements"
+    },
+    {
+      "term": "Subset",
+      "definition": "A set where all elements are contained within another set"
+    },
+    {
+      "term": "Power Set",
+      "definition": "A set of all subsets of a set"
+    },
+    {
+      "term": "Universal Set",
+      "definition": "A set that contains all objects under consideration"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Work, Energy and Power",
+    "chapter_number": 6,
+    "topic": "Work",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:52:37.805057",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about 'Work' in physics. This is a very important topic, and it often comes in exams like NEET. Let's start by understanding what 'Work' means in physics. \n\nFirst, let's define work. In physics, work is done when a force moves an object. If you push a box and it moves, you are doing work. But if the box does not move, no work is done, even if you push hard.\n\nNow, how do we calculate work? The formula to calculate work is: Work = Force × Distance. Here, force is the push or pull on an object, and distance is how far the object moves in the direction of the force.\n\nLet's talk about work done by a constant force. When the force is constant, and the object moves in a straight line, we use the simple formula: Work = F × d × cos(θ). Here, F is the force, d is the distance, and θ (theta) is the angle between the force and the direction of movement.\n\nA common mistake is to forget the angle θ. Remember, if the angle is 0 degrees, cos(θ) is 1, so the formula becomes Work = F × d.\n\nNow, what about work done by a variable force? If the force changes, we need to use calculus, but for now, just remember that we calculate the area under the force vs. distance graph.\n\nLet's see some examples. If you lift a 10 kg box up 2 meters, the work done is Force (weight) × Distance. The weight is mass × gravity, so it is 10 kg × 9.8 m/s² = 98 N. Work done is 98 N × 2 m = 196 Joules.\n\nAnother example is pushing a car. If you push a car with a force of 100 N for 5 meters, the work done is 100 N × 5 m = 500 Joules.\n\nNow, let's talk about the graphical representation of work. We can show work on a graph with force on the y-axis and distance on the x-axis. The area under the curve represents the work done. If the force is constant, the graph is a rectangle.\n\nKey points to remember: Work is only done when the object moves. The direction of the force matters. Always consider the angle between force and movement.\n\nIn conclusion, work is a measure of energy transfer when a force moves an object. Understanding this helps solve many physics problems, especially in exams like NEET. Remember to practice calculating work with different forces and angles.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Work",
+    "Force",
+    "Distance",
+    "Constant force",
+    "Variable force"
+  ],
+  "formulas": [
+    {
+      "formula": "Work = Force × Distance",
+      "description": "Basic formula to calculate work done when force and distance are known"
+    },
+    {
+      "formula": "Work = F × d × cos(θ)",
+      "description": "Formula for calculating work when force is applied at an angle θ"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Work",
+      "definition": "Work is done when a force causes an object to move in the direction of the force."
+    },
+    {
+      "term": "Force",
+      "definition": "A push or pull on an object that can cause it to move."
+    },
+    {
+      "term": "Distance",
+      "definition": "The length of the path over which the force is applied."
+    }
+  ]
+}

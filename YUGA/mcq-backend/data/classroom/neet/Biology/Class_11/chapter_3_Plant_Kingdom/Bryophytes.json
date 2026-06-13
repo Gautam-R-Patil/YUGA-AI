@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Plant Kingdom",
+    "chapter_number": 3,
+    "topic": "Bryophytes",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:34:08.730402",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about bryophytes. Bryophytes are simple plants. They do not have special tubes to carry water, like other plants. This means they are non-vascular. Because of this, they usually live in moist places. Moist means wet or damp. \n\nNow, let's see some examples of bryophytes. Mosses and liverworts are common bryophytes. You might have seen mosses on rocks or walls. They look like green carpets. Liverworts are also small and green. They grow flat on the ground or on rocks. \n\nBryophytes have a unique way of growing. They show something called 'alternation of generations'. This means they have two stages in their life cycle. One stage is called the gametophyte stage. Here, they produce special cells called gametes. The other stage is the sporophyte stage. In this stage, they produce spores. Spores help them spread and grow new plants. \n\nLet's talk about their role in nature. Bryophytes help in soil formation. They break down rocks and make soil. This is important for other plants to grow. They also help keep the ecosystem stable. This means they help maintain balance in nature. \n\nBryophytes are also useful for humans. Peat moss is a type of bryophyte. It is used in horticulture. Horticulture is the growing of plants. Peat moss helps soil hold water. This is good for plant growth. \n\nNow, here are some key points to remember. Bryophytes are non-vascular plants. They need moist habitats. Mosses and liverworts are examples. They have alternation of generations. They play a role in soil formation and ecosystem stability. Peat moss is important in horticulture. \n\nIn summary, bryophytes are simple but important plants. They help nature and humans in many ways. Remember these points for your exams. Thank you, and keep studying!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Bryophytes",
+    "Non-vascular",
+    "Moist habitats",
+    "Mosses",
+    "Liverworts",
+    "Alternation of generations",
+    "Soil formation",
+    "Ecosystem stability",
+    "Peat moss",
+    "Horticulture"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Bryophytes",
+      "definition": "Simple plants that do not have tubes to carry water."
+    },
+    {
+      "term": "Non-vascular",
+      "definition": "Plants that do not have special tubes to carry water and nutrients."
+    },
+    {
+      "term": "Alternation of generations",
+      "definition": "A life cycle with two stages: gametophyte and sporophyte."
+    },
+    {
+      "term": "Gametophyte",
+      "definition": "The stage in a plant's life cycle that produces gametes."
+    },
+    {
+      "term": "Sporophyte",
+      "definition": "The stage in a plant's life cycle that produces spores."
+    }
+  ]
+}

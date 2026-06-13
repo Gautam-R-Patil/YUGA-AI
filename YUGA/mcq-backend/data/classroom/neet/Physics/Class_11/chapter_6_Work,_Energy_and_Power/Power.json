@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Work, Energy and Power",
+    "chapter_number": 6,
+    "topic": "Power",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:53:13.028624",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will talk about power in physics. Power is an important concept in both physics and engineering. It helps us understand how quickly work is done. Let's start by defining power. \n\nPower is the rate at which work is done or energy is transferred. In simple words, it tells us how fast work is being done. If you do more work in less time, you have more power. \n\nThe formula to calculate power is P = W/t. Here, P stands for power, W stands for work done, and t stands for time taken. So, power is equal to work divided by time.\n\nNow, let's talk about the units of power. The standard unit of power is the watt. One watt is equal to one joule of work done in one second. Sometimes, we use kilowatts. One kilowatt is equal to 1000 watts. In some cases, we also use horsepower. One horsepower is about 746 watts.\n\nLet's look at an example. If a machine does 1000 joules of work in 10 seconds, what is its power? Using the formula P = W/t, we have P = 1000 J / 10 s = 100 watts. So, the machine's power is 100 watts.\n\nPower is seen in many mechanical systems. Think about a car engine. A powerful engine can make the car go faster. This is because it does more work in less time. Another example is a light bulb. A 60-watt bulb uses more power than a 40-watt bulb. This is why it shines brighter.\n\nIn engineering, power is very important. Engineers need to know how much power machines use. This helps them design better machines. For example, knowing the power of a motor helps in choosing the right size for a machine.\n\nLet's solve a problem. If a motor does 3000 joules of work in 5 seconds, what is its power? Using the formula P = W/t, we get P = 3000 J / 5 s = 600 watts.\n\nA common mistake is confusing power with energy. Remember, power is about how fast work is done, not just the amount of work. Also, make sure to use the correct units. Watts for power, joules for work, and seconds for time.\n\nTo sum up, power is the rate of doing work. We measure it in watts. It's important in both physics and engineering. Always use the formula P = W/t to find power. And remember, power tells us how fast work is done.\n\nThat's all for today. Keep practicing and you'll understand power better. Thank you for listening!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Power",
+    "Watt",
+    "Kilowatt",
+    "Horsepower",
+    "Mechanical systems"
+  ],
+  "formulas": [
+    {
+      "formula": "P = W/t",
+      "description": "Power (P) is equal to work done (W) divided by time taken (t)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Power",
+      "definition": "The rate at which work is done or energy is transferred"
+    },
+    {
+      "term": "Watt",
+      "definition": "The unit of power, equal to one joule per second"
+    },
+    {
+      "term": "Kilowatt",
+      "definition": "A unit of power equal to 1000 watts"
+    },
+    {
+      "term": "Horsepower",
+      "definition": "A unit of power equal to about 746 watts"
+    }
+  ]
+}

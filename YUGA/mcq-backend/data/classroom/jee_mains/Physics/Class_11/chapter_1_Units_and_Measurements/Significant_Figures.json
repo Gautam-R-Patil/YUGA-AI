@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Units and Measurements",
+    "chapter_number": 1,
+    "topic": "Significant Figures",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:47:01.712309",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about Significant Figures. This topic is very important for JEE Main. Let's start by understanding what significant figures are. Significant figures are the digits in a number that are meaningful in terms of accuracy or precision. They show how precise a measurement is. For example, if you measure a length as 12.34 cm, all four digits are significant. \n\nNow, why are significant figures important? They help us know how accurate our measurements and calculations are. In JEE Main, using the correct number of significant figures can affect your final answer. \n\nLet's learn the rules for counting significant figures. Rule one: All non-zero digits are significant. For example, in 123, all three digits are significant. Rule two: Any zeros between two significant digits are also significant. For example, in 102, all three digits are significant. Rule three: Leading zeros are not significant. For example, in 0.0025, only the 2 and 5 are significant. Rule four: Trailing zeros in a number with a decimal point are significant. For example, in 2.300, all four digits are significant. \n\nNext, let's see how significant figures work in addition and subtraction. When you add or subtract numbers, the answer should have the same number of decimal places as the number with the least decimal places. For example, if you add 12.11 and 3.4, your answer should be 15.5, not 15.51. \n\nIn multiplication and division, the number of significant figures in the result should be the same as the number with the least significant figures. For example, if you multiply 2.3 (2 significant figures) by 3.45 (3 significant figures), your answer should have 2 significant figures, like 7.9. \n\nRounding off is important when dealing with significant figures. If the digit after the last significant figure is 5 or more, you round up. If it's less than 5, you round down. For example, if you have 2.346 and need two significant figures, it becomes 2.3. \n\nScientific notation is a way to express very large or small numbers. It also helps with significant figures. For example, 0.00056 can be written as 5.6 x 10^-4. Here, 5.6 has two significant figures. \n\nLet's look at some practical examples. If you measure a table as 1.23 meters using a ruler, all three digits are significant. If you use a more precise tool and measure 1.234 meters, now you have four significant figures. \n\nBe careful with common mistakes in JEE Main. One mistake is not counting significant figures correctly, especially with zeros. Another mistake is rounding off incorrectly. Always double-check your answers. \n\nKey takeaways: Remember the rules for counting significant figures. Use the correct number of significant figures in your calculations. Round off carefully. Practice with different numbers to get confident. \n\nIn summary, significant figures are important for precision in measurements and calculations. They help you get the right answer in exams like JEE Main. Keep practicing, and you'll do great!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Significant Figures",
+    "Precision",
+    "Rounding Off",
+    "Scientific Notation",
+    "Measurement"
+  ],
+  "formulas": [
+    {
+      "formula": "N = a x 10^b",
+      "description": "Scientific notation where N is the number, a is a number with significant figures, and b is the exponent"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Significant Figures",
+      "definition": "Digits in a number that contribute to its precision"
+    }
+  ]
+}

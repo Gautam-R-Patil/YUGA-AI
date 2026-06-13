@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Chemistry in Everyday Life",
+    "chapter_number": 29,
+    "topic": "Therapeutic Action of Different Classes of Drugs",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:31:19.365231",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the therapeutic action of different classes of drugs. This is an important topic in Chemistry in Everyday Life. Let's start with Antacids. Antacids help reduce stomach acid. They give relief from heartburn. Common antacids are magnesium hydroxide and aluminum hydroxide. These substances neutralize stomach acid. For example, if you feel a burning sensation in your chest, an antacid can help. \n\nNext, we have Antihistamines. These drugs help with allergies. When you have an allergy, your body releases a chemical called histamine. Histamines cause sneezing and itching. Antihistamines block histamines. This stops the allergic reactions. A common antihistamine is cetirizine. \n\nLet's talk about Analgesics now. Analgesics relieve pain. There are two types: non-narcotic and narcotic. Non-narcotic analgesics like aspirin are used for mild pain. Narcotic analgesics like morphine are used for severe pain. If you have a headache, you might take aspirin. \n\nMoving on to Antimicrobials. These drugs kill or stop the growth of microbes. Microbes are tiny organisms like bacteria. Antimicrobials include antibiotics, antifungals, and antivirals. Antibiotics like penicillin kill bacteria. Antifungals treat fungal infections. Antivirals are for viral infections. \n\nNow, let's discuss Antiseptics and Disinfectants. Both kill microbes, but they are used differently. Antiseptics are used on living tissues like cuts. Disinfectants are used on non-living surfaces like floors. Alcohol is a common antiseptic. Bleach is a common disinfectant. \n\nWhat about Antifertility Drugs? These drugs prevent pregnancy. They are also called birth control pills. They work by stopping ovulation. Ovulation is the release of an egg from the ovary. Without ovulation, pregnancy cannot occur. \n\nNext, we have Tranquilizers. These drugs calm the mind. They are used to treat anxiety and stress. Diazepam is a common tranquilizer. It helps you feel relaxed. \n\nLastly, let's cover Antidepressants. These drugs treat depression. Depression is a mood disorder. Antidepressants balance chemicals in the brain. This improves mood and feelings. A common antidepressant is fluoxetine. \n\nNow, let's summarize. We learned about various drugs and their uses. Antacids neutralize stomach acid. Antihistamines block histamines. Analgesics relieve pain. Antimicrobials kill microbes. Antiseptics are for living tissues, and disinfectants are for surfaces. Antifertility drugs prevent pregnancy. Tranquilizers calm the mind. Antidepressants treat depression. \n\nRemember, drugs can have side effects. Always use them carefully. In exams, be clear about each drug's function. A common mistake is confusing antiseptics with disinfectants. \n\nThat's all for today. Keep revising and practicing. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Antacids",
+    "Antihistamines",
+    "Analgesics",
+    "Antimicrobials",
+    "Antidepressants"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Antacid",
+      "definition": "A substance that neutralizes stomach acid to relieve heartburn."
+    },
+    {
+      "term": "Antihistamine",
+      "definition": "A drug that blocks histamines to prevent allergic reactions."
+    },
+    {
+      "term": "Analgesic",
+      "definition": "A drug that relieves pain."
+    },
+    {
+      "term": "Antimicrobial",
+      "definition": "A drug that kills or stops the growth of microbes."
+    },
+    {
+      "term": "Antiseptic",
+      "definition": "A substance that kills microbes on living tissues."
+    }
+  ]
+}

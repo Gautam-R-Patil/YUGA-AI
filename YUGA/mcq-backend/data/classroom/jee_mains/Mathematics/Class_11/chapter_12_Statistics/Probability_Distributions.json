@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Statistics",
+    "chapter_number": 12,
+    "topic": "Probability Distributions",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:55:45.452829",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about probability distributions in statistics. This is important for JEE Main. Let's start with discrete probability distributions. Discrete means separate or distinct. A discrete probability distribution shows probabilities of outcomes of a random variable. A random variable is a variable whose value depends on the outcome of a random event. For example, rolling a dice. The probability of each side is 1/6. This is a discrete distribution.\n\nNext, we have continuous probability distributions. Continuous means it can take any value in a range. A continuous probability distribution shows probabilities for a continuous random variable. An example is the height of students in a class. We use a curve called a probability density function (PDF) to show this.\n\nNow, let's talk about the binomial distribution. It is a type of discrete distribution. It is used when there are two possible outcomes, like success or failure. The formula is P(X=k) = (nCk) * p^k * (1-p)^(n-k). Here, n is the number of trials, k is the number of successes, p is the probability of success, and nCk is the combination formula. This formula is used in JEE Main when you have questions about repeated trials.\n\nNext, the normal distribution. It is a continuous distribution. It is symmetric and bell-shaped. The mean, median, and mode are all equal. Most values are close to the mean. The formula for the normal distribution is f(x) = (1/(σ√(2π))) * e^(-(x-μ)^2/(2σ^2)). Here, μ is the mean and σ is the standard deviation. This is used in JEE Main to find probabilities for continuous variables.\n\nProperties of normal distribution are important. It is symmetric around the mean. About 68% of data falls within one standard deviation from the mean. About 95% falls within two standard deviations. And 99.7% falls within three standard deviations. This is called the 68-95-99.7 rule.\n\nNow, let's see some real-world applications. Normal distribution is used in quality control and finance. For example, it helps in predicting stock prices.\n\nThe standard normal distribution is a special case. It has a mean of 0 and a standard deviation of 1. We use Z-scores to convert any normal distribution to a standard normal distribution. The formula is Z = (X - μ) / σ. This helps in comparing different data sets.\n\nThe central limit theorem is very important. It states that the mean of a large number of samples is normally distributed. This is true even if the original variables are not normal. This helps in inferential statistics.\n\nLet's go over some common mistakes in JEE Main. Do not confuse discrete with continuous distributions. Always check if the problem asks for exact probabilities or ranges. Use the correct formula for binomial or normal distributions.\n\nKey takeaways: Discrete distributions are for separate outcomes. Continuous distributions are for any value in a range. Binomial and normal distributions are very important. Remember the formulas and when to use them.\n\nIn summary, probability distributions help us understand random variables. They are crucial for solving problems in JEE Main. Practice these concepts and formulas to do well in the exam.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Probability Distribution",
+    "Discrete",
+    "Continuous",
+    "Binomial",
+    "Normal"
+  ],
+  "formulas": [
+    {
+      "formula": "P(X=k) = (nCk) * p^k * (1-p)^(n-k)",
+      "description": "Used for finding probabilities in binomial distribution problems in JEE Main"
+    },
+    {
+      "formula": "f(x) = (1/(σ√(2π))) * e^(-(x-μ)^2/(2σ^2))",
+      "description": "Used for calculating probabilities in normal distribution in JEE Main"
+    },
+    {
+      "formula": "Z = (X - μ) / σ",
+      "description": "Used for converting to standard normal distribution in JEE Main"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Random Variable",
+      "definition": "A variable whose value depends on the outcome of a random event"
+    },
+    {
+      "term": "Probability Distribution",
+      "definition": "A function that shows the probabilities of different outcomes for a random variable"
+    },
+    {
+      "term": "Standard Deviation",
+      "definition": "A measure of how spread out numbers are from the mean"
+    }
+  ]
+}

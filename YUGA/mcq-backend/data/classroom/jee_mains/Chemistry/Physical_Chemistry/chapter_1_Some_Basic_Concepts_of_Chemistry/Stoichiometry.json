@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Some Basic Concepts of Chemistry",
+    "chapter_number": 1,
+    "topic": "Stoichiometry",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:03:39.027917",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about stoichiometry in chemistry. Stoichiometry helps us understand the quantities of reactants and products in a chemical reaction. It is very important for JEE Main exams. \n\nLet's start with balanced chemical equations. A balanced equation shows the same number of each type of atom on both sides of the reaction. For example, in the reaction 2H₂ + O₂ → 2H₂O, there are 4 hydrogen atoms and 2 oxygen atoms on both sides. \n\nNext, we have stoichiometric coefficients. These are the numbers in front of the molecules in a balanced equation. They tell us the ratio of molecules that react or form. In 2H₂ + O₂ → 2H₂O, the coefficients are 2, 1, and 2. \n\nNow, let's talk about mass-mass calculations. This means finding the mass of one substance when you know the mass of another. We use the formula: (mass of A / molar mass of A) = (mass of B / molar mass of B). \n\nFor mass-volume calculations, we use the formula: mass = volume x density. This helps us find the mass when we know the volume and density. \n\nVolume-volume calculations are simpler. We use the ratio of volumes from the balanced equation. For example, if 1L of O₂ reacts with 2L of H₂, it forms 2L of H₂O. \n\nYield calculations tell us how much product we can get. The formula is: percent yield = (actual yield / theoretical yield) x 100. Always remember, actual yield is often less than theoretical yield due to losses. \n\nLet's discuss concentration terms. Molarity is the number of moles of solute per liter of solution. Molality is the number of moles of solute per kilogram of solvent. These terms help us understand how concentrated a solution is. \n\nDilution of solutions is when we add more solvent to a solution. The formula is: M₁V₁ = M₂V₂, where M is molarity and V is volume. This helps us find the new concentration after dilution. \n\nTitration calculations help us find the concentration of an unknown solution. We use the formula: M₁V₁ = M₂V₂, just like in dilution. \n\nNow, let's see a common mistake. Students often forget to balance the chemical equation first. Always check the equation before starting calculations. \n\nIn summary, stoichiometry involves balanced equations, stoichiometric coefficients, and various calculations like mass-mass, mass-volume, and volume-volume. Remember the key formulas and practice problems to get better. \n\nThank you for listening. Keep practicing, and you will do well in your JEE Main exams!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Stoichiometry",
+    "Balanced Equations",
+    "Molarity",
+    "Yield",
+    "Titration"
+  ],
+  "formulas": [
+    {
+      "formula": "(mass of A / molar mass of A) = (mass of B / molar mass of B)",
+      "description": "Used to calculate mass of a substance in mass-mass calculations"
+    },
+    {
+      "formula": "mass = volume x density",
+      "description": "Used in mass-volume calculations to find mass from volume and density"
+    },
+    {
+      "formula": "percent yield = (actual yield / theoretical yield) x 100",
+      "description": "Used to calculate the efficiency of a reaction"
+    },
+    {
+      "formula": "M₁V₁ = M₂V₂",
+      "description": "Used in dilution and titration calculations to find concentrations"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Stoichiometry",
+      "definition": "The calculation of reactants and products in chemical reactions"
+    },
+    {
+      "term": "Molarity",
+      "definition": "Number of moles of solute per liter of solution"
+    },
+    {
+      "term": "Molality",
+      "definition": "Number of moles of solute per kilogram of solvent"
+    }
+  ]
+}

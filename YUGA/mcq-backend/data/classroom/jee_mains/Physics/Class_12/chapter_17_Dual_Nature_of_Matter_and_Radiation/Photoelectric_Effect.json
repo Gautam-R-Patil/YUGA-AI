@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Dual Nature of Matter and Radiation",
+    "chapter_number": 17,
+    "topic": "Photoelectric Effect",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:01:03.009054",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Photoelectric Effect. This is an important topic in the chapter 'Dual Nature of Matter and Radiation'. Let's start by understanding what the Photoelectric Effect is. \n\nThe Photoelectric Effect happens when light falls on a metal surface and electrons are released. These electrons are called photoelectrons. Albert Einstein explained this effect using the concept of photons. A photon is a small packet of light energy. \n\nNow, let's talk about Einstein's Photoelectric Equation. This equation is E = hf = W + KE. Here, E is the energy of the photon, h is Planck's constant, f is the frequency of light, W is the work function of the metal, and KE is the kinetic energy of the emitted electrons. This equation helps us find the energy needed to remove an electron from a metal surface.\n\nNext, we have the Work Function. The Work Function is the minimum energy needed to remove an electron from the surface of a metal. It is different for different metals. If the energy of the photon is less than the Work Function, no electrons are emitted.\n\nNow, let's discuss Threshold Frequency. Threshold Frequency is the minimum frequency of light needed to emit electrons from a metal surface. If the frequency of light is less than the Threshold Frequency, no photoelectrons are emitted, no matter how bright the light is.\n\nLet's move on to Stopping Potential. Stopping Potential is the voltage needed to stop the fastest photoelectrons from reaching the other side. It helps us measure the maximum kinetic energy of the photoelectrons. The formula is eV₀ = KE_max, where e is the charge of an electron and V₀ is the Stopping Potential.\n\nFinally, we have Photoelectric Current. Photoelectric Current is the flow of photoelectrons in a circuit. It increases with the intensity of light but does not depend on the frequency.\n\nLet's solve a simple problem. If the Work Function of a metal is 2 eV and the light frequency is such that the photon energy is 3 eV, what is the kinetic energy of the emitted electrons? Using Einstein's equation, KE = E - W = 3 eV - 2 eV = 1 eV. So, the kinetic energy of the electrons is 1 eV.\n\nCommon mistakes in JEE Main include confusing Work Function with Threshold Frequency and forgetting to convert units. Always check if the energy is in eV or Joules.\n\nKey takeaways: Remember the formulas and their applications. Understand the difference between Work Function and Threshold Frequency. Practice problems to avoid calculation mistakes.\n\nIn summary, the Photoelectric Effect shows how light can release electrons from a metal. Einstein's equation helps us understand the energy involved. Remember the key terms and formulas for JEE Main.\n\nThank you for listening, and happy studying!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Photoelectric Effect",
+    "Einstein's Equation",
+    "Work Function",
+    "Threshold Frequency",
+    "Stopping Potential"
+  ],
+  "formulas": [
+    {
+      "formula": "E = hf = W + KE",
+      "description": "Used to calculate the energy of photons and the kinetic energy of emitted electrons in JEE Main questions."
+    },
+    {
+      "formula": "eV₀ = KE_max",
+      "description": "Used to find the stopping potential needed to stop the fastest electrons in JEE Main questions."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Photon",
+      "definition": "A small packet of light energy."
+    },
+    {
+      "term": "Work Function",
+      "definition": "The minimum energy needed to remove an electron from the surface of a metal."
+    },
+    {
+      "term": "Threshold Frequency",
+      "definition": "The minimum frequency of light needed to emit electrons from a metal surface."
+    },
+    {
+      "term": "Stopping Potential",
+      "definition": "The voltage needed to stop the fastest photoelectrons in a circuit."
+    }
+  ]
+}

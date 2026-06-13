@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Mechanical Properties of Solids",
+    "chapter_number": 9,
+    "topic": "Young's Modulus",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:57:05.613651",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Young's modulus. This is a key concept in physics, especially in the study of solids. Let's start by understanding what Young's modulus is.\n\nYoung's modulus measures how stiff or stretchy a material is. Imagine you have a rubber band and a steel wire. When you pull both, the rubber band stretches more easily than the steel wire. This is because the steel wire has a higher Young's modulus.\n\n### Definition and Calculation of Young's Modulus\nYoung's modulus is defined as the ratio of stress to strain. Stress is the force applied per unit area. Strain is the change in length divided by the original length. The formula is:\n\n#### Formula:\n- **E = Stress / Strain**\n\nWhere E is Young's modulus. Stress is in newtons per square meter (N/m²), and strain has no units.\n\n### Examples of Young's Modulus in Materials\nDifferent materials have different Young's moduli. For example, rubber has a low Young's modulus, meaning it stretches easily. Steel has a high Young's modulus, so it does not stretch much. Glass also has a high Young's modulus.\n\n### Applications of Young's Modulus in Engineering\nYoung's modulus is very important in engineering. It helps engineers choose the right materials for buildings, bridges, and machines. For example, if a bridge needs to be strong and not bend easily, engineers choose materials with a high Young's modulus.\n\n### Solving Problems on Young's Modulus\nLet's solve a simple problem. If a steel wire is stretched with a force and the change in length is measured, we can find Young's modulus using the formula. Remember, stress is force divided by area, and strain is change in length divided by original length.\n\n### Graphical Representation of Young's Modulus\nIn a graph, Young's modulus is shown as the slope of the stress-strain curve. A steep slope means a high Young's modulus. A gentle slope means a low Young's modulus.\n\n### Common Mistakes\nA common mistake is confusing stress and strain. Remember, stress is about force, and strain is about change in length. Also, don't forget that strain has no units.\n\n### Summary\nTo sum up, Young's modulus is a measure of stiffness. It helps us understand how materials behave under force. It is useful in many fields, especially engineering. Remember the formula: E = Stress / Strain.\n\nThank you for listening! Keep practicing, and you'll master this topic in no time.",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Young's Modulus",
+    "Stress",
+    "Strain",
+    "Engineering Applications",
+    "Materials"
+  ],
+  "formulas": [
+    {
+      "formula": "E = Stress / Strain",
+      "description": "Young's modulus is the ratio of stress to strain"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Young's Modulus",
+      "definition": "A measure of stiffness of a material, calculated as stress divided by strain"
+    },
+    {
+      "term": "Stress",
+      "definition": "Force applied per unit area on a material"
+    },
+    {
+      "term": "Strain",
+      "definition": "Change in length divided by original length of a material"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Biomolecules",
+    "chapter_number": 27,
+    "topic": "Carbohydrates",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:29:12.593847",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about carbohydrates. Carbohydrates are important biomolecules. They are a source of energy for our body. They also play a role in the structure of cells. Let's start with their classification.\n\nCarbohydrates can be divided into three main types: monosaccharides, disaccharides, and polysaccharides. Monosaccharides are the simplest form. They are single sugar units. Examples include glucose and fructose. Disaccharides are made of two monosaccharide units. An example is sucrose, which is common table sugar. Polysaccharides are large molecules. They are made of many monosaccharide units. Examples include starch and cellulose.\n\nNow, let's talk about the structure of glucose and fructose. Glucose is a simple sugar with the formula C6H12O6. It is an important energy source. Fructose also has the formula C6H12O6, but its structure is different from glucose. Both are isomers, meaning they have the same formula but different structures.\n\nMutarotation is an interesting concept. It occurs in sugars like glucose. When glucose is dissolved in water, it changes form. It shifts between alpha (α) and beta (β) forms. This change in form is called mutarotation.\n\nNext, we have glycosidic linkage. This is a type of bond. It connects two sugar molecules. For example, in sucrose, glucose and fructose are linked by a glycosidic bond.\n\nLet's discuss reducing and non-reducing sugars. Reducing sugars can donate electrons. They have a free aldehyde or ketone group. Glucose is a reducing sugar. Non-reducing sugars cannot donate electrons. Sucrose is a non-reducing sugar.\n\nNow, let's look at the Haworth projection. This is a way to draw the structure of sugars. It shows the cyclic form of sugars. It is useful for understanding the 3D shape of molecules.\n\nFor JEE Main, remember these key points. Understand the structure and function of carbohydrates. Know the differences between monosaccharides, disaccharides, and polysaccharides. Be clear about reducing and non-reducing sugars. Practice drawing Haworth projections.\n\nCommon mistakes in JEE Main include confusing isomers like glucose and fructose. Also, remember to check if a sugar is reducing or non-reducing. This can help in solving questions correctly.\n\nIn conclusion, carbohydrates are essential biomolecules. They provide energy and help in cell structure. Make sure to practice questions on this topic. It will help you score well in JEE Main.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Carbohydrates",
+    "Monosaccharides",
+    "Disaccharides",
+    "Polysaccharides",
+    "Mutarotation"
+  ],
+  "formulas": [
+    {
+      "formula": "C6H12O6",
+      "description": "Chemical formula for glucose and fructose, important for identifying these sugars in JEE Main"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Monosaccharides",
+      "definition": "Single sugar units, such as glucose and fructose"
+    },
+    {
+      "term": "Disaccharides",
+      "definition": "Sugars made of two monosaccharide units, like sucrose"
+    },
+    {
+      "term": "Polysaccharides",
+      "definition": "Large molecules made of many monosaccharide units, such as starch"
+    },
+    {
+      "term": "Mutarotation",
+      "definition": "The change between alpha (α) and beta (β) forms of sugars like glucose"
+    },
+    {
+      "term": "Glycosidic linkage",
+      "definition": "A bond that connects two sugar molecules"
+    }
+  ]
+}

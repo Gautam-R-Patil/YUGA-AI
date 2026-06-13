@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Motion in a Straight Line",
+    "chapter_number": 3,
+    "topic": "Position, Path Length, and Displacement",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:49:05.597093",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about motion in a straight line. This is an important topic for NEET. Let's start with the concept of position.\n\nPosition tells us where an object is. Imagine standing on a road. You need a point to start measuring. This point is your reference point. For example, your house can be a reference point. If you walk 5 meters from your house, your position is 5 meters from the reference point.\n\nNow, let's talk about path length and displacement. Path length is the total distance you travel. If you walk around your house and return, your path length is the whole way you walked. Displacement is different. It is the shortest distance from start to end. If you walk back to your start point, your displacement is zero.\n\nHere is a common mistake: People think path length and displacement are the same. Remember, path length is like taking a long road, and displacement is like a straight line.\n\nLet's look at some examples. If you walk 3 meters east and then 4 meters west, your path length is 7 meters. But your displacement is 1 meter west because you are only 1 meter away from where you started.\n\nNow, let's discuss the graphical representation of motion. We use graphs to show how objects move. In a position-time graph, time is on the x-axis and position is on the y-axis. A straight line shows constant speed. If the line is flat, the object is not moving.\n\nDisplacement is a vector. This means it has both size and direction. If you move 5 meters north, your displacement is 5 meters north. Vectors are important in physics because they give more information.\n\nHere are key points to remember: Position needs a reference point. Path length is the total distance. Displacement is the straight line from start to end. Use graphs to show motion. Displacement is a vector with direction.\n\nIn summary, understanding position, path length, and displacement helps us describe motion. Remember these concepts for your NEET exam. They often appear in questions. Practice drawing graphs and calculating displacement. This will help you score better.\n\nThat's all for today. Keep practicing and see you in the next class!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Position",
+    "Reference Point",
+    "Path Length",
+    "Displacement",
+    "Vector"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Position",
+      "definition": "The location of an object relative to a reference point."
+    },
+    {
+      "term": "Reference Point",
+      "definition": "A fixed point used to determine the position of an object."
+    },
+    {
+      "term": "Path Length",
+      "definition": "The total distance traveled by an object."
+    },
+    {
+      "term": "Displacement",
+      "definition": "The shortest distance from the initial to the final position of an object."
+    },
+    {
+      "term": "Vector",
+      "definition": "A quantity that has both magnitude and direction."
+    }
+  ]
+}

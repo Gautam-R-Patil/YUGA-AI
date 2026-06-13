@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Chemistry in Everyday Life",
+    "chapter_number": 29,
+    "topic": "Cleansing Agents",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:31:53.101788",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today we will learn about cleansing agents. These are substances that help clean dirt and stains. We will focus on soaps and detergents. \n\nFirst, let's talk about soaps. Soaps are made from natural fats and oils. They are salts of fatty acids. When you use soap with water, it forms bubbles. These bubbles trap dirt and oil. Then, you can wash them away with water. \n\nNow, let's move to detergents. Detergents are similar to soaps but are made from synthetic materials. They work well in hard water. Hard water has minerals that make soap less effective. Detergents do not react with these minerals. \n\nThe cleansing action of soaps and detergents is simple. They have two ends: one end loves water (hydrophilic) and the other hates water (hydrophobic). The hydrophobic end sticks to dirt and oil. The hydrophilic end sticks to water. This helps remove dirt when you rinse with water.\n\nThere are different types of detergents. Some are anionic, meaning they have a negative charge. Others are cationic, with a positive charge. Non-ionic detergents have no charge. Each type works well for different cleaning tasks.\n\nSynthetic detergents have some advantages. They work in both hard and soft water. They also create more foam. This makes them very effective in cleaning. However, they can harm the environment. Some detergents are non-biodegradable. This means they do not break down easily in nature.\n\nBiodegradable detergents are better for the environment. They break down quickly and do not cause pollution. Non-biodegradable detergents can stay in water and soil for a long time. This can harm plants and animals.\n\nLet's look at some examples of cleansing agents. Soap is an example of a natural cleansing agent. Detergents like laundry powder and dishwashing liquid are synthetic. Builders are substances added to detergents. They make detergents more effective. They do this by softening water and helping to remove dirt.\n\nLet's compare soaps and detergents. Soaps are natural and biodegradable. They do not work well in hard water. Detergents are synthetic and often non-biodegradable. They work well in all types of water.\n\nCleansing agents are used in many ways. We use them for washing clothes, cleaning dishes, and even in shampoos. They help us keep our homes and bodies clean.\n\nA common mistake in JEE Main is confusing biodegradable and non-biodegradable detergents. Remember, biodegradable means it breaks down easily.\n\nIn summary, soaps and detergents are important for cleaning. They have different properties and uses. Remember to choose the right one for your task. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Soaps",
+    "Detergents",
+    "Cleansing Action",
+    "Biodegradable",
+    "Hydrophilic"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Soap",
+      "definition": "Soap is a salt of fatty acids used as a cleansing agent."
+    },
+    {
+      "term": "Detergent",
+      "definition": "Detergent is a synthetic cleansing agent that works in hard water."
+    },
+    {
+      "term": "Biodegradable",
+      "definition": "Biodegradable means a substance can break down naturally and quickly."
+    },
+    {
+      "term": "Hydrophilic",
+      "definition": "Hydrophilic means a substance can mix well with water."
+    },
+    {
+      "term": "Hydrophobic",
+      "definition": "Hydrophobic means a substance does not mix well with water."
+    }
+  ]
+}

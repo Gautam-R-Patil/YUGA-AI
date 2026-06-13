@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Integrals",
+    "chapter_number": 16,
+    "topic": "Techniques of Integration",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:59:33.256934",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about techniques of integration. This is important for JEE Main. Integration helps us find areas under curves and solve many physics problems. Let's start with the first technique: Integration by substitution. \n\nIntegration by substitution is like undoing the chain rule in differentiation. We use it when the integral looks complicated. We choose a new variable to make it simpler. For example, if we have ∫(2x * cos(x^2)) dx, we can set u = x^2. Then, du = 2x dx. Now, the integral becomes ∫cos(u) du, which is easy to solve. \n\nA common mistake is not changing all x terms to u terms. Always check this. \n\nNext, we have Integration by parts. This is useful when we have a product of two functions. The formula is ∫u dv = uv - ∫v du. Choose u and dv wisely. A common trick is to use the ILATE rule: Inverse, Logarithmic, Algebraic, Trigonometric, Exponential. \n\nFor example, ∫x e^x dx. Set u = x and dv = e^x dx. Then, du = dx and v = e^x. Apply the formula, and you get x e^x - ∫e^x dx. Solve the remaining integral to get the answer. \n\nRemember, choosing u and dv wrongly can make the problem harder. \n\nNow, let's talk about Partial fraction decomposition. This is for rational functions, where the degree of the numerator is less than the denominator. Break the fraction into simpler parts. For example, ∫(1/(x^2 - x)) dx can be split into A/x + B/(x-1). Solve for A and B, then integrate each part. \n\nA JEE Main trap is not factoring the denominator fully. Always check this step. \n\nNext, we have Trigonometric integrals. These involve sin, cos, tan, and other trigonometric functions. Use identities to simplify them. For example, ∫sin^2(x) dx can be simplified using the identity sin^2(x) = (1 - cos(2x))/2. Then integrate. \n\nA quick check is to always simplify before integrating. It saves time. \n\nNow, let's discuss Trigonometric substitution. This is used when integrals have √(a^2 - x^2), √(a^2 + x^2), or √(x^2 - a^2). We substitute x with trigonometric functions. For example, for √(a^2 - x^2), use x = a sin(θ). This makes the integral easier. \n\nBe careful with limits when you substitute. They change too. \n\nFinally, we have Improper integrals. These occur when limits are infinite or the function is undefined at some points. We use limits to solve them. For example, ∫(1/x) dx from 1 to ∞. We write it as a limit: lim(b→∞) ∫(1/x) dx from 1 to b. Solve the integral, then take the limit. \n\nA common mistake is forgetting to apply the limit. Always remember this step. \n\nTo sum up, we covered six techniques of integration. Practice each one. They are important for JEE Main. Remember to check your substitutions, choose parts carefully, and always simplify. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Integration",
+    "Substitution",
+    "Parts",
+    "Trigonometric",
+    "Improper"
+  ],
+  "formulas": [
+    {
+      "formula": "∫u dv = uv - ∫v du",
+      "description": "Used in integration by parts when dealing with product of functions"
+    },
+    {
+      "formula": "∫(1/(x^2 - x)) dx = A/x + B/(x-1)",
+      "description": "Partial fraction decomposition for rational functions"
+    },
+    {
+      "formula": "sin^2(x) = (1 - cos(2x))/2",
+      "description": "Trigonometric identity used to simplify trigonometric integrals"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Integration by substitution",
+      "definition": "A method to simplify integrals by changing variables"
+    },
+    {
+      "term": "Integration by parts",
+      "definition": "A technique to integrate products of functions using a formula"
+    },
+    {
+      "term": "Partial fraction decomposition",
+      "definition": "Breaking down rational functions into simpler fractions for integration"
+    }
+  ]
+}

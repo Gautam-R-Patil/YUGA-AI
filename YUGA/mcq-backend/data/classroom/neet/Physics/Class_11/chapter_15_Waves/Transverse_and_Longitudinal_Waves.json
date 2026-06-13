@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Waves",
+    "chapter_number": 15,
+    "topic": "Transverse and Longitudinal Waves",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:04:53.780614",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will talk about waves. Waves are everywhere. They are in the ocean, in the air, and even in the light we see. Let's focus on two main types of waves: transverse and longitudinal waves.\n\nFirst, let's talk about transverse waves. In a transverse wave, the particles move up and down. But the wave moves forward. Imagine a rope. If you shake one end up and down, waves travel along the rope. This is a transverse wave. Light waves are also transverse waves.\n\nNow, let's look at longitudinal waves. Here, particles move back and forth in the same direction as the wave. Think of a slinky toy. Push and pull one end. The coils move back and forth. This shows a longitudinal wave. Sound waves in the air are longitudinal waves.\n\nA common mistake is to mix up these two types. Remember: in transverse waves, particles move perpendicular (up and down) to the wave direction. In longitudinal waves, particles move parallel (back and forth) to the wave direction.\n\nNext, let's see some applications. Transverse waves help us understand light and electromagnetic waves. They are important in optics and communication. Longitudinal waves are key in sound engineering and music. They help us with hearing and sound design.\n\nNow, let's solve a problem. If you shake a rope up and down, what type of wave is created? Yes, it's a transverse wave. What about a sound wave traveling through air? That's a longitudinal wave.\n\nGraphically, we can show these waves. A transverse wave looks like a series of peaks and valleys. A longitudinal wave has compressions and rarefactions. Compressions are where particles are close together. Rarefactions are where they are spread out.\n\nKey points to remember: Transverse waves have particles moving perpendicular to wave direction. Longitudinal waves have particles moving parallel to wave direction. Light is a transverse wave. Sound is a longitudinal wave.\n\nIn summary, understanding these waves helps us in many fields. From physics to engineering, waves play a big role. Keep practicing and remember these key ideas. Thank you!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Transverse wave",
+    "Longitudinal wave",
+    "Light waves",
+    "Sound waves",
+    "Wave direction"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Transverse wave",
+      "definition": "A wave in which particles move perpendicular to the direction of the wave."
+    },
+    {
+      "term": "Longitudinal wave",
+      "definition": "A wave in which particles move parallel to the direction of the wave."
+    },
+    {
+      "term": "Compression",
+      "definition": "A region in a longitudinal wave where particles are close together."
+    },
+    {
+      "term": "Rarefaction",
+      "definition": "A region in a longitudinal wave where particles are spread out."
+    }
+  ]
+}

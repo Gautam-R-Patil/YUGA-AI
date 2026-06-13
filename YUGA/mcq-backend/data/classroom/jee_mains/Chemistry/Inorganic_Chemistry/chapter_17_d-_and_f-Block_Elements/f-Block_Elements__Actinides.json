@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "d- and f-Block Elements",
+    "chapter_number": 17,
+    "topic": "f-Block Elements: Actinides",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:19:44.009670",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the f-block elements, focusing on Actinides. Actinides are a group of elements in the periodic table. They are from atomic numbers 89 to 103. Let's start with their electronic configuration. Actinides have electrons in the 5f orbital. For example, Thorium (Th) has an electronic configuration of [Rn] 6d^2 7s^2. This means Thorium has electrons in the 6d and 7s orbitals. \n\nNow, let's talk about oxidation states. Actinides can show different oxidation states. This means they can lose different numbers of electrons. For example, Uranium (U) can have +3, +4, +5, and +6 oxidation states. The most common is +6. \n\nNext, we have actinide contraction. This is a decrease in atomic and ionic sizes. As we move from left to right in the actinide series, the size of the atoms gets smaller. This happens because of poor shielding by 5f electrons. Remember, shielding is when inner electrons block outer electrons from the nucleus. \n\nActinides are radioactive. This means they emit radiation. Not all actinides are stable. For example, Uranium-238 is stable, but Uranium-235 is not. Radioactivity is important in nuclear reactions. \n\nActinides can form complex compounds. A complex is when a metal ion is bonded to other molecules. These are called ligands. For example, Uranium can form complexes with water and acids. \n\nWe separate actinides using solvent extraction. This is a method to separate compounds based on their solubility. We use a solvent to dissolve one part and leave the other. \n\nActinides are used in nuclear reactors. For example, Uranium-235 is used as fuel in nuclear reactors. It releases a lot of energy when it splits. \n\nLet's look at trends in atomic and ionic sizes. As we move across the actinide series, sizes decrease. This is due to actinide contraction. \n\nActinides react with water and acids. For example, when Uranium reacts with water, it forms Uranium hydroxide. \n\nNow, let's discuss some common mistakes in JEE Main. Students often forget actinide contraction. Remember, this is important for size trends. Also, don't confuse oxidation states. Practice writing electronic configurations. \n\nKey takeaways: Actinides have 5f electrons, show multiple oxidation states, and are radioactive. They are used in nuclear reactors and form complexes. Remember actinide contraction for size trends. \n\nIn summary, actinides are important in chemistry and technology. Understand their properties and uses. Practice problems to avoid mistakes.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Actinides",
+    "Electronic Configuration",
+    "Oxidation States",
+    "Radioactivity",
+    "Actinide Contraction"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Actinides",
+      "definition": "A group of elements with atomic numbers 89 to 103, having electrons in the 5f orbital."
+    },
+    {
+      "term": "Oxidation State",
+      "definition": "The charge of an atom if all bonds were ionic."
+    },
+    {
+      "term": "Actinide Contraction",
+      "definition": "Decrease in atomic and ionic sizes across the actinide series."
+    },
+    {
+      "term": "Radioactivity",
+      "definition": "The emission of radiation by unstable atomic nuclei."
+    },
+    {
+      "term": "Complex",
+      "definition": "A structure consisting of a central metal atom bonded to surrounding molecules or ions."
+    }
+  ]
+}

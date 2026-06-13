@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Transport in Plants",
+    "chapter_number": "11",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:31:21.737346",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts\u2014Transport in Plants. This chapter covers how water, nutrients, and food move through a plant...\n\nConcept Name: Transport in Plants\n\n1. Transport Mechanisms: \nPlants primarily transport water, nutrients, and food through xylem and phloem. Xylem is responsible for the upward movement of water and minerals from roots to leaves. Phloem translocates food materials, mainly sucrose, from leaves to other parts of the plant.\n\n2. Diffusion & Osmosis: \nDiffusion is the movement of particles from a region of higher concentration to lower concentration. Osmosis is a specific type of diffusion concerning water molecules moving across a semipermeable membrane from a region of lower solute concentration to higher solute concentration.\n\n3. Water Potential (\u03a8): \nWater potential is the potential energy of water in a system, influencing water movement. It is affected by solute concentration and pressure, with pure water at atmospheric pressure having a water potential of zero.\n\n4. Absorption of Water: \nWater is absorbed mainly through root hairs by osmosis. The absorbed water is transported through the plant by apoplast (outside plasma membranes) and symplast (through plasma membranes and plasmodesmata) pathways.\n\n5. Transpiration: \nTranspiration is the evaporation of water from the aerial parts of the plant, especially through stomata. It creates a suction force that pulls water upward, aiding the ascent of sap.\n\n6. Mineral Nutrition: \nMinerals absorbed along with water travel through the xylem. Essential nutrients for plants include macronutrients like nitrogen and potassium, and micronutrients like zinc and iron.\n\n7. Long-Distance Transport: \nPressure Flow Hypothesis explains the movement of sucrose in phloem. It involves loading of sugar at the source (leaves), creating a high pressure that drives the flow towards the sink (roots, fruits) where sugars are used or stored.\n\nKey Formula / Idea:\n- Water Potential (\u0018): \u03a8 = \u03a8s (solute potential) + \u03a8p (pressure potential)\n\nNEET Question Pattern:\n- Frequently asked about transport types (e.g., diffusion vs osmosis).\n- Questions on water potential and its components.\n- Comparison of xylem and phloem functions.\n- Application-based questions on transpiration and its factors.\n\nQuick Revision Summary:\n1. Xylem transports water and minerals; phloem carries nutrients.\n2. Diffusion and osmosis are key processes for water and nutrient movement.\n3. Water potential is crucial for understanding water movement.\n4. Transpiration aids in water uptake and nutrient transport.\n5. Pressure Flow Hypothesis explains phloem translocation effectively.\n\nI hope this helps reinforce your understanding of Transport in Plants. Remember to focus on how these processes support plant life and nutrition, as NEET often tests these concepts!",
+  "duration_minutes": "12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Transport in Plants",
+    "Xylem",
+    "Phloem",
+    "Diffusion",
+    "Osmosis",
+    "Water Potential",
+    "Transpiration",
+    "Mineral Nutrition",
+    "Long-Distance Transport",
+    "Pressure Flow Hypothesis"
+  ],
+  "formulas": [
+    "\\Psi = \\Psi_s + \\Psi_p"
+  ],
+  "definitions": [
+    {
+      "term": "Transport in Plants",
+      "definition": "The process by which water, minerals, nutrients, and other substances are moved through different parts of the plant."
+    },
+    {
+      "term": "Xylem",
+      "definition": "Vascular tissue in plants responsible for the conduction of water and nutrients from the roots upwards."
+    },
+    {
+      "term": "Phloem",
+      "definition": "Vascular tissue responsible for the transport of organic nutrients, particularly sucrose, from the leaves to other parts of the plant."
+    },
+    {
+      "term": "Diffusion",
+      "definition": "The passive movement of particles from an area of higher concentration to an area of lower concentration."
+    },
+    {
+      "term": "Osmosis",
+      "definition": "The passive movement of water molecules through a semipermeable membrane from a region of lower solute concentration to a region of higher solute concentration."
+    },
+    {
+      "term": "Water Potential",
+      "definition": "Measure of potential energy in water, driving water movement; influenced by solute concentration and pressure."
+    },
+    {
+      "term": "Transpiration",
+      "definition": "The process of water vapor loss from plants through aerial parts, mainly via stomata."
+    },
+    {
+      "term": "Mineral Nutrition",
+      "definition": "The process by which plants absorb, transport, and utilize soil minerals for growth and development."
+    },
+    {
+      "term": "Long-Distance Transport",
+      "definition": "Movement of water, minerals, and nutrients over long distances from roots to shoots or vice versa within a plant structure."
+    },
+    {
+      "term": "Pressure Flow Hypothesis",
+      "definition": "A model explaining the movement of sugars from source to sink in phloem, driven by pressure differences."
+    }
+  ]
+}

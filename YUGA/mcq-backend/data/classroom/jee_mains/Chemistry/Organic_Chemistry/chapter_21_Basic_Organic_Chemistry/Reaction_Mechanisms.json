@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Basic Organic Chemistry",
+    "chapter_number": 21,
+    "topic": "Reaction Mechanisms",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:24:37.984731",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Welcome to this lecture on Basic Organic Chemistry. Today, we will learn about Reaction Mechanisms. This topic is very important for JEE Main.\n\nFirst, let's talk about Types of Organic Reactions. There are four main types: substitution, addition, elimination, and rearrangement. We will focus on substitution and addition reactions today.\n\nIn a Nucleophilic Substitution Reaction, a nucleophile replaces a leaving group in a molecule. A nucleophile is a particle that loves positive charges. It has extra electrons to share. For example, in the reaction of hydroxide ion (OH-) with chloromethane (CH3Cl), the OH- replaces the Cl-.\n\nNext, we have Electrophilic Addition Reactions. Here, an electrophile adds to a molecule. An electrophile loves negative charges. It wants electrons. For example, when bromine (Br2) adds to ethene (C2H4), the double bond opens, and Br atoms attach to the carbon atoms.\n\nNow, let's look at Free Radical Reactions. Free radicals are particles with an unpaired electron. They are very reactive. For example, in the chlorination of methane, chlorine radicals react with methane to form methyl radicals.\n\nLet's discuss Reaction Intermediates. These are particles formed during reactions. There are three main types: Carbocations, Carbanions, and Free Radicals. A Carbocation has a positive charge on carbon. A Carbanion has a negative charge on carbon. Free Radicals have an unpaired electron.\n\nNow, we will learn about SN1 and SN2 Mechanisms. SN1 is a two-step reaction. First, the leaving group leaves, forming a carbocation. Then, the nucleophile attacks. SN2 is a one-step reaction. The nucleophile attacks as the leaving group leaves. SN2 is faster with less crowded molecules.\n\nNext, we have E1 and E2 Mechanisms. E1 is similar to SN1. It is a two-step process where the leaving group leaves first, forming a carbocation. Then, a base removes a proton, forming a double bond. E2 is a one-step process. The base removes a proton as the leaving group leaves.\n\nFactors Affecting Reaction Mechanisms include the structure of the molecule, the strength of the nucleophile or base, and the solvent. For example, polar solvents help SN1 reactions.\n\nA common JEE Main mistake is confusing SN1 and SN2 reactions. Remember, SN1 is two-step and needs a stable carbocation. SN2 is one-step and needs a less crowded molecule.\n\nKey takeaways: Memorize the types of reactions and their mechanisms. Practice identifying nucleophiles and electrophiles. Understand the role of reaction intermediates.\n\nIn summary, Reaction Mechanisms are crucial in organic chemistry. They help us understand how molecules change during reactions. Focus on understanding the steps and factors involved. This will help you solve JEE Main questions easily.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Nucleophile",
+    "Electrophile",
+    "Carbocation",
+    "SN1",
+    "SN2"
+  ],
+  "formulas": [
+    {
+      "formula": "R-X + Nu- -> R-Nu + X-",
+      "description": "General formula for nucleophilic substitution reactions."
+    },
+    {
+      "formula": "C=C + E+ -> C-C-E",
+      "description": "General formula for electrophilic addition reactions."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Nucleophile",
+      "definition": "A particle that donates electrons to form a chemical bond."
+    },
+    {
+      "term": "Electrophile",
+      "definition": "A particle that accepts electrons to form a chemical bond."
+    },
+    {
+      "term": "Carbocation",
+      "definition": "An intermediate with a positively charged carbon atom."
+    },
+    {
+      "term": "Carbanion",
+      "definition": "An intermediate with a negatively charged carbon atom."
+    },
+    {
+      "term": "Free Radical",
+      "definition": "An intermediate with an unpaired electron."
+    }
+  ]
+}

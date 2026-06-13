@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Basic Organic Chemistry",
+    "chapter_number": 21,
+    "topic": "Inductive Effect",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:24:16.284355",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Inductive Effect in organic chemistry. This is an important topic for JEE Main. Let's start by understanding what the inductive effect is. \n\nThe inductive effect is a way electrons move in a molecule. It happens when atoms in a molecule pull or push electrons. This effect is due to the difference in electronegativity. Electronegativity is how strongly an atom attracts electrons. \n\nNow, let's talk about electron withdrawing and donating groups. Some groups pull electrons towards themselves. We call these electron withdrawing groups. Examples are halogens like chlorine. Other groups push electrons away. These are electron donating groups. Alkyl groups, like methyl, are electron donating. \n\nThe inductive effect affects acidity and basicity. If a molecule has an electron withdrawing group, it becomes more acidic. This is because the group pulls electrons away, making it easier to lose a proton (H+). On the other hand, electron donating groups make a molecule more basic. They push electrons towards the molecule, making it harder to lose a proton. \n\nLet's compare the inductive effect with resonance. The inductive effect is about moving electrons through single bonds. Resonance involves moving electrons through pi bonds. Resonance usually has a stronger effect than the inductive effect. \n\nConsider some examples. Alkyl groups like methyl (CH3-) are electron donating. Halogens like chlorine (Cl) are electron withdrawing. In carboxylic acids, the inductive effect makes them acidic. The electron withdrawing group pulls electrons, making it easier to release the H+. \n\nThe inductive effect also influences the dipole moment. A dipole moment is a measure of charge separation in a molecule. If a group pulls electrons, it increases the dipole moment. If it pushes electrons, the dipole moment decreases. \n\nLet's look at the order of inductive effect in groups. Generally, halogens have a strong electron withdrawing effect. Alkyl groups have a weak electron donating effect. \n\nIn JEE Main, remember these key points. Electron withdrawing groups increase acidity. Electron donating groups increase basicity. Be careful with questions involving resonance. It can be stronger than the inductive effect. \n\nNow, let's summarize. The inductive effect is important in understanding molecule behavior. It affects acidity, basicity, and dipole moments. Remember the role of electron withdrawing and donating groups. Practice problems to get better at identifying these effects. \n\nThat's all for today. Keep practicing and good luck with your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Inductive Effect",
+    "Electron Withdrawing",
+    "Electron Donating",
+    "Acidity",
+    "Basicity"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Inductive Effect",
+      "definition": "The movement of electrons in a molecule due to electronegativity differences."
+    },
+    {
+      "term": "Electron Withdrawing Group",
+      "definition": "A group that pulls electrons towards itself in a molecule."
+    },
+    {
+      "term": "Electron Donating Group",
+      "definition": "A group that pushes electrons away from itself in a molecule."
+    },
+    {
+      "term": "Dipole Moment",
+      "definition": "A measure of charge separation in a molecule."
+    }
+  ]
+}

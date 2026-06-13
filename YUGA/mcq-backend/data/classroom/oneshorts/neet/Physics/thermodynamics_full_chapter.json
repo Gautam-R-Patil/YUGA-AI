@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Thermodynamics",
+    "chapter_number": "12",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:12:16.158056",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise the essential thermodynamics concepts for NEET. Thermodynamics is about studying heat, work, and the internal energy of systems.\n\n1. Basics of Thermodynamics\n- Thermodynamic System: It\u2019s the part of the universe under study (e.g., gas in a cylinder). Systems can be open, closed, or isolated based on the exchange of energy and matter.\n- Surroundings: Anything outside the system.\n- Thermodynamic State: Described by properties like pressure, volume, temperature.\n\n2. Zeroth Law of Thermodynamics\n- If two systems are in thermal equilibrium with a third system, they are in thermal equilibrium with each other. This forms the basis of temperature measurement.\n\n3. First Law of Thermodynamics\n- It\u2019s the Law of Energy Conservation. The change in internal energy of a system equals the heat added to the system minus the work done by the system.\n- Key Formula: \\( \\Delta U = Q - W \\)\n\n4. Second Law of Thermodynamics\n- Heat cannot spontaneously flow from a colder location to a hotter location. Introduces the concept of entropy.\n- Kelvin-Planck Statement: No cyclic process is possible whose sole result is the absorption of heat from a reservoir and complete conversion of this heat into work.\n\n5. Third Law of Thermodynamics\n- As the temperature of an ideal system approaches absolute zero, the entropy approaches a constant minimum.\n\n6. Heat Engines and Refrigerators\n- Convert heat into work (Heat Engines) or absorb heat from cold to hot and require work (Refrigerators).\n- Efficiency of Heat Engine: \\( \\eta = \\frac{W}{Q_1} = 1 - \\frac{Q_2}{Q_1} \\)\n\nNEET Question Pattern\n- Focus on formula application questions such as calculating work done, changes in internal energy, or entropy. Questions often ask to identify types of processes based on given conditions (e.g., isothermal, adiabatic).\n- Questions also test understanding of the Laws of Thermodynamics and their applications in practical systems like heat engines.\n\nQuick Revision Points\n1. Thermodynamics involves heat transfer and work done coupled with internal energy changes.\n2. First Law emphasizes energy conservation: \\( \\Delta U = Q - W \\).\n3. Second Law highlights entropy and the natural direction of processes.\n4. Practice identifying systems and processes (isothermal, adiabatic).\n5. Essential formulas: Efficiency of heat engines, work done by gases.\n\nThis overview is designed to ensure clear understanding and quick recall before NEET. Remember the formulas and basic principles to tackle any question confidently!",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Thermodynamic System",
+    "Zeroth Law",
+    "First Law",
+    "Second Law",
+    "Third Law",
+    "Internal Energy",
+    "Entropy",
+    "Heat Engines",
+    "Refrigerators",
+    "Efficiency",
+    "Adiabatic Process",
+    "Isothermal Process"
+  ],
+  "formulas": [
+    "\\Delta U = Q - W",
+    "\\eta = \\frac{W}{Q_1} = 1 - \\frac{Q_2}{Q_1}"
+  ],
+  "definitions": [
+    {
+      "term": "Thermodynamic System",
+      "definition": "A defined part of the universe being studied which can exchange energy or matter with its surroundings."
+    },
+    {
+      "term": "Zeroth Law",
+      "definition": "If two systems are each in thermal equilibrium with a third system, they are in thermal equilibrium with each other."
+    },
+    {
+      "term": "First Law",
+      "definition": "Energy conservation in a system, stating that the internal energy change is equal to heat added minus the work done by the system."
+    },
+    {
+      "term": "Second Law",
+      "definition": "Introduces the concept of entropy, providing a direction to energy transfer processes, indicating that heat cannot spontaneously flow from cold to hot."
+    },
+    {
+      "term": "Third Law",
+      "definition": "States that the entropy of a perfect crystal approaches zero as the temperature approaches absolute zero."
+    },
+    {
+      "term": "Internal Energy",
+      "definition": "The total energy contained within a system, related to the energy of its particles."
+    },
+    {
+      "term": "Entropy",
+      "definition": "A measure of the disorder or randomness in a system, crucial in determining the direction of thermal processes."
+    },
+    {
+      "term": "Heat Engines",
+      "definition": "Devices that convert thermal energy into mechanical work."
+    },
+    {
+      "term": "Refrigerators",
+      "definition": "Devices that transfer heat from a cold reservoir to a hot reservoir by doing work."
+    },
+    {
+      "term": "Efficiency",
+      "definition": "Ratio of the useful work output to total energy input in a process, especially concerning heat engines."
+    },
+    {
+      "term": "Adiabatic Process",
+      "definition": "A thermodynamic process in which no heat is exchanged with the surroundings."
+    },
+    {
+      "term": "Isothermal Process",
+      "definition": "A process where the system's temperature remains constant, often requiring heat exchange with the environment."
+    }
+  ]
+}

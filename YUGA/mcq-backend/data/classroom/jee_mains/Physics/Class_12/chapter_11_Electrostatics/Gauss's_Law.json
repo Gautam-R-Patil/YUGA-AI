@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electrostatics",
+    "chapter_number": 11,
+    "topic": "Gauss's Law",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:55:11.843196",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Gauss's Law in electrostatics. This is a very important topic for JEE Main. You may have learned about electric fields before. Gauss's Law helps us find electric fields in a simple way. Let's start with the statement of Gauss's Law. \n\nGauss's Law states that the total electric flux through a closed surface is equal to the charge enclosed divided by the permittivity of free space. In simple words, it relates the electric field to the charge inside a surface. The mathematical form is Φ = Q_enclosed / ε₀, where Φ is the electric flux, Q_enclosed is the charge inside the surface, and ε₀ is the permittivity of free space.\n\nNow, let's talk about the applications of Gauss's Law. It is useful for finding electric fields in symmetrical charge distributions. We will discuss three main cases: field due to an infinite line charge, an infinite plane sheet, and a uniformly charged sphere.\n\nFirst, let's consider the field due to an infinite line charge. Imagine a long, charged wire. To find the electric field, we use a cylindrical Gaussian surface around the wire. The formula we use is E = λ / (2πε₀r), where E is the electric field, λ is the charge per unit length, and r is the distance from the wire. In JEE Main, remember to use this formula when you see a long wire with uniform charge.\n\nNext, let's look at the field due to an infinite plane sheet. Imagine a large, flat sheet with charge spread over it. We use a box-shaped Gaussian surface to find the electric field. The formula is E = σ / (2ε₀), where E is the electric field, and σ is the charge per unit area. This formula is useful when the problem involves a large, flat charged surface.\n\nNow, let's discuss the field due to a uniformly charged sphere. For a sphere with charge spread evenly, we use a spherical Gaussian surface. Inside the sphere, the electric field is E = (Q_enclosed * r) / (4πε₀R³), where r is the distance from the center, and R is the radius of the sphere. Outside the sphere, the field is E = Q / (4πε₀r²). Remember these formulas for problems involving charged spheres in JEE Main.\n\nLet's do a quick example. Find the electric field 2 meters away from an infinite line charge with λ = 5 x 10^-6 C/m. Using the formula E = λ / (2πε₀r), we substitute the values: E = (5 x 10^-6) / (2π x 8.85 x 10^-12 x 2). Calculate to get E ≈ 4.5 x 10^4 N/C.\n\nA common mistake in JEE Main is forgetting to use the correct Gaussian surface. Always match the surface to the symmetry of the charge distribution. Also, remember to convert units when needed.\n\nIn summary, Gauss's Law is a powerful tool for finding electric fields. Use it with symmetrical charge distributions like lines, planes, and spheres. Remember the key formulas and match the Gaussian surface to the problem.\n\nThat's all for today. Practice these concepts and formulas for JEE Main success!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Gauss's Law",
+    "Electric Field",
+    "Infinite Line Charge",
+    "Infinite Plane Sheet",
+    "Uniformly Charged Sphere"
+  ],
+  "formulas": [
+    {
+      "formula": "Φ = Q_enclosed / ε₀",
+      "description": "Used to calculate electric flux through a closed surface when charge is enclosed"
+    },
+    {
+      "formula": "E = λ / (2πε₀r)",
+      "description": "Used to find the electric field due to an infinite line charge"
+    },
+    {
+      "formula": "E = σ / (2ε₀)",
+      "description": "Used to find the electric field due to an infinite plane sheet"
+    },
+    {
+      "formula": "E = (Q_enclosed * r) / (4πε₀R³)",
+      "description": "Used to find the electric field inside a uniformly charged sphere"
+    },
+    {
+      "formula": "E = Q / (4πε₀r²)",
+      "description": "Used to find the electric field outside a uniformly charged sphere"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electric Flux",
+      "definition": "The flow of electric field through a surface"
+    },
+    {
+      "term": "Permittivity of Free Space (ε₀)",
+      "definition": "A constant that describes how electric field spreads in space"
+    },
+    {
+      "term": "Gaussian Surface",
+      "definition": "An imaginary closed surface used to apply Gauss's Law"
+    }
+  ]
+}

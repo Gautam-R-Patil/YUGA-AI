@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Optics",
+    "chapter_number": 16,
+    "topic": "Polarization",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:00:49.711008",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about polarization in optics. This is an important topic for JEE Main. Let's start with the basics.\\n\\nFirst, what is polarized light? Light is a wave. It moves in different directions. When light moves in only one direction, it is called plane polarized light. Think of it like a rope. When you shake it up and down, it moves in one plane. This is similar to plane polarized light.\\n\\nNow, let's talk about Brewster's angle. Brewster's angle is a special angle of incidence. At this angle, light reflects as plane polarized light. The formula for Brewster's angle is: tan θ = n. Here, θ is the Brewster's angle, and n is the refractive index of the medium. In JEE Main, you might need to find this angle. Just remember this formula and plug in the values.\\n\\nNext is Malus's Law. This law helps us find the intensity of polarized light. The formula is: I = I₀ cos² θ. I is the intensity of light after passing through a polarizer. I₀ is the initial intensity, and θ is the angle between the light's initial direction and the polarizer's axis. This formula is often used in JEE Main problems. Make sure to calculate cos² θ correctly.\\n\\nPolarization has many applications. For example, sunglasses use polarized lenses. These lenses reduce glare from surfaces like water or roads. Another use is in photography. Polarized filters help capture clearer pictures by reducing reflections.\\n\\nLet's look at a simple example. If unpolarized light with intensity 100 units passes through a polarizer at an angle of 30°, what is the intensity? Use Malus's Law: I = 100 cos² 30°. Cos 30° is √3/2. So, I = 100 (3/4) = 75 units.\\n\\nNow, a common mistake in JEE Main is mixing up angles. Always check if the angle is with the normal or the surface. Also, remember that cos² θ is not the same as cos θ squared.\\n\\nKey takeaways: Know what plane polarized light is. Remember Brewster's angle formula. Use Malus's Law for intensity problems. Understand real-life applications.\\n\\nTo sum up, polarization is about controlling light direction. Use the formulas wisely in exams. Practice problems to get better. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Polarization",
+    "Plane Polarized Light",
+    "Brewster's Angle",
+    "Malus's Law",
+    "Intensity"
+  ],
+  "formulas": [
+    {
+      "formula": "tan θ = n",
+      "description": "Used to find Brewster's angle when the refractive index is known"
+    },
+    {
+      "formula": "I = I₀ cos² θ",
+      "description": "Used to calculate the intensity of light after passing through a polarizer"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Plane Polarized Light",
+      "definition": "Light waves that vibrate in only one plane"
+    },
+    {
+      "term": "Brewster's Angle",
+      "definition": "The angle of incidence at which light is perfectly polarized upon reflection"
+    },
+    {
+      "term": "Malus's Law",
+      "definition": "A law that gives the intensity of polarized light after passing through a polarizer"
+    }
+  ]
+}

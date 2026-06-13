@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Mathematical Reasoning",
+    "chapter_number": 11,
+    "topic": "Set Theory and Venn Diagrams",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:54:56.361899",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Set Theory and Venn Diagrams. These are important for your JEE Main exam. Let's start with the basics.\n\nFirst, what is a set? A set is a collection of items. These items are called elements. For example, a set of fruits can be {apple, banana, mango}. Each fruit is an element of the set.\n\nNow, let's talk about operations on sets. The first operation is union. Union combines all elements from two sets. If we have set A = {1, 2, 3} and set B = {3, 4, 5}, then A union B is {1, 2, 3, 4, 5}. Remember, we do not repeat elements.\n\nThe next operation is intersection. Intersection finds common elements in two sets. For sets A and B, A intersection B is {3}. It only includes the element that is in both sets.\n\nAnother operation is the difference of sets. It finds elements in one set that are not in another. For A and B, A minus B is {1, 2}. It only includes elements in A that are not in B.\n\nLet's use Venn diagrams to understand these operations better. A Venn diagram is a picture of sets. Circles show the sets, and overlapping parts show common elements. This helps us see union, intersection, and difference easily.\n\nNow, De Morgan's laws. These are rules about sets. The first law says the complement of the union is the intersection of complements. The second law says the complement of the intersection is the union of complements. These laws help simplify set problems.\n\nNext, the Cartesian product. It is a set of ordered pairs from two sets. If set A = {1, 2} and set B = {x, y}, then the Cartesian product is {(1, x), (1, y), (2, x), (2, y)}.\n\nA power set is a set of all subsets of a set. If set A = {1, 2}, the power set is { {}, {1}, {2}, {1, 2} }. It includes the empty set and all combinations of A.\n\nSets also help in probability. For example, if we have a set of outcomes, we can find the probability of an event by counting favorable outcomes.\n\nSet identities are rules that always hold true for sets. For example, the union of a set with an empty set is the set itself.\n\nSets can be finite or infinite. A finite set has a limited number of elements. An infinite set has unlimited elements, like the set of all numbers.\n\nIn logic, sets help us understand statements. For example, if a statement is true for all elements in a set, it is a universal statement.\n\nCommon mistakes in JEE Main include confusing union and intersection. Remember, union is all elements, intersection is common elements.\n\nKey takeaways: Sets are collections of elements. Use Venn diagrams to visualize operations. Know De Morgan's laws and set identities. Practice problems to avoid mistakes.\n\nIn summary, understanding sets and their operations is crucial. Practice using these concepts in different problems. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Set",
+    "Union",
+    "Intersection",
+    "Venn Diagram",
+    "De Morgan's Laws"
+  ],
+  "formulas": [
+    {
+      "formula": "A ∪ B = {x | x ∈ A or x ∈ B}",
+      "description": "Use this formula to find the union of two sets in JEE Main questions"
+    },
+    {
+      "formula": "A ∩ B = {x | x ∈ A and x ∈ B}",
+      "description": "Use this formula to find the intersection of two sets in JEE Main questions"
+    },
+    {
+      "formula": "A - B = {x | x ∈ A and x ∉ B}",
+      "description": "Use this to find the difference between two sets in JEE Main questions"
+    },
+    {
+      "formula": "(A ∪ B)' = A' ∩ B'",
+      "description": "This is the first of De Morgan's laws, used to simplify set expressions"
+    },
+    {
+      "formula": "(A ∩ B)' = A' ∪ B'",
+      "description": "This is the second of De Morgan's laws, used to simplify set expressions"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Set",
+      "definition": "A collection of distinct objects, considered as an object in its own right"
+    },
+    {
+      "term": "Union",
+      "definition": "An operation that combines all elements from two sets"
+    },
+    {
+      "term": "Intersection",
+      "definition": "An operation that finds common elements in two sets"
+    },
+    {
+      "term": "Venn Diagram",
+      "definition": "A diagram that shows all possible logical relations between a finite collection of different sets"
+    },
+    {
+      "term": "De Morgan's Laws",
+      "definition": "Rules that relate the complement of the union of two sets to the intersection of their complements, and vice versa"
+    }
+  ]
+}

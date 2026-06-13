@@ -1,0 +1,678 @@
+:root {
+    --bg-dark: #0d1117;
+    --bg-dark-gradient: linear-gradient(135deg, #0d1117 0%, #1a1f3a 50%, #0d1117 100%);
+    --glass-bg: rgba(15, 25, 50, 0.5);
+    --glass-border: rgba(100, 180, 255, 0.15);
+    --accent-cyan: #22d3ee;
+    --accent-purple: #a855f7;
+    --accent-blue: #3b82f6;
+    --text-main: #e2e8f0;
+    --text-dim: #94a3b8;
+    --neon-cyan: #00ffff;
+    --neon-purple: #ff00ff;
+}
+
+/* Glassmorphism Effect */
+.glass-card {
+    background: rgba(20, 35, 75, 0.55);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border: 1px solid rgba(100, 180, 255, 0.2);
+    border-radius: 24px;
+    padding: 24px;
+}
+
+.dashboard-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    background: var(--bg-dark-gradient);
+    font-family: 'Inter', sans-serif;
+    color: var(--text-main);
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+
+@media (max-width: 1024px) {
+    .dashboard-container {
+        padding: 15px;
+        height: auto;
+        min-height: 100vh;
+        position: relative;
+    }
+}
+
+@media (max-width: 480px) {
+    .dashboard-container {
+        padding: 10px;
+    }
+}
+
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 22px;
+    font-size: 14px;
+    padding: 0 8px;
+}
+
+.breadcrumb-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.back-topics-btn {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-main);
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+    backdrop-filter: blur(5px);
+}
+
+.back-topics-btn:hover {
+    background: rgba(255, 255, 255, 0.15);
+    color: var(--accent-cyan);
+    border-color: var(--accent-cyan);
+    transform: translateX(-2px);
+    box-shadow: 0 0 12px rgba(34, 211, 238, 0.3);
+}
+
+.breadcrumb {
+    color: var(--text-dim);
+}
+
+.breadcrumb span {
+    color: white;
+    font-weight: 600;
+}
+
+.nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+    color: var(--text-main);
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.icon:hover {
+    color: var(--accent-cyan);
+}
+
+.profile-circle {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent-cyan), var(--accent-purple));
+    cursor: pointer;
+}
+
+.main-layout {
+    display: grid;
+    grid-template-columns: 2.2fr 1fr;
+    gap: 28px;
+    flex: 1;
+    min-height: 0;
+}
+
+.main-layout.full-width {
+    grid-template-columns: 1fr;
+}
+
+@media (max-width: 1024px) {
+    .main-layout {
+        grid-template-columns: 1fr;
+        gap: 20px;
+        overflow: visible;
+    }
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    /* gap: 20px; Removed gap to allow SmartBoard to fill space */
+    min-height: 0;
+    height: 100%;
+    /* Force full height to start */
+    overflow: hidden;
+    /* Prevent parent scroll, allow children to handle it */
+    padding: 0;
+    /* Remove padding here, handle in children */
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-header h2 {
+    margin: 0;
+    font-size: 26px;
+    font-weight: 700;
+    color: white;
+}
+
+.more-btn {
+    background: none;
+    border: none;
+    color: var(--text-main);
+    font-size: 20px;
+    cursor: pointer;
+    padding: 4px 8px;
+    transition: color 0.3s;
+}
+
+.more-btn:hover {
+    color: var(--accent-cyan);
+}
+
+/* Visualization Container */
+.viz-container {
+    flex: 1;
+    background: radial-gradient(circle at center, rgba(34, 211, 238, 0.1) 0%, rgba(100, 50, 200, 0.05) 40%, rgba(15, 22, 38, 0.3) 100%);
+    position: relative;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border: 1px solid rgba(34, 211, 238, 0.1);
+}
+
+#magnetVisualization {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.viz-header {
+    position: absolute;
+    top: 25px;
+    right: 35px;
+    text-align: right;
+    font-size: 13px;
+    z-index: 10;
+}
+
+.viz-header h3 {
+    color: var(--accent-cyan);
+    margin: 0 0 10px 0;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.specs {
+    color: var(--text-dim);
+    line-height: 1.7;
+}
+
+.specs p {
+    margin: 3px 0;
+    font-size: 12px;
+}
+
+.viz-legend {
+    position: absolute;
+    bottom: 25px;
+    left: 35px;
+    font-size: 12px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+    color: var(--text-dim);
+    font-weight: 500;
+}
+
+.dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.stats-sidebar {
+    position: absolute;
+    right: 35px;
+    bottom: 35px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    font-size: 12px;
+}
+
+.stat-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--text-dim);
+    font-weight: 500;
+}
+
+.stat-row span:first-child {
+    min-width: 75px;
+    font-size: 12px;
+}
+
+.stat-progress {
+    width: 85px;
+    height: 5px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.stat-fill {
+    height: 100%;
+    background: linear-gradient(90deg, rgba(34, 211, 238, 0.8), rgba(168, 85, 247, 0.8));
+    border-radius: 3px;
+}
+
+.stat-row span:last-child {
+    min-width: 25px;
+    color: var(--accent-cyan);
+    font-size: 11px;
+    font-weight: 600;
+}
+
+
+
+/* Sidebar */
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    overflow: hidden;
+}
+
+.live-feed {
+    width: 100%;
+    height: auto;
+    padding: 12px;
+    position: relative;
+    overflow: visible;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+@media (max-width: 1024px) {
+    .sidebar {
+        gap: 20px;
+    }
+
+    .live-feed {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .video-placeholder {
+        width: 40%;
+        max-width: 300px;
+    }
+}
+
+@media (max-width: 480px) {
+    .live-feed {
+        flex-direction: column;
+    }
+
+    .video-placeholder {
+        width: 100%;
+        max-width: none;
+    }
+}
+
+.live-badge {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+    z-index: 10;
+    background: #ef4444;
+    font-size: 9px;
+    padding: 4px 8px;
+    border-radius: 3px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    color: white;
+}
+
+.video-placeholder {
+    /* Removed background causing double-card effect */
+    flex-shrink: 0;
+    width: 100%;
+    aspect-ratio: 16/9;
+    border-radius: 20px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.video-placeholder img,
+.video-placeholder>div {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.prof-label {
+    position: absolute;
+    bottom: 10px;
+    /* Adjusted */
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    letter-spacing: 0.5px;
+    text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+}
+
+.video-controls {
+    position: static;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    justify-content: center;
+    margin-left: 8px;
+}
+
+/* New Control Buttons - Circular */
+.new-control-btn {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    /* Circular */
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-dim);
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+    backdrop-filter: blur(5px);
+}
+
+.new-control-btn:hover {
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+    transform: scale(1.05);
+}
+
+/* Active State for Toggle Buttons */
+.new-control-btn.active {
+    background: rgba(34, 211, 238, 0.2);
+    border-color: var(--accent-cyan);
+    color: var(--accent-cyan);
+    box-shadow: 0 0 12px rgba(34, 211, 238, 0.3);
+}
+
+/* Red Power Button Specifics */
+.power-btn-red {
+    background: rgba(239, 68, 68, 0.2);
+    border-color: rgba(239, 68, 68, 0.4);
+    color: #ef4444;
+}
+
+.power-btn-red:hover {
+    background: #ef4444;
+    color: white;
+    box-shadow: 0 0 12px rgba(239, 68, 68, 0.5);
+    transform: scale(1.05);
+}
+
+/* Chat Box */
+.chat-box {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow: visible;
+    min-height: 0;
+    position: relative;
+    padding: 12px;
+    /* Reduced from default glass-card 24px */
+}
+
+.chat-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid rgba(34, 211, 238, 0.1);
+}
+
+.chat-header h3 {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.messages {
+    flex: 1;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding-right: 8px;
+}
+
+.messages::-webkit-scrollbar {
+    width: 5px;
+}
+
+.messages::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.messages::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 3px;
+}
+
+.msg {
+    display: flex;
+    margin-bottom: 8px;
+}
+
+.msg-content {
+    padding: 11px 14px;
+    border-radius: 14px;
+    font-size: 13px;
+    max-width: 85%;
+    word-wrap: break-word;
+    line-height: 1.5;
+}
+
+.bot {
+    justify-content: flex-start;
+}
+
+.bot .msg-content {
+    background: rgba(100, 150, 200, 0.18);
+    border: 1px solid rgba(100, 150, 200, 0.25);
+    color: var(--text-main);
+    border-top-left-radius: 6px;
+}
+
+.user {
+    justify-content: flex-end;
+}
+
+.user .msg-content {
+    background: rgba(34, 211, 238, 0.18);
+    border: 1px solid rgba(34, 211, 238, 0.35);
+    color: rgba(34, 211, 238, 0.95);
+    border-top-right-radius: 6px;
+}
+
+/* Markdown Specific Styles for Chat */
+.msg-content p {
+    margin: 0 0 8px 0;
+}
+
+.msg-content p:last-child {
+    margin-bottom: 0;
+}
+
+.msg-content strong {
+    color: var(--accent-cyan);
+    font-weight: 700;
+}
+
+.msg-content ul, .msg-content ol {
+    margin: 8px 0;
+    padding-left: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.msg-content li {
+    margin-bottom: 2px;
+}
+
+.bot .msg-content strong {
+    color: #ffd700; /* Gold-ish for AI highlights */
+    text-shadow: 0 0 8px rgba(255, 215, 0, 0.2);
+}
+
+.user .msg-content strong {
+    color: white;
+    text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+}
+
+.chat-input {
+    display: flex;
+    gap: 10px;
+    margin-top: 14px;
+    position: relative;
+}
+
+@media (max-width: 480px) {
+    .chat-input {
+        flex-direction: column;
+    }
+
+    .chat-input input {
+        padding-right: 16px !important;
+    }
+
+    .chat-input .input-actions {
+        position: static !important;
+        transform: none !important;
+        justify-content: flex-end;
+        margin-top: 10px;
+    }
+}
+
+.chat-input input {
+    flex: 1;
+    background: rgba(255, 255, 255, 0.05);
+    /* Adjusted from 0.06 to match lower block */
+    border: 1px solid var(--glass-border);
+    /* using var */
+    border-radius: 13px;
+    /* 12px in lower block, 13px in upper? Let's stick to upper */
+    padding: 11px 16px;
+    color: var(--text-main);
+    /* white in lower */
+    font-size: 13px;
+    outline: none;
+    transition: all 0.3s;
+    width: 100%;
+    /* from lower */
+    box-sizing: border-box;
+    /* from lower */
+}
+
+.chat-input input::placeholder {
+    color: var(--text-dim);
+}
+
+.chat-input input:focus {
+    border-color: var(--accent-cyan);
+    background: rgba(255, 255, 255, 0.08);
+    box-shadow: 0 0 10px rgba(34, 211, 238, 0.25);
+}
+
+.send-btn {
+    width: 38px;
+    height: 38px;
+    border-radius: 11px;
+    border: 1px solid rgba(34, 211, 238, 0.35);
+    background: rgba(34, 211, 238, 0.12);
+    color: var(--accent-cyan);
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+    flex-shrink: 0;
+}
+
+.send-btn:hover {
+    background: rgba(34, 211, 238, 0.28);
+    box-shadow: 0 0 10px rgba(34, 211, 238, 0.45);
+}
+
+/* New Ask Doubt Red Button Style - Matches Power Button Logic */
+.ask-doubt-btn-red {
+    background: #ef4444;
+    /* Solid red by default */
+    color: white;
+    /* White text by default */
+    border: 1px solid rgba(239, 68, 68, 0.4);
+    border-radius: 20px;
+    padding: 4px 14px;
+    font-size: 11px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 0 12px rgba(239, 68, 68, 0.5);
+    /* Add glow by default too */
+}
+
+.ask-doubt-btn-red:hover,
+.ask-doubt-btn-red.active {
+    background: #dc2626;
+    /* Slightly darker or same on hover, lets go darker for interaction */
+    color: white;
+    box-shadow: 0 0 16px rgba(239, 68, 68, 0.7);
+    transform: translateY(-1px);
+}
+
+.ask-doubt-btn-red:active {
+    transform: scale(0.95);
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Chemistry in Everyday Life",
+    "chapter_number": 29,
+    "topic": "Drugs and their Classification",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:30:40.202312",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about drugs and their classification in chemistry. Let's start with the basics. \n\nA drug is a substance that changes how our body works. It can help in treating diseases or relieve pain. Drugs are very important in medicine. Now, let's see how we classify drugs. \n\nFirst, we classify drugs based on their pharmacological effect. This means how a drug affects the body. For example, painkillers like aspirin reduce pain. Antipyretics like paracetamol reduce fever. \n\nNext, we classify drugs based on their action. This means how the drug works in the body. For example, antibiotics kill bacteria. Antivirals stop viruses from growing. \n\nWe can also classify drugs by their chemical structure. This is about how the drug's molecules are arranged. For example, penicillin and amoxicillin have similar structures. They belong to the same class of antibiotics. \n\nAnother way to classify drugs is by their molecular targets. This means the specific part of the body the drug affects. For example, some drugs target enzymes, while others target receptors. \n\nNow, let's talk about the therapeutic effects of drugs. This is the good effect we want from a drug. For example, antibiotics cure infections. Painkillers relieve pain. \n\nBut drugs can also have side effects. These are unwanted effects. For example, antibiotics can cause stomach upset. Painkillers can sometimes cause dizziness. \n\nSome drugs can lead to addiction and dependence. This means a person feels they need the drug to feel normal. For example, some painkillers can be addictive if used too much. \n\nFinally, let's discuss the regulatory aspects of drug use. Drugs need approval from health authorities before use. This ensures they are safe and effective. In India, the Central Drugs Standard Control Organization (CDSCO) regulates drugs. \n\nLet's review some key points. Drugs can be classified by pharmacological effect, action, chemical structure, and molecular targets. Each class has examples, therapeutic effects, and possible side effects. Remember, drugs must be used carefully to avoid addiction and ensure safety. \n\nThat's all for today. Keep these points in mind as they are important for your JEE Main exam. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Drugs",
+    "Pharmacological Effect",
+    "Drug Action",
+    "Chemical Structure",
+    "Molecular Targets"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Drug",
+      "definition": "A substance that changes how the body works and is used for treating diseases."
+    },
+    {
+      "term": "Pharmacological Effect",
+      "definition": "The effect a drug has on the body."
+    },
+    {
+      "term": "Therapeutic Effect",
+      "definition": "The desired beneficial effect of a drug."
+    },
+    {
+      "term": "Side Effect",
+      "definition": "An unwanted effect of a drug."
+    },
+    {
+      "term": "Addiction",
+      "definition": "A condition where a person feels they need a drug to feel normal."
+    }
+  ]
+}

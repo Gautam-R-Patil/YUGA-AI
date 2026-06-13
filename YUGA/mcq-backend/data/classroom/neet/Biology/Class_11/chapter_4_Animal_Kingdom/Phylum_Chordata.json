@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Animal Kingdom",
+    "chapter_number": 4,
+    "topic": "Phylum Chordata",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:38:12.186273",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Phylum Chordata. This is a very important topic in biology. Many NEET questions come from this area. Let's start with the main features of Chordata. \n\nChordates have a notochord. A notochord is a rod-like structure. It supports the body. In some animals, it becomes the backbone. Another key feature is the dorsal nerve cord. This is a tube-like structure. It runs along the back. It helps send signals in the body. \n\nNow, let's look at some examples of chordates. Fish are chordates. They live in water and have gills. Amphibians like frogs can live in water and on land. Reptiles, such as snakes, have scales. Birds have feathers and can fly. Mammals like humans have hair or fur and feed milk to their young. \n\nChordates have different ways to reproduce. Some lay eggs. Others give birth to live young. For example, birds lay eggs. Humans give birth to babies. \n\nChordates play important roles in ecosystems. Many are top predators. This means they are at the top of the food chain. They help control the population of other animals. This keeps ecosystems balanced. \n\nChordates are also important to humans. They provide food like fish and chicken. They are used in research to learn more about biology. Some, like dogs and cats, are kept as pets. \n\nRemember, the notochord and dorsal nerve cord are key features of chordates. Fish, amphibians, reptiles, birds, and mammals are all chordates. They have diverse reproduction methods and important roles in nature and human life. \n\nA common mistake is thinking all chordates have backbones. But not all do. Some only have a notochord. \n\nIn summary, Phylum Chordata is a diverse and important group. It includes many animals we see every day. Understanding chordates helps us learn about life and ecosystems. Keep these points in mind for your NEET exams. \n\nGreat job today! Keep studying and stay curious!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Notochord",
+    "Dorsal nerve cord",
+    "Chordates",
+    "Ecosystem",
+    "Reproduction"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Notochord",
+      "definition": "A rod-like structure that supports the body in chordates."
+    },
+    {
+      "term": "Dorsal nerve cord",
+      "definition": "A tube-like structure that runs along the back and helps in sending signals."
+    },
+    {
+      "term": "Chordates",
+      "definition": "Animals that have a notochord and a dorsal nerve cord."
+    }
+  ]
+}

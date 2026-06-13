@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Gravitation",
+    "chapter_number": 8,
+    "topic": "Acceleration due to Gravity",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:55:30.167805",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to talk about something very important in physics. It's called the acceleration due to gravity, often represented by the letter 'g'. This is a key concept in many physics problems, especially in NEET exams. Let's start by understanding what 'g' means. \n\nAcceleration due to gravity is the rate at which an object speeds up as it falls towards the Earth. On Earth, 'g' is about 9.8 meters per second squared (m/s²). This means if you drop something, it speeds up by 9.8 m/s every second. \n\nNow, let's see how 'g' changes with altitude and depth. At higher altitudes, like on a mountain, 'g' is slightly less than 9.8 m/s². This happens because you are farther from the Earth's center. Similarly, if you go deep underground, 'g' also changes. It becomes less because you are closer to the Earth's center, but there is less mass pulling you down from above. \n\nHere's a quick check: If you are on a tall mountain, will 'g' be more or less than 9.8 m/s²? The answer is less. \n\nLet's see some examples of acceleration due to gravity. If you drop a ball from a building, it falls due to gravity. Another example is when you jump off a diving board; you fall towards the pool because of 'g'. \n\nIn physics problems, 'g' helps us calculate the time it takes for objects to fall, their speed, and how high they go when thrown up. For example, if you know the height of a building, you can calculate how long it takes for a ball to hit the ground. \n\nNow, let's solve a simple problem. Suppose you drop a stone from a height of 20 meters. How long will it take to reach the ground? Use the formula: t = √(2h/g). Here, 'h' is the height, and 'g' is 9.8 m/s². \n\nPlug in the values: t = √(2 * 20 / 9.8). Calculate it, and you find t is about 2 seconds. So, the stone takes about 2 seconds to hit the ground. \n\nCommon mistake: Students often forget to use the correct value of 'g'. Remember, on Earth, it's 9.8 m/s² unless told otherwise. \n\nLet's talk about how we can show 'g' on a graph. If you plot 'g' against altitude, you will see a slight decrease as altitude increases. This graph helps us understand how 'g' changes with height. \n\nKey points to remember: \n1. 'g' is 9.8 m/s² on Earth. \n2. 'g' decreases with altitude and depth. \n3. Use the correct value of 'g' in problems. \n\nTo sum up, acceleration due to gravity is a crucial concept in physics. It helps us understand how objects move when they fall. It's important for solving many NEET problems. Always remember the value of 'g' and how it changes with height and depth. \n\nThat's all for today! Remember to practice problems on 'g' and use the formulas correctly. See you next time!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Acceleration due to gravity",
+    "Altitude",
+    "Depth",
+    "Physics problems",
+    "Gravitational force"
+  ],
+  "formulas": [
+    {
+      "formula": "t = √(2h/g)",
+      "description": "Time (t) to fall from height (h) with gravity (g)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Acceleration due to gravity",
+      "definition": "The rate of increase in velocity of an object as it falls towards Earth."
+    }
+  ]
+}

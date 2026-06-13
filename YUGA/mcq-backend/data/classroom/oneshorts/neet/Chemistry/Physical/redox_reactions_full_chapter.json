@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Redox Reactions",
+    "chapter_number": "8",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:20:06.742307",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts\u2014Redox Reactions.\n\nRedox reactions are chemical reactions involving the transfer of electrons. They consist of oxidation and reduction processes. Oxidation is the loss of electrons, while reduction is the gain of electrons. These reactions are crucial because they explain many chemical processes.\n\nKey Idea: In a redox reaction, one species is oxidized (loses electrons), and another is reduced (gains electrons).\n\n### Key Formulas / Concepts:\n1. Oxidation Number: It's an indicator of the degree of oxidation of an atom in a chemical compound. \n2. Redox Reaction: A reaction in which transfer of electrons occurs.\n\n### Important Points:\n- Oxidation Number Change Method: Balancing redox reactions by equalizing the increase and decrease in oxidation numbers.\n- Half-Reaction Method: Balancing the separate oxidation and reduction reactions before combining them.\n- Disproportionation: A type of redox reaction where a single substance is both oxidized and reduced.\n\n### NEET Question Pattern:\n- Questions typically ask you to identify oxidation numbers, balance redox reactions, and identify oxidizing and reducing agents.\n\n### Quick Revision Points:\n1. Oxidation is loss, and reduction is gain of electrons (OIL RIG).\n2. Oxidation numbers help identify the oxidized and reduced species in reactions.\n3. Disproportionation involves a single substance being oxidized and reduced.\n4. Familiarize yourself with common oxidizing and reducing agents.\n5. Practice questions on balancing redox reactions using different methods.",
+  "duration_minutes": "10",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Redox",
+    "Oxidation Number",
+    "Electrons",
+    "Reduction",
+    "Oxidizing Agent",
+    "Reducing Agent",
+    "Disproportionation",
+    "Oxidation",
+    "Reactions",
+    "Half-Reaction"
+  ],
+  "formulas": [
+    "Oxidation Number: \\text{Sum of oxidation numbers in a neutral molecule} = 0",
+    "Oxidation: \\text{Loss of electrons}",
+    "Reduction: \\text{Gain of electrons}"
+  ],
+  "definitions": [
+    {
+      "term": "Redox",
+      "definition": "A chemical reaction where oxidation and reduction occur simultaneously."
+    },
+    {
+      "term": "Oxidation Number",
+      "definition": "A numerical representation indicating the number of electrons lost or gained by an atom in a compound."
+    },
+    {
+      "term": "Electrons",
+      "definition": "Negatively charged particles transferred between atoms in redox reactions."
+    },
+    {
+      "term": "Reduction",
+      "definition": "The gain of electrons by a chemical species."
+    },
+    {
+      "term": "Oxidizing Agent",
+      "definition": "A substance that causes another to undergo oxidation and is itself reduced."
+    },
+    {
+      "term": "Reducing Agent",
+      "definition": "A substance that causes another to undergo reduction and is itself oxidized."
+    },
+    {
+      "term": "Disproportionation",
+      "definition": "A redox reaction where a single substance is both oxidized and reduced."
+    },
+    {
+      "term": "Oxidation",
+      "definition": "The loss of electrons from a chemical species."
+    },
+    {
+      "term": "Reactions",
+      "definition": "Processes in which substances interact to form new products."
+    },
+    {
+      "term": "Half-Reaction",
+      "definition": "A part of the redox process, detailing either the oxidation or reduction operations separately."
+    }
+  ]
+}

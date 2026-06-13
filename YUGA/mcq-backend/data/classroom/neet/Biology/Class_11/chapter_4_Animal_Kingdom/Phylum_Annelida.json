@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Animal Kingdom",
+    "chapter_number": 4,
+    "topic": "Phylum Annelida",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:37:05.374499",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about Phylum Annelida. This is an important topic in the Animal Kingdom chapter. Let's start by understanding what Annelida means. Annelida are segmented worms. This means their bodies are divided into small parts, like rings on a finger.\n\nOne key feature of Annelida is that they are coelomate animals. Coelomate means they have a body cavity. This cavity is filled with fluid. It helps protect their organs and allows them to move easily.\n\nLet's look at some examples. The most common ones are earthworms and leeches. Earthworms are found in soil. They help make the soil healthy. Leeches are often found in water. They are known for sucking blood.\n\nNow, let's talk about reproduction in Annelida. Some Annelida are hermaphroditic. This means they have both male and female organs. Earthworms are an example. They can produce eggs and sperm. Other Annelida have separate sexes. This means there are male and female individuals, like in leeches.\n\nAnnelida play a big role in ecosystems. Earthworms help in soil aeration. This means they make small holes in the soil. These holes allow air and water to reach plant roots. Annelida also help in decomposition. They break down dead plants and animals, turning them into nutrients for the soil.\n\nAnnelida are also important for humans. In vermiculture, earthworms are used to make compost. This is a natural fertilizer for plants. Leeches have medical uses. They are used to reduce blood clots in surgeries.\n\nLet's go over some key points. Annelida are segmented worms with a coelom. They include earthworms and leeches. They can be hermaphroditic or have separate sexes. They are important for soil health and medicine.\n\nA common mistake is thinking all worms are Annelida. Remember, only segmented worms are Annelida. Also, not all Annelida are hermaphroditic.\n\nTo sum up, Annelida are fascinating creatures. They help the environment and have economic uses. Understanding them is crucial for NEET exams. Thank you for listening!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Annelida",
+    "Segmented worms",
+    "Coelomate",
+    "Earthworms",
+    "Leeches"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Annelida",
+      "definition": "A phylum of segmented worms with a body divided into ring-like segments."
+    },
+    {
+      "term": "Coelomate",
+      "definition": "Animals that have a fluid-filled body cavity called a coelom."
+    },
+    {
+      "term": "Hermaphroditic",
+      "definition": "Having both male and female reproductive organs."
+    },
+    {
+      "term": "Vermiculture",
+      "definition": "The use of earthworms to convert organic waste into fertilizer."
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+[
+    {
+        "id": 0,
+        "question_number": "122",
+        "text": "A gas is allowed to expand in a well insulated container against a constant external pressure of 2.5 atm from an initial volume of 2.50 L to a final volume of 4.50 L. The change in internal energy U of the gas in joules will be:",
+        "subject": "Physics",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PApAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "-500J",
+            "-505J",
+            "-506J",
+            "-508J"
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (1).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 106,
+        "correct_answer": "-506J",
+        "basic_answer": "Given: \n[V1 = 2.50 L, V₂ = 4.50 L, Pₑₓₜ = 2.5 atm, well-insulated container so Q = 0]\n\nSolution: \n[Use the first law of thermodynamics ΔU = Q − W, where Q is heat added to the system and W is Work done. For a gas expanding against a constant external pressure, the work done by the gas is\n\n \nW = Pₑₓₜ ΔV, with P in pascals and V in cubic metres (m³). Since the container is insulated, Q = 0 and therefore\n\n ΔU = −W. Convert pressure to SI units: Pₑₓₜ = 2.5 × 1.013 × 10⁵ Pa. Change in volume:\n\n ΔV = (4.50 − 2.50) L \n\n= 2.0 L = 2.0 × 10⁻³ m³.\n\n Then W = Pₑₓₜ ΔV \n\n≈ (2.5 × 1.013 × 10⁵) × 2.0 × 10⁻³ \n\n≈ 5.06 × 10² J ≈ 506 J.\n\n Therefore ΔU = 0 − 506 J ≈ −506 J]",
+        "explanation": "### Core Concept\nThis problem is based on the First Law of Thermodynamics Applied to an adiabatic process. \n\nKey Principles:\n\nFirst Law of Thermodynamics: ΔU = Q - W (where ΔU is the change in internal energy, Q is the heat added to the system, and W is the work done by the system).\n\n Adiabatic Condition: The phrase \"well insulated\" means no heat is exchanged with the surroundings, so Q is zero.\n\n Irreversible Work: When a gas expands against a constant external pressure (Pₑₓₜ), the work done is calculated using the formula: W = Pₑₓₜ * ΔV.\n\n\n### Solution\n\nStep 1: Identify Given Values\n* External Pressure (Pₑₓₜ) = 2.5 atm\n* Initial Volume (V1) = 2.50 L\n* Final Volume (V₂) = 4.50 L\n* Heat (Q) = 0 (due to insulation)\n\nStep 2: Calculate the Change in Volume (ΔV)\nΔV = V₂ - V1\nΔV = 4.50 L - 2.50 L = 2.00 L\n\n\n\nStep 3: Calculate the Work Done (W)\nW = Pₑₓₜ * ΔV\nW = 2.5 atm * 2.00 L = 5.0 L·atm\n\nStep 4: Convert Work to Joules\nSince the question asks for the answer in Joules (J), we must convert from L·atm using the conversion factor: 1 L·atm = 101.325 J.\nW = 5.0 * 101.325 J = 506.625 J\n\nStep 5: Calculate Change in Internal Energy (ΔU)\nUsing the First Law (ΔU = Q - W):\nΔU = 0 - 506.625 J\nΔU ≈ -506 J\n\n\n### Why This Answer?\nThe negative sign indicates that the internal energy of the gas has decreased. Because the container is insulated, the gas cannot absorb heat from the outside to help it expand. Therefore, it must spend its own internal energy to push against the external pressure. This \"spending\" of energy results in a decrease of 506 J.\n\n\n### Common Mistakes\n* Forgetting Unit Conversion: A common error is stopping after calculating 5.0 (L·atm) and looking for \"5\" in the options. Always convert L·atm to Joules by multiplying by ~101.3.\n* Sign Errors: Expansion means the system is doing work on the surroundings, which reduces its internal energy (negative ΔU). Compression would increase internal energy (positive ΔU).\n* Using Internal Pressure: Students sometimes try to use the Ideal Gas Law to find an internal pressure. For work against a constant atmosphere, you must always use the external pressure (Pₑₓₜ).",
+        "keywords": {
+            "Pₑₓₜ": "external pressure",
+            "atm": "atmospheres",
+            "L": "liters",
+            "J": "Joules",
+            "ΔV": "delta vee",
+            "ΔU": "delta you",
+            "Pa": "pascals"
+        }
+    },
+    {
+        "id": 1,
+        "question_number": "135",
+        "text": "Consider a drop of rainwater having a mass of 1gm falling from a height of 1 km. It hits the ground with a speed of 50 m/s. Take 'g' constant with a value 10 m/s². The work done by the (i) gravitational force and the (ii) resistive force of air is:",
+        "subject": "Physics",
+        "sub_topic": "Work and Energy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 17,
+        "source_pdf": "PApAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "(i) 1.25 J (ii) -8.25 J",
+            "(i) 100 J (ii) 8.75 J",
+            "(i) 10 J (ii) -8.75 J",
+            "(i) -10 J (ii) -8.75 J"
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (1).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 118,
+        "correct_answer": "(i) 10 J (ii) -8.75 J",
+        "basic_answer": "Given: \n[m = 1 g = 0.001 kg, h = 1 km = 1000 m, final speed v = 50 m/s, g = 10 m/s²]\n\nSolution: \n[Use the work–energy theorem: the net work on the drop equals the change in kinetic energy, \n\n$W_{g}$ + Wₐᵢᵣ = ΔK.\nHere $W_{g}$ is work by gravity, Wₐᵢᵣ is work by the resistive force of air. \n\nWork by gravity: $W_{g}$ = mgh \n\n= 0.001 × 10 × 1000 = 10 J.\n\n Initial kinetic energy is zero; final\n\n \nKE = ½ m v² = ½ × 0.001 × 50² = 1.25 J,\n\nΔK = 1.25 J.\n\n From $W_{g}$ + Wₐᵢᵣ = ΔK, we get\n\n Wₐᵢᵣ = ΔK − $W_{g}$ = 1.25 − 10 = −8.75 J]",
+        "explanation": "### Core Concept\nThis problem is solved using the Work-Energy Theorem, which states that the total work done by all forces acting on an object is equal to the change in its kinetic energy (ΔK).\n\nKey Principles:\n1. Total Work (W_total): The sum of work done by gravity (W_g) and work done by air resistance (W_r).\n2. Work-Energy Formula: W_g + W_r = ΔK\n3. Work by Gravity: Calculated as W_g = m * g * h (positive because gravity acts in the direction of motion).\n4. Kinetic Energy (K): Calculated as K = 1/2 * m * v².\n\n\n### Solution\n\nStep 1: Convert Units to SI (Standard International)\n* Mass (m) = 1 g = 0.001 kg\n* Height (h) = 1 km = 1000 m\n* Velocity (v) = 50 m/s\n* Gravity (g) = 10 m/s²\n\n\n\nStep 2: Calculate Work Done by Gravity (i)\nSince gravity acts downwards and the drop moves downwards, the work is positive:\nW_g = m * g * h\nW_g = 0.001 kg * 10 m/s² * 1000 m\nW_g = 10 J\n\nStep 3: Calculate the Change in Kinetic Energy (ΔK)\nThe drop starts from rest (initial speed = 0), so ΔK = Final K - 0.\nΔK = 1/2 * m * v²\nΔK = 1/2 * 0.001 kg * (50 m/s)²\nΔK = 0.5 * 0.001 * 2500\nΔK = 1.25 J\n\nStep 4: Calculate Work Done by Resistive Force (ii)\nUsing the Work-Energy Theorem:\nW_g + W_r = ΔK\n10 J + W_r = 1.25 J\nW_r = 1.25 J - 10 J\nW_r = -8.75 J\n\n\n### Why This Answer?\nThe work done by gravity is 10 J, representing the potential energy the drop would have converted entirely into speed if there were no air. However, the drop only gained 1.25 J of kinetic energy. The missing 8.75 J was \"taken away\" by air resistance, which is why the work done by the resistive force is negative.\n\n\n### Common Mistakes\n* Unit Conversion Errors: Forgetting to convert grams to kilograms or kilometers to meters will result in answers that are off by factors of 10 or 1000.\n* Sign of Work: Gravitational work is positive here because the force and displacement are in the same direction. Resistive work must be negative because air resistance opposes the motion.\n* Misinterpreting the Theorem: Some might try to set mgh = 1/2mv², which only works in a vacuum. In the real world (with air), you must account for the energy lost to friction/resistance.",
+        "keywords": {
+            "m": "mass",
+            "gm": "gram",
+            "g": "acceleration due to gravity",
+            "h": "height",
+            "v": "velocity",
+            "J": "Joules",
+            "ΔK": "delta ke",
+            "KE": "Kinetic Energy"
+        }
+    },
+    {
+        "id": 2,
+        "question_number": "44",
+        "text": "In an unbiased p-n junction, holes diffuse from the p-region to n-region because of:",
+        "subject": "Physics",
+        "sub_topic": "Semiconductors",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PApAER (26)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "the attraction of free electrons of the n-region.",
+            "the higher hole concentration in the p-region than that in the n-region.",
+            "the higher concentration of electrons is in the n-region than that in the p-region.",
+            "the potential difference across the p-n junction."
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (26).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 2777,
+        "correct_answer": "the higher hole concentration in the p-region than that in the n-region.",
+        "basic_answer": "Given: \n[p-region hole concentration > n-region hole concentration]\nSolution: \n[Diffusion of carriers in semiconductors is driven by concentration gradients]",
+        "explanation": "### Core Concept\nThis problem focuses on the fundamental mechanism of charge carrier movement in a semiconductor known as diffusion. \n\nKey Principles:\n1. Diffusion: This is the process where particles move from a region of higher concentration to a region of lower concentration due to random thermal motion. It does not require an external electric field.\n2. Concentration Gradient: In a p-n junction, the p-region is heavily doped with acceptor atoms (creating many holes), while the n-region is doped with donor atoms (creating many electrons).\n3. Charge Carriers: Holes are the majority carriers in the p-region, and electrons are the majority carriers in the n-region.\n\n\n### Solution\n\nStep 1: Analyze the P-Region vs. N-Region\n* In the p-region, the concentration of holes is very high.\n* In the n-region, the concentration of holes is very low (they are minority carriers here).\n\n\n\nStep 2: Determine the Driving Force\nWhen the two regions are brought into contact to form a junction, a large concentration gradient for holes exists across the boundary. Because there are significantly more holes in the p-side than the n-side, holes naturally begin to spread (diffuse) into the n-side to eliminate this imbalance.\n\nStep 3: Evaluate the \"Unbiased\" Condition\n\"Unbiased\" means no external voltage is Applied. In this state, the initial movement of charge carriers is entirely due to the concentration difference, not due to an external electric field or potential difference.\n \n\n### Why This Answer?\nThe correct option is \"the higher hole concentration in the p-region than that in the n-region\". Diffusion is a statistical phenomenon; particles move away from where they are crowded. While electric fields later develop (forming the depletion region and barrier potential), the initial and primary cause for holes moving from p to n is simply that there are more of them on the p-side.\n\n\n### Common Mistakes\n* Confusing Diffusion with Drift: \"Drift\" is the movement of carriers due to an electric field (potential difference). Diffusion hAppens purely because of concentration differences. In an unbiased junction, diffusion hAppens first.\n* Attraction Fallacy: Students often think holes move because they are \"attracted\" to the electrons on the n-side. While opposite charges do attract, the specific physical process of crossing the junction boundary in a semiconductor is defined as diffusion driven by the gradient.\n* Barrier Potential Confusion: Some might choose the potential difference option. However, the barrier potential actually opposes the further diffusion of holes; it is not the cause of it.",
+        "keywords": {}
+    },
+    {
+        "id": 3,
+        "question_number": "167",
+        "text": "Which one of the following bonds produces a solid that reflects light in the visible region and whose electrical conductivity decreases with temperature and has a high melting point?",
+        "subject": "Physics",
+        "sub_topic": "Solid State Physics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PApAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "metallic bonding",
+            "van der Waals' bonding",
+            "ionic bonding",
+            "covalent bonding"
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (10).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 295,
+        "correct_answer": "metallic bonding",
+        "basic_answer": "Given: \n[high melting point, reflects visible light, conductivity decreases with temperature]\nSolution: \n[These are characteristic properties of typical metallic solids, arising from delocalized electrons and strong metallic bonds.]",
+        "explanation": "### Core Concept\nThis question tests the understanding of how different types of chemical bonds influence the physical and electrical properties of solids. The properties described—luster, high melting point, and a negative temperature coefficient of conductivity—are defining characteristics of metals.\n\nKey Principles:\n1. Sea of Electrons Model: In metallic bonding, valence electrons are delocalized, meaning they move freely throughout the crystal lattice of positive ions.\n2. Optical Properties (Luster): Free electrons on the surface of a metal can vibrate in response to incident light and re-emit it, causing the metal to reflect light (lustre).\n3. Temperature and Conductivity: In metals, as temperature increases, the positive ions in the lattice vibrate more vigorously, which scatters the flowing electrons and increases resistance (thereby decreasing conductivity).\n\n\n### Solution\n\nStep 1: Analyze \"Reflects light in the visible region\"\nOnly materials with a high density of free, mobile electrons can reflect visible light effectively. This immediately points toward metallic bonding.\n\nStep 2: Analyze \"Electrical conductivity decreases with temperature\"\n* Metals: Conductivity decreases as temperature rises because lattice vibrations interfere with electron flow.\n* Semiconductors/Insulators: Conductivity usually increases with temperature because more electrons gain enough energy to jump into the conduction band.\nSince the conductivity decreases, the solid must be a metal.\n\nStep 3: Analyze \"High Melting Point\"\nMetallic bonds are generally strong due to the electrostatic attraction between the metal ions and the delocalized electrons, leading to high melting points (though there are exceptions like Mercury, the general class of transition metals fits this well).\n \n\n### Why This Answer?\nThe correct option is \"metallic bonding\". While ionic and covalent solids can have high melting points, they fail the other criteria. Ionic solids are insulators in the solid state and are generally transparent or translucent, and covalent solids (like Diamond) do not have the free electrons necessary to reflect light in the metallic sense or show a decrease in conductivity with rising temperature.\n\n\n### Common Mistakes\n* Confusing Metallic with Ionic Bonding: Students sometimes associate \"high melting point\" only with ionic bonds (like NaCl). However, NaCl does not reflect visible light in a metallic way and does not conduct electricity as a solid.\n* Conductivity Trend Misconception: Many forget that metals and semiconductors have opposite reactions to heat. If the question said conductivity *increases* with temperature, the answer would likely be a semiconductor (often covalent).\n* Van der Waals Confusion: Some might pick Van der Waals because it involves solids, but these bonds are the weakest of all, leading to very low melting points and no electrical conductivity.",
+        "keywords": {
+            "m": "melting point",
+            "T": "temperature",
+            "σ": "electrical conductivity",
+            "E": "energy",
+            "e−": "free electrons",
+            "K": "kelvin"
+        }
+    },
+    {
+        "id": 4,
+        "question_number": "138",
+        "text": "The two nearest harmonics of a tube closed at one end and open at the other end are 220 Hz and 260 Hz. What is the fundamental frequency of the system?",
+        "subject": "Physics",
+        "sub_topic": "Waves",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 17,
+        "source_pdf": "PApAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "20 Hz",
+            "30 Hz",
+            "40 Hz",
+            "10 Hz"
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (1).pdf",
+            "page": 17,
+            "type": "MCQ"
+        },
+        "original_id": 121,
+        "correct_answer": "20 Hz",
+        "basic_answer": "Given: \n[Frequency of one harmonic f₁ = 220 Hz\n\nFrequency of the next harmonic f₂ = 260 Hz]\n\nSolution: \n[In a tube closed at one end, only odd harmonics are present (f₀, 3f₀, 5f₀, ...).\n\nThe difference between any two consecutive harmonics in a closed pipe is equal to 2 × f₀ (the fundamental frequency).\n\nf₂ - f₁ = 2f₀\n260 Hz - 220 Hz = 2f₀\n40 Hz = 2f₀\nf₀ = 40 Hz / 2 = 20 Hz\n\nFinal Answer: 20 Hz",
+        "explanation": "### Core Concept\nThis problem involves the physics of standing waves in an air column. A tube closed at one end and open at the other is known as a closed organ pipe.\n\nKey Principles:\n1. Odd Harmonics Only: A closed organ pipe supports only odd multiples of the fundamental frequency (f₀). The series of frequencies is f₀, 3f₀, 5f₀, 7f₀, and so on.\n2. Frequency GAp: In a pipe open at both ends, the difference between consecutive harmonics is f₀. However, in a pipe closed at one end, the difference between consecutive harmonics is 2f₀ (e.g., 3f₀ - f₀ = 2f₀).\n3. Fundamental Frequency: This is the lowest frequency (the first harmonic) at which the system naturally vibrates.\n\n\n### Solution\n\nStep 1: Identify Given Information\n* Harmonic 1 (f_n) = 220 Hz\n* Next Harmonic (f_n+1) = 260 Hz\n\nStep 2: Relate the Harmonics to the Fundamental Frequency\nIn a closed pipe, any two consecutive harmonics can be represented as:\n* f_a = (2n - 1)f₀\n* f_b = (2n + 1)f₀\n\n\n\nStep 3: Calculate the Difference Between Harmonics\nThe difference between these two consecutive frequencies is:\nΔf = f_b - f_a\nΔf = [(2n + 1)f₀] - [(2n - 1)f₀]\nΔf = 2f₀\n\nStep 4: Solve for the Fundamental Frequency (f₀)\nSubstitute the given values into the equation:\n260 Hz - 220 Hz = 2f₀\n40 Hz = 2f₀\nf₀ = 40 Hz / 2\nf₀ = 20 Hz\n \n\n### Why This Answer?\nThe fundamental frequency is 20 Hz. We can verify this by checking if the given frequencies are indeed odd multiples of 20:\n* 220 Hz / 20 Hz = 11 (The 11th harmonic)\n* 260 Hz / 20 Hz = 13 (The 13th harmonic)\nSince 11 and 13 are consecutive odd integers, the calculation is consistent with the properties of a tube closed at one end.\n \n\n### Common Mistakes\n* Treating it as an Open Pipe: Many students subtract the frequencies (260 - 220 = 40) and assume 40 Hz is the fundamental frequency. This only Applies to pipes open at both ends (where all harmonics are present).\n* Incorrect Harmonic GAp: Forgetting that closed pipes skip even harmonics. If you don't account for the \"missing\" even harmonics, you will overestimate the fundamental frequency by a factor of 2.\n* Miscounting Harmonics: Trying to guess the harmonic number (n) without using the difference method. The difference method is always the most reliable way to find f₀ when given two consecutive frequencies.",
+        "keywords": {
+            "f": "frequency",
+            "Hz": "Hertz",
+            "n": "harmonic number",
+            "v": "velocity",
+            "L": "length"
+        }
+    },
+    {
+        "id": 5,
+        "question_number": "142",
+        "text": "A cApacitor is charged by a battery. The battery is removed and another identical uncharged cApacitor is connected in parallel. The total electrostatic energy of resulting system:",
+        "subject": "Physics",
+        "sub_topic": "Electrostatics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PApAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Decreases by a factor of 2",
+            "Remains the same",
+            "Increases by a factor of 2",
+            "Increases by a factor of 4"
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (1).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 122,
+        "correct_answer": "Decreases by a factor of 2",
+        "basic_answer": "Given: \n[One cApacitor charged and a second identical one uncharged, both having cApacitance C]\nSolution: \n[E = 1/2 * C * V²,\n\n Total Energy after connecting in parallel:\n\n Eₜₒₜₐₗ = 1/2 C V² + 1/2 * C * $V_{\\text{new}}$² \n\nwhere $V_{\\text{new}}$ = V/2. Eᵢₙᵢₜᵢₐₗ = 1/2 * C * V².\n\n After connecting the second cApacitor in parallel, the voltage across both cApacitors is V/2. Thus Eₜₒₜₐₗ = 1/2 * C * (V/2)² + 1/2 C (V/2)² \n\n= 1/2 * C * (V² / 4) + 1/2 * C * (V² / 4) \n\n= 1/4 * C * V².\n\n Therefore, Eᵢₙᵢₜᵢₐₗ / Eₜₒₜₐₗ = (1/2 C V²) / (1/4 * C * V²) \n\n= 2]",
+        "explanation": "### Core Concept\nThis problem involves the principle of Conservation of Charge and the redistribution of energy when cApacitors are connected. \n\nKey Principles:\n1. Energy Formula: The electrostatic energy (U) stored in a cApacitor can be expressed as U = 1/2 * C * V² or U = Q² / (2C).\n2. Conservation of Charge: When the battery is removed, the total charge (Q) on the first cApacitor is trApped. Connecting it to another cApacitor redistributes this charge, but the total amount (Q_total) remains constant.\n3. Parallel Connection: When two cApacitors are connected in parallel, they must have the same potential difference (Voltage) across them.\n\n\n### Solution\n\nStep 1: Initial State (Single CApacitor)\n* CApacitance = C\n* Voltage = V\n* Charge (Q) = C * V\n* Initial Energy (U_initial) = 1/2 * C * V²\n\nStep 2: Final State (Two CApacitors in Parallel)\nWhen an identical uncharged cApacitor (C) is connected in parallel:\n* Total CApacitance (C_total): For parallel cApacitors, C_total = C + C = 2C.\n* New Voltage (V_final): Since charge (Q) is conserved and Q = C_total * V_final:\n  V_final = Q / C_total = (C * V) / (2C) = V / 2\n  *(The voltage across both cApacitors is halved.)*\n\nStep 3: Calculate Total Final Energy (U_final)\nUsing the formula U = 1/2 * C_total * (V_final)²:\nU_final = 1/2 * (2C) * (V / 2)²\nU_final = C * (V² / 4)\nU_final = 1/4 * C * V²\n\nStep 4: Compare Initial and Final Energy\nU_initial = 1/2 * C * V²\nU_final = 1/4 * C * V²\nRatio = U_final / U_initial = (1/4) / (1/2) = 1/2\n \n\n### Why This Answer?\nThe total energy decreases by a factor of 2. Even though the charge is conserved, some energy is always lost (usually as heat in the connecting wires or as electromagnetic radiation) during the process of charge redistribution. The final system holds only half the original energy because the same amount of charge is now spread over twice the cApacitance at half the voltage.\n\n\n### Common Mistakes\n* Assuming Energy is Conserved: A very common error is thinking that energy must be conserved just like charge. In electrical circuits, connecting a charged cApacitor to an uncharged one always results in an energy loss.\n* Voltage Confusion: Forgetting that the voltage drops when the charge spreads out. If you incorrectly use the original voltage V for the new system, you would mistakenly conclude that the energy doubles.\n* Ignoring CApacitance Change: Some students forget to add the cApacitances together (Cₜₒₜₐₗ = 2C) when calculating the final energy of the system.",
+        "keywords": {
+            "Eᵢₙᵢₜᵢₐₗ": "Initial Energy",
+            "Eₜₒₜₐₗ": "Total Energy",
+            "E": "Energy",
+            "cApacitance C": "cApacitance C",
+            "C": "CApacitance",
+            "V": "Voltage",
+            "J": "Joules"
+        }
+    },
+    {
+        "id": 6,
+        "question_number": "143",
+        "text": "In a common-emitter transistor amplifier, the audio signal voltage across the collector is 3V. The resistance of the collector is 3kΩ. If current gain is 100 and the base resistance is 2kΩ, the voltage and power gain of the amplifier is:",
+        "subject": "Physics",
+        "sub_topic": "Transistor Amplifiers",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PApAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "15 and 200",
+            "150 and 15000",
+            "20 and 2000",
+            "200 and 1000"
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (1).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 123,
+        "correct_answer": "150 and 15000",
+        "basic_answer": "Given: \n[Collector AC voltage swing ≈ 3 V across Rᴄ = 3 kΩ, current gain β = 100, base resistance Rʙ = 2 kΩ]\n\nSolution: \n[For a small-signal common-emitter amplifier, the AC collector current is iᴄ ≈ β iʙ. If the input AC signal Appears across Rʙ, the small-signal base voltage is vʙ = iʙ Rʙ and the collector voltage is vᴄ = iᴄ Rᴄ = β iʙ Rᴄ. \n\nThus voltage gain Aᵥ = vᴄ / vʙ = β Rᴄ / Rʙ.\n\nPower gain is Approximately Aₚ = Aᵥ × (iᴄ / iʙ) \n\n= Aᵥ × β. Aᵥ = β Rᴄ / Rʙ \n\n= 100 × 3000 / 2000 =150.\n\n Then Aₚ ≈ Aᵥ × β = 150 × 100 =15000.\n\n These values are also consistent with the given 3 V swing: vᵢₙ ≈ vᴄ / Aᵥ = 3 / 150 = 0.02 V across Rʙ, giving iʙ ≈ 0.02 / 2000 = 10 µA and iᴄ ≈ β iʙ = 1 mA, which indeed produces 3 V across 3 kΩ]",
+        "explanation": "### Core Concept\nIn a Common-Emitter (CE) transistor amplifier, the small input signal Applied to the base-emitter junction controls a much larger current in the collector-emitter circuit. This behavior allows the transistor to act as an amplifier for both voltage and power.\n\nKey Principles:\n1. Current Gain (β): The ratio of the output collector current (Ic) to the input base current (Ib). \n2. Voltage Gain (Aᵥ): The ratio of the output signal voltage (Vc) to the input signal voltage (Vb). It is determined by the current gain and the ratio of collector resistance to base resistance.\n3. Power Gain (Aₚ): The ratio of output power to input power, which is the product of voltage gain and current gain.\n\n\n### Solution\n\nStep 1: Identify Given Parameters\n* Collector Resistance (Rᴄ) = 3 kΩ = 3000 Ω\n* Base Resistance (Rʙ) = 2 kΩ = 2000 Ω\n* Current Gain (β) = 100\n* Collector Signal Voltage (Vc) = 3 V\n\nStep 2: Calculate Voltage Gain (Aᵥ)\nThe voltage gain for a CE amplifier is given by the formula:\nAᵥ = Current Gain * (Collector Resistance / Base Resistance)\nAᵥ = β * (Rᴄ / Rʙ)\nAᵥ = 100 * (3000 / 2000)\nAᵥ = 100 * 1.5\nAᵥ = 150\n\nStep 3: Calculate Power Gain (Aₚ)\nPower gain is the product of voltage gain and current gain:\nAₚ = Voltage Gain * Current Gain\nAₚ = Aᵥ * β\nAₚ = 150 * 100\nAₚ = 15000\n \n\n### Why This Answer?\nThe voltage gain is 150 and the power gain is 15000. These results indicate that the output signal voltage is 150 times larger than the input signal voltage, and the total signal power has been amplified by a factor of 15,000. These values align perfectly with the standard relationships of transistor parameters in a common-emitter configuration.\n\n\n### Common Mistakes\n* Resistance Unit Error: Forgetting to ensure both resistances are in the same units (both in Ω or both in kΩ). In this case, 3/2 gives the same result as 3000/2000, but consistency is vital for more complex problems.\n* Using the Wrong Gain Formula: Confusing power gain with voltage gain squared. While Power = V²/R, the simple product of Current Gain and Voltage Gain (β * av) is the standard Approach for amplifiers where input and output resistances differ.\n* Applying the 3V Directly: Some students try to find the input voltage first using Ic = Vc/Rᴄ. While this works (Ic = 3/3000 = 1mA\n\nIb = 1mA/100 = 10µA\n\nVb = 10µA * 2000 = 0.02V\n\nav = 3/0.02 = 150)\n\nit is a longer path than using the direct gain formulas.",
+        "keywords": {
+            "V": "Voltage",
+            "A": "Amperes",
+            "Ω": "Ohms",
+            "kΩ": "Kiloohms",
+            "mA": "milliamperes",
+            "µA": "microamperes",
+            "current gain β": "Current Gain Beta",
+            "voltage gain Aᵥ": "Voltage Gain Av",
+            "power gain Aₚ": "Power Gain Ap",
+            "β": "Current Gain",
+            "Rᴄ": "Collector Resistance",
+            "Rʙ": "Base Resistance",
+            "iᴄ": "Collector Current",
+            "iʙ": "Base Current",
+            "vᴄ": "Collector Voltage",
+            "vʙ": "Base Voltage",
+            "av": "Voltage Gain",
+            "Aₚ": "Power Gain"
+        }
+    },
+    {
+        "id": 7,
+        "question_number": "144",
+        "text": "Thermodynamic processes are indicated in the following diagram: Match the following columns.\n\nColumn-1\n- P. Process I\n- Q. Process II\n- R. Process III\n- S. Process IV\n\nColumn-2\n- A. Adiabatic\n- B. Isobaric\n- C. Isochoric\n- D. Isothermal",
+        "subject": "Physics",
+        "sub_topic": "Thermodynamics",
+        "question_type": "Match-Column",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PApAER (1)",
+        "has_images": true,
+        "num_images": 1,
+        "images": [
+            {
+                "filename": "set1_id_7.png",
+                "path": "mcq-backend\\data\\questions\\mcq_practice\\physics\\Set1\\images\\set1_id_7.png",
+                "base64": ""
+            }
+        ],
+        "options": [
+            "P → C, Q → A, R → D, S → B",
+            "P → C, Q → D, R → B, S → A",
+            "P → D, Q → B, R → A, S → C",
+            "P → A, Q → C, R → D, S → B"
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (1).pdf",
+            "page": 18,
+            "type": "Match-Column"
+        },
+        "original_id": 124,
+        "correct_answer": "P → C, Q → A, R → D, S → B",
+        "basic_answer": "Solution: \n[Adiabatic: no heat exchange; Isobaric: constant pressure; Isochoric: constant volume; Isothermal: constant temperature.\n Process I (P) is Isochoric (C), Process II (Q) is Adiabatic (A), Process III (R) is Isothermal (D), Process IV (S) is Isobaric (B)]",
+        "explanation": "### Core Concept\nThis problem involves identifying thermodynamic processes based on their grAphical representation on a Pressure-Volume (P-V) diagram. Each process follows a specific mathematical relationship between P and V, resulting in unique slopes and shApes on the grAph.\n\nKey Definitions:\n1.  Isochoric (Constant Volume): The volume remains unchanged. This Appears as a vertical line on a P-V grAph.\n2.  Isobaric (Constant Pressure): The pressure remains unchanged. This Appears as a horizontal line on a P-V grAph.\n3.  Isothermal (Constant Temperature): Follows the relation $P \\propto 1/V$ (Boyle's Law). It Appears as a hyperbola.\n4.  Adiabatic (No Heat Exchange): Follows the relation $P \\propto 1/V^\\gamma$, where $\\gamma$ (the adiabatic index) is greater than one. This results in a curve that is steeper than an isothermal curve.\n\n\n### Solution\n\nStep 1: Analyze Process I (P)\nThe line is perfectly vertical, moving from a higher pressure to a lower pressure at a single, fixed volume. \n* Match: Process I is Isochoric (C).\n\nStep 2: Analyze Process IV (S)\nThe line is perfectly horizontal, moving from a smaller volume to a larger volume at a single, fixed pressure.\n* Match: Process IV is Isobaric (B).\n\nStep 3: Compare Process II (Q) and Process III (R)\nBoth are downward-sloping curves starting from the same point, representing expansions. \n* The curve for Process III is more gradual (less steep). In a P-V diagram, the isothermal curve is always shallower than the adiabatic curve.\n* The curve for Process II drops much faster. This indicates the steeper slope characteristic of an adiabatic process.\n* Matches: Process II is Adiabatic (A); Process III is Isothermal (D).\n\n\n\nStep 4: Final Matching Sequence\n* P → C (Isochoric)\n* Q → A (Adiabatic)\n* R → D (Isothermal)\n* S → B (Isobaric)\n \n\n### Why This Answer?\nThe matching P → C, Q → A, R → D, S → B correctly identifies each process by its geometric signature. Vertical and horizontal lines are unmistakable for isochoric and isobaric processes, respectively. The distinction between adiabatic and isothermal processes relies on the fact that an adiabatic expansion results in a larger pressure drop for the same volume increase compared to an isothermal expansion.\n\n\n### Common Mistakes\n* Steepness Confusion: A very common mistake is swApping the Adiabatic and Isothermal processes. Remember: \"Adiabatic is steeper\" because $\\gamma > 1$.\n* Misreading Axes: Ensure you are looking at a P-V grAph. If the axes were flipped (V-P grAph), the horizontal/vertical definitions would also flip.\n* Isochoric vs. Isobaric: Mixing up the terms \"volume\" and \"pressure.\" Always check which axis the line is perpendicular to; if it's perpendicular to the Volume axis, volume is constant (isochoric).",
+        "keywords": {
+            "I": "one",
+            "II": "two",
+            "III": "three",
+            "IV": "four",
+            "P–V": "Pressure-Volume"
+        }
+    },
+    {
+        "id": 8,
+        "question_number": "171",
+        "text": "Two particles which are initially at rest, move towards each other under the action of their mutual attraction. If their speeds are v and 2v at any instant, then the speed of centre of mass of the system will be:",
+        "subject": "Physics",
+        "sub_topic": "Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 20,
+        "source_pdf": "PApAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "2v",
+            "0v",
+            "1.5v",
+            "3v"
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (10).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 296,
+        "correct_answer": "0v",
+        "basic_answer": "Given: \n[Two particles initially at rest, later having speeds v and 2v]\nSolution: \n[v = (m1v1 + m2V₂) / (m1 + m2), conservation of momentum. Initially, the total momentum of the system is zero since both particles are at rest. The particles move only under their mutual internal forces, so total momentum remains conserved at all times. So, at any instant:\n\nm1v1 + m2V₂ = 0\n\nThis directly implies:\n\nv = (m1v1 + m2V₂) / (m1 + m2) = 0\n\nThe given speeds v and 2v do not affect the centre of mass velocity]",
+        "explanation": "### Core Concept\nThis problem is centered on the Velocity of the Center of Mass and the Law of Conservation of Linear Momentum. The fundamental rule is that the motion of the center of mass (CM) of a system is only affected by external forces.\n\nKey Principles:\n1. Internal vs. External Forces: Mutual attraction between two particles is an *internal force*. Such forces occur in equal and opposite pairs (Newton's Third Law) and cannot change the total momentum of the system.\n2. Conservation of Momentum: If the net external force (Fₑₓₜ) on a system is zero, the total linear momentum (P) remains constant.\n3. Center of Mass Velocity (V): The velocity of the center of mass is directly proportional to the total momentum of the system: Pₜₒₜₐₗ = Mₜₒₜₐₗ * V.\n\n\n### Solution\n\nStep 1: Determine the Initial State\nBoth particles are initially at rest. \n* Initial Momentum (Pᵢₙᵢₜᵢₐₗ) = m1 * (0) + m2 * (0) = 0\n* Initial Velocity of CM (Vᵢₙᵢₜᵢₐₗ) = 0\n\nStep 2: Analyze the Forces Acting on the System\nThe particles move toward each other due to \"mutual attraction\" (like gravity or electrostatic force). \n* Net External Force (Fₑₓₜ) = 0\n* Therefore, by Newton's Second Law for a system (Fₑₓₜ = dP/dt), the total momentum must remain constant.\n\n\n\nStep 3: Calculate the Final Velocity of the Center of Mass\nSince the total momentum was initially zero and no external forces have acted on the system:\n* P𝒻ᵢₙₐₗ = Pᵢₙᵢₜᵢₐₗ = 0\n* Mₜₒₜₐₗ * V𝒻ᵢₙₐₗ = 0\n* V𝒻ᵢₙₐₗ = 0\n \n\n### Why This Answer?\nThe speed of the center of mass is 0v. Even though the individual particles are moving at speeds of v and 2v, their momenta are equal in magnitude and opposite in direction (m1*v1 = -m2*V₂). This ensures they \"cancel each other out\" in the system's total momentum calculation, leaving the center of mass exactly where it started.\n\n\n### Common Mistakes\n* Overcomplicating with Individual Speeds: Students often try to average the speeds (e.g., (v + 2v)/2 = 1.5v) or use the mass ratio. However, without knowing the masses, you can't calculate the individual momenta—but you don't need to, because you know the *sum* must be zero.\n* Misidentifying the Force: Treating the mutual attraction as an external force. If you consider the two particles together as \"the system,\" their pull on each other is internal.\n* Ignoring the \"Initially at Rest\" Clue: If the system had an initial velocity, the center of mass would continue to move at that same velocity. The fact that it starts at rest is the key to it staying at rest.",
+        "keywords": {
+            "v": "velocity",
+            "cm": "center of mass",
+            "m": "mass"
+        }
+    },
+    {
+        "id": 9,
+        "question_number": "172",
+        "text": "A particle of mass M is situated at the centre of a spherical shell of same mass and radius a. The gravitational potential at a point situated at a / 2 distance from the centre, will be:",
+        "subject": "Physics",
+        "sub_topic": "Gravitation",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 20,
+        "source_pdf": "PApAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "-3GM/a",
+            "-2GM/a",
+            "-GM/a",
+            "-4GM/a"
+        ],
+        "metadata": {
+            "source": "questions\\PApAER (10).pdf",
+            "page": 20,
+            "type": "MCQ"
+        },
+        "original_id": 298,
+        "correct_answer": "-3GM/a",
+        "basic_answer": "Given: \n[Point mass M at centre, spherical shell of mass M and radius a, point at r = a/2 inside the shell]\nSolution: \n[Gravitational potential is a scalar and is negative: V = −GM/r for a point mass. \n\nInside a thin spherical shell, the potential due to the shell is constant and equal to its value at the surface: \n\nVₛₕₑₗₗ = −GM/a everywhere inside. \n\n total potential is the sum of contributions. Potential due to the central mass at \n\nr = a/2 is $V_{\\text{centre}}$ \n\n= −GM/(a/2) \n\n= −2GM/a. \n\nPotential due to the shell at that point is \n\nVₛₕₑₗₗ = −GM/a. \n\nThus Vₜₒₜₐₗ = −2GM/a − GM/a = −3GM/a.]",
+        "explanation": "### Core Concept\nThis problem is based on the Principle of Superposition for gravitational potential. The total gravitational potential at any point is the algebraic sum of the potentials created by each individual mass in the system.\n\nKey Principles:\n1. Potential of a Point Mass: The potential (V) at a distance 'r' from a point mass M is given by: V = -GM / r.\n2. Potential of a Spherical Shell: \n   * Outside (r ≥ a): It acts like a point mass at the center: V = -GM / r.\n   * Inside (r < a): The gravitational field is zero, which means the potential is constant and equal to the value at the surface: V = -GM / a.\n\n\n### Solution\n\nStep 1: Identify the components of the system\n* A point mass (M) at the center.\n* A spherical shell (mass M, radius a) surrounding it.\n* A target point at distance r = a/2 from the center.\n\n\n\nStep 2: Calculate Potential due to the Point Mass (V_center)\nUsing the point mass formula at distance r = a/2:\nV_center = -GM / (a/2)\nV_center = -2GM / a\n\nStep 3: Calculate Potential due to the Spherical Shell (V_shell)\nSince the point r = a/2 is inside the shell, the potential is uniform and equal to the surface potential:\nV_shell = -GM / a\n\nStep 4: Calculate Total Potential (V_total)\nBy superposition:\nV_total = V_center + V_shell\nV_total = (-2GM / a) + (-GM / a)\nV_total = -3GM / a\n\n\n### Why This Answer?\nThe result -3GM/a represents the total energy required per unit mass to bring a test particle from infinity to the point a/2. It is highly negative because the particle is very close to the central mass (contributing -2 units) while also being inside the gravitational \"well\" of the shell (contributing -1 unit).\n\n\n### Common Mistakes\n* Forgetting the Shell's Internal Potential: A common error is assuming that because the gravitational *field* (force) inside a shell is zero, the *potential* is also zero. In reality, the potential is constant and non-zero.\n* Using r = a/2 for the Shell: Some students try to calculate the shell's potential as -GM / (a/2). This formula only Applies if the shell's mass were concentrated at the center and you were *outside* of it. For points inside, always use the radius 'a'.\n* Sign Errors: Gravitational potential is always negative (relative to infinity). Forgetting the minus sign can lead to incorrect calculations when summing multiple potentials.",
+        "keywords": {
+            "mass M": "mass m",
+            "Vₛₕₑₗₗ": "V shell",
+            "Vₜₒₜₐₗ": "V total",
+            "Vₒₒₜₐₗ": "V center",
+            "M": "mass",
+            "G": "universal gravitational constant",
+            "a": "radius of the shell",
+            "r": "distance from the center",
+            "V": "gravitational potential"
+        }
+    }
+]

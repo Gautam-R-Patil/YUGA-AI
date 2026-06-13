@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Coordination Compounds",
+    "chapter_number": 18,
+    "topic": "Nomenclature of Coordination Compounds",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:19:59.717278",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the nomenclature of coordination compounds. This topic is important for JEE Main. Let's start with the basics. Coordination compounds are made of a central metal atom and ligands. Ligands are ions or molecules that bind to the metal. \n\nFirst, we need to understand IUPAC naming rules. IUPAC stands for International Union of Pure and Applied Chemistry. These rules help us name compounds in a standard way. \n\nLet's talk about naming ligands. Ligands can be neutral molecules like water (H2O) or ions like chloride (Cl^-). In names, neutral ligands like water are called 'aqua'. Ammonia (NH3) is called 'ammine'. For anions, we change the ending to 'o'. For example, chloride becomes 'chloro'. \n\nNext, we determine the oxidation state of the metal. Oxidation state is the charge of the metal if all bonds were ionic. We write this as a Roman numeral in parentheses. For example, if the metal is Fe^3+, we write (III). \n\nNow, let's name the complex ion. If the complex is a cation, we name the metal as is. If it is an anion, we add 'ate' to the metal's name. For example, if the metal is iron in an anion, it becomes 'ferrate'. \n\nCoordination entities are the whole complex, including the metal and ligands. We name ligands first, then the metal. If there are multiple ligands of the same type, we use prefixes like 'di-', 'tri-', 'tetra-' to show the number. For example, if there are two chlorides, we say 'dichloro'. \n\nLet's look at an example. [Co(NH3)6]Cl3 is named hexamminecobalt(III) chloride. Here, 'hexammine' means six NH3 ligands. 'Cobalt(III)' shows the metal and its oxidation state. 'Chloride' is the counter ion. \n\nCommon ligands include: 'aqua' for H2O, 'ammine' for NH3, 'carbonyl' for CO, 'nitrosyl' for NO. Remember these names as they are frequently used. \n\nNow, let's discuss some common mistakes. A common trap is forgetting to add 'ate' to the metal name in anions. Another mistake is missing the oxidation state in the name. Always check these carefully. \n\nKey takeaways: First, name the ligands. Second, determine and include the oxidation state. Third, name the metal correctly. Practice these steps to avoid errors. \n\nIn summary, understanding ligand names and oxidation states is crucial. Practice naming different compounds to get better. Good luck with your studies!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Coordination Compounds",
+    "Ligands",
+    "Oxidation State",
+    "Complex Ion",
+    "IUPAC Naming"
+  ],
+  "formulas": [
+    {
+      "formula": "Oxidation state = total charge - charge on ligands",
+      "description": "Used to find the oxidation state of the metal in a complex"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Ligand",
+      "definition": "An ion or molecule that binds to a central metal atom in a coordination compound"
+    },
+    {
+      "term": "Oxidation State",
+      "definition": "The charge of the central metal atom if all bonds in the complex were ionic"
+    },
+    {
+      "term": "Coordination Compound",
+      "definition": "A compound consisting of a central metal atom bonded to surrounding ligands"
+    }
+  ]
+}

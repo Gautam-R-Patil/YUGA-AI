@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Mechanical Properties of Fluids",
+    "chapter_number": "10",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:11:35.470076",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts \u2013 Mechanical Properties of Fluids.\n\nFluids are substances that can flow, like liquids and gases. They have properties such as density, pressure, buoyancy, viscosity, and surface tension.\n1. **Density (\u03c1)** is the mass per unit volume of a fluid. The formula is \\( \\rho = \\frac{m}{V} \\).\n\n2. **Pressure (P)** in fluids is the force exerted per unit area. It is given by \\( P = \\frac{F}{A} \\) and in fluids at rest, pressure only depends on the height of the fluid column, given by \\( P = P_0 + \\rho gh \\), where \\( P_0 \\) is the atmospheric pressure, \\( \\rho \\) is fluid density, \\( g \\) is gravitational acceleration, and \\( h \\) is the height of the fluid column.\n\n3. **Buoyancy** is the upward force experienced by an object submerged in a fluid. According to Archimedes' principle, this buoyant force is equal to the weight of the fluid displaced by the object.\n\n4. **Viscosity** is a measure of a fluid's resistance to flow. It is why honey flows slower than water.\n\n5. **Surface Tension** is the tendency of liquid surfaces to shrink into the minimum surface area possible. It's why water droplets form beads on a surface.\n\n**Key Formulae**:\n- Density: \\( \\rho = \\frac{m}{V} \\)\n- Pressure: \\( P = \\frac{F}{A} \\), \\( P = P_0 + \\rho gh \\)\n- Buoyant Force: \\( F_b = \\rho_{fluid} V g \\) (where \\( V \\) is the volume of displaced fluid)\n\n**NEET Focused Question Pattern**:\n- Calculate pressure at a certain depth.\n- Problems involving Archimedes' principle (calculating buoyant force).\n- Surface tension and its effect on liquid shape.\n- Application of Bernoulli's principle in dynamic fluids problems.\n\n**Quick Revision Points**:\n1. Density relates mass to volume, basic to all fluid mechanics.\n2. Pressure in fluids increases with depth.\n3. Buoyant force equals the weight of the displaced fluid.\n4. Viscosity affects the flow rate; more viscous means slower flow.\n5. Surface tension causes liquid surfaces to behave like stretched elastic membranes.\n\nRemember, NEET questions often involve applying multiple concepts, so be familiar with using these ideas in tandem!",
+  "duration_minutes": "10",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Density",
+    "Pressure",
+    "Buoyancy",
+    "Viscosity",
+    "Surface Tension",
+    "Archimedes' Principle",
+    "Bernoulli's Equation",
+    "Fluid Dynamics",
+    "Pascal's Law",
+    "Hydrostatic Pressure"
+  ],
+  "formulas": [
+    "\\rho = \\frac{m}{V}",
+    "P = \\frac{F}{A}",
+    "P = P_0 + \\rho gh",
+    "F_b = \\rho_{fluid} V g"
+  ],
+  "definitions": [
+    {
+      "term": "Density",
+      "definition": "The mass per unit volume of a fluid, symbolized by \\( \\rho \\) and calculated by \\( \\rho = \\frac{m}{V} \\)."
+    },
+    {
+      "term": "Pressure",
+      "definition": "The force exerted by fluids per unit area, calculated as \\( P = \\frac{F}{A} \\)."
+    },
+    {
+      "term": "Buoyancy",
+      "definition": "The upward force experienced by objects submerged in fluids, equal to the weight of the displaced fluid."
+    },
+    {
+      "term": "Viscosity",
+      "definition": "A measure of a fluid's resistance to flow; higher viscosity means slower flow."
+    },
+    {
+      "term": "Surface Tension",
+      "definition": "The elastic tendency of a fluid surface to acquire the least surface area possible, often forming drops."
+    },
+    {
+      "term": "Archimedes' Principle",
+      "definition": "States that the buoyant force on a submerged object is equal to the weight of the fluid displaced by the object."
+    },
+    {
+      "term": "Bernoulli's Equation",
+      "definition": "Describes the conservation of energy in flowing fluids and relates pressure, velocity, and height."
+    },
+    {
+      "term": "Fluid Dynamics",
+      "definition": "The study of fluids in motion, covering various principles like Bernoulli's and continuity."
+    },
+    {
+      "term": "Pascal's Law",
+      "definition": "States that pressure applied to an enclosed fluid is transmitted undiminished to every point of the fluid."
+    },
+    {
+      "term": "Hydrostatic Pressure",
+      "definition": "The pressure exerted by a fluid at rest due to the force of gravity, often increasing with depth."
+    }
+  ]
+}

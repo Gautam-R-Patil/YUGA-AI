@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Integrals",
+    "chapter_number": 16,
+    "topic": "Applications of Integrals",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:59:48.027346",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the applications of integrals. This topic is very important for JEE Main. We will explore how integrals help us find areas and volumes. Let's start with the area under curves. \n\nWhen we talk about the area under a curve, we mean the space between the curve and the x-axis. To find this area, we use a definite integral. The formula is ∫ from a to b of f(x) dx, where f(x) is the function, and a and b are the limits. For example, if f(x) = x^2, and we want the area from x = 1 to x = 3, we calculate ∫ from 1 to 3 of x^2 dx.\n\nNow, let's consider the area between two curves. Suppose we have two functions, f(x) and g(x), and we want the area between them from x = a to x = b. The formula is ∫ from a to b of [f(x) - g(x)] dx. Remember, f(x) should be above g(x) in the interval. If you mix them up, the area will be negative.\n\nNext, let's discuss the volume of solids of revolution. Imagine rotating a curve around an axis. The shape formed is a solid of revolution. To find its volume, we use the formula π∫ from a to b of [f(x)]^2 dx, if rotating around the x-axis. If it's around the y-axis, use π∫ from c to d of [g(y)]^2 dy.\n\nLet's move to the length of curves. To find the length of a curve y = f(x) from x = a to x = b, we use the formula ∫ from a to b of √(1 + [f'(x)]^2) dx. Here, f'(x) is the derivative of f(x). This formula helps us measure the curve's length.\n\nNow, the surface area of solids of revolution. If you rotate a curve y = f(x) from x = a to x = b around the x-axis, the surface area is 2π∫ from a to b of f(x)√(1 + [f'(x)]^2) dx. For rotation around the y-axis, use 2π∫ from c to d of x√(1 + [g'(y)]^2) dy.\n\nIn physics and engineering, these concepts help in designing objects and understanding real-world phenomena. For example, engineers use integrals to calculate material needed for construction.\n\nLet's solve a quick example. Find the area between y = x^2 and y = x from x = 0 to x = 1. Here, f(x) = x and g(x) = x^2. The area is ∫ from 0 to 1 of [x - x^2] dx. Calculate this to get the answer.\n\nJEE Main mistake note: Always check the limits and which function is on top. Mixing them up can lead to incorrect answers.\n\nKey takeaways: Remember the formulas for area, volume, and surface area. Practice problems to get comfortable with these concepts.\n\nIn summary, integrals help us find areas, volumes, and lengths. These are crucial for solving JEE Main problems. Practice is key to mastering these applications.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Area",
+    "Volume",
+    "Curve",
+    "Integral",
+    "Revolution"
+  ],
+  "formulas": [
+    {
+      "formula": "∫ from a to b of f(x) dx",
+      "description": "Used to find the area under the curve from x = a to x = b"
+    },
+    {
+      "formula": "∫ from a to b of [f(x) - g(x)] dx",
+      "description": "Used to find the area between two curves from x = a to x = b"
+    },
+    {
+      "formula": "π∫ from a to b of [f(x)]^2 dx",
+      "description": "Used to find the volume of a solid of revolution around the x-axis"
+    },
+    {
+      "formula": "∫ from a to b of √(1 + [f'(x)]^2) dx",
+      "description": "Used to find the length of a curve from x = a to x = b"
+    },
+    {
+      "formula": "2π∫ from a to b of f(x)√(1 + [f'(x)]^2) dx",
+      "description": "Used to find the surface area of a solid of revolution around the x-axis"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Integral",
+      "definition": "A mathematical tool used to find areas, volumes, and other quantities"
+    },
+    {
+      "term": "Curve",
+      "definition": "A line that is not straight, often represented by a function"
+    },
+    {
+      "term": "Solid of Revolution",
+      "definition": "A 3D shape formed by rotating a 2D curve around an axis"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Motion in a Plane",
+    "chapter_number": "4",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:09:48.096664",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise some of the most important concepts in 'Motion in a Plane'. This chapter focuses on motion in two dimensions, which includes vector addition, projectile motion, and uniform circular motion. \n\nConcept Name: Vectors and their Addition\nVectors are quantities with both magnitude and direction. In NEET, you need to understand vector addition using the triangle or parallelogram method vividly.\n\nKey Formula / Idea: The magnitude of the resultant vector R when two vectors A and B are at an angle \u03b8 is: \nR = \\( \\sqrt{A^2 + B^2 + 2AB \\cos \\theta} \\)\n\nConcept Name: Projectile Motion\nIt\u2019s the motion of an object thrown into the air, subject to only gravity. Typically, horizontal and vertical motions are analyzed separately.\n\nKey Formula / Idea: The time of flight (T) for projectile motion is given by \nT = \\( \\frac{2u \\sin \\theta}{g} \\), and the range (R) is R = \\( \\frac{u^2 \\sin 2 \\theta}{g} \\)\n\nConcept Name: Relative Motion in Plane\nThis deals with the velocity of one object as observed from another. Watch for questions involving objects moving in perpendicular directions.\n\nConcept Name: Uniform Circular Motion\nWhen an object moves in a circle at constant speed, it\u2019s said to be in Uniform Circular Motion. But note, while speed is constant, velocity changes due to direction changes.\n\nKey Formula / Idea: Centripetal acceleration a = \\( \\frac{v^2}{r} \\)\n\nNEET Question Pattern: NEET frequently asks conceptual and calculation-based questions, primarily focusing on projectile motion and vector decomposition. Questions might include calculating resultant vectors or determining parameters like range, time of flight for projectiles.\n\nQuick Revision Summary:\n1. Remember vector addition using the geometric method.\n2. Master formulas for projectile motion - they are repeatedly questioned.\n3. Practice relative motion problems, often in NEET they mix it with other concepts.\n4. Uniform circular motion involves constraints where speed is constant but velocity changes direction.\n5. Vector resolution into components simplifies many problems in motion.\n\nStay steady and focus on understanding the physical interpretation of these motions.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Vectors",
+    "Projectile Motion",
+    "Uniform Circular Motion",
+    "Relative Motion",
+    "Centripetal Force",
+    "Vector Addition",
+    "Range",
+    "Time of Flight",
+    "Resultant Vector",
+    "Angle of Projection"
+  ],
+  "formulas": [
+    "R = \\( \\sqrt{A^2 + B^2 + 2AB \\cos \\theta} \\)",
+    "T = \\( \\frac{2u \\sin \\theta}{g} \\)",
+    "R = \\( \\frac{u^2 \\sin 2 \\theta}{g} \\)",
+    "a = \\( \\frac{v^2}{r} \\)"
+  ],
+  "definitions": [
+    {
+      "term": "Vectors",
+      "definition": "Quantities that have both magnitude and direction."
+    },
+    {
+      "term": "Projectile Motion",
+      "definition": "A form of motion where an object is thrown near the earth's surface, and it moves along a curved path under the action of gravity only."
+    },
+    {
+      "term": "Uniform Circular Motion",
+      "definition": "The motion of an object traveling at a constant speed on a circular path."
+    },
+    {
+      "term": "Relative Motion",
+      "definition": "The calculation of the motion of an object with regard to some other moving object."
+    },
+    {
+      "term": "Centripetal Force",
+      "definition": "The net force required to keep an object moving in a circular path at a constant speed."
+    },
+    {
+      "term": "Vector Addition",
+      "definition": "The process of combining vectors by adding corresponding components."
+    },
+    {
+      "term": "Range",
+      "definition": "The horizontal distance traveled by a projectile."
+    },
+    {
+      "term": "Time of Flight",
+      "definition": "The total time for which a projectile remains in air."
+    },
+    {
+      "term": "Resultant Vector",
+      "definition": "The vector sum of two or more vectors."
+    },
+    {
+      "term": "Angle of Projection",
+      "definition": "The angle at which a projectile is launched with respect to the horizontal."
+    }
+  ]
+}

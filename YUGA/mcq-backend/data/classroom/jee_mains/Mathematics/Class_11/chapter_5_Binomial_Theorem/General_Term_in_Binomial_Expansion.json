@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Binomial Theorem",
+    "chapter_number": 5,
+    "topic": "General Term in Binomial Expansion",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:48:26.054015",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the general term in the Binomial Expansion. This is an important topic for JEE Main. Let's start by recalling what a binomial is. A binomial is an expression with two terms. For example, (a + b) is a binomial.\n\nNow, when we expand a binomial raised to a power, like (a + b)^n, we get many terms. These terms have a special pattern. The Binomial Theorem helps us find these terms easily. \n\n### Expression for General Term\n\nThe general term in the expansion of (a + b)^n is given by the formula:\n\nT_(k+1) = C(n, k) * a^(n-k) * b^k\n\nHere, T_(k+1) is the (k+1)-th term in the expansion. C(n, k) is a combination, also written as nCk, which means the number of ways to choose k items from n items. It is calculated as:\n\nC(n, k) = n! / (k! * (n-k)!)\n\nThis formula helps us find any term in the expansion. For example, if we want the third term in (x + y)^5, we set k = 2 in the formula.\n\n### Finding Specific Terms\n\nTo find a specific term, like the fourth term in (x + 2)^6, we use the general term formula. Here, n = 6, a = x, b = 2, and we want the fourth term, so k = 3.\n\nT_(4) = C(6, 3) * x^(6-3) * 2^3\n\nCalculate C(6, 3) using the combination formula:\n\nC(6, 3) = 6! / (3! * 3!) = 20\n\nNow substitute back:\n\nT_(4) = 20 * x^3 * 8 = 160x^3\n\nThis is the fourth term in the expansion.\n\n### Middle Term(s) in Expansion\n\nFor finding the middle term, first check if n is even or odd. If n is even, there is one middle term. If n is odd, there are two middle terms.\n\nFor example, in (a + b)^6, n is 6 (even), so the middle term is the 4th term. Use the general term formula with k = 3.\n\nIn (a + b)^7, n is 7 (odd), so the middle terms are the 4th and 5th terms. Use k = 3 and k = 4.\n\n### Common Mistakes\n\n1. Forgetting to use the correct value of k. Remember, k is one less than the term number.\n2. Not calculating combinations correctly. Use the formula carefully.\n3. Mixing up a and b in the formula. Keep track of each term.\n\n### Key Takeaways\n\n- Use the general term formula to find any term in a binomial expansion.\n- Check if n is even or odd to find the middle term(s).\n- Practice calculating combinations to avoid mistakes.\n\n### Summary\n\nToday, we learned how to find specific terms in a binomial expansion using the general term formula. We also learned how to find the middle term(s). Remember to practice these concepts to do well in JEE Main.\n\nThat's all for today. Keep practicing and see you next time!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Binomial",
+    "General Term",
+    "Combination",
+    "Middle Term",
+    "Expansion"
+  ],
+  "formulas": [
+    {
+      "formula": "T_(k+1) = C(n, k) * a^(n-k) * b^k",
+      "description": "This formula is used to find the (k+1)-th term in the expansion of (a + b)^n"
+    },
+    {
+      "formula": "C(n, k) = n! / (k! * (n-k)!)",
+      "description": "This formula calculates the combination, which is used in finding terms of the binomial expansion"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Binomial",
+      "definition": "An expression with two terms, like (a + b)"
+    },
+    {
+      "term": "Combination",
+      "definition": "The number of ways to choose k items from n items, calculated using nCk"
+    }
+  ]
+}

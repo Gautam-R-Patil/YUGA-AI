@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Thermodynamics",
+    "chapter_number": "6",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:19:37.120480",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let's quickly revise some of the most crucial concepts in thermodynamics for NEET. Thermodynamics deals with the study of energy transfers and transformations, primarily focusing on the relationships between heat, work, and internal energy.\n\n1. **System and Surroundings**: In thermodynamics, a system is defined as the part of the universe under study, while everything else is considered the surroundings.\n\n2. **Types of Systems**:\n   - **Open System**: Can exchange both matter and energy with the surroundings.\n   - **Closed System**: Exchanges only energy, not matter, with surroundings.\n   - **Isolated System**: Exchanges neither matter nor energy.\n\n3. **First Law of Thermodynamics**: It's also known as the law of energy conservation, stating \\( \\Delta U = q - W \\), where \\( \\Delta U \\) is the change in internal energy, **q** is heat added to the system, and **W** is the work done by the system.\n\n4. **Enthalpy (H)**: A measure of total heat content, represented as \\( H = U + PV \\) (U is internal energy, P is pressure, V is volume). During a process at constant pressure, the change in enthalpy \\( \\Delta H = q_P \\), where \\( q_P \\) is the heat exchanged at constant pressure.\n\n5. **Second Law of Thermodynamics**: It states that the entropy of an isolated system always increases over time, indicating the direction of spontaneous processes.\n\n6. **Entropy (S)**: A measure of the disorder or randomness. It increases in spontaneous processes. Entropy change formula is \\( \\Delta S = \\frac{q_{rev}}{T} \\), where \\( q_{rev} \\) is reversible heat exchange and T is temperature in Kelvin.\n\n7. **Gibbs Free Energy (G)**: Determines the spontaneity of processes, given by the equation \\( G = H - TS \\). For a spontaneous process at constant temperature and pressure, \\( \\Delta G < 0 \\).\n\n8. **Calorimetry**: Experimental measurement of heat changes. In a calorimeter, \\( q = m \\cdot c \\cdot \\Delta T \\), where m is mass, c is specific heat, and \\( \\Delta T \\) is temperature change.\n\n**NEET Question Pattern**: NEET frequently asks questions on:\n- Identification of system types (open, closed, isolated)\n- Calculating changes in enthalpy, entropy, and Gibbs free energy\n- Recognizing spontaneous processes\n- Applying the first and second laws of thermodynamics\n\n**Quick Revision Points**:\n1. A thermodynamic system can be open, closed, or isolated based on energy/matter exchange.\n2. The first law of thermodynamics highlights energy conservation: \\( \\Delta U = q - W \\).\n3. Entropy, denoted as \\( S \\), always increases for spontaneous processes.\n4. Gibbs free energy change \\( \\Delta G \\) indicates spontaneity: negative for spontaneous reactions.\n5. Calorimetry formulas involve calculating heat based on mass, specific heat, and temperature change.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Thermodynamic system",
+    "Open system",
+    "Closed system",
+    "Isolated system",
+    "First law of thermodynamics",
+    "Enthalpy",
+    "Entropy",
+    "Gibbs free energy",
+    "Calorimetry",
+    "Spontaneous processes"
+  ],
+  "formulas": [
+    "\\( \\Delta U = q - W \\)",
+    "\\( H = U + PV \\)",
+    "\\( \\Delta H = q_P \\)",
+    "\\( \\Delta S = \\frac{q_{rev}}{T} \\)",
+    "\\( G = H - TS \\)",
+    "\\( q = m \\cdot c \\cdot \\Delta T \\)"
+  ],
+  "definitions": [
+    {
+      "term": "Thermodynamic system",
+      "definition": "A defined part of the universe under study in thermodynamics, exchanging energy and matter with its surroundings."
+    },
+    {
+      "term": "Open system",
+      "definition": "A system that exchanges both energy and matter with its surroundings."
+    },
+    {
+      "term": "Closed system",
+      "definition": "A system that exchanges only energy but not matter with its surroundings."
+    },
+    {
+      "term": "Isolated system",
+      "definition": "A system that does not exchange energy or matter with its surroundings."
+    },
+    {
+      "term": "First law of thermodynamics",
+      "definition": "A law stating that energy can neither be created nor destroyed, only transformed (\\( \\Delta U = q - W \\))."
+    },
+    {
+      "term": "Enthalpy",
+      "definition": "A measure of total heat content in a system, given by \\( H = U + PV \\)."
+    },
+    {
+      "term": "Entropy",
+      "definition": "A measure of disorder or randomness in a system, increasing in spontaneous processes."
+    },
+    {
+      "term": "Gibbs free energy",
+      "definition": "A thermodynamic potential that predicts the direction of chemical processes at constant temperature and pressure."
+    },
+    {
+      "term": "Calorimetry",
+      "definition": "The measurement of heat changes during chemical reactions."
+    },
+    {
+      "term": "Spontaneous processes",
+      "definition": "Processes that occur without external intervention, typically associated with \\( \\Delta G < 0 \\)."
+    }
+  ]
+}

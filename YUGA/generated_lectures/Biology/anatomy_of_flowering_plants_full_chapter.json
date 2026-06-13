@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Anatomy of Flowering Plants",
+    "chapter_number": "6",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:29:32.943162",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise the anatomy of flowering plants, a significant topic for NEET!\n\nAnatomy of flowering plants involves understanding their internal structure. The focus is on types of tissues and their arrangement. There are two primary tissue systems: Meristematic and Permanent.\n\n1. **Meristematic Tissue**: These tissues have the ability to divide. - **Apical Meristems** are found at the tips of roots and shoots, which increase the length (primary growth).\n- **Lateral Meristems** such as the Vascular Cambium increase the girth of the plant (secondary growth).\n\n2. **Permanent Tissue**: These are formed from dividing meristematic cells but have now lost their ability to divide and are differentiated to perform specific functions.\n- **Simple Permanent Tissues**, like Parenchyma, Collenchyma, and Sclerenchyma, support and give structure.\n- **Complex Permanent Tissues** are Xylem and Phloem.\n\n**Xylem** is responsible for water and mineral transport from roots to other parts of the plant.\n- **Tracheids and Vessels** are the main conducting elements.\n\n**Phloem** transports nutrients and food substances throughout the plant.\n- Includes **Sieve tubes and Companion cells**.\n\n**Stem Anatomy**: In dicot stems, vascular bundles are arranged in a circle (eustele pattern), while monocots have scattered vascular bundles (atactostele pattern). \n\n**Root Anatomy**: Dicot and monocot roots differ; monocots have a fibrous root system, dicots, a taproot system.\n\nKey Formula/Idea:\n- Xylem = Water Transport\n- Phloem = Food Transport\n- Symplastic and Apoplastic Pathways in the root\n\nNEET tends to ask questions on differentiation between types of tissues, the structural differences between monocots and dicots, and the functions of xylem and phloem.\n\nQuick Revision Points:\n1. Meristematic vs Permanent Tissues\n2. Types of Simple and Complex Tissues\n3. Role of Xylem and Phloem\n4. Anatomical differences in stems and roots\n5. Function and position of Cambium\n\nRemember, focus on tissue functions and plant structural differences as well as processes like secondary growth that play into the anatomy of flowering plants.",
+  "duration_minutes": "12",
+  "difficulty_level": "Moderate",
+  "images": [
+    "image1: Structure of Dicot Stem",
+    "image2: Types of Plant Tissues",
+    "image3: Cross Section of Root"
+  ],
+  "keywords": [
+    "Meristematic Tissue",
+    "Permanent Tissue",
+    "Xylem",
+    "Phloem",
+    "Cambium",
+    "Dicot Stem",
+    "Root Anatomy",
+    "Secondary Growth",
+    "Vascular Bundles",
+    "Apical Meristem"
+  ],
+  "formulas": [
+    "Symplastic Pathway: Movement through cytoplasm",
+    "Apoplastic Pathway: Movement through cell walls",
+    "Xylem: Transports water and does not require energy",
+    "Phloem: Transports food and requires energy"
+  ],
+  "definitions": [
+    {
+      "term": "Meristematic Tissue",
+      "definition": "Undifferentiated tissue in plants having the ability to divide and contribute to growth."
+    },
+    {
+      "term": "Permanent Tissue",
+      "definition": "Differentiated plant tissue that has ceased dividing but is specialized to perform a particular function."
+    },
+    {
+      "term": "Xylem",
+      "definition": "Complex tissue in vascular plants responsible for the conduction of water and minerals."
+    },
+    {
+      "term": "Phloem",
+      "definition": "Complex tissue responsible for the transport of food materials within the plant."
+    },
+    {
+      "term": "Cambium",
+      "definition": "Lateral meristem responsible for the secondary growth in plants, increasing their girth."
+    },
+    {
+      "term": "Dicot Stem",
+      "definition": "Plant stem showing a ring of vascular bundles and capable of secondary growth."
+    },
+    {
+      "term": "Root Anatomy",
+      "definition": "Study of internal structure and arrangement of tissues within the root."
+    },
+    {
+      "term": "Secondary Growth",
+      "definition": "Growth that results in an increase in the girth of the plant, typically involving the vascular cambium."
+    },
+    {
+      "term": "Vascular Bundles",
+      "definition": "Strands of conducting vessels in plants, typically consisting of xylem and phloem."
+    },
+    {
+      "term": "Apical Meristem",
+      "definition": "Growing tips of plant roots and shoots responsible for primary growth."
+    }
+  ]
+}

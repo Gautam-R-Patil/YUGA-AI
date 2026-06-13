@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Hydrocarbons",
+    "chapter_number": 22,
+    "topic": "Alkanes",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:24:57.608203",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about alkanes. Alkanes are simple hydrocarbons. They only have single bonds between carbon atoms. Let's start with their structure and bonding. Alkanes have a general formula CnH2n+2. This means if you know the number of carbon atoms (n), you can find the number of hydrogen atoms. Each carbon atom forms four single bonds. This gives alkanes a tetrahedral shape.\n\nNext, let's talk about nomenclature. Naming alkanes is easy. Use prefixes like 'meth-' for one carbon, 'eth-' for two, 'prop-' for three, and so on. Add '-ane' at the end. For example, CH4 is methane, and C2H6 is ethane. If there are branches, identify the longest chain first. Name the branches as prefixes.\n\nNow, let's look at physical properties. Alkanes are non-polar. This means they do not mix well with water. They have low boiling points. As the number of carbon atoms increases, the boiling point also increases.\n\nLet's move to chemical reactions. The first reaction is combustion. Alkanes burn in the presence of oxygen to produce carbon dioxide and water. The reaction releases a lot of energy. The second reaction is halogenation. In this reaction, alkanes react with halogens like chlorine or bromine. This happens in the presence of light or heat. For example, when methane reacts with chlorine, it forms chloromethane.\n\nNow, we will discuss conformational analysis. Alkanes can rotate around single bonds. This gives them different shapes called conformations. Two common ways to show these are Newman projections and Sawhorse projections. Newman projections look down the bond axis. Sawhorse projections show the molecule at an angle. Both help us understand stability and energy of conformations.\n\nNext, isomerism in alkanes. Isomers have the same molecular formula but different structures. For example, butane (C4H10) has two isomers: n-butane and isobutane. Isomers have different physical and chemical properties.\n\nLet's discuss preparation methods. The Wurtz reaction involves reacting alkyl halides with sodium metal. This forms a new alkane. Another method is Kolbe's electrolysis. In this, a salt of carboxylic acid is electrolyzed to form an alkane.\n\nLastly, let's cover cracking and reforming. Cracking breaks large hydrocarbons into smaller ones. This is useful in making petrol. Reforming changes the structure of hydrocarbons to improve fuel quality.\n\nNow, let's look at common mistakes in JEE Main. Students often forget to balance equations in combustion reactions. Always check the number of atoms on both sides. In nomenclature, remember to number the longest chain correctly. In conformational analysis, draw projections carefully.\n\nIn summary, remember these key points. Alkanes are saturated hydrocarbons with single bonds. They have simple naming rules and undergo combustion and halogenation. Conformational analysis helps in understanding their shapes. Isomerism shows different structures with the same formula. Preparation methods like Wurtz reaction and Kolbe's electrolysis are important. Cracking and reforming are used in the petroleum industry. Practice these concepts well for JEE Main.\n\nThat's all for today. Keep practicing, and you will do great in your exams!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Alkanes",
+    "Nomenclature",
+    "Combustion",
+    "Halogenation",
+    "Isomerism"
+  ],
+  "formulas": [
+    {
+      "formula": "CnH2n+2",
+      "description": "General formula for alkanes, used to find the number of hydrogen atoms if the number of carbon atoms is known"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alkanes",
+      "definition": "Hydrocarbons with only single bonds between carbon atoms"
+    },
+    {
+      "term": "Isomerism",
+      "definition": "Compounds with the same molecular formula but different structures"
+    },
+    {
+      "term": "Combustion",
+      "definition": "A chemical reaction where a substance burns in oxygen to produce heat and light"
+    },
+    {
+      "term": "Halogenation",
+      "definition": "A reaction where alkanes react with halogens like chlorine or bromine"
+    }
+  ]
+}

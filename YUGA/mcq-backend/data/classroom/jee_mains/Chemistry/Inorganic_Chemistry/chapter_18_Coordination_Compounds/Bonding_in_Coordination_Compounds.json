@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Coordination Compounds",
+    "chapter_number": 18,
+    "topic": "Bonding in Coordination Compounds",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:20:34.790784",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about bonding in coordination compounds. This topic is important for JEE Main. Let's start with some basics. \n\nFirst, what are coordination compounds? They are special compounds where a central metal atom is surrounded by molecules or ions called ligands. These ligands are like friends holding onto the metal atom. \n\nNow, let's talk about Valence Bond Theory (VBT). VBT helps us understand how these compounds form. It says that metal atoms use their orbitals to form bonds with ligands. These orbitals mix or hybridize to make new orbitals. This helps the metal hold onto the ligands tightly. \n\nNext, we have Crystal Field Theory (CFT). CFT explains how ligands affect the energy of metal's d orbitals. When ligands come close to the metal, they split the d orbitals into two groups with different energies. This is called Crystal Field Splitting. \n\nThe energy difference between these two groups is important. It helps us know if a compound is high spin or low spin. High spin means more unpaired electrons, while low spin means fewer unpaired electrons. \n\nNow, let's discuss Hybridization in complexes. Hybridization is when atomic orbitals mix to form new orbitals. These new orbitals help in bonding with ligands. For example, if a metal uses d^2sp^3 hybridization, it can bond with six ligands in an octahedral shape. \n\nMagnetic properties are another interesting part. If a compound has unpaired electrons, it is magnetic. If all electrons are paired, it is not magnetic. This helps us predict if a compound will attract or repel a magnet. \n\nThe Color of complexes is also explained by CFT. When light hits a compound, electrons jump between the split d orbitals. This jump absorbs certain light colors, and we see the remaining colors. \n\nLet's look at some common mistakes. In JEE Main, students often confuse high spin and low spin complexes. Remember, high spin has more unpaired electrons. Also, don't forget to check hybridization correctly. \n\nNow, let's summarize. Coordination compounds are formed by metal atoms and ligands. Valence Bond Theory and Crystal Field Theory help us understand their bonding. Remember the key ideas: hybridization, crystal field splitting, and magnetic properties.\n\nThat's it for today! Keep practicing, and you'll do great in JEE Main. Thank you!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Coordination Compounds",
+    "Valence Bond Theory",
+    "Crystal Field Theory",
+    "Hybridization",
+    "Magnetic Properties"
+  ],
+  "formulas": [
+    {
+      "formula": "∆ = E_high - E_low",
+      "description": "This formula calculates the crystal field splitting energy, important for determining high spin or low spin complexes."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Coordination Compounds",
+      "definition": "Compounds where a central metal atom is bonded to surrounding ligands."
+    },
+    {
+      "term": "Valence Bond Theory",
+      "definition": "A theory explaining how metal atoms use orbitals to bond with ligands."
+    },
+    {
+      "term": "Crystal Field Theory",
+      "definition": "A theory describing how ligands affect the energy of metal's d orbitals."
+    },
+    {
+      "term": "Hybridization",
+      "definition": "The mixing of atomic orbitals to form new orbitals for bonding."
+    }
+  ]
+}

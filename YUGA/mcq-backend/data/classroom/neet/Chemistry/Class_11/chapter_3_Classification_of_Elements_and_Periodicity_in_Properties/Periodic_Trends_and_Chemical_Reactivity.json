@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "chapter_number": 3,
+    "topic": "Periodic Trends and Chemical Reactivity",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:13:40.281079",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about periodic trends and chemical reactivity. This is an important topic in chemistry, especially for NEET exams. Let's start by understanding the trends in metallic and non-metallic character.\n\nMetals are shiny and good conductors of electricity. Non-metals are not shiny and are poor conductors. In the periodic table, as we move from left to right across a period, elements change from metals to non-metals. This means metallic character decreases and non-metallic character increases. For example, sodium (Na) is a metal, but chlorine (Cl) is a non-metal. \n\nNow, let's look at the trends in chemical reactivity of alkali and alkaline earth metals. Alkali metals are in Group 1 of the periodic table. These include lithium (Li), sodium (Na), and potassium (K). They are very reactive. Why? Because they have one electron in their outer shell, which they want to lose to become stable. As we go down the group, reactivity increases. So, potassium is more reactive than sodium.\n\nAlkaline earth metals are in Group 2. These include magnesium (Mg) and calcium (Ca). They have two electrons in their outer shell. They are also reactive, but less than alkali metals. As we move down the group, reactivity increases. Calcium is more reactive than magnesium.\n\nNext, let's discuss the reactivity of halogens. Halogens are in Group 17. They include fluorine (F), chlorine (Cl), and bromine (Br). They are very reactive non-metals. They need one electron to fill their outer shell. So, they gain electrons easily. Reactivity decreases as we go down the group. So, fluorine is more reactive than chlorine.\n\nIt's important to remember the reactivity series. This series tells us which metals are more reactive. For example, potassium is more reactive than calcium. This helps us predict how metals will react with water, acids, and other substances.\n\nCommon mistake: Students often think that all metals are equally reactive. But remember, reactivity depends on the group and position in the periodic table.\n\nKey points to remember: 1) Metallic character decreases across a period and increases down a group. 2) Alkali metals are more reactive than alkaline earth metals. 3) Reactivity of halogens decreases down the group.\n\nIn summary, understanding periodic trends helps us predict how elements will behave in reactions. This is very useful for solving NEET questions. Remember to practice with examples and keep these trends in mind.\n\nThat's all for today. Keep practicing and stay curious!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Periodic Table",
+    "Metallic Character",
+    "Non-metallic Character",
+    "Reactivity Series",
+    "Halogens"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Metallic Character",
+      "definition": "The tendency of an element to lose electrons and form positive ions."
+    },
+    {
+      "term": "Non-metallic Character",
+      "definition": "The tendency of an element to gain electrons and form negative ions."
+    },
+    {
+      "term": "Reactivity Series",
+      "definition": "A list of metals arranged in order of decreasing reactivity."
+    }
+  ]
+}

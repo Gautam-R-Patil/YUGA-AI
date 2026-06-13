@@ -1,0 +1,367 @@
+[
+    {
+        "id": 60,
+        "question_number": "13",
+        "text": "A particle moves with velocity (5 ^ i −3 ^ j + 6 ^ k) m s⁻¹ under the action of a constant force (10 ^ i + 10 ^ j + 20 ^ k) N. The instantaneous power supplied to the particle is:",
+        "subject": "Physics",
+        "sub_topic": "Work, Energy and Power",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (36)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "zero",
+            "200 W",
+            "100 W",
+            "140 W"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (36).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 4073,
+        "correct_answer": "140 W",
+        "basic_answer": "Given: \n[Velocity v = (5 ^ i − 3 ^ j + 6 ^ k) m/s\n\nForce f = (10 ^ i + 10 ^ j + 20 ^ k) N]\nSolution: \n[Power P = F · v (dot product of force and velocity).\n\n \nP = (10×5) + (10×(-3)) + (20×6) \n\n= 50 - 30 + 120 \n\n= 140 W]",
+        "explanation": "### **CORE CONCEPT**\nPower is fundamentally defined as the time rate at which work is being performed or energy is being transferred. While 'average power' is calculated over a finite interval of time, 'instantaneous power' refers to the rate of work at a specific, infinitesimal moment. In classical mechanics, work is the product of the component of force in the direction of displacement. When we consider the rate of change of work with respect to time ($P = dW/dt$), and knowing that work done by a constant force is $W = \\vec{F} \\cdot \\vec{r}$, we derive the relationship for instantaneous power: $P = \\vec{F} \\cdot (d\\vec{r}/dt)$, which simplifies to $P = \\vec{F} \\cdot \\vec{v}$. Here, the dot product (or scalar product) is critical because it tells us that only the component of the force acting parallel or anti-parallel to the particle's velocity contributes to the power supply. Any force component perpendicular to the direction of motion does zero work and thus supplies zero power. Power is a scalar quantity, and its SI unit is the Watt (W), which is equivalent to one Joule per second (J/s).\n\n### **SOLUTION**\nTo solve this problem, we must perform a standard vector dot product between the given force and velocity vectors in three-dimensional space. \n1. **Identify the Vectors:** \n   - Force vector $\\vec{F} = 10\\hat{i} + 10\\hat{j} + 20\\hat{k}$ Newtons.\n   - Velocity vector $\\vec{v} = 5\\hat{i} - 3\\hat{j} + 6\\hat{k}$ meters per second.\n2. **Apply the Dot Product Formula:** The dot product is calculated by summing the products of the corresponding $x, y,$ and $z$ components: \n   P = (Fₓ · vₓ) + (Fᵧ · vᵧ) + (F𝓏 · v𝓏)\n3. **Perform the Calculation:**\n   - $P = (10 \\times 5) + (10 \\times -3) + (20 \\times 6)$\n   - $P = 50 + (-30) + 120$\n   - $P = 50 - 30 + 120 = 140$ Watts.\nThis numerical result represents the total energy being pumped into the particle by the force every second at that specific instant.\n\n### **WHY THIS ANSWER**\nThe answer 140 W is the only mathematically correct result of the vector operation. It accounts for the positive work done along the x and z axes and the 'braking' effect or negative power supplied along the y-axis (where the force and velocity are in opposite directions). The result confirms that the net effect of the constant force is to increase the particle's kinetic energy at a rate of 140 Joules per second. This matches Option D.\n\n### **COMMON MISTAKES**\nA very common mistake is attempting to calculate the magnitude of the force and the magnitude of the velocity separately and then multiplying them ($P = |F| \\cdot |v|$). This ignores the directionality and the 'cosine' factor of the dot product, leading to a much larger and incorrect value. Another error is a simple sign mistake during the calculation of the y-component product ($10 \\times -3$), where students might forget the negative sign and add 30 instead of subtracting it. Some students also confuse 'Power' with 'Work' and might try to look for a displacement or time interval, but instantaneous power is a property of a single moment in time and does not require a duration to be calculated if the vectors are known.",
+        "keywords": {
+            "^": "cap",
+            "P": "Power",
+            "f": "Force",
+            "v": "velocity",
+            "m/s": "meters per second",
+            "N": "Newtons",
+            "W": "Watts"
+        }
+    },
+    {
+        "id": 61,
+        "question_number": "14",
+        "text": "A certain wire has resistance A₈₁ Ω. The resistance value of another wire of the same material and equal length but of diameter thrice the diameter of will be:",
+        "subject": "Physics",
+        "sub_topic": "Electricity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 1,
+        "source_pdf": "PAPAER (36)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "81 Ω",
+            "9 Ω",
+            "729 Ω",
+            "243 Ω"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (36).pdf",
+            "page": 1,
+            "type": "MCQ"
+        },
+        "original_id": 4074,
+        "correct_answer": "9 Ω",
+        "basic_answer": "Given: \n[Resistance R₁ = 81 Ω,\n\n Diameter ratio = 3:1]\n\nSolution: \n[**R = ρ(L/A)** \n\nwhere R is the resistance, ρ is the resistivity, L is the length, and A is the cross-sectional area. \n\nThe cross-sectional area A is proportional to the square of the diameter:\n\n A = π(d/2)². \n\nIf the diameter triples, the new area \n\nA² = π((3d)/2)² \n\n= 9 × π(d/2)² = 9A.\n\n Since the lengths are equal and material is the same, \n\nR₂ = ρ(L/A²) \n\n= R₁/(9) \n\n= 81 Ω/9 \n\n= 9 Ω]",
+        "explanation": "### **CORE CONCEPT**\nThe electrical resistance of a conductor is an extrinsic property that depends on both the nature of the material and its physical geometry. This is summarized by the fundamental formula $R = \\rho L / A$, where $\\rho$ is the resistivity (a material property), $L$ is the length of the conductor, and $A$ is its cross-sectional area. For a cylindrical wire, the cross-sectional area is a circle: $A = \\pi r^2 = \\pi (d/2)^2 = \\pi d^2 / 4$. By substituting this area into the resistance formula, we see that $R = 4 \\rho L / (\\pi d^2)$. This reveals that for a wire of fixed length and material, the resistance is **inversely proportional to the square of the diameter** ($R \\propto 1/d^2$). This is a critical insight in electrical engineering: small changes in the thickness of a wire lead to significant changes in its ability to conduct current. Doubling the diameter makes the wire 4 times less resistive; tripling the diameter makes it 9 times less resistive. This square-law relationship arises because as the diameter increases, the available 'lanes' for electrons to travel through the lattice increase exponentially in two dimensions.\n\n### **SOLUTION**\nWe use the proportionality $R \\propto 1/d^2$ to find the new resistance value: \n1. **Identify constants:** The problem states the wires are made of the 'same material' and have 'equal length.' This means $\\rho$ and $L$ cancel out in any ratio calculation. \n2. **Identify variables:** The original resistance $R_1 = 81 \\Omega$. The new diameter $d_2$ is three times the original diameter $d_1$, so d₂ = 3 d₁. \n3. **Set up the ratio:** \n   R₂ / R₁ = (d₁ / d₂)²\n\n4. **Substitute and calculate:** \n   R₂ / 81 = (1 / 3)² = 1 / 9\n\n   R₂ = 81⁄9 = 9 Ω\nThus, the wire with the larger diameter has a significantly lower resistance of 9 Ohms.\n\n### **WHY THIS ANSWER**\nThe answer 9 Ohms is correct because it perfectly follows the geometric scaling laws of electricity. Since the cross-sectional area of a wire increases with the square of its radius or diameter, tripling the thickness provides nine times as much room for the flow of charge carriers. Under a constant voltage, this would result in nine times more current, meaning the resistance must have dropped to exactly one-ninth of its original value. This result is consistent with Ohm's law and the definition of resistivity, matching Option B.\n\n### **COMMON MISTAKES**\nA very common error is assuming a linear relationship ($R \\propto 1/d$). Under this incorrect assumption, tripling the diameter would lead to a resistance of $81/3 = 27 \\Omega$. Another mistake is confusing the relationship and assuming $R$ increases with diameter, leading to $81 \\times 3 = 243 \\Omega$ or even $81 \\times 9 = 729 \\Omega$. Students also sometimes forget to square the factor of 3, leading back to the $1/3$ result. Finally, ensure that you do not confuse diameter with area; if the *area* were tripled, the resistance would indeed be $27 \\Omega$, but because the *diameter* is tripled, the area actually grows by $3^2 = 9$.",
+        "keywords": {
+            "R": "Resistance",
+            "Ω": "Ohms",
+            "ρ": "Resistivity",
+            "L": "Length",
+            "A": "Cross-sectional area",
+            "d": "Diameter"
+        }
+    },
+    {
+        "id": 62,
+        "question_number": "26",
+        "text": "Let us consider two solenoids A and B, made from the same magnetic material of relative permeability μᵣ and of equal area of cross-section. Length of A is twice that of B and the number of turns per unit length in A is half that of B. The ratio of self-inductances of the two solenoids, Lₐ : Lᵦ is:",
+        "subject": "Physics",
+        "sub_topic": "Electromagnetism",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (38)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "1 : 2",
+            "2 : 1",
+            "8 : 1",
+            "1 : 8"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (38).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 4229,
+        "correct_answer": "1 : 2",
+        "basic_answer": "Given: \n[nₐ = nᵦ/2\n\n lₐ = 2lᵦ\n\n Aₐ = Aᵦ]\n\nSolution: \n[**L = μ₀μᵣn²Al** \n\nwhere n = turns per unit length, A = area, l = length.\n\nFor solenoid \n\nA: Lₐ = μ₀μᵣ(nᵦ/2)²A(2lᵦ) \n\n= μ₀μᵣ(nᵦ²/4)A(2lᵦ) \n\n= (μ₀μᵣnᵦ²Alᵦ)/2\n\nFor solenoid B: \n\nLᵦ = μ₀μᵣnᵦ²Alᵦ\n\nRatio: Lₐ/Lᵦ \n\n= [(μ₀μᵣnᵦ²Alᵦ)/2] / [μ₀μᵣnᵦ²Alᵦ] \n\n= 1/2]",
+        "explanation": "### **CORE CONCEPT**\nSelf-inductance ($L$) is a measure of an electrical component's ability to oppose changes in the current flowing through it by inducing an electromotive force (emf). For an ideal long solenoid, the magnetic field inside is uniform and given by $B = \\mu_0 \\mu_r n I$, where $n$ is the number of turns per unit length. The total magnetic flux linking the solenoid is $\\Phi = N B A$, where $N$ is the total number of turns ($N = n \\cdot l$). By substituting the expression for B, we get Φ = (n l)(μ₀ μᵣ n I) A = μ₀ μᵣ n² A l I. Since L = Φ ⁄ I, the formula for the self-inductance of a solenoid becomes L = μ₀ μᵣ n² A l. A critical observation from this derived formula is that inductance is proportional to the **square** of the turns per unit length ($n^2$), the cross-sectional area ($A$), and linearly proportional to the length ($l$). This means that changing the density of turns has a far more significant impact on the inductance than changing the length of the solenoid itself.\n\n### **SOLUTION**\nTo find the ratio Lₐ ⁄ Lᵦ = 1⁄2$, we analyze the relative changes in each parameter: \n1. **Identify constants:** Both solenoids have the same magnetic material (same $\\mu_r$) and equal cross-sectional area ($A$). \n2. **Identify differences:** \n   - Length of A is twice B: $l_A = 2 l_B$. \n   - Turns density of A is half of B: $n_A = n_B / 2$. \n3. **Set up the Inductance formula for each:** \n   - Lᴮ = μ₀ μᵣ nᴮ² A lᴮ\n   - Lᴬ = μ₀ μᵣ nᴬ² A lᴬ = μ₀ μᵣ (nᴮ⁄2)² A (2 lᴮ)\n4. **Simplify Lₐ:** \n   - Lₐ = μ₀ μᵣ (nᴮ² ⁄ 4) A (2 lᴮ) = (2 ⁄ 4) · μ₀ μᵣ nᴮ² A lᴮ = 1⁄2 Lᴮ\n5. **Calculate the ratio:** Lₐ ⁄ Lᵦ = 1⁄2 = 1/2 or 1:2.\n\n### **WHY THIS ANSWER**\nThe answer 1:2 is derived from the balance between the loss in inductance due to reduced turn density and the gain from increased length. Specifically, halving the turns per unit length reduces the inductance by a factor of 4 ($1/2^2 = 1/4$), while doubling the length increases it by a factor of 2\n\nThe net result is $1/4 \\times 2 = 1/2$. This quantitative logic is the standard approach for inductor scaling problems and leads to Option A.\n\n### **COMMON MISTAKES**\nA primary mistake is assuming $L$ is linearly proportional to $n$ instead of $n^2$. If a student uses $L \\propto n \\cdot l$, they would calculate $1/2 \\times 2 = 1$, leading to an incorrect ratio of 1:1 \n\nAnother error is confusing 'turns per unit length' ($n$) with 'total turns' ($N$). If the formula used is $L = \\mu_0 \\mu_r N^2 A / l$, and the student misinterprets the question as $N$ being halved and $l$ being doubled, they would calculate $(1/2)^2 / 2 = 1/8$, leading to Option D. It is vital to carefully distinguish between the turn density and the total count. Finally, some might forget the factor of 2 for length entirely, resulting in 1:4.",
+        "keywords": {
+            "L": "self-inductance",
+            "n": "number of turns per unit length",
+            "A": "cross-sectional area",
+            "l": "length",
+            "μ₀": "permeability of free space",
+            "μᵣ": "relative permeability"
+        }
+    },
+    {
+        "id": 63,
+        "question_number": "25",
+        "text": "Two particles A and B initially at rest, move toward each other under the mutual force of attraction. At an instance when the speed of A is v and speed of B is 3v, the speed of the centre-of-mass will be:",
+        "subject": "Physics",
+        "sub_topic": "Mechanics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (36)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "A",
+            "zero",
+            "v",
+            "4v"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (36).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 4076,
+        "correct_answer": "zero",
+        "basic_answer": "Given: \n[Speed of particle A (v)\n\nSpeed of particle B (3v)\n\nboth initially at rest]\nSolution: \n[**Conservation of momentum**: System starts from rest with total momentum =0.\n\n Only internal forces act (mutual attraction), \n\nso total momentum remains zero. \n\n$V_{\\text{cm}}$ = Pₜₒₜₐₗ / ($m_{A}$ + $m_{B)}$ \n\n= 0 / ($m_{A}$ + $m_{B)}$ \n\n= 0, regardless of individual speeds or masses]",
+        "explanation": "### **CORE CONCEPT**\nThe dynamics of a system of particles are governed by the motion of its Center of Mass (CM). According to Newton's Second Law for a system, the net external force acting on the system is equal to the total mass multiplied by the acceleration of the center of mass: $\\sum F_{ext} = M a_{CM}$. A fundamental consequence of this law is that internal forces—forces exerted by particles of the system on each other—cannot change the motion of the center of mass. This is because, by Newton's Third Law, internal forces always occur in equal and opposite pairs that cancel out when the entire system is summed. If the net external force on a system is zero, the center of mass must move with a constant velocity. If that system starts from rest, the initial velocity of the center of mass is zero, and in the absence of external intervention, it must remain zero for the entire duration of the internal interactions.\n\n### **SOLUTION**\nTo find the speed of the center of mass, we evaluate the forces and initial conditions: \n1. **Forces:** The only force mentioned is the 'mutual force of attraction.' This is an internal force between particle A and particle B. \n2. **External Forces:** Since there are no other forces mentioned, we assume the system is isolated. $\\sum F_{ext} = 0$. \n3. **Initial Momentum:** The particles are 'initially at rest.' Therefore, the total initial momentum $P_{total} = m_A(0) + m_B(0) = 0$. \n4. **Center of Mass Velocity ($V_{CM}$):** By definition, $V_{CM} = P_{total} / (m_A + m_B)$. At the start, $V_{CM} = 0$. \n5. **Conservation of Momentum:** Since no external force acts, the total momentum remains constant at zero. Even as the particles accelerate toward each other and acquire speeds $v$ and $3v$, they do so in a way that their individual momenta ($m_A \\vec{v}_A + m_B \\vec{v}_B$) always sum to zero. \nConsequently, $V_{CM}$ remains exactly zero at the given instant and all other instants.\n\n### **WHY THIS ANSWER**\nThe answer 'zero' is a direct result of the isolation of the system. Regardless of the individual speeds attained by the particles or their mass ratio, the 'average' position of the mass in the system cannot move unless an outside agent pushes it. This is a powerful symmetry in physics: internal reshuffling of energy and momentum does not affect the global trajectory of the center of mass. This aligns with Option B.\n\n### **COMMON MISTAKES**\nA common mistake is trying to average the speeds of the particles, perhaps guessing $2v$ (the average of $v$ and $3v$) or $4v$ (the sum). This ignores the fact that velocity is a vector; the particles are moving toward each other, meaning their velocities have opposite signs. Another error is assuming that because there is motion, the center of mass must be moving. Students often forget to distinguish between the motion of *individual parts* and the motion of the *entire system*. Some might also overthink the mass ratio, trying to calculate $m_A$ and $m_B$ from the given speeds ($m_A v = m_B 3v$), but even with that information, the center of mass speed is still fundamentally constrained to be zero by the starting conditions.",
+        "keywords": {
+            "v": "velocity",
+            "m": "mass",
+            "CM": "Center of Mass"
+        }
+    },
+    {
+        "id": 64,
+        "question_number": "28",
+        "text": "The maximum kinetic energy of the emitted photoelectrons in the photoelectric effect is independent of the:",
+        "subject": "Physics",
+        "sub_topic": "Photoelectric Effect",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 3,
+        "source_pdf": "PAPAER (36)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "work function of material",
+            "intensity of incident radiation",
+            "frequency of incident radiation",
+            "wavelength of incident radiation"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (36).pdf",
+            "page": 3,
+            "type": "MCQ"
+        },
+        "original_id": 4077,
+        "correct_answer": "intensity of incident radiation",
+        "basic_answer": "Given: \n[The intensity of the incident radiation, work function, frequency, and wavelength are involved]\nSolution: \n[**K.E. = hf - φ** (where K.E. is the maximum kinetic energy, h is Planck's constant, f is the frequency of incident light, and φ is the work function)\n The maximum kinetic energy of emitted photoelectrons depends on frequency and work function but is independent of the intensity of the incident radiation. Increasing intensity increases the number of photons but does not change their energy]",
+        "explanation": "### **CORE CONCEPT**\nThe Photoelectric Effect is a quantum phenomenon that provided the first definitive evidence for the particle nature of light. According to Einstein's revolutionary theory, light is composed of discrete packets called photons. When a photon strikes an electron in a metal, it transfers its entire energy ($E = h\\\nu$) to that single electron. The electron uses a specific amount of this energy, called the **Work Function** ($\\Phi$), to break free from the metal's surface. Any energy remaining after the electron is liberated becomes the **Maximum Kinetic Energy** (Kₘₐₓ) of that electron. The governing equation is $K_{max} = h\\\nu - \\Phi$. This equation clearly demonstrates that the energy of the emitted electron depends solely on the energy of the individual incident photon and the characteristics of the metal. Crucially, the 'Intensity' of light in the quantum model refers to the number of photons striking the surface per unit area per unit time. While increasing the intensity means more photons are hitting the metal, it does not change the energy carried by each individual photon. Consequently, more electrons will be emitted (increasing the photocurrent), but the 'top speed' or maximum kinetic energy of those electrons remains unchanged.\n\n### **SOLUTION**\nTo identify the independent variable, we analyze the components of Einstein's equation: \n1. **Frequency (ν):** As frequency increases, the energy of each photon (hν) increases, leading to a higher Kₘₐₓ. Thus, Kₘₐₓ is dependent on frequency. \n2. **Wavelength (λ):** Since ν = c⁄λ, wavelength is inversely related to frequency. Shorter wavelengths mean higher energy. Thus, Kₘₐₓ is dependent on wavelength. \n3. **Work Function ($\\Phi$):** This is the 'energy tax' the metal charges for an electron to leave. A higher work function results in a lower Kₘₐₓ. Thus, Kₘₐₓ is dependent on the material property. \n4. **Intensity:** Increasing intensity simply provides more photons of the same energy. It increases the quantity of electrons, but not the energy per electron. Therefore, Kₘₐₓ is **independent** of intensity.\n\n### **WHY THIS ANSWER**\nThe independence of maximum kinetic energy from light intensity was the key observation that classical wave theory could not explain. Classical physics predicted that brighter light (higher intensity) should deliver more energy and thus produce faster electrons. The fact that the speed of the electrons remains constant regardless of brightness, provided the color (frequency) is fixed, is a hallmark of quantum mechanics. Option B correctly identifies this independent factor.\n\n### **COMMON MISTAKES**\nA very frequent mistake is confusing 'intensity' with 'energy.' Students often think that 'more light' means 'more energy for each electron,' but in the quantum world, energy is a per-particle property, not a total-sum property. Another mistake is mixing up the effects: Intensity affects the **number** of electrons (and thus the current), while frequency affects the **energy** of the electrons (and thus the stopping potential). Some students also wrongly assume that the work function is a variable; while it differs between metals, for a specific experiment on a specific metal, it is a constant. Finally, remember that if the frequency is below the threshold frequency, no electrons are emitted at all, no matter how high the intensity is.",
+        "keywords": {
+            "K.E.": "Kinetic Energy",
+            "h": "Planck's constant",
+            "f": "frequency",
+            "φ": "work function",
+            "J": "Joules",
+            "Hz": "Hertz"
+        }
+    },
+    {
+        "id": 65,
+        "question_number": "43",
+        "text": "If an unpolarised light is incident on a plane surface of refractive index at Brewster's angle then the angle of refractive is:",
+        "subject": "Physics",
+        "sub_topic": "Optics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 6,
+        "source_pdf": "PAPAER (39)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "30 °",
+            "20 °",
+            "40 °",
+            "50 °"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (39).pdf",
+            "page": 6,
+            "type": "MCQ"
+        },
+        "original_id": 4333,
+        "correct_answer": "40 °",
+        "basic_answer": "Given: \n[Light incident from air on a medium at Brewster's angle θ_B = 50°]\n\nSolution: \n[At Brewster's angle, the reflected and refracted rays are perpendicular, \n\nso θ_B + θ_r = 90°. \n\nθ_r = 90° − θ_B \n\n= 90° − 50° \n\n= 40°]",
+        "explanation": "### **CORE CONCEPT**\nBrewster's angle (also known as the polarizing angle, $\\theta_B$) is a specific angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection. When unpolarized light hits a surface at this angle, the reflected light is completely plane-polarized. The physical reason for this phenomenon is related to the behavior of oscillating electric dipoles in the medium. At Brewster's angle, the direction of the reflected ray is exactly perpendicular to the direction in which the dipoles in the medium are oscillating. Since dipoles do not radiate energy along their axis of oscillation, no light of that specific polarization can be reflected. This leads to a unique geometric condition: at Brewster's angle, the reflected ray and the refracted ray are at a $90^\\circ$ angle to each other. This condition is the key to solving most problems related to Brewster's law, as it allows us to relate the angle of incidence directly to the angle of refraction without necessarily knowing the refractive index.\n\n### **SOLUTION**\nTo find the angle of refraction ($r$), we use the geometric relationship derived from Brewster's Law. \n1. **Geometric Setup:** Consider a ray of light hitting a surface. Let $\\theta_i$ be the angle of incidence, $\\theta_r$ be the angle of reflection, and $r$ be the angle of refraction. \n2. **Law of Reflection:** We know that the angle of incidence equals the angle of reflection: $\\theta_i = \\theta_r$. \n3. **Brewster's Condition:** At Brewster's angle, the reflected ray and refracted ray are perpendicular. Therefore, the sum of the angle of reflection and the angle of refraction, plus the $90^\\circ$ between them, must equal $180^\\circ$ across the normal. \n   θᵣ + 90° + r = 180°\n4. **Simplify:** This reduces to $\\theta_r + r = 90^\\circ$. Since $\\theta_i = \\theta_r$, we have the famous identity: **$\\theta_B + r = 90^\\circ$**. \n5. **Substitute Values:** The problem gives Brewster's angle as $50^\\circ$. \n   $$50^\\circ + r = 90^\\circ$$\n   $$r = 90^\\circ - 50^\\circ = 40^\\circ$$\nThus, the light is refracted into the medium at an angle of $40^\\circ$.\n\n### **WHY THIS ANSWER**\nThe result $40^\\circ$ is the only one that satisfies the condition that the reflected and refracted rays are orthogonal. Any other angle would result in the reflected light being only partially polarized rather than completely polarized. This geometric constraint is a fundamental property of wave optics at interfaces and is used in the design of polarized sunglasses and laser cavities. It corresponds to Option C.\n\n### **COMMON MISTAKES**\nA very common mistake is confusing the angle of refraction with the angle of incidence itself, leading some to pick $50^\\circ$. Another error is trying to use Brewster's Law formula ($n = \\tan \\theta_B$) to find the refractive index first. While this would give $n = \\tan 50^\\circ \\approx 1.19$, and then applying Snell's Law ($1 \\cdot \\sin 50^\\circ = 1.19 \\cdot \\sin r$), any rounding errors in $n$ or the trigonometric functions could lead to an imprecise result. The geometric approach ($90 - \\theta_B$) is much faster and more accurate for MCQs. Students also sometimes confuse Brewster's angle with the 'critical angle' for total internal reflection; remember that Brewster's angle occurs for light entering a medium, while the critical angle occurs for light attempting to leave a denser medium.",
+        "keywords": {
+            "n": "refractive index",
+            "θ_B": "Brewster's angle",
+            "°": "degrees"
+        }
+    },
+    {
+        "id": 66,
+        "question_number": "144",
+        "text": "The coefficient of linear expansion of brass and steel rods are . Lengths of brass and steel rods are l1 and l2 respectively. If (l2 - l1) remains the same at all temperatures, which one of the following relations holds good?",
+        "subject": "Physics",
+        "sub_topic": "Thermal Expansion",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PAPAER (4)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "α1I2² = α2I1²",
+            "α1²I₂ = α2²",
+            "α1I1 = α2I2",
+            "α1I2 = α2I1"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (4).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 4530,
+        "correct_answer": "α1I2 = α2I1",
+        "basic_answer": "Given: \n[Length of brass rod = l1 \n\nLength of steel rod = l2\n\nCoefficient of linear expansion of brass = α1\n\nCoefficient of linear expansion of steel = α2. \n\nThe condition states (l2 - l1) remains constant at all temperatures]\nSolution: \n[The equation for linear expansion is \n\nΔL = L₀ × α × ΔT.\n\n Here, ΔL is the change in length, L₀ is the original length, α is the coefficient of linear expansion, and ΔT is the change in temperature. \n\nSince (l2 - l1) is constant, we can express it as l2 - l1 = constant. \n\nAccording to linear expansion, for brass and steel: (l1 + ΔL₁) and (l2 + ΔL₂). \n\nTherefore, we can write: \n\nΔL₁ = α1 × l1 × ΔT \n\nand ΔL₂ = α2 × l2 × ΔT, \n\nleading to: α1 × l1 × ΔT + l1 \n\n= α2 × l2 × ΔT + l2. \n\nRearranging this gives us the relation: \n\nα1 × l1 = α2 × l2, which matches]",
+        "explanation": "### **CORE CONCEPT**\nThermal expansion is the tendency of matter to change its shape, area, and volume in response to a change in temperature. For solid rods, this is primarily observed as an increase in length, governed by the formula $\\Delta L = L_0 \\alpha \\Delta T$. Here, α is the coefficient of linear expansion, which is a constant unique to each material. When two rods of different materials and different initial lengths are heated, they will generally expand by different amounts. However, certain mechanical applications require that the difference between the lengths of two components remains constant across a wide temperature range—for instance, to maintain a specific gap in a machine or the timing in a pendulum clock. For the difference ($l_2 - l_1$) to be invariant with respect to temperature, the 'growth' of the first rod must be perfectly matched by the 'growth' of the second rod. If one rod grows by 1 mm, the other must also grow by exactly 1 mm, ensuring the distance between their ends remains unchanged.\n\n### **SOLUTION**\nWe translate the physical requirement of a 'constant difference' into a mathematical equation: \n1. **Identify the Condition:** (l₂ + Δl₂) − (l₁ + Δl₁) = l₂ − l₁. \n2. **Simplify the Condition:** Subtract (l₂ − l₁) from both sides: Δl₂ − Δl₁ = 0, which means Δl₁ = Δl₂. \n3. **Apply the Expansion Formula:** \n   - For the brass rod: Δl₁ = l₁ α₁ ΔT\n   - For the steel rod: Δl₂ = l₂ α₂ ΔT\n4. **Equate the Expansions:** \n   l₁ α₁ ΔT = l₂ α₂ ΔT\n5. **Divide by ΔT:** Since the change in temperature is the same for both rods, it cancels out, leaving: \n   α₁ l₁ = α₂ l₂.\n6. **Rearrange to match options:** If we look for the form in Option D: \n   α₁ ⁄ l₂ = α₂ ⁄ l₁ ⇒ α₁ l₁ = α₂ l₂. \nActually, Option D as written in the text provided is α₁ l₂ = α₂ l₁. Wait, let's re-verify the algebraic manipulation. The required relation is α₁ l₁ = α₂ l₂. If the option says α₁ l₂ = α₂ l₁, that would be the *inverse* ratio. Let's look at Option C: α₁ I₁ = α₂ I₂ (using I for length). This is the correct identity.\n\n### **WHY THIS ANSWER**\nThe relationship α₁ l₁ = α₂ l₂ is the only one that ensures the absolute expansion of both rods is identical. It shows that for the difference to remain constant, the product of the length and the expansion coefficient must be equal for both materials. This means the longer rod must have a smaller expansion coefficient, and the shorter rod must have a larger one to 'catch up' during heating. This is a fundamental principle used in the construction of bimetallic strips and compensated pendulums. It corresponds to Option C.\n\n### **COMMON MISTAKES**\nA common mistake is confusing the ratio of expansion with the ratio of lengths, leading to incorrect squaring like in Options A or B. Another mistake is assuming that the *ratio* of lengths remains constant, rather than the *difference*. If the ratio were constant, then l₁ ⁄ l₂ would be constant, which is a different physical condition entirely. Students also sometimes misinterpret the formula and think that the rod with the larger α must be the longer one. In reality, to keep the difference constant, the material that expands 'more easily' (α) must be 'shorter' (L) so that the total expansion distance ΔL matches the other rod.",
+        "keywords": {
+            "α1": "coefficient of linear expansion of brass",
+            "α2": "coefficient of linear expansion of steel",
+            "l1": "length of brass rod",
+            "l2": "length of steel rod",
+            "ΔL": "change in length",
+            "ΔT": "change in temperature"
+        }
+    },
+    {
+        "id": 67,
+        "question_number": "25",
+        "text": "The pitch of an error-free screw gauge is 1 mm, there are 100 divisions on the circular scale. While measuring the diameter of a thick wire, the pitch scale reads 1 mm and 63rd division on the circular scale coincides with the reference line. The diameter of the wire is:",
+        "subject": "Physics",
+        "sub_topic": "Measurement",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 2,
+        "source_pdf": "PAPAER (38)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "1.63 cm",
+            "0.163 cm",
+            "0.163 m",
+            "1.63 m"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (38).pdf",
+            "page": 2,
+            "type": "MCQ"
+        },
+        "original_id": 4228,
+        "correct_answer": "0.163 cm",
+        "basic_answer": "Given: \n[Pitch = 1 mm\n\nCircular scale divisions = 100\n\nPitch scale reading (PSR) = 1 mm\n\nCircular scale reading (CSR) = 63]\n\nSolution: \n[Least Count (LC) = Pitch / Total divisions on circular scale \n\n= 1 mm / 100 = 0.01 mm]\n\n[Total Reading = PSR + (CSR × LC)]\n[Total Reading = 1 mm + (63 × 0.01 mm) = 1.63 mm]\n\n[Converting to cm: 1.63 mm = 0.163 cm]\n\nFinal Answer: 0.163 cm",
+        "explanation": "### **CORE CONCEPT**\nA screw gauge (or micrometer) is a precision instrument used to measure extremely small dimensions, such as the diameter of a wire or the thickness of a sheet. It works on the principle of a screw: for every full rotation of the screw, it moves forward or backward by a specific distance called the **Pitch**. The accuracy of the instrument is enhanced by dividing one full rotation into many smaller parts on a 'Circular Scale.' The smallest distance the screw moves when rotated by one circular division is known as the Least Count (LC). To find the total measurement, we combine the macro-reading from the linear **Pitch Scale** (PSR) with the micro-reading from the **Circular Scale** (CSR). The formula is: Total Reading = PSR + (CSR × LC). This dual-scale system allows measurements down to 0.01 mm or even 0.001 mm, which is far beyond the capability of a standard ruler.\n\n### **SOLUTION**\nTo find the diameter of the wire, we follow these steps: \n1. **Calculate the Least Count (LC):** The pitch is given as 1 mm and there are 100 divisions. \n   $$LC = \\frac{\\text{Pitch}}{\\text{No. of Circular Divisions}} = \\frac{1 \\text{ mm}}{100} = 0.01 \\text{ mm}$$\n2. **Identify the Readings:** \n   - Pitch Scale Reading (PSR) = 1 mm. \n   - Circular Scale Reading (CSR) = 63\n\n3. **Calculate the Total Reading in mm:** \n   - $Reading = PSR + (CSR × LC)\n   - $Reading = 1 \\text{ mm} + (63 × 0.01 mm = 0.63 mm)$\n   - $Reading = 1 \\text{ mm} + 0.63 \\text{ mm} = 1.63 \\text{ mm}$. \n4. **Convert to the required units (cm):** Since the options are primarily in cm and m, we convert: \n   - $1 \\text{ cm} = 10 \\text{ mm}$, so $1.63 \\text{ mm} = 1.63 / 10 = 0.163 \\text{ cm}$.\n\n### **WHY THIS ANSWER**\nThe calculated value 0.163 cm is the precise diameter of the wire. It correctly combines the 1 mm 'coarse' measurement with the 0.63 mm 'fine' adjustment. The value is physically reasonable for a 'thick wire' (roughly 1.6 millimeters) and matches the decimal placement of Option B.\n\n### **COMMON MISTAKES**\nA very frequent error is forgetting the Least Count and simply adding the numbers ($1 + 63 = 64$) or multiplying incorrectly. Another major pitfall is unit conversion; many students calculate $1.63$ mm and then choose $1.63$ cm (Option A), forgetting that a centimeter is ten times larger than a millimeter. In competitive exams, these 'power of ten' traps are intentional. Some students might also get confused if there were a zero error mentioned in the problem; in this case, the instrument is 'error-free,' so we do not need to add or subtract any correction. Finally, always check if the pitch scale is in mm or cm before starting the calculation, as some micrometers use different scales.",
+        "keywords": {
+            "CSD": "Circular Scale Divisions",
+            "PSR": "Pitch Scale Reading",
+            "CSR": "Circular Scale Reading",
+            "mm": "millimeters",
+            "cm": "centimeters"
+        }
+    },
+    {
+        "id": 68,
+        "question_number": "37",
+        "text": "To produce an instantaneous displacement current of 8 mA in the space between the parallel plates of a capacitor of capacitance 10 μF, the rate of change of applied variable potential difference must be:",
+        "subject": "Physics",
+        "sub_topic": "Electromagnetism",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (36)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "800 V/s",
+            "500 V/s",
+            "200 V/s",
+            "400 V/s"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (36).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 4081,
+        "correct_answer": "800 V/s",
+        "basic_answer": "Given: \n[Capacitance C = 10 μF = 10 × 10⁻⁶ F,\n\n Displacement Current I_d = 8 mA = 8 × 10⁻³ A]\n\nSolution: \n[The displacement current is given by the formula: \n\nI_d = C × (dV/dt)]\n\n[Rearranging for the rate of change of potential: \n\ndV/dt = I_d / C]\n\n[Substituting the values: \n\ndV/dt \n\n= (8 × 10⁻³) / (10 × 10⁻⁶) \n\n= 800 V/s]\n\nFinal Answer: 800 V/s",
+        "explanation": "### **CORE CONCEPT**\nDisplacement current ($I_d$) is a concept introduced by James Clerk Maxwell to complete Ampere's Law and satisfy the continuity of current in a circuit containing a capacitor. Unlike 'conduction current,' which is the flow of actual electrons through a wire, displacement current exists in regions where the electric flux is changing with time, such as the gap between capacitor plates. Maxwell's addition to the law states that a changing electric field produces a magnetic field in the same way that a conduction current does. For a parallel-plate capacitor, the electric flux is $\\Phi_E = E A = (Q/\\epsilon_0 A) A = Q/\\epsilon_0$. The displacement current is defined as $I_d = \\epsilon_0 (d\\Phi_E/dt)$. By substituting the flux expression, we find that $I_d = dQ/dt$. Since the charge on a capacitor is $Q = CV$, the time-derivative of charge (assuming constant capacitance) is $dQ/dt = C (dV/dt)$. This reveals a linear relationship: the displacement current is directly proportional to the rate at which the voltage across the capacitor is changing.\n\n### **SOLUTION**\nWe need to find the rate of change of potential difference ($dV/dt$): \n1. **Convert units to SI:** \n   - Current $I_d = 8 \\text{ mA} = 8 \\times 10^{-3} \\text{ Amperes}$. \n   - Capacitance $C = 10 \\mu \\text{F} = 10 \\times 10^{-6} \\text{ Farads}$. \n2. **Rearrange the formula:** From $I_d = C \\cdot (dV/dt)$, we get:\n   dV⁄dt = I_d ⁄ C\n3. **Substitute the values:** \n   $$\\frac{dV}{dt} = \\frac{8 \\times 10^{-3}}{10 \\times 10^{-6}}$$\n4. **Perform the calculation:** \n   - $\\frac{dV}{dt} = \\frac{8}{10} \\times \\frac{10^{-3}}{10^{-6}}$\n   - $\\frac{dV}{dt} = 0.8 \\times 10^3 = 800 \\text{ Volts per second}$.\n\n### **WHY THIS ANSWER**\nThe value 800 V/s is the required rate of voltage increase (or decrease) to maintain a steady 8 mA displacement current. This result shows that even a small current in a small capacitor requires a very rapid change in voltage. This is why displacement currents are mostly significant in high-frequency AC circuits or during rapid switching events in DC circuits. The calculation matches Option A.\n\n### **COMMON MISTAKES**\nA standard mistake is unit management, particularly with the 'milli' ($10^{-3}$) and 'micro' ($10^{-6}$) prefixes. If a student ignores these, they might get 0.8 or 8, which are not listed. Another error is confusing displacement current with conduction current and trying to apply Ohm's Law ($V = IR$), which is invalid for the gap of a capacitor. Some might also use the energy formula ($1/2 CV^2$) by mistake. Finally, ensure you understand that $dV/dt$ is a single variable (rate) and you are not solving for $V$ or $t$ independently.",
+        "keywords": {
+            "I": "Displacement Current",
+            "C": "Capacitance",
+            "dV/dt": "Rate of Change of Voltage",
+            "V": "Voltage",
+            "s": "seconds"
+        }
+    },
+    {
+        "id": 69,
+        "question_number": "38",
+        "text": "An emf is generated by an ac generator having turn coil, of loop area m². The coil rotates at a speed of one revolution per second and placed in a uniform magnetic field of T perpendicular to the axis of rotation of the coil. The maximum value of emf is:",
+        "subject": "Physics",
+        "sub_topic": "Electromagnetic Induction",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 4,
+        "source_pdf": "PAPAER (36)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "3.14 V",
+            "31.4 V",
+            "62.8 V",
+            "6.28 V"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (36).pdf",
+            "page": 4,
+            "type": "MCQ"
+        },
+        "original_id": 4082,
+        "correct_answer": "6.28 V",
+        "basic_answer": "Given: \n[Frequency (f) = 1 Hz\n\nArea (A) = 1 m²\n\nMagnetic Field (B) = 1 T\n\nNumber of turns (N) = 1]\n\nSolution: \n[The maximum (peak) EMF of an AC generator is given by:\n\n ε₀ = NABω]\n[Where angular velocity ω = 2πf]\n\n[Substituting the values: \n\nε₀ = (1) × (1) × (1) × (2π × 1)]\n[ε₀ = 2π ≈ 2 × 3.14 \n\n= 6.28 V]\n\nFinal Answer: 6.28 V",
+        "explanation": "### **CORE CONCEPT**\nAn AC generator (or alternator) converts mechanical energy into electrical energy using the principle of Electromagnetic Induction. According to Faraday's Law, an electromotive force (emf) is induced in a conductor whenever the magnetic flux linking it changes over time. In a generator, a coil of $N$ turns and area $A$ is rotated with a constant angular velocity $\\omega$ in a uniform magnetic field $B$. As the coil turns, the angle $\\theta$ between the magnetic field lines and the normal to the coil changes as $\\theta = \\omega t$. The magnetic flux through the coil at any time is $\\Phi = B A \\cos(\\omega t)$. According to Faraday’s Law, the induced emf is $\\epsilon = -N (d\\Phi/dt)$. Differentiating the cosine function results in a sine function: $\\epsilon = NAB\\omega \\sin(\\omega t)$. This shows that the emf oscillates sinusoidally. The 'maximum' or 'peak' value of this emf ($\\epsilon_0$) occurs when the sine function equals 1. Thus, the peak emf is the product of the number of turns, the magnetic field strength, the area of the loop, and the angular speed of rotation: $\\epsilon_0 = NAB\\omega$.\n\n### **SOLUTION**\nTo find the maximum emf, we must identify the values for all four variables in the formula: \n1. **Analyze the inputs:** \n   - Number of turns ($N$): Although 'turn coil' is written, in the absence of a number, we assume a single loop ($N=1$). \n   - Loop area ($A$): Given as $1$ m². \n   - Magnetic field ($B$): Given as $1$ Tesla. \n   - Rotational speed: $1$ revolution per second. \n2. **Calculate Angular Velocity ($\\omega$):** The speed is given in frequency ($f$), but the formula requires radians per second. \n   $$\\omega = 2\\pi f = 2\\pi(1) = 2\\pi \\text{ rad/s}$$\n3. **Calculate Maximum EMF ($\\epsilon_0$):** \n   - $\\epsilon_0 = N \\cdot A \\cdot B \\cdot \\omega$\n   - $\\epsilon_0 = 1 \\cdot 1 \\cdot 1 \\cdot 2\\pi$\n   - $\\epsilon_0 = 2\\pi \\approx 2 \\times 3.14159 = 6.283 \\text{ Volts}$.\n\n### **WHY THIS ANSWER**\nThe value 6.28 V is the correct peak voltage generated by this setup. It reflects the rate at which the coil 'cuts' the magnetic field lines. Since the area and field are both unity, the voltage is entirely determined by the angular speed ($2\\pi$). This result is consistent with the physics of rotating machinery and matches Option D.\n\n### **COMMON MISTAKES**\nA common mistake is using the frequency ($f=1$) directly in the formula instead of the angular velocity ($\\omega = 2\\pi f$). This would result in $1 \\times 1 \\times 1 \\times 1 = 1$ V, which is not an option. Another error is miscalculating $2\\pi$, leading to $3.14$ V (Option A). Some students might also confuse 'maximum value' with 'RMS value' (root-mean-square). The RMS value would be $6.28 / \\sqrt{2} \\approx 4.44$ V. In competitive exams, always be careful to check if the area is given as a radius (requiring $\\pi r^2$) or as the total area directly; here, $1$ m² is the total area. Finally, ensure the magnetic field units are in Tesla ($T$) and not milliTesla ($mT$).",
+        "keywords": {
+            "E": "emf",
+            "n": "frequency",
+            "Hz": "Hertz",
+            "A": "area",
+            "m²": "square meters",
+            "B": "magnetic field",
+            "T": "Tesla",
+            "π": "Pi"
+        }
+    }
+]

@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Electrostatic Potential and Capacitance",
+    "chapter_number": 2,
+    "topic": "Capacitance",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:07:29.484414",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about capacitance. This is an important topic in electrostatics. First, let's understand what capacitance is. Capacitance is the ability of a system to store electric charge. It is defined by the formula C = Q/V, where C is capacitance, Q is charge, and V is voltage. This means capacitance is the charge stored per unit voltage. \n\nNow, let's talk about a common device called a capacitor. A capacitor stores electric charge and energy. The simplest type is a parallel plate capacitor. It has two flat plates facing each other. The formula for its capacitance is C = ε₀A/d. Here, ε₀ is a constant called permittivity of free space, A is the area of the plates, and d is the distance between them. \n\nWhen we add a material between the plates, like plastic or glass, it is called a dielectric. Dielectrics increase the capacitance. The new capacitance with a dielectric is C' = KC, where K is the dielectric constant. This K tells us how much the material increases the capacitance. \n\nA very important point is the energy stored in a capacitor. The formula is U = 1/2 CV². This tells us how much energy is stored when a capacitor is charged. \n\nCapacitors can be combined in circuits. They can be in series or parallel. In series, the total capacitance is less than any single capacitor. In parallel, the total capacitance is the sum of all capacitors. \n\nRemember, units of capacitance are farads (F). A common mistake is to forget that 1 farad is very large. In real life, we often use microfarads (μF) or picofarads (pF). \n\nLet's also look at the charge-voltage relationship. This is a straight line on a graph. Charge increases as voltage increases. \n\nFinally, in experiments, we measure capacitance using a device called a capacitance meter. It is important to know that dielectric constant and dielectric strength are key concepts. Dielectric strength is the maximum electric field a material can handle without breaking down. \n\nTo sum up, capacitance is about storing charge. It is important in many electronic devices. Always remember the key formulas and concepts. They are frequently asked in NEET exams. Let's practice some problems to make sure you understand. \n\nThank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Capacitance",
+    "Dielectric",
+    "Parallel Plate Capacitor",
+    "Energy Stored",
+    "Series and Parallel"
+  ],
+  "formulas": [
+    {
+      "formula": "C = Q/V",
+      "description": "Capacitance is the charge stored per unit voltage"
+    },
+    {
+      "formula": "C = ε₀A/d",
+      "description": "Capacitance of a parallel plate capacitor"
+    },
+    {
+      "formula": "C' = KC",
+      "description": "Capacitance with a dielectric"
+    },
+    {
+      "formula": "U = 1/2 CV²",
+      "description": "Energy stored in a capacitor"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Capacitance",
+      "definition": "The ability of a system to store electric charge"
+    },
+    {
+      "term": "Dielectric",
+      "definition": "A material placed between capacitor plates to increase capacitance"
+    },
+    {
+      "term": "Dielectric Constant",
+      "definition": "A number that shows how much a dielectric increases capacitance"
+    },
+    {
+      "term": "Dielectric Strength",
+      "definition": "The maximum electric field a material can handle without breaking down"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "The Living World",
+    "chapter_number": 1,
+    "topic": "Taxonomic Categories",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:30:52.201374",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will learn about taxonomic categories in biology. Taxonomy is the science of naming, describing, and classifying living things. It helps us understand the diversity of life on Earth. \n\nLet's start with the hierarchy of classification. It is like a ladder that helps us organize living things. The main levels are: Kingdom, Phylum, Class, Order, Family, Genus, and Species. Think of it as a big to small system. Kingdom is the biggest group, and Species is the smallest. \n\nFor example, let's classify humans. We belong to the Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Primates, Family Hominidae, Genus Homo, and Species sapiens. This makes us Homo sapiens. Another example is the lion, known as Panthera leo. It belongs to the same kingdom and phylum as us but is different in genus and species.\n\nNow, let's talk about species. A species is a group of living things that can breed with each other and have babies that can also breed. This is important because it helps us understand how life continues and changes over time. \n\nNext, we have binomial nomenclature. This is a system to name species using two words. The first word is the genus name, and the second is the species name. For example, in Homo sapiens, 'Homo' is the genus and 'sapiens' is the species. The rules are simple: always write in italics, the genus name starts with a capital letter, and the species name starts with a small letter. \n\nTaxonomy plays a big role in understanding biodiversity. It helps scientists communicate clearly about different species and understand how they are related. It is like a map that shows the connections between all living things.\n\nKey points to remember: \n1. The hierarchy of classification goes from Kingdom to Species.\n2. Binomial nomenclature uses genus and species names.\n3. Species are groups that can breed and have fertile offspring.\n4. Taxonomy helps us understand biodiversity.\n\nIn summary, taxonomy is a powerful tool in biology. It helps us organize and understand the vast diversity of life on Earth. Remember to practice classifying different species and using binomial names correctly. This will help you in your NEET exam.\n\nCommon Mistake: Do not forget to italicize the binomial names and capitalize only the genus name.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Taxonomy",
+    "Hierarchy of Classification",
+    "Species",
+    "Binomial Nomenclature",
+    "Biodiversity"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Taxonomy",
+      "definition": "The science of naming, describing, and classifying living things."
+    },
+    {
+      "term": "Species",
+      "definition": "A group of living things that can breed with each other and have fertile offspring."
+    },
+    {
+      "term": "Binomial Nomenclature",
+      "definition": "A system of naming species using two words: the genus name and the species name."
+    }
+  ]
+}

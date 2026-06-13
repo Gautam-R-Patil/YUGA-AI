@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Environmental Chemistry",
+    "chapter_number": 20,
+    "topic": "Atmospheric Chemistry",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:23:19.275610",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Atmospheric Chemistry, a part of Environmental Chemistry. This topic is important for JEE Main. Let's start with the Composition of the Atmosphere. Our atmosphere is mainly nitrogen (78%) and oxygen (21%). The rest is made up of argon, carbon dioxide, and other gases. Knowing this helps us understand chemical reactions in the atmosphere. \n\nNext, let's talk about Chemical Reactions in the Atmosphere. These reactions happen due to sunlight, oxygen, and other gases. For example, when oxygen reacts with sunlight, ozone (O3) is formed. This process is called photochemical reaction. \n\nNow, let's discuss Photochemical Smog. Smog is a type of air pollution. It forms when sunlight reacts with pollutants like nitrogen oxides (NOx) and volatile organic compounds (VOCs). Smog can cause health problems and reduce visibility. Remember, NOx is a key player in forming smog. \n\nMoving on to Acid Rain Formation. Acid rain happens when sulfur dioxide (SO2) and nitrogen oxides (NOx) mix with water vapor in the air. They form acids like sulfuric acid (H2SO4) and nitric acid (HNO3). These acids fall as rain, harming plants and buildings. \n\nLet's talk about the Ozone Layer. The ozone layer is high in the atmosphere. It protects us from the sun's harmful UV rays. Without it, life on Earth would be difficult. \n\nHowever, Ozone Depletion is a problem. Chemicals like CFCs (chlorofluorocarbons) break down ozone. This creates holes in the ozone layer, allowing more UV rays to reach Earth. \n\nNext, Greenhouse Gases and Global Warming Potential. Greenhouse gases like carbon dioxide (CO2) trap heat in the atmosphere. This causes global warming. Global warming potential is a measure of how much heat a gas traps compared to CO2. \n\nLet's discuss Atmospheric Pressure. It is the force exerted by air on a surface. It decreases with height. This concept is important in understanding weather patterns. \n\nTemperature Inversion is another concept. Normally, air temperature decreases with height. But in temperature inversion, warmer air is above cooler air. This traps pollutants near the ground, worsening air quality. \n\nNow, the Role of CFCs. CFCs are used in refrigerators and aerosols. They release chlorine atoms, which destroy ozone molecules. This leads to ozone depletion. \n\nThe Role of NOx and SOx. NOx and SOx are pollutants from vehicles and industries. They contribute to smog and acid rain. Controlling these emissions is important for clean air. \n\nFinally, let's talk about Atmospheric Pollutants. These include gases like CO2, SO2, NOx, and particulate matter. They harm health and the environment. Reducing emissions is key to solving pollution problems. \n\nNow, let's go over some common mistakes. In JEE Main, students often confuse ozone depletion with global warming. Remember, ozone depletion is about UV rays, while global warming is about heat. Also, don't mix up NOx and SOx. They have different sources and effects. \n\nFor quick revision, remember these key points: the composition of the atmosphere, the role of ozone, the effects of smog and acid rain, and the importance of reducing pollutants. \n\nIn conclusion, understanding atmospheric chemistry helps us tackle environmental issues. Keep practicing problems and remember the key concepts for JEE Main. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Atmosphere",
+    "Ozone",
+    "Greenhouse Gases",
+    "Acid Rain",
+    "Smog"
+  ],
+  "formulas": [
+    {
+      "formula": "H2SO4 + H2O → H3O+ + HSO4-",
+      "description": "Acid rain formation from sulfuric acid in the atmosphere"
+    },
+    {
+      "formula": "NO2 + sunlight → NO + O",
+      "description": "Photochemical reaction leading to ozone formation in smog"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Photochemical Smog",
+      "definition": "A type of air pollution formed by sunlight reacting with pollutants"
+    },
+    {
+      "term": "Ozone Layer",
+      "definition": "A layer in the atmosphere that protects us from UV rays"
+    },
+    {
+      "term": "Greenhouse Gases",
+      "definition": "Gases that trap heat in the atmosphere, causing global warming"
+    }
+  ]
+}

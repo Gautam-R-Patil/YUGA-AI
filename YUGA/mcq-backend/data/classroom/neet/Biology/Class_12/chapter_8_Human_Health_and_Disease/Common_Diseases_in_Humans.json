@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Human Health and Disease",
+    "chapter_number": 8,
+    "topic": "Common Diseases in Humans",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:42:24.219021",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will talk about common diseases in humans. These diseases are caused by tiny living things called pathogens. Pathogens can be bacteria, viruses, fungi, protozoans, or helminths. Let's understand each one.\n\nFirst, bacteria. These are small, single-celled organisms. Some bacteria cause diseases like typhoid and pneumonia. Typhoid is spread through dirty water and food. You might have heard of the Widal test. It helps in diagnosing typhoid. Pneumonia affects the lungs and causes difficulty in breathing. It spreads through air when an infected person coughs or sneezes.\n\nNext, viruses. These are even smaller than bacteria. They cause diseases like the common cold, dengue, and chikungunya. The common cold spreads easily through air and touch. Dengue and chikungunya are spread by mosquitoes. These mosquitoes are called vectors. A vector is an organism that carries and spreads disease.\n\nNow, let's talk about protozoans. Protozoans are tiny organisms that can cause diseases like malaria and amoebiasis. Malaria is spread by the female Anopheles mosquito. The mosquito carries a protozoan called Plasmodium. This is an important topic for NEET. Remember the life cycle of Plasmodium. It involves humans and mosquitoes.\n\nAmoebiasis is caused by a protozoan called Entamoeba. It spreads through dirty water or food. It affects the intestines and causes stomach pain.\n\nHelminths are worms. They cause diseases like ascariasis and filariasis. Ascariasis is caused by roundworms. It spreads through dirty food and water. Filariasis is spread by mosquitoes. It causes swelling in the legs and other body parts.\n\nFungi are another type of pathogen. They cause diseases like ringworm. Ringworm is not caused by a worm. It is a skin infection that causes red, itchy patches. It spreads through touch or by sharing personal items.\n\nLet's talk about immunity. Immunity is the body's ability to fight diseases. Vaccines help our body build immunity against certain diseases.\n\nTo prevent these diseases, practice good hygiene. Wash your hands often. Drink clean water. Use mosquito nets. Get vaccinated.\n\nRemember, common mistakes include confusing bacteria with viruses. They are different. Bacteria are living cells, while viruses need a host to live.\n\nIn summary, pathogens cause many diseases. Knowing how they spread helps us prevent them. Keep these key points in mind for NEET. Thank you for listening!",
+  "duration_minutes": 5,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Pathogen",
+    "Vector",
+    "Immunity",
+    "Malaria",
+    "Typhoid"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Pathogen",
+      "definition": "A microorganism that causes disease."
+    },
+    {
+      "term": "Vector",
+      "definition": "An organism that carries and transmits a pathogen."
+    },
+    {
+      "term": "Immunity",
+      "definition": "The body's ability to resist or fight off disease."
+    }
+  ]
+}

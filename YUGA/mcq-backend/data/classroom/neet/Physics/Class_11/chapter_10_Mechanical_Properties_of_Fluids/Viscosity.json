@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Mechanical Properties of Fluids",
+    "chapter_number": 10,
+    "topic": "Viscosity",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:58:49.710706",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will learn about viscosity. Viscosity is a very important concept in physics, especially in fluids. So, what is viscosity? Viscosity is the measure of how thick or sticky a fluid is. It tells us how much a fluid resists flowing. For example, honey is thick and flows slowly, so it has high viscosity. Water is runny and flows easily, so it has low viscosity. \n\nNow, let's talk about Stokes' law and terminal velocity. Stokes' law helps us understand how objects move through a fluid. It tells us about the force needed to move an object through a fluid. Terminal velocity is the constant speed an object reaches when the force of gravity is balanced by the fluid's resistance. Imagine a raindrop falling. It starts fast, but soon, it falls at a steady speed. This is its terminal velocity.\n\nLet's look at some examples of viscosity in fluids. Think of oil and water. Oil is more viscous than water. This means oil flows more slowly. Another example is syrup. It is thick and flows slowly, just like honey. These examples show how different fluids have different viscosities.\n\nViscosity has many applications in engineering. It helps us design machines and engines. For example, the engine oil in cars has the right viscosity to keep engines running smoothly. If the oil is too thick, it won't flow well. If it's too thin, it won't protect the engine parts.\n\nNow, let's solve a simple problem on viscosity. Suppose you have a ball falling through a liquid. You want to find its terminal velocity. Use Stokes' law to calculate it. Remember, the formula is v = 2/9 × (r^2 × (density of sphere - density of fluid) × g) / η. Here, v is the terminal velocity, r is the radius of the sphere, g is acceleration due to gravity, and η is the fluid's viscosity.\n\nKey points to remember: Viscosity is about how fluids resist flow. High viscosity means thick and slow flow. Low viscosity means runny and fast flow. Stokes' law helps calculate forces in fluids. Terminal velocity is the constant speed an object reaches in a fluid. \n\nIn summary, viscosity is crucial in understanding how fluids behave. It affects everything from raindrops to car engines. Understanding viscosity can help us solve real-world problems. Keep practicing these concepts, and you'll do great in your exams!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Viscosity",
+    "Stokes' Law",
+    "Terminal Velocity",
+    "Fluid Resistance",
+    "Engineering Applications"
+  ],
+  "formulas": [
+    {
+      "formula": "v = 2/9 × (r^2 × (density of sphere - density of fluid) × g) / η",
+      "description": "Formula to calculate terminal velocity using Stokes' law."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Viscosity",
+      "definition": "The measure of a fluid's resistance to flow."
+    },
+    {
+      "term": "Stokes' Law",
+      "definition": "A law that calculates the force needed to move an object through a fluid."
+    },
+    {
+      "term": "Terminal Velocity",
+      "definition": "The constant speed an object reaches when falling through a fluid."
+    }
+  ]
+}

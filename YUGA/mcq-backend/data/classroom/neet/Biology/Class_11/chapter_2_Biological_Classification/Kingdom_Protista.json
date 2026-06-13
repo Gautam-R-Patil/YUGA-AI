@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_11",
+    "chapter": "Biological Classification",
+    "chapter_number": 2,
+    "topic": "Kingdom Protista",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:32:26.733054",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we are going to learn about Kingdom Protista. This is a very interesting group of organisms. They are different from plants, animals, and fungi. Let's start with their characteristics. \n\nProtists are eukaryotic. This means their cells have a nucleus. The nucleus is like the brain of the cell. It controls everything inside the cell. Protists are usually unicellular, which means they have only one cell. Imagine them as tiny creatures living in water. \n\nSome common examples of protists are amoeba, paramecium, and euglena. Amoeba can change its shape. Paramecium looks like a slipper. Euglena is special because it can make its own food like plants. \n\nNow, let's talk about how they eat. Protists can be autotrophic or heterotrophic. Autotrophic means they make their own food. Euglena is an example of this. Heterotrophic means they eat other things for food. Amoeba and paramecium are heterotrophic. \n\nProtists reproduce in two main ways: asexual and sexual. Asexual reproduction means they make a copy of themselves. This is like cloning. Amoeba uses a process called binary fission. It splits into two. Sexual reproduction involves two parents. They share genetic material. This helps in variation. \n\nProtists play a big role in aquatic ecosystems. They are food for many small animals. They also produce oxygen, which is important for life in water. \n\nLet's remember a few key points. Protists are eukaryotic and usually unicellular. They can be autotrophic or heterotrophic. They reproduce asexually and sexually. They are important for life in water. \n\nA common mistake is thinking all protists are harmful. This is not true. Many are helpful. \n\nIn summary, Kingdom Protista is diverse. They are simple yet important. Understanding them helps us understand life better. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Protists",
+    "Eukaryotic",
+    "Unicellular",
+    "Autotrophic",
+    "Heterotrophic"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Eukaryotic",
+      "definition": "Cells that have a nucleus."
+    },
+    {
+      "term": "Unicellular",
+      "definition": "Organisms made up of one cell."
+    },
+    {
+      "term": "Autotrophic",
+      "definition": "Organisms that make their own food."
+    },
+    {
+      "term": "Heterotrophic",
+      "definition": "Organisms that consume other organisms for food."
+    }
+  ]
+}

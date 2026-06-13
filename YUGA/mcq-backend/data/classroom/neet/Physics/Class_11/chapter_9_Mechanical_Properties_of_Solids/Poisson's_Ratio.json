@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Mechanical Properties of Solids",
+    "chapter_number": 9,
+    "topic": "Poisson's Ratio",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:57:46.570518",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Poisson's ratio. This is an important topic in the chapter 'Mechanical Properties of Solids'. Let's start by understanding what Poisson's ratio is. \n\nPoisson's ratio is a number that tells us how a material changes shape when we stretch or squeeze it. When you pull a rubber band, it gets longer but also thinner. Poisson's ratio helps us measure this change. \n\nThe formula for Poisson's ratio is simple. It is the negative ratio of lateral strain to axial strain. Strain is the change in shape compared to the original shape. Lateral strain is the change in width, and axial strain is the change in length.\n\nNow, let's look at the formula: \n\nPoisson's Ratio = - (Lateral Strain / Axial Strain)\n\nThis formula helps us calculate Poisson's ratio. The negative sign shows that when a material gets longer, it usually gets thinner. \n\nLet's see some examples. Rubber has a high Poisson's ratio. This means it gets very thin when stretched. On the other hand, cork has a low Poisson's ratio. It does not change much in thickness when you squeeze it. \n\nIn engineering, Poisson's ratio is very useful. Engineers use it to design structures like bridges and buildings. It helps them understand how materials will behave under different forces. \n\nLet's solve a simple problem. If a metal rod is stretched and its length increases by 1% while its width decreases by 0.5%, what is the Poisson's ratio? \n\nFirst, find the lateral strain: -0.5% = -0.005. Then, find the axial strain: 1% = 0.01. Now, use the formula: Poisson's Ratio = - (Lateral Strain / Axial Strain) = - (-0.005 / 0.01) = 0.5.\n\nA common mistake is forgetting the negative sign in the formula. Remember, it shows that when one dimension increases, the other decreases.\n\nWe can also represent Poisson's ratio on a graph. The graph shows how the width of a material changes as its length changes. The slope of the line gives us the Poisson's ratio.\n\nIn summary, Poisson's ratio is a simple yet powerful concept. It helps us understand how materials behave when forces are applied. This is important for NEET exams and real-world applications. Remember the formula and the concept of strain, and you'll do great!\n\nThank you for listening. Keep practicing, and you'll master this topic in no time!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Poisson's Ratio",
+    "Lateral Strain",
+    "Axial Strain",
+    "Engineering",
+    "Materials"
+  ],
+  "formulas": [
+    {
+      "formula": "Poisson's Ratio = - (Lateral Strain / Axial Strain)",
+      "description": "This formula calculates Poisson's ratio using the negative ratio of lateral strain to axial strain."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Poisson's Ratio",
+      "definition": "A number that describes how a material changes shape when stretched or squeezed."
+    },
+    {
+      "term": "Lateral Strain",
+      "definition": "The change in width of a material divided by its original width."
+    },
+    {
+      "term": "Axial Strain",
+      "definition": "The change in length of a material divided by its original length."
+    }
+  ]
+}

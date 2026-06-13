@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Neural Control and Coordination",
+    "chapter_number": "21",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:34:53.233449",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts: Neural Control and Coordination.\n\n1. **Nervous System Overview**: The nervous system is responsible for controlling and coordinating various functions in our body. It's divided into the Central Nervous System (CNS), which includes the brain and spinal cord, and the Peripheral Nervous System (PNS), which covers all neural elements outside the CNS.\n\n2. **Neuron Structure**: Neurons are the structural and functional units of the nervous system. Key parts include the cell body, dendrites, and axon. The myelin sheath covering axons helps in faster impulse conduction.\n\n3. **Types of Neurons**: Neurons can be sensory (afferent), motor (efferent), or interneurons (connect motor and sensory pathways).\n\n4. **Synapse Function**: A synapse is a junction between two neurons. It can be electrical or chemical, with chemical synapses using neurotransmitters to pass signals.\n\n5. **Transmission of Nerve Impulse**: Impulses are transmitted by changes in the membrane potential. The action potential is a rapid change in electrical charge that travels down the axon.\n\n6. **Reflex Action and Arc**: Reflex action is a rapid, involuntary response to stimuli. The reflex arc comprises the sensory receptor, afferent pathway, integration center, efferent pathway, and effector.\n\n7. **Coordination in Humans**: Involves both nervous and endocrine systems. The hypothalamus is a vital link between these systems.\n\n**NEET Question Pattern**: NEET often includes questions about neuron structure, synapse functioning, pathways of nerve impulse transmission, and the differences between CNS and PNS.\n\n**Quick Revision Points**:\n- CNS vs. PNS\n- Structure and function of neurons\n- Synapsis mechanism\n- Action potential propagation\n- Reflex arcs and reflex actions\n\nEnsure you remember key differences and the roles of neurons, as questions often test basic concepts and structural functions in this chapter.",
+  "duration_minutes": "12",
+  "difficulty_level": "Intermediate",
+  "images": [],
+  "keywords": [
+    "Nervous System",
+    "Neuron",
+    "Synapse",
+    "Action Potential",
+    "Reflex Arc",
+    "Central Nervous System",
+    "Peripheral Nervous System",
+    "Myelin Sheath",
+    "Hypothalamus"
+  ],
+  "formulas": [
+    "Nerve impulse transmission: I=V/R (Ohm's Law analogy for neural transmission)"
+  ],
+  "definitions": [
+    {
+      "term": "Nervous System",
+      "definition": "The complex network in the body responsible for transmitting signals between different parts, enabling coordination and control of activities."
+    },
+    {
+      "term": "Neuron",
+      "definition": "The fundamental unit of the nervous system that processes and transmits information through electrical and chemical signals."
+    },
+    {
+      "term": "Synapse",
+      "definition": "A junction between two neurons, where nerve impulses are transmitted through neurotransmitters."
+    },
+    {
+      "term": "Action Potential",
+      "definition": "A rapid rise and fall in electrical membrane potential across a nerve cell's axon during signal transmission."
+    },
+    {
+      "term": "Reflex Arc",
+      "definition": "The neural pathway that mediates a reflex action, involving a sensory neuron, interneuron, and motor neuron."
+    },
+    {
+      "term": "Central Nervous System",
+      "definition": "The part of the nervous system consisting of the brain and spinal cord, processing information and dictating responses."
+    },
+    {
+      "term": "Peripheral Nervous System",
+      "definition": "The division of the nervous system comprising all the neural elements outside the brain and spinal cord."
+    },
+    {
+      "term": "Myelin Sheath",
+      "definition": "A fatty layer that covers and insulates axons, enhancing the speed of electrical signal transmission."
+    },
+    {
+      "term": "Hypothalamus",
+      "definition": "A brain region crucial for hormone production and regulation, linking the nervous system to the endocrine system."
+    }
+  ]
+}

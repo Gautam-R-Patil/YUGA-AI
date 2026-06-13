@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Kinetic Theory",
+    "chapter_number": 13,
+    "topic": "Molecular Nature of Matter",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:02:10.279677",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about the molecular nature of matter. This topic is very important for NEET exams. Let's start by understanding what molecules and atoms are. Atoms are the smallest units of matter. They are like tiny building blocks. When two or more atoms join together, they form a molecule. For example, water is made of molecules. Each water molecule has two hydrogen atoms and one oxygen atom.\n\nNow, let's look at examples of molecular nature in physics. Air is made of many molecules. These molecules move around and create pressure. This is why we can feel the wind. In solids, molecules are tightly packed. They do not move much. In liquids, molecules are close but can move around. In gases, molecules are far apart and move freely.\n\nMolecular theory is very useful in engineering. Engineers use it to design engines, refrigerators, and even rockets. They study how molecules behave at different temperatures and pressures. This helps them create better machines.\n\nLet's solve a simple problem. If you heat a gas, what happens to its molecules? The molecules move faster. This is because heat gives them energy. So, if temperature increases, molecular movement also increases.\n\nSometimes students make mistakes with this concept. They think molecules stop moving in solids. But they do move, just very little.\n\nWe can also show molecular behavior with graphs. For example, a graph can show how gas pressure changes with temperature. If temperature goes up, pressure goes up too. This is because molecules hit the walls of the container more often.\n\nKey points to remember: Atoms form molecules. Molecules move differently in solids, liquids, and gases. Molecular theory helps in many fields, like engineering.\n\nIn conclusion, understanding molecules helps us understand the world. It is key in physics and engineering. Remember these basics for your NEET exams. Good luck!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Molecules",
+    "Atoms",
+    "Molecular theory",
+    "Pressure",
+    "Temperature"
+  ],
+  "formulas": [
+    {
+      "formula": "P ∝ T",
+      "description": "Pressure is directly proportional to temperature in a gas"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Atom",
+      "definition": "The smallest unit of matter"
+    },
+    {
+      "term": "Molecule",
+      "definition": "Two or more atoms joined together"
+    }
+  ]
+}

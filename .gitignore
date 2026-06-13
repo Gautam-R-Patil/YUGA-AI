@@ -1,0 +1,54 @@
+# Node dependencies
+node_modules/
+**/node_modules/
+
+# Python Virtual Environments
+.venv/
+**/__pycache__/
+**/*.pyc
+
+# Local Environment configurations
+.env
+.env.production
+**/.env
+**/.env.production
+**/google-service-account.json
+
+# Build outputs
+dist/
+**/dist/
+.vite/
+**/.vite/
+
+# Output and Debug log files
+*.log
+**/*.log
+*out.txt
+**/out.txt
+**/eslint_out.txt
+**/eslint_output.txt
+**/build_output.txt
+**/verify_output_v3.txt
+**/tts_paths.txt
+**/error_log_batch.txt
+**/puppeteer-error.log
+**/tts_verification_report.txt
+**/users.txt
+**/users_2.txt
+**/wave_out.txt
+**/verification_output.txt
+**/verification_output_utf8.txt
+**/lint_out.json
+**/lint_out.txt
+**/lint.txt
+
+# Large data/ML artifacts (RAG, PDFs, pickles)
+YUGA/Misc/
+
+# Large binary files (FAISS indexes, caches)
+**/*.bin
+**/cache.db
+
+# OS metadata
+.DS_Store
+Thumbs.db

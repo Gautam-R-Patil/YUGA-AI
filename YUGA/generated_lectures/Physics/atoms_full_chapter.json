@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Atoms",
+    "chapter_number": "27",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:16:44.899337",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: the Structure of Atoms.\n\nAtoms are the basic building blocks of matter. Understanding their structure is crucial for NEET.\n\n1. **Dalton\u2019s Atomic Theory**: A starting point which postulates that all matter is made of indivisible atoms.\n\n2. **Thomson\u2019s Model**: 'Plum pudding model' where the atom is thought to be a sphere of positive charge with electrons embedded like raisins.\n\n3. **Rutherford's Nuclear Model**: Based on the gold foil experiment, Rutherford proposed that the atom has a small, dense, positively charged nucleus with electrons orbiting around it.\n\n   - *Key Idea*: Most of the atom's mass is concentrated in its nucleus.\n\n4. **Bohr\u2019s Model**: Introduced discrete energy levels. Electrons orbit the nucleus in defined paths called orbits, where each orbit corresponds to a fixed energy level.\n\n   - *Key Formula*: $E_n = -\\frac{13.6 \\, eV}{n^2}$, where $E_n$ is the energy of the nth orbit.\n\n5. **Atomic Spectra**: When electrons transition between orbits, they emit or absorb photons of specific energies.\n\n   - *Lyman, Balmer, Paschen Series*: The different series in the hydrogen spectrum, characterized by the electron transition ending at the ground and excited states.\n\n6. **Uncertainty Principle**: According to Heisenberg, it is impossible to determine both the position and momentum of an electron exactly.\n\n7. **De Broglie Hypothesis**: Suggests that electrons have wave properties, with a wavelength given by $\\lambda = \\frac{h}{mv}$.\n\n**NEET Question Pattern**: \nNEET often asks conceptual questions about atomic models and the explanation of experimental setups like the gold foil experiment. Be prepared to apply formulas to solve problems related to energy levels and spectral lines.\n\n**Quick Revision Points**:\n1. Atoms have a small nucleus with electrons orbiting around.\n2. Bohr's model introduces quantized electron orbits.\n3. Energy levels are key to understanding atomic spectra.\n4. Practice questions on spectral series and energy level calculations.\n5. Understand differences and applications of atomic models.\n6. Familiarize yourself with key experimental setups and their implications.",
+  "duration_minutes": "12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Dalton's Atomic Theory",
+    "Thomson's Model",
+    "Rutherford's Nuclear Model",
+    "Bohr's Model",
+    "Atomic Spectra",
+    "Uncertainty Principle",
+    "De Broglie Hypothesis",
+    "Energy Levels",
+    "Lyman Series",
+    "Balmer Series"
+  ],
+  "formulas": [
+    "$E_n = -\\frac{13.6 \\, eV}{n^2}$",
+    "$\\lambda = \\frac{h}{mv}$"
+  ],
+  "definitions": [
+    {
+      "term": "Dalton's Atomic Theory",
+      "definition": "An early scientific theory proposing that all matter is composed of tiny, indivisible particles called atoms."
+    },
+    {
+      "term": "Thomson's Model",
+      "definition": "An atomic model proposing that electrons are embedded within a sphere of positive charge, like a plum pudding."
+    },
+    {
+      "term": "Rutherford's Nuclear Model",
+      "definition": "Describes the atom as having a dense center of positive charge with electrons orbiting it at a distance."
+    },
+    {
+      "term": "Bohr's Model",
+      "definition": "An atomic model where electrons orbit the nucleus in fixed paths with quantized energy levels."
+    },
+    {
+      "term": "Atomic Spectra",
+      "definition": "The spectrum of frequencies of electromagnetic radiation emitted or absorbed during electron transitions between energy levels."
+    },
+    {
+      "term": "Uncertainty Principle",
+      "definition": "A principle stating that it is impossible to simultaneously know both the position and momentum of a particle with absolute precision."
+    },
+    {
+      "term": "De Broglie Hypothesis",
+      "definition": "The theory suggesting that all matter exhibits wave-like properties, with a wavelength inversely proportional to its momentum."
+    },
+    {
+      "term": "Energy Levels",
+      "definition": "The discrete energies that electrons in an atom can have which determine their orbits."
+    },
+    {
+      "term": "Lyman Series",
+      "definition": "A set of spectral lines in the ultraviolet region due to electron transitions from a higher energy level to the first energy level in a hydrogen atom."
+    },
+    {
+      "term": "Balmer Series",
+      "definition": "A series of visible spectral lines that occur when the electron transitions from a higher energy level to the second energy level."
+    }
+  ]
+}

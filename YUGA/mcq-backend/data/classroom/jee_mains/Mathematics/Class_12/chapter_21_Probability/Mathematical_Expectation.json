@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_12",
+    "chapter": "Probability",
+    "chapter_number": 21,
+    "topic": "Mathematical Expectation",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T10:03:05.704473",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Mathematical Expectation in Probability. This topic is important for JEE Main. Let's start with some basic ideas. \n\nFirst, we need to understand what a Random Variable is. A Random Variable is a number that can change. It depends on chance. For example, when you roll a dice, the number you get is a Random Variable. \n\nNow, let's talk about Expectation. Expectation of a Random Variable is like the average value you expect. We use the symbol E(X) to show the expectation of a Random Variable X. \n\nThe formula for Expectation is simple: E(X) = Σ [x * P(x)]. Here, x is each possible value of the Random Variable, and P(x) is the probability of x. \n\nLet's see an example. If you have a dice, the Random Variable X can be 1, 2, 3, 4, 5, or 6. Each number has a probability of 1/6. So, E(X) = 1*(1/6) + 2*(1/6) + ... + 6*(1/6). This equals 3.5. \n\nNext, we have some Properties of Expectation. One important property is Linearity. It means E(aX + b) = aE(X) + b. Here, a and b are constants. This helps to solve problems faster. \n\nNow, let's talk about Variance. Variance measures how much the values of a Random Variable spread out. The formula is Var(X) = E(X^2) - [E(X)]^2. \n\nStandard Deviation is the square root of Variance. It is written as SD(X) = √Var(X). It tells us how much the values differ from the average. \n\nFor JEE Main, remember: Variance and Standard Deviation help us understand data spread. Always check your calculations carefully. \n\nLet's move to Expectation of Sum of Random Variables. If you have two Random Variables, X and Y, then E(X + Y) = E(X) + E(Y). \n\nThis is useful in problems where you add two or more Random Variables. Be careful with signs and operations. \n\nLet's look at a quick example. Suppose X and Y are Random Variables with E(X) = 2 and E(Y) = 3. Then, E(X + Y) = 2 + 3 = 5. \n\nBe careful of common mistakes. Sometimes, students forget to multiply by the probability in the Expectation formula. Always check each step. \n\nHere are some key takeaways: \n1. Expectation is the average value you expect. \n2. Use E(X) = Σ [x * P(x)] to find it. \n3. Variance and Standard Deviation show data spread. \n4. E(X + Y) = E(X) + E(Y) for sums of Random Variables. \n\nIn summary, understanding these concepts helps in solving JEE Main problems. Practice with examples and be careful with calculations. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Expectation",
+    "Random Variable",
+    "Variance",
+    "Standard Deviation",
+    "Probability"
+  ],
+  "formulas": [
+    {
+      "formula": "E(X) = Σ [x * P(x)]",
+      "description": "Used to find the average value of a Random Variable in JEE Main questions"
+    },
+    {
+      "formula": "Var(X) = E(X^2) - [E(X)]^2",
+      "description": "Calculates the spread of values around the mean for JEE Main problems"
+    },
+    {
+      "formula": "SD(X) = √Var(X)",
+      "description": "Gives the standard deviation, useful for understanding data spread in JEE Main"
+    },
+    {
+      "formula": "E(X + Y) = E(X) + E(Y)",
+      "description": "Used for finding the expectation of the sum of two Random Variables in JEE Main"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Random Variable",
+      "definition": "A number that can change based on chance, like a dice roll result"
+    },
+    {
+      "term": "Expectation",
+      "definition": "The average value you expect from a Random Variable"
+    },
+    {
+      "term": "Variance",
+      "definition": "A measure of how much the values of a Random Variable spread out"
+    },
+    {
+      "term": "Standard Deviation",
+      "definition": "The square root of Variance, showing how much values differ from the average"
+    }
+  ]
+}

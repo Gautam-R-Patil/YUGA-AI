@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Mathematics",
+    "class": "Class_11",
+    "chapter": "Conic Sections",
+    "chapter_number": 8,
+    "topic": "General Equation of Conic Sections",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-10T09:52:24.127251",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about the general equation of conic sections. This is an important topic in JEE Main Mathematics. Conic sections are shapes like circles, ellipses, parabolas, and hyperbolas. Let's start with the general equation.\n\nThe general equation for conic sections is Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0. Here, A, B, C, D, E, and F are constants. This equation can represent different conic sections based on the values of these constants.\n\nNow, let's talk about the discriminant method. The discriminant helps us to identify the type of conic. We use the formula ∆ = B^2 - 4AC. This formula is very important for JEE Main questions. If ∆ > 0, the conic is a hyperbola. If ∆ = 0, it is a parabola. If ∆ < 0, it is an ellipse or a circle.\n\nLet's see some examples. If the equation is 3x^2 + 4xy + 3y^2 = 0, we calculate ∆. Here, A = 3, B = 4, and C = 3. So, ∆ = 4^2 - 4*3*3 = 16 - 36 = -20. Since ∆ < 0, this is an ellipse.\n\nAnother example: x^2 - 4xy + 4y^2 = 0. Here, A = 1, B = -4, C = 4. Calculate ∆: (-4)^2 - 4*1*4 = 16 - 16 = 0. Since ∆ = 0, this is a parabola.\n\nJEE Main mistake note: Don't forget to square B in the discriminant formula. It's a common mistake.\n\nNow, let's identify conic types. If B = 0 and A = C, it's a circle. If B = 0 and A ≠ C, it's an ellipse. If A or C = 0, it's a parabola. If B ≠ 0, it's a rotated conic.\n\nRemember, in JEE Main, questions often ask you to identify conic sections quickly. Practice using the discriminant and identifying conics by their equations.\n\nKey takeaways: The general equation is Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0. Use the discriminant ∆ = B^2 - 4AC to find the conic type. Practice identifying conics to save time in the exam.\n\nIn summary, understanding the general equation and discriminant helps you solve conic section questions in JEE Main. Practice these steps and remember the common mistakes.\n\nThat's all for today. Keep practicing, and you'll get better at identifying conic sections. Good luck!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Conic Sections",
+    "General Equation",
+    "Discriminant",
+    "Ellipses",
+    "Parabolas"
+  ],
+  "formulas": [
+    {
+      "formula": "Ax^2 + Bxy + Cy^2 + Dx + Ey + F = 0",
+      "description": "General equation of conic sections used to represent circles, ellipses, parabolas, and hyperbolas"
+    },
+    {
+      "formula": "∆ = B^2 - 4AC",
+      "description": "Discriminant formula used to identify the type of conic section"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Conic Sections",
+      "definition": "Shapes created by cutting a cone with a plane, including circles, ellipses, parabolas, and hyperbolas"
+    },
+    {
+      "term": "Discriminant",
+      "definition": "A value calculated using the formula B^2 - 4AC to determine the type of conic section"
+    }
+  ]
+}

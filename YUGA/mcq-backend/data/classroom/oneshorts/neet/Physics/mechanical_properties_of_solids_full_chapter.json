@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "11",
+    "chapter": "Mechanical Properties of Solids",
+    "chapter_number": "9",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:11:18.111787",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts from the Mechanical Properties of Solids. The focus today is on understanding the Stress-Strain Curve and Elastic Moduli, which are key to analyzing how solids respond to forces.\n\nConcept Explanation:\n\n1. Stress and Strain: When forces are applied to a solid, they cause deformation. Stress is the internal resistance per unit area set up in the material, while strain is the measure of the deformation (change in shape or size).\n\n2. Types of Stress and Strain:\n   - *Tensile Stress & Strain:* Occurs when forces try to stretch the material.\n   - *Compressive Stress & Strain:* When forces compress the material.\n   - *Shearing Stress & Strain:* When forces cause layers to slide against each other.\n\n3. Elastic Moduli: These are coefficients that measure the elasticity, or the tendency of materials to return to their original shape after deformation. The main types are:\n   - *Young\u2019s Modulus (Y):* Ratio of tensile stress to tensile strain.\n   - *Bulk Modulus (K):* Ratio of volumetric stress to volumetric strain.\n   - *Shear Modulus (G):* Ratio of shearing stress to shearing strain.\n\n4. Hooke\u2019s Law: Within the elastic limit, stress is directly proportional to strain. Formula: \\(\\sigma = E \\cdot \\varepsilon\\), where \\(\\sigma\\) is the stress, \\(E\\) is Young's Modulus, and \\(\\varepsilon\\) is the strain.\n\n5. Stress-Strain Curve: Understanding this curve is crucial for knowing the limits of elasticity and plasticity. It comprises phases such as proportional limit, elastic limit, yield point, and the ultimate strength of the material.\n\nNEET Question Pattern:\n- Numerical problems to calculate stress, strain, and modulus.\n- Conceptual questions on characteristics of stress-strain curves.\n- Situational questions involving Young's Modulus and Hooke\u2019s Law.\n\nQuick Revision Points:\n1. Stress is internal force per area; strain is deformation measure.\n2. Young's Modulus, Bulk Modulus, and Shear Modulus are key elastic constants.\n3. Stress-Strain Curves illustrate elastic and plastic behaviors of materials.\n4. Hooke's Law describes the linear relationship between stress and strain.\n5. Common questions involve calculating modulus from given stress and strain.\n\nIn NEET exams, you\u2019ll encounter questions testing your understanding of these basic principles and ability to use related formulas. Remember, practice solving different types of problems as they might combine concepts like modulus determination and stress calculations.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Stress",
+    "Strain",
+    "Young's Modulus",
+    "Bulk Modulus",
+    "Shear Modulus",
+    "Hooke's Law",
+    "Elastic Limit",
+    "Proportional Limit",
+    "Plasticity",
+    "Stress-Strain Curve"
+  ],
+  "formulas": [
+    "\\(\\sigma = \\frac{F}{A}\\)",
+    "\\(\\varepsilon = \\frac{\\Delta L}{L}\\)",
+    "\\(E = \\frac{\\sigma}{\\varepsilon}\\)",
+    "\\(K = -\\frac{\\Delta P}{\\frac{\\Delta V}{V}}\\)",
+    "\\(G = \\frac{\\text{Shearing Stress}}{\\text{Shearing Strain}}\\)"
+  ],
+  "definitions": [
+    {
+      "term": "Stress",
+      "definition": "Internal force per unit area resisting deformation in a material."
+    },
+    {
+      "term": "Strain",
+      "definition": "Measure of deformation representing displacement between particles in material."
+    },
+    {
+      "term": "Young's Modulus",
+      "definition": "Ratio of tensile stress to tensile strain, measuring material's stiffness."
+    },
+    {
+      "term": "Bulk Modulus",
+      "definition": "Ratio of volumetric stress to change in volume, reflecting material's incompressibility."
+    },
+    {
+      "term": "Shear Modulus",
+      "definition": "Ratio of shearing stress to shearing strain, indicating material's ability to resist shape changes."
+    },
+    {
+      "term": "Hooke's Law",
+      "definition": "Within elastic limits, the stress is directly proportional to strain."
+    },
+    {
+      "term": "Elastic Limit",
+      "definition": "Maximum stress that a material can withstand without permanent deformation."
+    },
+    {
+      "term": "Proportional Limit",
+      "definition": "Stress level at which stress is directly proportional to strain."
+    },
+    {
+      "term": "Plasticity",
+      "definition": "Property of a material to undergo permanent deformation after elastic limit."
+    },
+    {
+      "term": "Stress-Strain Curve",
+      "definition": "Graphical representation showing the relationship between stress and strain for a material."
+    }
+  ]
+}

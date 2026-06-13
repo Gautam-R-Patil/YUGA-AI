@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Physical_Chemistry",
+    "chapter": "Surface Chemistry",
+    "chapter_number": 11,
+    "topic": "Adsorption",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:11:01.255537",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about adsorption in surface chemistry. This topic is important for JEE Main. Let's start with the basics.\n\nAdsorption is when particles stick to the surface of a solid or liquid. This is different from absorption, where particles go inside the material. Adsorption is like dust sticking to a table. Absorption is like a sponge soaking water.\n\nThere are two types of adsorption: physical and chemical. Physical adsorption involves weak forces, like van der Waals forces. Chemical adsorption involves strong forces, like chemical bonds.\n\nAn adsorption isotherm shows how much gas is adsorbed at different pressures. It is a graph with pressure on the x-axis and amount adsorbed on the y-axis. Two important isotherms are Freundlich and Langmuir isotherms.\n\nThe Freundlich isotherm is an empirical formula: x/m = kP^(1/n). Here, x is the amount of gas adsorbed, m is the mass of the adsorbent, P is pressure, k and n are constants. It is used when adsorption is not uniform.\n\nThe Langmuir isotherm assumes a single layer of adsorbate on the surface. Its formula is: θ = (KP)/(1 + KP). Here, θ is the fraction of the surface covered, K is a constant, and P is pressure.\n\nFactors affecting adsorption include surface area, temperature, and pressure. More surface area means more adsorption. Higher temperatures usually decrease adsorption. Higher pressure increases adsorption.\n\nAdsorption is used in many applications. For example, activated charcoal adsorbs impurities from water. Silica gel adsorbs moisture to keep things dry.\n\nWhen solving JEE Main problems, remember these key points. Use the right isotherm for the problem. Check units carefully. Common mistakes include mixing up adsorption and absorption.\n\nIn summary, adsorption is the sticking of particles to a surface. It is different from absorption. Remember the Freundlich and Langmuir isotherms. Be careful with units and formulas in exams.\n\nLet's do a quick example. If a gas is adsorbed on a solid, and the pressure is doubled, what happens to adsorption? In most cases, adsorption increases. This is because more gas particles are available to stick to the surface.\n\nThat's all for today. Review these concepts and practice problems. Good luck with your JEE Main preparation!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Adsorption",
+    "Absorption",
+    "Isotherm",
+    "Freundlich",
+    "Langmuir"
+  ],
+  "formulas": [
+    {
+      "formula": "x/m = kP^(1/n)",
+      "description": "Freundlich isotherm for non-uniform adsorption on surfaces"
+    },
+    {
+      "formula": "θ = (KP)/(1 + KP)",
+      "description": "Langmuir isotherm for single-layer adsorption on surfaces"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Adsorption",
+      "definition": "The process where particles stick to the surface of a solid or liquid."
+    },
+    {
+      "term": "Absorption",
+      "definition": "The process where particles go inside the material."
+    }
+  ]
+}

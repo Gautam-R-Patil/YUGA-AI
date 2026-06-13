@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Practical Organic Chemistry Principles and Techniques",
+    "chapter_number": "31",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:27:31.195562",
+    "model_used": "gpt-4o",
+    "category": "Organic"
+  },
+  "lecture_script": "Let's quickly revise Practical Organic Chemistry Techniques, crucial for NEET. This chapter outlines basic techniques used in organic lab work\u2014key for identifying, separating, and purifying compounds. \n\n**Introduction to Techniques:** \n1. **Crystallization**: Used to purify solids, based on differences in solubility. \n   - *Key Point*: Choose a solvent where the compound has low solubility at low temperatures and high at high temperatures.\n\n2. **Distillation**: Used for purifying liquids based on boiling points. \n   - *Types*: Simple, fractional, steam, and vacuum distillation.\n\n3. **Extraction**: Separation based on differences in solubility between two immiscible liquids.\n\n4. **Chromatography**: Includes paper, thin-layer, and column chromatography for separating compounds.\n   - *Key Point*: Separation principle involves distribution between mobile and stationary phases.\n\n5. **Sublimation**: Direct conversion of solid to vapor to purify heat-sensitive solids.\n\n**Key Techniques Explained:**\n- **Crystallization**: Dissolve impure solid in hot solvent, filter, and cool solution gradually to form crystals. \n   - *NEET Connection*: Questions often focus on choosing the right solvent or technique comparison.\n\n- **Distillation**: Liquid is boiled to produce vapor and then condensed back to liquid.\n   - *Fractional Distillation*: Useful for separating liquids with close boiling points.\n   - *NEET Connection*: Know setup differences and when each type is used.\n\n- **Extraction**: Commonly used with separatory funnel, involving shaking and separation of layers.\n   - *NEET Connection*: Focus on solvent choice and principles behind it.\n\n- **Chromatography**: Spots on a paper or thin-layer are developed and separated by solvent.\n   - *NEET Connection*: Questions on identification of components using Rf values.\n\n**Common Mistakes to Avoid:**\n- Not recognizing the solvent-system in crystallization.\n- Confusing distillation setups.\n- Ignoring the partition coefficient in extraction problems.\n\n**Quick Revision Points:**\n1. Crystallization purifies solids using solubility differences.\n2. Distillation uses boiling point differences to purify liquids.\n3. Extraction separates based on solubility in immiscible solvents.\n4. Chromatography separates mixtures for analysis; focus on Rf.\n5. Sublimation is for purifying heat-sensitive solids.",
+  "duration_minutes": "12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Crystallization",
+    "Distillation",
+    "Extraction",
+    "Chromatography",
+    "Sublimation",
+    "Solvent",
+    "Boiling Point",
+    "Separation",
+    "Purification",
+    "Rf Value"
+  ],
+  "formulas": [
+    "Rf = \\frac{\\text{Distance traveled by compound}}{\\text{Distance traveled by solvent front}}"
+  ],
+  "definitions": [
+    {
+      "term": "Crystallization",
+      "definition": "Process to purify solids by dissolving them in an appropriate solvent and allowing them to form crystals."
+    },
+    {
+      "term": "Distillation",
+      "definition": "Technique to separate liquids based on differences in boiling points."
+    },
+    {
+      "term": "Extraction",
+      "definition": "Separation process using differences in solubility in two immiscible liquids."
+    },
+    {
+      "term": "Chromatography",
+      "definition": "Technique for separating mixtures based on differential distribution between phases."
+    },
+    {
+      "term": "Sublimation",
+      "definition": "Process where a solid turns directly into gas without passing the liquid step."
+    },
+    {
+      "term": "Solvent",
+      "definition": "A liquid in which substances are dissolved to form a solution."
+    },
+    {
+      "term": "Boiling Point",
+      "definition": "Temperature at which a liquid changes to vapor."
+    },
+    {
+      "term": "Separation",
+      "definition": "Division process used in chemistry to obtain different components of a mix."
+    },
+    {
+      "term": "Purification",
+      "definition": "Process of removing impurities from substance."
+    },
+    {
+      "term": "Rf Value",
+      "definition": "Ratio of the distance moved by a solute to the distance moved by the solvent front in chromatography."
+    }
+  ]
+}

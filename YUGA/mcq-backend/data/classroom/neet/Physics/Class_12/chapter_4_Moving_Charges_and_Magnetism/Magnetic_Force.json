@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_12",
+    "chapter": "Moving Charges and Magnetism",
+    "chapter_number": 4,
+    "topic": "Magnetic Force",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:08:19.416472",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about magnetic force. This is a very important topic for NEET. Let's start with the basics. \n\nFirst, what is magnetic force? It is the force a magnet exerts on moving charges. Imagine you have a magnet and a charged particle, like an electron. If the electron moves near the magnet, it feels a push or pull. This is magnetic force. \n\nThe formula for magnetic force on a moving charge is F = q(v × B). Here, F is the force, q is the charge, v is the velocity, and B is the magnetic field. Remember, this force is perpendicular to both velocity and magnetic field. \n\nNow, let's talk about Lorentz force. It is the total force on a charged particle moving in electric and magnetic fields. The formula is F = q(E + v × B). E is the electric field here. \n\nA common mistake is to forget the direction of the force. Use the right-hand rule to find it. Point your thumb in the direction of velocity, fingers in the direction of the magnetic field. Your palm shows the force direction. \n\nNext, how do charged particles move in magnetic fields? They move in circles or spirals. This happens because the magnetic force is always perpendicular to the velocity. \n\nLet's see the magnetic force on a current-carrying conductor. The formula is F = I(L × B). I is the current, L is the length of the conductor, and B is the magnetic field. \n\nIf the conductor is in a magnetic field, it feels a force. This is why electric motors work. \n\nNow, torque on a current loop in a magnetic field. Torque is a turning force. The formula is τ = NIABsinθ. N is the number of turns, I is the current, A is the area, B is the magnetic field, and θ is the angle. \n\nNext, Biot-Savart Law. It helps us find the magnetic field from a current. The formula is dB = (μ₀/4π) * (Idl × r̂)/r². μ₀ is a constant, I is current, dl is a small length of wire, r̂ is the direction, and r is the distance. \n\nA common mistake is to mix up the direction of dB. Always use the right-hand rule. \n\nLet's talk about the magnetic field from a straight wire. It forms circles around the wire. The strength decreases with distance. \n\nFor a circular current loop, the magnetic field is strongest at the center. \n\nAmpere's Circuital Law is next. It says the total magnetic field around a closed path is μ₀ times the current inside. The formula is ∮B·dl = μ₀I_enc. \n\nFinally, units and dimensions. Magnetic field B is measured in Tesla (T). \n\nLet's look at magnetic field lines. They show the direction of the magnetic field. Lines are closer where the field is stronger. \n\nOersted's experiment showed that electric current creates a magnetic field. It was a big discovery! \n\nRemember these key concepts: magnetic dipole and magnetic moment. A magnetic dipole is like a tiny magnet. Magnetic moment is the strength of this tiny magnet. \n\nTo summarize, magnetic force is a fundamental concept. It is important for understanding how magnets and electricity interact. Practice these formulas and concepts. They are crucial for NEET. \n\nThank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Magnetic Force",
+    "Lorentz Force",
+    "Biot-Savart Law",
+    "Ampere's Circuital Law",
+    "Magnetic Dipole"
+  ],
+  "formulas": [
+    {
+      "formula": "F = q(v × B)",
+      "description": "Magnetic force on a moving charge"
+    },
+    {
+      "formula": "F = q(E + v × B)",
+      "description": "Lorentz force on a charge in electric and magnetic fields"
+    },
+    {
+      "formula": "F = I(L × B)",
+      "description": "Magnetic force on a current-carrying conductor"
+    },
+    {
+      "formula": "τ = NIABsinθ",
+      "description": "Torque on a current loop in a magnetic field"
+    },
+    {
+      "formula": "dB = (μ₀/4π) * (Idl × r̂)/r²",
+      "description": "Biot-Savart Law for magnetic field due to current"
+    },
+    {
+      "formula": "∮B·dl = μ₀I_enc",
+      "description": "Ampere's Circuital Law for magnetic field around a closed path"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Magnetic Force",
+      "definition": "The force a magnet exerts on moving charges"
+    },
+    {
+      "term": "Lorentz Force",
+      "definition": "The total force on a charged particle in electric and magnetic fields"
+    },
+    {
+      "term": "Biot-Savart Law",
+      "definition": "Law to calculate magnetic field from a small segment of current"
+    },
+    {
+      "term": "Ampere's Circuital Law",
+      "definition": "Law stating the magnetic field around a closed path is proportional to the current it encloses"
+    },
+    {
+      "term": "Magnetic Dipole",
+      "definition": "A pair of equal and opposite magnetic charges or poles"
+    },
+    {
+      "term": "Magnetic Moment",
+      "definition": "The strength of a magnetic dipole"
+    }
+  ]
+}

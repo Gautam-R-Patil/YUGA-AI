@@ -1,0 +1,22 @@
+// Course feature exports
+export { AIClassroom } from "./components/AIClassroom";
+export { CBTInterface } from "./components/CBTInterface";
+export { DoubtClarityPopup } from "./components/DoubtClarityPopup";
+export { DynamicWhiteboard } from "./components/DynamicWhiteboard";
+export { EnhancedSmartBoard } from "./components/EnhancedSmartBoard";
+export { InteractiveDoubtSection } from "./components/InteractiveDoubtSection";
+export { MCQPopup } from "./components/MCQPopup";
+export { MockAnalysisView } from "./components/MockAnalysisView";
+export { MockTestSelection } from "./components/MockTestSelection";
+export { NEET2MCQBox } from "./components/NEET2MCQBox";
+export { NEETPracticeInterface } from "./components/NEETPracticeInterface";
+export { PracticeSetSelection } from "./components/PracticeSetSelection";
+export { RealisticAvatar } from "./components/RealisticAvatar";
+export { RealTimeChat } from "./components/RealTimeChat";
+export { RescheduleModal } from "./components/RescheduleModal";
+export { SmartWhiteboard } from "./components/SmartWhiteboard";
+export { TopicPlaylist } from "./components/TopicPlaylist";
+export { TutorExplanationPopup } from "./components/TutorExplanationPopup";
+export { VirtualTeacher } from "./components/VirtualTeacher";
+export { AdjustScheduleModal } from "./components/AdjustScheduleModal";
+export { ChapterSelection } from "./components/ChapterSelection";

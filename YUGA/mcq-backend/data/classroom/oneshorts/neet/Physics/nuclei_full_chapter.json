@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "12",
+    "chapter": "Nuclei",
+    "chapter_number": "28",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:16:59.590712",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise some high-yield concepts from the 'Nuclei' chapter for your NEET exam.\n\nNuclear Properties: The nucleus is the dense central core of an atom. It comprises protons and neutrons, collectively called nucleons. The atomic number (Z) is the number of protons, and the mass number (A) is the sum of protons and neutrons.\n\nBinding Energy: This is the energy required to split the nucleus into its individual nucleons. It represents the stability of a nucleus. The greater the binding energy per nucleon, the more stable the nucleus. \n\n- Key Formula: Binding Energy = (Mass defect) x c^2, where c is the speed of light.\n\nRadioactivity: It is a spontaneous process by which unstable nuclei lose energy by emitting radiation. Three main types of radioactive decay are alpha (\u03b1), beta (\u03b2), and gamma (\u03b3) decay.\n\n- Half-Life (T1/2): This is the time required for half of the radioactive nuclei in a sample to decay. It's a crucial concept often probed in NEET exams.\n\n- Decay Law Formula: N = N0 e^(-\u03bbt), where \u03bb is the decay constant.\n\nNEET Question Pattern:\n1. Direct questions on identifying protons, neutrons, and mass numbers.\n2. Calculations involving binding energy or half-life.\n3. Conceptual understanding of radioactive decay and associated formulas.\n\nQuick Revision Points:\n1. Nucleus consists of protons and neutrons.\n2. Binding Energy indicates nuclear stability.\n3. Radioactivity involves alpha, beta, and gamma decay.\n4. Half-life and decay laws are frequently tested.\n5. Practice direct and numerical problems on these topics.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Moderate",
+  "images": [],
+  "keywords": [
+    "Nucleus",
+    "Protons",
+    "Neutrons",
+    "Binding Energy",
+    "Radioactivity",
+    "Half-Life",
+    "Decay Constant",
+    "Alpha Decay",
+    "Beta Decay",
+    "Gamma Decay"
+  ],
+  "formulas": [
+    "Binding Energy = (Mass defect) \\times c^2",
+    "N = N_0 e^{-\\lambda t}",
+    "T_{1/2} = \\frac{0.693}{\\lambda}"
+  ],
+  "definitions": [
+    {
+      "term": "Nucleus",
+      "definition": "The central core of an atom containing protons and neutrons."
+    },
+    {
+      "term": "Protons",
+      "definition": "Positively charged particles in the nucleus of an atom."
+    },
+    {
+      "term": "Neutrons",
+      "definition": "Neutral particles in the nucleus of an atom."
+    },
+    {
+      "term": "Binding Energy",
+      "definition": "The energy required to split a nucleus into its constituent nucleons."
+    },
+    {
+      "term": "Radioactivity",
+      "definition": "The spontaneous emission of particles or radiation from unstable atomic nuclei."
+    },
+    {
+      "term": "Half-Life",
+      "definition": "Time required for half of the radioactive nuclei in a sample to decay."
+    },
+    {
+      "term": "Decay Constant",
+      "definition": "The probability per unit time that a nucleus will decay."
+    },
+    {
+      "term": "Alpha Decay",
+      "definition": "Radioactive decay by the emission of an alpha particle."
+    },
+    {
+      "term": "Beta Decay",
+      "definition": "Radioactive decay resulting in the emission of beta particles."
+    },
+    {
+      "term": "Gamma Decay",
+      "definition": "Emission of gamma radiation from a radioactive nucleus."
+    }
+  ]
+}

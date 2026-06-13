@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Gravitation",
+    "chapter_number": 8,
+    "topic": "Universal Law of Gravitation",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:55:11.058328",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the Universal Law of Gravitation. This is a very important topic in physics and often asked in NEET exams. Let's start with the statement of the law.\n\nSir Isaac Newton discovered that every object in the universe attracts every other object. This is called the Universal Law of Gravitation. It means that you, me, the Earth, and even the stars are pulling on each other. But don't worry, we don't feel this pull because it's very small for everyday objects.\n\nNow, let's see the mathematical expression. The force of attraction between two objects depends on their masses and the distance between them. The formula is:\n\nF = G * (m1 * m2) / r^2\n\nHere, F is the gravitational force, m1 and m2 are the masses of the two objects, and r is the distance between their centers. G is a special number called the gravitational constant.\n\nThe gravitational constant, G, has a fixed value. It is 6.674 × 10^-11 N(m/kg)^2. This number is very small, which is why we don't feel gravity between small objects.\n\nLet's look at some examples. The Earth pulls on the Moon, keeping it in orbit. Similarly, the Sun pulls on the Earth, making it revolve around the Sun. These are examples of gravitational force in nature.\n\nNow, let's talk about applications. The Universal Law of Gravitation helps us understand how planets move. It also helps in calculating the weight of objects. Weight is just the gravitational force between the Earth and the object.\n\nLet's solve a simple problem. If two objects each have a mass of 1 kg and are 1 meter apart, what is the gravitational force between them?\n\nUsing the formula, F = G * (m1 * m2) / r^2, we put m1 = 1 kg, m2 = 1 kg, r = 1 m, and G = 6.674 × 10^-11 N(m/kg)^2. Substituting these values, we get F = 6.674 × 10^-11 N. So, the force is very small.\n\nCommon mistake alert! Students often forget that G is a constant. Remember, it does not change with different problems.\n\nKey points to remember: The Universal Law of Gravitation explains the force between any two masses. The gravitational constant, G, is very small, so we don't feel gravity between small objects. This law helps us understand the motion of planets and calculate weight.\n\nIn summary, the Universal Law of Gravitation is a fundamental concept in physics. It explains the attractive force between objects due to their masses. Remember to use the formula correctly and keep an eye on the units.\n\nThat's all for today. Keep practicing and you'll master this topic. See you in the next class!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Universal Law of Gravitation",
+    "Gravitational Force",
+    "Gravitational Constant",
+    "Mass",
+    "Distance"
+  ],
+  "formulas": [
+    {
+      "formula": "F = G * (m1 * m2) / r^2",
+      "description": "Formula for calculating the gravitational force between two masses"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Gravitational Force",
+      "definition": "The force of attraction between two objects with mass"
+    },
+    {
+      "term": "Gravitational Constant",
+      "definition": "A constant value used in the formula for gravitational force, approximately 6.674 × 10^-11 N(m/kg)^2"
+    }
+  ]
+}

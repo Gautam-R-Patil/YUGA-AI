@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Work, Energy and Power",
+    "chapter_number": 6,
+    "topic": "Energy",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:52:58.691008",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will talk about energy. Energy is the ability to do work. It helps us move, light up our homes, and even grow plants. Let's start with the types of energy. \n\nFirst, we have kinetic energy. Kinetic energy is the energy of motion. If something is moving, it has kinetic energy. For example, a moving car or a rolling ball has kinetic energy. The faster it moves, the more kinetic energy it has. \n\nNext is potential energy. Potential energy is stored energy. It is energy that is ready to be used. A good example is a book on a shelf. It has potential energy because it can fall. The higher the book, the more potential energy it has. \n\nNow, let's talk about conservation of mechanical energy. This is an important idea. It means energy cannot be created or destroyed. It can only change from one form to another. For example, when you drop a ball, its potential energy changes to kinetic energy as it falls. \n\nA common mistake is to think energy disappears. It does not disappear; it just changes form. Always remember this for exams. \n\nLet's look at examples of energy transformation. A car engine changes chemical energy from fuel into kinetic energy. A light bulb changes electrical energy into light and heat energy. \n\nEnergy conservation has many applications. For example, in roller coasters, potential energy at the top turns into kinetic energy as the coaster goes down. This helps the coaster move fast without extra energy. \n\nNow, let's solve a problem on energy conservation. Imagine a ball at the top of a hill. It has 100 Joules of potential energy. If it rolls down, how much kinetic energy will it have at the bottom? The answer is 100 Joules. Why? Because energy is conserved. \n\nKey points to remember: Kinetic energy is energy of motion. Potential energy is stored energy. Energy cannot be created or destroyed. It only changes form. \n\nIn conclusion, understanding energy helps us in many ways. It explains how things move and work. Remember these basics, and you will do well in exams. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Energy",
+    "Kinetic Energy",
+    "Potential Energy",
+    "Energy Conservation",
+    "Energy Transformation"
+  ],
+  "formulas": [
+    {
+      "formula": "K.E. = 1/2 m v^2",
+      "description": "Kinetic energy formula, where m is mass and v is velocity."
+    },
+    {
+      "formula": "P.E. = m g h",
+      "description": "Potential energy formula, where m is mass, g is gravity, and h is height."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Energy",
+      "definition": "The ability to do work or cause change."
+    },
+    {
+      "term": "Kinetic Energy",
+      "definition": "Energy that a body possesses due to its motion."
+    },
+    {
+      "term": "Potential Energy",
+      "definition": "Stored energy that depends on the position or condition of an object."
+    },
+    {
+      "term": "Conservation of Energy",
+      "definition": "A principle stating that energy cannot be created or destroyed, only transformed."
+    }
+  ]
+}

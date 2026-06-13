@@ -1,0 +1,372 @@
+[
+    {
+        "id": 0,
+        "question_number": "139",
+        "text": "Which of the following represents the correct order of increasing Electron Affinity for the elements, O, S, F and Cl?",
+        "subject": "Chemistry",
+        "sub_topic": "Periodic Table - Electron Affinity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 16,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Cl<F<O<S",
+            "O<S<F<Cl",
+            "F<S<O<Cl",
+            "S<O<Cl<F"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 16,
+            "type": "MCQ"
+        },
+        "original_id": 268,
+        "correct_answer": "O<S<F<Cl",
+        "basic_answer": "Given: [Elements O, S, F, and Cl] \n\nSolution: [Electron affinity typically increases across a period and decreases down a group. However, O and F are so small that the incoming electron faces high inter-electronic repulsion in the compact 2p subshell. Consequently, S has a higher electron affinity than O, and Cl has a higher electron affinity than F. Since halogens have a higher effective nuclear charge than chalcogens, the final increasing order is O < S < F < Cl.]",
+        "explanation": "### Core Concept\nElectron Affinity (EA) is the energy released when an electron is added to a neutral gaseous atom. While EA generally increases across a period and decreases down a group, there are significant anomalies in the 2nd and 3rd periods due to electron-electron repulsion.\n\n### Solution \n\n1.  Group 17 (F vs Cl): Fluorine (F) is smaller than Chlorine (Cl). The 2p subshell of F is so compact that adding an electron creates significant inter-electronic repulsion. In Cl, the 3p subshell is larger, accommodating the new electron more easily. Thus, EA of Cl > F.\n2.  Group 16 (O vs S): Similar to the halogens, Oxygen (O) is very small. The incoming electron in O faces high repulsion in the 2p orbital compared to the 3p orbital of Sulfur (S). Thus, EA of S > O.\n3.  Group 17 vs Group 16: Halogens have a higher effective nuclear charge and are closer to achieving a stable octet than Chalcogens. Therefore, halogens (F, Cl) have much higher EA than oxygen and sulfur.\n\n### Why This Answer\nCombining these trends: Halogens > Chalcogens, and 3rd Period > 2nd Period for these specific groups. \nOrder: O < S < F < Cl (Option B).\n\n### Common Mistakes\n* Over-reliance on electronegativity: F is the most electronegative element, so students often assume it must have the highest electron affinity. \n* Strict Group Trends: Assuming EA always decreases down a group, which would incorrectly place O > S and F > Cl.",
+        "keywords": {
+            "e−": "electron",
+            "EA": "Electron Affinity",
+            "O": "Oxygen",
+            "S": "Sulfur",
+            "F": "Fluorine",
+            "Cl": "Chlorine"
+        }
+    },
+    {
+        "id": 1,
+        "question_number": "121",
+        "text": "Oxidation numbers of P in PO₄³⁻, of S in SO₄²⁻ and that of Cr in Cr₂O₇²⁻ are respectively,",
+        "subject": "Chemistry",
+        "sub_topic": "Oxidation States",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 14,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "+5, +6 and +6",
+            "+3, +6 and +5",
+            "+5, +3 and +6",
+            "-3, +6 and +6"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 14,
+            "type": "MCQ"
+        },
+        "original_id": 423,
+        "correct_answer": "+5, +6 and +6",
+        "basic_answer": "Given: \n[Phosphorus in PO₄³⁻ \n\nSulfur in SO₄²⁻ \n\nChromium in Cr₂O₇²⁻]\nSolution: \n[Oxidation states are determined based on the charge of the ion and the electronegativities of the constituent elements. \n\nFor PO₄³⁻: \n\nx + 4(-2) = -3 → x = +5 \n\nFor SO₄²⁻: \n\nx + 4(-2) = -2 → x = +6 \n\nFor Cr₂O₇²⁻: \n\n2x + 7(-2) = -2 → x = +6]",
+        "explanation": "CORE CONCEPT\nThe oxidation number is the charge an atom would carry if all bonds to it were completely ionic. For polyatomic ions, the sum of the oxidation numbers of all atoms must equal the net charge of the ion.\n\nSOLUTION\nStandard rule: Oxygen is assigned −2 except in peroxides or when bonded with fluorine.\n\n1. For PO₄³⁻:\n   x + 4(−2) = −3\n   x − 8 = −3\n   x = +5\n\n2. For SO₄²⁻:\n   x + 4(−2) = −2\n   x − 8 = −2\n   x = +6\n\n3. For Cr₂O₇²⁻:\n   2x + 7(−2) = −2\n   2x − 14 = −2\n   2x = +12\n   x = +6\n\nWHY THIS ANSWER\nThe oxidation numbers obtained are:\nP = +5, S = +6, Cr = +6. These values match the correct option.\n\nCOMMON MISTAKES\n1. Setting the sum of oxidation numbers equal to zero instead of the ionic charge.\n2. Ignoring subscripts when multiplying oxidation numbers, such as writing x instead of 2x for Cr2.\n3. Forgetting the standard oxidation state of oxygen as −2.",
+        "keywords": {
+            "P": "Phosphorus",
+            "S": "Sulfur",
+            "Cr": "Chromium",
+            "O": "Oxygen",
+            "PO₄³⁻": "P O 4 3 minus",
+            "SO₄²⁻": "S O 4 2 minus",
+            "Cr₂O₇²⁻": "C r 2 O 7 2 minus"
+        }
+    },
+    {
+        "id": 2,
+        "question_number": "7",
+        "text": "The element Z = 114 has been discovered recently. It will belong to which of the following family/group and electronic configuration?",
+        "subject": "Chemistry",
+        "sub_topic": "Periodic Table",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 9,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Carbon family [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²",
+            "Oxygen family [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴",
+            "Nitrogen family [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶",
+            "Halogen family [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 9,
+            "type": "MCQ"
+        },
+        "original_id": 86,
+        "correct_answer": "Carbon family [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²",
+        "explanation": "### Core Concept\nThe position of an element in the periodic table is determined by its outermost electronic configuration. Elements in the same group share the same valence shell electron arrangement.\n\n### Solution \n\nIdentify the Noble Gas core: The noble gas preceding Z=114 is Radon (Z=86). \nFill subsequent orbitals: Following Rn, electrons fill 7s, then 5f, then 6d, and finally 7p.\nElectronic Configuration: \n    86 (Rn) + 2 (7s²) + 14 (5f¹⁴) + 10 (6d¹⁰) + 2 (7p²) = 114\n\nThe configuration is [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²\nIdentify Group: Elements with the valence configuration ns² np² belong to Group 14 (the Carbon family).\n\n### Why This Answer\nZ=114 (Flerovium) has two electrons in its 7p subshell, placing it directly under Lead (Pb) in the Carbon family. This matches Option A.\n\n### Common Mistakes\n* Miscalculating the sum: Adding the electrons incorrectly and ending up in Group 15 or 16\n\n* Ignoring orbital filling order: Forgetting that the 5f and 6d shells must be fully filled before electrons enter the 7p shell.",
+        "basic_answer": "Given: [Atomic number Z = 114] \n\nSolution: [The electronic configuration for Z = 114 is [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p². Since the valence shell electronic configuration is ns² np², it belongs to Group 14, which is the Carbon family.]",
+        "keywords": {
+            "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²": "R n 5 f fourteen 6 d ten 7 s two 7 p two",
+            "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴": "R n 5 f fourteen 6 d ten 7 s two 7 p four",
+            "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶": "R n 5 f fourteen 6 d ten 7 s two 7 p six",
+            "[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵": "R n 5 f fourteen 6 d ten 7 s two 7 p five",
+            "ns² np²": "n s two n p two",
+            "5f": "5f subshell",
+            "6d": "6d subshell",
+            "7s": "7s subshell",
+            "7p": "7p subshell"
+        }
+    },
+    {
+        "id": 3,
+        "question_number": "52",
+        "text": "The heating of phenyl-methyl ethers with HI produces",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Ethers",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 10,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Iodobenzene",
+            "Phenol",
+            "Benzene",
+            "Ethyl chlorides"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 10,
+            "type": "MCQ"
+        },
+        "original_id": 87,
+        "correct_answer": "Phenol",
+        "explanation": "### Core Concept\nEther Cleavage by concentrated halogen acids (like HI) follows a nucleophilic substitution mechanism. The outcome depends on the stability of the possible carbocations and the steric hindrance of the alkyl groups.\n\n### Solution \n\nStructure: Phenyl-methyl ether is Anisole (C₆H₅–O–CH₃).\nProtonation: The ether oxygen is protonated by HI to form an oxonium ion: C₆H₅–O⁺(H)–CH₃.\nBond Strength: The Cₐᵣᵧₗ–O bond has partial double-bond character due to resonance, making it much stronger and harder to break than the Cₐₗₖᵧₗ–O bond.\nNucleophilic Attack: The I⁻ ion attacks the smaller methyl group (Sₙ₂ mechanism), breaking the O–CH₃ bond.\nProducts: This leaves Phenol (C₆H₅OH) and Methyl Iodide (CH₃I).\n\n### Why This Answer\nBecause the bond between Oxygen and the Phenyl ring is strengthened by resonance, it remains intact, resulting in Phenol as the primary aromatic product.\n\n### Common Mistakes\n* Broken Ring Bond: Assuming the reaction produces Iodobenzene. This is impossible because I⁻ cannot perform nucleophilic substitution on an sp² hybridized aromatic carbon under these conditions.\n* Wrong Acid: Using the logic for HCl or HBr, which may require more vigorous conditions for ether cleavage compared to HI.",
+        "basic_answer": "Given: [Phenyl-methyl ether (Anisole), Hydroiodic acid (HI)] \n\nSolution: [When Phenyl-methyl ether reacts with HI, the ether oxygen is protonated. The bond between the phenyl group and oxygen has partial double-bond character due to resonance and is very strong. Therefore, the nucleophile (I⁻) attacks the smaller methyl group, cleaving the O-CH₃ bond to form Phenol and Iodomethane.]",
+        "keywords": {
+            "Cₐᵣᵧₗ–O": "C arylO",
+            "Cₐₗₖᵧₗ–O": "C alkylO",
+            "C₆H₅–O–CH₃": "C six H five O C H three",
+            "C₆H₅–O⁺(H)–CH₃": "C six H five O plus H C H three",
+            "O–CH₃": "O C H three",
+            "C₆H₅OH": "C six H five O H",
+            "CH₃I": "C H three I",
+            "I⁻": "I minus",
+            "C": "Carbon",
+            "HI": "H I",
+            "H": "Hydrogen",
+            "O": "Oxygen"
+        }
+    },
+    {
+        "id": 4,
+        "question_number": "95",
+        "text": "Which one is the correct order of acidity?",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Acidity",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 10,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "CH≡CH > CH₃−C≡CH > CH2=CH2 > CH₃−CH₃",
+            "CH≡CH > CH2=CH2 > CH₃−C≡CH > CH₃−CH₃",
+            "CH₃−CH₃ > CH2=CH2 > CH₃−C≡CH > CH≡CH",
+            "CH2=CH2 > CH₃−CH₃ > CH₃−C≡CH > CH≡CH"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 10,
+            "type": "MCQ"
+        },
+        "original_id": 88,
+        "correct_answer": "CH≡CH > CH₃−C≡CH > CH2=CH2 > CH₃−CH₃",
+        "explanation": "### Core Concept\nAcidity in hydrocarbons is determined by the electronegativity of the carbon atom bearing the hydrogen. Electronegativity increases with the percentage of s-character in the hybrid orbitals: \n* sp (50% s) > sp² (33% s) > sp³ (25% s).\n\n### Solution \n\nAlkynes (sp): CH≡CH and CH₃–C≡CH have the highest s-character, making the C-H bond most acidic.\nAlkenes (sp²): CH₂=CH₂ is less acidic than alkynes but more than alkanes.\nAlkanes (sp³): CH₃–CH₃ has the lowest s-character and is the least acidic.\nComparing Alkynes: In Propyne (CH₃–C≡CH), the methyl group exerts a +I effect (inductive effect), which increases electron density on the triple-bonded carbon and destabilizes the conjugate base. Thus, Ethyne (CH≡CH) is more acidic than Propyne.\n\n### Why This Answer\nThe order is Alkyne > Substituted Alkyne > Alkene > Alkane. This corresponds to Option A.\n\n### Common Mistakes\n* Ignoring Inductive Effect: Thinking propyne is more acidic than ethyne due to more carbons. \n* Confusing Bond Strength with Acidity: Thinking that because a triple bond is stronger, it won't release a proton.",
+        "basic_answer": "Given: [Ethyne (CH≡CH), Propyne (CH₃−C≡CH), Ethene (CH₂=CH₂), Ethane (CH₃−CH₃)] \n\nSolution: [Acidity in hydrocarbons depends on the s-character of the carbon atoms (sp > sp² > sp³). Ethyne and propyne (sp) are more acidic than ethene (sp²) and ethane (sp³). Within the alkynes, the methyl group in propyne exerts a +I effect that increases electron density and destabilizes the conjugate base, making propyne less acidic than ethyne. Thus, the order is CH≡CH > CH₃−C≡CH > CH₂=CH₂ > CH₃−CH₃.]",
+        "keywords": {
+            "CH≡CH": "C H triple bond C H",
+            "CH₃−C≡CH": "C H three single bond C triple bond C H",
+            "CH₂=CH₂": "C H two double bond C H two",
+            "CH₃−CH₃": "C H three single bond C H three",
+            "sp": "s p",
+            "sp²": "s p two",
+            "sp³": "s p three",
+            "C": "Carbon",
+            "H": "Hydrogen"
+        }
+    },
+    {
+        "id": 5,
+        "question_number": "150",
+        "text": "The tendency of BF₃, BCl₃ and BBr₃ to behave as Lewis acid decreases in the sequence",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Bonding",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PAPAER (10)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "BCl₃ > BF₃ > BBr₃",
+            "BBr₃ > BCl₃ > BF₃",
+            "BBr₃ > BF₃ > BCl₃",
+            "BF₃ > BCl₃ > BBr₃"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (10).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 278,
+        "correct_answer": "BBr₃ > BCl₃ > BF₃",
+        "basic_answer": "Given: [Boron trihalides: BF₃, BCl₃, and BBr₃]\n\nSolution: [Lewis acidity depends on the electron deficiency of the central Boron atom. This deficiency is compensated by pπ–pπ back-bonding from the halogen lone pairs. In BF₃, back-bonding is maximum due to effective 2p–2p orbital overlap, making it the weakest Lewis acid. In BBr₃, back-bonding is minimum due to poor 2p–4p overlap, making it the strongest Lewis acid. Thus, the decreasing order of Lewis acidity is BBr₃ > BCl₃ > BF₃.]",
+        "explanation": "### Core Concept\nA Lewis Acid is an electron pair acceptor. For Boron trihalides ($BX_3$), the acidity is counter-intuitively influenced by $p\u03c0\u2013p\u03c0$ back-bonding, where lone pairs from the halogen atoms are donated into the empty p-orbital of Boron.\n\n### Solution \n\n1.  Back-bonding efficiency: The overlap is most effective when the orbitals are of similar size. \n    * $BF_3$: $2p (B)$ and $2p (F)$ overlap. Excellent match, strong back-bonding. Boron's electron deficiency is largely satisfied. \n    * $BCl_3$: $2p (B)$ and $3p (Cl)$ overlap. Poor match due to size difference. \n    * $BBr_3$: $2p (B)$ and $4p (Br)$ overlap. Very poor match, negligible back-bonding.\n2.  Lewis Acidity: The weaker the back-bonding, the more electron-deficient the Boron atom remains, and the stronger it acts as a Lewis acid.\n\n### Why This Answer\nBecause $BBr_3$ has the least back-bonding, it is the strongest acid. $BF_3$ has the most, making it the weakest. Order: $BBr_3 > BCl_3 > BF_3$ (Option B).\n\n### Common Mistakes\n* Electronegativity Trap: Students often pick $BF_3$ as the strongest acid because Fluorine is the most electronegative. They assume it pulls more electrons *away* from B, but they forget the $p\u03c0\u2013p\u03c0$ donation *towards* B.",
+        "keywords": {
+            "X → B": "X to B",
+            "2p–2p": "2p to 2p",
+            "3p–2p": "3p to 2p",
+            "4p–2p": "4p to 2p",
+            "BF₃": "Boron trifluoride",
+            "BCl₃": "Boron trichloride",
+            "BBr₃": "Boron tribromide",
+            "BBr₃ > BCl₃ > BF₃": "Boron tribromide greater than Boron trichloride greater than Boron trifluoride"
+        }
+    },
+    {
+        "id": 6,
+        "question_number": "101",
+        "text": "Which of the following molecules acts as a Lewis acid?",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Bonding",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "(CH₃)₃B",
+            "(CH₃)₂O",
+            "(CH₃)₃P",
+            "(CH₃)₃N"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 408,
+        "correct_answer": "(CH₃)₃B",
+        "basic_answer": "Given: [Molecules: (CH₃)₃B, (CH₃)₂O, (CH₃)₃P, (CH₃)₃N]\n\nSolution: [A Lewis acid is an electron-pair acceptor. Among the options, trimethylborane (CH₃)₃B has a central Boron atom with only 6 valence electrons and a vacant p-orbital. This electron deficiency allows it to accept an electron pair. The other molecules have lone pairs on their central atoms (O, P, N), making them Lewis bases. Thus, (CH₃)₃B is the Lewis acid.]",
+        "explanation": "### Core Concept\nA Lewis Acid is any species that can accept a lone pair of electrons. This usually requires the central atom to be electron-deficient (having fewer than 8 valence electrons) or have vacant orbitals.\n\n### Solution \n\n(CH₃)₃B (Trimethylborane): Boron is in Group 13\n\nIn this molecule, Boron forms 3 sigma bonds, giving it only 6 valence electrons. It has a vacant p-orbital, making it a powerful electron pair acceptor.\n(CH₃)₃N and (CH₃)₃P: Nitrogen and Phosphorus are in Group 15\n\nThey have a lone pair of electrons, making them Lewis Bases (donors).\n(CH₃)₂O: Oxygen has two lone pairs, also making it a Lewis Base.\n\n### Why This Answer\nOnly the Boron atom in (CH₃)₃B lacks a full octet and possesses a vacant orbital capable of accepting an electron pair. Thus, it is the only Lewis acid listed.\n\n### Common Mistakes\n* Confusing Acid/Base: Mistaking electron donors (Bases) for acceptors (Acids). \n* Ignoring the octet: Assuming that because all these are organic-like molecules, they are all stable and non-reactive.",
+        "keywords": {
+            "B": "Boron"
+        }
+    },
+    {
+        "id": 7,
+        "question_number": "103",
+        "text": "Mixture of chloroxylenol and terpineol acts as:",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Antiseptics",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 11,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Antiseptic",
+            "Antipyretic",
+            "Antibiotic",
+            "Analgesic"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 91,
+        "correct_answer": "Antiseptic",
+        "explanation": "### Core Concept\nChemicals used in everyday life include various classes of drugs. Antiseptics are chemical substances which prevent the growth of microorganisms or kill them and are safe to be applied to living tissues like wounds, cuts, or skin.\n\n### Solution \nIdentity: The mixture of chloroxylenol and \u03b1-terpineol is the active ingredient in the well-known commercial product Dettol.\nFunction: These compounds are antimicrobial but are non-toxic to human tissue when diluted correctly, allowing them to be used topically.\n\n### Why This Answer\nSince the mixture is designed to be applied to living tissue to kill germs, it is classified as an Antiseptic (Option A). \n* *Antipyretics* lower body temperature (fever).\n* *Analgesics* reduce pain.\n* *Antibiotics* are typically ingested or injected to treat internal infections.\n\n### Common Mistakes\n* Antiseptic vs Disinfectant: Antiseptics are safe for living tissue; disinfectants (like 1% phenol) are for inanimate objects. Chloroxylenol is specific to the antiseptic category.",
+        "basic_answer": "Given: [Chemical mixture: Chloroxylenol and Terpineol]\n\nSolution: [The combination of chloroxylenol and $\\alpha$-terpineol is the active formulation of the popular commercial antiseptic **Dettol**. Antiseptics are antimicrobial agents safe for application on living tissues to prevent infection. Therefore, this mixture acts as an antiseptic.]",
+        "keywords": {}
+    },
+    {
+        "id": 8,
+        "question_number": "104",
+        "text": "An example of a sigma bonded organometallic compound is:",
+        "subject": "Chemistry",
+        "sub_topic": "Organometallic Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (1)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Gignard's reagent",
+            "Ferrocene",
+            "Cobaltocene",
+            "Ruthenocene"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (1).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 92,
+        "correct_answer": "Gignard's reagent",
+        "explanation": "### Core Concept\nOrganometallic compounds contain at least one direct bond between a Carbon atom of an organic group and a Metal atom. These are classified by the nature of the bond: sigma (\u03c3), pi (\u03c0), or a combination.\n\n### Solution \n1.  Sigma-bonded: The metal and carbon are linked by a standard single covalent bond. \n    * Grignard Reagent ($R-Mg-X$): The alkyl/aryl group is directly attached to Magnesium via a \u03c3-bond.\n2.  Pi-bonded: The metal is bonded to the \u03c0-electron cloud of an unsaturated organic molecule.\n    * Metallocenes (Ferrocene, Cobaltocene, Ruthenocene): These are \"sandwich\" compounds where the metal is coordinated to the \u03c0-electrons of cyclopentadienyl rings. No single Carbon-Metal \u03c3-bond exists.\n\n### Why This Answer\nGrignard's reagent is a classic example of a simple \u03c3-bonded organometallic. The other three options are all \u03c0-bonded sandwich complexes.\n\n### Common Mistakes\n* Bonding Confusion: Thinking that all organometallics are the same. It is vital to distinguish between a localized \u03c3-bond (Grignard) and delocalized \u03c0-bonding (Ferrocene).",
+        "basic_answer": "Given: [Compound classes: Grignard reagent vs. Metallocenes]\n\nSolution: [Organometallic compounds are classified by their carbon-metal bond. Grignard's reagent ($R-Mg-X$) contains a direct, localized sigma ($\u03c3$) bond between the carbon of the alkyl/aryl group and the magnesium metal. In contrast, Ferrocene, Cobaltocene, and Ruthenocene are pi-bonded complexes where the metal interacts with the delocalized $\u03c0$-electron cloud of the organic ligands. Therefore, Grignard's reagent is the correct example of a sigma-bonded organometallic compound.]",
+        "keywords": {
+            "alkyl/aryl": "alkyl aryl",
+            "R": "organic group",
+            "Mg": "magnesium",
+            "X": "halogen"
+        }
+    },
+    {
+        "id": 9,
+        "question_number": "134",
+        "text": "The values of ΔH and ΔS for the reaction, C (graphite) + CO2 (g) → 2CO(g) are 170 kJ and 170 JK⁻¹, respectively. This reaction will be spontaneous at",
+        "subject": "Chemistry",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 16,
+        "source_pdf": "PAPAER (11)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "710 K",
+            "910 K",
+            "1110 K",
+            "510 K"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (11).pdf",
+            "page": 16,
+            "type": "MCQ"
+        },
+        "original_id": 435,
+        "correct_answer": "1110 K",
+        "basic_answer": "Given: [Enthalpy change $\\Delta H = +170$ kJ \n\nEntropy change $\\Delta S = +170$ J K⁻¹]\n\nSolution: [A reaction is spontaneous when Gibbs Free Energy change $\\Delta G < 0$. Using $\\Delta G = \\Delta H - T\\Delta S$ \n\nwe find the threshold temperature where $\\Delta G = 0$: $T = \\Delta H / \\Delta S = 170,000\\text{ J} / 170\\text{ J K}⁻¹ = 1000$ K. \n\nSince both $\\Delta H$ and $\\Delta S$ are positive, spontaneity occurs at temperatures higher than the threshold. Thus, $T > 1000$ K, making 1110 K the correct answer.]",
+        "explanation": "### Core Concept\nSpontaneity is determined by the Gibbs Free Energy equation: $\u0394G = \u0394H - T\u0394S$. For a reaction to be spontaneous, $\u0394G$ must be negative ($\u0394G < 0$).\n\n### Solution \n1.  Identify units: $\u0394H = 170\text{ kJ} = 170,000\text{ J}$. $\u0394S = 170\text{ J/K}$. Units must be consistent (both in Joules).\n2.  Find the equilibrium temperature ($T_{eq}$): This is where $\u0394G = 0$.\n    $0 = 170,000 - T(170)$\n    $T = 170,000 / 170 = 1000\text{ K}$.\n3.  Determine condition for spontaneity: Since both $\u0394H$ and $\u0394S$ are positive, the reaction is \"entropy-driven.\" It becomes spontaneous only when the $T\u0394S$ term is large enough to overcome the positive $\u0394H$. This happens at $T > 1000\text{ K}$.\n\n### Why This Answer\nLooking at the options, only 1110 K (Option C) is higher than the threshold of 1000 K.\n\n### Common Mistakes\n* Unit Mismatch: Forgetting to convert kJ to J. If you use 170 / 170, you get 1 K, which is incorrect. \n* Spontaneity Logic: Misunderstanding that for positive Enthalpy and Entropy, spontaneity occurs at *high* temperatures, not low ones.",
+        "keywords": {
+            "K": "Kelvin",
+            "ΔH": "Change in enthalpy (kJ)",
+            "ΔS": "Change in entropy (J/K)",
+            "T": "Temperature (K)",
+            "ΔG": "Gibbs free energy"
+        }
+    }
+]

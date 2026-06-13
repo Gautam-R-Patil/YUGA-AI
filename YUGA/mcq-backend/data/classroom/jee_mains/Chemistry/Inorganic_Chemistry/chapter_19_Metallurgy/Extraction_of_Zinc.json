@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Inorganic_Chemistry",
+    "chapter": "Metallurgy",
+    "chapter_number": 19,
+    "topic": "Extraction of Zinc",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:21:55.754897",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the extraction of zinc. This is an important topic in metallurgy. Let's start with zinc blende ore processing. Zinc blende is also called zinc sulfide (ZnS). To extract zinc, we first need to concentrate the ore. We do this by froth flotation. In froth flotation, we mix the crushed ore with water and detergents. Air is blown through this mixture. Zinc blende particles stick to the froth and float. This way, we separate the ore from impurities. \n\nNext, we roast the concentrated ore. Roasting means heating the ore in the presence of air. During roasting, zinc sulfide changes to zinc oxide (ZnO) and sulfur dioxide (SO2) gas is released. The reaction is: 2ZnS + 3O2 → 2ZnO + 2SO2. \n\nAfter roasting, we reduce zinc oxide to zinc metal. We use coke, which is a form of carbon, for this. The reaction is: ZnO + C → Zn + CO. This process is done in a furnace at high temperatures. \n\nNow, let's talk about electrolytic refining. This is a process to purify zinc. We dissolve impure zinc in sulfuric acid to make a solution. Then, we use electricity to deposit pure zinc on a cathode. The impurities settle at the bottom as anode mud. \n\nZinc has many useful properties. It is a bluish-white metal. It is not very hard but it is strong. Zinc is a good conductor of electricity. It does not rust easily. \n\nZinc is used in many ways. It is used to make brass, which is an alloy of zinc and copper. Zinc is also used in batteries. One important use of zinc is galvanization. In galvanization, we coat iron or steel with a layer of zinc. This prevents rusting. \n\nNow, let's look at the environmental impact. Roasting and reduction release gases like sulfur dioxide. These gases can cause air pollution. It is important to control these emissions. \n\nRecycling zinc is also important. Recycling saves energy and reduces pollution. We can recycle zinc from old batteries and scrap metal. \n\nLet's review some common mistakes in JEE Main. Students often confuse roasting and reduction. Remember, roasting involves air, while reduction uses carbon. Also, be careful with the formulas. For example, in the reaction ZnO + C → Zn + CO, don't forget the carbon monoxide (CO) is produced. \n\nKey takeaways: Concentrate the ore using froth flotation. Roast to get zinc oxide. Reduce zinc oxide to get zinc. Use electrolytic refining for pure zinc. Remember the uses and environmental impact of zinc. \n\nIn summary, zinc extraction involves several steps: concentrating, roasting, reducing, and refining. Each step is important for getting pure zinc. Understanding these steps will help you in your JEE Main exam. Keep practicing the reactions and remember the uses and impacts of zinc.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Zinc Blende",
+    "Roasting",
+    "Reduction",
+    "Electrolytic Refining",
+    "Galvanization"
+  ],
+  "formulas": [
+    {
+      "formula": "2ZnS + 3O2 → 2ZnO + 2SO2",
+      "description": "This formula is used during the roasting process to convert zinc sulfide to zinc oxide."
+    },
+    {
+      "formula": "ZnO + C → Zn + CO",
+      "description": "This formula is used in the reduction process to convert zinc oxide to zinc metal."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Froth Flotation",
+      "definition": "A process to concentrate ore by separating it from impurities using water and detergents."
+    },
+    {
+      "term": "Roasting",
+      "definition": "Heating the ore in the presence of air to convert it to an oxide."
+    },
+    {
+      "term": "Reduction",
+      "definition": "A chemical reaction that involves the gain of electrons, often using carbon to extract metals from their oxides."
+    },
+    {
+      "term": "Electrolytic Refining",
+      "definition": "A process to purify metals using electricity."
+    },
+    {
+      "term": "Galvanization",
+      "definition": "Coating iron or steel with zinc to prevent rusting."
+    }
+  ]
+}

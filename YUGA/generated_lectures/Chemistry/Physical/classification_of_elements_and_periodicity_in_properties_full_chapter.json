@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "11",
+    "chapter": "Classification of Elements and Periodicity in Properties",
+    "chapter_number": "3",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:18:38.561761",
+    "model_used": "gpt-4o",
+    "category": "Physical"
+  },
+  "lecture_script": "Let\u2019s quickly revise the Classification of Elements and Periodicity in Properties, a keystone topic for NEET Chemistry.\n\n**Concepts to Understand:**\n\n1. **Periodic Table Layout:**\n   - The modern periodic table is arranged based on atomic number.\n   - Elements are placed in rows (periods) and columns (groups).\n   - Groups indicate elements with similar chemical properties.\n\n2. **Periodic Law:**\n   - Properties of elements are periodic functions of their atomic numbers.\n\n3. **Key Trends:**\n   - **Atomic Radius:** Decreases across a period due to increased nuclear charge. Increases down a group.\n   - **Ionization Energy:** Energy required to remove an electron. It generally increases across a period and decreases down a group.\n   - **Electronegativity:** A measure of an atom's ability to attract electrons. Increases across a period and decreases down a group.\n   - **Electron Affinity:** Generally, it becomes more negative across a period indicating a stronger tendency to gain electrons.\n\n4. **Types of Elements:**\n   - Metals, non-metals, metalloids \u2013 distinguished based on their location on the periodic table.\n\n**Key Formula / Idea:**\n- Atomic properties like radius and ionization energy help predict chemical behavior.\n- Ionization energy is influenced by atomic size and nuclear charge.\n\n**NEET Question Pattern:**\n- Questions often focus on explaining trends across periods or groups, comparing ionization energies or electronegativities among elements, and predicting chemical behaviors based on periodic trends.\n- Understanding trends and the reasons behind them can help in solving questions related to element reactivity and bonding.\n\n**Quick Revision Points:**\n1. Atomic size decreases across a period; increases down a group.\n2. Ionization energy and electronegativity increase across a period; decrease down a group.\n3. Be familiar with group-wise trends and exceptions such as the lanthanide contraction.\n4. Understand the significance of blocks (s, p, d, f) based on electronic configuration.\n5. Learn the identifying trends for comparing chemical behavior: metals tend to lose electrons, non-metals gain electrons.",
+  "duration_minutes": "12",
+  "difficulty_level": "Intermediate",
+  "images": [],
+  "keywords": [
+    "Periodic Table",
+    "Atomic Radius",
+    "Ionization Energy",
+    "Electronegativity",
+    "Electron Affinity",
+    "Groups",
+    "Periods",
+    "Electrons",
+    "Chemical Properties",
+    "Periodic Trends"
+  ],
+  "formulas": [
+    "\\text{Ionization Energy} \\uparrow \\text{in Period,} \\uparrow \\downarrow \\text{in Group}",
+    "\\text{Atomic Radius} \\downarrow \\text{across Period,} \\uparrow \\text{down Group}",
+    "\\text{Electronegativity} \\uparrow \\text{across Period,} \\downarrow \\text{down Group}"
+  ],
+  "definitions": [
+    {
+      "term": "Periodic Table",
+      "definition": "An arrangement of elements in order of increasing atomic number, demonstrating periodic properties."
+    },
+    {
+      "term": "Atomic Radius",
+      "definition": "The distance from the nucleus to the outer boundary of the electron cloud of an atom."
+    },
+    {
+      "term": "Ionization Energy",
+      "definition": "The energy required to remove the outermost electron from a neutral atom in the gaseous state."
+    },
+    {
+      "term": "Electronegativity",
+      "definition": "A measure of the tendency of an atom to attract a bonding pair of electrons."
+    },
+    {
+      "term": "Electron Affinity",
+      "definition": "The change in energy when an electron is added to a neutral atom to form a negative ion."
+    },
+    {
+      "term": "Groups",
+      "definition": "Columns in the periodic table with elements having similar properties due to similar valence electron configurations."
+    },
+    {
+      "term": "Periods",
+      "definition": "Rows in the periodic table where elements have the same number of electron shells."
+    },
+    {
+      "term": "Electrons",
+      "definition": "Negatively charged subatomic particles that orbit the nucleus of an atom."
+    },
+    {
+      "term": "Chemical Properties",
+      "definition": "Characteristics of a substance that determine how it interacts with other substances."
+    },
+    {
+      "term": "Periodic Trends",
+      "definition": "Patterns in the periodic table that illustrate variations in properties of elements."
+    }
+  ]
+}

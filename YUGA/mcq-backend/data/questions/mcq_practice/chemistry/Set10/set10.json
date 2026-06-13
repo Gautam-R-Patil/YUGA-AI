@@ -1,0 +1,350 @@
+[
+    {
+        "id": 90,
+        "question_number": "149",
+        "text": "If n=6, the correct sequence for filling of electrons will be",
+        "subject": "Chemistry",
+        "sub_topic": "Electronic Configuration",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 18,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "ns → (n −1) d → (n −2) f → np",
+            "ns − (n −2) f → np → (n −1) d",
+            "ns − np → (n −1)d → (n −2) f",
+            "ns → (n −2) f → (n −1) d → np"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 5778,
+        "correct_answer": "ns → (n −1) d → (n −2) f → np",
+        "basic_answer": "Given: [Principal quantum number $n = 6$.] \n\nSolution: [The order of filling orbitals is governed by the $(n+l)$ rule (Aufbau Principle). For $n=6$, the relevant orbitals are $6s$, $4f$, $5d$, and $6p$. Calculating their $(n+l)$ values: $6s (6+0=6)$, $4f (4+3=7)$, $5d (5+2=7)$, and $6p (6+1=7)$. Orbitals with lower $(n+l)$ fill first ($6s$). For those with the same $(n+l)$, the one with the lower $n$ fills first ($4f < 5d < 6p$). Thus, the sequence is $ns \\rightarrow (n-2)f \\rightarrow (n-1)d \\rightarrow np$.]",
+        "explanation": "### CORE CONCEPT\nThe Aufbau Principle states that in the ground state of an atom, electrons fill atomic orbitals of the lowest available energy levels before occupying higher levels. The energy of an orbital is determined by the $(n+l)$ rule:\n1.  Orbitals are filled in increasing order of their $(n+l)$ value.\n2.  If two orbitals have the same $(n+l)$ value, the orbital with the lower principal quantum number ($n$) has lower energy and is filled first.\n\n\n\nDETAILED CALCULATION FOR n = 6\nWhen the valence shell reaches $n=6$, we must consider the $s, p, d,$ and $f$ subshells that become energetically available. Let's calculate the values for each:\n\n* $ns$ ($6s$): $n=6, l=0 \\rightarrow (n+l) = \\mathbf{6}$\n* $(n-2)f$ ($4f$): $n=4, l=3 \\rightarrow (n+l) = \\mathbf{7}$\n* $(n-1)d$ ($5d$): $n=5, l=2 \\rightarrow (n+l) = \\mathbf{7}$\n* $np$ ($6p$): $n=6, l=1 \\rightarrow (n+l) = \\mathbf{7}$\n\n\n\nDETERMINING THE SEQUENCE\n1.  Lowest Energy: The $6s$ orbital has the lowest $(n+l)$ value ($6$), so it fills first.\n2.  Tie-Breaking ($n+l = 7$): The $4f, 5d,$ and $6p$ orbitals all have a sum of $7$. According to the rule, we fill them in order of increasing $n$:\n    * $4f$ ($n=4$) fills next.\n    * $5d$ ($n=5$) follows.\n    * $6p$ ($n=6$) is the last in this sequence.\n\nTherefore, the correct sequence is: $6s \\rightarrow 4f \\rightarrow 5d \\rightarrow 6p$, which translates to the general formula: $ns \\rightarrow (n-2)f \\rightarrow (n-1)d \\rightarrow np$.\n\n### WHY THIS ANSWER IS CORRECT\nThis order corresponds exactly to the structure of the Periodic Table in the 6th period (starting with Cesium/Barium in the $6s$ block, followed by the Lanthanides in the $4f$ block, the transition metals in the $5d$ block, and ending with the $6p$ block). While some older keys might suggest $d$ before $f$, modern quantum mechanics and spectroscopic data confirm that the $4f$ subshell begins filling effectively after the $6s$ and the very start of the $5d$ transition. In general chemistry nomenclature, Option D is the standard accepted sequence.\n\n### COMMON MISTAKES\n* Ignoring the $n$ rule: Many students see that $4f, 5d,$ and $6p$ all equal $7$ and get confused. Always prioritize the lower $n$ when $(n+l)$ is a tie.\n* Mixing up $(n-1)$ and $(n-2)$: Remember that $d$ orbitals are always one level behind the valence shell ($n-1$) and $f$ orbitals are two levels behind ($n-2$).\n* Assuming Numerical Order: Electrons do not fill in the order $4, 5, 6$. They fill based on energy ($n+l$). This is why the $6s$ fills before the $4f$.",
+        "keywords": {
+            "n": "principal quantum number",
+            "ns": "s subshell",
+            "dp": "d subshell",
+            "fp": "f subshell",
+            "np": "p subshell"
+        }
+    },
+    {
+        "id": 91,
+        "question_number": "150",
+        "text": "Which one of the following is present as an active ingredient in bleaching powder for bleaching action?",
+        "subject": "Chemistry",
+        "sub_topic": "Chemical Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Easy",
+        "page": 18,
+        "source_pdf": "PAPAER (9)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Ca(OCl)2",
+            "CaO2Cl",
+            "CaCl2",
+            "CaOCl2"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (9).pdf",
+            "page": 18,
+            "type": "MCQ"
+        },
+        "original_id": 5779,
+        "correct_answer": "Ca(OCl)2",
+        "basic_answer": "Given: [Target: The active chemical component in bleaching powder responsible for its bleaching properties.] \n\nSolution: [Bleaching powder is chemically known as Calcium hypochlorite. Its primary active ingredient is $Ca(OCl)_2$. While it is often represented by the simplified formula $CaOCl_2$ in introductory texts, the actual active species that releases the bleaching agent (nascent oxygen) is the hypochlorite ion in $Ca(OCl)_2$.]",
+        "explanation": "### CORE CONCEPT\nBleaching Powder is a mixed salt produced by the action of chlorine gas on dry slaked lime ($Ca(OH)_2$). While its composition is complex\u2014containing calcium hypochlorite, calcium chloride, and calcium hydroxide\u2014its bleaching action is entirely due to the presence of the hypochlorite ion ($OCl^-$).\n\n\n\n### CHEMICAL COMPOSITION AND ACTION\n1.  Chemical Formula: The actual chemical formula of the active ingredient is Calcium Hypochlorite, $Ca(OCl)_2$. \n2.  Formation Reaction:\n    Ca(OH)₂ + Cl₂ → CaOCl₂ + H₂O\n    *Note: $CaOCl_2$ is often used as a shorthand representation for the complex mixture $Ca(OCl)_2 \\cdot CaCl_2 \\cdot Ca(OH)_2 \\cdot 2H_2O$.*\n\n3.  Mechanism of Bleaching:\n    When bleaching powder is exposed to moisture or dilute acids, it releases Chlorine gas, which then reacts with water to produce nascent oxygen ($[O]$). This nascent oxygen is a powerful oxidizing agent that removes color from organic matter.\n    CaOCl₂ + H₂SO₄ → CaSO₄ + H₂O + Cl₂\n    Cl₂ + H₂O → 2HCl + [O] (Nascent Oxygen)\n\n\n\n### WHY THIS ANSWER IS CORRECT\nWhile both $Ca(OCl)_2$ (Option A) and $CaOCl_2$ (Option D) are frequently associated with bleaching powder, $Ca(OCl)_2$ is the precise chemical formula for the active hypochlorite component. In competitive examinations, $Ca(OCl)_2$ is preferred as it correctly identifies the calcium salt of hypochlorous acid. \n\n### COMMON MISTAKES\n* Confusing with Calcium Chloride ($CaCl_2$): While $CaCl_2$ is present in the mixture, it has no bleaching properties and is considered a byproduct/impurity.\n* Formula Ambiguity: Students often confuse $CaOCl_2$ and $Ca(OCl)_2$. $CaOCl_2$ is the empirical formula for the mixture, while $Ca(OCl)_2$ is the specific chemical compound that acts as the active ingredient.\n* Chlorine vs. Oxygen: Remember that while chlorine is *released*, the actual bleaching is done by oxidation via nascent oxygen, not the chlorine itself.",
+        "keywords": {
+            "Ca": "Calcium",
+            "O": "Oxygen",
+            "Cl": "Chlorine",
+            "OCl": "Oxychloride",
+            "Ca(OCl)2": "Calcium Oxychloride"
+        }
+    },
+    {
+        "id": 92,
+        "question_number": "131",
+        "text": "In the extraction of copper from its sulphide ore, the metal is finally obtained by the reduction of cuprous oxide with",
+        "subject": "Chemistry",
+        "sub_topic": "Metallurgy",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 10,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Copper (l) sulphide (Cu₂ S)",
+            "Sulphur dioxide (SO 2 )",
+            "Iron Sulphide (FeS)",
+            "Carbon monoxide (CO)"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 10,
+            "type": "MCQ"
+        },
+        "original_id": 5612,
+        "correct_answer": "Copper (l) sulphide (Cu₂ S)",
+        "basic_answer": "Given: [The final stage of copper extraction from sulfide ores involving the reduction of cuprous oxide ($Cu_2O$).]\n\nSolution: [In the self-reduction process of copper metallurgy, a portion of the copper (I) sulfide is roasted to form copper (I) oxide. This oxide then reacts with the remaining unreacted copper (I) sulfide to produce metallic copper and sulfur dioxide gas. The reaction is: $2Cu_2O + Cu_2S \\rightarrow 6Cu + SO_2$. Therefore, the reducing agent is Copper (I) sulphide ($Cu_2S$).]",
+        "explanation": "### CORE CONCEPT\nThe extraction of copper from its primary sulfide ore (like Copper Pyrites, $CuFeS_2$) involves several stages: concentration, roasting, and smelting. The final stage is carried out in a Bessemer Converter. \n\n\n\nA unique feature of copper metallurgy is the Self-Reduction (or Auto-reduction) process. Unlike iron extraction, which requires an external reducing agent like coke (carbon), copper can be reduced using its own remaining ore components. \n\nDETAILED CHEMICAL PROCESS\n\n1.  Partial Roasting: In the converter, the 'copper matte' (a mixture of $Cu_2S$ and some $FeS$) is heated with a blast of air. This converts part of the copper (I) sulfide into copper (I) oxide:\n    2Cu₂S + 3O₂ → 2Cu₂O + 2SO₂\n\n2.  The Self-Reduction Step: The air supply is then reduced or cut off. The newly formed Cuprous oxide ($Cu_2O$) reacts with the remaining unroasted Cuprous sulfide ($Cu_2S$):\n    2Cu₂O + Cu₂S → 6Cu + SO₂ ↑\n\n3.  Formation of Blister Copper: As the molten copper solidifies, the $SO_2$ gas escapes, creating bubbles or 'blisters' on the surface of the metal. This product is known as Blister Copper (~98% pure).\n\n\n\n### WHY THIS ANSWER IS CORRECT\nIn the final stage described, no external carbon or carbon monoxide is needed. The chemical identity of the species that donates electrons to reduce $Cu^+$ to $Cu^0$ is the sulfide ion ($S^{2-}$) within the Copper (I) sulphide ($Cu_2S$) itself. This corresponds to Option A.\n\n### COMMON MISTAKES\n* Confusing with Iron Metallurgy: Students often pick Carbon monoxide ($CO$) or Coke because they are the standard reducing agents for iron ($Fe$). Copper is less reactive and undergoes self-reduction.\n* Mistaking the By-product for the Reactant: Sulfur dioxide ($SO_2$) is the *result* of the reaction, not the cause of the reduction.\n* Oxidation State Errors: Ensure you are looking at $Cu_2O$ and $Cu_2S$ (Copper (I)), as these are the stable intermediates in the high-temperature furnace, not $CuO$ or $CuS$.",
+        "keywords": {
+            "Cu": "Copper",
+            "Cu₂ O": "Cuprous Oxide",
+            "Cu₂ S": "Copper (I) Sulfide",
+            "SO 2": "Sulfur Dioxide"
+        }
+    },
+    {
+        "id": 93,
+        "question_number": "132",
+        "text": "An interstitial compound among the following is -",
+        "subject": "Chemistry",
+        "sub_topic": "Inorganic Chemistry - Interstitial Compounds",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Invar",
+            "Steel",
+            "Bell metal",
+            "Bronze"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5613,
+        "basic_answer": "Given: [A list of alloys: Invar, Steel, Bell metal, and Bronze.]\n\nSolution: [An interstitial compound is formed when small atoms like Hydrogen, Carbon, Boron, or Nitrogen occupy the 'interstitial sites' (voids or holes) in the metal lattice. Steel is a primary example where small Carbon atoms fit into the gaps of the Iron ($Fe$) crystal lattice. The other options are substitutional alloys, where one metal atom replaces another of similar size.]",
+        "explanation": "### CORE CONCEPT\nIn metallurgy and inorganic chemistry, there are two primary ways that different elements can mix in a solid lattice:\n\n1.  Substitutional Alloys: Atoms of the solute replace atoms of the solvent in the lattice. This happens when the two atoms have similar radii (within ~15%). Examples include Bronze ($Cu + Sn$) and Brass ($Cu + Zn$).\n2.  Interstitial Compounds: Small atoms (like $C, H, N, B$) occupy the interstitial sites (the 'holes' or 'voids') between the larger metal atoms. These are typically non-stoichiometric (e.g., $TiC$, $Fe_3C$).\n\n\n\nDETAILED ANALYSIS OF OPTIONS\n\n* Steel: This is the most famous interstitial compound. It consists of Iron ($Fe$) with Carbon atoms (~0.02% to 2%) trapped in the voids of the iron lattice. This makes the iron much harder and stronger because the carbon atoms 'lock' the iron layers in place, preventing them from sliding over each other easily.\n* Bronze: An alloy of Copper and Tin ($Cu + Sn$). Since tin atoms replace copper atoms in the lattice, it is a substitutional alloy.\n* Bell Metal: A specific type of bronze with a higher tin content ($Cu + Sn$). It is also a substitutional alloy.\n* Invar: An alloy of Iron and Nickel ($Fe + Ni$) known for its low thermal expansion. Since $Fe$ and $Ni$ have very similar atomic sizes, one simply replaces the other in the lattice, making it a substitutional alloy.\n\n### PROPERTIES OF INTERSTITIAL COMPOUNDS\nAccording to NCERT and standard chemistry texts, interstitial compounds exhibit unique properties:\n1.  They have high melting points, often higher than those of pure metals.\n2.  They are very hard (some approach diamond-like hardness).\n3.  They retain metallic conductivity.\n4.  They are chemically inert.\n\n### WHY THIS ANSWER IS CORRECT\nAmong the choices provided, Steel is the only material characterized by small non-metal atoms (Carbon) sitting in the interstitial voids of a metal lattice. The others are all combinations of similar-sized metal atoms. This matches Option B.\n\n### COMMON MISTAKES\n* Confusing Alloys with Compounds: While we call them interstitial 'compounds,' they often don't follow standard valency rules and are technically a type of alloy.\n* Mixing up 'Interstitial' and 'Substitutional': Remember: Small atom in a big hole = Interstitial. Big atom replacing a big atom = Substitutional.\n* Assuming Stoichiometry: Don't expect these to always have simple formulas like $AB_2$. They are often non-stoichiometric, like $VH_{0.56}$ or $TiH_{1.7}$.",
+        "keywords": {}
+    },
+    {
+        "id": 94,
+        "question_number": "133",
+        "text": "A mixture of potassium chlorate, oxalic acid and sulphuric acid is heated. During the reaction which element undergoes maximum change in the oxidation number?",
+        "subject": "Chemistry",
+        "sub_topic": "Redox Reactions",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "S",
+            "H",
+            "Cl",
+            "C"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5614,
+        "correct_answer": "Cl",
+        "basic_answer": "Given: [Reactants: KClO₃ (Potassium chlorate), H₂C₂O₄ (Oxalic acid), and H₂SO₄ (Sulphuric acid).] \n\nSolution: [To find the maximum change in oxidation number, we compare the initial and final states of each element. In KClO₃, Chlorine (Cl) starts at +5 and is reduced to Cl⁻ in ClO₂ (at +4) or Cl⁻ (at -1), resulting in a change of up to 6 units. In Oxalic acid, Carbon (C) starts at +3 and is oxidized to CO₂ (+4), a change of only 1 unit. Sulfur (S) and Hydrogen (H) remain in their initial states (+6 and +1 respectively). Therefore, Chlorine undergoes the maximum change.]",
+        "explanation": "### CORE CONCEPT\nIn a Redox Reaction, oxidation numbers change as electrons are transferred between species. The \"maximum change\" refers to the largest absolute difference ($| \\Delta ON |$) between the oxidation state of an element in the reactants and its state in the products. \n\n\n\nSTEP-BY-STEP OXIDATION STATE ANALYSIS\n\nThe reaction involved when heating this mixture is:\n2KClO₃ + H₂C₂O₄ + H₂SO₄ → K₂SO₄ + 2ClO₂ + 2CO₂ + 2H₂O\n*(Note: Depending on conditions, KClO₃ can also be reduced to $KCl$.)*\n\nLet's evaluate each element provided in the options:\n\n1.  Chlorine ($Cl$):\n    * Initial (in KClO₃): $+1 + x + 3(-2) = 0 \\Rightarrow x = \\mathbf{+5}$.\n    * Final (in $ClO_2$): $x + 2(-2) = 0 \\Rightarrow x = \\mathbf{+4}$. (Change = $1$)\n    * Final (if reduced to $KCl$): $x = \\mathbf{-1}$. (Change = $|-1 - 5| = \\mathbf{6}$).\n    Even in the formation of chlorine dioxide, $Cl$ is the primary element being reduced.\n\n2.  Carbon ($C$):\n    * Initial (in H₂C₂O₄): $2(+1) + 2x + 4(-2) = 0 \\Rightarrow 2x = 6 \\Rightarrow x = \\mathbf{+3}$.\n    * Final (in $CO_2$): $x + 2(-2) = 0 \\Rightarrow x = \\mathbf{+4}$.\n    * Magnitude of Change: $|4 - 3| = \\mathbf{1}$.\n\n3.  Sulfur ($S$):\n    * Initial (in H₂SO₄): $\\mathbf{+6}$.\n    * Final (in $K_2SO_4$): $\\mathbf{+6}$.\n    * Magnitude of Change: $\\mathbf{0}$ (Sulfuric acid acts as a medium/catalyst here, not a redox participant).\n\n4.  Hydrogen ($H$):\n    * Initial: $\\mathbf{+1}$.\n    * Final (in $H_2O$): $\\mathbf{+1}$.\n    * Magnitude of Change: $\\mathbf{0}$.\n\n### WHY THIS ANSWER IS CORRECT\nBy comparing the magnitudes, Chlorine shows a potential change of up to 6 units (from $+5$ to $-1$), which is the highest among all elements present. Even in the specific production of $ClO_2$ gas (a common use for this mixture), Chlorine's role as the central oxidizing agent involves the most significant electronic reconfiguration. This corresponds to Option C.\n\n### COMMON MISTAKES\n* Miscalculating Oxalic Acid: Many students assume Carbon in organic acids is $+4$. In oxalic acid ($HOOC-COOH$), it is actually $+3$. \n* Assuming Sulfur Reacts: Just because Sulphuric acid is 'strong' doesn't mean it always changes oxidation state. Often it simply provides the acidic medium ($H^+$ ions).\n* Ignoring the Sign: When calculating 'change,' always look at the absolute difference. Moving from $+5$ to $-1$ is a much larger 'jump' than moving from $+3$ to $+4$.",
+        "keywords": {
+            "Cl": "Chlorine",
+            "C": "Carbon",
+            "S": "Sulfur",
+            "H": "Hydrogen",
+            "O": "Oxygen",
+            "K": "Potassium",
+            "m": "mole",
+            "H2SO4": "Sulfuric acid",
+            "C₂H2O4": "Oxalic acid",
+            "KClO3": "Potassium chlorate"
+        }
+    },
+    {
+        "id": 95,
+        "question_number": "134",
+        "text": "Which one of the alkali metals forms only, the normal oxide, M2O on heating in air?",
+        "subject": "Chemistry",
+        "sub_topic": "Inorganic Chemistry - Alkali Metals",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Rb",
+            "K",
+            "Li",
+            "Na"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5615,
+        "correct_answer": "Li",
+        "basic_answer": "Given: [Alkali metals reacting with oxygen in the air.] \n\nSolution: [Among the alkali metals (Group 1), Lithium ($Li$) is the only one that forms only the normal oxide ($Li_2O$) upon heating in air. Sodium ($Na$) primarily forms the peroxide ($Na_2O_2$), while Potassium ($K$), Rubidium ($Rb$), and Cesium ($Cs$) form superoxides ($MO_2$).]",
+        "explanation": "### CORE CONCEPT\nWhen alkali metals are heated in air (oxygen), they react to form different types of oxides. The type of oxide formed depends on the size and reactivity of the specific metal cation. \n\nThere are three main types of oxides formed in Group 1:\n1.  Normal Oxide ($O^{2-}$): Example, $Li_2O$.\n2.  Peroxide ($O_2^{2-}$): Example, $Na_2O_2$.\n3.  Superoxide ($O_2^-$): Examples, $KO_2, RbO_2, CsO_2$.\n\n\n \n\nDETAILED ANALYSIS BY METAL\nAs we move down the group, the size of the metal cation increases, which allows it to stabilize larger, more complex anions:\n\n* Lithium ($Li$): Being the smallest cation in the group, it has a very high charge density. This high charge density strongly attracts the small oxide ion ($O^{2-}$), creating a stable lattice. Lithium is too small to stabilize the larger peroxide or superoxide ions effectively. \n    4Li + O₂ → 2Li₂O\n\n* Sodium ($Na$): It is larger than Lithium. While it can form a normal oxide with limited oxygen, heating it in air primarily produces Sodium peroxide.\n    2Na + O₂ → Na₂O₂\n\n* Potassium ($K$), Rubidium ($Rb$), and Cesium ($Cs$): These are very large cations. Their low charge density allows them to stabilize the large, bulky superoxide ion ($O_2^-$) through lattice energy effects.\n    K + O₂ → KO₂\n\n\n \n\n### WHY THIS ANSWER IS CORRECT\nThe question specifically asks for the metal that forms only the normal oxide ($M_2O$). Lithium's small size ensures that $Li_2O$ is the only stable product of its reaction with atmospheric oxygen. Heavier metals will always proceed to form peroxides or superoxides because those larger anions are more stable with larger cations. This corresponds to Option C.\n\n### COMMON MISTAKES\n* Generalizing the Group: Do not assume all alkali metals react the same way. This is a classic example of the \"anomalous behavior of Lithium\" (the first element in a group often differs from the rest).\n* Oxidation States: Remember that in all these compounds, the metal always has an oxidation state of +1. It is the oxidation state of Oxygen that changes: $-2$ in oxide, $-1$ in peroxide, and $-1/2$ in superoxide.\n* Confusing Air with Pure Oxygen: While the reaction is more vigorous in pure oxygen, the products formed in air follow the same stability trends determined by the metal cation size.",
+        "keywords": {
+            "Li": "Lithium",
+            "O": "Oxygen",
+            "M2O": "Normal oxide"
+        }
+    },
+    {
+        "id": 96,
+        "question_number": "136",
+        "text": "The incorrect statement among the following regarding photochemical smog is -",
+        "subject": "Chemistry",
+        "sub_topic": "Environmental Chemistry",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Carbon monoxide does not play any role in photochemical smog formation.",
+            "Photochemical smog is an oxidising agent in character.",
+            "Photochemical smog is formed through photochemical reaction involving solar energy.",
+            "Photochemical smog does not cause irritation in eyes and throat."
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5616,
+        "correct_answer": "Photochemical smog does not cause irritation in eyes and throat.",
+        "basic_answer": "Given: [Four statements about the characteristics, formation, and effects of photochemical smog.] \n\nSolution: [Photochemical smog contains highly reactive compounds such as Ozone ($O_3$), Peroxyacetyl Nitrate (PAN), and Acrolein. These substances are powerful irritants that directly affect the mucous membranes, leading to severe irritation in the eyes, nose, and throat. Therefore, the statement claiming it does not cause such irritation is incorrect.]",
+        "explanation": "### CORE CONCEPT\nPhotochemical Smog (also known as Los Angeles Smog) occurs in warm, dry, and sunny climates. It is a type of air pollution formed when sunlight reacts with primary pollutants like Nitrogen Oxides ($NO_x$) and Volatile Organic Compounds (VOCs) emitted from automobiles and factories.\n\n\n \n\nDETAILED ANALYSIS OF STATEMENTS\n\n1.  Oxidising Character (Statement B): \n    Photochemical smog is rich in oxidizing agents like Ozone ($O_3$) and Nitrogen Dioxide ($NO_2$). This is why it is formally classified as an Oxidising Smog. (This contrasts with Classical Smog, which is reducing in nature).\n\n2.  Solar Energy Requirement (Statement C): \n    The name 'photochemical' itself implies that light (photons) drives the chemical reactions. Specifically, ultraviolet radiation from the sun breaks down $NO_2$ into $NO$ and nascent oxygen, which then forms ozone.\n\n3.  Role of Carbon Monoxide (Statement A): \n    While $CO$ is a major air pollutant, the primary precursors for photochemical smog are hydrocarbons and nitrogen oxides. $CO$ is generally not considered a fundamental component of the smog-forming cycle in the same way $NO_x$ is. Thus, this statement is considered technically correct in many chemistry curricula.\n\n4.  Health Effects (Statement D): \n    The components of photochemical smog (PAN, Acrolein, and Ozone) are highly irritating. \n    * Ozone and PAN cause stinging of the eyes.\n    * Acrolein and Formaldehyde cause throat irritation and respiratory distress.\n\n\n \n\n### WHY THIS ANSWER IS CORRECT\nThe question asks for the incorrect statement. Because scientific evidence and standard textbooks (like NCERT) emphasize that photochemical smog is a major cause of eye and throat irritation, claiming that it \"does not cause irritation\" is factually wrong. This matches Option D.\n \n\n### COMMON MISTAKES\n* Confusing Classical vs. Photochemical Smog: Remember that Classical Smog occurs in cool humid climates and contains $SO_2$ (Reducing), while Photochemical Smog occurs in sunny climates and contains $O_3$ (Oxidising).\n* The CO Distraction: Don't get distracted by Carbon Monoxide. While it's toxic, it is not the 'engine' that drives the brown smog cycle; that role belongs to the Nitrogen Oxides.\n* Ignoring PAN: Peroxyacetyl Nitrate (PAN) is a classic 'trick' keyword in these questions. Always associate it with photochemical smog and eye irritation.",
+        "keywords": {
+            "NOx": "Nitrogen oxides",
+            "VOC": "Volatile organic compounds",
+            "O₃": "Ozone",
+            "CO": "Carbon monoxide",
+            "smog": "Photochemical smog"
+        }
+    },
+    {
+        "id": 97,
+        "question_number": "137",
+        "text": "CH3CHO and C6H5CH2CHO can be distinguished by-",
+        "subject": "Chemistry",
+        "sub_topic": "Organic Chemistry - Aldehydes and Ketones",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "Benedict test",
+            "Iodoform test",
+            "Tollen's reagent test",
+            "Fehling solution test"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5617,
+        "correct_answer": "Iodoform test",
+        "basic_answer": "Given: [Two aldehydes: Acetaldehyde ($CH_3CHO$) and Phenylacetaldehyde ($C_6H_5CH_2CHO$).] \n\nSolution: [To distinguish between these two, we look for a structural feature present in one but not the other. Acetaldehyde contains the methyl ketone structural fragment (a $CH_3$ group attached to a carbonyl carbon), which allows it to undergo the Iodoform test to form a yellow precipitate of $CHI_3$. Phenylacetaldehyde does not have a $CH_3$ group directly attached to the carbonyl carbon; its $CH_3$ is replaced by a benzyl group ($C_6H_5CH_2-$). Therefore, only Acetaldehyde gives a positive Iodoform test.]",
+        "explanation": "### CORE CONCEPT\nTo distinguish between two organic compounds of the same functional class (both are aldehydes here), we must identify a specific chemical test that reacts with a structural sub-unit unique to only one of them.\n\n\n\nDETAILED ANALYSIS OF THE OPTIONS\n\n1.  Tollen's Reagent Test: Both are aldehydes. Both will reduce Tollen's reagent to give a Silver Mirror. This test confirms the presence of an aldehyde group but cannot distinguish between these two specific aldehydes.\n    \n\n2.  Fehling's / Benedict's Test: These tests are used to distinguish between aliphatic and aromatic aldehydes. Acetaldehyde ($CH_3CHO$) is aliphatic and gives a positive test. Phenylacetaldehyde ($C_6H_5CH_2CHO$) is also technically an aliphatic aldehyde because the $-CHO$ group is attached to an $sp^3$ carbon (the $CH_2$), not directly to the benzene ring. Therefore, both might give a positive result, making it an unreliable choice for a clear distinction in many competitive exam contexts.\n\n3.  Iodoform Test: This is the definitive test here. It requires the presence of a methyl keto group ($CH_3-CO-$) or a methyl carbinol group ($CH_3-CH(OH)-$). \n    * Acetaldehyde ($CH_3-CHO$): It has a methyl group directly attached to the carbonyl carbon. It reacts with $I_2/NaOH$ to produce a yellow precipitate of Iodoform ($CHI_3$).\n    * Phenylacetaldehyde ($C_6H_5CH_2-CHO$): The group attached to the carbonyl is a benzyl group, not a methyl group. It does not contain the $CH_3-CO-$ unit and thus gives a negative result.\n\n\n \n\n### WHY THIS ANSWER IS CORRECT\nThe structural requirement for a positive Iodoform test is exceptionally specific. Since Acetaldehyde is the only aldehyde that contains the $CH_3-CO-$ linkage (as $H-CO-CH_3$), it is the only aldehyde in this pair that will form the yellow $CHI_3$ precipitate. This corresponds to Option B.\n\n### COMMON MISTAKES\n* Misidentifying the Iodoform criteria: Many believe the Iodoform test is only for ketones. Remember, Acetaldehyde is the only aldehyde that gives a positive Iodoform test.\n* Confusing Phenylacetaldehyde with Benzaldehyde: Benzaldehyde ($C_6H_5CHO$) is a true aromatic aldehyde and would fail the Fehling's test. However, Phenylacetaldehyde has a spacer $CH_2$ group, making its reactivity more similar to aliphatic aldehydes.\n* Ignoring the Methyl Group: Always look for that $CH_3$ directly bonded to the $C=O$. If it's a $CH_2$ or any other group, the Iodoform test will fail.",
+        "keywords": {
+            "CH3CHO": "acetaldehyde",
+            "C6H5CH2CHO": "benzaldehyde",
+            "I": "iodine",
+            "OH": "hydroxide"
+        }
+    },
+    {
+        "id": 98,
+        "question_number": "138",
+        "text": "The incorrect statement among the following is -",
+        "subject": "Chemistry",
+        "sub_topic": "Inorganic Chemistry - Volumetric Analysis",
+        "question_type": "MCQ",
+        "difficulty": "Medium",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "On passing CO2 through acidified K2Cr2O7 solution, a milky colour is observed.",
+            "K2Cr2O7 is preferred over Na2Cr2O7 in volumetric analysis.",
+            "K2Cr2O7 solution in acidic medium is orange.",
+            "K2Cr2O7 solution becomes yellow in increasing the pH beyond 7"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5618,
+        "correct_answer": "On passing CO2 through acidified K2Cr2O7 solution, a milky colour is observed.",
+        "basic_answer": "Given: [Statements regarding the properties and uses of Potassium Dichromate (K₂Cr₂O₇).] \n\nSolution: [Carbon dioxide ($CO_2$) is an acidic oxide but not a reducing agent for K₂Cr₂O₇. Passing $CO_2$ through an acidified dichromate solution does not result in any visible reaction or 'milky' turbidity. Milkiness is characteristic of the reaction between $CO_2$ and Lime Water ($Ca(OH)_2$). Therefore, the first statement is incorrect.]",
+        "explanation": "### CORE CONCEPT\nPotassium Dichromate (K₂Cr₂O₇) is a fundamental reagent in inorganic chemistry, particularly in redox titrations. Its behavior is highly dependent on the pH of the solution and its role as a primary standard.\n\n\n \n\nDETAILED ANALYSIS OF THE STATEMENTS\n\n1.  Reaction with $CO_2$ (Statement A): \n    The 'milky' observation is the classic test for $CO_2$ when passed through Lime Water ($Ca(OH)_2$), where it forms insoluble $CaCO_3$. Acidified K₂Cr₂O₇ reacts with *reducing gases* like $SO_2$ (turning it from orange to green), but it does not react with $CO_2$. There is no precipitate or color change involved with $CO_2$. This makes the statement incorrect.\n\n2.  Volumetric Analysis Preference (Statement B): \n    K₂Cr₂O₇ is a Primary Standard because it is non-hygroscopic (it doesn't absorb moisture from the air) and can be weighed accurately. In contrast, Sodium Dichromate ($Na_2Cr_2O_7$) is deliquescent (it absorbs so much water it dissolves), making it difficult to weigh precisely. Thus, K₂Cr₂O₇ is preferred for titrations. This statement is correct.\n\n3.  Color in Acidic Medium (Statement C): \n    In acidic conditions ($pH < 7$), the equilibrium shifts toward the dichromate ion ($Cr_2O_7^{2-}$), which is naturally orange. This statement is correct.\n\n4.  Color at High pH (Statement D): \n    When $OH^-$ ions are added (increasing pH beyond 7), the dichromate ion converts into the chromate ion ($CrO_4^{2-}$), which is yellow. \n    Cr₂O₇²⁻ + 2OH⁻ ⇌ 2CrO₄²⁻ + H₂O \n    This statement is correct.\n\n\n \n\n### WHY THIS ANSWER IS CORRECT\nThe question asks for the incorrect statement. Since $CO_2$ does not cause milkiness or any reaction with acidified potassium dichromate, Statement A is the only false assertion. Milkiness is specifically related to the formation of carbonates in alkaline earth metal hydroxides, not transition metal redox reagents. This corresponds to Option A.\n\n### COMMON MISTAKES\n* Confusing $CO_2$ with $SO_2$: $SO_2$ turns acidified K₂Cr₂O₇ green (due to $Cr^{3+}$ formation). Students often mix up the gas tests; $CO_2$ is detected by lime water, while $SO_2$ is detected by dichromate paper.\n* Standard Definitions: Remember the difference between a primary and secondary standard. Sodium salts in this group are usually too 'wet' to be primary standards.\n* Color Reversal: A common memory trick is: Acidic = Orange (A-O) and Basic = Yellow (B-Y).",
+        "keywords": {}
+    },
+    {
+        "id": 99,
+        "question_number": "139",
+        "text": "Standard enthalpy of vaporization for water ΔvapH0 at 100°C is 40.66 kJ mol⁻¹. The internal energy of vaporization of water at 100°C (in kJ mol⁻¹) is (Assume water vapour to behave like an ideal gas).",
+        "subject": "Chemistry",
+        "sub_topic": "Thermodynamics",
+        "question_type": "MCQ",
+        "difficulty": "Hard",
+        "page": 11,
+        "source_pdf": "PAPAER (8)",
+        "has_images": false,
+        "num_images": 0,
+        "images": [],
+        "options": [
+            "+37.56",
+            "-43.76",
+            "+43.76",
+            "+40.66"
+        ],
+        "metadata": {
+            "source": "questions\\PAPAER (8).pdf",
+            "page": 11,
+            "type": "MCQ"
+        },
+        "original_id": 5619,
+        "correct_answer": "+37.56",
+        "basic_answer": "Given: [$\\Delta_{vap}H^\\circ = 40.66\\text{ kJ mol}^{-1}$, $T = 100^\\circ\\text{C} = 373\\text{ K}$]. \n\nSolution: [For the phase transition $H_2O(l) \\rightarrow H_2O(g)$, the change in gaseous moles is $\\Delta n_g = 1$. Using the thermodynamic relation $\\Delta H = \\Delta U + \\Delta n_g RT$, we find $\\Delta U = \\Delta H - \\Delta n_g RT$. Substituting the values ($R = 8.314 \\times 10^{-3}\\text{ kJ K}^{-1}\\text{ mol}^{-1}$), we get $\\Delta U = 40.66 - (1 \\times 0.008314 \\times 373) \\approx 37.56\\text{ kJ mol}^{-1}$.]",
+        "explanation": "### CORE CONCEPT\nThe Internal Energy of Vaporization ($\\Delta U$) represents the energy required to overcome intermolecular forces in a liquid without considering the work done to expand against atmospheric pressure. The Enthalpy of Vaporization ($\\Delta H$), however, includes both this internal energy and the Pressure-Volume ($P\\Delta V$) work required to push back the atmosphere as the liquid turns into a gas.\n\n\n \n\nSTEP-BY-STEP CALCULATION\n\n1.  Define the Process:\n    H₂O(l) → H₂O(g)\n    * Moles of gaseous products ($n_p$) = $1$\n    * Moles of gaseous reactants ($n_r$) = $0$ (liquid water does not count towards gas moles)\n    * Change in gaseous moles: $\\Delta n_g = n_p - n_r = 1 - 0 = \\mathbf{1}$\n\n2.  State the Thermodynamic Relationship:\n    ΔH = ΔU + Δn_g RT\n    Rearranging to solve for Internal Energy:\n    ΔU = ΔH − Δn_g RT\n\n3.  Identify and Convert Constants:\n    * $\\Delta H = 40.66\\text{ kJ mol}^{-1}$\n    * $T = 100^\\circ\\text{C} + 273.15 = \\mathbf{373.15\\text{ K}}$\n    * $R = 8.314\\text{ J K}^{-1}\\text{ mol}^{-1} = \\mathbf{8.314 \\times 10^{-3}\\text{ kJ K}^{-1}\\text{ mol}^{-1}}$\n\n4.  Perform the Calculation:\n    $$\\Delta U = 40.66 - (1 \\times 8.314 \\times 10^{-3} \\times 373.15)$$\n    $$\\Delta U = 40.66 - (3.102)$$\n    $$\\Delta U = \\mathbf{37.558\\text{ kJ mol}^{-1}}$$\n\nRounding to two decimal places, we get $+37.56$.\n \n\n### WHY THIS ANSWER IS CORRECT\nIn an endothermic process like vaporization, $\\Delta H$ is always positive. Because the system performs work on the surroundings ($P\\Delta V > 0$), the increase in internal energy ($\\Delta U$) is naturally smaller than the total heat added at constant pressure ($\\Delta H$). The value $+37.56$ reflects this logical thermodynamic reduction. This corresponds to Option A.\n\n\n\n### COMMON MISTAKES\n* Unit Mismatch: A very common error is using $R = 8.314$ while $\\Delta H$ is in kJ. Always convert $R$ to $0.008314\\text{ kJ}$ or $\\Delta H$ to $40660\\text{ J}$.\n* Calculating $\\Delta n_g$: Forgetting that liquid water has $0$ gas moles. Some students mistakenly use $\\Delta n_g = 2$ or $0$.\n* Temperature Units: Using $100$ instead of converting to Kelvin ($373.15\\text{ K}$). Gas constant calculations always require absolute temperature.\n* Sign Confusion: $\\Delta U$ should be smaller than $\\Delta H$ for vaporization. If your result is larger (e.g., $43.76$), you likely added the term instead of subtracting it.",
+        "keywords": {
+            "ΔvapH0": "standard enthalpy of vaporization",
+            "ΔU": "internal energy of vaporization",
+            "P": "Pressure",
+            "kJ": "kilojoules",
+            "mol⁻¹": "per mole"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Hydrocarbons",
+    "chapter_number": 22,
+    "topic": "Alkenes",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:25:13.560832",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about Alkenes. Alkenes are a type of hydrocarbon. Hydrocarbons are compounds made of hydrogen and carbon. Alkenes have at least one carbon-carbon double bond. This double bond is important for their reactions.\n\nFirst, let's talk about the structure and bonding of alkenes. Alkenes have a general formula of CnH2n. This means for every n carbon atoms, there are 2n hydrogen atoms. The double bond in alkenes is made of one sigma (σ) bond and one pi (π) bond. The pi bond is weaker and makes alkenes more reactive.\n\nNow, let's learn about nomenclature. Naming alkenes follows simple rules. First, find the longest carbon chain with the double bond. Change the ending of the alkane name from '-ane' to '-ene'. Number the chain from the end nearest to the double bond. For example, CH2=CH-CH3 is named propene.\n\nAlkenes have some physical properties. They are generally non-polar. This means they do not mix well with water. Alkenes have low boiling points. Their boiling points increase with more carbon atoms.\n\nNext, we will discuss chemical reactions. Alkenes can undergo hydrogenation. In hydrogenation, alkenes react with hydrogen (H2) to form alkanes. This reaction needs a catalyst like nickel. Alkenes also undergo halogenation. Here, they react with halogens like chlorine (Cl2) to form dihalides. Hydrohalogenation is another reaction. Alkenes react with hydrogen halides like HCl to form alkyl halides.\n\nA key rule in hydrohalogenation is Markovnikov's rule. It states that the hydrogen atom from HCl adds to the carbon with more hydrogen atoms already attached. This is important in predicting the main product.\n\nAlkenes can be prepared by dehydration of alcohols. In this process, alcohols lose water (H2O) to form alkenes. Another method is dehydrohalogenation. Here, alkyl halides lose a hydrogen and a halogen to form alkenes.\n\nPolymerization is a special reaction for alkenes. In polymerization, many alkene molecules join to form a large molecule called a polymer. For example, ethene can form polyethene, a common plastic.\n\nAlkenes also show geometric isomerism. This happens when there is restricted rotation around the double bond. There can be 'cis' and 'trans' forms. In 'cis', similar groups are on the same side. In 'trans', they are on opposite sides.\n\nNow, let's look at some common mistakes. In JEE Main, students often forget Markovnikov's rule. Remember, the hydrogen goes to the carbon with more hydrogens. Also, do not confuse geometric isomers. Check the position of groups carefully.\n\nIn summary, alkenes are hydrocarbons with a double bond. They have specific reactions and preparation methods. Remember the key rules and properties.\n\nThat's all for today. Keep practicing the concepts and reactions. See you in the next class!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Alkenes",
+    "Hydrogenation",
+    "Halogenation",
+    "Markovnikov's Rule",
+    "Polymerization"
+  ],
+  "formulas": [
+    {
+      "formula": "CnH2n",
+      "description": "General formula for alkenes used to determine the number of hydrogen atoms when the number of carbon atoms is known"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Alkenes",
+      "definition": "Hydrocarbons with at least one carbon-carbon double bond"
+    },
+    {
+      "term": "Markovnikov's Rule",
+      "definition": "In hydrohalogenation, the hydrogen atom adds to the carbon with more hydrogen atoms"
+    },
+    {
+      "term": "Polymerization",
+      "definition": "Process where many small alkene molecules join to form a large molecule"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Waves",
+    "chapter_number": 15,
+    "topic": "Wave Motion",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:04:40.440142",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello everyone! Today, we will talk about wave motion. Waves are everywhere around us. When you listen to music or watch TV, you are using waves. But what is a wave? Let's find out.\n\nFirst, let's define wave motion. Wave motion is the transfer of energy from one place to another without moving matter. Imagine you drop a stone in water. You see ripples, right? These ripples are waves. They move energy through water, but the water itself does not travel with the wave.\n\nNow, let's look at the characteristics of wave motion. Waves have a few important features. They have a wavelength, which is the distance between two peaks. They also have a frequency, which is how often the waves pass a point in one second. Another feature is amplitude, which is the height of the wave. High amplitude means a loud sound or bright light.\n\nThere are two main types of waves: mechanical and electromagnetic. Mechanical waves need a medium to travel, like water or air. Sound waves are mechanical. If you clap your hands, the sound travels through air to reach your ears. Electromagnetic waves do not need a medium. They can travel through space. Light and radio waves are electromagnetic.\n\nLet's see some examples of wave motion in physics. A common example is sound waves. When you speak, your vocal cords create sound waves. These waves travel through air and reach someone's ears. Another example is light waves. The light from the sun travels through space to reach Earth. This is why we see sunlight.\n\nWave motion has many applications in engineering. Engineers use waves in communication, like radio and TV. They also use waves in medical imaging, like ultrasound. Ultrasound uses sound waves to create images of the inside of the body. This helps doctors see organs and diagnose problems.\n\nNow, let's solve a simple problem on wave motion. If a wave has a frequency of 5 Hz and a wavelength of 2 meters, what is its speed? We use the formula: Speed = Frequency × Wavelength. So, Speed = 5 Hz × 2 m = 10 m/s. The wave moves at 10 meters per second.\n\nCommon mistake: Some students think waves move matter. Remember, waves move energy, not matter. Also, don't confuse frequency with speed. Frequency is how often, speed is how fast.\n\nKey points to remember: Waves transfer energy, not matter. They have wavelength, frequency, and amplitude. Mechanical waves need a medium. Electromagnetic waves do not.\n\nIn summary, wave motion is a key concept in physics. It helps us understand how energy moves. Waves have many uses in our daily lives and in technology. Keep practicing problems to get better at this topic.",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Wave Motion",
+    "Mechanical Waves",
+    "Electromagnetic Waves",
+    "Wavelength",
+    "Frequency"
+  ],
+  "formulas": [
+    {
+      "formula": "Speed = Frequency × Wavelength",
+      "description": "This formula calculates the speed of a wave using its frequency and wavelength."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Wave Motion",
+      "definition": "The transfer of energy from one place to another without moving matter."
+    },
+    {
+      "term": "Wavelength",
+      "definition": "The distance between two peaks of a wave."
+    },
+    {
+      "term": "Frequency",
+      "definition": "The number of waves passing a point in one second."
+    },
+    {
+      "term": "Amplitude",
+      "definition": "The height of a wave, related to its energy."
+    },
+    {
+      "term": "Mechanical Waves",
+      "definition": "Waves that need a medium to travel, like sound waves."
+    },
+    {
+      "term": "Electromagnetic Waves",
+      "definition": "Waves that do not need a medium and can travel through space, like light waves."
+    }
+  ]
+}

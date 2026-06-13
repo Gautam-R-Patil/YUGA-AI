@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Organic_Chemistry",
+    "chapter": "Polymers",
+    "chapter_number": 28,
+    "topic": "Properties and Uses of Polymers",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T10:30:29.763493",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about polymers. Polymers are large molecules. They are made of smaller units called monomers. These monomers link together like a chain. Polymers are everywhere in our daily life.\n\nLet's start with mechanical properties. Mechanical properties tell us how strong a polymer is. Some polymers are very strong, like Kevlar. Others are stretchy, like rubber. The strength depends on how the monomers are linked. Strong links make a strong polymer. Weak links make a stretchy polymer.\n\nNext, we have thermal properties. Thermal properties tell us how a polymer reacts to heat. Some polymers melt when heated. These are called thermoplastics. Others do not melt. They are called thermosetting plastics. Thermoplastics are easy to recycle. Thermosetting plastics are not. Remember this for JEE Main: Thermoplastics can be reshaped with heat.\n\nNow, let's talk about chemical resistance. Chemical resistance tells us how a polymer reacts to chemicals. Some polymers resist acids and bases. Others do not. For example, Teflon is used in non-stick pans. It resists heat and chemicals. Always check a polymer's resistance before using it.\n\nPolymers are used in many ways in daily life. We use plastic bags, bottles, and toys. Cars have polymer parts. Even clothes can be made from polymers like polyester. Polymers make life easier.\n\nWe must also think about the environmental impact. Many polymers do not break down easily. They can harm nature. We should recycle polymers. Recycling helps reduce waste. It also saves resources.\n\nRecycling and disposal are important. Thermoplastics are easy to recycle. Thermosetting plastics are harder to recycle. Always try to recycle plastic waste. It is good for the environment.\n\nLet's look at a common JEE Main mistake. Students often confuse thermoplastics and thermosetting plastics. Remember: Thermoplastics melt with heat. Thermosetting plastics do not.\n\nKey takeaways: Polymers have different properties. They can be strong, stretchy, heat-resistant, or chemically resistant. They are used everywhere. But we must recycle them.\n\nIn summary, polymers are important in chemistry and daily life. They have many uses and properties. Always think about their impact on the environment. Thank you for listening!",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Polymers",
+    "Monomers",
+    "Thermoplastics",
+    "Thermosetting plastics",
+    "Chemical resistance"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Polymer",
+      "definition": "A large molecule made of many smaller units called monomers."
+    },
+    {
+      "term": "Monomer",
+      "definition": "A small molecule that can join with others to form a polymer."
+    },
+    {
+      "term": "Thermoplastic",
+      "definition": "A type of polymer that can be melted and reshaped."
+    },
+    {
+      "term": "Thermosetting plastic",
+      "definition": "A type of polymer that does not melt when heated."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "12",
+    "chapter": "Biotechnology and its Applications",
+    "chapter_number": "34",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:39:15.243404",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let's quickly revise one of the most important NEET concepts\u2014Biotechnology and its Applications.\n\n### Concept: Biotechnology and its Applications\nBiotechnology involves the use of living organisms or bioprocesses in engineering, technology, medicine, and other fields requiring bio-products. It has applications in areas such as agriculture, medicine, and environmental management.\n\n1. Applications in Agriculture:\n   - Bt Cotton: Genetically engineered cotton containing genes from *Bacillus thuringiensis* to produce an insecticidal protein that provides resistance against bollworm.\n   - Pest Resistant Plants: Plants like Bt cotton are developed to be more resistant to certain pests.\n   - Biofortification: Enhances the nutritional quality of food crops. Example: Golden Rice is rich in Vitamin A.\n\n2. Applications in Medicine:\n   - Gene Therapy: A novel approach to treat diseases by correcting defective genes. An example is the treatment of ADA deficiency.\n   - Molecular Diagnosis: Techniques like PCR, ELISA, and recombinant DNA technology are used to detect diseases with high accuracy.\n   - Vaccines: Recombinant DNA technology aids in the development of safe and effective vaccines, like those for Hepatitis B.\n\n3. Environment:\n   - Bioremediation: Use of microorganisms to remove pollutants from the environment.\n   - Biodegradable Plastics: Development of plastics using biological substances that can break down naturally.\n\n4. Ethical Issues:\n   - Debates on the safety of GM crops and concerns about biodiversity and ethical treatment of organisms in biotechnology processes.\n\n#### Key Formula / Ideas\n- Bt Cotton Gene: *Cry* gene from *Bacillus thuringiensis*\n- Vaccine Development: DNA vaccine technology\n- Gene Therapy: Insertion of a gene into a viral vector\n\n#### NEET Question Pattern\n- Questions often focus on applications, such as how Bt cotton works, types of gene therapy, and examples of bioremediation.\n- Diagrams related to PCR and genetic engineering processes are commonly asked.\n\n### Quick Revision Points\n- Biotech uses biological systems in technology, impacting agriculture, medicine, environment.\n- Bt Cotton is pest-resistant due to *Cry* gene.\n- Gene therapy corrects defective genes; significant for ADA deficiency.\n- Ethical concerns include GM crop safety, biodiversity impacts.\n- NEET often features questions on applications and detailed processes like PCR.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Biotechnology",
+    "Bt Cotton",
+    "Biofortification",
+    "Gene Therapy",
+    "Molecular Diagnosis",
+    "Bioremediation",
+    "Vaccines",
+    "Ethical Issues",
+    "Genetically Modified Organisms",
+    "Recombinant DNA technology"
+  ],
+  "formulas": [
+    "Bt Cotton Gene: Cry gene from *Bacillus thuringiensis*",
+    "Gene therapy involves inserting a corrected gene into a viral vector for delivery"
+  ],
+  "definitions": [
+    {
+      "term": "Biotechnology",
+      "definition": "The use of biological processes or organisms for industrial and other applications, especially the genetic manipulation of microorganisms."
+    },
+    {
+      "term": "Bt Cotton",
+      "definition": "Genetically modified cotton that includes a gene from the bacterium *Bacillus thuringiensis* to produce pest-resistant plants."
+    },
+    {
+      "term": "Biofortification",
+      "definition": "The process by which the nutritional quality of food crops is improved through agronomic practices, conventional plant breeding, or modern biotechnology."
+    },
+    {
+      "term": "Gene Therapy",
+      "definition": "A technique that uses genes to treat or prevent disease by inserting a healthy copy of a gene into a patient's cells."
+    },
+    {
+      "term": "Molecular Diagnosis",
+      "definition": "Techniques like PCR and ELISA are used for diagnosing diseases by detecting genetic material or antigens."
+    },
+    {
+      "term": "Bioremediation",
+      "definition": "The use of living microorganisms to degrade environmental pollutants or cleanse contaminated sites."
+    },
+    {
+      "term": "Vaccines",
+      "definition": "Biological preparations that provide immunity to a particular infectious disease, often using a weakened form of the pathogen."
+    },
+    {
+      "term": "Ethical Issues",
+      "definition": "Dilemmas concerning the moral implications and outcomes of biotechnological innovations, such as GM organisms."
+    },
+    {
+      "term": "Genetically Modified Organisms",
+      "definition": "Organisms whose genetic material has been altered using recombinant DNA techniques."
+    },
+    {
+      "term": "Recombinant DNA technology",
+      "definition": "Technology that allows DNA to be recombined from two different sources, a fundamental process in genetic engineering."
+    }
+  ]
+}

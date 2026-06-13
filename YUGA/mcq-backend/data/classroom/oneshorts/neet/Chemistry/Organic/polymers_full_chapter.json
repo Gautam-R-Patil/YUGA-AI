@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "12",
+    "chapter": "Polymers",
+    "chapter_number": "29",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:26:53.081090",
+    "model_used": "gpt-4o",
+    "category": "Organic"
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts: Polymers. \n\nPolymers are macromolecules made by linking many smaller units called monomers. They are crucial both in nature and industry, forming materials like plastics, fibers, and rubbers. Understanding polymers includes knowing their classification, synthesis, and applications.\n\n- Types of Polymers by Origin: \n  - Natural Polymers: Found in nature, like proteins and DNA.\n  - Synthetic Polymers: Man-made, such as nylon and Teflon.\n\n- Types by Polymerization Process:\n  - Addition Polymers: Formed by the repeated addition of monomers without by-products, e.g., Polyethylene.\n  - Condensation Polymers: Formed by the joining of monomers with the elimination of small molecules like water, e.g., Nylon-6,6.\n\n- Classification by Structure:\n  - Linear Polymers: Monomers attach in long straight chains, e.g., Polyvinyl chloride.\n  - Branched Polymers: Have side chains off the main chain, e.g., Low-density polyethylene.\n  - Cross-linked Polymers: Chains interconnected, providing rigidity, e.g., Bakelite.\n\n- Copolymers and Homopolymers:\n  - Homopolymers: Consist of identical monomers, e.g., Polypropylene.\n  - Copolymers: Made from two different monomers, e.g., Buna-S rubber.\n\nExam questions on polymers often focus on classifying polymers, identifying monomers, and recognizing synthesis processes.\n\nQuick revision points:\n1. Polymers are made of repeated units called monomers.\n2. Key polymer types: Natural vs. Synthetic, Addition vs. Condensation.\n3. Structural classification impacts their properties: Linear, Branched, Cross-linked.\n4. Homopolymers use one monomer type, Copolymers use two or more.\n5. Focus on identifying polymer types and processes in NEET exams.",
+  "duration_minutes": "10-12",
+  "difficulty_level": "Intermediate",
+  "images": [],
+  "keywords": [
+    "Polymers",
+    "Monomers",
+    "Natural Polymers",
+    "Synthetic Polymers",
+    "Addition Polymers",
+    "Condensation Polymers",
+    "Copolymers",
+    "Homopolymers",
+    "Linear Polymers",
+    "Cross-linked Polymers"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Polymers",
+      "definition": "Polymers are large molecules composed of repeated subunits called monomers, forming materials with diverse applications."
+    },
+    {
+      "term": "Monomers",
+      "definition": "Monomers are small, simple molecules that bond together to form polymers."
+    },
+    {
+      "term": "Natural Polymers",
+      "definition": "Polymers that occur naturally in the environment, like proteins and cellulose."
+    },
+    {
+      "term": "Synthetic Polymers",
+      "definition": "Human-made polymers, typically produced from petrochemicals like plastics and synthetic fibers."
+    },
+    {
+      "term": "Addition Polymers",
+      "definition": "Polymers formed by the addition reactions of monomers with no by-products."
+    },
+    {
+      "term": "Condensation Polymers",
+      "definition": "Polymers formed through reactions that produce a small by-product, typically water, during polymerization."
+    },
+    {
+      "term": "Copolymers",
+      "definition": "Polymers made from two or more different monomer species."
+    },
+    {
+      "term": "Homopolymers",
+      "definition": "Polymers that consist entirely of one type of monomer."
+    },
+    {
+      "term": "Linear Polymers",
+      "definition": "Polymers with long, straight chains of repeating units."
+    },
+    {
+      "term": "Cross-linked Polymers",
+      "definition": "Polymers where the chains are linked together, forming a network structure that provides rigidity."
+    }
+  ]
+}

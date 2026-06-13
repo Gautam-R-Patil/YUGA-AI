@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Chemistry",
+    "class": "Class_11",
+    "chapter": "Structure of Atom",
+    "chapter_number": 2,
+    "topic": "Atomic Models",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:11:48.110612",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will explore the interesting world of atomic models. These models help us understand how atoms are structured. Let's start with Thomson's plum pudding model. \n\nThomson imagined the atom as a big sphere. This sphere was positively charged. Inside it, there were tiny negatively charged particles. These are called electrons. Imagine a pudding with plums in it. The pudding is the positive charge, and the plums are electrons. This model was simple but did not explain everything about atoms.\n\nNext, we have Rutherford's nuclear model. Rutherford conducted the famous alpha particle scattering experiment. He shot tiny particles, called alpha particles, at a thin gold foil. Most particles passed through, but some bounced back. This showed that atoms have a small, dense center. This center is called the nucleus. The nucleus is positive and contains most of the atom's mass. Electrons move around this nucleus, like planets around the sun.\n\nNow, let's talk about Bohr's model of the hydrogen atom. Bohr said electrons move in fixed paths called orbits. These orbits are like steps on a ladder. Electrons can jump from one orbit to another. When they jump down, they release energy as light. Bohr's model explained the hydrogen atom well. But it did not work for more complex atoms.\n\nFinally, let's see the limitations of Bohr's model. It only worked for hydrogen. It did not explain why some lines in the spectrum were brighter. It also could not explain the behavior of electrons in atoms with more than one electron.\n\nHere are some key points to remember: Thomson's model was like a pudding, Rutherford found the nucleus, and Bohr explained electron orbits. Remember, the nucleus is tiny but very important.\n\nIn summary, atomic models have helped us understand atoms better. Each model brought us closer to the real structure of atoms. Keep these ideas in mind as they are often asked in NEET exams. If you have any questions, feel free to ask!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Thomson's Model",
+    "Rutherford's Experiment",
+    "Bohr's Model",
+    "Nucleus",
+    "Electron Orbits"
+  ],
+  "formulas": [
+    {
+      "formula": "E = hf",
+      "description": "Energy of light emitted when an electron jumps between orbits"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Electron",
+      "definition": "A tiny, negatively charged particle in an atom"
+    },
+    {
+      "term": "Nucleus",
+      "definition": "The small, dense center of an atom containing protons and neutrons"
+    },
+    {
+      "term": "Alpha Particle",
+      "definition": "A type of particle used in Rutherford's experiment, consisting of two protons and two neutrons"
+    },
+    {
+      "term": "Orbit",
+      "definition": "A fixed path around the nucleus where electrons move in Bohr's model"
+    }
+  ]
+}

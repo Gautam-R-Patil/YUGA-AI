@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "11",
+    "chapter": "Mineral Nutrition",
+    "chapter_number": "12",
+    "topic": "Full Chapter",
+    "exam_type": "NEET",
+    "generated_at": "2026-03-18T13:31:44.488943",
+    "model_used": "gpt-4o",
+    "category": null
+  },
+  "lecture_script": "Let\u2019s quickly revise one of the most important NEET concepts from Mineral Nutrition. \n\nPlants require various minerals for growth and development. These minerals are absorbed from the soil and are essential for metabolic processes. Minerals are classified into macronutrients and micronutrients based on the required quantity. \n\nKey Points:\n1. Essential Nutrients: These are elements required by plants to complete their life cycle. They are divided into macronutrients like nitrogen, phosphorus, potassium, and micronutrients like iron, manganese, zinc, etc.\n2. Criteria of Essentiality: An element is deemed essential if it directly affects a plant's growth and reproduction and if no other element can replace it.\n3. Role of Nutrients in Plants: \n   - Nitrogen: Vital for amino acids, proteins, and chlorophyll synthesis.\n   - Phosphorus: Important for ATP, nucleic acids, and phospholipids.\n4. Symptoms of Deficiency: Deficiency can cause yellowing of leaves, stunted growth, and poor fruit development.\n5. Absorption of Nutrients: Primarily through roots, involving ion exchange and active transport.\n6. Biological Nitrogen Fixation: The conversion of atmospheric nitrogen into ammonia by microorganisms and symbiotic bacteria like Rhizobium.\n\nNEET Questions Pattern: \n- Direct questions on the role of specific minerals.\n- Connection between deficiency symptoms and specific nutrient requirements.\n- Application-based questions on biological nitrogen fixation processes.\n\nQuick Revision Points:\n1. Major nutrients are categorized based on necessity and quantity.\n2. Essential nutrients fulfill specific metabolic roles.\n3. Symptoms of deficiencies are crucial indicators.\n4. Biological nitrogen fixation is a major nitrogen source for plants.\n5. Understanding ion absorption mechanisms is key for NEET.\n\nStay focused on these key points and remember to practice sample questions for perfection!",
+  "duration_minutes": "10",
+  "difficulty_level": "Medium",
+  "images": [],
+  "keywords": [
+    "Essential Nutrients",
+    "Criteria of Essentiality",
+    "Nutrient Role",
+    "Deficiency Symptoms",
+    "Absorption of Nutrients",
+    "Biological Nitrogen Fixation",
+    "Macronutrients",
+    "Micronutrients",
+    "Nitrogen",
+    "Phosphorus"
+  ],
+  "formulas": [],
+  "definitions": [
+    {
+      "term": "Essential Nutrients",
+      "definition": "Elements required by plants to complete their lifecycle, classified into macronutrients and micronutrients based on the quantity needed."
+    },
+    {
+      "term": "Criteria of Essentiality",
+      "definition": "An element is essential if it is needed for growth and cannot be replaced, being directly involved in plant metabolism."
+    },
+    {
+      "term": "Nutrient Role",
+      "definition": "Specific functions of nutrients in plant metabolic processes, such as enzyme function and structure."
+    },
+    {
+      "term": "Deficiency Symptoms",
+      "definition": "Visible signs in plants caused by a lack of specific nutrients, like chlorosis or stunted growth."
+    },
+    {
+      "term": "Absorption of Nutrients",
+      "definition": "The process by which plant roots take up minerals from the soil, primarily through ion exchange and active transport mechanisms."
+    },
+    {
+      "term": "Biological Nitrogen Fixation",
+      "definition": "The conversion of atmospheric nitrogen into ammonia by microorganisms, enabling plant utilization."
+    },
+    {
+      "term": "Macronutrients",
+      "definition": "Nutrients required in larger quantities for plant growth, such as nitrogen, phosphorus, and potassium."
+    },
+    {
+      "term": "Micronutrients",
+      "definition": "Nutrients needed in trace amounts, essential for plant growth, such as iron, manganese, and zinc."
+    },
+    {
+      "term": "Nitrogen",
+      "definition": "A macronutrient vital for synthesizing amino acids, proteins, and chlorophyll in plants."
+    },
+    {
+      "term": "Phosphorus",
+      "definition": "A macronutrient required for the formation of ATP, nucleic acids, and phospholipids."
+    }
+  ]
+}

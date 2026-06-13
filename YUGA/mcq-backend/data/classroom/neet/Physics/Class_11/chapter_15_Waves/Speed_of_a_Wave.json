@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Waves",
+    "chapter_number": 15,
+    "topic": "Speed of a Wave",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T10:05:07.609661",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will learn about the speed of a wave. Waves are everywhere. You see them in water, sound, and light. But how fast do they move? Let's find out!\n\nFirst, let's talk about what affects the speed of a wave. The speed of a wave depends on the medium. A medium is the material through which the wave travels. For example, sound waves travel through air, water, or solids. The speed changes with the medium.\n\nOne factor is the density of the medium. Density means how much mass is packed in a space. Waves move slower in denser mediums. For example, sound travels slower in water than in air.\n\nAnother factor is the tension in the medium. Tension is like a tight pull. Think of a tight guitar string. Waves move faster on a tight string than a loose one.\n\nNow, let's look at examples of wave speed in different media. In air, sound travels at about 343 meters per second. In water, it travels faster, about 1500 meters per second. Light moves much faster, about 300,000 kilometers per second in a vacuum. Remember, light slows down in other media like glass or water.\n\nEngineers use wave speed in many ways. For example, they design buildings to withstand earthquakes. Earthquake waves travel fast through the ground. Knowing the speed helps engineers build safer structures.\n\nLet's solve a simple problem. If a wave travels 300 meters in 2 seconds, what is its speed? Use the formula: Speed = Distance / Time. So, Speed = 300 meters / 2 seconds = 150 meters per second.\n\nA common mistake is confusing wave speed with frequency. Frequency is how often waves pass a point per second. Speed is how fast the wave moves through the medium.\n\nWe can also show wave speed with graphs. A distance-time graph can help us see how fast a wave travels. The steeper the line, the faster the wave.\n\nTo sum up, the speed of a wave depends on the medium. It is important in many fields, like engineering. Remember the formula: Speed = Distance / Time. Practice solving problems to get better.\n\nThat's all for today. Keep practicing and see you next time!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Wave Speed",
+    "Medium",
+    "Density",
+    "Tension",
+    "Frequency"
+  ],
+  "formulas": [
+    {
+      "formula": "Speed = Distance / Time",
+      "description": "This formula calculates the speed of a wave by dividing the distance it travels by the time it takes."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Medium",
+      "definition": "The material through which a wave travels."
+    },
+    {
+      "term": "Density",
+      "definition": "The amount of mass in a given space."
+    },
+    {
+      "term": "Tension",
+      "definition": "A force that pulls tightly."
+    },
+    {
+      "term": "Frequency",
+      "definition": "The number of waves passing a point per second."
+    }
+  ]
+}

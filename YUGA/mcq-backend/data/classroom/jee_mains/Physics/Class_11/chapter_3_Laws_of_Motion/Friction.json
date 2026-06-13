@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "subject": "Physics",
+    "class": "Class_11",
+    "chapter": "Laws of Motion",
+    "chapter_number": 3,
+    "topic": "Friction",
+    "exam_type": "JEE Main",
+    "generated_at": "2026-02-06T09:47:53.333552",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello students! Today, we will talk about friction. Friction is a force that stops things from sliding. It acts between two surfaces in contact. Let's start with static and kinetic friction. Static friction keeps an object at rest. It prevents it from moving. Kinetic friction acts when an object is sliding. It opposes the motion. Static friction is usually stronger than kinetic friction. \n\nNow, let's discuss the laws of friction. The first law says friction is directly proportional to the normal force. The normal force is the force perpendicular to the surfaces. The second law tells us that friction does not depend on the area of contact. Finally, the third law states that static friction can vary. It changes up to a maximum value. \n\nNext, we talk about the coefficient of friction. It is a number that shows how much friction a surface has. The symbol is usually μ (mu). There are two types: μs for static friction and μk for kinetic friction. The formula for friction is F = μN, where F is the friction force and N is the normal force. In JEE Main, you often use this formula to find the friction force. \n\nLet's move to the angle of repose. This is the steepest angle at which an object can rest on a slope without sliding. It is related to friction. The formula is tan θ = μs, where θ is the angle of repose. This formula helps in problems with inclined planes. \n\nFriction has many applications. It helps us walk without slipping. It allows cars to move and stop. But sometimes, we want to reduce friction. We use lubricants like oil and grease for this. Reducing friction saves energy and reduces wear and tear. \n\nNow, let's talk about rolling friction. This occurs when an object rolls over a surface. It is usually less than sliding friction. That's why wheels are used in vehicles. They make movement easier. \n\nLet's solve a simple problem. A box of mass 10 kg is on a flat surface. The coefficient of static friction is 0.5. What is the maximum static friction? First, find the normal force. It is N = mg = 10 kg × 9.8 m/s² = 98 N. Then, use the formula F = μN. So, F = 0.5 × 98 N = 49 N. The maximum static friction is 49 N. \n\nBe careful with common mistakes. One mistake is confusing static and kinetic friction. Remember, static friction is before motion starts. Kinetic friction is during motion. Another mistake is using the wrong coefficient. Check if you need μs or μk. \n\nKey takeaways: Friction is important in everyday life and in exams. Remember the formulas F = μN and tan θ = μs. Practice problems to understand better. \n\nIn summary, friction is a force that opposes motion. It has static and kinetic types. We use the coefficient of friction in formulas. The angle of repose helps with inclined plane problems. Friction has many uses, but we often need to reduce it. Rolling friction makes movement easier. Always check your formulas and units in calculations.",
+  "duration_minutes": "6-9",
+  "difficulty_level": "easy",
+  "exam_focus": "JEE Main",
+  "images": [],
+  "keywords": [
+    "Friction",
+    "Static Friction",
+    "Kinetic Friction",
+    "Coefficient of Friction",
+    "Angle of Repose"
+  ],
+  "formulas": [
+    {
+      "formula": "F = μN",
+      "description": "Used to calculate friction force, where F is friction, μ is coefficient, and N is normal force"
+    },
+    {
+      "formula": "tan θ = μs",
+      "description": "Used to find the angle of repose, where θ is the angle and μs is the static friction coefficient"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Friction",
+      "definition": "A force that opposes the relative motion of two surfaces in contact"
+    },
+    {
+      "term": "Static Friction",
+      "definition": "The friction that keeps an object at rest and prevents it from moving"
+    },
+    {
+      "term": "Kinetic Friction",
+      "definition": "The friction acting on an object that is sliding"
+    },
+    {
+      "term": "Coefficient of Friction",
+      "definition": "A number that represents the degree of friction between two surfaces"
+    },
+    {
+      "term": "Angle of Repose",
+      "definition": "The steepest angle at which an object can rest on a slope without sliding"
+    }
+  ]
+}

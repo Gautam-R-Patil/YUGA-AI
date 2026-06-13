@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "subject": "Biology",
+    "class": "Class_12",
+    "chapter": "Environmental Issues",
+    "chapter_number": 16,
+    "topic": "Global Environmental Changes",
+    "exam_type": "NEET",
+    "generated_at": "2026-01-30T09:46:34.001411",
+    "model_used": "gpt-4o"
+  },
+  "lecture_script": "Hello, students! Today, we will talk about global environmental changes. This topic is important for NEET and our planet. Let's start with global warming and the greenhouse effect. \n\nGlobal warming means Earth's temperature is rising. Why is this happening? It's because of the greenhouse effect. The greenhouse effect is when gases in the air trap heat from the sun. These gases are called greenhouse gases. Common greenhouse gases are carbon dioxide (CO2), methane (CH4), and water vapor. They act like a blanket around Earth. This blanket keeps the Earth warm. Without it, Earth would be too cold for us. \n\nBut too many greenhouse gases make the Earth too hot. This is global warming. If the Earth gets too hot, ice melts, and sea levels rise. This can cause floods. \n\nQuick check: If greenhouse gases increase, then Earth's temperature rises. \n\nNow, let's talk about ozone depletion. The ozone layer is a layer in Earth's atmosphere. It protects us from the sun's harmful rays. But some chemicals, like CFCs, damage the ozone layer. When this layer gets thin, we call it the ozone hole. The ozone hole lets harmful rays reach Earth. These rays can cause skin cancer and harm plants. \n\nNext, deforestation is cutting down trees. Trees help us by taking in CO2 and giving out oxygen. When we cut trees, CO2 levels rise. This adds to global warming. Also, animals lose their homes. \n\nA key term here is carbon footprint. It means the total CO2 we produce. We can reduce our carbon footprint by using less energy and planting trees. \n\nCommon mistake: Some students think the ozone hole causes global warming. This is not true. They are different problems. \n\nLet's remember the key points: Greenhouse gases trap heat. Ozone layer protects us from harmful rays. Deforestation increases CO2. \n\nIn summary, global warming, ozone depletion, and deforestation are big issues. We must understand and solve them. This is important for NEET and our future. \n\nKeep these points in mind for your NEET exam. Thank you for listening!",
+  "duration_minutes": 6,
+  "difficulty_level": "easy",
+  "images": [],
+  "keywords": [
+    "Global Warming",
+    "Greenhouse Effect",
+    "Ozone Depletion",
+    "Deforestation",
+    "Carbon Footprint"
+  ],
+  "formulas": [
+    {
+      "formula": "CO2 + H2O + sunlight → glucose + O2",
+      "description": "This is the photosynthesis equation showing how plants use CO2, water, and sunlight to make glucose and oxygen."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Greenhouse gases",
+      "definition": "Gases that trap heat in the atmosphere, like CO2 and methane."
+    },
+    {
+      "term": "Ozone hole",
+      "definition": "A thin area in the ozone layer allowing more harmful rays to reach Earth."
+    },
+    {
+      "term": "Carbon footprint",
+      "definition": "The total amount of CO2 emissions produced by an individual or group."
+    }
+  ]
+}
